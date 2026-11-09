@@ -123,7 +123,7 @@ body.has-bar{padding-bottom:92px}
 #tx>.rd-warm{height:0;overflow:hidden}   /* one being laid out at the column's width, clipped out of sight (no inherited property: showing it later restyles nothing) */
 #tx .turn{margin-bottom:1.6em}#tx .ff-who{gap:.75em;margin-bottom:.35em;font-size:.76em;font-weight:600}#tx .ff-ts{font-weight:500}
 #tx .s-unk{--name:var(--t2)}#tx .r-narrator .ff-p,#tx .w.ev{color:var(--t2)}
-#tx .w.now{color:var(--t1)}.loading{color:var(--t2);font-style:italic;font-size:19px}
+#tx .w.now{color:var(--t1)}
 #tx .trk{margin:2.8em 0 1.3em;padding-top:1.2em;border-top:1px solid var(--rule);font:inherit}#tx .ff-tx>.trk:first-child{margin-top:.4em;padding-top:0;border-top:0}
 .trk a{display:block;text-decoration:none}
 .trk .no{display:block;margin-bottom:6px;font:600 12px/1.2 var(--disp);letter-spacing:.08em;color:var(--acc2);font-variant-numeric:tabular-nums}
@@ -788,8 +788,8 @@ async function renderSearch(q) {
   document.title = (q ? `“${bare}” · ` : "") + "Search · FUS Forward Records";
   const tries = `<p class="muted tries">Every word of all ${S.eps.length} episodes. Try ${["skull", "auditory confound", "amygdala", "Langevin", "narwhal"].map(x => `<button type="button" data-try="${x}">${x}</button>`).join(", ")}.</p>`;
   if (!q) { box.innerHTML = tries; $("#sLive").textContent = ""; return; }   // no stale count for a screen reader
-  if (!S.idx) { box.innerHTML = `<p class="sm">Opening the search…</p>`;
-    try { await ensureRows(); } catch (e) { if (my === sTok) box.innerHTML = `<p class="sm" role="alert">The search index could not be downloaded. Check your connection and try again.</p><p><button type="button" class="showall" data-retry>Try again</button></p>`; return; }
+  if (!S.idx) { box.innerHTML = ""; FFW.busy(true);   // the index downloads once, on the first search: the top bar, no message
+    try { await ensureRows(); FFW.busy(false); } catch (e) { FFW.busy(false); if (my === sTok) box.innerHTML = `<p class="sm" role="alert">The search index could not be downloaded. Check your connection and try again.</p><p><button type="button" class="showall" data-retry>Try again</button></p>`; return; }
     if (my !== sTok) return; }
   const res = await findAll(q, () => my !== sTok); if (!res || my !== sTok) return;
   const { hits, mode, cut } = res, by = new Map();
@@ -1100,16 +1100,17 @@ async function onRoute(how) {                         // how: the hashchange eve
   pills();
 }
 async function openEpisode(r, st, my) {
-  show("vEp");
-  if (!S.view || S.view.n !== r.n) {                 // a slow file: say which episode is coming, in the tab too, and keep focus on the view
-    $("#vEp").innerHTML = `<div class="col"><p class="tx loading" style="margin-top:80px" tabindex="-1" role="status">Opening ${cat(r.n)}…</p></div>`; S.view = null;
-    document.title = `Loading ${cat(r.n)}… · FUS Forward Records`;
-    if (focusOK && document.activeElement !== $("#q")) $("#vEp .loading").focus({ preventScroll: true });
-  }
+  // Another episode: the page on screen stays until it is ready (a thin bar shows if that takes a moment), so there is
+  // no "loading" page in between. The episode already on screen: straight there.
+  const fresh = !S.view || S.view.n !== r.n;
+  if (fresh) FFW.busy(true); else show("vEp");
   let V; try { V = await getView(r.n); } catch (e) {     // offline or a missing file: say so, and let the reader try again
-    if (my === rSeq) { S.view = null; document.title = `Could not open ${cat(r.n)} · FUS Forward Records`; $("#vEp").innerHTML = `<div class="col"><div style="margin:80px 0 120px"><h1 tabindex="-1">Could not open ${cat(r.n)}</h1><p class="muted" role="alert">Its transcript could not be downloaded. Check your connection and try again.</p><p><button type="button" class="showall" data-retry>Try again</button></p></div></div>`; focusH("vEp"); }
+    if (fresh) FFW.busy(false);
+    if (my === rSeq) { show("vEp"); S.view = null; document.title = `Could not open ${cat(r.n)} · FUS Forward Records`; $("#vEp").innerHTML = `<div class="col"><div style="margin:80px 0 120px"><h1 tabindex="-1">Could not open ${cat(r.n)}</h1><p class="muted" role="alert">Its transcript could not be downloaded. Check your connection and try again.</p><p><button type="button" class="showall" data-retry>Try again</button></p></div></div>`; focusH("vEp"); }
     return; }
+  if (fresh) FFW.busy(false);
   if (my !== rSeq) return;
+  show("vEp");
   if (S.view !== V) renderEpisode(V); else layoutTT();
   document.title = `${cat(V.n)} ${headline(V.meta)} · FUS Forward Records`;
   const pend = S.pending && S.pending.n === V.n ? S.pending : null; S.pending = null;

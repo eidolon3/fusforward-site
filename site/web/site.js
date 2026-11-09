@@ -76,7 +76,15 @@
     });
     return { say(f) { say = f; } };
   }
-  window.FFW = { get, set, art, setArt, fail, watchAudio };
+  // While something slow loads: a thin bar across the top, shown only if it takes more than 150 ms (so a quick
+  // load shows nothing at all). busy(true) when it starts, busy(false) when it ends; calls can overlap.
+  let busyN = 0, busyT = 0, bar = null;
+  function busy(on) {
+    if (!bar) { bar = document.createElement("div"); bar.className = "ffw-bar"; bar.setAttribute("aria-hidden", "true"); document.body.appendChild(bar); }
+    busyN = Math.max(0, busyN + (on ? 1 : -1)); clearTimeout(busyT);
+    if (busyN) busyT = setTimeout(() => bar.classList.add("on"), 150); else bar.classList.remove("on");
+  }
+  window.FFW = { get, set, art, setArt, fail, watchAudio, busy };
 
   const root = document.documentElement, btn = document.getElementById("theme"), page = document.body.dataset.page;
   function applyTheme(t) {

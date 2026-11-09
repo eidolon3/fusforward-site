@@ -1059,8 +1059,9 @@ function cues(V) {
 const stamp = (s, sep) => { const ms = Math.round(s * 1000); return [Math.floor(ms / 36e5), Math.floor(ms / 6e4) % 60, Math.floor(ms / 1000) % 60].map(x => String(x).padStart(2, "0")).join(":") + sep + String(ms % 1000).padStart(3, "0"); };
 function exportText(V, kind) {
   const { ep, meta, n } = V;
-  if (kind === "txt") return `FUS Forward · Episode ${n} · ${meta.full_title}\n${artist(meta)}${meta.affiliation ? " · " + meta.affiliation : ""}\nReleased ${dateFmt(meta.date, { day: "numeric", month: "long", year: "numeric" })} · ${FF.fmt(V.dur)} · ${meta.link}\nUnofficial, machine-generated transcript. Words may be misheard.\n\n` +
-    ep.turns.map(t => `[${FF.fmt(t.s)}] ${disp(t.who)}: ${ep.words.slice(t.w0, t.w1).map(w => w.w).join(" ")}`).join("\n\n") + "\n";
+  if (kind === "txt") return `FUS Forward · Episode ${n} · ${meta.full_title}\n${artist(meta)}${meta.affiliation ? " · " + meta.affiliation : ""}\nReleased ${dateFmt(meta.date, { day: "numeric", month: "long", year: "numeric" })} · ${FF.fmt(V.dur)} · ${meta.link}\nUnofficial, machine-generated transcript. Words may be misheard.\n` +
+    (S.clean ? "Clean read: fillers, stutters and false starts hidden; no word changed. Turn Verbatim on for every word.\n\n" + FF.cleanText(ep, { name: disp })
+      : "Verbatim: every word as said.\n\n" + ep.turns.map(t => `[${FF.fmt(t.s)}] ${disp(t.who)}: ${ep.words.slice(t.w0, t.w1).map(w => w.w).join(" ")}`).join("\n\n") + "\n");
   const C = cues(V), x = s => s.replace(/&/g, "&amp;").replace(/</g, "&lt;");
   if (kind === "vtt") return `WEBVTT - FUS Forward ${cat(n)} ${meta.full_title.replace(/-->/g, "")} (unofficial machine transcript)\n\n` + C.map((c, i) => `${i + 1}\n${stamp(c.s, ".")} --> ${stamp(c.e, ".")}\n<v ${x(disp(c.who))}>${x(c.text)}`).join("\n\n") + "\n";
   return C.map((c, i) => `${i + 1}\n${stamp(c.s, ",")} --> ${stamp(c.e, ",")}\n${c.first ? disp(c.who) + ": " : ""}${c.text}`).join("\n\n") + "\n";
@@ -1068,7 +1069,7 @@ function exportText(V, kind) {
 function download(kind) {
   const V = S.view; if (!V) return; if (kind === "print") return print();
   const sl = slug(headline(V.meta)), blob = new Blob([exportText(V, kind)], { type: kind === "vtt" ? "text/vtt" : kind === "srt" ? "application/x-subrip" : "text/plain" });
-  const a = document.createElement("a"); a.href = URL.createObjectURL(blob); a.download = `fusforward-ep${pad(V.n)}-${sl}.${kind}`; document.body.appendChild(a); a.click(); a.remove(); setTimeout(() => URL.revokeObjectURL(a.href), 4000);
+  const a = document.createElement("a"); a.href = URL.createObjectURL(blob); a.download = `fusforward-ep${pad(V.n)}-${sl}${kind === "txt" && !S.clean ? "-verbatim" : ""}.${kind}`; document.body.appendChild(a); a.click(); a.remove(); setTimeout(() => URL.revokeObjectURL(a.href), 4000);
 }
 
 /* ---------- routing ---------- */

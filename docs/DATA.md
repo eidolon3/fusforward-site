@@ -41,9 +41,16 @@ for t in m["turns"]:
     print(f'{t["s"]:7.1f}  {m["speakers"][t["p"]]}: {words}')
 ```
 
+### `out/clean-text/NN.md`
+
+The clean read as Markdown, the easiest version to read or reuse: fillers, stutters, false starts and short
+interjections ("Mm-hmm") hidden, no word changed or added, one block per speaker in paragraphs, as the episode page
+shows it (and as its "Plain text" download gives it). Uncertain words end in `[?]`. Written by
+`scripts/build_site_data.py` with the site data.
+
 ### `out/text/NN.md`, `out/vtt/NN.vtt`, `out/srt/NN.srt`
 
-The same transcript as Markdown (one paragraph per turn, `**[hh:mm:ss] Speaker:**`; uncertain words end in `[?]`),
+The verbatim transcript as Markdown (one paragraph per turn, `**[hh:mm:ss] Speaker:**`; uncertain words end in `[?]`),
 WebVTT captions (speaker in a `<v Name>` tag) and SRT subtitles (speaker name before a turn's first cue). The cues
 follow the same rules as the site's caption download. Drop the VTT or SRT into a video editor or YouTube.
 

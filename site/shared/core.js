@@ -181,6 +181,29 @@
       el.innerHTML = `<div class="ff-tx${clean ? " ff-clean" : ""}">${html.join("")}</div>`;
     },
 
+    /** The clean read as plain text, laid out as renderReadable lays it out: a block per speaker, paragraphs of
+     *  about paraWords words, folded interjections left out. The site's text download; scripts/build_site_data.py
+     *  (clean_text) writes the same text to out/clean-text/. Change the three together. */
+    cleanText(ep, { paraWords = 80, name = w => w } = {}) {
+      const out = []; let block = null, cur = null;
+      const flush = () => { if (cur && cur.ws.length) block.paras.push(cur.ws.join(" ")); cur = null; };
+      const close = () => { flush(); if (block) out.push(`[${FF.fmt(block.s)}] ${name(block.who)}: ${block.paras.join("\n\n")}`); block = null; };
+      ep.turns.forEach((t, idx) => {
+        const ws = ep.words.slice(t.w0, t.w1).filter(w => !w.cut);
+        if (!ws.length || (ws.length <= 3 && idx > 0)) return;   // nothing shown, or a folded interjection
+        if (block && block.who === t.who) { if (cur && cur.end && cur.n >= paraWords * 0.7) flush(); }
+        else { close(); block = { who: t.who, s: t.s, paras: [] }; }
+        for (const w of ws) {
+          const x = w.ct ? w.ct : w.w;
+          if (!cur) cur = { ws: [], n: 0, end: false };
+          cur.ws.push(x + (w.unc ? " [?]" : "")); cur.n++; cur.end = /[.?!…]["”’)]*$/.test(x);
+          if ((cur.end && cur.n >= paraWords * 0.7) || cur.n >= paraWords * 1.6) flush();
+        }
+      });
+      close();
+      return out.join("\n\n") + "\n";
+    },
+
     bindTranscript(el, player, { spans: known } = {}) {
       if (el._ffUnbind) el._ffUnbind();  // binding the same element again replaces the old binding
       const spans = known || [];         // known: el's word spans by index, if the caller already has them

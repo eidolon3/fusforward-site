@@ -31,7 +31,8 @@ from wordfreq import zipf_frequency
 import clean_read
 import site_xref
 from build_terms import read
-from common import HOSTS, NARRATOR, ROOT, hidden as hidden_eps, load_json, rel
+import common
+from common import FOLD_MAX, HOSTS, NARRATOR, ROOT, hidden as hidden_eps, load_json, rel
 
 SITE = ROOT / "site" / "data"
 ART = ROOT / "site" / "assets" / "ep"
@@ -142,8 +143,58 @@ def read_js(path, name):
     return json.JSONDecoder().raw_decode(t, m.end())[0]
 
 
+CLEAN_TEXT = ROOT / "out" / "clean-text"
+
+
+def clean_text(ep, m, hide, shown):
+    """The clean read as Markdown, laid out as FF.renderReadable (site/shared/core.js) lays it out with clean on: a block
+    per speaker, paragraphs of about PARA_WORDS words broken at sentence ends, folded interjections ("Mm-hmm") left out.
+    FF.cleanText makes the same text for the site's download; change the three together."""
+    W, names, pw = m["words"], m["speakers"], clean_read.PARA_WORDS
+    md = [f"# {ep['title']}", "", f"{ep['date']} · {', '.join(names)}", "",
+          "Clean read: fillers, stutters, false starts and short interjections are hidden; no word is changed or added. "
+          f"Every word as said: out/text/{m['n']:02d}.md. [?] marks words the model was unsure of.", ""]
+    block, cur = None, None   # block: [who, start, paragraphs]; cur: [words, count, ends a sentence]
+
+    def flush():
+        nonlocal cur
+        if cur and cur[0]:
+            block[2].append(" ".join(cur[0]))
+        cur = None
+
+    def close():
+        nonlocal block
+        flush()
+        if block:
+            md.extend([f"**[{common.hms(block[1])[:8]}] {block[0]}:** " + "\n\n".join(block[2]), ""])
+        block = None
+
+    for k, t in enumerate(m["turns"]):
+        vis = [i for i in range(t["w0"], t["w1"]) if i not in hide]
+        if not vis or (len(vis) <= FOLD_MAX and k > 0):   # nothing shown, or a folded interjection
+            continue
+        who = names[t["p"]]
+        if block and block[0] == who:   # the same speaker after a folded interjection: the same block
+            if cur and cur[2] and cur[1] >= pw * .7:
+                flush()
+        else:
+            close()
+            block = [who, t["s"], []]
+        for i in vis:
+            if cur is None:
+                cur = [[], 0, False]
+            cur[0].append(shown[i] + (" [?]" if W[i].get("u") else ""))
+            cur[1] += 1
+            cur[2] = bool(clean_read.PARA_END.search(shown[i]))
+            if (cur[2] and cur[1] >= pw * .7) or cur[1] >= pw * 1.6:
+                flush()
+    close()
+    return "\n".join(md)
+
+
 def columns(n, m):
-    """Episode n's ep/NN.js object (without x), with the clean read applied (scripts/clean_read.py)."""
+    """Episode n's ep/NN.js object (without x), with the clean read applied (scripts/clean_read.py); writes the clean
+    read as text too (out/clean-text/NN.md)."""
     W = m["words"]
     hide, strip = {}, set()
     for t in m["turns"]:
@@ -155,6 +206,9 @@ def columns(n, m):
     for i, x in shown.items():
         if not x.strip():
             hide[i] = "empty"   # nothing left to show (a lone "-"): hidden, as the quotes already treat it
+    CLEAN_TEXT.mkdir(parents=True, exist_ok=True)
+    with open(CLEAN_TEXT / f"{n:02d}.md", "w", encoding="utf-8", newline="\n") as fh:
+        fh.write(clean_text(feed_entry(n), m, hide, shown))
     flags = [(1 if w.get("u") else 0) | (2 if w.get("x") else 0) | (4 if i in hide else 0) for i, w in enumerate(W)]
     cs, ce = [round(w["s"] * 100) for w in W], [round(w["e"] * 100) for w in W]
     # The page rebuilds each time as a running sum / 100, which gives back exactly the same number.
@@ -168,6 +222,11 @@ def columns(n, m):
         "wp": "".join("0123456789abcdefghijklmnopqrstuvwxyz"[w["p"]] for w in W), "wf": "".join(map(str, flags)),
         "turns": [[t["p"], t["s"], t["e"], t["w0"], t["w1"]] for t in m["turns"]],
         "c": {i: x for i, x in shown.items() if x != W[i]["w"] and i not in hide}}
+
+
+def feed_entry(n):
+    """Episode n's data/episodes.json entry (its title and date head the clean text)."""
+    return next(e for e in common.episodes() if e["n"] == n)
 
 
 def entry(ep, m, guests, affiliation):

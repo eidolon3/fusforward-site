@@ -9,7 +9,8 @@ read-through, speakers checked against voiceprints of the hosts. They are unoffi
 
 - **The website** is plain static files in `site/`: no server, no build step, no tracking. Open it locally or
   put it on any web host.
-- **The transcripts** are in `out/` as JSON (every word with its time and speaker), Markdown, VTT and SRT.
+- **The transcripts** are in `out/` as JSON (every word with its time and speaker), clean readable text
+  (`out/clean-text/`, without the ums and false starts), verbatim Markdown, and VTT/SRT captions.
   Use them for anything: show notes, clips, captions, search, another website. See [docs/DATA.md](docs/DATA.md).
 - **The pipeline** in `scripts/` turns a new episode into a transcript and updates the site with one command.
 
@@ -78,7 +79,8 @@ The site is these folders, kept side by side: `site/web/`, `site/shared/`, `site
 site/            the website (web/ pages, shared/ code, data/ built data, assets/ artwork)
 scripts/         the pipeline, one script per step; add_episode.py runs them in order
 data/            hand-kept inputs: guests, affiliations, transcript corrections, key terms, voiceprints
-out/             the transcripts: episodes/ (master JSON), text/ (Markdown), vtt/, srt/, raw/ and speakers/ (inputs to rebuild)
+out/             the transcripts: clean-text/ (clean, readable), text/ (verbatim), vtt/ and srt/ (captions),
+                 episodes/ (master JSON), raw/ and speakers/ (inputs to rebuild)
 docs/DATA.md     every file format, for using the transcripts elsewhere
 CLAUDE.md        the full guide, for Claude Code and for people
 ```

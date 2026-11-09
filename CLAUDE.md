@@ -82,7 +82,8 @@ data/                    HAND-KEPT INPUTS (edit these)
 
 out/                     THE TRANSCRIPTS
   episodes/NN.json       the master transcript (every word: text, start, end, speaker, confidence, flags)
-  text/NN.md  vtt/NN.vtt  srt/NN.srt   readable, caption and subtitle copies of the master
+  text/NN.md  vtt/NN.vtt  srt/NN.srt   verbatim readable, caption and subtitle copies of the master
+  clean-text/NN.md       the clean read as text, exactly as the site shows it (written by build_site_data.py)
   raw/NN.json            ElevenLabs' untouched response (kept so nothing ever needs re-transcribing)
   speakers/NN.json       name_speakers' result; NN_emb2.npz are its voice caches (about 1 MB each, committed)
   flags/, clean/, reports/  working files (not committed; rebuilt by the scripts)

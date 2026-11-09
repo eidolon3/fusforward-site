@@ -1,0 +1,315 @@
+{
+ "_note": "Claude's review of out/flags/16.json. 'fix' may only swap a flagged span for a listed term; 'uncertain' words are marked in the output, not changed (by raw word index 'i', or by text anchor 'near_s' + 'text'). Every other flag was checked and kept as transcribed. 'replace' (word corrections) and the text-anchored 'uncertain' entries come from a read-through audit of the transcripts; they are text-based, not checked against the audio: high-confidence corrections are applied, medium ones that need the audio are only marked uncertain. 'speaker' entries are reviewed speaker corrections from the same audit, applied after the voice naming.",
+ "fix": [
+  {
+   "i": 5785,
+   "k": 2,
+   "from": "supersonic imaging",
+   "to": "SuperSonic Imagine",
+   "why": "the company ('collaborated with ... was interested in building')"
+  },
+  {
+   "i": 11549,
+   "k": 1,
+   "from": "iTrust",
+   "to": "ITRUSST",
+   "why": "the consortium, said as a word"
+  },
+  {
+   "i": 12106,
+   "k": 1,
+   "from": "iTrust",
+   "to": "ITRUSST",
+   "why": "the consortium, said as a word"
+  },
+  {
+   "i": 1573,
+   "k": 2,
+   "from": "Oleg Shaposhnikov",
+   "to": "Oleg Sapozhnikov",
+   "why": "Moscow State acoustician, named with Vera Khokhlova; same sound, different surname"
+  }
+ ],
+ "replace": [
+  {
+   "near_s": 1861.3,
+   "from": "transfer metrics",
+   "to": "transfer matrix",
+   "why": "next sentence is about matrices"
+  },
+  {
+   "near_s": 4407.36,
+   "from": "Geoff",
+   "to": "JF",
+   "why": "Jean-François Aubry goes by JF; the model wrote 'Geoff'"
+  },
+  {
+   "near_s": 4530.42,
+   "from": "Geoff",
+   "to": "JF",
+   "why": "Jean-François Aubry goes by JF; the model wrote 'Geoff'"
+  },
+  {
+   "near_s": 3624.56,
+   "from": "510 [k]",
+   "to": "510(k)",
+   "why": "FDA pathway; the model heard '(k)' as an audio event"
+  },
+  {
+   "near_s": 67.16,
+   "from": "Jeff",
+   "to": "JF",
+   "why": "Jean-François Aubry goes by JF; the model wrote 'Jeff'"
+  },
+  {
+   "near_s": 68.4,
+   "from": "Jeff",
+   "to": "JF",
+   "why": "Jean-François Aubry goes by JF; the model wrote 'Jeff'"
+  },
+  {
+   "near_s": 104.86,
+   "from": "Jeff",
+   "to": "JF",
+   "why": "Jean-François Aubry goes by JF; the model wrote 'Jeff'"
+  },
+  {
+   "near_s": 114.38,
+   "from": "Jeff",
+   "to": "JF",
+   "why": "Jean-François Aubry goes by JF; the model wrote 'Jeff'"
+  },
+  {
+   "near_s": 117.72,
+   "from": "Jeff",
+   "to": "JF",
+   "why": "Jean-François Aubry goes by JF; the model wrote 'Jeff'"
+  },
+  {
+   "near_s": 133.56,
+   "from": "Jeff",
+   "to": "JF",
+   "why": "Jean-François Aubry goes by JF; the model wrote 'Jeff'"
+  },
+  {
+   "near_s": 136.78,
+   "from": "Jeff",
+   "to": "JF",
+   "why": "Jean-François Aubry goes by JF; the model wrote 'Jeff'"
+  },
+  {
+   "near_s": 157.04,
+   "from": "Jeff",
+   "to": "JF",
+   "why": "Jean-François Aubry goes by JF; the model wrote 'Jeff'"
+  },
+  {
+   "near_s": 166.54,
+   "from": "Jeff",
+   "to": "JF",
+   "why": "Jean-François Aubry goes by JF; the model wrote 'Jeff'"
+  },
+  {
+   "near_s": 1357.33,
+   "from": "Jeff",
+   "to": "JF",
+   "why": "Jean-François Aubry goes by JF; the model wrote 'Jeff'"
+  },
+  {
+   "near_s": 1357.63,
+   "from": "Jeff",
+   "to": "JF",
+   "why": "Jean-François Aubry goes by JF; the model wrote 'Jeff'"
+  },
+  {
+   "near_s": 1652.85,
+   "from": "Jeff",
+   "to": "JF",
+   "why": "Jean-François Aubry goes by JF; the model wrote 'Jeff'"
+  },
+  {
+   "near_s": 1702.47,
+   "from": "Jeff",
+   "to": "JF",
+   "why": "Jean-François Aubry goes by JF; the model wrote 'Jeff'"
+  },
+  {
+   "near_s": 1795.51,
+   "from": "Jeff",
+   "to": "JF",
+   "why": "Jean-François Aubry goes by JF; the model wrote 'Jeff'"
+  },
+  {
+   "near_s": 2428.86,
+   "from": "Jeff",
+   "to": "JF",
+   "why": "Jean-François Aubry goes by JF; the model wrote 'Jeff'"
+  },
+  {
+   "near_s": 3097.44,
+   "from": "Jeff",
+   "to": "JF",
+   "why": "Jean-François Aubry goes by JF; the model wrote 'Jeff'"
+  },
+  {
+   "near_s": 3109.48,
+   "from": "Jeff",
+   "to": "JF",
+   "why": "Jean-François Aubry goes by JF; the model wrote 'Jeff'"
+  },
+  {
+   "near_s": 3267.2,
+   "from": "Jeff",
+   "to": "JF",
+   "why": "Jean-François Aubry goes by JF; the model wrote 'Jeff'"
+  },
+  {
+   "near_s": 3424.36,
+   "from": "Jeff",
+   "to": "JF",
+   "why": "Jean-François Aubry goes by JF; the model wrote 'Jeff'"
+  },
+  {
+   "near_s": 3448.32,
+   "from": "Jeff",
+   "to": "JF",
+   "why": "Jean-François Aubry goes by JF; the model wrote 'Jeff'"
+  },
+  {
+   "near_s": 2932.76,
+   "from": "new navigator,",
+   "to": "neuronavigator,",
+   "why": "positioning the lens with the neuronavigator"
+  },
+  {
+   "near_s": 3917.4,
+   "from": "regulatory fight",
+   "to": "regulatory file",
+   "why": "prepare their regulatory file to submit to the FDA"
+  }
+ ],
+ "uncertain": [
+  {
+   "i": 602,
+   "why": "very low confidence"
+  },
+  {
+   "i": 9650,
+   "why": "very low confidence (crosstalk)"
+  },
+  {
+   "i": 11627,
+   "why": "very low confidence (crosstalk)"
+  },
+  {
+   "near_s": 3599.82,
+   "text": "owe",
+   "why": "probably 'hope'; medium"
+  },
+  {
+   "near_s": 4299.62,
+   "text": "reduce",
+   "why": "probably 'reproduce'; medium"
+  },
+  {
+   "near_s": 2691.33,
+   "text": "Detroit Show",
+   "why": "unclear; medium"
+  }
+ ],
+ "speaker": [
+  {
+   "near_s": 782.03,
+   "text": "Oh, he was?",
+   "who": "Keith Murphy",
+   "why": "a host's question inside Aubry's Gavrilov answer; Aubry answers 'Yes. Yes. He was.'"
+  },
+  {
+   "near_s": 784.51,
+   "text": "Oh, wow.",
+   "who": "Keith Murphy",
+   "why": "host reaction inside Aubry's answer"
+  },
+  {
+   "near_s": 787.21,
+   "text": "Yeah, tell us more about that.",
+   "who": "Keith Murphy",
+   "why": "host question inside Aubry's answer (voice agrees or is inconclusive: 0.34 to Keith; best other Charles 0.19)"
+  },
+  {
+   "near_s": 951.87,
+   "text": "formed field.",
+   "who": "Charles Caskey",
+   "why": "end of Charles's 'now we're more of a formed field' (voice agrees or is inconclusive: 0.61 to Charles; best other Keith 0.19)"
+  },
+  {
+   "near_s": 1701.87,
+   "text": "uh, we know otherwise.",
+   "who": "Charles Caskey",
+   "why": "finishes Charles's 'This cannot work. But, uh, we know otherwise.'"
+  },
+  {
+   "near_s": 1712.03,
+   "text": "Well, the, the",
+   "who": "Jean-François Aubry",
+   "why": "start of Aubry's answer ('worst part of this story is...')"
+  },
+  {
+   "near_s": 4141.16,
+   "text": "end.",
+   "who": "Keith Murphy",
+   "why": "Keith's 'I can move something epic to the end.'"
+  },
+  {
+   "from_s": 754.2,
+   "to_s": 754.3,
+   "who": "Keith Murphy",
+   "why": "host backchannel inside Aubry's long turn ('and- Yeah. And the- ...')"
+  },
+  {
+   "from_s": 769.7,
+   "to_s": 770.17,
+   "who": "Keith Murphy",
+   "why": "host backchannel 'Mm. Mm-hmm.' inside Aubry's turn"
+  },
+  {
+   "from_s": 772.3,
+   "to_s": 772.45,
+   "who": "Keith Murphy",
+   "why": "host 'Yeah' inside Aubry's turn ('And- Yeah ... uh, and he')"
+  },
+  {
+   "from_s": 801.25,
+   "to_s": 801.3,
+   "who": "Keith Murphy",
+   "why": "host 'Yeah' inside Aubry's turn ('We can't... Yeah ... I'm')"
+  },
+  {
+   "from_s": 813.9,
+   "to_s": 814.05,
+   "who": "Keith Murphy",
+   "why": "host 'Mm' inside Aubry's turn ('We wanted- Mm ... to invite')"
+  },
+  {
+   "from_s": 867.15,
+   "to_s": 867.25,
+   "who": "Keith Murphy",
+   "why": "host 'Yeah' inside Aubry's turn ('basically- Yeah ... is happy')"
+  },
+  {
+   "from_s": 893.95,
+   "to_s": 894.1,
+   "who": "Keith Murphy",
+   "why": "host 'Mm-hmm' inside Aubry's turn ('uh- Mm-hmm ... transcranial')"
+  },
+  {
+   "near_s": 3441.6,
+   "text": "You got more good stuff?",
+   "who": "Keith Murphy",
+   "why": "host question to Aubry (Aubry is being asked); Charles answers 'Yeah, yeah. Where are we going next?'"
+  }
+ ],
+ "open_questions": [
+  "Hosts' 'Jeff' for Aubry (01:07 onward): the model wrote 'Jeff' every time despite 'JF Aubry' being a listed term, so kept. Listen at 01:07 to confirm."
+ ]
+}

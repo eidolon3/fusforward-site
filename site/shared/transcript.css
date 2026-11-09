@@ -1,0 +1,58 @@
+/* The readable transcript (FF.renderReadable). web/index.html links this and themes it with variables:
+ *   --tx-width    reading column width (default 46rem, about 75 characters a line)
+ *   --tx-font     body font            --tx-size  body size (default 1.1875rem = 19px; --tx-size-sm on phones)
+ *   --tx-label    font for names/times --tx-ink   body text colour   --tx-muted  times, quiet text
+ *   --tx-now      current-word tint    --tx-accent live-turn bar      --tx-hover  word under the pointer
+ *   --c-charles / --c-keith / --c-guest / --c-narrator   name colours (default: ink)
+ * Body text needs at least 4.5:1 contrast against the page in every theme (CLAUDE.md, "Changing the design").
+ */
+.ff-tx {
+  max-width: var(--tx-width, 46rem);
+  font: var(--tx-size, 1.1875rem)/1.65 var(--tx-font, Georgia, "Times New Roman", serif);
+  color: var(--tx-ink, #1b1b1b);
+  text-align: left;
+  hyphens: manual;
+  -webkit-hyphens: manual;
+  overflow-wrap: break-word;
+}
+.ff-tx .turn { position: relative; margin: 0 0 1.55em; }
+.ff-tx .ff-who {
+  display: flex; align-items: baseline; gap: .6em; flex-wrap: wrap;
+  margin: 0 0 .3em;
+  font: 650 .84em/1.3 var(--tx-label, system-ui, -apple-system, "Segoe UI", sans-serif);
+  letter-spacing: 0;
+}
+.ff-tx .ff-name { color: var(--name, var(--tx-ink, #1b1b1b)); }
+.ff-tx .ff-ts {
+  font-weight: 450; font-size: .9em; font-variant-numeric: tabular-nums;
+  color: var(--tx-muted, #5f5f5f); text-decoration: none;
+}
+.ff-tx .ff-ts:hover, .ff-tx .ff-ts:focus-visible { color: var(--tx-accent, #b3261e); text-decoration: underline; }
+.ff-tx .ff-p { margin: 0 0 .75em; text-indent: 0; }
+.ff-tx .ff-p:last-child { margin-bottom: 0; }
+.ff-tx .r-charles { --name: var(--c-charles, var(--tx-ink)); }
+.ff-tx .r-keith { --name: var(--c-keith, var(--tx-ink)); }
+.ff-tx .r-guest { --name: var(--c-guest, var(--tx-ink)); }
+.ff-tx .r-narrator { --name: var(--c-narrator, var(--tx-muted)); }
+.ff-tx .r-narrator .ff-p { font-style: italic; color: var(--tx-muted, #5f5f5f); }
+
+/* Words. Highlights never change layout. */
+.ff-tx .w { cursor: pointer; border-radius: 3px; }
+.ff-tx .w:hover { background: var(--tx-hover, rgba(127, 127, 127, .14)); }
+.ff-tx .w.now { background: var(--tx-now, rgba(255, 196, 0, .38)); box-shadow: 0 0 0 1px var(--tx-now, rgba(255, 196, 0, .38)); }
+.ff-tx .w.unc { text-decoration: underline dotted; text-decoration-color: var(--tx-muted, #5f5f5f); text-underline-offset: 3px; }
+.ff-tx .w.ev { font-style: italic; font-size: .88em; color: var(--tx-muted, #5f5f5f); }
+.ff-tx .turn.live::before {
+  content: ""; position: absolute; left: -16px; top: .25em; bottom: .25em; width: 3px;
+  border-radius: 2px; background: var(--tx-accent, #b3261e);
+}
+
+@media (max-width: 700px) {
+  .ff-tx { font-size: var(--tx-size-sm, 1.0625rem); }
+  .ff-tx .turn.live::before { left: -10px; }
+}
+@media print {
+  .ff-tx { max-width: none; color: #000; }
+  .ff-tx .w.now { background: none; box-shadow: none; }
+  .ff-tx .turn.live::before { display: none; }
+}

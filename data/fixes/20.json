@@ -1,0 +1,212 @@
+{
+ "_note": "Claude's review of out/flags/20.json. 'fix' may only swap a flagged span for a listed term; 'uncertain' words are marked in the output, not changed (by raw word index 'i', or by text anchor 'near_s' + 'text'). Every other flag was checked and kept as transcribed. 'replace' (word corrections) and the text-anchored 'uncertain' entries come from a read-through audit of the transcripts; they are text-based, not checked against the audio: high-confidence corrections are applied, medium ones that need the audio are only marked uncertain. 'speaker' entries are reviewed speaker corrections from the same audit, applied after the voice naming.",
+ "fix": [
+  {
+   "i": 510,
+   "k": 2,
+   "from": "Shrek Chalysani",
+   "to": "Sreekanth Chalasani",
+   "why": "sonogenetics pioneer at Salk"
+  },
+  {
+   "i": 5168,
+   "k": 2,
+   "from": "Shrek Chaluisani",
+   "to": "Sreekanth Chalasani",
+   "why": "same"
+  },
+  {
+   "i": 950,
+   "k": 2,
+   "from": "Mikhail Tanter",
+   "to": "Mickael Tanter",
+   "why": "spelling"
+  },
+  {
+   "i": 2870,
+   "k": 2,
+   "from": "auditory compound",
+   "to": "auditory confound",
+   "why": "the debate he's describing"
+  },
+  {
+   "i": 7502,
+   "k": 2,
+   "from": "new sleep",
+   "to": "Neusleep",
+   "why": "the TUS sleep company"
+  }
+ ],
+ "replace": [
+  {
+   "near_s": 173.98,
+   "from": "Zhuhai",
+   "to": "Zhihai",
+   "why": "the guest (Lei Sun's student)"
+  },
+  {
+   "near_s": 206.94,
+   "from": "Shrek",
+   "to": "Sree",
+   "why": "Sreekanth Chalasani"
+  },
+  {
+   "near_s": 231.08,
+   "from": "Shrek's",
+   "to": "Sree's",
+   "why": "Sreekanth Chalasani"
+  },
+  {
+   "near_s": 1828.54,
+   "from": "Shrek Shrek",
+   "to": "Sree, Sree",
+   "why": "Keith starting Sreekanth Chalasani's name"
+  },
+  {
+   "near_s": 329.32,
+   "from": "Xu Zheng",
+   "to": "Zhen Xu",
+   "why": "histotripsy, Zhen Xu (Michigan)"
+  },
+  {
+   "near_s": 1933.65,
+   "from": "Yaheng",
+   "to": "Yaoheng",
+   "why": "Yaoheng (Mack) Yang, torpor paper"
+  },
+  {
+   "near_s": 1984.69,
+   "from": "Yaheng",
+   "to": "Yaoheng",
+   "why": "Yaoheng (Mack) Yang"
+  },
+  {
+   "near_s": 1998.35,
+   "from": "Yaheng",
+   "to": "Yaoheng",
+   "why": "Yaoheng (Mack) Yang"
+  },
+  {
+   "near_s": 2000.65,
+   "from": "Hong Qin's",
+   "to": "Hong Chen's",
+   "why": "Hong Chen (WashU) led the torpor study"
+  },
+  {
+   "near_s": 2406.64,
+   "from": "Hairong Zhang",
+   "to": "Hairong Zheng",
+   "why": "SIAT ultrasound director"
+  },
+  {
+   "near_s": 2453.38,
+   "from": "Hairong Zhang",
+   "to": "Hairong Zheng",
+   "why": "SIAT ultrasound director"
+  },
+  {
+   "near_s": 2556.48,
+   "from": "Hui Dong",
+   "to": "Huiliang",
+   "why": "Huiliang (Evan) Wang, UT Austin"
+  },
+  {
+   "near_s": 2557.0,
+   "from": "Hui Dong",
+   "to": "Huiliang",
+   "why": "Huiliang (Evan) Wang"
+  },
+  {
+   "near_s": 2557.86,
+   "from": "Hui Dong",
+   "to": "Huiliang",
+   "why": "Huiliang (Evan) Wang"
+  },
+  {
+   "near_s": 2558.76,
+   "from": "Hui Dong",
+   "to": "Huiliang",
+   "why": "Huiliang (Evan) Wang"
+  },
+  {
+   "near_s": 1525.9,
+   "from": "Thor Labs,",
+   "to": "Thorlabs,",
+   "why": "the optics supplier"
+  },
+  {
+   "near_s": 2337.72,
+   "from": "GBT",
+   "to": "GPT",
+   "why": "ChatGPT"
+  },
+  {
+   "near_s": 338.04,
+   "from": "remark paper",
+   "to": "landmark paper",
+   "why": "Tanter group's ultrafast/super-resolution Nature paper"
+  },
+  {
+   "near_s": 2560.72,
+   "from": "Neusleep.",
+   "to": "NeuSleep.",
+   "why": "Huiliang Wang's NeuSleep"
+  }
+ ],
+ "uncertain": [
+  {
+   "i": 1457,
+   "why": "very low confidence"
+  },
+  {
+   "i": 1460,
+   "why": "very low confidence"
+  },
+  {
+   "i": 1830,
+   "why": "very low confidence"
+  },
+  {
+   "i": 2845,
+   "why": "very low confidence"
+  },
+  {
+   "near_s": 547.49,
+   "text": "2.2",
+   "why": "probably '0.2 megapascal' (Keith: 'How much? 0.2?'); medium, needs audio"
+  },
+  {
+   "near_s": 553.79,
+   "text": "2.2",
+   "why": "probably '0.2 megapascal'; medium, needs audio"
+  },
+  {
+   "near_s": 844.24,
+   "text": "Kim",
+   "why": "probably 'Kim Butts Pauly'; medium"
+  },
+  {
+   "near_s": 971.28,
+   "text": "MedRxiv",
+   "why": "a mouse paper would usually be on bioRxiv; medium"
+  },
+  {
+   "near_s": 547.49,
+   "text": "2.2 megapascal",
+   "why": "Keith hears '0.2?' and calls it 'very low'; 2.2 vs 0.2 MPa needs the audio"
+  },
+  {
+   "near_s": 553.79,
+   "text": "2.2 megapascal.",
+   "why": "same"
+  }
+ ],
+ "speaker": [
+  {
+   "near_s": 511.03,
+   "text": "That was, that was literally what I did.",
+   "who": "Keith Murphy",
+   "why": "Keith continuing his plasmid story (\"I couldn't believe it in retrospect\"); the whole turn KM 0.39 vs CC 0.19, this sentence alone is unclear"
+  }
+ ]
+}

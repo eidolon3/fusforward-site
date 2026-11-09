@@ -1,0 +1,1557 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>FUS Forward Records</title>
+<link rel="icon" href="../favicon.ico">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400..700&family=Source+Serif+4:ital,opsz,wght@0,8..60,300..700;1,8..60,300..700&display=swap" rel="stylesheet">
+<script>try{document.documentElement.dataset.theme=JSON.parse(localStorage.getItem("ffweb.theme"))==="light"?"light":"dark"}catch(e){}</script>
+<link rel="stylesheet" href="site.css">
+<link rel="stylesheet" href="../shared/transcript.css">
+<link rel="preload" href="../data/episodes.js" as="script"><link rel="preload" href="../data/glossary.js" as="script">
+<style>
+/* The episodes: the latest as a cover feature, every episode with hover-to-play; each episode page with liner notes,
+   chapters on a small turntable, the transcript with margin notes, and one player bar that keeps going across routes. */
+:root{--bar:#ffffff;--bar-t:#1a1b24;--bar-m:#646779;--bar-r:#e3e3ec;--bar-acc:#8f56a2;--tr-a:rgba(26,27,36,.16);--tr-b:rgba(26,27,36,.78);--tr-l:rgba(26,27,36,.08);
+  --c-charles:#1a1b24;--c-keith:#1a1b24;--c-g1:#8f56a2;--c-g2:#2f7d6d;--c-g3:#a8455f;--c-unk:#646779;--c-narr:#646779;--ttw:168px}
+:root[data-theme="dark"]{--bar:#171a22;--bar-t:#e9eaf2;--bar-m:#8e91a3;--bar-r:#252937;--bar-acc:#b59bc9;--tr-a:rgba(233,234,242,.2);--tr-b:rgba(233,234,242,.85);--tr-l:rgba(233,234,242,.08);
+  --c-charles:#e9eaf2;--c-keith:#e9eaf2;--c-g1:#b59bc9;--c-g2:#8fd3c1;--c-g3:#e6a3b4;--c-unk:#8e91a3;--c-narr:#8e91a3}
+body.has-bar{padding-bottom:92px}
+.muted{color:var(--t2);font-size:16px}
+.view{max-width:1240px;margin:0 auto;padding:0 32px 48px}
+/* the art: every sleeve is the episode's own 16:9 image */
+.slv{position:relative;display:block;width:100%;aspect-ratio:16/9;background:var(--soft);overflow:hidden;border-radius:3px}
+.slv img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.art{position:relative;display:block}.art>a{display:block;text-decoration:none}.art .slv{box-shadow:var(--shadow);transition:transform .3s cubic-bezier(.25,.8,.25,1)}
+.art:hover .slv{transform:translateY(-2px)}
+/* hover-to-play: a clear magenta button on the art; it stays while that episode plays */
+.hp{position:absolute;right:12px;bottom:12px;z-index:2;width:46px;height:46px;border-radius:50%;display:grid;place-items:center;background:var(--mag);color:#fff;
+  box-shadow:0 6px 18px -6px rgba(80,25,135,.6);opacity:0;transform:scale(.9);transition:opacity .18s,transform .18s,background .15s}
+.hp svg{width:18px;height:18px}.hp:hover{background:var(--mag-hov)}.art:hover .hp,.hp:focus-visible,.hp.on{opacity:1;transform:none}
+.hp:focus-visible{outline:2px solid var(--t1);outline-offset:3px}
+@media (hover:none){.hp{opacity:1;transform:none;width:40px;height:40px;right:8px;bottom:8px}}
+/* resume: a thin bar under the art */
+.pg{display:flex;align-items:center;gap:10px;margin-top:9px;font:500 12px/1.2 var(--disp);color:var(--t2);font-variant-numeric:tabular-nums}
+.pgb{flex:1;height:3px;border-radius:2px;background:var(--rule);overflow:hidden}.pgb i{display:block;height:100%;background:var(--grad);border-radius:2px}
+.pg.done .pgb i{background:var(--mute)}.cont{font:600 12px var(--disp);color:var(--acc);padding:4px 0}.cont:hover{text-decoration:underline;text-underline-offset:3px}
+/* home: the latest episode as a cover feature, then every episode */
+.feat{display:grid;grid-template-columns:minmax(0,1.45fr) minmax(0,1fr);gap:56px;align-items:center;margin-top:52px}
+.fhold{position:relative;aspect-ratio:20/9}.fhold>.art{position:relative;z-index:1;width:80%}.feat .fart>.pg{width:80%}
+.fdisc{position:absolute;top:3%;right:1%;height:94%;aspect-ratio:1;z-index:0;border-radius:50%;box-shadow:0 18px 34px -20px rgba(40,10,30,.75);transition:transform .5s cubic-bezier(.25,.8,.25,1)}
+.fhold:hover .fdisc,.fhold:focus-within .fdisc{transform:translateX(4%)}
+.fdisc .rot{position:absolute;inset:0;border-radius:50%;background:repeating-radial-gradient(circle,rgba(255,255,255,.035) 0 1px,transparent 1px 3.5px),radial-gradient(circle,#141215 0 33%,#1c1a1d 34% 96%,#2b282c 97%)}
+.fdisc.spin .rot{animation:spin 1.8s linear infinite}
+.fdisc .lbl{position:absolute;left:31%;top:31%;width:38%;height:38%;border-radius:50%;overflow:hidden;background:#f4dfe6;box-shadow:0 0 0 1px rgba(0,0,0,.35)}
+.fdisc .lbl img{width:100%;height:100%;object-fit:cover;display:block}.fdisc .lbl::after{content:"";position:absolute;left:50%;top:50%;width:7%;height:7%;transform:translate(-50%,-50%);border-radius:50%;background:var(--bg)}
+.fdisc .shn{position:absolute;inset:0;border-radius:50%;pointer-events:none;background:conic-gradient(from 20deg,transparent 0 8%,rgba(255,255,255,.08) 13%,transparent 19% 52%,rgba(255,255,255,.06) 60%,transparent 66%);-webkit-mask:radial-gradient(circle,transparent 37%,#000 38%);mask:radial-gradient(circle,transparent 37%,#000 38%)}
+.feat .hp{width:64px;height:64px;right:20px;bottom:20px}.feat .hp svg{width:24px;height:24px}
+.kick{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin:0;font:500 13px/1.3 var(--disp);color:var(--t2);font-variant-numeric:tabular-nums}
+.kick b{font-weight:700;color:var(--t1)}.new{font:700 10.5px/1 var(--disp);letter-spacing:.12em;text-transform:uppercase;color:#fff;background:var(--mag);padding:5px 8px 4px;border-radius:3px}
+.fh{margin:14px 0 0;font:400 clamp(40px,4.6vw,64px)/1.02 var(--text);font-variation-settings:"opsz" 60;letter-spacing:-.025em;text-wrap:balance}.fh a{text-decoration:none}.fh a:hover{color:var(--acc)}
+.fg{margin:14px 0 0;font:400 19px/1.4 var(--text)}.fg b{font-weight:600}.fg span{display:block;font:14px/1.5 var(--disp);color:var(--t2);margin-top:2px}
+.fn{margin:18px 0 0;font-size:17px;line-height:1.6;color:var(--t2);display:-webkit-box;-webkit-line-clamp:4;-webkit-box-orient:vertical;overflow:hidden;text-wrap:pretty}
+.acts{display:flex;align-items:center;flex-wrap:wrap;gap:12px 22px;margin-top:24px}
+.bp{display:inline-flex;align-items:center;gap:10px;height:46px;padding:0 22px 0 18px;border-radius:23px;background:var(--mag);color:#fff;font:600 14.5px var(--disp);white-space:nowrap;box-shadow:0 8px 20px -10px rgba(90,30,150,.7)}
+.bp:hover{background:var(--mag-hov)}.bp svg{width:16px;height:16px}.bp:focus-visible{outline:2px solid var(--t1);outline-offset:3px}
+.rd{font:600 14px var(--disp);text-decoration:none;color:var(--t1);border-bottom:1px solid var(--rule);padding-bottom:2px}.rd:hover{color:var(--acc);border-color:currentColor}
+.feat .fx .pg{max-width:380px;margin-top:20px}
+.shelf-bar{display:flex;justify-content:space-between;align-items:baseline;gap:16px;margin:72px 0 0;padding-bottom:12px;border-bottom:1px solid var(--t1)}
+.shelf-bar h2{margin:0;font:400 30px/1.1 var(--text);letter-spacing:-.015em}
+.sort{display:flex;gap:16px}.sort button{color:var(--mute);padding:4px 0}.sort button[aria-pressed="true"]{color:var(--t1);box-shadow:inset 0 -2px 0 var(--mag)}
+.shelf{list-style:none;margin:0;padding:38px 0 0;display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:46px 32px}
+.ct{display:block;margin-top:13px;text-decoration:none}.ct .m{display:block;font:500 12.5px/1.4 var(--disp);color:var(--t2);font-variant-numeric:tabular-nums}.ct .m b{font-weight:700;color:var(--t1);margin-right:2px}
+.ct .tl{display:block;margin-top:4px;font:400 23px/1.15 var(--text);letter-spacing:-.012em;text-wrap:balance}.ct .gs{display:block;margin-top:4px;font:500 14px/1.35 var(--disp);color:var(--t2)}
+.ct:hover .tl{color:var(--acc)}.card.on .ct .m b::after{content:" · playing";font-weight:600;color:var(--acc)}
+.newto{margin:44px 0 0}.newto a{display:inline-flex;flex-wrap:wrap;align-items:baseline;gap:4px 8px;padding:10px 18px;border:1px solid var(--rule);border-radius:999px;background:var(--paper);text-decoration:none;font:14.5px/1.4 var(--disp);color:var(--t2)}
+.newto b{font-weight:600;color:var(--t1)}.newto a:hover{border-color:color-mix(in srgb,var(--mag) 45%,var(--rule))}.newto a:hover b{color:var(--acc)}
+.colo{margin:88px 0 0;padding-top:16px;border-top:1px solid var(--rule);font:13px/1.6 var(--disp);color:var(--mute);max-width:720px}
+/* the episode: one calm 64rem column. Art-led hero, liner notes, chapters with the turntable, then the transcript at the full column width */
+.col{max-width:64rem;margin:0 auto}
+.eh{display:grid;grid-template-columns:minmax(0,320px) minmax(0,1fr);column-gap:40px;align-items:center;margin-top:12px}
+.eh-art .slv{border-radius:4px}
+.eh h1{margin:10px 0 0;font:400 clamp(32px,3.2vw,42px)/1.04 var(--text);font-variation-settings:"opsz" 60;letter-spacing:-.025em;text-wrap:balance;outline:none}
+.eh .fg{font-size:18.5px;margin-top:10px}.eh .acts{margin-top:12px;gap:10px 20px}
+.links{display:flex;flex-wrap:wrap;gap:4px 16px;font:600 13px var(--disp)}.links a,.links button{text-decoration:none;color:var(--t2);border-bottom:1px solid var(--rule);padding-bottom:1px}
+.links a:hover,.links button:hover{color:var(--acc);border-color:currentColor}.eh .pg{margin-top:18px;max-width:360px}
+.sec{margin-top:64px;padding-top:18px;border-top:1px solid var(--rule)}.sec>.lab{margin:0 0 16px}
+.essay p{margin:0;max-width:50rem;font-size:19.5px;line-height:1.62;text-wrap:pretty}
+.essay p::first-letter{float:left;font:400 3.35em/.82 var(--text);font-variation-settings:"opsz" 60;margin:.06em .08em 0 0;color:var(--acc)}
+.essay.clamp p{max-height:calc(1.62em * 4);overflow:hidden;-webkit-mask:linear-gradient(#000 60%,transparent);mask:linear-gradient(#000 60%,transparent)}
+.essay .cred{margin:18px 0 0;font:13px/1.6 var(--disp);color:var(--t2);display:flex;flex-wrap:wrap;gap:2px 16px}.cred i{font-style:normal;color:var(--mute);font-variant-numeric:tabular-nums}
+.essay .cred>span:first-child{color:var(--mute)}
+/* the liner notes, in the hero: two lines until Read on */
+.eh-ln{margin-top:8px;max-width:44rem}.eh-ln p{font-size:16.5px;line-height:1.55;color:var(--t2)}.eh-ln p::first-letter{float:none;font:inherit;margin:0;color:inherit}
+.eh-ln.clamp p{max-height:calc(1.55em * 2)}.eh-ln .more{margin-top:4px}.eh-ln.clamp .cred{display:none}.eh-ln .cred{margin-top:10px}
+/* chapters and show notes share a row, so the transcript starts on the first screen */
+.ep-row{margin-top:22px}.ep-row>.sec{margin-top:0;padding-top:14px}.ep-row>.sec>.lab{margin-bottom:10px}.ep-row .tracks{column-gap:40px;--ttw:136px}.ep-row .tracks ol{column-gap:32px}.ep-row .tk{padding:6px 0}.ep-row .tk .nm{font-size:16px}
+/* show notes: a bulleted list of papers under the chapters, in two columns when there are more than a few */
+.ep-row>.shownotes{margin-top:16px;padding:0;border:0}
+.sn-h{display:flex;align-items:baseline;flex-wrap:wrap;gap:4px 12px;margin:0 0 10px}.sn-h .lab{margin:0}.sn-sub{margin:0;font:13px/1.4 var(--disp);color:var(--mute)}
+.sn-list{list-style:disc;margin:0;padding:0 0 0 18px;font:15px/1.4 var(--text)}.sn-list.sn-two{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));column-gap:48px}
+.sn-list li{position:relative;min-width:0;padding:2px 0}.sn-list li::marker{color:var(--acc)}
+.sn-ln{display:flex;align-items:baseline;gap:10px;min-width:0}
+.sn-list .fl-t{position:relative;flex:1 1 auto;min-width:0;color:var(--t1);text-decoration:none;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.sn-list .fl-t:hover{color:var(--acc)}
+@media (max-width:700px){.sn-list .fl-t{white-space:normal}.sn-ln{flex-wrap:wrap;gap:0 10px}}
+.sn-list .fl-m{flex:none;font:500 11.5px/1.4 var(--disp);color:var(--mute);white-space:nowrap;font-variant-numeric:tabular-nums}
+.more,.showall{margin-top:8px;font:600 12.5px var(--disp);color:var(--acc)}.more:hover,.showall:hover{text-decoration:underline;text-underline-offset:3px}
+.tracks{display:grid;grid-template-columns:minmax(0,1fr) var(--ttw);column-gap:56px;align-items:start}.tracks>.lab{grid-column:1/-1}
+.tracks ol{grid-column:1;grid-row:2;list-style:none;margin:0;padding:0;columns:2;column-gap:36px}.tracks li{break-inside:avoid}
+.tk{display:grid;grid-template-columns:30px minmax(0,1fr) auto;align-items:baseline;padding:8px 0;border-bottom:1px solid var(--rule);text-decoration:none}
+.tk .no{font:600 11px var(--disp);letter-spacing:.04em;color:var(--mute)}.tk .nm{font:17px/1.3 var(--text);padding-right:10px;text-wrap:balance}
+.tk time{font:500 12px var(--disp);font-variant-numeric:tabular-nums;color:var(--mute)}.tk:hover .nm,.tk.on .nm,.tk.on .no{color:var(--acc)}
+.tools{display:flex;align-items:center;flex-wrap:wrap;gap:6px 24px;margin-top:18px;padding-top:12px;border-top:1px solid var(--t1)}
+.tools h2{margin:0 auto 0 0;font:400 32px/1.1 var(--text);letter-spacing:-.015em;color:var(--t1)}
+.tg,.dl summary{font:500 13.5px var(--disp);color:var(--t2);cursor:pointer;display:flex;align-items:center;gap:8px;padding:8px 0;list-style:none}
+.dl summary::-webkit-details-marker{display:none}.tg:hover,.dl summary:hover{color:var(--t1)}
+.tg::before{content:"";width:26px;height:15px;border-radius:8px;flex:none;transition:background .2s}
+.tg[aria-pressed="true"]::before{background:radial-gradient(circle at 18.5px 7.5px,var(--bg) 0 4.5px,transparent 5px),var(--t1)}
+.tg[aria-pressed="false"]::before{background:radial-gradient(circle at 7.5px 7.5px,var(--mute) 0 4px,transparent 4.5px);box-shadow:inset 0 0 0 1.5px var(--mute)}
+.dl{position:relative}.dl summary::after{content:"";width:6px;height:6px;border:solid currentColor;border-width:0 1.5px 1.5px 0;transform:rotate(45deg) translateY(-2px)}
+.dl[open]:not([data-fit]) .menu{visibility:hidden}
+.dl .menu{position:absolute;right:0;top:100%;z-index:20;margin-top:6px;min-width:190px;max-width:calc(100vw - 32px);background:var(--paper);border:1px solid var(--rule);border-radius:6px;box-shadow:0 10px 30px -12px rgba(0,0,0,.3);padding:6px 0}
+.dl .menu button{display:block;width:100%;padding:7px 14px;font:15px var(--text)}.dl .menu button:hover{background:var(--hov)}
+.dl .menu small{font:500 11px var(--disp);color:var(--mute);margin-left:6px}
+/* the transcript: the shared readable layout (shared/transcript.css), as wide as the column: 20px serif, names as plain text above each turn */
+.tx{position:relative;margin-top:30px}
+#tx{--tx-width:none;--tx-size:1.25rem;--tx-size-sm:1.125rem;--tx-font:var(--text);--tx-label:var(--disp);--tx-ink:var(--t1);--tx-muted:var(--mute);--tx-now:var(--now);--tx-accent:var(--mag);--tx-hover:var(--hov);
+  --c-charles:var(--t1);--c-keith:var(--t1);--c-guest:var(--t1);--c-narrator:var(--mute)}
+#tx .ff-tx{font-optical-sizing:auto}
+#tx>.ff-tx{display:flow-root}   /* each reading lays out alike shown or hidden: its own formatting context */
+#tx>.rd-off{content-visibility:hidden;position:absolute;left:0;right:0;top:0;height:0;overflow:hidden}   /* a reading not shown, its layout kept */
+#tx>.rd-warm{height:0;overflow:hidden}   /* one being laid out at the column's width, clipped out of sight (no inherited property: showing it later restyles nothing) */
+#tx .turn{margin-bottom:1.6em}#tx .ff-who{gap:.75em;margin-bottom:.35em;font-size:.76em;font-weight:600}#tx .ff-ts{font-weight:500}
+#tx .s-unk{--name:var(--t2)}#tx .r-narrator .ff-p,#tx .w.ev{color:var(--t2)}
+#tx .w.now{color:var(--t1)}.loading{color:var(--t2);font-style:italic;font-size:19px}
+#tx .trk{margin:2.8em 0 1.3em;padding-top:1.2em;border-top:1px solid var(--rule);font:inherit}#tx .ff-tx>.trk:first-child{margin-top:.4em;padding-top:0;border-top:0}
+.trk a{display:block;text-decoration:none}
+.trk .no{display:block;margin-bottom:6px;font:600 12px/1.2 var(--disp);letter-spacing:.08em;color:var(--acc2);font-variant-numeric:tabular-nums}
+.trk .nm{display:block;font:400 28px/1.2 var(--text);font-variation-settings:"opsz" 48;letter-spacing:-.016em;text-wrap:balance;color:var(--t1)}.trk a:hover .nm{color:var(--acc)}
+.turn.flash{background:var(--flash);box-shadow:0 0 0 12px var(--flash);transition:background 1.4s,box-shadow 1.4s}
+.who{font:600 11px var(--disp);letter-spacing:.06em;text-transform:uppercase;margin-right:.5em}
+.tx-end{margin:56px 0 0;font:14px/1.55 var(--disp);color:var(--mute);max-width:46rem}
+/* from this episode: its explained clips, pointing to the page that has them all */
+.fte{margin-top:72px;padding-top:14px;border-top:1px solid var(--t1)}
+.fte>h2{margin:0;font:400 30px/1.1 var(--text);letter-spacing:-.015em}
+.fte-g{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:36px 48px;margin-top:24px}
+.fte-c>.lab{margin:0 0 12px}
+.fls{list-style:none;margin:0;padding:0}
+.fl-m{display:block;margin-top:4px;font:500 12px/1.4 var(--disp);color:var(--mute);font-variant-numeric:tabular-nums}
+.fls li{padding:10px 0;border-top:1px solid var(--rule)}.fls li:first-child{border-top:0;padding-top:0}
+.fls a{text-decoration:none}.fl-t{display:block;font:17px/1.3 var(--text);text-wrap:pretty}.fls a:hover .fl-t,.fls a.fl-t:hover{color:var(--acc)}
+.fl-m a{color:var(--t2);border-bottom:1px solid var(--rule)}.fl-m a:hover{color:var(--acc);border-color:currentColor}
+.fl{display:inline-block;margin-top:12px;font:600 13px var(--disp);color:var(--acc);text-decoration:none}.fl:hover{text-decoration:underline;text-underline-offset:3px}
+/* up next */
+.upn{display:grid;grid-template-columns:200px minmax(0,1fr);gap:24px;align-items:center;margin:40px 0 0;padding:20px;background:var(--paper);border:1px solid var(--rule);border-radius:6px;max-width:46rem}
+.upn .hp{width:40px;height:40px;right:8px;bottom:8px}.upn .hp svg{width:15px;height:15px}
+.upn .lab{color:var(--acc)}.upn h3{margin:6px 0 0;font:400 25px/1.15 var(--text);letter-spacing:-.012em}.upn h3 a{text-decoration:none}.upn h3 a:hover{color:var(--acc)}
+.upn p{margin:4px 0 0;font:14px/1.4 var(--disp);color:var(--t2)}.upn .pg{max-width:none}
+/* the turntable: 110 x 106 units, platter centre (56,56), arm pivot (100,8) */
+.tt{grid-column:2;grid-row:2;width:var(--ttw);align-self:start;margin-top:-4px}.stage{position:relative;width:100%;aspect-ratio:110/106;user-select:none;-webkit-user-select:none}
+.platter{position:absolute;border-radius:50%;border:1px solid var(--rule)}
+.platter::after{content:"";position:absolute;left:50%;top:50%;width:5px;height:5px;margin:-2.5px;border-radius:50%;background:var(--rule)}
+.disc{position:absolute;z-index:2;border-radius:50%;animation:slide .9s cubic-bezier(.25,.75,.2,1) both}
+@keyframes slide{from{transform:translateX(-38%) rotate(-50deg);opacity:0}}
+.disc-in{position:absolute;inset:0;border-radius:50%;cursor:crosshair;box-shadow:0 14px 26px -18px rgba(0,0,0,.6)}.disc-in.flip{animation:flip .66s ease-in-out}
+@keyframes flip{50%{transform:scaleX(.02)}}
+.disc svg{position:absolute;inset:0;width:100%;height:100%;display:block;overflow:visible}.tt-spin{animation:spin 1.8s linear infinite;animation-play-state:paused}
+#vEp.playing .tt-spin{animation-play-state:running}
+@keyframes spin{to{transform:rotate(360deg)}}
+.sheen{position:absolute;inset:0;border-radius:50%;pointer-events:none;mix-blend-mode:screen;background:conic-gradient(from 25deg,transparent 0 6%,rgba(255,255,255,.07) 10%,transparent 15% 50%,rgba(255,255,255,.055) 60%,transparent 65%);-webkit-mask:radial-gradient(circle,transparent 33%,#000 34%);mask:radial-gradient(circle,transparent 33%,#000 34%)}
+.ghost circle{fill:none;stroke:var(--acc);stroke-width:.8;opacity:0;transition:opacity .15s}.ghost.on circle{opacity:1}
+.arm{position:absolute;inset:0;width:100%;height:100%;z-index:4;pointer-events:none;overflow:visible}.arm .tube{stroke:var(--mute);stroke-width:1.25;stroke-linecap:round}
+.arm .cw{fill:var(--t2)}.arm .cart{fill:var(--acc);stroke:var(--t1);stroke-width:.35}
+.arm .base{fill:var(--soft);stroke:var(--mute);stroke-width:.5}.arm .pin{fill:var(--t2)}.arm .rest{fill:none;stroke:var(--mute);stroke-width:.5}
+.arm .grab{stroke:transparent;stroke-width:10;pointer-events:stroke;cursor:grab;touch-action:none;outline:none}#armG{transform-box:view-box;transform-origin:0 0}
+#armG:focus-visible .tube{stroke:var(--acc);stroke-width:1.8}
+.ttip{position:absolute;z-index:5;left:0;top:0;pointer-events:none;background:var(--t1);color:var(--bg);font:600 10.5px/1 var(--disp);letter-spacing:.06em;padding:5px 7px;border-radius:3px;white-space:nowrap;opacity:0;transition:opacity .12s}
+.ttip.on{opacity:1}.tt-cap{margin:4px 0 0;font:500 11px/1.35 var(--disp);color:var(--mute);text-align:center}
+.disc-art{pointer-events:none}
+
+/* on this record */
+.onrec{margin-top:88px;padding-top:14px;border-top:1px solid var(--t1)}
+.onrec>h2{margin:0;font:400 30px/1.1 var(--text);letter-spacing:-.015em}
+.two{display:grid;grid-template-columns:1fr 1fr;gap:40px;margin-top:22px}.refs,.els{list-style:none;margin:10px 0 0;padding:0}
+.refs li{padding:9px 0;border-top:1px solid var(--rule);font-size:16px;line-height:1.4}
+.refs b{font-weight:600}.refs .k{font:600 9.5px var(--disp);letter-spacing:.12em;text-transform:uppercase;color:var(--mute);margin-left:6px}
+.refs .d{display:block;color:var(--t2);font-size:15px}
+.refs .mo{display:flex;flex-wrap:wrap;gap:2px 10px;margin-top:3px;font:500 12px var(--disp);font-variant-numeric:tabular-nums;color:var(--mute)}
+.refs .mo a,.els .also a{text-decoration:none;color:var(--t2)}.refs .mo a:hover,.els .also a:hover,.refs .g:hover{color:var(--acc)}
+.refs .g{font:600 11px var(--disp);text-decoration:none;color:var(--t2);margin-left:6px}.els li{padding:10px 0;border-top:1px solid var(--rule)}
+.er{display:block;text-decoration:none}
+.er .h2{display:block;font:italic 17px/1.3 var(--text)}.er .h2 b{font:700 11px var(--disp);letter-spacing:.08em;font-style:normal;margin-right:6px}
+.er .snip{display:block;margin-top:3px;font-size:15px;line-height:1.45;color:var(--t2)}.er:hover .h2{color:var(--acc)}
+mark{background:var(--now);color:inherit;padding:0 1px;border-radius:2px}
+.els .also{display:block;margin-top:3px;font:500 12px var(--disp);color:var(--mute);font-variant-numeric:tabular-nums}
+.pn{display:flex;justify-content:space-between;gap:20px;margin-top:64px;padding-top:14px;border-top:1px solid var(--rule)}
+.pn a{text-decoration:none;max-width:48%;font:italic 17px/1.3 var(--text)}.pn a:last-child{text-align:right;margin-left:auto}
+.pn small{display:block;font:600 10px var(--disp);letter-spacing:.12em;text-transform:uppercase;font-style:normal;color:var(--mute)}.pn a:hover{color:var(--acc)}
+/* search */
+.sh1{margin:52px 0 0;font:400 clamp(34px,4.4vw,52px)/1.08 var(--text);font-variation-settings:"opsz" 60;letter-spacing:-.025em;overflow-wrap:anywhere;outline:none}
+.sm{margin:8px 0 0;color:var(--t2);font-size:16px}.gdef{margin:18px 0 0;padding:12px 16px;background:var(--soft);border-radius:4px;font-size:16.5px;max-width:720px}
+.gdef b{font-weight:600}
+.tries button{text-decoration:underline;text-decoration-color:var(--rule);text-underline-offset:3px;font-style:italic}.tries button:hover{color:var(--acc)}
+.grp{display:grid;grid-template-columns:176px minmax(0,1fr);gap:26px;padding:26px 0;border-top:1px solid var(--rule);max-width:860px}.grp:first-of-type{margin-top:28px}
+.gh{display:block;text-decoration:none;margin-bottom:6px}.gh b{display:block;margin-top:2px;font:400 23px/1.2 var(--text);letter-spacing:-.01em}.grp>a{display:block}.grp .slv{box-shadow:var(--shadow)}.gh .lab{color:var(--mute)}.gh:hover b{color:var(--acc)}
+.hit{display:grid;grid-template-columns:58px minmax(0,1fr);gap:10px;padding:6px 0;text-decoration:none;font-size:16.5px;line-height:1.5;overflow-wrap:anywhere}
+.hit time{font:600 12px/2.1 var(--disp);color:var(--acc2);font-variant-numeric:tabular-nums}.hit .who{color:var(--t2);font-size:9.5px}.hit:hover time,.hit:hover .who{color:var(--acc)}
+.none{margin:30px 0;font-style:italic;color:var(--t2)}
+/* the player: one quiet paper bar with the playing episode's art */
+.pb{position:fixed;left:0;right:0;bottom:0;z-index:40;background:color-mix(in srgb,var(--bar) 94%,transparent);backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);color:var(--bar-t);border-top:1px solid var(--bar-r);box-shadow:0 -10px 30px -24px rgba(40,10,30,.5);padding-bottom:env(safe-area-inset-bottom)}
+.pb-in{max-width:1240px;margin:0 auto;padding:10px 32px;display:grid;grid-template-columns:auto auto minmax(0,1fr) auto;align-items:center;gap:20px}
+.pb-art{display:block;width:96px;aspect-ratio:16/9;border-radius:3px;overflow:hidden;background:var(--soft);flex:none}.pb-art img{width:100%;height:100%;object-fit:cover;display:block}
+.pb-ctl,.pb-end{display:flex;align-items:center;gap:6px}.pb button{width:36px;height:36px;border-radius:50%;display:grid;place-items:center;color:var(--bar-t)}
+.pb button:hover{background:var(--hov)}.pb .pp{width:44px;height:44px;background:var(--mag);color:#fff}.pb .pp:hover{background:var(--mag-hov)}
+.pb #rate{width:auto;min-width:44px;padding:0 8px;border-radius:18px;font:600 12.5px var(--disp);font-variant-numeric:tabular-nums}
+.pb-top{display:flex;align-items:baseline;gap:12px;font:500 12.5px/1.2 var(--disp);color:var(--bar-m);margin-bottom:6px;min-width:0}
+.pb-top a{color:var(--bar-t);text-decoration:none;font-weight:600;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;min-width:0;max-width:48%}.pb-top a:hover{color:var(--acc)}
+.pb-top a b{font-weight:700;margin-right:6px}.pb-top .trk-now{min-width:0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.pb-top .clock{margin-left:auto;font-variant-numeric:tabular-nums;white-space:nowrap;color:var(--bar-t)}.pb-top .clock span{color:var(--bar-m)}
+.trace{display:flex;gap:8px;align-items:stretch;border-radius:3px}
+.lanes{display:flex;flex-direction:column;justify-content:space-around;font:700 8.5px/1 var(--disp);letter-spacing:.04em;color:var(--bar-m);width:16px;text-align:right}
+.tb{position:relative;flex:1;height:26px;cursor:pointer;touch-action:none}.tb canvas{position:absolute;left:0;top:0}#cvA{width:100%!important;height:100%!important}
+.played{position:absolute;left:0;top:0;bottom:0;width:0;overflow:hidden;pointer-events:none}
+.ticks i{position:absolute;top:-3px;bottom:-3px;width:1px;background:var(--rule);pointer-events:none}
+.head{position:absolute;top:-5px;bottom:-5px;width:2px;margin-left:-1px;background:var(--bar-acc);pointer-events:none;left:0}
+.head::before{content:"";position:absolute;left:-3px;top:-2px;width:8px;height:8px;border-radius:50%;background:var(--bar-acc)}
+.tip{position:absolute;bottom:calc(100% + 12px);left:0;padding:5px 8px;border-radius:3px;background:var(--t1);color:var(--bg);font:600 11px var(--disp);white-space:nowrap;pointer-events:none;opacity:0;transition:opacity .12s}
+.tip.on{opacity:1}.pills{position:fixed;left:50%;bottom:100px;transform:translateX(-50%);z-index:41;display:flex;gap:8px}
+.pill{padding:8px 15px;border-radius:20px;background:var(--t1);color:var(--bg);font:600 12.5px var(--disp);box-shadow:0 8px 22px -10px rgba(0,0,0,.5);white-space:nowrap}
+.pill:hover{background:var(--mag);color:#fff}
+.toast{position:fixed;left:50%;top:72px;transform:translateX(-50%);z-index:60;background:var(--t1);color:var(--bg);padding:8px 14px;border-radius:4px;font:500 13px var(--disp);opacity:0;transition:opacity .2s;pointer-events:none}
+.toast.on{opacity:1}
+/* notes: marginalia beside the transcript. Wide screens: a quiet column to the right, each note level with its line.
+   Narrower: a one-line card after its paragraph, opened on demand. Hovering or focusing a note marks its words. */
+:root{--mk:rgba(143,211,193,.35);--n-tx:860px;--n-g:36px;--n-w:284px}
+:root[data-theme="dark"]{--mk:rgba(143,211,193,.22)}
+@media (min-width:1440px){:root{--n-tx:880px}}
+@media (min-width:1600px){:root{--n-tx:900px;--n-w:300px}}
+#tx .ff-tx .turn>.ff-p:last-of-type{margin-bottom:0}
+#tx .w.nhl{background:var(--mk);box-shadow:3px 0 0 var(--mk),-3px 0 0 var(--mk);border-radius:2px}
+#tx .w.nhl.now{background:var(--now)}
+.nc{font:14.5px/1.48 var(--text);color:var(--t2);background:var(--paper);border:1px solid var(--rule);border-radius:6px;text-align:left;
+  transition:border-color .15s,box-shadow .15s}
+.nc:hover,.nc:focus-within,.nc:focus-visible,.nc.hot{border-color:color-mix(in srgb,var(--org) 55%,var(--rule));box-shadow:0 8px 22px -16px rgba(60,20,40,.45)}
+.nc:focus-visible{outline:2px solid var(--acc);outline-offset:2px}
+.nc-h{display:block;width:100%;cursor:default}
+.nc-k{display:block;font:600 10px/1.2 var(--disp);letter-spacing:.11em;text-transform:uppercase;color:var(--acc2)}
+.nc-k i{font-style:normal;font-weight:500;letter-spacing:.04em;color:var(--mute);margin-left:4px}
+.nc-t{display:block;margin-top:4px;font:500 16.5px/1.25 var(--text);font-variation-settings:"opsz" 20;color:var(--t1);letter-spacing:-.005em;text-wrap:balance}
+.k-paper .nc-t{font-size:15.5px;line-height:1.3}
+.nc-tz,.nc-cv{display:none}
+.nc-b>p{margin:0}.nc-b>p+p{margin-top:5px}
+.nc-x{font:500 12px/1.4 var(--disp);color:var(--t2);margin-top:2px!important}
+.nc-d{text-wrap:pretty}
+.nc-au{font:500 12.5px/1.4 var(--disp)}.nc-jr{font-style:italic}
+.nc-ln{display:flex;flex-wrap:wrap;gap:2px 14px;margin-top:7px!important;font:600 12px/1.4 var(--disp)}
+.nc-ln a{color:var(--t2);text-decoration:none;border-bottom:1px solid var(--rule)}.nc-ln a:hover{color:var(--acc);border-color:currentColor}
+.nc-cav{margin-top:8px!important;font:500 12px/1.45 var(--disp);color:var(--mute);text-wrap:pretty}.nc-cav b,.fl-n b{font-weight:600;color:var(--t2)}
+.fl-n{margin:5px 0 0;font:500 12px/1.45 var(--disp);color:var(--mute);text-wrap:pretty}
+.nc-by{display:flex;align-items:center;gap:9px;margin-top:9px!important;padding-top:9px;border-top:1px solid var(--rule);font:500 12.5px/1.35 var(--disp);color:var(--t2)}
+.nc-by b{font-weight:600;color:var(--t1)}.nc-by a{color:inherit;text-decoration:none;border-bottom:1px solid var(--rule)}.nc-by a:hover{color:var(--acc);border-color:currentColor}
+.np{flex:none;width:30px;height:30px;border-radius:50%;display:grid;place-items:center;color:var(--t1);box-shadow:inset 0 0 0 1.5px color-mix(in srgb,var(--t1) 65%,transparent)}
+.np svg{width:12px;height:12px}.np:hover{background:var(--mag);color:#fff;box-shadow:none}
+.np:focus-visible{outline:2px solid var(--acc);outline-offset:2px}
+/* wide: the margin column */
+@media (min-width:1280px){
+  .nw .txw{width:calc(var(--n-tx) + var(--n-g) + var(--n-w));margin-left:min(0px,calc(50vw + 472px - var(--n-tx) - var(--n-g) - var(--n-w)))}
+  .nw #tx{width:var(--n-tx)}
+}
+.nw .nc{position:absolute;left:calc(100% + var(--n-g));top:0;width:var(--n-w);padding:11px 14px 12px}
+.nw .nc-h{pointer-events:none}
+.nw .tx-end,.nw .upn{max-width:46rem}
+/* inline: after the paragraph, one line until opened */
+.ni .nc{margin:.1em 0 .9em;font-size:15px}
+.ni .ff-p+.nc{margin-top:-.25em}.ni .nc+.nc{margin-top:-.45em}
+.ni .nc-h{display:flex;align-items:baseline;gap:10px;min-height:42px;padding:11px 40px 10px 14px;position:relative;cursor:pointer;border-radius:6px}
+.ni .nc-h:hover{background:var(--hov)}
+.ni .nc-k{flex:none}
+.ni .nc-t{flex:none;max-width:60%;margin:0;font-size:15.5px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.ni .nc-tz{display:block;flex:1;min-width:0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-size:14.5px;color:var(--t2)}
+.ni .nc-cv{display:block;position:absolute;right:16px;top:50%;width:7px;height:7px;margin-top:-6px;border:solid var(--t2);border-width:0 1.5px 1.5px 0;transform:rotate(45deg);transition:transform .15s}
+.ni .nc.open .nc-cv{transform:rotate(-135deg);margin-top:-2px}
+.ni .nc.open .nc-tz{visibility:hidden}
+.ni .nc-b{padding:0 14px 13px}.ni .nc:not(.open) .nc-b{display:none}
+.ni .nc.open .nc-t{white-space:normal;max-width:none}
+.ni .nc.open .nc-h{flex-wrap:wrap;row-gap:2px}
+.noff .nc,.nw .nc.nx{display:none}
+@media (max-width:699px){.ni .nc-t{max-width:52%}.ni .nc-h{gap:8px;padding-left:12px}.ni .nc-b{padding:0 12px 12px}}
+@media (max-width:420px){.ni .nc-k{font-size:9.5px;letter-spacing:.09em}.ni .nc-k .lw{display:none}}
+/* responsive */
+@media (max-width:1099px){.eh{grid-template-columns:minmax(0,300px) minmax(0,1fr);column-gap:32px}}
+@media (max-width:899px){
+  .sn-list.sn-two{display:block}
+  .two,.fte-g{grid-template-columns:1fr;gap:28px}
+  .feat{grid-template-columns:1fr;gap:26px;margin-top:28px}.eh{grid-template-columns:1fr;row-gap:22px;margin-top:28px}.eh-art{max-width:640px}
+  .tracks{display:block}.tt{display:none}
+}
+@media (max-width:700px){
+  #tx .trk{margin-top:2.4em}.trk .nm{font-size:23px}.sec{margin-top:48px}.tools{margin-top:60px}
+  .upn{grid-template-columns:1fr;gap:14px;padding:16px}
+}
+@media (max-width:699px){
+  .view{padding-left:16px;padding-right:16px}
+  .shelf{grid-template-columns:1fr;gap:40px}.shelf-bar{margin-top:60px}.shelf-bar h2{font-size:25px}
+  .fh{font-size:38px}.eh h1{font-size:36px}.feat .hp{width:52px;height:52px;right:12px;bottom:12px}
+  .tracks ol{columns:1}.tools h2{flex-basis:100%;font-size:26px;margin-bottom:2px}.tools{gap:4px 20px}
+  .grp{grid-template-columns:96px minmax(0,1fr);gap:14px}.hit{grid-template-columns:48px minmax(0,1fr);gap:6px;font-size:16px}
+  .pb-in{grid-template-columns:auto auto minmax(0,1fr) auto;grid-template-areas:"mid mid mid mid" "art ctl . end";gap:6px 10px;padding:8px 16px}
+  .pb-art{grid-area:art;width:64px}.pb-mid{grid-area:mid}.pb-ctl{grid-area:ctl}.pb-end{grid-area:end}.pb-top{margin-bottom:5px}.pb-top .trk-now{display:none}.pb-top a{max-width:70%}
+  body.has-bar{padding-bottom:134px}.pills{bottom:130px}
+  .pb-mid,.pb-top{min-width:0}.pb-top .clock{flex:none}   /* the time never gets cut: the title gives way */
+}
+@media (max-width:359px){.pb-in{column-gap:6px}.pb-art{width:48px}}   /* 320 px: art, controls and speed fit one row */
+@media print{
+  .pb,.pills,.toast,.tools,.nc,.tracks,.onrec,.pn,.more,.eh-art,.skip,.tt,.acts,.pg,.upn{display:none!important}
+  body{background:#fff;color:#000;font-size:11pt;padding:0!important}.view{padding:0;max-width:none}.ep .col{margin:0;max-width:none}
+  .essay.clamp p{max-height:none;-webkit-mask:none;mask:none}.turn{break-inside:avoid-page}a{text-decoration:none}.eh{display:block}
+}
+</style>
+</head>
+<body data-page="episodes">
+<a class="skip" href="#main">Skip to content</a>
+<header class="hd"><div class="hd-in">
+  <a class="wm" href="index.html#/" aria-label="FUS Forward Records: home"><svg width="30" height="18" viewBox="0 0 30 18" aria-hidden="true"><path d="M0 0l14 9-14 9z" fill="#EF7D00"/><path d="M12 0l14 9-14 9z" fill="#E8005A"/></svg><b>FUS Forward</b><span class="rc">Records</span></a>
+  <nav class="nav" aria-label="Sections"><a href="index.html#/" data-nav="episodes" aria-current="page">Episodes</a><a href="explained.html" data-nav="explained">Explained</a></nav>
+  <label class="hs"><svg width="14" height="14" viewBox="0 0 16 16" aria-hidden="true"><circle cx="6.8" cy="6.8" r="5" fill="none" stroke="currentColor" stroke-width="1.6"/><path d="M10.5 10.5 15 15" stroke="currentColor" stroke-width="1.6"/></svg>
+    <input id="q" type="search" placeholder="Search every episode" autocomplete="off" spellcheck="false" aria-label="Search every transcript (press / to focus)"><kbd aria-hidden="true">/</kbd></label>
+  <button class="ib" id="theme" type="button" aria-label="Switch to light theme"><svg width="18" height="18" viewBox="0 0 18 18" aria-hidden="true"><circle cx="9" cy="9" r="7.2" fill="none" stroke="currentColor" stroke-width="1.4"/><path d="M9 1.8a7.2 7.2 0 0 1 0 14.4z" fill="currentColor"/></svg></button>
+</div></header>
+<noscript><p class="nojs">This site needs JavaScript to play audio and show transcripts.</p></noscript>
+
+<main id="main" tabindex="-1">
+  <section class="view" id="vHome" hidden>
+    <h1 class="vh" tabindex="-1">FUS Forward transcripts</h1>
+    <article class="feat" id="feat" aria-label="Latest episode"></article>
+    <p class="newto"><a href="explained.html"><span>New to focused ultrasound?</span> <b>Start with Explained</b> <span aria-hidden="true">→</span></a></p>
+    <div class="shelf-bar"><h2>All episodes</h2>
+      <div class="sort lab" role="group" aria-label="Sort episodes"><button type="button" data-sort="new" aria-pressed="true">Newest</button><button type="button" data-sort="no" aria-pressed="false">Oldest</button></div></div>
+    <ol class="shelf" id="shelf"></ol>
+    <p class="colo">The transcripts read clean by default, without the “um”s and false starts; switch to Verbatim on any episode to see every word as spoken.</p>
+  </section>
+  <section class="view ep" id="vEp" hidden></section>
+  <section class="view" id="vSearch" hidden><h1 class="sh1" id="sTitle" tabindex="-1">Search</h1><p class="vh" id="sLive" role="status"></p><div id="sres"></div></section>
+  <section class="view" id="vErr" hidden><h1 class="vh" tabindex="-1">FUS Forward transcripts</h1><div id="errBox" style="margin-top:56px"></div></section>
+</main>
+<footer class="ft"><div class="ft-in">
+  <p class="ft-wm"><svg width="20" height="12" viewBox="0 0 30 18" aria-hidden="true"><path d="M0 0l14 9-14 9z" fill="#EF7D00"/><path d="M12 0l14 9-14 9z" fill="#E8005A"/></svg>FUS Forward Records</p>
+  <p class="ft-x">Unofficial, machine-generated transcripts of FUS Forward, the focused-ultrasound podcast with Charles Caskey and Keith Murphy. Names are sometimes misheard. Audio and artwork © FUS Forward.</p>
+  <p><a href="https://anchor.fm/s/1077a238c/podcast/rss" target="_blank" rel="noopener">Podcast feed<span class="vh"> (opens in a new tab)</span></a></p>
+</div></footer>
+
+<div class="pills"><button type="button" class="pill" id="backPill" hidden></button><button type="button" class="pill" id="nowPill" hidden></button></div>
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+<div class="pb" id="pb" role="region" aria-label="Player" hidden><div class="pb-in">
+  <a class="pb-art" id="pbArt" href="#/" tabindex="-1" aria-hidden="true"><img alt="" id="pbImg"></a>
+  <div class="pb-ctl">
+    <button type="button" id="b15" aria-label="Back 15 seconds"><svg width="22" height="22" viewBox="0 0 24 24" aria-hidden="true"><path d="M5.6 8.2A7.4 7.4 0 1 1 4.6 12" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/><path d="M5.2 3.8v4.7h4.7" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/><text x="12.6" y="15.4" font-size="7" font-weight="700" text-anchor="middle" fill="currentColor" font-family="Inter,sans-serif">15</text></svg></button>
+    <button type="button" class="pp" id="pp" aria-label="Play"></button>
+    <button type="button" id="f15" aria-label="Forward 15 seconds"><svg width="22" height="22" viewBox="0 0 24 24" aria-hidden="true"><path d="M18.4 8.2A7.4 7.4 0 1 0 19.4 12" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/><path d="M18.8 3.8v4.7h-4.7" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/><text x="11.4" y="15.4" font-size="7" font-weight="700" text-anchor="middle" fill="currentColor" font-family="Inter,sans-serif">15</text></svg></button>
+  </div>
+  <div class="pb-mid">
+    <div class="pb-top"><a id="pbCat" href="#/"></a><span class="trk-now" id="pbTrk"></span><span class="clock"><time id="tNow">0:00</time> <span>/ <time id="tDur">0:00</time></span></span></div>
+    <div class="trace"><div class="lanes" id="lanes" aria-hidden="true"></div>
+      <div class="tb" id="tb" role="slider" tabindex="0" aria-label="Timeline: drag to seek. Lanes show who is talking." aria-valuemin="0" aria-valuemax="0" aria-valuenow="0">
+        <canvas id="cvA"></canvas><div class="played" id="played"><canvas id="cvB"></canvas></div><div class="ticks" id="ticks"></div><i class="head" id="head"></i><div class="tip" id="tip"></div></div></div>
+  </div>
+  <div class="pb-end"><button type="button" id="rate" aria-label="Playback speed">1×</button>
+    <button type="button" id="copy" aria-label="Copy link to this moment"><svg width="18" height="18" viewBox="0 0 20 20" aria-hidden="true"><path d="M8.6 11.4a3.4 3.4 0 0 0 4.8 0l3-3a3.4 3.4 0 0 0-4.8-4.8l-1 1M11.4 8.6a3.4 3.4 0 0 0-4.8 0l-3 3a3.4 3.4 0 0 0 4.8 4.8l1-1" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></svg></button></div>
+</div></div>
+<audio id="audio" preload="none"></audio>
+
+<script src="../shared/core.js"></script>
+<script src="site.js"></script>
+<script>
+/* FUS Forward Records: the episodes, each episode's page with its turntable and margin notes, the search, and one player bar,
+   as one hash-routed page:  #/  #/record/16?t=600  #/search?q=…  (?ep=16&t=600 and ?q=… links are sent there). */
+(() => {
+const $ = (s, r = document) => r.querySelector(s), $$ = (s, r = document) => [...r.querySelectorAll(s)], esc = FF.esc, audio = $("#audio");
+const RSS = "https://anchor.fm/s/1077a238c/podcast/rss", RM = matchMedia("(prefers-reduced-motion: reduce)");
+const PLAY = '<svg viewBox="0 0 16 16" width="16" height="16" aria-hidden="true"><path d="M4.5 2.2v11.6L13.8 8z" fill="currentColor"/></svg>';
+const PLAYI = PLAY.replace("M4.5 2.2", "M5 2.2");
+const PAUSE = '<svg viewBox="0 0 16 16" width="16" height="16" aria-hidden="true"><path d="M3.6 2.5h3v11h-3zM9.4 2.5h3v11h-3z" fill="currentColor"/></svg>';
+// Glossary terms that never title a chapter or count as a mention: what the whole series is about.
+const SKIP = new Set(["FUS", "ultrasound neuromodulation", "TUS", "LIFU", "tFUS", "low-intensity focused ultrasound", "transcranial ultrasound stimulation"]);
+const store = { get: FFW.get, set: FFW.set };        // site.js: every value checked against its default's type; junk is dropped
+const RATES = [1, 1.25, 1.5, 1.75, 2, .75];
+const S = { eps: [], gl: [], rows: null, vc: new Map(), view: null, play: null, bind: null, back: null, pending: null, follow: true, intent: 0, prog: 0,
+  rate: store.get("rate", 1, r => RATES.includes(r)), sort: store.get("sort", "new", v => v === "new" || v === "no"), drag: false, sec: -1, trk: null,
+  clean: store.get("clean", true), pos: store.get("pos", {}, o => Object.values(o).every(t => typeof t === "number" && isFinite(t))), notes: store.get("notes", true), stopAt: null };
+
+/* ---------- small helpers ---------- */
+const lastAt = (a, x) => { let lo = 0, hi = a.length - 1, r = 0; while (lo <= hi) { const m = (lo + hi) >> 1; if (a[m] <= x + .05) { r = m; lo = m + 1; } else hi = m - 1; } return r; };
+const lowerBound = (a, x) => { let lo = 0, hi = a.length; while (lo < hi) { const m = (lo + hi) >> 1; if (a[m] < x) lo = m + 1; else hi = m; } return lo; };
+const fold = s => s.normalize("NFD").replace(/[̀-ͯ]/g, "");
+const norm = s => fold(s).toLowerCase().replace(/[’‘]/g, "'");
+const slug = s => norm(s).replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
+const cat = n => "Ep " + n;
+const unk = w => /^Unknown/.test(w);                 // "Unknown", "Unknown 1", "Unknown 2": a speaker the transcriber could not name
+const first = w => unk(w) ? "Unidentified speaker" : w === "Intro narrator" ? "Show intro" : w.split(" ")[0];
+const disp = w => unk(w) ? "Unidentified speaker" : w === "Intro narrator" ? "Show intro" : w;
+const isIj = (ep, t) => { let n = 0; for (let i = t.w0; i < t.w1; i++) if (!ep.words[i].ev && ++n > 3) return false; return n > 0; };
+const plural = (n, w, p) => `${n.toLocaleString("en")} ${n === 1 ? w : p || w + "s"}`;
+const capFirst = s => /^[a-z]/.test(s) && !/[A-Z]/.test(s.split(/\s/)[0]) ? s[0].toUpperCase() + s.slice(1) : s;   // "fMRI", "tFUS", "k-Wave" keep their case
+// "26 October 2026", or "Sep 2026" with { month: "short" }. Spelled out here, not by toLocaleDateString: en-GB writes
+// "Sept" but "Jun" and "Jul", which reads like a typo in a list of episodes.
+const MONTHS = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
+const dateFmt = (d, o = { day: "numeric", month: "short", year: "numeric" }) => {
+  const [y, m, dd] = String(d).split("-").map(Number); if (!y || !m) return "";
+  const mon = o.month === "long" ? MONTHS[m - 1] : MONTHS[m - 1].slice(0, 3);
+  return [o.day && dd ? dd : "", mon, o.year ? y : ""].filter(Boolean).join(" ");
+};
+const EP = n => S.eps.find(e => e.n === n);
+// The episode before or after n among those on the site (an episode can be hidden, so n ± 1 may not exist).
+const nbr = (n, d) => { const a = S.eps.map(e => e.n).sort((x, y) => x - y); return EP(a[a.indexOf(n) + d]); };
+const reEsc = s => s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+const wordAt = (ep, t) => lastAt(ep.starts, t);
+const pad = x => String(x).padStart(2, "0");
+const recHref = FF.link;                              // #/record/16?t=600
+const secs = d => `${Math.max(1, Math.round(d))} s`; // a clip's length
+// A link out of the site, from data: http(s) only (FF.safeUrl), in a new tab, saying so to a screen reader.
+const ext = (href, html, attrs = "") => `<a href="${esc(FF.safeUrl(href))}"${attrs} target="_blank" rel="noopener">${html}<span class="vh"> (opens in a new tab)</span></a>`;
+let toastT; function toast(msg) { const t = $("#toast"); t.textContent = msg; t.classList.add("on"); clearTimeout(toastT); toastT = setTimeout(() => t.classList.remove("on"), 2200); }
+
+/* ---------- the art ---------- */
+// The turntable's record size by episode length (a 7-inch single, a 10-inch, a 12-inch LP): disc scale and speed.
+const fmtOf = e => e.duration_s <= 1200 ? { fs: .72, rpm: "45" } : e.duration_s <= 2700 ? { fs: .86, rpm: "33⅓" } : { fs: 1, rpm: "33⅓" };
+const headline = e => e.display_title;               // the title without the guest's name ("A very fus future"), written by the build
+const artist = e => (e.guests.length ? e.guests : e.hosts).join(" & ");
+const SZ = { card: "(max-width:699px) calc(100vw - 32px), (max-width:1159px) 400px, 270px", hit: "(max-width:699px) 96px, 176px", upn: "(max-width:699px) calc(100vw - 64px), 200px" };
+function sleeveHTML(e, eager, sizes) {                // the episode's own 16:9 artwork; `sizes` (SZ) lets a small sleeve take a smaller copy
+  return `<span class="slv" aria-hidden="true"><img ${sizes ? FFW.art(e.art, sizes) : `src="../${esc(e.art)}"`} alt="" ${eager ? 'fetchpriority="high"' : 'loading="lazy"'} decoding="async"></span>`;
+}
+/* ---------- resume: each episode's place, kept in this browser ---------- */
+const posOf = n => +(S.pos[n] || 0);
+const resumeAt = e => { const t = posOf(e.n); return t > 5 && t < e.duration_s * .95 ? t : 0; };
+let posT = 0;
+function savePos(force) {                             // throttled: at most every 4 s while playing, at once on pause
+  const V = S.play; if (!V) return; const now = performance.now();
+  if (!force && now - posT < 4000) return; posT = now;
+  if (S.heard !== V.n || V.player.fresh || audio.src !== V.ep.audio_url) return;   // only after this episode really played
+  const t = audio.ended ? V.dur : audio.currentTime; if (!(t > 1)) return;
+  S.pos[V.n] = Math.round(t); store.set("pos", S.pos); refreshProg(V.n);
+}
+function progHTML(e, cont = true) {                   // the thin bar under a cover: "32 min left" or "Played", and Continue
+  const t = posOf(e.n), d = e.duration_s; if (t < 15) return `<div class="pg" data-pg="${e.n}" data-cont="${+cont}" hidden></div>`;
+  const f = Math.min(1, t / d), done = f > .95;
+  return `<div class="pg${done ? " done" : ""}" data-pg="${e.n}" data-cont="${+cont}"><span class="pgb" role="progressbar" aria-label="Listened" aria-valuemin="0" aria-valuemax="100" aria-valuenow="${Math.round(f * 100)}"><i style="width:${(f * 100).toFixed(1)}%"></i></span>` +
+    `<span class="pgt">${done ? "Played" : `${Math.max(1, Math.round((d - t) / 60))} min left`}</span>${cont && !done ? `<button type="button" class="cont" data-play="${e.n}" data-resume aria-label="Continue ${cat(e.n)} from ${FF.fmt(t)}">Continue</button>` : ""}</div>`;
+}
+function refreshProg(n) { const e = EP(n); if (!e) return; $$(`[data-pg="${n}"]`).forEach(el => { el.outerHTML = progHTML(e, el.dataset.cont !== "0"); }); }
+const hpHTML = e => `<button type="button" class="hp" data-play="${e.n}" aria-label="Play ${cat(e.n)}, ${esc(artist(e))}">${PLAYI}</button>`;
+async function playEp(n, fromStart) {                 // play an episode in the bottom player without leaving the page; pause if it is playing
+  if (S.play && S.play.n === n) { S.play.player.toggle(); return; }
+  let V; try { V = await getView(n); } catch (e) { toast(`Could not open ${cat(n)}. Check your connection and try again.`); return; }
+  const t = fromStart ? 0 : resumeAt(V.meta);
+  adopt(V); V.player.seek(t, true); V.player.refresh(t);
+  if (TT.V === V) { TT.rest = false; armTo(t, true); }
+}
+
+/* ---------- reading a record: chapters, speakers, mentions ---------- */
+function tracksOf(ep, meta, end) {                    // ~10-minute tracks, titled by the glossary terms most distinctive to each
+  const own = new Set([...meta.guests, ...meta.hosts].map(norm));
+  const ch = []; let next = 0;
+  for (const t of ep.turns) if (t.s >= next && (!ch.length || (t.w1 - t.w0 > 3 && !isIj(ep, t)))) { ch.push({ k: t.k, s: t.s, w0: t.w0 }); next = (Math.floor(t.s / 600) + 1) * 600; }
+  if (ch.length > 2 && end - ch[ch.length - 1].s < 150) ch.pop();
+  ch.forEach((c, i) => { c.e = ch[i + 1] ? ch[i + 1].s : end; c.w1 = ch[i + 1] ? ch[i + 1].w0 : ep.words.length; });
+  // Only meaningful glossary terms: no people, no institutions, nothing the whole series is about, not this episode's own guests.
+  const plain = /\b(University|College|Institute|Laboratory|Center|Officer|Capital)\b|^(CNRS|UCL|Guangdong)$/;
+  const gl = S.gl.filter(g => g.kind === "term" && !SKIP.has(g.term) && !own.has(norm(g.term)) && !plain.test(g.term)
+    && (!meta.affiliation || !norm(meta.affiliation).includes(norm(g.term))) && g.episodes.includes(ep.n));
+  const cnt = gl.map(g => ch.map(c => g.hits.filter(([n, s, who]) => n === ep.n && who !== "Intro narrator" && s >= Math.max(c.s, 25) && s < c.e).length));
+  const nCh = ch.length, used = new Map();               // lead term -> how many chapters it already titles
+  let prevLead = null;
+  ch.forEach((c, i) => {
+    const sc = gl.map((g, j) => {
+      const here = cnt[j][i], tot = cnt[j].reduce((a, b) => a + b, 0), spread = cnt[j].filter(Boolean).length;
+      if (here < 2) return null;
+      // distinctive to this stretch: its share of the term's mentions, and how few chapters it appears in
+      const score = here * (0.35 + here / tot) * Math.log(1 + nCh / spread) / (1 + 1.5 * (used.get(g.term) || 0));
+      return { term: g.term, here, score };
+    }).filter(Boolean).filter(x => x.term !== prevLead).sort((a, b) => b.score - a.score || b.here - a.here);
+    let t = sc.slice(0, 1);
+    const two = sc.slice(1).find(x => !norm(x.term).includes(norm(sc[0].term)) && !norm(sc[0].term).includes(norm(x.term)));   // not "PRF & double PRF"
+    if (two && two.score >= sc[0].score * 0.45) t.push(two);
+    t = t.map(x => x.term);
+    if (!t.length) {                                  // a quieter stretch: the term most its own, even if said once
+      const one = gl.map((g, j) => ({ term: g.term, here: cnt[j][i], tot: cnt[j].reduce((a, b) => a + b, 0) }))
+        .filter(x => x.here && x.term !== prevLead).sort((a, b) => b.here / b.tot - a.here / a.tot || b.here - a.here)[0];
+      if (one) t = [one.term];
+    }
+    if (t.length) used.set(t[0], (used.get(t[0]) || 0) + 1);
+    prevLead = t[0] || null;
+    c.title = t.length ? t.map((x, j) => j ? x : capFirst(x)).join(" & ") : "";
+  });
+  // A stretch with no term of its own joins the chapter before it; an untitled first stretch is the introduction.
+  for (let i = ch.length - 1; i > 0; i--) if (!ch[i].title) { ch[i - 1].e = ch[i].e; ch[i - 1].w1 = ch[i].w1; ch.splice(i, 1); }
+  if (ch.length && !ch[0].title) ch[0].title = "Introduction";
+  const half = Math.ceil(ch.length / 2);
+  ch.forEach((c, i) => Object.assign(c, { i, side: i < half ? "A" : "B", no: i < half ? i + 1 : i - half + 1 }));
+  return ch;
+}
+const trackAt = (V, t) => { const T = V.tracks; let k = 0; while (k < T.length - 1 && T[k + 1].s <= t + .01) k++; return T[k]; };
+function voicesOf(V) {                                // a colour key per speaker: the hosts, then up to three guests
+  const sp = V.ep.speakers, { guests, hosts } = V.meta, odd = w => unk(w) || w === "Intro narrator";
+  const gs = [...guests, ...sp.filter(w => !guests.includes(w) && !hosts.includes(w) && !odd(w))], key = {};
+  for (const w of new Set([...sp, ...guests, ...hosts]))
+    key[w] = hosts.includes(w) ? FF.role(w) : unk(w) ? "unk" : w === "Intro narrator" ? "narr" : "g" + Math.min(3, gs.indexOf(w) + 1);
+  return { key };
+}
+function refsOf(V) {                                  // people & ideas mentioned on this episode, with their moments
+  const own = new Set([...V.meta.guests, ...V.meta.hosts].map(norm));
+  return S.gl.filter(g => !SKIP.has(g.term) && !own.has(norm(g.term)))
+    .map(g => ({ g, kind: g.kind, hs: g.hits.filter(h => h[0] === V.n && h[2] !== "Intro narrator").map(h => h[1]).sort((a, b) => a - b) }))
+    .filter(x => x.hs.length).sort((a, b) => b.hs.length - a.hs.length || a.hs[0] - b.hs[0])
+    .map(x => ({ ...x, guestOf: x.kind === "person" ? (S.eps.find(e => e.guests.some(y => norm(y) === norm(x.g.term))) || {}).n : null }));
+}
+function lanesOf(V) {                                 // one trace lane per speaker: guests, then the hosts
+  const tm = V.meta.talk_min || {}, names = [...V.meta.guests, ...V.meta.hosts, ...V.ep.speakers.filter(w => unk(w) && (tm[w] || 0) >= .5)];
+  const of = {}; V.ep.speakers.forEach((sp, p) => { const i = names.indexOf(sp); if (i >= 0) of[p] = i; });
+  return { names, of };
+}
+let notesP = null;
+function noteData() {                                 // what the margin notes, Show Notes and "From this episode" draw on, fetched with the first episode opened
+  return notesP || (notesP = Promise.allSettled(["../data/explainers.js", "../data/mentions.js", "essentials.js"].map(FF.script))
+    .then(r => { XP = buildXP(); MN = window.FF_MENTIONS || MN; if (r.some(x => x.status === "rejected")) notesP = null; }));   // a file that failed is tried again with the next episode
+}
+/* Episode views: the last VC_MAX opened are kept (most recent last); older ones are released, with their decoded
+   transcript, unless they are on screen or playing. Back to a released one decodes it again from the cached file. */
+const VC_MAX = 4;
+function keepView(V) {
+  S.vc.delete(V.n); S.vc.set(V.n, V);
+  for (const [k, W] of S.vc) { if (S.vc.size <= VC_MAX) break; if (W === S.view || W === S.play) continue; S.vc.delete(k); FF.release(k); }
+  return V;
+}
+async function ensureGl() {                          // the glossary failed at boot: try again with the next episode, but never block it
+  if (!S.glMissing) return;
+  try { S.gl = await FF.glossary(); S.glMissing = false; } catch (e) {}
+}
+async function getView(n) {
+  if (S.play && S.play.n === n) return keepView(S.play);   // the one playing (or on screen) is always the same view
+  if (S.view && S.view.n === n) return keepView(S.view);
+  if (S.vc.has(n)) return keepView(S.vc.get(n));
+  const [ep] = await Promise.all([FF.episode(n), noteData(), ensureGl()]); if (S.vc.has(n)) return keepView(S.vc.get(n));
+  const meta = EP(n), V = { n, ep, meta, dur: ep.duration_s || meta.duration_s };
+  V.tracks = tracksOf(ep, meta, V.dur); V.voice = voicesOf(V); V.refs = refsOf(V); V.lanes = lanesOf(V);
+  if (S.glMissing) return V;                           // chapters and mentions without the glossary: rebuilt next time
+  return keepView(V);
+}
+/* ---------- the record page ---------- */
+/* The transcript's two readings: clean or verbatim. Each is its own copy inside #tx, with its own margin notes.
+   The one not shown is content-visibility:hidden, which keeps its layout, so the Verbatim switch swaps a class
+   instead of re-rendering (and re-laying out) 14,000 words. The reading on screen is built first; the other is
+   built and laid out while idle. */
+const TXV = { V: null, map: new Map(), cur: null, idle: 0 };
+const rdKey = clean => clean ? "c" : "v";
+const txRoot = () => TXV.cur ? TXV.cur.root : $("#tx");
+const spanOf = i => TXV.cur ? TXV.cur.spans[i] || null : $(`#tx .w[data-i="${i}"]`);
+function buildReading(V, key) {                       // one reading, each chapter's heading inline above its text, with its notes
+  const { ep, n } = V, TR = V.tracks, clean = key === "c"; let ti = 0;
+  const before = t => {                               // every chapter that has opened by this turn (a folded "Yeah." never swallows one)
+    let h = "";
+    while (ti < TR.length && TR[ti].k <= t.k) {
+      const c = TR[ti++];
+      h += `<h3 class="trk"><a href="${recHref(n, c.s)}" data-s="${c.s}" aria-label="Play chapter ${c.side}${c.no}, ${esc(c.title)}, from ${FF.fmt(c.s)}"><span class="no">${c.side}${c.no} <span aria-hidden="true">·</span> <time>${FF.fmt(c.s)}</time></span><span class="nm">${esc(c.title)}</span></a></h3>`;
+    }
+    return h;
+  };
+  const tmp = document.createElement("div");
+  FF.renderReadable(tmp, ep, { before, name: disp, clean });
+  const root = tmp.firstElementChild, spans = [];
+  root.querySelectorAll("[data-k]").forEach(el => el.classList.add("s-" + V.voice.key[ep.turns[+el.dataset.k].who]));
+  for (const sp of root.getElementsByClassName("w")) { const i = sp.getAttribute("data-i"); if (i !== null) spans[+i] = sp; }
+  const R = { key, root, spans, cards: [] };
+  R.cards = makeNotes(V, R);
+  return R;
+}
+function renderTx(V) {                                // a new episode on screen: its reading for the current switch
+  cancelIdle(TXV.idle);
+  Object.assign(TXV, { V, map: new Map(), cur: null, idle: 0 });
+  const R = buildReading(V, rdKey(S.clean)); TXV.map.set(R.key, R); TXV.cur = R;
+  $("#tx").appendChild(R.root);
+  mountNotes(V, R);
+  warmReadings(V);
+}
+const idle = f => "requestIdleCallback" in window ? requestIdleCallback(f, { timeout: 5000 }) : setTimeout(f, 800);
+const cancelIdle = h => { if (!h) return; "cancelIdleCallback" in window ? cancelIdleCallback(h) : clearTimeout(h); };
+function warmReadings(V) {                            // build the other reading in an idle moment, and lay it out once
+  cancelIdle(TXV.idle); TXV.idle = 0;
+  const want = rdKey(!S.clean); if (TXV.map.has(want)) return;
+  TXV.idle = idle(() => {
+    TXV.idle = 0; if (TXV.V !== V || S.view !== V) return;
+    if (TXV.map.has(want)) return warmReadings(V);
+    const R = buildReading(V, want); TXV.map.set(want, R);
+    R.root.classList.add("rd-warm"); R.root.setAttribute("aria-hidden", "true"); $("#tx").appendChild(R.root);   // in the column, clipped out of sight
+    setTimeout(() => {                                 // a task of its own (not a frame callback: a hidden tab has none)
+      if (TXV.cur !== R) { void R.root.offsetHeight; R.root.classList.replace("rd-warm", "rd-off"); }   // laid out once, then hidden with its layout kept
+      if (TXV.V === V) warmReadings(V);
+    }, 0);
+  });
+}
+function showReading() {                              // switch to the reading for the current switch, keeping the line being read in place
+  const V = S.view; if (!V || TXV.V !== V || !$("#tx") || route().r !== "ep") return;
+  const key = rdKey(S.clean), old = TXV.cur; if (old && old.key === key) return;
+  const ra = readAnchor(), anchor = ra ? +ra.sp.dataset.i : null, top = ra ? ra.top : 0;
+  let R = TXV.map.get(key);
+  if (!R) { R = buildReading(V, key); TXV.map.set(key, R); R.root.classList.add("rd-off"); $("#tx").appendChild(R.root); }
+  if (old) { old.root.classList.add("rd-off"); old.root.querySelectorAll(".now, .live, .nhl, .hot, .flash").forEach(x => x.classList.remove("now", "live", "nhl", "hot", "flash")); }
+  R.root.classList.remove("rd-off", "rd-warm"); R.root.removeAttribute("aria-hidden");
+  TXV.cur = R; mountNotes(V, R);
+  if (S.play === V) bindTx();
+  const sp = anchor != null ? visWord(anchor) : null;
+  if (sp) { S.prog = performance.now() + 150; scrollBy(0, sp.getBoundingClientRect().top - top); }
+  warmReadings(V);
+}
+function readAnchor() {                              // the first shown word whose line ends below the header (y 72): the line being read
+  const bl = $$(".ff-p", txRoot());                   // every shown word sits in a paragraph, top to bottom
+  let lo = 0, hi = bl.length;
+  while (lo < hi) { const m = (lo + hi) >> 1; if (bl[m].getBoundingClientRect().bottom > 72) hi = m; else lo = m + 1; }
+  for (let b = lo; b < bl.length; b++) for (const sp of bl[b].querySelectorAll(".w")) {
+    if (sp.hidden) continue; const r = sp.getBoundingClientRect(); if (r.height && r.bottom > 72) return { sp, top: r.top };
+  }
+  return null;
+}
+function setClean(on) {                               // the clean read (default) or every word, verbatim
+  S.clean = on; store.set("clean", on); const b = $("#vbBtn"); if (b) b.setAttribute("aria-pressed", !on); showReading();
+}
+function upNext(n) {                                  // the next episode; after the latest, the earliest one not yet heard
+  return nbr(n, 1) || S.eps.find(e => e.n !== n && posOf(e.n) < 15) || null;
+}
+const upNextHTML = e => `<aside class="upn" aria-label="Up next"><div class="art"><a href="${recHref(e.n)}" tabindex="-1" aria-hidden="true">${sleeveHTML(e, false, SZ.upn)}</a>${hpHTML(e)}</div>` +
+  `<div><p class="lab">Up next · ${cat(e.n)}</p><h3><a href="${recHref(e.n)}">${esc(headline(e))}</a></h3><p>${esc(artist(e))} · ${Math.round(e.duration_s / 60)} min</p>${progHTML(e)}</div></aside>`;
+function renderEpisode(V) {
+  if (S.bind) { S.bind.unbind(); S.bind = null; }
+  const { n, meta } = V, tm = meta.talk_min || {}, notesHTML = showNotesHTML(V), prev = nbr(n, -1), next = nbr(n, 1), up = upNext(n);
+  const cred = [...meta.guests, ...meta.hosts, ...Object.keys(tm).filter(unk)].filter(w => tm[w]).map(w => `<span>${esc(disp(w))} <i>${tm[w]} min</i></span>`).join("");
+  $("#vEp").innerHTML = `<div class="col">
+    <header class="eh"><div class="art eh-art">${sleeveHTML(meta, true)}</div><div class="eh-x">
+      <p class="kick"><b>${cat(n)}</b><span>${dateFmt(meta.date, { day: "numeric", month: "long", year: "numeric" })} · ${Math.round(V.dur / 60)} min</span></p>
+      <h1 tabindex="-1">${esc(headline(meta))}</h1>
+      <p class="fg">${meta.guests.length ? `with <b>${esc(meta.guests.join(" & "))}</b>${meta.affiliation ? `<span>${esc(meta.affiliation)}</span>` : ""}` : `<b>${esc(artist(meta))}</b><span>The hosts in conversation</span>`}</p>
+      ${meta.notes ? `<div class="essay eh-ln clamp"><h2 class="vh">Liner notes</h2><p id="essayP">${esc(meta.notes)}</p><button type="button" class="more" aria-expanded="false" aria-controls="essayP">Read on</button><div class="cred"><span>Speaking time</span>${cred}</div></div>` : ""}
+      <div class="acts"><button type="button" class="bp" id="epPlay" data-play="${n}"></button>
+        <span class="links">${ext(meta.link, "Spotify ↗")}${ext(RSS, "RSS")}<button type="button" id="copyRec">Copy link</button></span></div>
+      ${progHTML(meta, false)}</div>
+    </header>
+    <div class="ep-row"><nav class="sec tracks" aria-labelledby="chH"><h2 class="lab" id="chH">Chapters</h2><ol>${V.tracks.map(c => `<li><a class="tk" href="${recHref(n, c.s)}" data-s="${c.s}" data-ti="${c.i}"><span class="no">${c.side}${c.no}</span><span class="nm">${esc(c.title)}</span><time>${FF.fmt(c.s)}</time></a></li>`).join("")}</ol>${ttHTML(V)}</nav>
+    ${notesHTML}</div>
+    <div class="txw" id="txw"><div class="tools"><h2>Transcript</h2>
+      <button type="button" class="tg" id="ntBtn" aria-pressed="${S.notes}" title="Short notes beside the transcript: terms, papers, tools and people as they come up">Notes</button>
+      <button type="button" class="tg" id="vbBtn" aria-pressed="${!S.clean}" title="Off: the clean read, with fillers, stutters and false starts hidden. On: every word as spoken.">Verbatim</button>
+      <details class="dl"><summary>Download</summary><div class="menu"><button type="button" data-dl="txt">Plain text <small>.txt</small></button><button type="button" data-dl="vtt">Captions <small>.vtt</small></button><button type="button" data-dl="srt">Subtitles <small>.srt</small></button><button type="button" data-dl="print">Print…</button></div></details></div>
+    <article class="tx" id="tx" aria-label="Transcript of ${cat(n)}"></article></div>
+    <p class="tx-end">End of ${cat(n)}. A machine-generated transcript: dotted words were uncertain to the transcriber, and names are sometimes misheard.</p>
+    ${fromEpHTML(V)}
+    ${up ? upNextHTML(up) : ""}
+    <section class="onrec" aria-labelledby="onrecH"><h2 id="onrecH">On this episode</h2><div class="two">
+      <div><h3 class="lab">People &amp; ideas mentioned</h3>${refsHtml(V)}</div>
+      <div><h3 class="lab">Elsewhere in the series</h3>${elsewhereHTML(V)}</div></div></section>
+    <nav class="pn" aria-label="Neighbouring episodes">${prev ? `<a href="${recHref(prev.n)}"><small>← ${cat(prev.n)}</small>${esc(headline(prev))}</a>` : ""}${next ? `<a href="${recHref(next.n)}"><small>${cat(next.n)} →</small>${esc(headline(next))}</a>` : ""}</nav></div>`;
+  renderTx(V);
+  S.view = V; S.trk = null; mountTT(V);
+  if (S.play === V) bindTx();
+  syncPP();
+}
+function refsHtml(V) {
+  if (!V.refs.length) return `<p class="muted">No glossary names or terms come up here.</p>`;
+  return `<ul class="refs">${V.refs.map((x, i) => `<li${i >= 6 ? " hidden" : ""}><b>${esc(x.g.term)}</b><span class="k">${x.kind === "person" ? "person" : "idea"}</span>${x.guestOf && x.guestOf !== V.n ? `<a class="g" href="${recHref(x.guestOf)}">Guest on ${cat(x.guestOf)} →</a>` : ""}<a class="g" href="#/search?q=${encodeURIComponent(x.g.term)}">Every mention →</a>${x.g.def ? `<span class="d">${esc(x.g.def)}</span>` : ""}<span class="mo">${x.hs.slice(0, 5).map(s => `<a href="${recHref(V.n, s)}" data-s="${s}" aria-label="Play mention of ${esc(x.g.term)} at ${FF.fmt(s)}">${FF.fmt(s)}</a>`).join("")}${x.hs.length > 5 ? `<span>+${x.hs.length - 5}</span>` : ""}</span></li>`).join("")}</ul>` +
+    (V.refs.length > 6 ? `<button type="button" class="showall">Show all ${V.refs.length}</button>` : "");
+}
+/* ---------- show notes: the papers discussed on this episode, in the order they first come up (data/mentions.js) ---------- */
+function showNotesHTML(V) {
+  const n = V.n, list = (MN.papers || []).map(p => ({ p, ts: (p.moments || []).filter(m => m.ep === n).map(m => m.t).sort((a, b) => a - b) }))
+    .filter(x => x.ts.length).sort((a, b) => a.ts[0] - b.ts[0]);
+  if (!list.length) return "";
+  const by = p => (p.authors || "").split(/,|…/)[0].trim() + (p.n_authors > 1 ? " et al." : "");
+  return `<section class="sec shownotes" aria-labelledby="snH"><div class="sn-h"><h2 class="lab" id="snH">Show notes</h2><p class="sn-sub">The papers mentioned in this episode</p></div><ul class="sn-list${list.length > 2 ? " sn-two" : ""}">${list.map(({ p, ts }) => {
+    const tip = ` class="fl-t" title="${esc(`${p.title} (${by(p)}, ${p.journal}${p.preprint ? ", preprint" : ""}, ${p.year})`)}"`;
+    return `<li><span class="sn-ln">${p.url ? ext(p.url, esc(p.title), tip) : `<span${tip}>${esc(p.title)}</span>`}` +
+    `<span class="fl-m">${esc(by(p).replace(/ [A-Z]+ et al\.$/, " et al.").replace(/ [A-Z]+$/, ""))} ${p.year} · ${ts.map(s => `<a href="${recHref(n, s)}" data-s="${s}" aria-label="Play where it comes up, at ${FF.fmt(s)}">${FF.fmt(s)}</a>`).join(", ")}</span></span></li>`;
+  }).join("")}</ul></section>`;
+}
+function fromEpHTML(V) {
+  const n = V.n, at = (s, label) => `href="${recHref(n, s)}" data-s="${s}"${label ? ` aria-label="${esc(label)}"` : ""}`;
+  const xs = window.FFW_CLIPS ? window.FFW_CLIPS().flatMap(c => c.clips).filter(x => x.n === n) : [];
+  const col = (lab, body, href, more) => `<div class="fte-c"><h3 class="lab">${lab}</h3>${body}<a class="fl" href="${href}">${more} →</a></div>`;
+  const cols = [];
+  if (xs.length) cols.push(col("Explained", `<ul class="fls">${xs.map(x => `<li><a ${at(x.s)}><span class="fl-t">${esc(x.title)}</span><span class="fl-m">${esc(x.who)} · ${FF.fmt(x.s)} · ${secs(x.e - x.s)}</span></a>${x.caveat ? `<p class="fl-n"><b>Note:</b> ${esc(x.caveat)}</p>` : ""}</li>`).join("")}</ul>`,
+    `explained.html#${xs[0].id}`, "Explained clips from this episode"));
+  return cols.length ? `<section class="fte" aria-labelledby="fteH"><h2 id="fteH">From this episode</h2><div class="fte-g">${cols.join("")}</div></section>` : "";
+}
+/* ---------- elsewhere in the series: other episodes that name this episode's guest (ep.x, built with the data) ---------- */
+function elsewhereHTML(V) {
+  const g = V.meta.guests;
+  if (!g.length) {
+    const out = V.refs.filter(r => r.guestOf && r.guestOf !== V.n);
+    return `<p class="muted">A hosts-only episode, so no guest for the others to name.${out.length ? " Guests of other episodes who come up here:" : ""}</p>` + (out.length ? `<ul class="els">${out.map(r => `<li><a class="er" href="${recHref(r.guestOf)}"><span class="h2"><b>${cat(r.guestOf)}</b>${esc(headline(EP(r.guestOf)))}</span><span class="snip">${esc(r.g.term)}, named ${plural(r.hs.length, "time")} on this episode</span></a></li>`).join("")}</ul>` : "");
+  }
+  // x: [[episode, [[s, who, t], …], snippet html], …], biggest first; s is the mention's search chunk, t the name's own word
+  const groups = (V.ep.x || []).filter(([a]) => EP(a));
+  if (!groups.length) return `<p class="muted">No other episode names ${esc(g.join(" or "))} yet.</p>`;
+  const link = (a, [s, , t]) => `href="${recHref(a, s)}" data-go data-jump data-t="${t != null ? t : s}"`;
+  return `<p class="muted">${esc(g.join(" & "))} ${g.length > 1 ? "are" : "is"} named on ${plural(groups.length, "other episode")}.</p><ul class="els">` + groups.map(([a, xs, snip], gi) => {
+    const [s, who] = xs[0];
+    return `<li${gi >= 3 ? " hidden" : ""}><a class="er" ${link(a, xs[0])}><span class="h2"><b>${cat(a)}</b>${esc(headline(EP(a)))}</span><span class="snip">${esc(first(who))} at ${FF.fmt(s)}: “${esc(snip).replace(/&lt;(\/?)mark&gt;/g, "<$1mark>")}”</span></a>` +
+      (xs.length > 1 ? `<span class="also">Again at ${xs.slice(1, 6).map(y => `<a ${link(a, y)}>${FF.fmt(y[0])}</a>`).join(" · ")}${xs.length > 6 ? ` · +${xs.length - 6}` : ""}</span>` : "") + `</li>`;
+  }).join("") + `</ul>` + (groups.length > 3 ? `<button type="button" class="showall">Show all ${groups.length}</button>` : "");
+}
+
+/* ---------- rows and the search index: phrases across chunk boundaries, exact word on click ---------- */
+let rowsP = null;
+function ensureRows() {
+  return rowsP || (rowsP = FF.rows().then(async rows => {
+    const idx = new Map(), ascii = /^[\x00-\x7f]*$/;
+    let tick = performance.now();
+    for (let ri = 0; ri < rows.length; ri++) {
+      const [n, , , text] = rows[ri]; let X = idx.get(n);
+      if (!X) idx.set(n, X = { tok: [], t2o: [], ow: [], orow: [], ooff: [] });
+      text.split(/\s+/).forEach((w, k) => { const oi = X.ow.length; X.ow.push(w); X.orow.push(ri); X.ooff.push(k);
+        for (const p of (ascii.test(w) ? w.toLowerCase() : norm(w)).split(/[-–—/]+/)) { const t = p.replace(/^[^a-z0-9]+|[^a-z0-9']+$/g, "").replace(/'$/, ""); if (t) { X.tok.push(t); X.t2o.push(oi); } } });
+      if (!(ri & 127) && performance.now() - tick > 25) { await new Promise(r => setTimeout(r)); tick = performance.now(); }   // yield between slices
+    }
+    Object.assign(S, { rows, idx });           // published whole, once complete
+    return rows;
+  }).catch(e => { rowsP = null; throw e; }));          // a failed download is tried again next time
+}
+const qTokens = q => norm(q).split(/[\s\-–—/]+/).map(t => t.replace(/^[^a-z0-9]+|[^a-z0-9']+$/g, "")).filter(Boolean);
+const tmatch = (a, b, pre) => a === b || a === b + "s" || a === b + "es" || a === b + "'s" || (pre && b.length >= 4 && a.startsWith(b));
+const MAXQ = 16;                                      // query words searched; a longer query is cut there (and says so)
+const STOP = new Set(("a an and are as at be been but by can could did do does for from had has have he her him his how i i'm if in into is it it's its " +
+  "just me my no not of on or our out she so than that that's the their them then there they this to too up us was we were what when where which who why " +
+  "will with would you your um uh oh yeah").split(" "));   // left out of the "close together" fallback: they are next to everything
+const META_STOP = new Set(["about", "after", "all", "also", "any", "episode", "ep", "more", "some", "very", "show", "podcast"]);
+let invP = null;
+function ensureInv() {                               // per episode: token -> its positions; and every distinct token. Built once, on the first search
+  return invP || (invP = (async () => {
+    const vocab = new Set(); let tick = performance.now();
+    for (const X of S.idx.values()) {
+      const inv = new Map(), TK = X.tok;
+      for (let i = 0; i < TK.length; i++) { const a = inv.get(TK[i]); if (a) a.push(i); else { inv.set(TK[i], [i]); vocab.add(TK[i]); } }
+      X.inv = inv;
+      if (performance.now() - tick > 25) { await new Promise(r => setTimeout(r)); tick = performance.now(); }
+    }
+    S.vocab = [...vocab];
+  })());
+}
+/* Every place the query is said: as a phrase, else (several words, no phrase anywhere) with every distinct word
+ * within 24 words. Yields to the page between episodes; returns null once `stale()` says a newer search began. */
+async function findAll(q, stale = () => false) {
+  const all = qTokens(q), cut = all.length > MAXQ, qt = all.slice(0, MAXQ), m = qt.length, quoted = /^\s*["“]/.test(q), hits = [];
+  if (!m) return { hits, mode: "phrase", cut };
+  await ensureInv(); if (stale()) return null;
+  const forms = (t, pre) => { const v = new Set([t, t + "s", t + "es", t + "'s"]), p = pre && t.length >= 4;   // the tokens tmatch(token, t, pre) accepts
+    return S.vocab.filter(k => v.has(k) || (p && k.startsWith(t))); };
+  const at = (X, toks) => { const ps = []; for (const k of toks) { const a = X.inv.get(k); if (a) for (const i of a) ps.push(i); } return toks.length > 1 ? ps.sort((a, b) => a - b) : ps; };
+  let tick = performance.now();
+  const pause = async () => { if (performance.now() - tick > 20) { await new Promise(r => setTimeout(r)); tick = performance.now(); } return stale(); };
+  const f0 = forms(qt[0], m === 1 && !quoted);
+  for (const [n, X] of S.idx) { const TK = X.tok; let next = 0;
+    for (const i of at(X, f0)) { if (i < next || i + m > TK.length) continue; let ok = true;
+      for (let j = 1; j < m && ok; j++) ok = tmatch(TK[i + j], qt[j], j === m - 1 && !quoted);
+      if (ok) { hits.push({ n, pos: Array.from({ length: m }, (_, j) => i + j) }); next = i + m; } }
+    if (await pause()) return null; }
+  if (hits.length || m === 1 || quoted) return { hits, mode: "phrase", cut };
+  // Close together: each distinct word once, stop-words left out, every word at its own position.
+  const terms = [...new Set(qt)].filter(t => !STOP.has(t)).map(t => forms(t, t === qt[m - 1])), k = terms.length;
+  if (!k || terms.some(f => !f.length)) return { hits, mode: "near", cut };
+  for (const [n, X] of S.idx) {
+    const ev = []; let miss = false;
+    for (let j = 0; j < k && !miss; j++) { const ps = at(X, terms[j]); if (!ps.length) miss = true; for (const p of ps) ev.push(p * 32 + j); }   // position and word in one number
+    if (!miss) { const E = Int32Array.from(ev).sort(), last = new Array(k).fill(-1e9);
+      for (let e = 0; e < E.length;) { const p = E[e] >> 5;
+        while (e < E.length && E[e] >> 5 === p) last[E[e++] & 31] = p;
+        let lo = p; for (let j = 0; j < k; j++) if (last[j] < lo) lo = last[j];
+        if (p - lo <= 24 && new Set(last).size === k) { hits.push({ n, pos: [...last].sort((a, b) => a - b) }); last.fill(-1e9); } } }
+    if (await pause()) return null; }
+  return { hits, mode: "near", cut };
+}
+function hitInfo(h) {
+  const X = S.idx.get(h.n), oi = h.pos.map(p => X.t2o[p]), o0 = oi[0], ri = X.orow[o0], row = S.rows[ri], who = row[2], marks = new Set(oi);
+  let a = o0, b = oi[oi.length - 1];
+  while (a > 0 && o0 - a < 12 && S.rows[X.orow[a - 1]][2] === who) a--;
+  while (b < X.ow.length - 1 && b - o0 < 26 && S.rows[X.orow[b + 1]][2] === who) b++;
+  const html = (a < o0 - 11 || a > 0 && S.rows[X.orow[a - 1]][2] === who ? "…" : "") + X.ow.slice(a, b + 1).map((w, k) => marks.has(a + k) ? `<mark>${esc(w)}</mark>` : esc(w)).join(" ") + "…";
+  return { n: h.n, ri, off: X.ooff[o0], s: estTime(ri, X.ooff[o0]), who, html };
+}
+const estTime = (ri, off) => { const r = S.rows[ri], nx = S.rows[ri + 1], len = r[3].split(/\s+/).length, end = nx && nx[0] === r[0] ? nx[1] : r[1] + len * .33; return r[1] + Math.min(end - r[1], len * .6) * off / len; };
+function exactTime(V, ri, off) {                      // the matched word's own start time, from the record's word list
+  const [, s, who] = S.rows[ri], W = V.ep.words; let i = lowerBound(V.ep.starts, s - .005), k = 0;
+  for (; i < W.length && W[i].s < s + 120; i++) { if (W[i].ev || W[i].who !== who) continue; if (k === off) return W[i].s; k++; }
+  return s;
+}
+let sTok = 0;
+async function renderSearch(q) {
+  const box = $("#sres"), my = ++sTok; q = q.trim(); const bare = q.replace(/^["“”]+|["“”]+$/g, "").trim() || q;
+  $("#sTitle").textContent = q ? `“${bare}”` : "Search";
+  document.title = (q ? `“${bare}” · ` : "") + "Search · FUS Forward Records";
+  const tries = `<p class="muted tries">Every word of all ${S.eps.length} episodes. Try ${["skull", "auditory confound", "amygdala", "Langevin", "narwhal"].map(x => `<button type="button" data-try="${x}">${x}</button>`).join(", ")}.</p>`;
+  if (!q) { box.innerHTML = tries; $("#sLive").textContent = ""; return; }   // no stale count for a screen reader
+  if (!S.idx) { box.innerHTML = `<p class="sm">Opening the search…</p>`;
+    try { await ensureRows(); } catch (e) { if (my === sTok) box.innerHTML = `<p class="sm" role="alert">The search index could not be downloaded. Check your connection and try again.</p><p><button type="button" class="showall" data-retry>Try again</button></p>`; return; }
+    if (my !== sTok) return; }
+  const res = await findAll(q, () => my !== sTok); if (!res || my !== sTok) return;
+  const { hits, mode, cut } = res, by = new Map();
+  hits.forEach(h => (by.get(h.n) || by.set(h.n, []).get(h.n)).push(h));
+  const groups = [...by].sort((a, b) => b[1].length - a[1].length || b[0] - a[0]);
+  const g = S.gl.find(x => norm(x.term) === norm(q.replace(/["“”]/g, "")));
+  const me = metaMatches(q);
+  const head = (hits.length ? `${plural(hits.length, "moment")} on ${plural(groups.length, "episode")}${mode === "near" ? " · no exact phrase, so these have every word close together" : ""}`
+    : me.length ? `No transcript says “${esc(bare)}”, but it matches ${me.length === 1 ? "an episode’s" : `${me.length} episodes’`} details.` : `Nothing in any episode matches “${esc(bare)}”.`) + (cut ? ` (Searched for the first ${MAXQ} words.)` : "");
+  box.innerHTML = `<p class="sm">${head}</p>` +
+    (g && g.def ? `<p class="gdef"><b>${esc(g.term)}</b> · ${esc(g.def)} <a href="#/search?q=${encodeURIComponent(g.term)}">Every mention →</a></p>` : "") + (hits.length || me.length ? "" : tries) +
+    me.map(({ e, why }) => `<section class="grp grp-m"><a href="${recHref(e.n)}" tabindex="-1" aria-hidden="true">${sleeveHTML(e, false, SZ.hit)}</a><div><a class="gh" href="${recHref(e.n)}"><span class="lab">${cat(e.n)} · ${why}</span><b>${esc(headline(e))}</b><span class="muted">${esc(artist(e))}${e.affiliation ? ` · ${esc(e.affiliation)}` : ""}</span></a></div></section>`).join("") +
+    groups.map(([n, hs]) => { const e = EP(n); return `<section class="grp"><a href="${recHref(n)}" tabindex="-1" aria-hidden="true">${sleeveHTML(e, false, SZ.hit)}</a><div><a class="gh" href="${recHref(n)}"><span class="lab">${cat(n)} · ${plural(hs.length, "moment")}</span><b>${esc(headline(e))}</b><span class="muted">${esc(artist(e))}</span></a>` +
+      `<div class="hits" data-n="${n}">${hitsHtml(hs.slice(0, 4))}</div>${hs.length > 4 ? `<button type="button" class="showall" data-more="${n}">${hs.length - 4} more on this episode</button>` : ""}</div></section>`; }).join("");
+  S.sHits = by;
+  $("#sLive").textContent = $(".sm", box).textContent;   // the result count, read out to a screen reader
+}
+function metaMatches(q) {                            // episodes whose guests, affiliation or title match, with or without diacritics
+  // Only meaningful words count: "the" would match every title with a "the" (or a "then") in it.
+  const qt = qTokens(q.replace(/["“”]/g, " ")).filter(t => t.length > 1 && !STOP.has(t) && !META_STOP.has(t)); if (!qt.length || qt.join("").length < 3) return [];
+  const words = s => norm(s || "").split(/[^a-z0-9']+/).filter(Boolean);
+  const has = s => { const ws = words(s); return qt.every(t => ws.some(w => w.startsWith(t))); };
+  const all = s => { const ws = words(s); return qt.filter(t => ws.some(w => w.startsWith(t))).length; };
+  return S.eps.map(e => {
+    const why = e.guests.some(has) ? "Guest" : has(e.affiliation) ? "Affiliation" : has(e.title) || has(e.full_title) ? "Title"
+      : all([...e.guests, e.affiliation].join(" ")) === qt.length ? "Guests" : null;
+    return why ? { e, why } : null;
+  }).filter(Boolean).sort((a, b) => b.e.n - a.e.n);
+}
+const hitsHtml = hs => hs.map(h => { const x = hitInfo(h); return `<a class="hit" href="${recHref(x.n, x.s)}" data-go data-row="${x.ri}" data-off="${x.off}"><time>${FF.fmt(x.s)}</time><span><b class="who">${esc(first(x.who))}</b>${x.html}</span></a>`; }).join("");
+/* ---------- the turntable: the open record spins; drag the tonearm or tap a groove to drop the needle ---------- */
+const TP = { x: 100, y: 8 }, TC = { x: 56, y: 56 }, ARM = 60, R_OUT = 95, R_IN = 37, GAP = 1.8, REST = 84;
+const TT = { V: null, side: "A", rest: true, armT: 0, U: 0, drag: false, swing: 0, sec: -1 };
+function ttHTML(V) {
+  return `<div class="tt"><div class="stage" id="stage"><div class="platter" id="platter"></div>` +
+    `<div class="disc" id="disc"><div class="disc-in" id="discIn"><svg class="tt-spin" id="discSvg" viewBox="-100 -100 200 200" aria-hidden="true"></svg><div class="sheen"></div><svg class="ghost" id="ghost" viewBox="-100 -100 200 200" aria-hidden="true"><circle r="0"/></svg></div></div>` +
+    `<svg class="arm" viewBox="0 0 110 106"><circle class="rest" id="restPost" r="1.6"/><g id="armG" style="transform:translate(100px,8px) rotate(84deg)" tabindex="0" role="slider" aria-label="Tonearm: drag it onto a groove to drop the needle; arrow keys skip 15 seconds" aria-valuemin="0" aria-valuemax="${Math.floor(V.dur)}" aria-valuenow="0">` +
+    `<rect class="cw" x="-10.5" y="-2.8" width="6.5" height="5.6" rx="1.2"/><line class="tube" x1="-4" y1="0" x2="54" y2="0"/><path class="cart" d="M54 -1.7h7.2v3.4H54z"/><line class="grab" id="armHit" x1="-12" y1="0" x2="64" y2="0"/></g>` +
+    `<circle class="base" cx="100" cy="8" r="4.6"/><circle class="pin" cx="100" cy="8" r="1.5"/></svg><div class="ttip" id="ttip"></div></div><p class="tt-cap">Drag the arm to scrub</p></div>`;
+}
+function grooves(V) {                                 // one groove band per track, width proportional to its length; laughs as pale hairlines
+  if (V.laughs) return;
+  for (const sd of ["A", "B"]) { const G = V.tracks.filter(c => c.side === sd), tot = G.reduce((a, c) => a + c.e - c.s, 0), avail = R_OUT - R_IN - GAP * (G.length - 1); let r = R_OUT; for (const c of G) { c.rA = r; c.rB = r - avail * (c.e - c.s) / tot; r = c.rB - GAP; } }
+  V.laughs = V.ep.words.filter(w => w.ev && /laugh|chuckl/i.test(w.w)).map(w => w.s);
+}
+const ttFs = () => fmtOf(TT.V.meta).fs;
+const rOf = t => { const c = trackAt(TT.V, t), k = Math.max(0, Math.min(1, (t - c.s) / (c.e - c.s))); return c.rA - k * (c.rA - c.rB); };
+function tOfR(r, side) { const G = TT.V.tracks.filter(c => c.side === side); for (const c of G) if (r >= c.rB || c === G[G.length - 1]) return c.s + Math.max(0, Math.min(1, (c.rA - r) / (c.rA - c.rB))) * (c.e - c.s - .5); }
+function renderDisc() {
+  const V = TT.V, ep = V.ep, side = TT.side, G = V.tracks.filter(c => c.side === side), svg = $("#discSvg"); if (!G.length || !svg) return;
+  const s0 = G[0].s, s1 = G[G.length - 1].e, px = 47.5 * ttFs() * TT.U / 100, n = Math.max(24, Math.floor((R_OUT - R_IN) * px / 1.35)), step = (s1 - s0) / n;
+  const sw = ((R_OUT - R_IN) / n * .6).toFixed(3), sheen = { guest: .1, keith: .055, charles: .028, narrator: .02 };
+  let h = `<circle r="100" fill="#0f0f0f"/><circle r="99.3" fill="none" stroke="#2e2d2a" stroke-width=".6"/>`;
+  for (const c of G) h += `<circle r="${((c.rA + c.rB) / 2).toFixed(2)}" fill="none" stroke="#1b1b1a" stroke-width="${(c.rA - c.rB).toFixed(2)}"/>`;
+  let wi = lowerBound(ep.starts, s0);
+  for (let t = s0; t < s1 - step / 2; t += step) {     // groove sheen: brighter where the guest has the floor
+    const cnt = {}; while (wi < ep.words.length && ep.words[wi].s < t + step) { const r = FF.role(ep.words[wi].who); cnt[r] = (cnt[r] || 0) + 1; wi++; }
+    const top = Object.entries(cnt).sort((a, b) => b[1] - a[1])[0];
+    h += `<circle r="${rOf(t + step / 2).toFixed(2)}" fill="none" stroke="rgba(255,255,255,${top ? sheen[top[0]] : .015})" stroke-width="${sw}"/>`;
+  }
+  for (const t of V.laughs) if (t >= s0 && t < s1) h += `<circle r="${rOf(t).toFixed(2)}" fill="none" stroke="rgba(255,240,210,.42)" stroke-width=".24"/>`;
+  h += `<clipPath id="lbl"><circle r="31"/></clipPath><circle r="31" fill="#f4dfe6"/><image class="disc-art" href="../${esc(V.meta.art)}" x="-72" y="-31" width="110.2" height="62" preserveAspectRatio="xMidYMid slice" clip-path="url(#lbl)"/>` +
+    `<circle r="31" fill="none" stroke="rgba(0,0,0,.25)" stroke-width=".6"/><circle r="2.2" fill="#faf7f2"/>`;
+  svg.innerHTML = h; svg.style.animationDuration = fmtOf(V.meta).rpm === "45" ? "1.333s" : "1.8s";
+}
+let flipT = 0;
+function flip(side) { TT.side = side; const d = $("#discIn"); if (!d) return; d.classList.remove("flip"); void d.offsetWidth; d.classList.add("flip"); clearTimeout(flipT); flipT = setTimeout(renderDisc, RM.matches ? 0 : 330); }
+function layoutTT() {
+  const st = $("#stage"); if (!st || !TT.V) return; const U = st.clientWidth / 110; if (!U) return;
+  const dR = 47.5 * ttFs() * U, d = $("#disc").style, p = $("#platter").style;
+  Object.assign(d, { width: 2 * dR + "px", height: 2 * dR + "px", left: TC.x * U - dR + "px", top: TC.y * U - dR + "px" });
+  Object.assign(p, { width: 97 * U + "px", height: 97 * U + "px", left: (TC.x - 48.5) * U + "px", top: (TC.y - 48.5) * U + "px" });
+  const a = REST * Math.PI / 180, rp = $("#restPost"); rp.setAttribute("cx", TP.x + 59 * Math.cos(a)); rp.setAttribute("cy", TP.y + 59 * Math.sin(a));
+  if (Math.abs(TT.U - U) > .3 || !$("#discSvg").firstChild) { TT.U = U; renderDisc(); }
+  armTo(TT.armT, false);
+}
+function phiFor(r) { const rr = r / 100 * 47.5 * ttFs(), dx = TC.x - TP.x, dy = TC.y - TP.y, d = Math.hypot(dx, dy), ca = (ARM * ARM + d * d - rr * rr) / (2 * ARM * d); return (Math.atan2(dy, dx) - Math.acos(Math.max(-1, Math.min(1, ca)))) * 180 / Math.PI; }
+const rForPhi = phi => { const a = phi * Math.PI / 180; return Math.hypot(TP.x + ARM * Math.cos(a) - TC.x, TP.y + ARM * Math.sin(a) - TC.y) / (47.5 * ttFs()) * 100; };
+function setArm(phi, swing) {
+  const g = $("#armG"); if (!g) return; if (swing) TT.swing = performance.now() + 750;
+  const tr = swing && !RM.matches ? "transform .75s cubic-bezier(.3,.7,.25,1)" : "none", tf = `translate(${TP.x}px,${TP.y}px) rotate(${phi.toFixed(2)}deg)`;
+  if (g._tr === tr && g._tf === tf) return; g._tr = tr; g._tf = tf;   // unchanged: no style write, no repaint
+  g.style.transition = tr; g.style.transform = tf;
+}
+function armTo(t, swing) { if (!TT.V) return; TT.armT = t; setArm(TT.rest ? REST : phiFor(rOf(t)), swing); }
+function ttTip(t, x, y) {
+  const tip = $("#ttip"); if (!tip) return; if (t == null) { tip.classList.remove("on"); return; }
+  const c = trackAt(TT.V, t), w = (tip.textContent = `${c.side}${c.no} · ${FF.fmt(t)}`, tip.offsetWidth || 70), W = $("#stage").clientWidth;
+  tip.style.transform = `translate(${Math.max(0, Math.min(W - w, x - w / 2))}px,${Math.max(0, y - 30)}px)`; tip.classList.add("on");
+}
+function ghost(r) { const g = $("#ghost"); if (!g) return; g.classList.toggle("on", r != null); if (r != null) g.firstChild.setAttribute("r", r.toFixed(2)); }
+const stagePt = e => { const b = $("#stage").getBoundingClientRect(); return { x: (e.clientX - b.left) / b.width * 110, y: (e.clientY - b.top) / b.height * 106, px: e.clientX - b.left, py: e.clientY - b.top }; };
+function armDrag(e) {                                 // the arm follows the pointer; over the grooves it shows where the needle would land
+  const p = stagePt(e), pOut = phiFor(R_OUT), pIn = phiFor(R_IN);
+  const phi = Math.max(REST, Math.min(pIn, Math.atan2(p.y - TP.y, p.x - TP.x) * 180 / Math.PI));
+  setArm(phi, false);
+  if (phi < pOut - 2.5) { ttTip(null); ghost(null); return null; }
+  const r = Math.min(R_OUT, rForPhi(Math.max(phi, pOut))), t = tOfR(r, TT.side), a = phi * Math.PI / 180;
+  ghost(r); ttTip(t, (TP.x + ARM * Math.cos(a)) * TT.U, (TP.y + ARM * Math.sin(a)) * TT.U); return t;
+}
+function ttSeek(t) {                                  // drop the needle: this record takes over the player; the page stays put ("Back to now" offers the jump)
+  const V = TT.V; t = Math.max(0, Math.min(V.dur - .5, t)); TT.rest = false;
+  adopt(V); V.player.seek(t, true); V.player.refresh(t); armTo(t, false); S.follow = false; setTimeout(pills, 60);
+}
+function mountTT(V) {
+  grooves(V); Object.assign(TT, { V, U: 0, drag: false, sec: -1 }); const t = S.play === V ? audio.currentTime : 0;
+  TT.rest = !(S.play === V && (t > .5 || !audio.paused)); TT.side = trackAt(V, t).side; TT.armT = t;
+  layoutTT();
+  const hit = $("#armHit"), dIn = $("#discIn"), arm = $("#armG");
+  hit.addEventListener("pointerdown", e => { TT.drag = true; hit.setPointerCapture(e.pointerId); armDrag(e); e.preventDefault(); });
+  hit.addEventListener("pointermove", e => { if (TT.drag) armDrag(e); });
+  const drop = e => { if (!TT.drag) return; TT.drag = false; const t = armDrag(e); ttTip(null); ghost(null);
+    if (t == null) { if (S.play === V) audio.pause(); TT.rest = true; armTo(TT.armT, true); } else ttSeek(t); };
+  hit.addEventListener("pointerup", drop); hit.addEventListener("pointercancel", drop);
+  arm.addEventListener("keydown", e => {
+    const t = S.play === V ? audio.currentTime : 0, c = trackAt(V, t), G = V.tracks;
+    const go = { ArrowRight: t + 15, ArrowUp: t + 15, ArrowLeft: t - 15, ArrowDown: t - 15, PageDown: (G[c.i + 1] || c).s, PageUp: t - c.s > 3 ? c.s : (G[c.i - 1] || c).s, Home: 0 }[e.key];
+    if (go == null) return; e.preventDefault(); ttSeek(go);
+  });
+  const discR = e => { const p = stagePt(e); return Math.hypot(p.x - TC.x, p.y - TC.y) / (47.5 * ttFs()) * 100; };   // from the stage's fixed geometry, not the (possibly still sliding) disc
+  dIn.addEventListener("pointermove", e => {
+    if (TT.drag || e.pointerType === "touch") return; const r = discR(e);
+    if (r > R_OUT + 2 || r < R_IN - 1) { ghost(null); ttTip(null); dIn.style.cursor = r < 31 ? "pointer" : "default"; return; }
+    dIn.style.cursor = "crosshair"; const p = stagePt(e), rr = Math.max(R_IN, Math.min(R_OUT, r)); ghost(rr); ttTip(tOfR(rr, TT.side), p.px, p.py);
+  });
+  dIn.addEventListener("pointerleave", () => { if (!TT.drag) { ghost(null); ttTip(null); } });
+  dIn.addEventListener("click", e => { const r = discR(e);
+    if (r < 31) { if (S.play !== V) adopt(V); V.player.toggle(); return; }   // the label plays or pauses
+    if (r <= R_OUT + 2 && r >= R_IN - 1) ttSeek(tOfR(Math.max(R_IN, Math.min(R_OUT, r)), TT.side)); });
+}
+function ttTime(t) {
+  if (!TT.V || S.play !== TT.V || !$("#armG")) return;
+  if (TT.rest && !audio.paused) TT.rest = false;
+  const c = trackAt(TT.V, t); if (c.side !== TT.side) flip(c.side);
+  if (!TT.drag && performance.now() > TT.swing) armTo(t, !TT.rest && Math.abs(t - TT.armT) > 4);
+  const sec = Math.floor(t); if (sec !== TT.sec) { TT.sec = sec; const g = $("#armG"); g.setAttribute("aria-valuenow", sec); g.setAttribute("aria-valuetext", `${c.side}${c.no}, ${FF.fmt(t)}`); }
+}
+
+/* ---------- the player: one bar that keeps playing across every route; a speaker trace for a seek bar ---------- */
+function adopt(V) {
+  if (S.play === V) { if (S.view === V && !S.bind) bindTx(); return; }
+  const player = new FF.Player(audio, V.ep); V.player = player; S.play = V; S.heard = null; audio.defaultPlaybackRate = audio.playbackRate = S.rate;
+  player.on("time", onTime).on("word", onWord);
+  if (S.view === V) bindTx();
+  $("#pb").hidden = false; document.body.classList.add("has-bar");
+  $("#pbCat").innerHTML = `<b>${cat(V.n)}</b>${esc(headline(V.meta))}`; $("#pbCat").href = recHref(V.n); $("#pbCat").setAttribute("aria-label", `${cat(V.n)}, ${headline(V.meta)}: open the episode`);
+  $("#pbImg").src = "../" + V.meta.art; $("#pbArt").href = recHref(V.n);
+  $("#tDur").textContent = FF.fmt(V.dur); $("#tb").setAttribute("aria-valuemax", Math.floor(V.dur));
+  $("#lanes").innerHTML = V.lanes.names.map(w => `<span title="${esc(disp(w))}" style="color:var(--c-${V.voice.key[w] || "unk"})">${unk(w) ? "?" : FF.initials(w)}</span>`).join("");
+  $("#ticks").innerHTML = V.tracks.slice(1).map(c => `<i style="left:${(c.s / V.dur * 100).toFixed(3)}%"></i>`).join("");
+  S.trk = null; S.sec = -1; drawTrace(); onTime(audio.currentTime || 0); syncPP();
+}
+function bindTx() {                                   // the reading on screen follows the player (its word spans are already indexed)
+  if (S.bind) S.bind.unbind();
+  S.bind = FF.bindTranscript(txRoot(), S.play.player, { spans: TXV.cur && TXV.V === S.play ? TXV.cur.spans : undefined });
+  S.play.player.refresh(); S.trk = null; onTime(audio.currentTime || 0);
+}
+function drawTrace() {
+  const V = S.play, box = $("#tb"); if (!V) return; const W = box.clientWidth, H = box.clientHeight; if (!W) return;
+  const dpr = devicePixelRatio || 1, L = V.lanes.names.length, lh = H / L, nb = Math.max(60, Math.floor(W / 2)), cnt = V.lanes.names.map(() => new Float32Array(nb)), ref = V.dur / nb * 3;
+  for (const w of V.ep.words) { if (w.ev) continue; const li = V.lanes.of[w.p]; if (li != null) cnt[li][Math.min(nb - 1, Math.floor(w.s / V.dur * nb))]++; }
+  const cs = getComputedStyle(document.documentElement), cv = k => cs.getPropertyValue(k).trim();
+  [["#cvA", cv("--tr-a"), cv("--tr-l")], ["#cvB", cv("--tr-b"), cv("--tr-l")]].forEach(([id, fill, line]) => {
+    const cv = $(id); cv.width = W * dpr; cv.height = H * dpr; cv.style.width = W + "px"; cv.style.height = H + "px";
+    const x = cv.getContext("2d"); x.setTransform(dpr, 0, 0, dpr, 0, 0); x.clearRect(0, 0, W, H);
+    for (let li = 0; li < L; li++) { const cy = lh * li + lh / 2, amp = lh / 2 - 1; x.fillStyle = line; x.fillRect(0, cy - .25, W, .5); x.fillStyle = fill;
+      for (let b = 0; b < nb; b++) { const c = cnt[li][b]; if (!c) continue; const a = Math.max(.6, Math.min(1, c / ref) * amp); x.fillRect(b * W / nb, cy - a, Math.max(1, W / nb - .7), a * 2); } }
+  });
+}
+function onTime(t) {
+  const V = S.play; if (!V) return;
+  if (!S.drag) { const f = +Math.min(100, t / V.dur * 100).toFixed(2) + "%", h = $("#head"); if (h.style.left !== f) { h.style.left = f; $("#played").style.width = f; } }
+  const c = trackAt(V, t), sec = Math.floor(t);
+  if (sec !== S.sec) { S.sec = sec; $("#tNow").textContent = FF.fmt(t); const tb = $("#tb"); tb.setAttribute("aria-valuenow", sec); tb.setAttribute("aria-valuetext", `${FF.fmt(t)} of ${FF.fmt(V.dur)}, track ${c.side}${c.no}, ${c.title}`); }
+  if (c !== S.trk) { S.trk = c; $("#pbTrk").textContent = `${c.side}${c.no} · ${c.title}`; if (S.view === V) $$("#vEp .tk").forEach(a => a.classList.toggle("on", +a.dataset.ti === c.i)); }
+  const X = S.stopAt;                                 // a note's clip: stop at its end; forget it once the listener jumps elsewhere
+  if (X && !audio.seeking && !V.player.fresh) { const at = audio.currentTime, inside = X.n === V.n && at >= X.s - .6 && at <= X.e + .4;
+    if (inside) X.armed = true;
+    if (X.armed && !inside && (X.n !== V.n || at < X.s - 1.5 || at > X.e + 2)) S.stopAt = null;
+    else if (X.armed && at >= X.e && !audio.paused) { audio.pause(); S.stopAt = null; } }
+  ttTime(t); savePos();
+}
+function onWord() { if (S.view === S.play && route().r === "ep" && S.follow && !audio.paused) { const sp = nowSpan(); if (sp) { const r = sp.getBoundingClientRect(); if (r.top < 80 || r.bottom > innerHeight - barH() - 40) toWord(sp); } } pills(); }
+const barH = () => $("#pb").hidden ? 0 : $("#pb").offsetHeight;
+const visible = sp => sp && !sp.closest("[hidden]");
+const nowSpan = () => { if (!(S.bind && S.play && S.play.player.i >= 0)) return null; const sp = S.bind.spans; let i = S.play.player.i; while (i > 0 && sp[i] && !visible(sp[i])) i--; return sp[i] || null; };
+function visWord(i) { let sp = spanOf(i); while (sp && i > 0 && !visible(sp)) sp = spanOf(--i); return sp; }
+function toWord(sp, flash, jump) {
+  if (!sp) return; S.prog = performance.now() + (RM.matches || jump ? 150 : 1000);
+  scrollTo({ top: Math.max(0, sp.getBoundingClientRect().top + scrollY - innerHeight * .36), behavior: RM.matches || jump ? "auto" : "smooth" });
+  if (flash) { const tr = sp.closest(".turn"); if (tr) { tr.classList.add("flash"); setTimeout(() => tr.classList.remove("flash"), 1800); } }
+}
+const toTime = (t, flash, jump) => { if (S.view) toWord(visWord(wordAt(S.view.ep, t)), flash, jump); };
+function seekHere(t, play = true) { const V = S.view; t = Math.max(0, Math.min(V.dur - .5, t)); adopt(V); V.player.seek(t, play); V.player.refresh(t); if (TT.V === V) { TT.rest = false; armTo(t, true); } S.follow = true; toTime(t); }
+function syncPP() {
+  const p = !audio.paused; $("#pp").innerHTML = p ? PAUSE : PLAY; $("#pp").setAttribute("aria-label", p ? "Pause" : "Play");
+  $("#vEp").classList.toggle("playing", p && !!S.play && S.play === S.view);
+  $$("[data-play]").forEach(b => {                    // every play button on the page shows whether its episode is the one playing
+    const n = +b.dataset.play, on = p && !!S.play && S.play.n === n, e = EP(n); if (!e) return;
+    if (b.classList.contains("hp")) { b.classList.toggle("on", on); b.innerHTML = on ? PAUSE : PLAYI; b.setAttribute("aria-label", `${on ? "Pause" : "Play"} ${cat(n)}, ${artist(e)}`); }
+    else if (b.id === "epPlay") { const t = S.play && S.play.n === n ? audio.currentTime : resumeAt(e), mid = t > 5 && t < e.duration_s * .95;
+      b.innerHTML = on ? `${PAUSE}Pause` : `${PLAYI}${mid ? `Continue · ${FF.fmt(t)}` : "Play episode"}`; b.setAttribute("aria-label", on ? `Pause ${cat(n)}` : mid ? `Continue ${cat(n)} from ${FF.fmt(t)}` : `Play ${cat(n)}`); }
+  });
+  $$(".card").forEach(c => c.classList.toggle("on", !!S.play && !S.audioFailed && !audio.paused && +c.dataset.n === S.play.n));   // "· playing", not after a failed download
+  $$(".fdisc").forEach(d => d.classList.toggle("spin", p && !!S.play && S.play.n === +d.dataset.n));
+  if (p && TT.V && S.play === TT.V && TT.rest) { TT.rest = false; armTo(audio.currentTime, true); }
+  pills();
+}
+["play", "pause", "ended"].forEach(ev => audio.addEventListener(ev, syncPP));
+audio.addEventListener("playing", () => { const V = S.play; if (V && !V.player.fresh && audio.src === V.ep.audio_url) S.heard = V.n; });
+["pause", "ended"].forEach(ev => audio.addEventListener(ev, () => savePos(true)));
+addEventListener("pagehide", () => savePos(true));
+audio.addEventListener("play", () => { const sp = nowSpan(); if (sp && route().r === "ep") { const r = sp.getBoundingClientRect(); S.follow = r.bottom > 0 && r.top < innerHeight; } pills(); });
+audio.addEventListener("pause", () => { const r = route(); if (S.play && r.r === "ep" && r.n === S.play.n && audio.currentTime > 1) history.replaceState(history.state, "", recHref(r.n, audio.currentTime)); });
+// A source that fails to download: a calm note (site.js) with Try again and Spotify, and every play button back to Play.
+const AU = FFW.watchAudio(audio, { link: () => S.play ? S.play.meta.link : null, reset: () => { S.stopAt = null; S.audioFailed = true; syncPP(); },
+  retry: () => { if (S.play) S.play.player.retry(); } });
+audio.addEventListener("playing", () => { if (S.audioFailed) { S.audioFailed = false; syncPP(); } });
+$("#pp").onclick = () => S.play && S.play.player.toggle();
+const nudge = d => { if (!S.play) return; const t = Math.max(0, Math.min(S.play.dur - .5, audio.currentTime + d)); S.play.player.seek(t, !audio.paused); S.follow = true; if (S.view === S.play && route().r === "ep") toTime(t); };
+$("#b15").onclick = () => nudge(-15); $("#f15").onclick = () => nudge(15);
+function setRate(r) { S.rate = r; audio.defaultPlaybackRate = audio.playbackRate = r; store.set("rate", r); $("#rate").textContent = r + "×"; $("#rate").setAttribute("aria-label", `Playback speed ${r} times`); }
+$("#rate").onclick = () => setRate(RATES[(RATES.indexOf(S.rate) + 1) % RATES.length]);
+function copyLink(n, t) {
+  const url = location.href.split("#")[0] + recHref(n, t), msg = `Link to ${cat(n)} at ${FF.fmt(t)} copied`;
+  const fallback = () => { const i = document.createElement("textarea"); i.value = url; document.body.appendChild(i); i.select(); try { document.execCommand("copy"); toast(msg); } catch (e) { toast(url); } i.remove(); };
+  navigator.clipboard ? navigator.clipboard.writeText(url).then(() => toast(msg), fallback) : fallback();
+}
+$("#copy").onclick = () => { if (S.play) copyLink(S.play.n, audio.currentTime); };
+
+const tb = $("#tb"), tip = $("#tip");
+const tAt = e => { const b = tb.getBoundingClientRect(); return Math.max(0, Math.min(1, (e.clientX - b.left) / b.width)) * S.play.dur; };
+function showTip(t) {
+  const V = S.play, c = trackAt(V, t), w = V.ep.words[wordAt(V.ep, t)], who = w && t < w.e + 1.5 && w.who !== "Intro narrator" ? " · " + first(w.who) : "";
+  tip.textContent = `${FF.fmt(t)} · ${c.side}${c.no} ${c.title}${who}`; const W = tb.clientWidth, tw = tip.offsetWidth;
+  tip.style.left = Math.max(-24, Math.min(W - tw + 24, t / V.dur * W - tw / 2)) + "px"; tip.classList.add("on");
+}
+tb.addEventListener("pointerdown", e => { if (!S.play) return; S.drag = true; tb.setPointerCapture(e.pointerId); const t = tAt(e); $("#head").style.left = t / S.play.dur * 100 + "%"; showTip(t); e.preventDefault(); });
+tb.addEventListener("pointermove", e => { if (!S.play || e.pointerType === "touch" && !S.drag) return; const t = tAt(e); if (S.drag) $("#head").style.left = t / S.play.dur * 100 + "%"; showTip(t); });
+tb.addEventListener("pointerup", e => { if (!S.drag) return; S.drag = false; tip.classList.remove("on"); const t = tAt(e); S.play.player.seek(t, true); S.follow = true; if (S.view === S.play && route().r === "ep") toTime(t); });
+tb.addEventListener("pointercancel", () => { S.drag = false; tip.classList.remove("on"); onTime(audio.currentTime); });
+tb.addEventListener("pointerleave", () => { if (!S.drag) tip.classList.remove("on"); });
+tb.addEventListener("keydown", e => {
+  const V = S.play; if (!V) return; const t = audio.currentTime, c = trackAt(V, t);
+  const go = { ArrowRight: t + 15, ArrowUp: t + 15, ArrowLeft: t - 15, ArrowDown: t - 15, PageDown: (V.tracks[c.i + 1] || c).s, PageUp: t - c.s > 3 ? c.s : (V.tracks[c.i - 1] || c).s, Home: 0, End: V.dur - 5 }[e.key];
+  if (go == null) return; e.preventDefault(); nudge(go - t);
+});
+function pills() {
+  const r = route(), np = $("#nowPill"), bp = $("#backPill"), sp = nowSpan(), V = S.play;
+  let show = false;
+  if (sp && r.r === "ep" && S.view === V && !S.follow && audio.currentTime > 0) { const b = sp.getBoundingClientRect(); if (b.bottom < 60 || b.top > innerHeight - barH()) { show = true; np.textContent = `${b.top < 60 ? "↑" : "↓"} Back to now · ${FF.fmt(audio.currentTime)}`; } }
+  np.hidden = !show;
+  bp.hidden = !(S.back && r.r === "ep" && r.n === S.back.target); if (!bp.hidden) bp.textContent = `↩ Back to ${S.back.label}`;
+}
+$("#nowPill").onclick = () => { S.follow = true; toWord(nowSpan()); pills(); };
+$("#backPill").onclick = () => history.back();
+
+/* ---------- downloads ----------
+   scripts/build_episode.py writes the same captions and subtitles (out/vtt, out/srt) from the master transcript:
+   cues() and exportText() must give exactly what it writes, so change the two together. */
+function cues(V) {
+  const out = [], W = V.ep.words;
+  for (const t of V.ep.turns) { let a = t.w0; for (let i = t.w0; i < t.w1; i++) { const n = i - a + 1;
+    if (i === t.w1 - 1 || n >= 14 || W[i].e - W[a].s >= 6 || (n >= 6 && /[.?!]["”]?$/.test(W[i].w))) { out.push({ s: W[a].s, e: Math.max(W[i].e, W[a].s + .5), who: t.who, first: a === t.w0, text: W.slice(a, i + 1).map(w => w.w).join(" ") }); a = i + 1; } } }
+  return out;
+}
+const stamp = (s, sep) => { const ms = Math.round(s * 1000); return [Math.floor(ms / 36e5), Math.floor(ms / 6e4) % 60, Math.floor(ms / 1000) % 60].map(x => String(x).padStart(2, "0")).join(":") + sep + String(ms % 1000).padStart(3, "0"); };
+function exportText(V, kind) {
+  const { ep, meta, n } = V;
+  if (kind === "txt") return `FUS Forward · Episode ${n} · ${meta.full_title}\n${artist(meta)}${meta.affiliation ? " · " + meta.affiliation : ""}\nReleased ${dateFmt(meta.date, { day: "numeric", month: "long", year: "numeric" })} · ${FF.fmt(V.dur)} · ${meta.link}\nUnofficial, machine-generated transcript. Words may be misheard.\n\n` +
+    ep.turns.map(t => `[${FF.fmt(t.s)}] ${disp(t.who)}: ${ep.words.slice(t.w0, t.w1).map(w => w.w).join(" ")}`).join("\n\n") + "\n";
+  const C = cues(V), x = s => s.replace(/&/g, "&amp;").replace(/</g, "&lt;");
+  if (kind === "vtt") return `WEBVTT - FUS Forward ${cat(n)} ${meta.full_title.replace(/-->/g, "")} (unofficial machine transcript)\n\n` + C.map((c, i) => `${i + 1}\n${stamp(c.s, ".")} --> ${stamp(c.e, ".")}\n<v ${x(disp(c.who))}>${x(c.text)}`).join("\n\n") + "\n";
+  return C.map((c, i) => `${i + 1}\n${stamp(c.s, ",")} --> ${stamp(c.e, ",")}\n${c.first ? disp(c.who) + ": " : ""}${c.text}`).join("\n\n") + "\n";
+}
+function download(kind) {
+  const V = S.view; if (!V) return; if (kind === "print") return print();
+  const sl = slug(headline(V.meta)), blob = new Blob([exportText(V, kind)], { type: kind === "vtt" ? "text/vtt" : kind === "srt" ? "application/x-subrip" : "text/plain" });
+  const a = document.createElement("a"); a.href = URL.createObjectURL(blob); a.download = `fusforward-ep${pad(V.n)}-${sl}.${kind}`; document.body.appendChild(a); a.click(); a.remove(); setTimeout(() => URL.revokeObjectURL(a.href), 4000);
+}
+
+/* ---------- routing ---------- */
+function route(h = location.hash) {
+  const [path, qs] = (h.replace(/^#/, "") || "/").split("?"), p = new URLSearchParams(qs || ""), seg = path.split("/").filter(Boolean);
+  if (seg[0] === "record") return EP(+seg[1]) ? { r: "ep", n: +seg[1], t: p.has("t") && isFinite(+p.get("t")) ? +p.get("t") : null } : { r: "missing", id: seg[1] || "" };
+  if (seg[0] === "search") return { r: "search", q: p.get("q") || "" };
+  return { r: "home" };
+}
+function show(id) {
+  ["vHome", "vEp", "vSearch", "vErr"].forEach(v => $("#" + v).hidden = v !== id);
+}
+// Focus moves to the new view's heading on an in-page route change only: on the first load it stays at the top of
+// the page, so the first Tab still reaches the skip link, the sections and the search.
+let focusOK = false;
+const focusH = id => { if (focusOK && document.activeElement !== $("#q")) { const h = $(`#${id} h1`); if (h) h.focus({ preventScroll: true }); } };
+let rSeq = 0;
+async function onRoute(how) {                         // how: the hashchange event, true (Try again), or nothing (the first load)
+  const r = route(), st = history.state || {}, my = ++rSeq; focusOK = how !== undefined;
+  if (S.back && (location.hash === S.back.hash || !(r.r === "ep" && r.n === S.back.target))) S.back = null;
+  if (r.r !== "search" && document.activeElement !== $("#q")) $("#q").value = "";
+  if (r.r === "home") { show("vHome"); document.title = "FUS Forward Records"; syncPP(); scrollTo(0, st.y || 0); focusH("vHome"); }
+  else if (r.r === "search") { show("vSearch"); if (document.activeElement !== $("#q")) $("#q").value = r.q; await renderSearch(r.q); if (my === rSeq) { scrollTo(0, st.y || 0); focusH("vSearch"); } }
+  else if (r.r === "missing") { show("vEp"); S.view = null; document.title = "No such episode · FUS Forward Records";   // #/record/99, /abc, /0: say so, don't drop silently on home
+    $("#vEp").innerHTML = `<div class="col"><div class="nf" style="margin:80px 0 120px"><h1 tabindex="-1">No such episode</h1><p class="muted">There is no episode ${r.id ? `“${esc((() => { try { return decodeURIComponent(r.id); } catch (e) { return r.id; } })().slice(0, 40))}”` : "at this address"} on this site.</p><p><a href="#/">See all episodes →</a></p></div></div>`;
+    scrollTo(0, 0); focusH("vEp"); }
+  else await openEpisode(r, st, my);
+  pills();
+}
+async function openEpisode(r, st, my) {
+  show("vEp");
+  if (!S.view || S.view.n !== r.n) {                 // a slow file: say which episode is coming, in the tab too, and keep focus on the view
+    $("#vEp").innerHTML = `<div class="col"><p class="tx loading" style="margin-top:80px" tabindex="-1" role="status">Opening ${cat(r.n)}…</p></div>`; S.view = null;
+    document.title = `Loading ${cat(r.n)}… · FUS Forward Records`;
+    if (focusOK && document.activeElement !== $("#q")) $("#vEp .loading").focus({ preventScroll: true });
+  }
+  let V; try { V = await getView(r.n); } catch (e) {     // offline or a missing file: say so, and let the reader try again
+    if (my === rSeq) { S.view = null; document.title = `Could not open ${cat(r.n)} · FUS Forward Records`; $("#vEp").innerHTML = `<div class="col"><div style="margin:80px 0 120px"><h1 tabindex="-1">Could not open ${cat(r.n)}</h1><p class="muted" role="alert">Its transcript could not be downloaded. Check your connection and try again.</p><p><button type="button" class="showall" data-retry>Try again</button></p></div></div>`; focusH("vEp"); }
+    return; }
+  if (my !== rSeq) return;
+  if (S.view !== V) renderEpisode(V); else layoutTT();
+  document.title = `${cat(V.n)} ${headline(V.meta)} · FUS Forward Records`;
+  const pend = S.pending && S.pending.n === V.n ? S.pending : null; S.pending = null;
+  let t = r.t; if (pend && pend.ri != null) t = exactTime(V, pend.ri, pend.off); else if (pend && pend.t != null) t = pend.t;
+  if (!pend && S.play === V && !audio.paused) t = null;   // Back to the episode that is playing: it plays on from where it is
+  if (t != null) {
+    t = Math.max(0, Math.min(V.dur - .5, t));
+    adopt(V); V.player.seek(t, !!(pend ? pend.play : st.play)); V.player.refresh(t); TT.rest = false; armTo(t, true); S.follow = true;
+    if (st.y != null) scrollTo(0, st.y); else { toTime(t, !!pend, true); document.fonts.ready.then(() => my === rSeq && toTime(t, false, true)); }
+    if (pend) history.replaceState(history.state, "", recHref(V.n, t));
+  } else {
+    if (!S.play || audio.paused) { const fresh = S.play !== V; adopt(V); const rt = resumeAt(V.meta); if (fresh && rt) { V.player.seek(rt, false); V.player.refresh(rt); } }
+    if (st.y != null) scrollTo(0, st.y); else if (S.play === V && audio.currentTime > 1) { S.follow = true; toWord(nowSpan(), false, true); } else scrollTo(0, 0);
+  }
+  syncPP(); focusH("vEp");
+}
+function leaveState() {                               // remember where you were, so Back lands on the same moment
+  const r = route(); let h = location.hash || "#/";
+  if (r.r === "ep" && S.play && S.play.n === r.n && audio.currentTime > 1) h = recHref(r.n, audio.currentTime);
+  history.replaceState({ y: scrollY, play: !audio.paused }, "", h); return h;
+}
+function goSearch(q) {
+  const h = "#/search?q=" + encodeURIComponent(q.trim());
+  if (route().r === "search") { history.replaceState({ y: 0 }, "", h); renderSearch(q); scrollTo(0, 0); } else { leaveState(); location.hash = h; }
+}
+let qT; $("#q").addEventListener("input", () => { clearTimeout(qT); qT = setTimeout(() => goSearch($("#q").value), 180); });
+$("#q").addEventListener("keydown", e => { if (e.key === "Enter") { clearTimeout(qT); goSearch($("#q").value); } });
+
+/* ---------- one click handler for the whole app ---------- */
+document.addEventListener("click", e => {
+  if (e.button || e.metaKey || e.ctrlKey || e.shiftKey || e.altKey || !(e.target instanceof Element)) return;
+  const el = e.target, w = el.closest(".w[data-i]"), ds = el.closest("[data-s]");
+  if (el.closest("[data-retry]")) { onRoute(true); return; }   // after a failed download: the same page again, from the network
+  if (el.closest("#ntBtn")) { setNotes(!S.notes); return; }
+  const np = el.closest("[data-np]"); if (np) { e.preventDefault(); playNote(np.dataset.np); return; }
+  const nh = el.closest(".ni .nc-h"); if (nh) { toggleNote(nh.closest(".nc")); return; }
+  if (w && !getSelection().isCollapsed) return;                 // finishing a text selection, not a seek
+  if ((w || ds) && S.view && $("#vEp").contains(w || ds)) {     // a word, timestamp, track, quote or mention on this episode
+    S.follow = true; if ($("#tx").contains(w || ds) && S.play === S.view && S.bind) { if (TT.V === S.view) TT.rest = false; return; }   // bindTranscript seeks
+    e.preventDefault(); e.stopPropagation(); seekHere(w ? S.view.ep.words[+w.dataset.i].s : +ds.dataset.s); return;
+  }
+  const pl = el.closest("[data-play]"); if (pl) { e.preventDefault(); const n = +pl.dataset.play;
+    if (pl.id === "epPlay" && S.view && S.view.n === n && S.play !== S.view) { const V = S.view, t = resumeAt(V.meta); adopt(V); V.player.seek(t, true); V.player.refresh(t); TT.rest = false; armTo(t, true); if (t) { S.follow = true; toTime(t); } return; }
+    playEp(n); return; }
+  if (el.closest("#vbBtn")) { setClean(!S.clean); return; }
+  if (el.closest("#copyRec")) { const V = S.view; copyLink(V.n, S.play === V ? audio.currentTime : 0); return; }
+  const sa = el.closest(".showall");
+  if (sa && sa.dataset.more) { const n = +sa.dataset.more, box = $(`.hits[data-n="${n}"]`), hs = S.sHits.get(n), have = box.children.length; box.insertAdjacentHTML("beforeend", hitsHtml(hs.slice(have, have + 40))); const left = hs.length - box.children.length; if (left > 0) sa.textContent = `${left} more on this episode`; else sa.remove(); return; }
+  if (sa) { const shown = [...sa.previousElementSibling.querySelectorAll(":scope>li[hidden]")]; shown.forEach(x => x.hidden = false); sa.remove();
+    const f = shown[0] && shown[0].querySelector("a, button"); if (f) f.focus({ preventScroll: true }); return; }   // focus: the first newly shown item
+  const tr = el.closest("[data-try]"); if (tr) { $("#q").value = tr.dataset.try; goSearch(tr.dataset.try); $("#q").focus(); return; }
+  const dl = el.closest("[data-dl]"); if (dl) { dl.closest("details").open = false; download(dl.dataset.dl); return; }
+  if (el.closest(".essay .more")) { const s = el.closest(".essay"), o = s.classList.toggle("clamp"); el.textContent = o ? "Read on" : "Less"; el.setAttribute("aria-expanded", !o); return; }
+  const so = el.closest("[data-sort]"); if (so) { S.sort = so.dataset.sort; store.set("sort", S.sort); renderHome(); return; }
+  $$("details.dl[open]").forEach(d => { if (!d.contains(el)) d.open = false; });
+  const a = el.closest("a[href^='#/']"); if (!a) return;
+  if (a.getAttribute("href") === location.hash) return;
+  const from = route(), saved = leaveState();
+  if (a.hasAttribute("data-go")) {
+    const to = route(a.getAttribute("href"));
+    S.pending = { n: to.n, play: true, ri: a.dataset.row != null ? +a.dataset.row : null, off: +a.dataset.off || 0, t: a.dataset.t != null ? +a.dataset.t : null };
+    if (from.r !== "ep" || to.n !== from.n) S.back = { hash: saved, target: to.n, label: from.r === "ep" ? `${cat(from.n)}${/t=(\d+)/.test(saved) ? " · " + FF.fmt(+saved.match(/t=(\d+)/)[1]) : ""}` : "the search" };
+  }
+}, true);
+document.addEventListener("keydown", e => {
+  const tg = e.target instanceof Element ? e.target : document.body, typing = tg.closest("input, textarea, select, [contenteditable]");
+  if (e.key === "Escape") { if (typing) tg.blur(); $$("details.dl[open]").forEach(d => d.open = false); return; }
+  if (typing || e.metaKey || e.ctrlKey || e.altKey) return;
+  if (e.key === "/") { e.preventDefault(); $("#q").focus(); $("#q").select(); return; }
+  if (["PageUp", "PageDown", "ArrowUp", "ArrowDown", "Home", "End"].includes(e.key)) S.intent = performance.now();
+  if (!S.play || tg.closest("[role=slider]")) return;
+  if (e.key === " " && !tg.closest("button, summary, a")) { e.preventDefault(); S.play.player.toggle(); }
+  else if (e.key === "ArrowLeft" || e.key === "ArrowRight") { e.preventDefault(); nudge(e.key === "ArrowRight" ? 15 : -15); }
+});
+["wheel", "touchmove"].forEach(ev => addEventListener(ev, () => { S.intent = performance.now(); }, { passive: true }));
+let scT = 0, stT = 0;
+addEventListener("scroll", () => {
+  const now = performance.now();
+  if (now - S.intent < 1200 || now > S.prog) S.follow = false;
+  if (!scT) scT = requestAnimationFrame(() => { scT = 0; pills(); });
+  clearTimeout(stT); stT = setTimeout(() => history.replaceState({ ...(history.state || {}), y: scrollY }, ""), 300);
+}, { passive: true });
+function fitMenu(d) {                                // keep an open Download menu inside the viewport, wherever "Download" sits in its row
+  const m = d.querySelector(".menu"); if (!m) return; m.style.right = "";
+  if (!d.open) { delete d.dataset.fit; return; }
+  const r = m.getBoundingClientRect(), pad = 16, W = document.documentElement.clientWidth;
+  if (r.left < pad) m.style.right = `${r.left - pad}px`; else if (r.right > W - pad) m.style.right = `${r.right - (W - pad)}px`;
+  d.dataset.fit = "";                                  // until placed, the open menu is invisible (CSS), so it never flashes off-screen
+}
+const fitMenus = () => $$("details.dl").forEach(fitMenu);
+document.addEventListener("toggle", e => { if (e.target instanceof Element && e.target.matches("details.dl")) fitMenu(e.target); }, true);
+document.addEventListener("click", e => { if (e.target instanceof Element && e.target.closest("details.dl > summary")) requestAnimationFrame(fitMenus); }, true);
+let rzT; addEventListener("resize", () => { fitMenus(); clearTimeout(rzT); rzT = setTimeout(() => { drawTrace(); layoutTT(); fitMenus(); }, 120); });
+
+/* ---------- notes in the margin: terms, papers, tools, companies and people, each level with its paragraph ----------
+   Data: window.FF_EXPLAIN (definitions + clips where someone explains a term), window.FF_MENTIONS (papers, tools, companies),
+   and the glossary's people. At most one note per subject per episode, at its first meaningful mention; at most two notes on
+   a paragraph (of different kinds) and three in any run of three paragraphs. */
+let XP = null;                                        // term matching, built once the explainers have loaded (noteData)
+function buildXP() {
+  const F = window.FF_EXPLAIN; if (!F || !F.defs) return null;
+  const defs = F.defs, byId = new Map((F.explainers || []).map(x => [x.id, x])), ci = [], cs = [], mapI = new Map(), mapS = new Map();
+  const key = v => v.replace(/[-\s]+/g, " ").replace(/[’']/g, "'");
+  for (const [t, d] of Object.entries(defs)) {
+    if (d.mark === false) continue;
+    const vs = [t, ...(d.also || [])], sens = vs.map(v => v !== v.toLowerCase());
+    vs.forEach((v, i) => (sens[i] ? mapS.set(key(v), t) : mapI.set(key(v).toLowerCase(), t)));
+    vs.forEach((v, i) => (sens[i] ? cs : ci).push(reEsc(v).replace(/-|\s+/g, "[-\\s]") + "(?:s|es)?"));
+  }
+  const mk = (parts, fl) => parts.length ? new RegExp("(?<![\\w-])(?:" + parts.sort((a, b) => b.length - a.length).join("|") + ")(?![\\w-])", fl) : null;
+  const look = (m, sens) => { let k = key(m); if (!sens) k = k.toLowerCase(); const M = sens ? mapS : mapI; return M.get(k) || M.get(k.replace(/es$/, "")) || M.get(k.replace(/s$/, "")) || null; };
+  const rank = { basics: 0, intermediate: 1, "deep cut": 2 }, by = new Map();
+  (F.explainers || []).forEach(x => (x.terms || []).forEach((t, i) => (by.get(t) || by.set(t, []).get(t)).push({ x, i })));   // a clip whose main term it is comes first
+  by.forEach((l, t) => by.set(t, l.sort((a, b) => a.i - b.i || (rank[a.x.level] || 0) - (rank[b.x.level] || 0) || (a.x.e - a.x.s) - (b.x.e - b.x.s)).map(o => o.x)));
+  const lower = new Map(Object.keys(defs).map(k => [k.toLowerCase(), k]));
+  const acr = new Map(Object.entries(defs).filter(([, d]) => d.expand).map(([t, d]) => [d.expand.toLowerCase(), t]));
+  const canon = t => acr.get(t.toLowerCase()) || t;  // "pulse repetition frequency" and "PRF" are one subject
+  const clips = t => { const c = canon(t), d = defs[c] || {}, out = [];
+    for (const k of [c, t, d.expand && lower.get(d.expand.toLowerCase())]) if (k && by.has(k)) for (const x of by.get(k)) if (!out.includes(x)) out.push(x);
+    return out; };
+  // How squarely a clip is about term t: 3 = its first term and named in its title, 2 = named in its title,
+  // 1 = its first term, 0 = only touches on it (never linked).
+  const names = t => { const c = canon(t), d = defs[c] || {}, out = new Set([t, c, ...(d.also || [])]);
+    if (d.expand) out.add(d.expand);
+    acr.forEach((v, k) => { if (v === c) out.add(k); });
+    return [...out].filter(Boolean); };
+  const titleRe = new Map();
+  const inTitle = (x, t) => { const c = canon(t);
+    if (!titleRe.has(c)) titleRe.set(c, names(t).map(v => new RegExp("(?<![\\w-])" + reEsc(v).replace(/-|\s+/g, "[-\\s]") + "(?:s|es)?(?![\\w-])", v === v.toLowerCase() ? "i" : "")));
+    const tl = (x.title || "").replace(/[()“”"‘’]/g, "");   // "nested (double) PRF" names the double PRF
+    return titleRe.get(c).some(re => re.test(tl)); };
+  const subject = (x, t) => { const c = canon(t), f = (x.terms || [])[0], first = !!f && (f === t || canon(f) === c);
+    return (inTitle(x, t) ? 2 : 0) + (first ? 1 : 0); };
+  return { defs, byId, clips, canon, subject, reI: mk(ci, "gi"), reS: mk(cs, "g"), look };
+}
+let MN = { papers: [], tools: [], companies: [] };   // window.FF_MENTIONS once loaded
+const NPRI = { paper: 0, earlier: 1, xterm: 1, org: 2, guest: 2.5, person: 3, term: 4 };
+const NKIND = { paper: "Paper", earlier: "Earlier on the show", xterm: "Term", term: "Term", person: "Person", guest: "Person" };
+const WIDE = matchMedia("(min-width:1280px)");
+const NT = { V: null, cards: [], raf: 0, ro: null, w: 0 };
+const tokn = s => norm(s).replace(/^[^a-z0-9]+|[^a-z0-9']+$/g, "").replace(/'s$/, "");
+
+function nParas(V, root) {                            // every paragraph as plain text, with a map from characters back to word spans
+  const ep = V.ep;
+  return $$("p.ff-p", root).map((p, k) => {
+    const all = p.querySelectorAll(".w[data-i]"); if (!all.length) return null;
+    const spans = [...all].filter(s => !s.hidden), at = []; let text = "";
+    spans.forEach((sp, j) => { if (j) text += " "; at.push(text.length); text += sp.textContent; });
+    const a = +all[0].dataset.i, b = +all[all.length - 1].dataset.i + 1;
+    return { k, p, spans, at, text, low: norm(text), fold: fold(text), a, b, s: ep.words[a].s, e: ep.words[b - 1].e, narr: !!p.closest(".r-narrator"), n: spans.length };
+  }).filter(Boolean);
+}
+const nSpanAt = (P, c) => { let k = 0; while (k < P.at.length - 1 && P.at[k + 1] <= c) k++; return k; };
+const nRange = (P, c0, c1) => [+P.spans[nSpanAt(P, c0)].dataset.i, +P.spans[nSpanAt(P, Math.max(c0, c1 - 1))].dataset.i];
+/* Where a name is said in a paragraph: [start, end) in its text, or null. The full name in any case (only as written
+   when sens: a company or tool spelled with capitals), or a surname of five letters or more capitalised as written,
+   so a "Young" or a "Brown" is never the word "young" or "brown". scripts/site_xref.py name_matcher() applies the same
+   rule to "Elsewhere in the series": the two mirror each other, so change both together. */
+function nameAt(name, sens) {
+  const rx = v => new RegExp("(?<![\\w-])" + reEsc(v).replace(/[-\s]+/g, "[-\\s]?") + "(?:'s|’s)?(?![\\w-])");
+  const sur = fold(name).trim().split(/\s+/).pop(), full = rx(sens ? fold(name) : norm(name)), cap = sur.length >= 5 ? rx(sur[0].toUpperCase() + sur.slice(1)) : null;
+  return P => { const a = full.exec(sens ? P.fold : P.low), b = cap && cap.exec(P.fold), m = a && (!b || a.index <= b.index) ? a : b;
+    return m ? [m.index, m.index + m[0].length] : null; };
+}
+function nAlign(ep, t, quote) {                       // where a quote from mentions.js sits in the word list: [first, last] word index
+  const q = norm(quote.replace(/…/g, " ")).split(/\s+/).map(tokn).filter(Boolean); if (q.length < 2) return null;
+  const i0 = wordAt(ep, Math.max(0, t - 25)), i1 = Math.min(ep.words.length - 1, wordAt(ep, t + 45)), tk = [];
+  for (let i = i0; i <= i1; i++) tk[i] = tokn(ep.words[i].w);
+  let best = null;
+  for (let j = i0; j <= i1; j++) {
+    if (tk[j] !== q[0] && tk[j] !== q[1]) continue;
+    let k = tk[j] === q[0] ? 0 : 1, i = j, hit = 0, last = j, gap = 0;
+    while (k < q.length && i <= i1 && gap < 5) { if (!tk[i]) { i++; continue; }
+      if (tk[i] === q[k]) { hit++; k++; last = i; i++; gap = 0; } else if (tk[i] === q[k + 1]) { hit++; k += 2; last = i; i++; gap = 0; } else { i++; gap++; } }
+    const sc = hit / q.length - Math.abs(ep.words[j].s - t) / 600;
+    if (hit >= Math.min(3, q.length) && (!best || sc > best.sc)) best = { sc, a: j, b: last };
+  }
+  return best;
+}
+// Words whose note only fits one sense: [needed nearby (or null), ruled out nearby, ruled out right after].
+const NSENSE = {
+  frequency: [/\b(ultrasound|ultrasonic|acoustic|sound waves?|wave|wavelengths?|mega ?hertz|kilo ?hertz|mhz|khz|transducers?|skull|focus|focal|carrier|fundamental|attenuat\w*|cavitation|bubbles?|absorb\w*|penetrat\w*|propagat\w*)\b/i,
+    /\b(tms|magnetic|gradients?|mri|scanner|audible|hearing|hear|heard|modulation|modulated|repetition|prf|pulsing|burst|dbs|electrode|electrical|theta|gamma|alpha|eeg|oscillat\w*|rhythm|radio)\b/i, null],
+  PRF: [null, /\b(dbs|deep brain stimulation|electrodes?|electrical|tms|stimulators?|implant\w*)\b/i, null],
+};
+function nSense(c, text, a, b) {
+  const r = NSENSE[c]; if (!r) return true;
+  const [need, bad, after] = r, win = text.slice(Math.max(0, a - 90), Math.min(text.length, b + 90));
+  if (after && after.test(text.slice(b, b + 12))) return false;
+  if (bad && bad.test(win)) return false;
+  return !need || need.test(win);
+}
+function nCands(V, PS) {                              // every possible note, per paragraph
+  const { ep, n, meta } = V, C = PS.map(() => []), own = new Set(meta.guests.map(norm)), ownSur = new Set(meta.guests.map(g => norm(g).split(/\s+/).pop()));
+  const pAt = i => { for (const P of PS) if (i >= P.a && i < P.b) return P; return null; };
+  const near = (P, ts, pad = 20) => ts.some(t => t >= P.s - pad && t <= P.e + pad);
+  const orgs = [...(MN.tools || []).map(o => ({ ...o, kind: "Tool" })), ...(MN.companies || []).map(o => ({ ...o, kind: "Company" }))];
+  const orgNames = new Set(orgs.map(o => o.name.toLowerCase()));
+  // papers: the quoted words, found near their moment
+  for (const pp of MN.papers || []) for (const m of pp.moments || []) {
+    if (m.ep !== n) continue; const al = nAlign(ep, m.t, m.quote || ""), i = al ? al.a : wordAt(ep, m.t), P = pAt(i); if (!P || P.narr) continue;
+    const a = al ? al.a : i, b = al ? al.b : Math.min(P.b - 1, i + 10);
+    let sa = a, sb = b; const end = i => /[.?!]["”’)]*$/.test(ep.words[i].w);   // play the whole sentence the quote sits in
+    while (sa > P.a && !end(sa - 1) && ep.words[a].s - ep.words[sa - 1].s < 12) sa--;
+    while (sb < P.b - 1 && !end(sb) && ep.words[sb + 1].e - ep.words[b].e < 10) sb++;
+    C[PS.indexOf(P)].push({ key: "p:" + pp.id, type: "paper", at: a, ws: [a, Math.min(b, P.b - 1)], paper: pp, span: [ep.words[sa].s, ep.words[sb].e] });
+  }
+  // tools and companies: their name, near one of their moments here
+  for (const o of orgs) { const ts = (o.moments || []).filter(m => m.ep === n).map(m => m.t); if (!ts.length) continue;
+    const at = nameAt(o.name, !/^[a-z]|-/.test(o.name));
+    PS.forEach((P, k) => { if (P.narr || !near(P, ts)) return; const m = at(P); if (!m) return;
+      const ws = nRange(P, m[0], m[1]); C[k].push({ key: "o:" + o.name.toLowerCase(), type: "org", at: ws[0], ws, org: o }); }); }
+  // people: researchers named here (not the hosts, not this episode's own guest), near a glossary hit
+  for (const g of S.gl) {
+    if (g.kind !== "person" || meta.hosts.includes(g.term) || own.has(norm(g.term)) || ownSur.has(norm(g.term).split(/\s+/).pop())) continue;
+    const ts = g.hits.filter(h => h[0] === n && h[2] !== "Intro narrator").map(h => h[1]); if (!ts.length) continue;
+    const at = nameAt(g.term, false), gep = S.eps.find(e => e.guests.some(y => norm(y) === norm(g.term)));
+    if (!nPerson(g, gep, n).real) continue;           // nothing to say beyond "named here": no note
+    PS.forEach((P, k) => { if (P.narr || !near(P, ts, 25)) return; const m = at(P); if (!m) return;
+      const ws = nRange(P, m[0], m[1]); C[k].push({ key: "h:" + norm(g.term), type: gep ? "guest" : "person", at: ws[0], ws, g, gep }); });
+  }
+  // terms: the first clear mention; a clip where someone explains it makes the note worth more
+  if (XP) PS.forEach((P, k) => {
+    if (P.narr) return;
+    for (const [re, sens] of [[XP.reI, false], [XP.reS, true]]) {
+      if (!re) continue; re.lastIndex = 0; let m;
+      while ((m = re.exec(P.text))) {
+        const t = XP.look(m[0], sens); if (!t) continue; const c = XP.canon(t);
+        if (orgNames.has(t.toLowerCase()) || own.has(norm(t))) continue;
+        if (m.index && /[\w-]/.test(P.text[m.index - 1])) continue;
+        if (!nSense(c, P.text, m.index, m.index + m[0].length)) continue;   // the word, but not in the sense the note explains
+        const ws = nRange(P, m.index, m.index + m[0].length), at = ep.words[ws[0]].s;
+        // Only clips whose main subject this term is, best match first, then this episode, then the latest earlier one;
+        // never the clip this very mention sits in.
+        const xo = XP.clips(t).map(x => ({ x, q: XP.subject(x, t) })).filter(o => o.q > 0 && !(o.x.n === n && at >= o.x.s - 3 && at <= o.x.e + 3))
+          .sort((a, b) => b.q - a.q || (b.x.n === n) - (a.x.n === n) || (b.x.n < n) - (a.x.n < n) || (a.x.n < n ? b.x.n - a.x.n : a.x.n - b.x.n));
+        const xs = xo.map(o => o.x), x = xs[0] || null;
+        C[k].push({ key: "t:" + c.toLowerCase(), type: x ? (x.n < n ? "earlier" : "xterm") : "term", at: ws[0], ws, t, x, xs, xq: new Map(xo.map(o => [o.x.id, o.q])), n });
+      }
+    }
+  });
+  return C;
+}
+function nPick(C) {                                   // restraint: one note per subject, two per paragraph (different kinds), three per three paragraphs
+  // Papers are never dropped: one that finds no room waits for the next paragraph. A clip plays from one note only.
+  const used = new Set(), clipUsed = new Set(), out = C.map(() => []), cls = c => c.type === "earlier" || c.type === "xterm" ? "term" : c.type === "guest" ? "person" : c.type;
+  const owner = new Map();                            // each clip goes to the subject it is most squarely about ("sham", not "TMS")
+  C.flat().forEach(c => (c.xs || []).forEach(x => { const q = c.xq.get(x.id), o = owner.get(x.id);
+    if (!o || q > o.q || (q === o.q && c.at < o.at)) owner.set(x.id, { key: c.key, q, at: c.at }); }));
+  const withClip = c => { if (!c.xs) return c;                    // the best clip no other note has taken, or none
+    const x = c.xs.find(x => !clipUsed.has(x.id) && owner.get(x.id).key === c.key) || null;
+    return x === c.x ? c : { ...c, x, type: x ? (x.n < c.n ? "earlier" : "xterm") : "term" }; };
+  let carry = [];
+  C.forEach((list, k) => {
+    const room = 3 - (k > 0 ? out[k - 1].length : 0) - (k > 1 ? out[k - 2].length : 0), last = k === C.length - 1;
+    const seen = new Set(), pick = [], wait = [];
+    for (const c0 of [...carry, ...list].sort((a, b) => NPRI[a.type] - NPRI[b.type] || a.at - b.at)) {
+      const c = withClip(c0);
+      if (used.has(c.key) || seen.has(c.key)) continue;
+      if (c.type === "paper") {
+        if ((pick.length >= 2 || pick.some(p => cls(p) === "paper")) && !last) { wait.push(c); seen.add(c.key); continue; }
+        pick.push(c); seen.add(c.key); continue;
+      }
+      if (room <= 0 || pick.length >= Math.min(2, room) || pick.some(p => cls(p) === cls(c))) { seen.add(c.key); continue; }
+      if (pick.length && NPRI[c.type] >= 4 && NPRI[pick[0].type] >= 3) continue;   // a second note only when one of the two matters more than a definition
+      pick.push(c); seen.add(c.key);
+    }
+    carry = wait;
+    pick.forEach(c => { used.add(c.key); if (c.x) clipUsed.add(c.x.id); }); out[k] = pick.sort((a, b) => a.at - b.at);
+  });
+  return out;
+}
+const host = u => { try { return new URL(u).hostname.replace(/^www\./, ""); } catch (e) { return u; } };
+function nClip(V, x, n) {                             // "Explained by … " with a play button
+  const here = x.n === n, name = esc(disp(x.who)), lab = `Play ${disp(x.who)} explaining it, ${Math.max(1, Math.round(x.e - x.s))} seconds${here ? "" : `, from ${cat(x.n)}`}`;
+  return `<p class="nc-by"><button type="button" class="np" data-np="x:${esc(x.id)}" aria-label="${esc(lab)}">${PLAYI}</button><span>` +
+    (here ? `Explained by <b>${name}</b> at ${FF.fmt(x.s)} · ${secs(x.e - x.s)}` : x.n < n ? `<b>${name}</b> explained it in <a href="${recHref(x.n, x.s)}">${cat(x.n)}</a> · ${secs(x.e - x.s)}` : `Explained by <b>${name}</b> in <a href="${recHref(x.n, x.s)}">${cat(x.n)}</a> · ${secs(x.e - x.s)}`) + `</span></p>` +
+    (x.caveat ? `<p class="nc-cav"><b>Note:</b> ${esc(x.caveat)}</p>` : "");
+}
+function nPerson(g, gep, n) {                         // who someone is, from what the data knows
+  const sur = norm(g.term).split(/\s+/).pop(), bits = [];
+  const orgs = [...(MN.tools || []), ...(MN.companies || [])].filter(o => norm(o.desc || "").includes(norm(g.term)) || (sur.length >= 5 && norm(o.desc || "").includes(" " + sur))).map(o => o.name);
+  const paps = (MN.papers || []).filter(p => new RegExp("(^|, |… )" + reEsc(sur) + " [A-Z]", "i").test(fold(p.authors || "")));
+  let who = gep ? `Guest on ${cat(gep.n)}${gep.affiliation ? `, ${gep.affiliation}` : ""}.` : "";
+  if (orgs.length) bits.push(`Linked here with ${orgs.slice(0, 2).join(" and ")}.`);
+  if (paps.length) bits.push(`Co-author of ${paps.length === 1 ? `a ${paps[0].year} paper` : `${paps.length} papers`} discussed on the show.`);
+  const eps = g.episodes.filter(e => e !== n).length;
+  const real = !!(who || bits.length);                 // a guest, an affiliation, a tool or a paper: worth a note
+  if (!who && !bits.length) who = eps ? `Named in ${plural(eps + 1, "episode")} of the show.` : "Named only in this episode.";
+  else if (!gep && eps) bits.push(`Named in ${plural(eps + 1, "episode")}.`);
+  return { real, line: [who, ...bits].filter(Boolean).join(" "), link: `<p class="nc-ln">${gep && gep.n !== n ? `<a href="${recHref(gep.n)}">On the show in ${cat(gep.n)} →</a>` : ""}<a href="#/search?q=${encodeURIComponent(g.term)}">Every mention →</a></p>` };
+}
+function nCard(V, c) {
+  const n = V.n; let kind = NKIND[c.type] || "", tag = "", title = "", tz = "", body = "", aria = "";
+  if (c.type === "paper") {
+    const p = c.paper; kind = "Paper"; tag = p.year ? `<i>${p.year}</i>` : ""; title = esc(p.title); tz = esc([p.authors && p.authors.split(/,|…/)[0].trim(), p.year].filter(Boolean).join(", "));
+    const links = [p.url ? ext(p.url, "DOI ↗") : "", p.pubmed ? ext(p.pubmed, "PubMed ↗") : ""].join("");
+    const [s, e] = c.span, len = Math.max(2, Math.round(e - s));
+    body = `<p class="nc-au">${esc(p.authors || "")}${p.year ? `, ${p.year}` : ""}</p>${p.journal ? `<p class="nc-jr">${esc(p.journal)}${p.preprint ? " (preprint)" : ""}</p>` : ""}${links ? `<p class="nc-ln">${links}</p>` : ""}` +
+      `<p class="nc-by"><button type="button" class="np" data-np="s:${n}:${s.toFixed(2)}:${e.toFixed(2)}" aria-label="Play where it comes up, ${len} seconds">${PLAYI}</button><span>Hear the mention at ${FF.fmt(s)} · ${len} s</span></p>`;
+    aria = `Paper: ${p.title}`;
+  } else if (c.type === "org") {
+    const o = c.org, desc = (o.desc || "").replace(new RegExp(String.raw`\s*\((?:on the show, )?Ep ${n}\)`), ""); kind = o.kind; title = esc(o.name); tz = esc(desc);
+    body = `<p class="nc-d">${esc(desc)}</p>${o.url ? `<p class="nc-ln">${ext(o.url, `${esc(host(o.url))} ↗`)}</p>` : ""}`;
+    aria = `${o.kind}: ${o.name}`;
+  } else if (c.type === "person" || c.type === "guest") {
+    const P = nPerson(c.g, c.gep, n); title = esc(c.g.term); tz = esc(P.line); body = `<p class="nc-d">${esc(P.line)}</p>${P.link}`; aria = `Person: ${c.g.term}`;
+  } else {
+    const d = XP.defs[c.t] || {}, showEx = d.expand && !norm(d.def || "").startsWith(norm(d.expand));
+    title = esc(c.t); tz = esc(d.def || "");
+    body = `${showEx ? `<p class="nc-x">${esc(capFirst(d.expand))}</p>` : ""}<p class="nc-d">${esc(d.def || "")}</p>${c.x ? nClip(V, c.x, n) : ""}`;
+    aria = `${kind}: ${c.t}`;
+  }
+  const el = document.createElement("aside");
+  el.className = `nc k-${c.type}`; el.setAttribute("aria-label", aria);
+  el.innerHTML = `<button class="nc-h" type="button" aria-expanded="false"><span class="nc-k">${kind === "Earlier on the show" ? `Earlier<span class="lw"> on the show</span>` : kind}${tag}</span><span class="nc-t">${title}</span><span class="nc-tz" aria-hidden="true">${tz}</span><span class="nc-cv" aria-hidden="true"></span></button><div class="nc-b">${body}</div>`;
+  el._ws = c.ws; el._at = c.at; el._pri = NPRI[c.type];
+  const on = () => nMark(el, true), off = () => nMark(el, false);
+  el.addEventListener("mouseenter", on); el.addEventListener("mouseleave", () => { if (!el.contains(document.activeElement)) off(); });
+  el.addEventListener("focusin", on); el.addEventListener("focusout", e => { if (!el.contains(e.relatedTarget) && !el.matches(":hover")) off(); });
+  return el;
+}
+function nMark(el, on) {                              // the note's words get a soft marker while the note is hovered or focused
+  const [a, b] = el._ws; el.classList.toggle("hot", on);
+  for (let i = a; i <= b; i++) { const sp = spanOf(i); if (sp) sp.classList.toggle("nhl", on); }
+}
+function makeNotes(V, R) {                            // a reading's note cards, each after its paragraph
+  const PS = nParas(V, R.root), pick = nPick(nCands(V, PS)), cards = [];
+  pick.forEach((list, k) => { let after = PS[k].p; for (const c of list) { const el = nCard(V, c); el._p = PS[k].p; after.after(el); after = el; cards.push(el); } });
+  return cards;
+}
+function mountNotes(V, R) {                           // the reading on screen: its cards are the ones placed in the margin
+  const tx = $("#tx"); if (!tx) return;
+  NT.cards = R.cards;
+  const b = $("#ntBtn"); if (b) b.setAttribute("aria-label", `Notes, ${R.cards.length} on this episode`);
+  if (NT.V !== V || NT.tx !== tx) {                   // once per episode page: re-place the notes when the column changes width
+    NT.V = V; NT.tx = tx; if (NT.ro) NT.ro.disconnect();
+    NT.w = 0; NT.ro = new ResizeObserver(() => { const w = tx.clientWidth; if (w !== NT.w) { NT.w = w; queueNotes(); } }); NT.ro.observe(tx);
+    document.fonts.ready.then(() => { if (NT.V === V) placeNotes(); });
+  }
+  placeNotes();
+}
+function queueNotes() { if (!NT.raf) NT.raf = requestAnimationFrame(() => { NT.raf = 0; placeNotes(); }); }
+function placeNotes() {                               // wide: each note level with the line its words are on, nudged down so none overlap
+  const ve = $("#vEp"), tx = $("#tx"); if (!ve || !tx) return;
+  const on = S.notes, wide = on && WIDE.matches;
+  ve.classList.toggle("nw", wide); ve.classList.toggle("ni", on && !wide); ve.classList.toggle("noff", !on);
+  // Only what changed is written: an unchanged attribute or min-height rewritten would cost a relayout of the whole transcript.
+  for (const c of NT.cards) {
+    if (c.classList.contains("nx")) c.classList.remove("nx");
+    const h = c.firstElementChild, ti = wide ? 0 : -1, hi = wide ? -1 : 0;
+    if (c.tabIndex !== ti) c.tabIndex = ti; if (h.tabIndex !== hi) h.tabIndex = hi;
+    if (wide) { if (h.hasAttribute("aria-expanded")) h.removeAttribute("aria-expanded"); }
+    else { const v = String(c.classList.contains("open")); if (h.getAttribute("aria-expanded") !== v) h.setAttribute("aria-expanded", v); }
+  }
+  if (!wide) { NT.cards.forEach(c => { if (c.style.top) c.style.top = ""; }); if (tx.style.minHeight) tx.style.minHeight = ""; return; }
+  if (!tx.offsetParent) return;
+  const T = tx.getBoundingClientRect().top; let y = -1e9;
+  const geo = NT.cards.map(c => {                     // read every position first: moving a note never moves the text
+    const pr = c._p.getBoundingClientRect(); let line = pr.top;
+    for (let i = c._ws[0]; i <= c._ws[1]; i++) { const sp = spanOf(i); if (sp && !sp.hidden) { const r = sp.getClientRects()[0]; if (r) { line = r.top; break; } } }
+    return { pr, line, pt: c.parentElement.getBoundingClientRect().top, h: c.offsetHeight };
+  });
+  NT.cards.forEach((c, k) => {
+    const { pr, line, pt, h } = geo[k], want = Math.max(pr.top, line) - T - 11, top = Math.max(want, y + 14);
+    if (top > pr.bottom - T + 40 && c._pri >= 3) { c.classList.add("nx"); return; }   // no room beside its paragraph: a plain definition or a name can go
+    const v = (top - (pt - T)) + "px"; if (c.style.top !== v) c.style.top = v;
+    c._want = want; y = top + h;
+  });
+  const R = txRoot(), mh = R && y > R.offsetHeight ? y + "px" : "";   // the reading's own height, whatever min-height the column has now
+  if (tx.style.minHeight !== mh) tx.style.minHeight = mh;
+}
+function setNotes(on) {
+  S.notes = on; store.set("notes", on); const b = $("#ntBtn"); if (b) b.setAttribute("aria-pressed", on);
+  const ra = readAnchor(), anchor = ra && ra.sp, top = ra ? ra.top : 0;   // keep the line being read where it is while the column changes width
+  placeNotes();
+  if (anchor) { S.prog = performance.now() + 150; scrollBy(0, anchor.getBoundingClientRect().top - top); }
+}
+function toggleNote(c) {
+  const o = c.classList.toggle("open"); c.firstElementChild.setAttribute("aria-expanded", o); nMark(c, o);
+}
+async function playNote(id) {                         // play exactly the note's span in the bottom player
+  let n, s, e, who = "";
+  if (id.startsWith("x:")) { const x = XP && XP.byId.get(id.slice(2)); if (!x) return; ({ n, s, e } = x); who = first(x.who); }
+  else { const p = id.split(":"); n = +p[1]; s = +p[2]; e = +p[3]; }
+  const V = await getView(n); adopt(V);
+  S.stopAt = { n, s, e, armed: false };
+  V.player.seek(Math.max(0, s - .15), true); V.player.refresh(s);
+  if (TT.V === V) { TT.rest = false; armTo(s, true); }
+  const say = () => toast(`Playing ${who ? who + " · " : ""}${n !== (S.view && S.view.n) ? cat(n) + " · " : ""}${secs(e - s)}`);
+  if (!audio.paused && audio.readyState > 2 && !V.player.fresh) say(); else AU.say(say);   // said once it is really playing
+}
+WIDE.addEventListener("change", placeNotes);
+
+/* ---------- the shelf ---------- */
+function renderHome() {                               // the latest episode as a cover feature, then every episode
+  const L = S.eps.reduce((a, e) => e.n > a.n ? e : a), m = Math.round(L.duration_s / 60);
+  $("#feat").innerHTML = `<div class="fart"><div class="fhold"><span class="fdisc" data-n="${L.n}" aria-hidden="true"><span class="rot"><span class="lbl"><img src="../${esc(L.art)}" alt="" decoding="async"></span></span><span class="shn"></span></span>` +
+    `<div class="art"><a href="${recHref(L.n)}" tabindex="-1" aria-hidden="true">${sleeveHTML(L, true)}</a>${hpHTML(L)}</div></div>${progHTML(L, false)}</div><div class="fx">
+    <p class="kick"><span class="new">New</span><b>${cat(L.n)}</b><span>${dateFmt(L.date, { day: "numeric", month: "long", year: "numeric" })} · ${m} min</span></p>
+    <h2 class="fh"><a href="${recHref(L.n)}">${esc(headline(L))}</a></h2>
+    <p class="fg">with <b>${esc(artist(L))}</b>${L.affiliation ? `<span>${esc(L.affiliation)}</span>` : ""}</p>
+    ${L.notes ? `<p class="fn">${esc(L.notes)}</p>` : ""}
+    <div class="acts"><button type="button" class="bp" data-play="${L.n}" aria-label="Play ${cat(L.n)}">${PLAYI}Play episode</button><a class="rd" href="${recHref(L.n)}">Read the transcript</a></div>
+    </div>`;
+  const list = S.eps.filter(e => e !== L).sort((a, b) => S.sort === "new" ? b.n - a.n : a.n - b.n);
+  $$("[data-sort]").forEach(b => b.setAttribute("aria-pressed", b.dataset.sort === S.sort));
+  $("#shelf").innerHTML = list.map(e => { const mm = Math.round(e.duration_s / 60);
+    return `<li class="card" data-n="${e.n}"><div class="art"><a href="${recHref(e.n)}" tabindex="-1" aria-hidden="true">${sleeveHTML(e, false, SZ.card)}</a>${hpHTML(e)}</div>${progHTML(e)}` +
+      `<a class="ct" href="${recHref(e.n)}"><span class="m"><b>${cat(e.n)}</b> · ${dateFmt(e.date, { month: "short", year: "numeric" })} · ${mm} min</span><span class="tl">${esc(headline(e))}</span><span class="gs">${esc(artist(e))}</span></a></li>`; }).join("");
+  syncPP();
+}
+addEventListener("ffweb:theme", () => { if (S.play) drawTrace(); });   // site.js switched the theme: the trace's colours come from it
+
+/* ---------- boot ---------- */
+let booted = false;
+(async () => {
+  if ("scrollRestoration" in history) history.scrollRestoration = "manual";
+  setRate(S.rate);
+  const p = FF.params(), rawEp = new URLSearchParams(location.search).get("ep");   // old-style deep links: ?ep=3&t=600 and ?q=skull
+  if (rawEp || p.q) history.replaceState(null, "", location.pathname + (rawEp ? recHref(p.ep != null ? p.ep : encodeURIComponent(rawEp), p.t) : `#/search?q=${encodeURIComponent(p.q)}`));   // ?ep=99 or ?ep=abc: "No such episode"
+  const deep = /^#\/record\/(\d{1,3})(?:[?/]|$)/.exec(location.hash);   // start the episode's own file now, not after the metadata
+  if (deep) { FF.episodes().then(eps => { if (eps.some(e => e.n === +deep[1])) { FF.episode(+deep[1]).catch(() => {}); noteData(); } }).catch(() => {}); }   // only a real episode: no 404
+  await boot();
+})();
+async function boot(again) {                          // the episode list is required; the glossary only adds chapter titles and mentions
+  const [eps, gl] = await Promise.allSettled([FF.episodes(), FF.glossary()]);
+  if (eps.status !== "fulfilled" || !Array.isArray(eps.value)) {
+    show("vErr"); document.title = "Could not load · FUS Forward Records";
+    FFW.fail($("#errBox"), "The list of episodes", () => boot(true));
+    if (again) $("#vErr h1").focus({ preventScroll: true });
+    return;
+  }
+  S.eps = eps.value;
+  if (gl.status === "fulfilled" && Array.isArray(gl.value)) { S.gl = gl.value; S.glMissing = false; } else { S.gl = []; S.glMissing = true; }
+  renderHome();
+  if (!booted) {
+    booted = true; addEventListener("hashchange", onRoute);
+    ["focus", "pointerdown"].forEach(ev => $("#q").addEventListener(ev, () => ensureRows().catch(() => {}), { once: true }));   // the 1.7 MB search index: fetched when someone heads for search
+  }
+  await onRoute(again ? true : undefined);
+}
+})();
+</script>
+</body>
+</html>

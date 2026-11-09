@@ -1,0 +1,250 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Explained · FUS Forward Records</title>
+<link rel="icon" href="../favicon.ico">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400..700&family=Source+Serif+4:opsz,wght@8..60,300..700&display=swap" rel="stylesheet">
+<script>try{document.documentElement.dataset.theme=JSON.parse(localStorage.getItem("ffweb.theme"))==="light"?"light":"dark"}catch(e){}</script>
+<link rel="stylesheet" href="site.css">
+<link rel="preload" href="../data/episodes.js" as="script">
+<style>
+/* Explained, laid out like a course: every clip listed on the left, one clip at a time on the right with its words. */
+.hd-in,.ft-in{max-width:1520px}   /* the header and footer line up with the wider course layout */
+.wrap{max-width:1520px;margin:0 auto;padding:32px 32px 60px;display:grid;grid-template-columns:300px minmax(0,1fr);gap:0 48px}
+.side{position:sticky;top:calc(var(--hdh) + 24px);align-self:start;max-height:calc(100vh - var(--hdh) - 48px);overflow:auto;padding-right:6px}
+.side h1{margin:0;font:650 24px/1.2 var(--disp);letter-spacing:-.015em;color:var(--t1)}
+.side .sub{margin:6px 0 18px;font:400 13.5px/1.5 var(--disp);color:var(--mute)}
+@media (hover:none){.side .keys{display:none}}
+.grp{margin:18px 0 0}
+.grp h2{margin:0 0 6px;font:600 11px/1.3 var(--disp);letter-spacing:.08em;text-transform:uppercase;color:var(--mute)}
+.it{display:grid;grid-template-columns:22px 1fr auto;gap:10px;align-items:baseline;width:100%;padding:8px 10px;border:0;border-radius:8px;background:none;text-align:left;cursor:pointer;color:var(--t2);font:500 14px/1.35 var(--disp)}
+.it:hover{background:var(--hov);color:var(--t1)}
+.it:focus-visible{outline:2px solid var(--acc);outline-offset:-2px}
+.it .k,.it .d{color:var(--mute);font-size:12px;font-variant-numeric:tabular-nums}
+.it[aria-current="true"]{background:var(--soft);color:var(--t1);box-shadow:inset 2px 0 0 var(--acc)}
+.it.seen .k{color:var(--acc)}
+.pane{min-width:0;max-width:960px}
+.crumb{margin:4px 0 0;font:500 13px/1.4 var(--disp);color:var(--mute)}
+.crumb b{color:var(--acc);font-weight:600}
+.pane h2{margin:10px 0 0;font:650 clamp(26px,3vw,34px)/1.15 var(--disp);letter-spacing:-.02em;color:var(--t1);text-wrap:balance}
+.pane h2:focus{outline:none}
+.who{display:flex;align-items:center;gap:12px;margin:18px 0 0}
+.who img{width:64px;height:36px;border-radius:4px;object-fit:cover;flex:none}
+.who p{margin:0;font:400 14px/1.4 var(--disp);color:var(--t2)}.who b{display:block;color:var(--t1);font-weight:600}
+.who a{color:var(--t2)}.who a:hover{color:var(--acc)}
+.player{display:flex;align-items:center;gap:14px;margin:22px 0 0;padding:12px 14px;border:1px solid var(--rule);border-radius:12px;background:var(--paper);
+  position:sticky;top:calc(var(--hdh) + 12px);z-index:5;box-shadow:0 -13px 0 var(--bg)}   /* stays in reach while a long clip's words scroll under it */
+.pp{width:44px;height:44px;flex:none;border-radius:50%;border:0;background:var(--mag);color:#fff;display:grid;place-items:center;cursor:pointer}
+.pp:hover{background:var(--mag-hov)}.pp svg{width:15px;height:15px}.pp:focus-visible{outline:2px solid var(--t1);outline-offset:3px}
+.track{flex:1;height:6px;border-radius:3px;background:var(--rule);cursor:pointer;position:relative}
+.track:focus-visible{outline:2px solid var(--acc);outline-offset:4px}
+.track i{position:absolute;inset:0 auto 0 0;width:0;border-radius:3px;background:var(--acc)}
+.time{font:500 13px/1 var(--disp);color:var(--mute);font-variant-numeric:tabular-nums;white-space:nowrap}
+.text{margin:26px 0 0;font:400 19px/1.7 var(--text);color:var(--t1);font-variation-settings:"opsz" 20}
+.text p{margin:0 0 16px}
+.text .w{cursor:pointer;border-radius:3px;transition:background-color .12s;-webkit-tap-highlight-color:transparent}
+@media (hover:hover){.text .w:hover{text-decoration:underline;text-decoration-color:var(--rule2);text-underline-offset:3px}}
+.text .w.now{background:var(--now);box-shadow:2px 0 0 var(--now),-2px 0 0 var(--now)}
+.text b{display:block;margin:0 0 2px;font:600 12px/1.4 var(--disp);letter-spacing:.04em;text-transform:uppercase;color:var(--mute)}
+.note{margin:6px 0 0;padding:10px 14px;border-radius:8px;background:var(--soft);font:400 14px/1.5 var(--disp);color:var(--t2)}
+.nav2{display:flex;justify-content:space-between;gap:16px;margin:32px 0 0;padding-top:18px;border-top:1px solid var(--rule)}
+.nav2 button{max-width:48%;padding:10px 14px;border:1px solid var(--rule2);border-radius:10px;background:none;color:var(--t1);text-align:left;cursor:pointer;font:600 14px/1.35 var(--disp)}
+.nav2 button:hover{background:var(--hov)}.nav2 button span{display:block;font:500 12px/1.4 var(--disp);color:var(--mute)}
+.nav2 .nx{text-align:right;margin-left:auto}
+@media (max-width:900px){
+  .wrap{grid-template-columns:1fr;padding:20px 16px 60px}
+  .side{position:static;max-height:none;overflow:visible;margin-bottom:28px}
+  .side .list{max-height:260px;overflow:auto;border:1px solid var(--rule);border-radius:10px;padding:4px}
+  .text{font-size:18px}
+}
+</style>
+</head>
+<body data-page="explained">
+<a class="skip" href="#pane">Skip to the clip</a>
+<header class="hd"><div class="hd-in">
+  <a class="wm" href="index.html#/" aria-label="FUS Forward Records: home"><svg width="30" height="18" viewBox="0 0 30 18" aria-hidden="true"><path d="M0 0l14 9-14 9z" fill="#EF7D00"/><path d="M12 0l14 9-14 9z" fill="#E8005A"/></svg><b>FUS Forward</b><span class="rc">Records</span></a>
+  <nav class="nav" aria-label="Sections"><a href="index.html#/" data-nav="episodes">Episodes</a><a href="explained.html" data-nav="explained" aria-current="page">Explained</a></nav>
+  <label class="hs"><svg width="14" height="14" viewBox="0 0 16 16" aria-hidden="true"><circle cx="6.8" cy="6.8" r="5" fill="none" stroke="currentColor" stroke-width="1.6"/><path d="M10.5 10.5 15 15" stroke="currentColor" stroke-width="1.6"/></svg>
+    <input id="q" type="search" placeholder="Search every episode" autocomplete="off" spellcheck="false" aria-label="Search every transcript (press / to focus)"><kbd aria-hidden="true">/</kbd></label>
+  <button class="ib" id="theme" type="button" aria-label="Switch to light theme"><svg width="18" height="18" viewBox="0 0 18 18" aria-hidden="true"><circle cx="9" cy="9" r="7.2" fill="none" stroke="currentColor" stroke-width="1.4"/><path d="M9 1.8a7.2 7.2 0 0 1 0 14.4z" fill="currentColor"/></svg></button>
+</div></header>
+<noscript><p class="nojs">This site needs JavaScript to play audio and show transcripts.</p></noscript>
+
+<div class="wrap">
+  <aside class="side" aria-label="All clips">
+    <h1>Explained</h1>
+    <p class="sub">A few dozen short clips of guests explaining the field.<span class="keys"> ← → to move between them.</span></p>
+    <nav class="list" id="list" aria-label="Clips"></nav>
+  </aside>
+  <main class="pane" id="pane" tabindex="-1"><div id="loadErr" hidden></div><div id="clip"></div></main>
+</div>
+<footer class="ft"><div class="ft-in">
+  <p class="ft-wm"><svg width="20" height="12" viewBox="0 0 30 18" aria-hidden="true"><path d="M0 0l14 9-14 9z" fill="#EF7D00"/><path d="M12 0l14 9-14 9z" fill="#E8005A"/></svg>FUS Forward Records</p>
+  <p class="ft-x">Unofficial, machine-generated transcripts of FUS Forward, the focused-ultrasound podcast with Charles Caskey and Keith Murphy. Names are sometimes misheard. Audio and artwork © FUS Forward.</p>
+  <p><a href="https://anchor.fm/s/1077a238c/podcast/rss" target="_blank" rel="noopener">Podcast feed<span class="vh"> (opens in a new tab)</span></a></p>
+</div></footer>
+<p class="vh" id="live" aria-live="polite"></p>
+
+<script src="../shared/core.js"></script>
+<script src="site.js"></script>
+<script src="../data/explainers.js"></script>
+<script src="../data/quotes.js"></script>
+<script src="essentials.js"></script>
+<script>
+/* Explained: the clips of essentials.js in order. Choosing one shows it without playing; play (or a click on a word)
+   plays exactly its span ([s, e]), and it stops at its end.
+   #<clip id> opens a clip (e.g. explained.html#16-2279). */
+(() => {
+const $ = s => document.querySelector(s), $$ = s => [...document.querySelectorAll(s)], esc = FF.esc, fmt = FF.fmt;
+const PLAY = '<svg viewBox="0 0 16 16" aria-hidden="true"><path d="M4.5 2.2v11.6L13.8 8z" fill="currentColor"/></svg>';
+const PAUSE = '<svg viewBox="0 0 16 16" aria-hidden="true"><path d="M3.6 2.5h3v11h-3zM9.4 2.5h3v11h-3z" fill="currentColor"/></svg>';
+const LV = { basics: "Basics", intermediate: "Intermediate", "deep cut": "Deep cut" };
+const CH = window.FFW_CLIPS && window.FF_EXPLAIN ? FFW_CLIPS() : [];
+const X = CH.flatMap(c => c.clips.map(x => ({ ...x, ch: c }))), len = x => x.e - x.s;
+const audio = new Audio(); audio.preload = "none";
+let EPS = new Map(), i = 0, cur = null, raf = 0, failed = false;
+const seen = new Set();
+
+/* ---------- render ---------- */
+function listHTML() {
+  let k = 0;
+  return CH.map(c => `<div class="grp"><h2>${c.no}. ${esc(c.title)}</h2>` + c.clips.map(() => {
+    const x = X[k], j = k++;
+    return `<button type="button" class="it" data-i="${j}"><span class="k">${j + 1}</span><span>${esc(x.title)}</span><span class="d">${fmt(len(x))}</span></button>`;
+  }).join("") + "</div>").join("");
+}
+// The clip's words in the clean read (data/quotes.js), each turn under its speaker's name. Nothing is reworded. Each word
+// carries its start (hundredths of a second into the clip): the word being said lights up, and clicking one plays from it.
+let WT = [];   // the shown clip's word starts, in order, in seconds
+function textHTML(x) {
+  const q = (window.FF_QUOTES || {})[x.id] || [], cap = s => s.charAt(0).toUpperCase() + s.slice(1);   // a clip can start mid-sentence
+  WT = [];
+  return q.map(([who, text, times], j) => `<p><b>${esc(who)}</b>` + (j ? text : cap(text)).split(" ").map((w, k) => {
+    WT.push((times || [])[k] / 100 || 0);
+    return `<span class="w" data-w="${WT.length - 1}">${esc(w)}</span>`;
+  }).join(" ") + "</p>").join("");
+}
+let lit = -1;
+function light(d) {                          // d: seconds into the clip, or -1 for none
+  let k = -1;
+  if (d >= 0) { let lo = 0, hi = WT.length - 1; while (lo <= hi) { const m = (lo + hi) >> 1; if (WT[m] <= d) { k = m; lo = m + 1; } else hi = m - 1; } }
+  if (k === lit) return;
+  const old = document.querySelector(`.text .w[data-w="${lit}"]`); if (old) old.classList.remove("now");
+  const now = document.querySelector(`.text .w[data-w="${k}"]`); if (now) now.classList.add("now");
+  lit = k;
+}
+function show(j, focus) {
+  j = Math.max(0, Math.min(X.length - 1, j));
+  if (j === i && $("#clip").firstChild) return;     // already shown (← on the first clip, → on the last)
+  i = j;
+  const x = X[i], e = EPS.get(x.n) || {}, pv = X[i - 1], nx = X[i + 1];
+  lit = -1;
+  $("#clip").innerHTML = `<p class="crumb"><b>${x.ch.no}. ${esc(x.ch.title)}</b> · clip ${i + 1} of ${X.length} · ${LV[x.level] || esc(x.level)}</p>
+    <h2 tabindex="-1">${esc(x.title)}</h2>
+    <div class="who">${e.art ? `<img ${FFW.art(e.art, "64px")} alt="" width="64" height="36">` : ""}<p><b>${esc(x.who)}</b>Ep ${x.n}${e.title ? `, ${esc(e.title)}` : ""} · <a href="index.html${FF.link(x.n, x.s)}">at ${fmt(x.s)} in the transcript</a></p></div>
+    <div class="player"><button type="button" class="pp" id="pp">${PLAY}</button>
+      <span class="track" id="track" role="slider" tabindex="0" aria-label="Position in this clip" aria-valuemin="0" aria-valuemax="${Math.round(len(x))}" aria-valuenow="0"><i id="fill"></i></span>
+      <span class="time" id="time">0:00 / ${fmt(len(x))}</span></div>
+    <div class="text">${textHTML(x)}</div>
+    ${x.caveat ? `<p class="note"><b>Note:</b> ${esc(x.caveat)}</p>` : ""}
+    <div class="nav2">${pv ? `<button type="button" data-go="-1"><span>Previous</span>${esc(pv.title)}</button>` : ""}
+      ${nx ? `<button type="button" class="nx" data-go="1"><span>Next</span>${esc(nx.title)}</button>` : ""}</div>`;
+  $$(".it").forEach(b => { b.setAttribute("aria-current", +b.dataset.i === i); b.classList.toggle("seen", seen.has(+b.dataset.i)); });
+  const sel = $(`.it[data-i="${i}"]`), list = $("#list"), box = list.scrollHeight > list.clientHeight + 1 ? list : $(".side");
+  if (sel && box) {                                  // the list scrolls inside itself; the page stays where it is
+    const r = sel.getBoundingClientRect(), b = box.getBoundingClientRect();
+    if (r.top < b.top) box.scrollTop -= b.top - r.top + 8; else if (r.bottom > b.bottom) box.scrollTop += r.bottom - b.bottom + 8;
+  }
+  history.replaceState(null, "", location.pathname + location.search + "#" + x.id);
+  document.title = `${x.title} · Explained · FUS Forward Records`;
+  if (cur) { audio.pause(); cur = null; }
+  const top = $("#clip").getBoundingClientRect().top;   // a new clip starts at its title, not halfway down the last one
+  if (top < 0 || top > innerHeight) $("#clip").scrollIntoView({ block: "start" });
+  if (focus) $("#clip h2").focus({ preventScroll: true });
+  sync();
+}
+
+/* ---------- the player: exactly the shown clip's span, stopping at its end ---------- */
+function seek(t) { const go = () => { try { audio.currentTime = t; } catch (e) {} }; audio.readyState >= 1 ? go() : audio.addEventListener("loadedmetadata", go, { once: true }); }
+function load() {
+  const x = X[i], e = EPS.get(x.n); if (!e) return;
+  cur = x; failed = false;
+  if (audio.src !== e.audio_url) { audio.src = e.audio_url; audio.preload = "auto"; }
+  seek(x.s); audio.play().catch(() => {});
+  AU.say(() => { $("#live").textContent = `Playing ${x.title}, ${x.who}.`; });
+}
+function toggle() {
+  const x = X[i];
+  if (cur !== x) return load();
+  if (audio.paused && audio.error) { failed = false; audio.load(); seek(x.s); audio.play().catch(() => {}); return; }
+  if (audio.paused) { if (audio.currentTime >= x.e - .25 || audio.currentTime < x.s - 1) seek(x.s); audio.play().catch(() => {}); }
+  else audio.pause();
+}
+function atEnd() {                          // the clip's span is over: stop there (> e + 4 is a seek that has not landed yet)
+  if (!cur || audio.paused || audio.seeking || audio.currentTime < cur.e || audio.currentTime > cur.e + 4) return false;
+  seen.add(i); audio.pause(); $(`.it[data-i="${i}"]`)?.classList.add("seen"); return true;
+}
+audio.addEventListener("timeupdate", atEnd);
+audio.addEventListener("ended", () => { if (cur) { seen.add(i); sync(); } });
+["play", "pause", "seeked"].forEach(ev => audio.addEventListener(ev, sync));
+// Audio that fails to download: a calm note (site.js) with Try again and Spotify; the button goes back to Play.
+const AU = FFW.watchAudio(audio, { link: () => cur && (EPS.get(cur.n) || {}).link, reset: () => { failed = true; sync(); },
+  retry: () => { if (!cur) return; failed = false; audio.load(); seek(cur.s); audio.play().catch(() => {}); } });
+function sync() {
+  const pp = $("#pp"); if (!pp) return;
+  const x = X[i], on = cur === x && !audio.paused && !failed;
+  pp.innerHTML = on ? PAUSE : PLAY; pp.setAttribute("aria-label", `${on ? "Pause" : "Play"} ${x.who} on “${x.title}”, ${Math.round(len(x))} seconds`);
+  cancelAnimationFrame(raf);
+  const step = () => {
+    const d = cur === x ? Math.max(0, Math.min(len(x), audio.currentTime - x.s)) : 0, tr = $("#track"); if (!tr) return;
+    $("#fill").style.width = d / len(x) * 100 + "%"; $("#time").textContent = `${fmt(d)} / ${fmt(len(x))}`;
+    light(cur === x && (!audio.paused || d > 0) && d < len(x) - .05 ? d : -1);
+    tr.setAttribute("aria-valuenow", Math.round(d)); tr.setAttribute("aria-valuetext", `${fmt(d)} of ${fmt(len(x))}`);
+    if (cur === x && !audio.paused && !atEnd()) raf = requestAnimationFrame(step);
+  };
+  step();
+}
+function seekTo(frac) { const x = X[i]; if (cur !== x) load(); seek(x.s + Math.max(0, Math.min(1, frac)) * (len(x) - .3)); setTimeout(sync, 30); }
+
+/* ---------- controls ---------- */
+document.addEventListener("click", ev => {
+  const w = ev.target instanceof Element ? ev.target.closest(".text .w") : null;
+  if (w && !String(getSelection())) {          // selecting text to copy it plays nothing
+    const x = X[i]; if (cur !== x) load();
+    seek(x.s + WT[+w.dataset.w]); if (audio.paused) audio.play().catch(() => {}); setTimeout(sync, 30); return;
+  }
+  const el = ev.target instanceof Element ? ev.target.closest("button, #track") : null; if (!el) return;
+  if (el.dataset.i) show(+el.dataset.i, true);   // choosing a clip shows it; only play (or a word) plays it
+  else if (el.dataset.go) show(i + +el.dataset.go, true);
+  else if (el.id === "pp") toggle();
+  else if (el.id === "track") { const r = el.getBoundingClientRect(); seekTo((ev.clientX - r.left) / r.width); }
+});
+document.addEventListener("keydown", ev => {
+  if (ev.altKey || ev.ctrlKey || ev.metaKey || !X.length) return;
+  const t = ev.target instanceof Element ? ev.target : document.body;
+  if (t.id === "track") {                     // the position slider: arrows move 5 s, Home and End jump
+    const x = X[i], d = cur === x ? audio.currentTime - x.s : 0;
+    const to = { ArrowRight: d + 5, ArrowUp: d + 5, ArrowLeft: d - 5, ArrowDown: d - 5, Home: 0, End: len(x) }[ev.key];
+    if (to != null) { ev.preventDefault(); seekTo(to / len(x)); }
+    return;
+  }
+  if (t.closest("input, textarea, select, [contenteditable]")) return;
+  if (ev.key === "ArrowRight" || ev.key === "ArrowLeft") { ev.preventDefault(); const back = document.activeElement && document.activeElement.id === "pp"; show(i + (ev.key === "ArrowRight" ? 1 : -1)); if (back) $("#pp")?.focus(); }
+  else if (ev.key === " " && !t.closest("button, a")) { ev.preventDefault(); toggle(); }   // a focused button's own Space already clicks it
+});
+
+(async () => {
+  try { EPS = new Map((await FF.episodes()).map(e => [e.n, e])); } catch (e) { EPS = new Map(); }
+  if (!X.length || !EPS.size) { FFW.fail($("#loadErr"), "The clips"); return; }   // a data file did not download
+  $("#list").innerHTML = listHTML();
+  let h = location.hash.slice(1); try { h = decodeURIComponent(h); } catch (e) {}
+  const at = X.findIndex(x => x.id === h);
+  show(at < 0 ? 0 : at);
+})();
+})();
+</script>
+</body>
+</html>

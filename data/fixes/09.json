@@ -1,0 +1,101 @@
+{
+ "_note": "Claude's review of out/flags/09.json. 'fix' may only swap a flagged span for a listed term; 'uncertain' words are marked in the output, not changed (by raw word index 'i', or by text anchor 'near_s' + 'text'). Every other flag was checked and kept as transcribed. 'replace' (word corrections) and the text-anchored 'uncertain' entries come from a read-through audit of the transcripts; they are text-based, not checked against the audio: high-confidence corrections are applied, medium ones that need the audio are only marked uncertain. 'speaker' entries are reviewed speaker corrections from the same audit, applied after the voice naming.",
+ "fix": [
+  {
+   "i": 8228,
+   "k": 1,
+   "from": "percept",
+   "to": "Percept",
+   "why": "Medtronic's DBS device"
+  },
+  {
+   "i": 8378,
+   "k": 1,
+   "from": "precept",
+   "to": "Percept",
+   "why": "Medtronic's DBS device"
+  }
+ ],
+ "replace": [
+  {
+   "near_s": 462.3,
+   "from": "St. James",
+   "to": "SAINT",
+   "why": "Stanford accelerated TMS protocol"
+  },
+  {
+   "near_s": 978.94,
+   "from": "John's",
+   "to": "Jon's",
+   "why": "guest is Jon Nelson"
+  },
+  {
+   "near_s": 1135.08,
+   "from": "R+S",
+   "to": "RC+S",
+   "why": "Medtronic Summit RC+S investigational DBS"
+  },
+  {
+   "near_s": 2660.09,
+   "from": "Andrew Crystal",
+   "to": "Andrew Krystal",
+   "why": "UCSF psychiatrist with Eddie Chang (series-wide S4)"
+  },
+  {
+   "near_s": 112.58,
+   "from": "boreholes",
+   "to": "burr holes",
+   "why": "DBS burr holes"
+  },
+  {
+   "near_s": 1080.62,
+   "from": "OneMind",
+   "to": "One Mind",
+   "why": "the One Mind foundation"
+  },
+  {
+   "near_s": 2406.65,
+   "from": "percept",
+   "to": "Percept",
+   "why": "Medtronic Percept device (spelt Percept elsewhere)"
+  }
+ ],
+ "uncertain": [
+  {
+   "i": 507,
+   "why": "very low confidence"
+  },
+  {
+   "i": 5812,
+   "why": "low confidence on a name ('mexa')"
+  },
+  {
+   "i": 9658,
+   "why": "very low confidence"
+  },
+  {
+   "near_s": 288.48,
+   "text": "apps",
+   "why": "probably 'eps' (episodes); medium"
+  },
+  {
+   "near_s": 2218.83,
+   "text": "visual,",
+   "why": "maybe 'video journal'; needs the audio (medium)"
+  }
+ ],
+ "speaker": [
+  {
+   "near_s": 1277.8,
+   "text": "suicidal thought.",
+   "who": "Jon Nelson",
+   "why": "completes Jon's 'I haven't had a single suicidal thought'"
+  },
+  {
+   "near_s": 45.76,
+   "text": "Dude, he's, he's told me--",
+   "who": "Jon Nelson",
+   "why": "Jon on Keith ('he's told me'), before 'He's not even inviting him back'; voice JN 0.38 vs KM 0.21"
+  }
+ ]
+}

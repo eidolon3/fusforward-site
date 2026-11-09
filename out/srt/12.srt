@@ -1,0 +1,6143 @@
+1
+00:00:00,100 --> 00:00:06,400
+Charles Caskey: [gentle music] Folks
+
+2
+00:00:06,520 --> 00:00:11,140
+talk about sound like it's just pressure in the air, but pressure doesn't tell
+
+3
+00:00:11,180 --> 00:00:17,080
+the whole story. Something moves before we ever even name it, before the plots,
+
+4
+00:00:17,880 --> 00:00:24,560
+before the p-values. Blood hesitates. Tissues lean.
+
+5
+00:00:25,840 --> 00:00:31,640
+Echoes argue with themselves. And tonight, we're talking with somebody who watches this motion
+
+6
+00:00:31,700 --> 00:00:33,500
+where most of us only see noise.
+
+7
+00:00:34,700 --> 00:00:39,140
+This is FUS Forward, and today we have with us from Duke University, the
+
+8
+00:00:39,220 --> 00:00:43,780
+one and only Pengfei Song. [clapping]
+
+9
+00:00:43,840 --> 00:00:47,300
+Pengfei Song: Oh my goodness. Wow. [laughs] Danny Ovitz.
+
+10
+00:00:48,460 --> 00:00:50,380
+Wow. I knew this guy was good.
+
+11
+00:00:50,400 --> 00:00:52,640
+[laughs] I'm so flattered. Wow.
+
+12
+00:00:52,720 --> 00:00:54,560
+Charles Caskey: Oh, yeah, man, we're stoked to have you here.
+
+13
+00:00:54,620 --> 00:00:56,900
+We're, we're flattered that you, that you want to join us.
+
+14
+00:00:56,920 --> 00:00:59,740
+[chuckles] So- This is my- So we, so we did a song about it.
+
+15
+00:00:59,760 --> 00:01:02,200
+[laughs]
+
+16
+00:01:02,240 --> 00:01:06,520
+Pengfei Song: Wow, that's fantastic. First time I've, I hear some, like a song introduction.
+
+17
+00:01:06,520 --> 00:01:07,160
+[laughs]
+
+18
+00:01:07,260 --> 00:01:10,820
+Keith Murphy: Song was scientifically accurate too. I didn't think you'd go into that much detail.
+
+19
+00:01:10,980 --> 00:01:12,200
+Charles Caskey: Or we could just take little snippets.
+
+20
+00:01:12,300 --> 00:01:14,100
+But, um, but seriously, welcome, Pengfei.
+
+21
+00:01:14,180 --> 00:01:15,880
+We're, we're so stoked to have you here.
+
+22
+00:01:16,460 --> 00:01:18,140
+Um, big fan of your work.
+
+23
+00:01:18,260 --> 00:01:24,600
+I've always been impressed with your m- ability to get amazing functional ultrasound images.
+
+24
+00:01:24,700 --> 00:01:30,440
+I've s- been super enthused that you've expressed in- increased interest as focused ultrasound
+
+25
+00:01:30,480 --> 00:01:34,720
+neuromodulation has, has, has come forward because yeah, you know so much about sound
+
+26
+00:01:34,780 --> 00:01:38,980
+propagation and the limitations and the hardware and all, all these things.
+
+27
+00:01:39,040 --> 00:01:40,760
+So, so welcome. Stoked you're here.
+
+28
+00:01:41,340 --> 00:01:44,460
+Pengfei Song: Thank you. Thank you, Charles. May I say that actually, when I started my
+
+29
+00:01:44,520 --> 00:01:47,540
+lab, I remember you were one of my first Twitter followers.
+
+30
+00:01:47,620 --> 00:01:48,980
+It was still called Twitter back then.
+
+31
+00:01:49,540 --> 00:01:52,200
+And I was like, "This Charles guy, I didn't know him," you know?
+
+32
+00:01:52,360 --> 00:01:55,620
+And, uh- [laughs] ... he, he was really active on Twitter, and he would
+
+33
+00:01:55,720 --> 00:01:58,440
+retweet and, uh, you know, thumb up whatever I say.
+
+34
+00:01:58,780 --> 00:02:01,280
+You were so, so supportive. I was nobody.
+
+35
+00:02:01,860 --> 00:02:05,480
+And, uh, you know, and yeah, you, you, you're amazing.
+
+36
+00:02:06,340 --> 00:02:08,260
+Charles Caskey: Oh, thanks. That's amazing. Yeah, yeah.
+
+37
+00:02:08,320 --> 00:02:09,740
+I, I used to love Twitter.
+
+38
+00:02:09,880 --> 00:02:12,360
+I, I [laughs]
+
+39
+00:02:12,420 --> 00:02:14,380
+Pengfei Song: Everybody moved, right? You know. [laughs]
+
+40
+00:02:14,500 --> 00:02:15,000
+Charles Caskey: Yeah, yeah. Yeah, a lot of people.
+
+41
+00:02:14,660 --> 00:02:16,200
+They moved to Bluesky, but then it died.
+
+42
+00:02:16,500 --> 00:02:17,520
+I think it died. Yeah, Blue...
+
+43
+00:02:17,580 --> 00:02:20,620
+Yeah, it's like it, it-- We-- I feel, I do feel without a home,
+
+44
+00:02:20,700 --> 00:02:22,900
+you know? And I think that was part of the motivation to do this
+
+45
+00:02:23,120 --> 00:02:26,320
+is because, uh, it felt like we no longer had a town square.
+
+46
+00:02:26,540 --> 00:02:27,820
+Um, and so we're- Oh, town square.
+
+47
+00:02:27,840 --> 00:02:30,500
+Yeah. Yeah, I think that's what Twitter really felt like.
+
+48
+00:02:30,540 --> 00:02:33,660
+That it was really good for scientists, uh, for a while, but I just,
+
+49
+00:02:33,800 --> 00:02:35,940
+it started to like, I would get on it, and then I would just
+
+50
+00:02:35,980 --> 00:02:38,800
+leave angry for, for different reasons.
+
+51
+00:02:38,820 --> 00:02:39,600
+[laughs]
+
+52
+00:02:39,660 --> 00:02:42,520
+Pengfei Song: Yeah. Yeah. Yeah. I moved on to LinkedIn.
+
+53
+00:02:42,620 --> 00:02:46,440
+Bluesky didn't pan out. I think, you know, I think LinkedIn is more professional.
+
+54
+00:02:47,120 --> 00:02:51,700
+Keith Murphy: Um, yeah. You still get a lot of re- recruitment or any scientific, uh,
+
+55
+00:02:51,820 --> 00:02:53,480
+interactions, Pengfei, through LinkedIn?
+
+56
+00:02:54,400 --> 00:02:56,940
+Pengfei Song: Uh, mostly scientific re-, re-, uh, you know, interactions.
+
+57
+00:02:57,080 --> 00:03:01,780
+I don't do recruitment there. Um, tried, didn't really work very well.
+
+58
+00:03:02,560 --> 00:03:05,440
+Um, but I, I, I think that their feeds are pretty good.
+
+59
+00:03:05,680 --> 00:03:10,600
+Like, you know, they would actually, um, uh, push relevant scientific stuff like new
+
+60
+00:03:10,660 --> 00:03:17,040
+papers, uh, you know, new, you know, technical, like company, you know, relevant information
+
+61
+00:03:17,080 --> 00:03:19,200
+to me. So I, I found LinkedIn pretty good, actually.
+
+62
+00:03:19,940 --> 00:03:25,040
+Keith Murphy: Yeah. I recently posted our schizophrenia re- really early pilot study, small study, and
+
+63
+00:03:25,080 --> 00:03:28,740
+Michael Halassa reached out and was like, "Hey, I got another target for you."
+
+64
+00:03:28,860 --> 00:03:31,120
+And we're, we're, like, starting a small collaboration.
+
+65
+00:03:31,440 --> 00:03:34,040
+I found it pretty cool. It's, it's a good alternative.
+
+66
+00:03:34,120 --> 00:03:35,000
+I don't know. It's exciting.
+
+67
+00:03:35,400 --> 00:03:37,700
+Pengfei Song: Yeah, I found out your podcast on LinkedIn, remember?
+
+68
+00:03:37,860 --> 00:03:38,860
+Keith Murphy: There you go. Yeah, yeah. There you go.
+
+69
+00:03:39,080 --> 00:03:40,440
+Where would, where would we be without it?
+
+70
+00:03:41,000 --> 00:03:41,500
+You put me, you put me there.
+
+71
+00:03:41,000 --> 00:03:44,100
+Yeah, I saw that. Let me mention, let me, let me mention also, uh,
+
+72
+00:03:44,560 --> 00:03:46,220
+Pengfei, we only got to meet recently.
+
+73
+00:03:46,340 --> 00:03:50,220
+I've only had the pleasure and honor of meeting you recently at the- [laughs]
+
+74
+00:03:50,480 --> 00:03:52,080
+... at the Chen Institute workshop.
+
+75
+00:03:52,360 --> 00:03:55,740
+Pengfei stood up on stage. I don't remember what he said before it, but
+
+76
+00:03:55,780 --> 00:04:00,460
+he's like, "I spent a good hour in the tool section of Lowe's."
+
+77
+00:04:00,560 --> 00:04:03,240
+And then he paused. He's like, "I really enjoy the tool section of Lowe's."
+
+78
+00:04:03,260 --> 00:04:04,200
+[laughs]
+
+79
+00:04:04,280 --> 00:04:07,640
+Pengfei Song: Yeah. I mean, you, you, you were the only one in the audience who
+
+80
+00:04:07,660 --> 00:04:09,580
+was laughing. I, I thought- I was dying ...
+
+81
+00:04:09,640 --> 00:04:14,160
+that didn't go well. But then, yeah, I heard you laughing, and, uh, yeah,
+
+82
+00:04:14,320 --> 00:04:15,480
+yeah. That was, that was hard.
+
+83
+00:04:15,620 --> 00:04:16,120
+Thank you.
+
+84
+00:04:16,340 --> 00:04:17,800
+Keith Murphy: What is it about the tool section?
+
+85
+00:04:17,940 --> 00:04:22,340
+Is it because your whole life has been about better tools to build?
+
+86
+00:04:22,480 --> 00:04:24,600
+I mean, okay, so this is a great segue.
+
+87
+00:04:25,460 --> 00:04:28,340
+Pengfei builds the best of the best tools.
+
+88
+00:04:28,900 --> 00:04:32,020
+I'd love to start with functional ultrasound imaging.
+
+89
+00:04:32,060 --> 00:04:33,280
+Would that be cool to start there?
+
+90
+00:04:33,800 --> 00:04:35,440
+Pengfei Song: Yeah, sure. Yeah, back into the tool.
+
+91
+00:04:35,540 --> 00:04:38,460
+I think I was using-- Remember, I, I had, I took a picture of
+
+92
+00:04:38,540 --> 00:04:42,340
+my, like, wall of tools. I think my point was trying to say that
+
+93
+00:04:42,380 --> 00:04:45,680
+ultrasound is complementary. Like, you need different tools for different jobs.
+
+94
+00:04:45,680 --> 00:04:46,440
+For the tool section of Lowe's.
+
+95
+00:04:46,460 --> 00:04:48,900
+[laughs] But, uh, and then, and then, and then I somehow-
+
+96
+00:04:49,440 --> 00:04:53,360
+Charles Caskey: Keith's over there like, "W- wonder what he would recommend for a circular saw?"
+
+97
+00:04:53,380 --> 00:04:56,320
+[laughs]
+
+98
+00:04:56,360 --> 00:04:59,900
+Pengfei Song: Well, you know, yeah, I, I can give you some recommendations, but, you know,
+
+99
+00:05:00,100 --> 00:05:05,280
+I, I think [laughs] I think my point there was I want to say
+
+100
+00:05:05,320 --> 00:05:09,520
+that ultrasound is complementary, but, you know, uh, I think, you know, to answer
+
+101
+00:05:09,560 --> 00:05:12,220
+your question, Keith, there's several layers of meanings there.
+
+102
+00:05:12,360 --> 00:05:15,640
+I do like hanging out there sometimes to stay away from the kids, right?
+
+103
+00:05:15,700 --> 00:05:18,560
+[laughs] You, you, you, you get that layer, right?
+
+104
+00:05:18,640 --> 00:05:19,800
+You know, it's like- Yeah, yeah ...
+
+105
+00:05:19,860 --> 00:05:22,460
+I'm the, the kinda like, you know, Midwest guy, right?
+
+106
+00:05:22,560 --> 00:05:25,580
+Who would go to Lowe's and go back, forget that he left his wife
+
+107
+00:05:25,620 --> 00:05:26,440
+at Lowe's and stuff like that.
+
+108
+00:05:26,540 --> 00:05:27,680
+I do, I do that, right?
+
+109
+00:05:27,800 --> 00:05:30,820
+You know. Uh, but you sometimes just hanging out there, it's cool, right?
+
+110
+00:05:30,860 --> 00:05:33,160
+You look at, oh, people have thought about that.
+
+111
+00:05:33,260 --> 00:05:35,320
+I mean, this thing is perfect for that job, right?
+
+112
+00:05:35,420 --> 00:05:36,740
+So it's kinda like what we do, right?
+
+113
+00:05:36,820 --> 00:05:39,260
+Yeah. In our- Yeah ... in our professional life, so.
+
+114
+00:05:39,740 --> 00:05:44,420
+Keith Murphy: That's true. Y- I get really excited when people have their own favorite like,
+
+115
+00:05:44,960 --> 00:05:47,460
+"Oh, this is the type of array I, I like to use.
+
+116
+00:05:47,520 --> 00:05:49,180
+This is the frequency I'm working with.
+
+117
+00:05:49,320 --> 00:05:53,040
+This is my brain area." Everybody has their own favorite little tricks.
+
+118
+00:05:53,440 --> 00:05:55,320
+Yeah. It's a really cool, exciting way to think about it.
+
+119
+00:05:55,820 --> 00:05:59,760
+Yeah. So with, with functional ultrasound imaging, you're trailblazing.
+
+120
+00:06:00,260 --> 00:06:02,840
+Did-- At some point, were you following other people?
+
+121
+00:06:02,920 --> 00:06:05,340
+Were you building? You mentioned Elisa Konofagou a lot.
+
+122
+00:06:05,660 --> 00:06:09,350
+Charles Caskey: Oh, h- hang on, hang on Before we get into this, time out.
+
+123
+00:06:09,390 --> 00:06:09,890
+Keith Murphy: Yeah. Sure.
+
+124
+00:06:09,570 --> 00:06:12,690
+Charles Caskey: I'm gonna do like a, like a Zack Morris, uh, you know, Saved by
+
+125
+00:06:12,730 --> 00:06:13,850
+the Bell time out on this.
+
+126
+00:06:14,650 --> 00:06:17,950
+What is, what-- We were talking about functional ultrasound imaging, but nobody has, like,
+
+127
+00:06:18,050 --> 00:06:19,290
+said what it is. What's the-
+
+128
+00:06:19,430 --> 00:06:20,050
+Keith Murphy: Oh, yeah.
+
+129
+00:06:20,270 --> 00:06:22,910
+Charles Caskey: Yeah. What is, what-- Let's maybe, let's let the man himself tell us.
+
+130
+00:06:23,090 --> 00:06:24,050
+Functional ultrasound.
+
+131
+00:06:24,150 --> 00:06:24,650
+Keith Murphy: So I-
+
+132
+00:06:24,290 --> 00:06:27,770
+Pengfei Song: Before we get into-- [chuckles] Can, can I say something about functional ultrasound that's
+
+133
+00:06:27,810 --> 00:06:32,610
+funny? The word fUS with F in lowercase, that was first-
+
+134
+00:06:32,630 --> 00:06:33,130
+Keith Murphy: Lowercase
+
+135
+00:06:32,850 --> 00:06:36,030
+Pengfei Song: ... coined by Emilie Macé and Mickael Tanter.
+
+136
+00:06:36,490 --> 00:06:38,750
+I've been calling the thing fUS, small fUS..
+
+137
+00:06:38,910 --> 00:06:40,210
+Now we have to use FUSI, right?
+
+138
+00:06:40,210 --> 00:06:40,990
+[chuckles] Because-
+
+139
+00:06:41,030 --> 00:06:42,350
+Keith Murphy: Oh, FUSI I don't love
+
+140
+00:06:42,350 --> 00:06:45,290
+Pengfei Song: ... focused ultrasound has the uppercase F, right?
+
+141
+00:06:45,790 --> 00:06:46,290
+Keith Murphy: Yeah.
+
+142
+00:06:45,830 --> 00:06:50,230
+Pengfei Song: So that term has, you know, 'cause I think we are now, uh, forced
+
+143
+00:06:50,270 --> 00:06:52,510
+to, to call it something else, you know.
+
+144
+00:06:52,630 --> 00:06:55,830
+Because I think, I, I think it was-- I really like the name, you
+
+145
+00:06:55,870 --> 00:06:58,190
+know, and because I didn't even functional ultrasound.
+
+146
+00:06:58,190 --> 00:07:00,850
+It was, uh, you know, Emilie Macé and, uh, Mickael Tanter's work, right?
+
+147
+00:07:00,890 --> 00:07:04,870
+A 2010 Na- Nature Methods paper that was just like a classic-
+
+148
+00:07:04,910 --> 00:07:05,410
+Keith Murphy: Oh, wow
+
+149
+00:07:05,010 --> 00:07:05,510
+Pengfei Song: ... you know, paper.
+
+150
+00:07:05,350 --> 00:07:06,290
+Keith Murphy: It was in 2010?
+
+151
+00:07:06,790 --> 00:07:07,290
+Pengfei Song: Yeah. Yeah.
+
+152
+00:07:06,810 --> 00:07:08,170
+Keith Murphy: It was in 2010, pretty recently.
+
+153
+00:07:08,750 --> 00:07:09,990
+Pengfei Song: No, no, 2010. Yeah.
+
+154
+00:07:10,330 --> 00:07:10,830
+Keith Murphy: Oh, Jesus.
+
+155
+00:07:10,830 --> 00:07:15,170
+Pengfei Song: Uh, yeah. And, uh, they, they coined the term, uh, fUS with a lowercase
+
+156
+00:07:15,450 --> 00:07:18,910
+F, which is really cute because you think about functional MRI, it's a small
+
+157
+00:07:19,250 --> 00:07:20,750
+F MRI, uppercase.
+
+158
+00:07:20,790 --> 00:07:21,530
+Keith Murphy: Oh, yeah. That makes sense.
+
+159
+00:07:21,570 --> 00:07:23,730
+Pengfei Song: Right? So it's like functional ultrasound, right?
+
+160
+00:07:23,770 --> 00:07:25,710
+They call it small F, you know, US.
+
+161
+00:07:25,870 --> 00:07:26,590
+Keith Murphy: Yes, yes.
+
+162
+00:07:26,630 --> 00:07:28,850
+Pengfei Song: So that, that's, that's where everything, you know, came from.
+
+163
+00:07:28,890 --> 00:07:33,410
+I mean, essentially it is a, um, you know, I, I gotta be careful
+
+164
+00:07:33,470 --> 00:07:34,750
+with the Doppler police out there.
+
+165
+00:07:34,870 --> 00:07:38,290
+Oliver Kripfgans, I'm, [chuckles] you know, we, you know, we, you know-
+
+166
+00:07:38,310 --> 00:07:39,470
+Keith Murphy: He's, he's a Doppler cop.
+
+167
+00:07:39,890 --> 00:07:40,390
+Pengfei Song: He is a Doppler. I'm, I'm absolutely-
+
+168
+00:07:40,410 --> 00:07:42,330
+Charles Caskey: I, I got a whole segment on Doppler, uh-
+
+169
+00:07:42,390 --> 00:07:42,890
+Pengfei Song: Got Doppler, right
+
+170
+00:07:42,670 --> 00:07:44,030
+Charles Caskey: ... questions that, that I've... Yeah.
+
+171
+00:07:44,270 --> 00:07:44,770
+Pengfei Song: Yeah.
+
+172
+00:07:44,510 --> 00:07:45,010
+Keith Murphy: Mm-hmm.
+
+173
+00:07:44,670 --> 00:07:49,350
+Pengfei Song: So basically, uh, Mickael and his group, uh, uh, worked on something called ultrafast
+
+174
+00:07:49,410 --> 00:07:53,010
+Doppler, and basically, basically it's using ultrafast ultrasound imaging.
+
+175
+00:07:53,530 --> 00:07:55,250
+You know, it's like a night vision camera.
+
+176
+00:07:55,430 --> 00:07:59,250
+Uh, you know, in sim-sa-same amount of time, you just collect, you know, a
+
+177
+00:07:59,310 --> 00:08:01,890
+lot more data, and your SNR is much higher.
+
+178
+00:08:01,990 --> 00:08:05,530
+That allows you to see the small vessels that are otherwise, uh, you know,
+
+179
+00:08:05,650 --> 00:08:11,790
+invisible in conventional ultrasound Doppler. So he, uh, just basically, um, just, uh, leveraged
+
+180
+00:08:11,850 --> 00:08:16,510
+that and realized that, you know, you can actually get really sensitive to functional
+
+181
+00:08:16,550 --> 00:08:20,010
+hyperemia. So he did this beautiful study, 2010.
+
+182
+00:08:20,110 --> 00:08:24,430
+There's a whisker stimulation. He also injected, actually, a lot of people forgot about
+
+183
+00:08:24,490 --> 00:08:28,630
+that paper. They injected the epileptiform to in, to actually induce seizure.
+
+184
+00:08:29,150 --> 00:08:33,190
+Actually, e-even today, if I actually play that movie in their, uh, in their
+
+185
+00:08:33,330 --> 00:08:37,350
+paper, you see this propagation of this wave, you know- Yeah ...
+
+186
+00:08:37,370 --> 00:08:38,650
+like a seizure wave in the brain.
+
+187
+00:08:38,730 --> 00:08:42,290
+That, that is beautiful, right? That is perfect combination of the high frame rate
+
+188
+00:08:42,330 --> 00:08:46,050
+of ultrasound, the high sensitivity, and the strong depth of penetration.
+
+189
+00:08:46,330 --> 00:08:47,890
+So at the core, it is a power Doppler.
+
+190
+00:08:48,330 --> 00:08:52,530
+So it is basically mirroring the, you know, power Doppler is, is, you know,
+
+191
+00:08:53,090 --> 00:08:56,250
+uh, I think on the surface level, it is basically measurement of the, uh,
+
+192
+00:08:56,790 --> 00:09:01,330
+backscattering power of the red blood cells, the moving red blood cells, because there's
+
+193
+00:09:01,370 --> 00:09:04,970
+a filtering process. You have to separate the tissue from the blood.
+
+194
+00:09:05,110 --> 00:09:09,590
+So the separation process eliminated some slow flow blood, right?
+
+195
+00:09:09,770 --> 00:09:14,010
+But you're basically mirroring the blood flow, uh, the, the, the volume of the
+
+196
+00:09:14,070 --> 00:09:18,610
+blood flow. And, uh, you know, if there's, uh, uh, neuronal responses, there's a,
+
+197
+00:09:18,850 --> 00:09:23,310
+a higher demand for oxygen, for blood, then there's an increase in the, uh,
+
+198
+00:09:23,410 --> 00:09:27,450
+blood volume, then the increase in power Doppler signal, then, you know, we detect
+
+199
+00:09:27,510 --> 00:09:29,030
+that. That's the functional ultrasound.
+
+200
+00:09:29,430 --> 00:09:33,610
+Keith Murphy: So you would s- you said, um, you said single blood cells, so we
+
+201
+00:09:33,670 --> 00:09:38,730
+measure the backscatter, meaning the forward propagating wave hits this little blood cell and
+
+202
+00:09:38,790 --> 00:09:42,170
+comes back in some sort of random spherical pattern or something.
+
+203
+00:09:42,690 --> 00:09:43,190
+Pengfei Song: Yeah.
+
+204
+00:09:42,910 --> 00:09:48,230
+Keith Murphy: I've always been amazed that you can-- 'cause the wavelength of, of these imaging
+
+205
+00:09:49,170 --> 00:09:50,750
+arrays is, like, pretty long, right?
+
+206
+00:09:50,850 --> 00:09:51,350
+Pengfei Song: Yeah.
+
+207
+00:09:50,870 --> 00:09:53,530
+Keith Murphy: It may be a millimeter, half a millimeter, and a blood cell is very,
+
+208
+00:09:53,610 --> 00:09:57,790
+very tiny. Are you really [clears throat] measuring a single blood cell, or is it
+
+209
+00:09:57,830 --> 00:10:00,670
+more like you need an aggregate of blood cells moving together?
+
+210
+00:10:01,090 --> 00:10:01,590
+What do you-
+
+211
+00:10:01,450 --> 00:10:01,950
+Pengfei Song: Aggregate
+
+212
+00:10:01,770 --> 00:10:02,890
+Keith Murphy: ... like, tell, tell us about that.
+
+213
+00:10:03,150 --> 00:10:06,970
+Pengfei Song: Yeah, a-aggregate. Yeah. So, uh, you know, the size of the red blood cells,
+
+214
+00:10:07,070 --> 00:10:11,170
+what? Five, six microns, right? The size of the wave, several hundred microns, even
+
+215
+00:10:11,190 --> 00:10:15,070
+to a millimeter. So we're strictly in the Rayleigh scattering, uh, regime.
+
+216
+00:10:15,230 --> 00:10:19,230
+So the ka, the wave number times the s- the, uh, the scatter size
+
+217
+00:10:19,270 --> 00:10:23,950
+is much smaller than 0.1. Um, so the, the backscatter wave is basically like
+
+218
+00:10:23,990 --> 00:10:25,830
+a spherical wave, which is really nice.
+
+219
+00:10:26,150 --> 00:10:29,910
+It has a very good angular, uh, you know, uh, um, it has very
+
+220
+00:10:29,970 --> 00:10:32,210
+good direction. So no matter where you are, you should be able to see
+
+221
+00:10:32,270 --> 00:10:33,830
+that signal. But it's really weak, right?
+
+222
+00:10:34,310 --> 00:10:37,170
+Red blood cells- Yeah ... are terrible scatterers of ultrasound.
+
+223
+00:10:37,590 --> 00:10:42,190
+Many early studies by Kirk Shung, by, uh, you know, Richard Cobbold, um, you
+
+224
+00:10:42,210 --> 00:10:45,190
+know, studied the scattering, uh, property of red blood cells.
+
+225
+00:10:45,250 --> 00:10:47,710
+I think there's even a book about it by Kirk Shung, right, Charles?
+
+226
+00:10:47,910 --> 00:10:48,410
+Maybe wrong.
+
+227
+00:10:48,050 --> 00:10:49,070
+Charles Caskey: Yeah, yeah, that orange book?
+
+228
+00:10:49,110 --> 00:10:50,010
+Pengfei Song: Yeah. Right. Yeah.
+
+229
+00:10:50,210 --> 00:10:50,710
+Keith Murphy: You are right.
+
+230
+00:10:50,590 --> 00:10:51,330
+Charles Caskey: Is it, is it the orange book?
+
+231
+00:10:51,370 --> 00:10:51,870
+Pengfei Song: Yeah.
+
+232
+00:10:51,390 --> 00:10:52,090
+Charles Caskey: No, no, no, that's- Yeah ...
+
+233
+00:10:52,130 --> 00:10:55,370
+that's the one. Um, that's-- Oh, no, no, his is not the orange one
+
+234
+00:10:55,430 --> 00:10:55,930
+I... Or is it?
+
+235
+00:10:55,950 --> 00:10:57,190
+Pengfei Song: I think Kirk Shung wrote one.
+
+236
+00:10:57,410 --> 00:11:02,170
+Uh, you know- Yeah ... it's the, the 1970-something, you know, there was a,
+
+237
+00:11:02,310 --> 00:11:03,110
+there was a book about it.
+
+238
+00:11:03,190 --> 00:11:07,250
+It's, it's not that straightforward. It's not like a rigid sphere you scatter.
+
+239
+00:11:07,610 --> 00:11:10,030
+There's a lot, you know, physics involved, you know.
+
+240
+00:11:10,130 --> 00:11:12,910
+Charles Caskey: Yeah, yeah. I was thinking of Jørgen Jensen's book, which he wrote the one
+
+241
+00:11:12,930 --> 00:11:15,050
+that was more accessible to me as an engineer.
+
+242
+00:11:15,110 --> 00:11:17,790
+But yes, you're, you're-- I know, I know the works that you're talking about
+
+243
+00:11:17,810 --> 00:11:18,310
+and-
+
+244
+00:11:18,130 --> 00:11:18,630
+Pengfei Song: Yeah
+
+245
+00:11:18,170 --> 00:11:22,870
+Charles Caskey: ... and I love that we're already talking about si-size scales of wavelengths and
+
+246
+00:11:23,010 --> 00:11:26,310
+cells. So we've got red blood cells, 10 microns.
+
+247
+00:11:26,390 --> 00:11:30,610
+We've got the smallest imaging wavelengths that are, you know, over 100 microns.
+
+248
+00:11:31,130 --> 00:11:35,470
+And so you start to, you mentioned Rayleigh scattering, um, which, uh, I guess
+
+249
+00:11:35,510 --> 00:11:39,010
+most people, if you're familiar with Rayleigh scattering, you're probably familiar with it for
+
+250
+00:11:39,050 --> 00:11:43,530
+turning the sky blue. But, uh, it also, we have similar phenomena in ultrasound
+
+251
+00:11:43,590 --> 00:11:49,810
+imaging and, uh, that Pengfei was referring to that creates a difficult-to-image small signal,
+
+252
+00:11:49,930 --> 00:11:53,710
+but it is a very, it is very detectable with enough signal processing.
+
+253
+00:11:53,810 --> 00:11:54,310
+So-
+
+254
+00:11:53,830 --> 00:11:55,970
+Keith Murphy: What's the shape of the Rayleigh scatter, Charles?
+
+255
+00:11:56,030 --> 00:11:57,430
+Is there more you can say about it?
+
+256
+00:11:58,030 --> 00:11:58,710
+I do hear it a lot.
+
+257
+00:11:58,810 --> 00:11:59,610
+I don't know much about it.
+
+258
+00:12:00,760 --> 00:12:03,580
+Charles Caskey: It's, it's, uh, y- the main thing that falls out of it from my
+
+259
+00:12:03,660 --> 00:12:09,080
+perspective and thoughts is the, uh, you get certain statistical distributions when, with it.
+
+260
+00:12:09,280 --> 00:12:12,780
+Um, what else could we say about, uh, Rayleigh scattering, Pengfei?
+
+261
+00:12:12,820 --> 00:12:13,320
+[laughs]
+
+262
+00:12:12,860 --> 00:12:13,640
+Keith Murphy: Yeah. Say more.
+
+263
+00:12:13,980 --> 00:12:18,400
+Pengfei Song: I, I, I don't know. It's, to me, it's basically each scatterer gives you
+
+264
+00:12:18,420 --> 00:12:21,080
+a spherical wave, right, that is well-behaved.
+
+265
+00:12:21,160 --> 00:12:25,200
+If you add up a bunch of them, you have this constructive, destructive interference.
+
+266
+00:12:25,280 --> 00:12:27,000
+That's the origin of ultrasound speckles.
+
+267
+00:12:27,660 --> 00:12:30,040
+You, you can model scatterer spherical waves, right?
+
+268
+00:12:30,120 --> 00:12:34,120
+So you can do, you know, beam forming or image reconstruction, leveraging those kind
+
+269
+00:12:34,160 --> 00:12:35,280
+of properties. Again-
+
+270
+00:12:35,320 --> 00:12:35,820
+Charles Caskey: Yeah
+
+271
+00:12:35,340 --> 00:12:37,480
+Pengfei Song: ... I think the angular behavior is really nice, right?
+
+272
+00:12:37,540 --> 00:12:42,360
+Because in imaging, we're always using the back scatter signal, 'cause our transmitter/receiver are
+
+273
+00:12:42,400 --> 00:12:43,900
+on the same side, right?
+
+274
+00:12:43,980 --> 00:12:44,480
+Charles Caskey: Mm-hmm.
+
+275
+00:12:44,020 --> 00:12:47,380
+Pengfei Song: So if the scatterers are getting very big, a lot of scattering becomes forward
+
+276
+00:12:47,480 --> 00:12:50,220
+scattering, then- Oh ... you know, you have to have a transducer on the
+
+277
+00:12:50,280 --> 00:12:54,860
+opposite side to receive, right? So, uh, physics will work to our favor for
+
+278
+00:12:54,920 --> 00:12:57,220
+imaging, you know, the handheld probe, you know.
+
+279
+00:12:57,860 --> 00:13:01,180
+Um, yeah, that's, that's the w- i, i, that's as, as, as much as
+
+280
+00:13:01,300 --> 00:13:04,320
+I know. But I think, Keith, to your point, single red blood cells is
+
+281
+00:13:04,360 --> 00:13:06,480
+very weak. I think Charles was also talking about it.
+
+282
+00:13:06,520 --> 00:13:07,860
+So we need an aggregate of them.
+
+283
+00:13:08,520 --> 00:13:09,020
+Keith Murphy: Okay.
+
+284
+00:13:08,880 --> 00:13:09,380
+Pengfei Song: You know? Yeah.
+
+285
+00:13:08,900 --> 00:13:12,800
+Keith Murphy: That m- that clears up my misunderstanding, 'cause people always are like, "Yeah, the
+
+286
+00:13:12,860 --> 00:13:15,260
+single blood cell scatters." I'm like, "Damn, you can see that?"
+
+287
+00:13:15,860 --> 00:13:16,360
+So I was like, "No."
+
+288
+00:13:17,620 --> 00:13:18,360
+Charles Caskey: No. A single bubble-
+
+289
+00:13:18,460 --> 00:13:18,960
+Pengfei Song: I like this-
+
+290
+00:13:18,480 --> 00:13:19,440
+Charles Caskey: You can see in a single bubble-
+
+291
+00:13:19,440 --> 00:13:19,940
+Pengfei Song: Single bubble, yeah
+
+292
+00:13:19,720 --> 00:13:21,360
+Charles Caskey: ... because it's a fantastic scatterer.
+
+293
+00:13:21,400 --> 00:13:21,900
+Pengfei Song: Yeah, yeah.
+
+294
+00:13:21,580 --> 00:13:23,980
+Charles Caskey: But, uh, it, it has other nonlinear things.
+
+295
+00:13:24,060 --> 00:13:25,740
+But not a single-- Yeah. But yeah,
+
+296
+00:13:25,800 --> 00:13:26,640
+Keith Murphy: I guess- Well, a teaching moment.
+
+297
+00:13:26,800 --> 00:13:29,820
+We're getting a lot of, uh, we're getting a lot of good interest from
+
+298
+00:13:30,060 --> 00:13:35,640
+non-ultrasound people, so a good teaching moment is if you inject microbubbles into the
+
+299
+00:13:35,680 --> 00:13:38,960
+blood, you, you guys should tell me, it becomes very easy to see blood
+
+300
+00:13:39,060 --> 00:13:41,260
+flow, even through the skull. Is that correct?
+
+301
+00:13:42,120 --> 00:13:42,620
+Charles Caskey: Yeah.
+
+302
+00:13:42,820 --> 00:13:43,320
+Pengfei Song: Yeah.
+
+303
+00:13:42,960 --> 00:13:44,480
+Charles Caskey: Yeah. It, it's a, that's a-
+
+304
+00:13:44,540 --> 00:13:48,480
+Keith Murphy: Wow. Through the skull. So we can literally image blood flow below bone if
+
+305
+00:13:48,500 --> 00:13:51,340
+we go through thinner parts, or can we do it anywhere over the skull?
+
+306
+00:13:52,640 --> 00:13:56,800
+Charles Caskey: Ooh, good question. We, we all like the thinner parts [laughs] we're trying to
+
+307
+00:13:56,960 --> 00:13:57,460
+image.
+
+308
+00:13:58,760 --> 00:14:02,320
+Keith Murphy: Well, well- Um ... okay, so in kids, they image through the fontanel, the
+
+309
+00:14:02,360 --> 00:14:03,560
+window where there's a little gap.
+
+310
+00:14:03,720 --> 00:14:04,220
+Charles Caskey: Yeah.
+
+311
+00:14:03,740 --> 00:14:04,440
+Keith Murphy: But in adults-
+
+312
+00:14:04,480 --> 00:14:04,980
+Pengfei Song: Oh, yeah
+
+313
+00:14:04,500 --> 00:14:06,160
+Keith Murphy: ... they can do it through the temporal window, right?
+
+314
+00:14:06,260 --> 00:14:06,760
+They still do it-
+
+315
+00:14:06,740 --> 00:14:07,240
+Charles Caskey: Yeah
+
+316
+00:14:07,040 --> 00:14:07,540
+Keith Murphy: ... to this day.
+
+317
+00:14:07,560 --> 00:14:08,060
+Charles Caskey: Yeah.
+
+318
+00:14:08,160 --> 00:14:10,760
+Pengfei Song: There's a paper, yeah. Mickael Tanter published a paper on that.
+
+319
+00:14:10,800 --> 00:14:12,260
+Keith Murphy: Mickael Tanter's crushing it, by the way.
+
+320
+00:14:12,360 --> 00:14:12,860
+Pengfei Song: Oh, he's-
+
+321
+00:14:12,820 --> 00:14:13,320
+Keith Murphy: He's gonna be on-
+
+322
+00:14:13,320 --> 00:14:14,320
+Charles Caskey: He's, yeah, yeah. He's been-
+
+323
+00:14:14,360 --> 00:14:14,860
+Keith Murphy: He's gonna go on after us.
+
+324
+00:14:14,860 --> 00:14:18,140
+Pengfei Song: Oh, you mean like him? Yeah, no, that- [laughs] You know, Charles, we need
+
+325
+00:14:18,180 --> 00:14:20,080
+to write 10 songs to welcome him, you know.
+
+326
+00:14:20,120 --> 00:14:21,600
+[laughs]
+
+327
+00:14:21,680 --> 00:14:22,600
+Charles Caskey: Had to write a whole album.
+
+328
+00:14:22,620 --> 00:14:24,520
+Keith Murphy: Mickael Tanter on the town horse.
+
+329
+00:14:24,540 --> 00:14:25,720
+[laughs]
+
+330
+00:14:25,760 --> 00:14:29,720
+Pengfei Song: Yeah. He, he literally, he did everything, shear wave, you know, functional ultrasound, super
+
+331
+00:14:29,760 --> 00:14:32,420
+resolution, functional ULM. You know, he's the man.
+
+332
+00:14:32,780 --> 00:14:33,280
+Charles Caskey: Yeah.
+
+333
+00:14:33,040 --> 00:14:33,540
+Keith Murphy: Yeah.
+
+334
+00:14:33,080 --> 00:14:33,580
+Charles Caskey: Yeah, yeah.
+
+335
+00:14:33,480 --> 00:14:33,980
+Keith Murphy: Love that guy.
+
+336
+00:14:33,500 --> 00:14:35,160
+Charles Caskey: He's, he's paved the way for a lot of us.
+
+337
+00:14:35,360 --> 00:14:35,860
+Um-
+
+338
+00:14:35,860 --> 00:14:36,360
+Keith Murphy: Yeah
+
+339
+00:14:35,940 --> 00:14:38,700
+Charles Caskey: ... and so, you know, just Pengfei summed it up, but just in, in,
+
+340
+00:14:38,780 --> 00:14:42,800
+like, one, uh, all the different topics about the physics, the signal processing, and
+
+341
+00:14:42,840 --> 00:14:47,120
+the biology. But basically what we're doing here is something, and we've ta- similar
+
+342
+00:14:47,200 --> 00:14:52,960
+to functional MRI. So we're able to visualize a surrogate for brain activity with
+
+343
+00:14:53,020 --> 00:14:58,720
+ultrasound, and that, I think, dovetails so well with, uh, focused ultrasound neuromodulation, where
+
+344
+00:14:58,760 --> 00:15:04,240
+you're modulating activity. Um, so the, it, it kinda closes the loop a little
+
+345
+00:15:04,260 --> 00:15:07,160
+bit. Closing the loop's something we talk about a lot on FUS Forward.
+
+346
+00:15:07,380 --> 00:15:10,900
+And so, you know, having one modality that can kinda do both things is,
+
+347
+00:15:11,500 --> 00:15:14,260
+uh, it really puts us at a, a place where ultrasound is like a
+
+348
+00:15:14,320 --> 00:15:16,200
+measurement and perturbation framework.
+
+349
+00:15:16,940 --> 00:15:19,840
+Pengfei Song: Yeah. But, but, you know, that actually is a nice segue for me to
+
+350
+00:15:19,900 --> 00:15:23,360
+ask you guys a question. We understand how the ultrasound interacts with the red
+
+351
+00:15:23,420 --> 00:15:25,440
+blood cells and the tissue scatterers, right?
+
+352
+00:15:25,920 --> 00:15:30,220
+I'm just so fascinated by how the hell does ultrasound modulate neurons, you know?
+
+353
+00:15:30,240 --> 00:15:31,900
+[laughs] So I, I email you guys.
+
+354
+00:15:31,980 --> 00:15:33,640
+I, I give you some ideas.
+
+355
+00:15:33,780 --> 00:15:36,180
+You know, that's, that's what's really fascinating to me.
+
+356
+00:15:36,840 --> 00:15:40,460
+A- apparently it does, right? But I asked 10 people, I got 10 different-
+
+357
+00:15:41,220 --> 00:15:45,060
+Charles Caskey: Yeah. I, I loved-- You asked a question, we were at a conference once,
+
+358
+00:15:45,100 --> 00:15:46,540
+and I just loved the way you stated it.
+
+359
+00:15:46,580 --> 00:15:49,360
+You were like, "The ultrasound..." And it gets back to this wavelength question.
+
+360
+00:15:49,420 --> 00:15:53,700
+Like, if our wavelength's on the order of, you know, 1,500 microns, and our
+
+361
+00:15:53,760 --> 00:15:58,500
+cell's on the order of 10 or less, it's almost like the cell doesn't,
+
+362
+00:15:58,620 --> 00:16:02,280
+it, it doesn't experience the same thing that, like, you would think the bulk
+
+363
+00:16:02,380 --> 00:16:08,260
+tissue experiences. The cell itself gets positive and negative pressure, but it's not, um,
+
+364
+00:16:08,540 --> 00:16:13,540
+it's not experiencing the, the aggregate force that pushes the tissue is much, is
+
+365
+00:16:13,580 --> 00:16:17,500
+a much bigger force and larger in area than a single cell.
+
+366
+00:16:17,560 --> 00:16:21,180
+So it starts to beg the question of, like, what is, uh, gonna be
+
+367
+00:16:21,220 --> 00:16:25,880
+causing that? Uh, the neuromodulation. Yeah, and there, there are-- I think the theories
+
+368
+00:16:26,040 --> 00:16:30,800
+try to encapsulate, you either have the propagating wave itself or the, the subsequent
+
+369
+00:16:30,900 --> 00:16:33,480
+forces. Um, it's, there's a lot.
+
+370
+00:16:34,520 --> 00:16:37,080
+Keith Murphy: Pengfei, you're getting into neuromodulation now, right?
+
+371
+00:16:37,240 --> 00:16:39,140
+Have you started already? You didn't talk about it at the conference though.
+
+372
+00:16:39,140 --> 00:16:41,080
+Pengfei Song: No, I, I'm just reading the paper, you know, from-
+
+373
+00:16:41,240 --> 00:16:41,740
+Keith Murphy: Okay.
+
+374
+00:16:41,280 --> 00:16:43,340
+Pengfei Song: I, I, I'm j- I'm still like observer.
+
+375
+00:16:43,500 --> 00:16:44,000
+I, you know-
+
+376
+00:16:44,060 --> 00:16:45,800
+Keith Murphy: I'll, I'll tell you why you're gonna get into it.
+
+377
+00:16:46,060 --> 00:16:49,820
+You're saying people have 10 different answers, and that's probably because there's 100 different
+
+378
+00:16:49,860 --> 00:16:52,180
+mechanisms, and you're trying to sum them all up.
+
+379
+00:16:52,500 --> 00:16:53,000
+Pengfei Song: Mm.
+
+380
+00:16:52,540 --> 00:16:56,380
+Keith Murphy: There's blood flow, there's astrocytes, there's neurons, and each one of those has all
+
+381
+00:16:56,420 --> 00:17:00,040
+these different channels that all react to ultrasound at different levels.
+
+382
+00:17:00,100 --> 00:17:05,340
+So if the brain areas all express different levels of channels or manifest different
+
+383
+00:17:05,380 --> 00:17:06,640
+amounts of each mechanism-
+
+384
+00:17:06,780 --> 00:17:07,360
+Pengfei Song: I see
+
+385
+00:17:07,360 --> 00:17:11,900
+Keith Murphy: ... [clears throat] we need a really good set of tools to start to put
+
+386
+00:17:11,980 --> 00:17:15,760
+focused ultrasound in different brain areas and then measure their response.
+
+387
+00:17:16,240 --> 00:17:20,840
+And I feel strongly that you will be an important part of that future.
+
+388
+00:17:21,620 --> 00:17:23,120
+Are you headed in that direction?
+
+389
+00:17:23,520 --> 00:17:24,700
+Have you started thinking about it?
+
+390
+00:17:25,300 --> 00:17:28,600
+Pengfei Song: I have the tools, right? You know, I, I, I, you know, for me,
+
+391
+00:17:29,040 --> 00:17:35,060
+setting up a, um, neuromodulation, you know, jig is,
+
+392
+00:17:35,180 --> 00:17:37,520
+is not that difficult, right? [laughs] You know, so-
+
+393
+00:17:37,560 --> 00:17:38,620
+Keith Murphy: No, you could do it in a heartbeat.
+
+394
+00:17:39,060 --> 00:17:42,020
+Pengfei Song: Yeah. Not, yeah, may- maybe, you know, I, I, I think I can do
+
+395
+00:17:42,080 --> 00:17:46,440
+it, you know. I have abundant, you know, function generators in the lab.
+
+396
+00:17:46,600 --> 00:17:47,580
+Although I have to ask you-
+
+397
+00:17:47,640 --> 00:17:48,140
+Keith Murphy: It does
+
+398
+00:17:47,860 --> 00:17:50,360
+Pengfei Song: ... where to get those blue ones you guys are talking about on eBay.
+
+399
+00:17:50,440 --> 00:17:51,620
+I, I gotta ask you offline.
+
+400
+00:17:51,620 --> 00:17:52,120
+Keith Murphy: Oh, yeah. [laughs]
+
+401
+00:17:52,180 --> 00:17:55,620
+Pengfei Song: No. Uh, you know, I think the point is I can do that fairly
+
+402
+00:17:55,680 --> 00:18:00,420
+easily, but I am, I am indeed humbled by, I, I, I- I always
+
+403
+00:18:00,440 --> 00:18:03,460
+think it's a different line of research if you get into neuromodulation.
+
+404
+00:18:03,500 --> 00:18:05,280
+It's like you're running a wet lab.
+
+405
+00:18:05,320 --> 00:18:07,380
+You have to do a lot of, uh, like calcium imaging-
+
+406
+00:18:07,420 --> 00:18:07,920
+Charles Caskey: Yeah
+
+407
+00:18:07,580 --> 00:18:10,800
+Pengfei Song: ... lot of, uh, tissue culture, histology stuff.
+
+408
+00:18:11,240 --> 00:18:13,080
+I don't have those tool sets yet, right?
+
+409
+00:18:13,200 --> 00:18:16,860
+I can easily put a ultrasound equipment together, but like, you know, I, I
+
+410
+00:18:16,900 --> 00:18:20,200
+need to learn. Like, you know, I was even trying, I was even trying
+
+411
+00:18:20,220 --> 00:18:22,260
+to understand what is the c-Fos everyone is talking about.
+
+412
+00:18:22,340 --> 00:18:24,700
+Why, why is everyone wearing a c-Fos, right?
+
+413
+00:18:25,180 --> 00:18:30,040
+You know. But again, what is really fascinating to me, I can easily put
+
+414
+00:18:30,100 --> 00:18:32,640
+a ultrasound-- I think Elisa Konofagou has been doing that.
+
+415
+00:18:32,680 --> 00:18:33,660
+I think it's great, right?
+
+416
+00:18:34,440 --> 00:18:34,940
+Charles Caskey: Mm-hmm.
+
+417
+00:18:34,560 --> 00:18:38,900
+Pengfei Song: You know, you can just, uh, uh, stimulate while using, using ultrasound to, to,
+
+418
+00:18:38,980 --> 00:18:42,520
+uh, to listen. Although we are seeing blood flow is not the same as
+
+419
+00:18:42,640 --> 00:18:48,740
+calcium imaging or, you know, electrical recording, uh, we can see, you know, uh,
+
+420
+00:18:49,080 --> 00:18:53,660
+uh, you know, a brain-wide response, you know, with pretty high, uh, temporal resolution.
+
+421
+00:18:54,120 --> 00:18:56,780
+You know, uh, you know, Keith, one thing, you know, a BBB person might
+
+422
+00:18:56,800 --> 00:18:59,580
+be thinking about it, if you actually have bubbles there, you don't wanna do
+
+423
+00:18:59,640 --> 00:19:02,680
+neuromodulation, right? [chuckles] 'Cause you'll be opening, right?
+
+424
+00:19:02,740 --> 00:19:03,560
+Charles Caskey: Oh, yeah. Oh, wow. You're right.
+
+425
+00:19:04,280 --> 00:19:04,780
+Pengfei Song: Right.
+
+426
+00:19:04,640 --> 00:19:06,240
+Charles Caskey: So hang on. There's, there is a couple-
+
+427
+00:19:06,300 --> 00:19:06,800
+Pengfei Song: Yeah
+
+428
+00:19:06,440 --> 00:19:07,140
+Charles Caskey: ... of papers on this-
+
+429
+00:19:07,180 --> 00:19:07,680
+Pengfei Song: That's
+
+430
+00:19:07,220 --> 00:19:09,280
+Charles Caskey: a good point ... and I think there's one or, there are one or
+
+431
+00:19:09,320 --> 00:19:11,640
+two studies out there that show the addition of bubbles.
+
+432
+00:19:12,040 --> 00:19:15,400
+Uh, so bubbles, for those who don't know, when you sonicate them, they, they
+
+433
+00:19:15,480 --> 00:19:20,040
+oscillate. They create a lot more mechanical perturbation, and I think the threshold is
+
+434
+00:19:20,180 --> 00:19:25,320
+lower when you add bubbles. Even, um, Sreekanth Chalasani's early papers, he ha- he--
+
+435
+00:19:25,400 --> 00:19:31,220
+where he isolated, um, these mechanosensitive channels for sonogenetics, he would add bubbles into
+
+436
+00:19:31,260 --> 00:19:34,340
+the mixture and the, and show that the threshold went down a whole lot,
+
+437
+00:19:34,520 --> 00:19:39,080
+and really kinda, yeah, kinda homing in on that, that idea that m- it's
+
+438
+00:19:39,100 --> 00:19:42,520
+mechanical energy that underlies the, the, uh, modulation.
+
+439
+00:19:42,580 --> 00:19:44,560
+And so it does lower the threshold.
+
+440
+00:19:44,600 --> 00:19:49,520
+But yeah, you're totally right. If you used a normal neuromodulation pulse with funct-
+
+441
+00:19:49,740 --> 00:19:52,600
+with, uh, bubbles, uh, that's blood-brain barrier opening.
+
+442
+00:19:52,640 --> 00:19:53,140
+[chuckles]
+
+443
+00:19:53,100 --> 00:19:55,260
+Pengfei Song: Right. Right. [chuckles] Yeah. Right. Yeah.
+
+444
+00:19:55,620 --> 00:19:57,540
+So you gotta be care... But, but that's fascinating, isn't it?
+
+445
+00:19:57,660 --> 00:20:00,260
+'Cause the bubbles are strictly in the blood vessels.
+
+446
+00:20:00,360 --> 00:20:03,240
+They're not in the brain tissue, in the parenchyma, in the, in brain tissue.
+
+447
+00:20:03,280 --> 00:20:04,180
+Charles Caskey: Oh, yeah. Good point.
+
+448
+00:20:04,260 --> 00:20:08,900
+Pengfei Song: And, yeah. Right? And they are somehow sending these pressure waves to the neurons.
+
+449
+00:20:09,500 --> 00:20:10,700
+Yeah. And somehow the neurons are sensing.
+
+450
+00:20:11,040 --> 00:20:14,880
+So I mean, I don't know, can, can microbubbles generate radiation force?
+
+451
+00:20:14,920 --> 00:20:17,720
+I mean, they, they can cause acoustic streaming, I guess, right?
+
+452
+00:20:17,920 --> 00:20:18,420
+You know.
+
+453
+00:20:19,000 --> 00:20:23,040
+Charles Caskey: Yeah. I, I think, I think you, they almost certainly...
+
+454
+00:20:23,400 --> 00:20:28,520
+Actually, no, definitely. The Rayleigh, uh, Rayleigh-Plesset equations, uh, derive this, like, in the
+
+455
+00:20:28,620 --> 00:20:31,020
+turn of the century, the, the turn of the 1900s-
+
+456
+00:20:31,380 --> 00:20:31,880
+Pengfei Song: Mm-hmm
+
+457
+00:20:31,740 --> 00:20:36,520
+Charles Caskey: ... um, to, to show that it generates s- a sound that goes out-outward.
+
+458
+00:20:36,680 --> 00:20:40,260
+But, um, it, it-- I think also, I think there's an aggregate effect that,
+
+459
+00:20:40,300 --> 00:20:43,420
+like, if that whole area is sonicated and the bubbles aren't popping, I think
+
+460
+00:20:43,440 --> 00:20:47,140
+you get a stronger radiation force in the direction of propagation than you would
+
+461
+00:20:47,180 --> 00:20:48,220
+get if it was tissue alone.
+
+462
+00:20:48,340 --> 00:20:51,760
+Actually, substantially, in my experience. And that, and this falls out of a lot
+
+463
+00:20:51,800 --> 00:20:55,920
+of the cross-scattering literature too, where if you just have a cross-scatter and you
+
+464
+00:20:55,940 --> 00:20:58,960
+think of the absorption, if you make that absorption really high, which it would
+
+465
+00:20:59,000 --> 00:21:02,340
+be with a bubble, and don't think so much about the oscillation.
+
+466
+00:21:02,400 --> 00:21:06,120
+Yeah, I think there's a lot of extra, uh, forces that, that occur and,
+
+467
+00:21:06,260 --> 00:21:07,560
+and sounds when you have bubbles.
+
+468
+00:21:07,600 --> 00:21:10,080
+Pengfei Song: That's, that's interesting. So does that mean that if you had to put ultra-fast
+
+469
+00:21:10,160 --> 00:21:14,140
+imaging there, I can see this group of bubbles being moved by the radiation
+
+470
+00:21:14,240 --> 00:21:15,280
+force together-
+
+471
+00:21:15,320 --> 00:21:15,820
+Charles Caskey: Mm-hmm
+
+472
+00:21:15,340 --> 00:21:19,180
+Pengfei Song: ... with the tissue, while they're also emitting, you know, nonlinear waves, right?
+
+473
+00:21:19,280 --> 00:21:19,780
+So you can-
+
+474
+00:21:19,660 --> 00:21:20,160
+Charles Caskey: Yeah
+
+475
+00:21:19,700 --> 00:21:21,980
+Pengfei Song: ... potentially also collect that at the same time.
+
+476
+00:21:22,020 --> 00:21:22,520
+Charles Caskey: Yep.
+
+477
+00:21:22,940 --> 00:21:23,440
+Pengfei Song: Yep. Yeah.
+
+478
+00:21:22,980 --> 00:21:25,940
+Keith Murphy: Is that a good way to measure your, your pressure in the brain?
+
+479
+00:21:26,020 --> 00:21:30,380
+People have been looking for a way to actually relate to actual pressure without
+
+480
+00:21:30,500 --> 00:21:32,220
+MRI, without MR-ARFI.
+
+481
+00:21:32,740 --> 00:21:33,500
+Charles Caskey: You think you could do that?
+
+482
+00:21:36,060 --> 00:21:38,940
+Pengfei Song: Pressure. W-w-which pressure? What pressure are we talking about?
+
+483
+00:21:38,940 --> 00:21:40,260
+Charles Caskey: Like intra-intracra... So I-
+
+484
+00:21:40,360 --> 00:21:40,860
+Pengfei Song: Oh, intracranial. Okay
+
+485
+00:21:40,560 --> 00:21:42,260
+Charles Caskey: ... this just comes up every few years.
+
+486
+00:21:42,340 --> 00:21:43,600
+Like, so intracranial pressure-
+
+487
+00:21:43,640 --> 00:21:44,140
+Pengfei Song: Yeah
+
+488
+00:21:43,660 --> 00:21:46,680
+Charles Caskey: ... I think is, uh, modified in a lot of disease states.
+
+489
+00:21:46,840 --> 00:21:47,340
+Pengfei Song: Uh-huh.
+
+490
+00:21:47,320 --> 00:21:49,780
+Charles Caskey: And so there's clinical value to measuring it.
+
+491
+00:21:50,460 --> 00:21:53,220
+And so a lot of times I think people will, will...
+
+492
+00:21:53,500 --> 00:21:57,420
+And so if you have a bubble, when the ambient pressure changes, the, if
+
+493
+00:21:57,460 --> 00:22:01,020
+it goes up, the bubble gets smaller, and the bubble gets, uh, bigger if
+
+494
+00:22:01,060 --> 00:22:05,040
+the ambient pressure goes negative. And so can you, could you get a quantitative
+
+495
+00:22:05,120 --> 00:22:08,600
+measurement, uh, that was clinically meaningful from the bubbles, I think is maybe what
+
+496
+00:22:08,640 --> 00:22:09,460
+Keith is asking about.
+
+497
+00:22:09,500 --> 00:22:11,880
+Keith Murphy: Is that the- That's cool, for one.
+
+498
+00:22:11,920 --> 00:22:12,420
+Let me say that's cool.
+
+499
+00:22:12,440 --> 00:22:12,940
+Pengfei Song: It doesn't-
+
+500
+00:22:12,840 --> 00:22:14,780
+Charles Caskey: But I was actually saying- I haven't seen it work convincingly.
+
+501
+00:22:14,820 --> 00:22:16,880
+It's, it is super cool. [chuckles]
+
+502
+00:22:17,060 --> 00:22:20,020
+Keith Murphy: It's cool, though. My, my question was, when we were working in mice, the
+
+503
+00:22:20,060 --> 00:22:24,400
+question was always, do we have a way to validate through the skull how
+
+504
+00:22:24,420 --> 00:22:26,080
+much pressure is at the focus?
+
+505
+00:22:26,140 --> 00:22:27,680
+And if your bubbles had- Oh ...
+
+506
+00:22:27,720 --> 00:22:31,280
+a reliable size and created their own echo, you could try to back out
+
+507
+00:22:31,320 --> 00:22:34,580
+what you did, and then, and then let the bubbles flush out to do
+
+508
+00:22:34,640 --> 00:22:36,440
+true neuromodulation experiments. Because-
+
+509
+00:22:36,460 --> 00:22:36,960
+Pengfei Song: Hmm.
+
+510
+00:22:36,620 --> 00:22:37,700
+Charles Caskey: Pengfei- That's a super cool idea
+
+511
+00:22:37,720 --> 00:22:40,340
+Keith Murphy: ... dude, I'm-- Pengfei, I knew you were gonna be a great guest because
+
+512
+00:22:40,960 --> 00:22:43,640
+you're making us think about all these crazy situations.
+
+513
+00:22:43,660 --> 00:22:46,920
+[chuckles] And it gets more complicated when you talk about it, but-
+
+514
+00:22:47,060 --> 00:22:48,320
+Pengfei Song: I, yeah, I like rabbit holes.
+
+515
+00:22:48,420 --> 00:22:50,160
+That's what I do in meetings, you know.
+
+516
+00:22:50,280 --> 00:22:53,680
+I, I keep bringing rabbit holes for my, for my lab.
+
+517
+00:22:53,780 --> 00:22:55,220
+You know, we, we love rabbit holes.
+
+518
+00:22:55,320 --> 00:22:59,040
+Yeah. But, you know, I, I, I think that's why I think e-exactly when
+
+519
+00:22:59,120 --> 00:23:05,060
+I saw Elisa's paper on using, uh, displacement, right, to measure the, the force,
+
+520
+00:23:05,480 --> 00:23:06,620
+I, I thought that was right on.
+
+521
+00:23:06,760 --> 00:23:10,120
+That's, that's brilliant. To me, that makes perfect sense because that is directly related
+
+522
+00:23:10,300 --> 00:23:14,620
+to, you know, the, the radiation force, and the radiation force is actually a
+
+523
+00:23:14,660 --> 00:23:18,260
+function of how long you pr- apply the pulse, and also the pressure of
+
+524
+00:23:18,300 --> 00:23:21,300
+the pulse, right? So it's ba-basically the intensity of the pulse.
+
+525
+00:23:21,780 --> 00:23:25,080
+Uh, and also, but, but, you know, the confounding factor is you have to
+
+526
+00:23:25,120 --> 00:23:27,780
+think about, you know, how much attenuation you have, right?
+
+527
+00:23:28,320 --> 00:23:31,760
+Thick skull, small skull, same amount of acoustic pressure, you're gonna have very different
+
+528
+00:23:31,800 --> 00:23:36,100
+displacement, right? I mean, but, you know, I don't know how to, how, how
+
+529
+00:23:36,180 --> 00:23:39,760
+you can, uh, y-you can certainly compare the same subject.
+
+530
+00:23:40,180 --> 00:23:43,840
+I don't know how you can compare different subjects if you use a displacement
+
+531
+00:23:44,240 --> 00:23:48,220
+like the, uh, we call it ARFI displacement, acoustic radiation force imaging, that displacement,
+
+532
+00:23:48,420 --> 00:23:51,820
+right? Um, isn't Kim Butts Pauly doing that?
+
+533
+00:23:51,960 --> 00:23:55,300
+I thought she was using MRI to measure that ARFI displacement.
+
+534
+00:23:56,100 --> 00:23:58,940
+Charles Caskey: Yeah. I mean, certainly ARFI displacement magnitude.
+
+535
+00:23:59,060 --> 00:24:03,440
+And then I think the, the, the crux that comes up is this idea
+
+536
+00:24:03,520 --> 00:24:07,400
+of, uh, tissue... One thing we're leaving out of this conversation is tissue stiffness,
+
+537
+00:24:07,480 --> 00:24:09,940
+'cause if tissue has a different s- it's the basis of-
+
+538
+00:24:10,060 --> 00:24:10,560
+Pengfei Song: Yeah. Yeah
+
+539
+00:24:10,220 --> 00:24:11,360
+Charles Caskey: ... shear wave elastography-
+
+540
+00:24:11,440 --> 00:24:11,940
+Pengfei Song: Yeah. Yeah. Yeah
+
+541
+00:24:11,920 --> 00:24:14,600
+Charles Caskey: ... is that you get different speed shear waves, you get different amounts of
+
+542
+00:24:14,640 --> 00:24:19,230
+displacement. And I think that becomes quite challenging 'cause we know that, uh Gray
+
+543
+00:24:19,310 --> 00:24:23,590
+matter is different than white matter in stiffness, and it may vary with, who
+
+544
+00:24:23,650 --> 00:24:27,430
+knows, hydration and, uh, uh, individuals.
+
+545
+00:24:27,570 --> 00:24:32,790
+So it, it can be difficult to track-- to go from displacement to pressure.
+
+546
+00:24:32,870 --> 00:24:34,450
+But I do-- I mean, the math is out there.
+
+547
+00:24:34,490 --> 00:24:38,630
+It's not... I think it's a worthwhile problem, and Kim is definitely looking at
+
+548
+00:24:38,690 --> 00:24:39,190
+that.
+
+549
+00:24:39,310 --> 00:24:42,190
+Pengfei Song: I think o- at one point, I, I, I, I forgot where that went,
+
+550
+00:24:42,290 --> 00:24:46,030
+but me and Matt Urban, Shigao Chen, you know, the, the Mayo folks where
+
+551
+00:24:46,110 --> 00:24:47,910
+I was trained, were thinking about this idea.
+
+552
+00:24:47,950 --> 00:24:50,670
+'Cause we can, if you do shear wave elastography, you can measure the Young's
+
+553
+00:24:50,750 --> 00:24:51,250
+modulus.
+
+554
+00:24:51,550 --> 00:24:52,050
+Charles Caskey: Mm-hmm.
+
+555
+00:24:51,570 --> 00:24:53,530
+Pengfei Song: Young's modulus equals stress over strain.
+
+556
+00:24:54,050 --> 00:24:57,230
+And you can also use ultrasound to measure strain, that is the displacement.
+
+557
+00:24:57,350 --> 00:24:59,010
+Can you get the stress, right?
+
+558
+00:24:59,250 --> 00:25:02,030
+You know, uh, so, you know, that can potentially...
+
+559
+00:25:02,170 --> 00:25:05,030
+But I don't-- There's something I, I think I'm, I'm missing here.
+
+560
+00:25:05,050 --> 00:25:07,830
+It, it didn't work out. But I think, uh, Charles, for your question, like
+
+561
+00:25:07,890 --> 00:25:11,150
+a stiff brain, same amount of radiation force is gonna have a l- lower
+
+562
+00:25:11,190 --> 00:25:15,110
+displacement. But we can measure the stiffness of the brain using shear wave elastography,
+
+563
+00:25:15,650 --> 00:25:16,150
+right?
+
+564
+00:25:15,870 --> 00:25:16,370
+Charles Caskey: Mm-hmm. Yep.
+
+565
+00:25:16,310 --> 00:25:19,330
+Pengfei Song: So that can be used as a, um, like a reference point.
+
+566
+00:25:19,370 --> 00:25:19,870
+Charles Caskey: Yeah.
+
+567
+00:25:19,690 --> 00:25:23,330
+Pengfei Song: Uh, Ingolf Sack published a paper in Scientific Reports several years ago.
+
+568
+00:25:23,390 --> 00:25:24,610
+[chuckles] He basically put-
+
+569
+00:25:24,790 --> 00:25:25,290
+Charles Caskey: Mm-hmm
+
+570
+00:25:24,930 --> 00:25:27,730
+Pengfei Song: ... people on this shaking bed, you know, to generate- Oh, yeah ...
+
+571
+00:25:27,750 --> 00:25:30,090
+shear waves, right? I don't know, Charles, if you saw the paper and they
+
+572
+00:25:30,110 --> 00:25:31,290
+put a- No ... a ultrasound.
+
+573
+00:25:31,650 --> 00:25:33,870
+It's a vibrate. It's like subwoofer, you know?
+
+574
+00:25:34,010 --> 00:25:34,550
+And then they put a-
+
+575
+00:25:34,550 --> 00:25:36,230
+Keith Murphy: Oh, like a fa- not like a whole body-
+
+576
+00:25:36,350 --> 00:25:36,850
+Pengfei Song: No, no, no, no, no, no, no
+
+577
+00:25:36,850 --> 00:25:37,430
+Keith Murphy: ... shake.
+
+578
+00:25:37,470 --> 00:25:38,190
+Pengfei Song: It's a, it's a high-
+
+579
+00:25:38,290 --> 00:25:38,790
+Keith Murphy: Okay.
+
+580
+00:25:38,310 --> 00:25:38,810
+Pengfei Song: It's a-
+
+581
+00:25:38,590 --> 00:25:39,410
+Keith Murphy: You put them on a subwoofer.
+
+582
+00:25:39,470 --> 00:25:40,030
+[chuckles]
+
+583
+00:25:40,090 --> 00:25:43,550
+Pengfei Song: Right. 50, 60 hertz. I mean, if, if you actually are in front of
+
+584
+00:25:43,590 --> 00:25:45,790
+subwoofer, you got shear waves all over yourself.
+
+585
+00:25:45,870 --> 00:25:46,370
+Keith Murphy: Oh, yeah.
+
+586
+00:25:46,030 --> 00:25:47,090
+Pengfei Song: Like inside your body.
+
+587
+00:25:47,170 --> 00:25:47,670
+Keith Murphy: Oh my God.
+
+588
+00:25:47,610 --> 00:25:48,230
+Pengfei Song: Yeah, yeah, yeah. You got shear waves.
+
+589
+00:25:48,250 --> 00:25:50,510
+Keith Murphy: You ever, you ever been at a concert in front of a big speaker
+
+590
+00:25:50,530 --> 00:25:51,030
+and your heart-
+
+591
+00:25:50,970 --> 00:25:51,470
+Pengfei Song: Oh, yeah
+
+592
+00:25:51,150 --> 00:25:53,130
+Keith Murphy: ... starts, like, rattling? It's crazy.
+
+593
+00:25:53,170 --> 00:25:54,970
+Pengfei Song: Yeah. [chuckles] Yeah, you got shear waves, right?
+
+594
+00:25:55,090 --> 00:25:55,770
+Yeah. So-
+
+595
+00:25:55,790 --> 00:25:56,290
+Keith Murphy: Yeah
+
+596
+00:25:55,930 --> 00:25:59,530
+Pengfei Song: ... he actually measured through the temporal window, saw good shear waves.
+
+597
+00:25:59,710 --> 00:26:04,550
+What's really cool, he asked the subjects to, to do a Valsalva maneuver, and
+
+598
+00:26:04,650 --> 00:26:05,330
+he was measuring-
+
+599
+00:26:05,370 --> 00:26:05,870
+Keith Murphy: Oh
+
+600
+00:26:05,550 --> 00:26:09,330
+Pengfei Song: ... the shear wave stiffness, and he saw during Valsalva the stiffness goes up,
+
+601
+00:26:09,810 --> 00:26:11,950
+and after Valsalva, stiffness goes down, right?
+
+602
+00:26:12,030 --> 00:26:15,870
+So because, uh, as you're doing the Valsalva, you're changing the intracranial pressure, and
+
+603
+00:26:15,910 --> 00:26:16,410
+that is-
+
+604
+00:26:16,190 --> 00:26:16,690
+Keith Murphy: Yeah
+
+605
+00:26:16,210 --> 00:26:18,790
+Pengfei Song: ... changing the brain stiffness. You know, that is a really cool paper.
+
+606
+00:26:19,330 --> 00:26:19,830
+Uh-
+
+607
+00:26:19,470 --> 00:26:20,070
+Charles Caskey: That is cool.
+
+608
+00:26:20,370 --> 00:26:20,870
+Keith Murphy: Wow.
+
+609
+00:26:20,390 --> 00:26:20,890
+Pengfei Song: Yeah.
+
+610
+00:26:20,470 --> 00:26:20,970
+Keith Murphy: That's clever.
+
+611
+00:26:20,810 --> 00:26:23,830
+Charles Caskey: All right. So Vasa- Valsalva maneuver, I think we're getting into, uh...
+
+612
+00:26:23,850 --> 00:26:25,210
+All right, so Vasa- can y'all remind me?
+
+613
+00:26:25,330 --> 00:26:28,490
+So that's, like, where you, like, lean over and then you stand back up.
+
+614
+00:26:28,550 --> 00:26:29,510
+Is that what it is? Or is it-
+
+615
+00:26:29,530 --> 00:26:31,030
+Keith Murphy: You just hold your nose and blow, right?
+
+616
+00:26:31,530 --> 00:26:32,430
+Pengfei Song: Right. It's like you're-
+
+617
+00:26:33,070 --> 00:26:33,570
+Keith Murphy: Like you're
+
+618
+00:26:33,110 --> 00:26:35,310
+Pengfei Song: diving or something ... you're trying to get your biggest constipation out, I think,
+
+619
+00:26:35,390 --> 00:26:36,870
+you know, that kind of, uh, you know.
+
+620
+00:26:36,910 --> 00:26:37,410
+Keith Murphy: Oh.
+
+621
+00:26:36,930 --> 00:26:37,770
+Pengfei Song: That, that to me is like-
+
+622
+00:26:37,770 --> 00:26:38,350
+Keith Murphy: I thought it was the nose hold.
+
+623
+00:26:38,350 --> 00:26:38,890
+[chuckles]
+
+624
+00:26:38,930 --> 00:26:40,330
+Pengfei Song: I, I-- You basically have to...
+
+625
+00:26:40,550 --> 00:26:42,730
+Yeah. Right. That's, that's my way of...
+
+626
+00:26:42,910 --> 00:26:44,530
+I, I did it. [chuckles] You know, better-
+
+627
+00:26:44,530 --> 00:26:46,210
+Keith Murphy: You're saying you gotta take a, take a big shit.
+
+628
+00:26:46,210 --> 00:26:47,890
+[laughs]
+
+629
+00:26:47,990 --> 00:26:48,510
+Pengfei Song: I think that's-
+
+630
+00:26:49,010 --> 00:26:49,510
+Keith Murphy: What is it?
+
+631
+00:26:49,210 --> 00:26:51,150
+Pengfei Song: That's, that's, that's what you're doing, right?
+
+632
+00:26:51,290 --> 00:26:52,690
+A Valsalva, you know, um-
+
+633
+00:26:52,750 --> 00:26:56,130
+Charles Caskey: You're, I mean, you're, yeah, you're increasing, you're truly increasing the pressure in your
+
+634
+00:26:56,190 --> 00:26:57,290
+head when you do that. That's...
+
+635
+00:26:57,350 --> 00:26:57,850
+[chuckles]
+
+636
+00:26:57,850 --> 00:26:58,350
+Keith Murphy: Oh.
+
+637
+00:26:57,990 --> 00:26:58,490
+Charles Caskey: Think about that next time.
+
+638
+00:26:58,390 --> 00:27:00,590
+Keith Murphy: So wait, is it, so the, so I'm wrong what it is?
+
+639
+00:27:00,630 --> 00:27:03,190
+It's actually that you go like, "Uh, uh."
+
+640
+00:27:04,810 --> 00:27:10,110
+Pengfei Song: Yeah, I think so. I-- Well, that's what, that's what Jim Greenleaf, my advisor,
+
+641
+00:27:10,410 --> 00:27:14,830
+told me to do. Because Jim, being Jim, he told me one day, he
+
+642
+00:27:14,870 --> 00:27:16,870
+said, "Hey, Pengfei, you know that we got bubbles."
+
+643
+00:27:16,990 --> 00:27:19,210
+Like, we, I mean, he, he know, he, he knew that I was really
+
+644
+00:27:19,230 --> 00:27:21,970
+into the bubbles. He says, "You know, we have, as human beings, we have
+
+645
+00:27:22,110 --> 00:27:24,170
+gas dissolved in our blood all the time.
+
+646
+00:27:24,230 --> 00:27:27,190
+That's why in scuba diving, you, you, you got, you know, bubbles.
+
+647
+00:27:27,250 --> 00:27:28,670
+You pressure change, you got bigger bubbles.
+
+648
+00:27:28,710 --> 00:27:29,310
+It's a problem."
+
+649
+00:27:29,430 --> 00:27:29,930
+Keith Murphy: Yeah.
+
+650
+00:27:29,650 --> 00:27:34,110
+Pengfei Song: But he said, "If you do a Valsalva, people, and put ultrasound, [laughs] you
+
+651
+00:27:34,110 --> 00:27:34,690
+know, on a blood vessel-
+
+652
+00:27:34,730 --> 00:27:35,230
+Keith Murphy: You can see it
+
+653
+00:27:35,130 --> 00:27:36,630
+Pengfei Song: ... you might see the, the bubbles."
+
+654
+00:27:36,730 --> 00:27:39,150
+I did try that. I didn't see stuff, [laughs] you know.
+
+655
+00:27:39,610 --> 00:27:40,110
+Keith Murphy: Wow.
+
+656
+00:27:39,650 --> 00:27:43,250
+Pengfei Song: And it's very rare. But he said, "Yeah, people, people do that, you know?"
+
+657
+00:27:43,470 --> 00:27:47,530
+Um, you know, so, uh, he, I, I, I, he told me how to
+
+658
+00:27:47,570 --> 00:27:50,670
+do that. It's just like he said, "Yeah, imagine you're having the biggest poop
+
+659
+00:27:50,710 --> 00:27:53,050
+in your life," you know. So [laughs] that's how you do that.
+
+660
+00:27:53,290 --> 00:27:55,070
+Keith Murphy: Mm-hmm. That's awesome.
+
+661
+00:27:55,210 --> 00:27:55,710
+Pengfei Song: Yeah.
+
+662
+00:27:55,230 --> 00:27:57,330
+Keith Murphy: So that's a good way to, that's a good way to test whether your
+
+663
+00:27:57,390 --> 00:28:00,790
+transcranial imaging is working, just do it while you're on the-
+
+664
+00:28:00,810 --> 00:28:01,310
+Pengfei Song: Probably. [laughs]
+
+665
+00:28:01,070 --> 00:28:01,890
+Keith Murphy: ... while you're on the loo.
+
+666
+00:28:02,730 --> 00:28:04,410
+Take a big dump, get the imaging going.
+
+667
+00:28:04,430 --> 00:28:06,630
+Charles Caskey: I, I don't know if it's a standard test that...
+
+668
+00:28:06,630 --> 00:28:07,130
+[laughs]
+
+669
+00:28:06,810 --> 00:28:08,430
+Pengfei Song: No, no, no.
+
+670
+00:28:08,450 --> 00:28:08,950
+Keith Murphy: Put
+
+671
+00:28:08,470 --> 00:28:09,810
+Pengfei Song: this in the bathroom. It might be subjective, right?
+
+672
+00:28:10,290 --> 00:28:13,370
+You know, we just have three different interpretations of a Valsalva, right?
+
+673
+00:28:13,450 --> 00:28:14,170
+Among the three of us.
+
+674
+00:28:14,390 --> 00:28:14,890
+Keith Murphy: Yeah.
+
+675
+00:28:14,430 --> 00:28:15,490
+Pengfei Song: So I don't know how to do it.
+
+676
+00:28:15,490 --> 00:28:15,990
+[laughs]
+
+677
+00:28:15,970 --> 00:28:20,170
+Keith Murphy: That's, that's interesting. I, I had a totally different interpretation of it.
+
+678
+00:28:20,270 --> 00:28:20,810
+Charles Caskey: Oh, yeah.
+
+679
+00:28:21,110 --> 00:28:22,350
+Pengfei Song: You know, Charles, you're a bubble guy.
+
+680
+00:28:22,470 --> 00:28:24,890
+I, I need to confirm with this, but this is also a story from
+
+681
+00:28:24,930 --> 00:28:28,130
+Jim, who told me the early days, the re- the way the microbubbles were
+
+682
+00:28:28,770 --> 00:28:31,390
+discovered was, you know, people would shake-
+
+683
+00:28:31,490 --> 00:28:32,250
+Charles Caskey: Shaking it up, right?
+
+684
+00:28:32,270 --> 00:28:32,770
+Pengfei Song: ... saline.
+
+685
+00:28:32,410 --> 00:28:32,910
+Charles Caskey: Yeah, yeah. Mm-hmm.
+
+686
+00:28:32,870 --> 00:28:35,990
+Pengfei Song: Inject into the, the, the blood vessels, you know, to see the bubble, to,
+
+687
+00:28:36,010 --> 00:28:37,770
+to find a shunt, right? Between the left-
+
+688
+00:28:37,870 --> 00:28:38,370
+Charles Caskey: Yeah
+
+689
+00:28:37,890 --> 00:28:41,390
+Pengfei Song: ... and right ventricle. You see bubble cross the septum, you know, right?
+
+690
+00:28:41,550 --> 00:28:42,050
+Charles Caskey: That's-
+
+691
+00:28:41,570 --> 00:28:42,070
+Pengfei Song: Is that right?
+
+692
+00:28:42,050 --> 00:28:43,470
+Charles Caskey: That's my understanding as well- That's what it is.
+
+693
+00:28:43,470 --> 00:28:44,550
+Yeah ... from the, the early days-
+
+694
+00:28:44,590 --> 00:28:45,090
+Pengfei Song: Yeah
+
+695
+00:28:44,610 --> 00:28:48,090
+Charles Caskey: ... is like if you, you talk to the people that ultimately y- realized
+
+696
+00:28:48,150 --> 00:28:51,610
+that putting lipid shells around them would make them more stable was, uh, yeah,
+
+697
+00:28:51,690 --> 00:28:55,910
+but they apparently it was just agitated saline before, uh, just with enough bubbles
+
+698
+00:28:55,970 --> 00:28:56,470
+to, to-
+
+699
+00:28:56,310 --> 00:28:56,810
+Pengfei Song: That's-
+
+700
+00:28:56,470 --> 00:28:57,630
+Charles Caskey: ... that you could, yeah, image.
+
+701
+00:28:57,650 --> 00:28:58,730
+Pengfei Song: That's so cool, you know?
+
+702
+00:28:58,990 --> 00:28:59,490
+Charles Caskey: Yeah.
+
+703
+00:28:59,570 --> 00:29:00,070
+Pengfei Song: Yeah.
+
+704
+00:28:59,590 --> 00:29:03,030
+Charles Caskey: You-- The other thing that's cool about bubbles, since we're on the topic and
+
+705
+00:29:03,050 --> 00:29:08,290
+we're going down rabbit holes, is how fortuitous is it that micron, like bubbles
+
+706
+00:29:08,330 --> 00:29:12,110
+in the one to three micron range that actually can be in blood vessels
+
+707
+00:29:12,550 --> 00:29:16,790
+also resonate at ultrasonic frequencies? 'Cause there's no, you know, that's just a coincidence
+
+708
+00:29:16,830 --> 00:29:21,050
+as far as I'm concerned. Like, those, the size of that bubble, the fact
+
+709
+00:29:21,090 --> 00:29:24,910
+that it can actually be injected, 'cause it could, you know, if physics were
+
+710
+00:29:24,950 --> 00:29:28,490
+different, that would be a, maybe a one millimeter bubble or something that would,
+
+711
+00:29:28,530 --> 00:29:32,350
+you would never be to, able to inject, but instead it's perfectly the size
+
+712
+00:29:32,370 --> 00:29:34,270
+that you can inject. I, I just love that.
+
+713
+00:29:34,290 --> 00:29:36,910
+It's one of these little, uh, things that feels like it was meant to
+
+714
+00:29:36,950 --> 00:29:37,450
+be.
+
+715
+00:29:38,050 --> 00:29:42,230
+Pengfei Song: Yeah. Yeah. I mean, the, the, the, you know, it's comes, I was actually
+
+716
+00:29:42,430 --> 00:29:45,430
+in class, I was just explaining today why the bubbles are so much brighter
+
+717
+00:29:45,490 --> 00:29:48,810
+than red blood cells. Keith, to your point, like you don't, you know, Charles,
+
+718
+00:29:48,870 --> 00:29:51,750
+you also mentioned that you don't need to have an aggregate of microbubbles, right?
+
+719
+00:29:51,870 --> 00:29:53,770
+It's because of the air, the compressibility.
+
+720
+00:29:54,210 --> 00:29:57,850
+The compressibility is like tens of thousand times higher than water, right?
+
+721
+00:29:58,330 --> 00:30:02,150
+If you look at a scattering equation, that one term just increases the pressure
+
+722
+00:30:02,230 --> 00:30:05,430
+by like 10,000 times, the intensity by 10 to the eighth power, right?
+
+723
+00:30:05,470 --> 00:30:09,530
+That's beautiful. Beautiful physics, you know, and, you know, it just, uh, you know,
+
+724
+00:30:09,730 --> 00:30:13,650
+every imaging modality has its own contrast, and, uh, it happens, right?
+
+725
+00:30:13,730 --> 00:30:17,010
+You know, CT has iodine, MRI has gadolinium, ultrasound has microbubbles.
+
+726
+00:30:17,050 --> 00:30:20,620
+They're all blood enhancers. Blood sucks.
+
+727
+00:30:20,900 --> 00:30:25,340
+Blood, blood actually sucks in all the physics that we have invented to image
+
+728
+00:30:25,380 --> 00:30:29,360
+them. And we had to, as humans, we had to find out the contrast,
+
+729
+00:30:29,640 --> 00:30:30,300
+you know? [chuckles]
+
+730
+00:30:30,340 --> 00:30:30,840
+Charles Caskey: Yeah.
+
+731
+00:30:30,740 --> 00:30:35,500
+Keith Murphy: So, um, Pengfei, we'd love to get your hot takes on the recent advances.
+
+732
+00:30:35,780 --> 00:30:40,020
+There are-- Well, obviously, there's Merge Labs that, that came up-
+
+733
+00:30:40,160 --> 00:30:40,660
+Charles Caskey: Mm.
+
+734
+00:30:40,180 --> 00:30:43,420
+Keith Murphy: -out of Forest, out of Sumner and, and Mikhail's work.
+
+735
+00:30:43,460 --> 00:30:43,960
+Charles Caskey: Yeah. Mm-hmm.
+
+736
+00:30:43,940 --> 00:30:46,500
+Keith Murphy: Um, and Tyson. I, I mean, everybody came together for that one.
+
+737
+00:30:46,520 --> 00:30:47,160
+Charles Caskey: Yeah, yeah, agreed.
+
+738
+00:30:47,180 --> 00:30:50,360
+Keith Murphy: And then there's other groups that are, are forming also.
+
+739
+00:30:50,880 --> 00:30:52,840
+Um, what, what were the names?
+
+740
+00:30:52,920 --> 00:30:53,420
+I should pull them up. There was-
+
+741
+00:30:53,340 --> 00:30:54,760
+Charles Caskey: Well, there's Gestala, right?
+
+742
+00:30:54,760 --> 00:30:55,960
+Keith Murphy: ... Gestala, yeah.
+
+743
+00:30:56,040 --> 00:30:56,540
+Charles Caskey: Oh, yeah.
+
+744
+00:30:56,500 --> 00:30:57,200
+Keith Murphy: With, with Phoenix.
+
+745
+00:30:57,760 --> 00:30:58,260
+Charles Caskey: Yeah.
+
+746
+00:30:57,840 --> 00:31:01,860
+Keith Murphy: And they're saying we should-- So both groups are saying we need to somehow
+
+747
+00:31:03,040 --> 00:31:07,760
+image blood flow in the brain to have brain-wide interface, whether we aid it
+
+748
+00:31:07,820 --> 00:31:12,040
+with genetic engineering or bubbles or whatever, I don't know.
+
+749
+00:31:12,120 --> 00:31:16,200
+But there's sort of this underlying debate of whether or not we could get
+
+750
+00:31:16,240 --> 00:31:21,020
+sufficient signal through the skull or whether we need to have an implanted device.
+
+751
+00:31:21,720 --> 00:31:23,360
+How do you feel about the whole field?
+
+752
+00:31:23,560 --> 00:31:25,900
+What do you think is, is going to be true?
+
+753
+00:31:27,160 --> 00:31:31,580
+Pengfei Song: Um, I, I, I, I think I-- a year ago, if you asked me,
+
+754
+00:31:31,740 --> 00:31:35,860
+I don't think a burr hole is that, you know, um, that of a,
+
+755
+00:31:35,920 --> 00:31:38,420
+like a feasible or, or viable option.
+
+756
+00:31:38,480 --> 00:31:43,240
+But now I see, you know, even at Duke, we have, you know, lots
+
+757
+00:31:43,260 --> 00:31:48,360
+of patients. You know, there is actually a fairly large patient population, uh, that
+
+758
+00:31:48,400 --> 00:31:51,040
+has burr holes already, you know, created, right?
+
+759
+00:31:51,680 --> 00:31:55,740
+Uh, you can just, you know, use acoustically transparent covers, you know, which-
+
+760
+00:31:55,920 --> 00:31:56,420
+Keith Murphy: Yeah
+
+761
+00:31:55,940 --> 00:31:59,660
+Pengfei Song: ... you know, there's peak, there's longevity, uh, there's different vendors.
+
+762
+00:31:59,840 --> 00:32:03,560
+So to-- Now, like a year later, I don't think a burr hole is--
+
+763
+00:32:03,820 --> 00:32:06,760
+I mean, I still don't think the three of us or, like, uh, any
+
+764
+00:32:06,860 --> 00:32:09,920
+healthy subject would want a burr hole just, you know...
+
+765
+00:32:10,440 --> 00:32:13,120
+Uh, maybe a year later, I will change my mind, right?
+
+766
+00:32:13,160 --> 00:32:15,980
+[laughs] But, uh- It depends on the benefit always.
+
+767
+00:32:16,060 --> 00:32:17,540
+Yeah. I, I saw these patients-
+
+768
+00:32:17,640 --> 00:32:18,140
+Keith Murphy: Yeah
+
+769
+00:32:17,660 --> 00:32:20,540
+Pengfei Song: ... you know, and, uh, if it, if you don't tell me, I don't,
+
+770
+00:32:20,700 --> 00:32:21,800
+I don't know they have burr holes.
+
+771
+00:32:22,160 --> 00:32:22,680
+The skin-
+
+772
+00:32:22,820 --> 00:32:23,320
+Charles Caskey: It's-
+
+773
+00:32:23,220 --> 00:32:24,140
+Pengfei Song: ... uh, covered on top.
+
+774
+00:32:24,260 --> 00:32:24,760
+Keith Murphy: Flap.
+
+775
+00:32:24,480 --> 00:32:26,460
+Pengfei Song: You grow hair, you know. Uh-
+
+776
+00:32:26,480 --> 00:32:27,200
+Charles Caskey: It's impressive, yeah.
+
+777
+00:32:27,200 --> 00:32:28,700
+Pengfei Song: But, but, but of course, these are patients.
+
+778
+00:32:28,780 --> 00:32:31,720
+You know, they, they had, they had, they needed a burr hole, right?
+
+779
+00:32:32,140 --> 00:32:32,640
+Charles Caskey: Yeah.
+
+780
+00:32:32,180 --> 00:32:33,560
+Pengfei Song: I, I don't think you need to have a burr hole.
+
+781
+00:32:33,600 --> 00:32:38,240
+I mean, to me, you know, look, you can get through the skull with
+
+782
+00:32:38,500 --> 00:32:41,320
+700 kilohertz, 220 kilohertz. We, we all know that.
+
+783
+00:32:41,760 --> 00:32:44,680
+But at that frequency, red blood cells don't really scatter.
+
+784
+00:32:45,420 --> 00:32:45,920
+Charles Caskey: Oh, yeah.
+
+785
+00:32:45,640 --> 00:32:46,140
+Pengfei Song: You know? Yeah.
+
+786
+00:32:46,280 --> 00:32:46,780
+Charles Caskey: Yeah.
+
+787
+00:32:46,540 --> 00:32:50,420
+Pengfei Song: Because the re-- the scattering, you know, to, to blood cells is what?
+
+788
+00:32:50,500 --> 00:32:52,360
+Frequency to the power of fourth, right, Charles?
+
+789
+00:32:52,380 --> 00:32:52,900
+Something like that.
+
+790
+00:32:53,040 --> 00:32:54,200
+Charles Caskey: So yeah, it's, it's not great.
+
+791
+00:32:54,500 --> 00:32:55,000
+Pengfei Song: Yeah, yeah.
+
+792
+00:32:54,540 --> 00:32:55,300
+Charles Caskey: Yeah, for low frequencies.
+
+793
+00:32:55,340 --> 00:32:59,560
+Pengfei Song: Not great. I mean, right, so we're going down from megahertz to kilohertz, right?
+
+794
+00:32:59,640 --> 00:33:03,120
+Red blood cells are already like, you know, suckers, right, for ultrasound scattering.
+
+795
+00:33:03,240 --> 00:33:07,620
+Now you're even lower frequency. I don't know if you can actually see anything,
+
+796
+00:33:08,280 --> 00:33:11,180
+uh, with that kind of low frequency, right, without help.
+
+797
+00:33:11,320 --> 00:33:14,720
+Maybe inject bubbles. But one thing I can't think through is why, why would
+
+798
+00:33:14,760 --> 00:33:19,280
+you have, you know, someone cons-- continuously infused with microbubbles, you know, while-
+
+799
+00:33:19,560 --> 00:33:20,080
+Keith Murphy: Yeah. It's not gonna happen, right?
+
+800
+00:33:20,080 --> 00:33:22,100
+Pengfei Song: ... you know, doing imaging. It's not-- Oh, I don't know.
+
+801
+00:33:22,200 --> 00:33:23,800
+Maybe, I mean, Charles is a bubble guy.
+
+802
+00:33:23,880 --> 00:33:27,020
+Maybe there's some kind of persistent bubble you can inject that can just circulate
+
+803
+00:33:27,120 --> 00:33:29,600
+for several hours or even several days.
+
+804
+00:33:30,200 --> 00:33:30,700
+Uh-
+
+805
+00:33:30,740 --> 00:33:31,240
+Charles Caskey: Yeah.
+
+806
+00:33:30,760 --> 00:33:34,100
+Pengfei Song: But I, I think a burr hole is not that, you know, uh, uh,
+
+807
+00:33:34,320 --> 00:33:36,840
+you know, um, how, how should I say this?
+
+808
+00:33:36,980 --> 00:33:41,960
+Is, is, you know, maybe a very viable solution for all of this, right?
+
+809
+00:33:42,080 --> 00:33:42,580
+Charles Caskey: Yeah.
+
+810
+00:33:42,240 --> 00:33:42,740
+Keith Murphy: Okay.
+
+811
+00:33:42,900 --> 00:33:43,400
+Pengfei Song: Yeah.
+
+812
+00:33:43,340 --> 00:33:47,540
+Charles Caskey: Well, and, and as you already mentioned, there's, there are patient populations where there
+
+813
+00:33:47,580 --> 00:33:49,600
+is knowledge to be had for sure.
+
+814
+00:33:50,380 --> 00:33:54,800
+Uh, if there's already an existing burr hole, um, are there plates that are
+
+815
+00:33:54,840 --> 00:33:59,000
+acoustically transparent? I mean, there's knowledge to be had, and it's, it-- but it
+
+816
+00:33:59,060 --> 00:34:02,020
+is a question of... And, but that's, you know, usually how things start.
+
+817
+00:34:02,120 --> 00:34:08,340
+They start with the difficult su- uh, challenges that, you know, eventually you
+
+818
+00:34:08,400 --> 00:34:11,840
+overcome, and things get easier. I, on this, I always zoom out when I
+
+819
+00:34:11,880 --> 00:34:14,380
+hear, you know, I even would be interested to talk about zooming out even
+
+820
+00:34:14,440 --> 00:34:19,240
+further. It seems like the basis of a lot of the, the investments in,
+
+821
+00:34:19,880 --> 00:34:25,020
+um, in neuromodulation and brain-computer interface right now is that we are hurtling towards,
+
+822
+00:34:25,500 --> 00:34:30,240
+uh, the Kurzweil singularity. Um, and that we're, and that ult-- I've, I've always
+
+823
+00:34:30,260 --> 00:34:35,720
+been surprised that ultrasound has been in this conversation at all.
+
+824
+00:34:35,720 --> 00:34:38,100
+[laughs] Like, I mean, like, 'cause-
+
+825
+00:34:38,200 --> 00:34:38,760
+Keith Murphy: That is nice.
+
+826
+00:34:39,160 --> 00:34:40,160
+Charles Caskey: I mean, yeah, I welcome it.
+
+827
+00:34:40,300 --> 00:34:41,860
+I welcome, I welcome it to- [laughs] ...
+
+828
+00:34:41,920 --> 00:34:46,000
+as a, as a, because I do think there are amazing, impactful technologies to
+
+829
+00:34:46,040 --> 00:34:50,500
+be developed along this path. I, I guess, um, but I, I mean, are,
+
+830
+00:34:50,620 --> 00:34:51,660
+are we, are we that close?
+
+831
+00:34:51,720 --> 00:34:54,460
+Am I, is this like, you know, in my, in how, if I'm lucky
+
+832
+00:34:54,500 --> 00:34:57,740
+enough to live a full life, am I gonna, am I gonna see a,
+
+833
+00:34:58,220 --> 00:35:00,540
+a further melding of, of humans and machines?
+
+834
+00:35:00,600 --> 00:35:03,080
+Is that, is it, you know, that's what Merge is, right?
+
+835
+00:35:03,140 --> 00:35:05,100
+It's the merge of humans and machines, right?
+
+836
+00:35:06,420 --> 00:35:10,000
+Pengfei Song: Right. Right. But, you know, ultimately, uh, I, I, I thought people should have
+
+837
+00:35:10,080 --> 00:35:13,160
+done that. But, you know, fMRI is sort of similar thing.
+
+838
+00:35:13,700 --> 00:35:17,760
+You know, you can get, you know, uh, uh, functional reading of the human
+
+839
+00:35:17,820 --> 00:35:19,460
+brain, right, while they're performing tasks.
+
+840
+00:35:19,640 --> 00:35:23,480
+But you can't do that freely moving or, you know, uh, 24/7, right?
+
+841
+00:35:23,680 --> 00:35:27,220
+Yeah, I don't know. But, you know, uh, one thing that we know that
+
+842
+00:35:27,280 --> 00:35:30,660
+limitation of functional ultrasound is we're ultimately seeing the blood flow, right?
+
+843
+00:35:31,120 --> 00:35:33,020
+So we rely on neurovascular coupling.
+
+844
+00:35:33,260 --> 00:35:37,180
+So, you know, that's another rabbit hole, like, you know, because I do super-resolution
+
+845
+00:35:37,660 --> 00:35:39,340
+micro vessel response, stuff like that.
+
+846
+00:35:39,580 --> 00:35:42,820
+I got asked this question, "So if one neuron is firing, can you tell
+
+847
+00:35:42,860 --> 00:35:46,000
+me about what are the vessels doing, right, surrounding that one neuron?"
+
+848
+00:35:46,720 --> 00:35:47,700
+Nobody knows. [laughs]
+
+849
+00:35:47,740 --> 00:35:48,520
+Charles Caskey: Right. Yeah, yeah.
+
+850
+00:35:48,920 --> 00:35:54,740
+Pengfei Song: Right? So, so, uh, I, I, I don't know how to interpret that, that
+
+851
+00:35:55,120 --> 00:35:57,860
+data. And also, that data is delayed, right?
+
+852
+00:35:57,940 --> 00:35:59,620
+We know the hemodynamic response is what?
+
+853
+00:35:59,700 --> 00:36:01,780
+I mean, couple seconds delayed, right?
+
+854
+00:36:01,880 --> 00:36:05,760
+So you have a neuronal response, you have the calcium, so you have electrical
+
+855
+00:36:06,220 --> 00:36:10,460
+calcium, maybe hemodynamic, right? So there's like, you know, a couple layers there.
+
+856
+00:36:11,140 --> 00:36:12,040
+Uh, you know-
+
+857
+00:36:12,040 --> 00:36:14,300
+Keith Murphy: And it doesn't discriminate cell type either, right?
+
+858
+00:36:14,380 --> 00:36:18,200
+Like, if you have two counter cell types, they're both drawing blood flow.
+
+859
+00:36:18,760 --> 00:36:20,640
+So you don't really know what that signal means necessarily if it was on
+
+860
+00:36:20,640 --> 00:36:21,140
+the-
+
+861
+00:36:20,640 --> 00:36:22,680
+Pengfei Song: That's, that's my point. I was trying to, to talking to Charles.
+
+862
+00:36:22,860 --> 00:36:26,480
+Nobody, it seems, I don't want to say nobody, but I ask people, it
+
+863
+00:36:26,500 --> 00:36:30,980
+doesn't seem as well understood. Like you have, like you said, two neurons, one
+
+864
+00:36:31,040 --> 00:36:36,700
+excitatory, another one inhibitory. You know, what are the vessels doing exactly while they
+
+865
+00:36:36,740 --> 00:36:38,360
+are firing or not firing, right?
+
+866
+00:36:38,420 --> 00:36:38,920
+Charles Caskey: Yeah.
+
+867
+00:36:39,160 --> 00:36:42,420
+Keith Murphy: You guys are really drawing on some interesting points, and I don't want to
+
+868
+00:36:42,440 --> 00:36:47,590
+be too philosophical here, but I love ultrasound for reading the brain I don't
+
+869
+00:36:47,650 --> 00:36:51,650
+care for any technology claiming that we will write to the brain such that
+
+870
+00:36:51,710 --> 00:36:57,110
+we will become machine-like, because the processing capability of our brains won't change.
+
+871
+00:36:57,250 --> 00:37:00,390
+We may inject more information. It doesn't mean we're going to process it-
+
+872
+00:37:00,790 --> 00:37:01,290
+Charles Caskey: Yeah
+
+873
+00:37:00,850 --> 00:37:04,070
+Keith Murphy: ... any faster. So I think this, it's a little bit of a farce
+
+874
+00:37:04,110 --> 00:37:07,350
+to say we're gonna fuse with the machines, but I don't know.
+
+875
+00:37:07,430 --> 00:37:11,770
+Let's talk about sonogenetics. Okay, so the proposition here is that if we put
+
+876
+00:37:12,030 --> 00:37:16,410
+genetic sensitivity into neurons, we can write to single cells, and we can start
+
+877
+00:37:16,450 --> 00:37:19,090
+to encode information. It's not gonna be faster.
+
+878
+00:37:19,250 --> 00:37:20,690
+It's just gonna be more stuff.
+
+879
+00:37:21,130 --> 00:37:23,390
+It's already like we got a lot of stuff coming in, right?
+
+880
+00:37:23,450 --> 00:37:26,190
+[chuckles] What do you guys think philosophically?
+
+881
+00:37:26,190 --> 00:37:27,070
+[laughs]
+
+882
+00:37:27,150 --> 00:37:30,130
+Charles Caskey: I, I, yeah, I think this is exactly the philoso- I guess, yeah, I
+
+883
+00:37:30,190 --> 00:37:32,310
+got us on this. Like, yeah, 'cause I, I tend to fall on the,
+
+884
+00:37:32,410 --> 00:37:33,950
+this human side of it as well.
+
+885
+00:37:34,010 --> 00:37:39,430
+I'm kinda like, yeah, I don't, I don't see the information magnitude happening with
+
+886
+00:37:39,470 --> 00:37:42,930
+that. I think there's impactful things to be done, but I, I, yeah, it's,
+
+887
+00:37:43,330 --> 00:37:45,730
+uh, I feel the same. It's almost, it, and to a point it becomes
+
+888
+00:37:45,770 --> 00:37:49,450
+similar to like, uh, cryogenically frozen companies that, that do that.
+
+889
+00:37:49,490 --> 00:37:52,070
+It's like, I don't know, man, maybe you just accept that, like, you know,
+
+890
+00:37:52,130 --> 00:37:55,310
+we're probably gonna die one day, [chuckles] and we're like, we're gonna, we're, we're
+
+891
+00:37:55,350 --> 00:37:55,850
+like-
+
+892
+00:37:55,490 --> 00:37:58,030
+Keith Murphy: Well, that one I disagree, but I'm with you on the other one.
+
+893
+00:37:58,030 --> 00:37:58,530
+[laughs]
+
+894
+00:37:58,410 --> 00:38:00,550
+Charles Caskey: I want, I, I want to do-- I love sci-fi.
+
+895
+00:38:00,730 --> 00:38:02,230
+I like this. It's like, oh, yeah.
+
+896
+00:38:03,270 --> 00:38:07,930
+Pengfei Song: Yeah, but I think one advantage, I was just, you know, talking about fMRI
+
+897
+00:38:07,970 --> 00:38:13,010
+versus ultrasound, right? I mean, maybe if Merge Labs can quickly install this to,
+
+898
+00:38:13,530 --> 00:38:15,850
+I don't know, uh, you know, hundreds of people.
+
+899
+00:38:15,950 --> 00:38:19,570
+But advantage of ultrasound, you can record 24/7, right?
+
+900
+00:38:19,710 --> 00:38:22,710
+I mean, you can quickly get a huge amount of data, right?
+
+901
+00:38:22,870 --> 00:38:23,370
+That you can just-
+
+902
+00:38:23,390 --> 00:38:23,890
+Keith Murphy: Yeah
+
+903
+00:38:23,430 --> 00:38:26,550
+Pengfei Song: ... train your network, and then maybe there's something there that we don't know,
+
+904
+00:38:26,630 --> 00:38:27,550
+right? I mean, I, I think-
+
+905
+00:38:27,790 --> 00:38:28,290
+Keith Murphy: Yeah
+
+906
+00:38:27,910 --> 00:38:30,690
+Pengfei Song: ... MRI will be hard to get hundreds of people in a scanner, let
+
+907
+00:38:30,710 --> 00:38:34,430
+them s- lying there for, you know, 24 hours and do different kind of-
+
+908
+00:38:34,430 --> 00:38:37,750
+Yeah ... behaviors, right? You know, um, yeah, I think that's the- Yeah ...
+
+909
+00:38:37,890 --> 00:38:39,590
+the advantage of ultrasound, you know.
+
+910
+00:38:39,750 --> 00:38:40,290
+Charles Caskey: You, you brought up-
+
+911
+00:38:40,290 --> 00:38:41,510
+Keith Murphy: The, the data's gonna be massive.
+
+912
+00:38:41,790 --> 00:38:42,370
+Pengfei Song: Massive, right.
+
+913
+00:38:42,370 --> 00:38:46,370
+Charles Caskey: Yeah. Th- this is, and this is something that has, uh, Pengfei kind of...
+
+914
+00:38:46,410 --> 00:38:51,130
+The, the dimensionality of data with ultrasound, I feel like we've dug deeper and
+
+915
+00:38:51,210 --> 00:38:53,690
+gone, and, and gone for longer duration.
+
+916
+00:38:53,830 --> 00:38:58,090
+So, um, it, and it's really, I think there's just so much more information
+
+917
+00:38:58,110 --> 00:39:01,370
+to be had. So you mentioned Mickael Tanter's early work, where we're doing, where
+
+918
+00:39:01,390 --> 00:39:04,530
+he was doing like really high frame rate imaging that we hadn't really thought
+
+919
+00:39:04,570 --> 00:39:07,210
+about doing before, 'cause we would just do like one pulse echo as fast
+
+920
+00:39:07,270 --> 00:39:09,550
+as we could, or not e- not even close to as fast as we
+
+921
+00:39:09,590 --> 00:39:13,910
+could. Um, but s- this, that you mention now, this other idea, which is
+
+922
+00:39:13,970 --> 00:39:18,190
+totally different than this, the idea of long-term logging with ultrasound.
+
+923
+00:39:18,290 --> 00:39:22,390
+So now moving ultrasound to be more like a heart rate monitor or something
+
+924
+00:39:22,430 --> 00:39:24,950
+like that, something that you can have on all the time, and you get
+
+925
+00:39:24,990 --> 00:39:29,910
+this massive data set. This is totally different than how ultrasound has traditionally been
+
+926
+00:39:29,950 --> 00:39:33,810
+implemented in a clinic, where you take like specific angles of the kidney.
+
+927
+00:39:33,890 --> 00:39:37,570
+You maybe take little clips of the heart, but you're not like looking over
+
+928
+00:39:37,610 --> 00:39:39,330
+the course of, of days or something.
+
+929
+00:39:39,370 --> 00:39:42,670
+And, and, you know, there's awesome groups at MIT and stuff that are making
+
+930
+00:39:42,710 --> 00:39:47,550
+these wearable patches. I mean, this is, this is a ripe area for so
+
+931
+00:39:47,610 --> 00:39:51,970
+much information that we're gonna learn about, about humans and health and different conditions.
+
+932
+00:39:52,050 --> 00:39:56,610
+I, and, and it's, I don't, I think it's enabled by inventions like functional,
+
+933
+00:39:56,910 --> 00:40:01,270
+um, ultrasound, but then also just the, the, the brute signal processing that has
+
+934
+00:40:01,310 --> 00:40:06,430
+to happen underneath that, and paradigm shift to ultrasound as this measurement device rather
+
+935
+00:40:06,490 --> 00:40:07,990
+than strictly imaging.
+
+936
+00:40:08,930 --> 00:40:09,830
+Keith Murphy: Oh, I like that a lot.
+
+937
+00:40:10,030 --> 00:40:13,930
+I-- Do you guys think that continuous glucose monitors would be a thing of
+
+938
+00:40:13,950 --> 00:40:16,210
+the past if we could get ima-
+
+939
+00:40:16,250 --> 00:40:16,750
+Charles Caskey: Oh.
+
+940
+00:40:16,430 --> 00:40:19,010
+Keith Murphy: If we could get non-invasive through-skull imaging?
+
+941
+00:40:20,290 --> 00:40:25,390
+Wait, so guys, are you telling me that at, uh, 500 kilohertz, which is
+
+942
+00:40:25,430 --> 00:40:29,390
+the, the frequency that we can get through the skull pretty easily, we really
+
+943
+00:40:29,450 --> 00:40:33,190
+can't even see a lot of blood flow without microbubbles?
+
+944
+00:40:33,590 --> 00:40:35,370
+You're saying there's just no way, there's nothing.
+
+945
+00:40:36,090 --> 00:40:37,650
+You could say no. I, I'm with you.
+
+946
+00:40:37,670 --> 00:40:38,170
+I'm-
+
+947
+00:40:37,690 --> 00:40:40,030
+Pengfei Song: What's the transcranial Doppler frequency, Charles, do you know?
+
+948
+00:40:40,170 --> 00:40:40,830
+Are they that low?
+
+949
+00:40:41,850 --> 00:40:43,210
+Charles Caskey: 1.5 is about-
+
+950
+00:40:43,250 --> 00:40:43,750
+Pengfei Song: Five, okay
+
+951
+00:40:43,690 --> 00:40:44,890
+Charles Caskey: ... usually where you see it in-
+
+952
+00:40:44,950 --> 00:40:46,310
+Keith Murphy: But we can get that through, right?
+
+953
+00:40:46,370 --> 00:40:46,870
+Pengfei Song: That's what-
+
+954
+00:40:46,690 --> 00:40:47,190
+Charles Caskey: Yes.
+
+955
+00:40:47,050 --> 00:40:50,550
+Pengfei Song: Yeah, through the temporal window. You know, I think megahertz you can still get
+
+956
+00:40:50,590 --> 00:40:52,930
+decent scattering, at least from those big vessels.
+
+957
+00:40:53,630 --> 00:40:57,550
+500 kilohertz, you might still be able to do these big vessels like MCAs,
+
+958
+00:40:57,650 --> 00:40:59,790
+the major arteries, but a lot of functional response-
+
+959
+00:40:59,790 --> 00:41:01,290
+Keith Murphy: So we don't get, we don't get a lot.
+
+960
+00:41:01,350 --> 00:41:05,010
+We just get the main up the middle of the brain, like bulk- Yeah
+
+961
+00:41:05,010 --> 00:41:07,670
+... blood flow. Okay. So that's not really gonna tell us much, right?
+
+962
+00:41:07,970 --> 00:41:08,470
+Pengfei Song: No, you-
+
+963
+00:41:08,030 --> 00:41:11,770
+Keith Murphy: Like if we want glucose, we need like hypothalamic signal or something.
+
+964
+00:41:13,510 --> 00:41:16,470
+Pengfei Song: I'm not familiar with that. [laughs] [laughs]
+
+965
+00:41:16,510 --> 00:41:19,130
+Keith Murphy: Well, I love, you guys are bringing us down this cool path of like
+
+966
+00:41:19,170 --> 00:41:24,010
+imagine the brain with one device could image all these different features.
+
+967
+00:41:24,070 --> 00:41:27,690
+Like, are you lost? And you go to the hippocampus and look at how
+
+968
+00:41:27,710 --> 00:41:29,710
+much energy it's drawing and the patterns- Ah ...
+
+969
+00:41:29,730 --> 00:41:32,370
+that are moving through it. I don't know, there's just all these beautiful things,
+
+970
+00:41:32,450 --> 00:41:35,410
+but if you two don't figure this out, we're never gonna be able to
+
+971
+00:41:35,430 --> 00:41:39,810
+do it. [laughs] Do you, so do you, is there anything you guys are
+
+972
+00:41:39,830 --> 00:41:42,870
+thinking about as a molecule? Pengfei, you said it beautifully.
+
+973
+00:41:42,990 --> 00:41:46,190
+Is there a molecule that could be stable over the course of a week?
+
+974
+00:41:46,190 --> 00:41:50,010
+'Cause what if you only had to do one patch injection once a week?
+
+975
+00:41:50,170 --> 00:41:50,910
+That's plausible.
+
+976
+00:41:51,610 --> 00:41:52,110
+Pengfei Song: Yeah.
+
+977
+00:41:51,770 --> 00:41:52,390
+Keith Murphy: What, what do you guys think?
+
+978
+00:41:52,530 --> 00:41:54,970
+What kind of molecules can we keep in the blood that are safe?
+
+979
+00:41:56,970 --> 00:41:58,190
+Are there any? Have you thought about it?
+
+980
+00:41:58,230 --> 00:42:00,770
+Pengfei Song: I, I don't know. Charles, is, is it true that like the reason why
+
+981
+00:42:00,810 --> 00:42:04,890
+microbubbles kind of like, you know, circulate, only circulate for, uh, several minutes is
+
+982
+00:42:04,990 --> 00:42:06,750
+because we designed it that way?
+
+983
+00:42:07,290 --> 00:42:07,790
+Charles Caskey: It's-
+
+984
+00:42:07,330 --> 00:42:13,210
+Pengfei Song: Because you need a clear excretion pathway, a time course for FDA.
+
+985
+00:42:13,330 --> 00:42:15,610
+I mean, because you, you don't want to hold a patient in a clinic
+
+986
+00:42:15,730 --> 00:42:17,650
+for a whole day to monitor them.
+
+987
+00:42:18,010 --> 00:42:18,510
+Keith Murphy: Oh, yeah.
+
+988
+00:42:18,170 --> 00:42:20,410
+Pengfei Song: You need to have this like half-life, whatever, right?
+
+989
+00:42:21,290 --> 00:42:26,150
+Charles Caskey: Whether they were designed, uh, thinking of the half-life, they were definitely, the use
+
+990
+00:42:26,210 --> 00:42:31,530
+of inert gases and lipids that were already being used in like liposomes was
+
+991
+00:42:31,570 --> 00:42:37,370
+definitely a safety component. One thing, uh, my understanding is that the size, though,
+
+992
+00:42:37,710 --> 00:42:41,330
+no matter what the particle is, our body's quite good at recognizing these large
+
+993
+00:42:41,430 --> 00:42:45,110
+particles that are foreign. Uh, they get caught up in the spleen.
+
+994
+00:42:45,270 --> 00:42:47,970
+You have, uh, immune responses and things like that.
+
+995
+00:42:48,010 --> 00:42:53,190
+And so, I mean, y-it's I, I like, I love the idea and, and
+
+996
+00:42:53,230 --> 00:42:58,290
+there definitely are groups that are looking at ways to extend the, the duration
+
+997
+00:42:58,330 --> 00:43:01,270
+of circulation. Um, a week, I don't know.
+
+998
+00:43:01,350 --> 00:43:05,450
+You know, I've s- I feel like I've seen things that last hours, um,
+
+999
+00:43:05,670 --> 00:43:10,050
+but, but not, you know, not as much, uh, on the, the longer duration.
+
+1000
+00:43:10,090 --> 00:43:14,550
+And I just wonder if it is even possible to have a contrast agent
+
+1001
+00:43:14,770 --> 00:43:18,830
+of that size i- without your body just deciding this has to go.
+
+1002
+00:43:19,550 --> 00:43:23,310
+Keith Murphy: Guys, um, I-- unless Charles, you wanted to go on a different topic, I
+
+1003
+00:43:23,330 --> 00:43:27,490
+wanna talk about the PRF debate because Pengfei is one of many.
+
+1004
+00:43:27,490 --> 00:43:28,330
+[laughs] I got, I got some phone calls.
+
+1005
+00:43:28,370 --> 00:43:28,870
+Pengfei Song: Oh, yeah, yeah.
+
+1006
+00:43:29,070 --> 00:43:30,350
+Keith Murphy: I got some angry phone calls.
+
+1007
+00:43:30,370 --> 00:43:31,410
+[laughs]
+
+1008
+00:43:31,510 --> 00:43:34,670
+Pengfei Song: I, I was listening to the episode this morning, and you know, you guys
+
+1009
+00:43:34,710 --> 00:43:38,750
+confused me because we also have a PRF in imaging, you know?
+
+1010
+00:43:38,930 --> 00:43:43,230
+And, uh, now it make me wonder, you know, 'cause I don't know, where-
+
+1011
+00:43:43,510 --> 00:43:44,870
+Keith Murphy: Yeah, you should be wondering.
+
+1012
+00:43:45,250 --> 00:43:48,950
+Pengfei Song: Right. You know, because, you know, in our field, we debate about PRF.
+
+1013
+00:43:49,050 --> 00:43:51,270
+We constantly mix PRF with the frame rate.
+
+1014
+00:43:51,870 --> 00:43:55,190
+Because- Uh-huh ... you know, if you just have a image, say you fired,
+
+1015
+00:43:56,030 --> 00:44:00,450
+uh, you know, 100 focus beams to make up that image, or you fired
+
+1016
+00:44:00,650 --> 00:44:03,350
+10 different plane waves with different angles, right?
+
+1017
+00:44:03,810 --> 00:44:04,310
+Keith Murphy: Mm-hmm.
+
+1018
+00:44:04,030 --> 00:44:07,790
+Pengfei Song: Uh, to make up that one image, your PRF is strictly a measure of
+
+1019
+00:44:07,830 --> 00:44:09,810
+the time between your pulse echoes, right?
+
+1020
+00:44:09,890 --> 00:44:13,890
+So you fired 100 beams or 10 beams, the time between those beams, right?
+
+1021
+00:44:13,930 --> 00:44:18,050
+Mm-hmm. But frame rate is actually the ultimate time between the frames you generated,
+
+1022
+00:44:18,150 --> 00:44:20,810
+right? That, that, you know, consists of many beams.
+
+1023
+00:44:20,890 --> 00:44:22,670
+So that's, that's in our field.
+
+1024
+00:44:22,750 --> 00:44:25,310
+I think that's, you know, you and I, I think when you have this
+
+1025
+00:44:25,470 --> 00:44:29,610
+nested PRF this morning, I was driving, I was like, "Mm, what are they
+
+1026
+00:44:29,670 --> 00:44:32,390
+talking about?" And then I actually was, uh, looking at it.
+
+1027
+00:44:32,450 --> 00:44:35,050
+I, now I, I think I got it, but you know, I don't know.
+
+1028
+00:44:35,210 --> 00:44:37,030
+Uh, it's confusing. I have to admit, it's very confusing.
+
+1029
+00:44:37,030 --> 00:44:42,070
+Keith Murphy: Oh my God. Talking about, talking about waveforms between imaging engineers and neuromod or
+
+1030
+00:44:42,110 --> 00:44:43,610
+therapeutic is a nightmare.
+
+1031
+00:44:43,750 --> 00:44:44,290
+Pengfei Song: You know what it threw me off?
+
+1032
+00:44:44,290 --> 00:44:47,170
+Keith Murphy: There's like, there's like ensembles and frames and all these-
+
+1033
+00:44:47,170 --> 00:44:47,670
+Pengfei Song: Right
+
+1034
+00:44:47,210 --> 00:44:49,270
+Keith Murphy: ... terms that just don't... And bursts.
+
+1035
+00:44:49,330 --> 00:44:52,770
+That fr- that definition does not really exist anywhere.
+
+1036
+00:44:52,970 --> 00:44:54,930
+There is no true definition of a burst.
+
+1037
+00:44:55,850 --> 00:44:56,350
+Pengfei Song: Right.
+
+1038
+00:44:55,910 --> 00:44:58,750
+Charles Caskey: For, uh, I think an imaging person would disagree.
+
+1039
+00:44:58,770 --> 00:44:59,270
+[laughs]
+
+1040
+00:44:58,830 --> 00:44:59,930
+Pengfei Song: A bur-- Well, we-
+
+1041
+00:45:00,990 --> 00:45:03,450
+Keith Murphy: What do they say? Is it true, Pengfei?
+
+1042
+00:45:03,590 --> 00:45:06,070
+Pengfei Song: We, we call that a pulse train.
+
+1043
+00:45:06,070 --> 00:45:07,470
+[laughs] You know, or-
+
+1044
+00:45:07,870 --> 00:45:08,470
+Charles Caskey: Yeah, pulse, a little pulse train.
+
+1045
+00:45:08,470 --> 00:45:08,970
+Keith Murphy: You see?
+
+1046
+00:45:08,530 --> 00:45:09,710
+Charles Caskey: Little Doppler pulse train.
+
+1047
+00:45:09,930 --> 00:45:10,430
+Keith Murphy: Yeah.
+
+1048
+00:45:10,230 --> 00:45:10,730
+Charles Caskey: Yeah.
+
+1049
+00:45:10,270 --> 00:45:12,770
+Pengfei Song: A pulse train, right. Uh, yeah.
+
+1050
+00:45:13,010 --> 00:45:14,530
+I don't know. Yeah, it's confusing.
+
+1051
+00:45:14,650 --> 00:45:15,930
+I, I admit, I, I had to-
+
+1052
+00:45:15,990 --> 00:45:16,490
+Charles Caskey: So-
+
+1053
+00:45:16,970 --> 00:45:20,990
+Pengfei Song: I had to pause your pod-podcast actually several times to actually think what you
+
+1054
+00:45:21,030 --> 00:45:26,090
+guys are talking about, where you have this carrier frequency, you know, and then,
+
+1055
+00:45:26,190 --> 00:45:31,010
+uh, this envelope. I was like, okay, 'cause for me, carrier frequency, oh, yeah,
+
+1056
+00:45:31,150 --> 00:45:34,570
+five megahertz, right? And then the envelope is the speckle, right?
+
+1057
+00:45:34,670 --> 00:45:36,250
+You know, and then what are they talking about?
+
+1058
+00:45:36,310 --> 00:45:38,870
+And anyway, I think I, I think I got it eventually.
+
+1059
+00:45:38,910 --> 00:45:39,550
+Keith Murphy: We made it up.
+
+1060
+00:45:39,850 --> 00:45:43,790
+Charles Caskey: I, I lo- I love that our, our effort to do an accessible discussion
+
+1061
+00:45:43,850 --> 00:45:48,190
+about the, on this has confused a, a top imaging scientist.
+
+1062
+00:45:48,190 --> 00:45:49,230
+[laughs]
+
+1063
+00:45:49,270 --> 00:45:52,990
+Pengfei Song: It's confused, I think you guys, this, this, because it's confusing, I admit.
+
+1064
+00:45:53,070 --> 00:45:56,830
+Because if you pull out the paper, like you see this, oh, square pulse.
+
+1065
+00:45:56,910 --> 00:45:58,750
+Oh, you zoom in. Oh, yeah, there.
+
+1066
+00:45:58,750 --> 00:45:59,570
+Keith Murphy: It's, it's confusing. It's ridiculous.
+
+1067
+00:45:59,570 --> 00:46:01,670
+Pengfei Song: Duty cycle, pulse length, number of cycles.
+
+1068
+00:46:01,970 --> 00:46:04,510
+Wait, wait, why, why is that 60%?
+
+1069
+00:46:04,610 --> 00:46:05,750
+They're doing what, what, what are they-
+
+1070
+00:46:05,750 --> 00:46:06,330
+Keith Murphy: No one knows. No one knows.
+
+1071
+00:46:07,710 --> 00:46:08,210
+Charles Caskey: Right.
+
+1072
+00:46:09,670 --> 00:46:10,930
+Pengfei Song: It's, it's complicated.
+
+1073
+00:46:11,050 --> 00:46:14,750
+Charles Caskey: Well, 'cause there's a strong rationale in Doppler as to like w- how long
+
+1074
+00:46:14,810 --> 00:46:15,790
+you would use the pulse- Yeah ...
+
+1075
+00:46:15,810 --> 00:46:19,830
+how fast you'd repeat them. There's like this rationale related to like the amount
+
+1076
+00:46:19,850 --> 00:46:23,610
+of speckle, the SNR, the, um, the speed of the blood that you wanna
+
+1077
+00:46:23,630 --> 00:46:24,630
+detect. There's like, so-
+
+1078
+00:46:24,630 --> 00:46:25,130
+Keith Murphy: It makes a lot of sense in imaging
+
+1079
+00:46:24,870 --> 00:46:25,830
+Charles Caskey: ... yeah, it makes a lot of sense.
+
+1080
+00:46:25,870 --> 00:46:30,130
+And then it's like you use the same structure of pulses with like completely
+
+1081
+00:46:30,170 --> 00:46:32,490
+seemingly arbitrary decisions. [laughs]
+
+1082
+00:46:32,630 --> 00:46:33,630
+Pengfei Song: Right. Right. Yeah.
+
+1083
+00:46:33,670 --> 00:46:37,290
+Keith Murphy: It's true. Um, I wanted to talk about the, the physics, though.
+
+1084
+00:46:37,490 --> 00:46:40,610
+If you have a, a double PRF within this...
+
+1085
+00:46:41,370 --> 00:46:45,070
+Man, it's hard to describe. Within this low frequency thing, there's a bunch of
+
+1086
+00:46:45,110 --> 00:46:47,490
+little like [rolling r] that's like that double part.
+
+1087
+00:46:48,190 --> 00:46:52,030
+So the tissue, if it's moving, it's kind of moving back and forth as
+
+1088
+00:46:52,070 --> 00:46:56,130
+it radiates forward. And there, you know, there may be an argument that if
+
+1089
+00:46:56,190 --> 00:47:00,190
+you had just a continuous wave pushing it all the way forward and stopping,
+
+1090
+00:47:00,330 --> 00:47:04,630
+because it, the tissue can only expand so much, versus the PRF that has
+
+1091
+00:47:04,670 --> 00:47:06,850
+to sort of vibrate as it extends out.
+
+1092
+00:47:07,510 --> 00:47:10,010
+Do you think that would have different effects?
+
+1093
+00:47:10,070 --> 00:47:13,710
+Charles did a study and said no, but Pengfei, you said it could generate
+
+1094
+00:47:14,170 --> 00:47:16,390
+shear waves each time it, it's pulsed, right?
+
+1095
+00:47:16,390 --> 00:47:20,450
+Pengfei Song: 'Cause to me, if you just keep that poking force there and you don't
+
+1096
+00:47:20,470 --> 00:47:23,310
+release it, the tissue does not recover, right?
+
+1097
+00:47:23,850 --> 00:47:26,070
+So I don't think you're gonna generate shear waves that way.
+
+1098
+00:47:26,230 --> 00:47:26,730
+So usually-
+
+1099
+00:47:26,730 --> 00:47:27,230
+Keith Murphy: Okay. I like this
+
+1100
+00:47:27,010 --> 00:47:29,650
+Pengfei Song: ... for shear generation, you tap it, right?
+
+1101
+00:47:30,110 --> 00:47:31,650
+And you have the push and release, right?
+
+1102
+00:47:31,710 --> 00:47:36,110
+So that's the, the underlying nested PRF thing you guys are talking about.
+
+1103
+00:47:36,210 --> 00:47:38,090
+To me, you need to release that.
+
+1104
+00:47:38,170 --> 00:47:43,350
+You need to tap that. Uh, i-if you just do continuous, to me, you're,
+
+1105
+00:47:43,510 --> 00:47:47,130
+you're just basically holding onto your, your radiation force, right?
+
+1106
+00:47:47,190 --> 00:47:48,710
+You, you, you're holding onto the press.
+
+1107
+00:47:49,030 --> 00:47:50,090
+You're not releasing it.
+
+1108
+00:47:50,550 --> 00:47:51,050
+Keith Murphy: Yes.
+
+1109
+00:47:50,590 --> 00:47:51,090
+Pengfei Song: Right?
+
+1110
+00:47:51,230 --> 00:47:53,350
+Charles Caskey: And you get one release. So I wanna just, it's like just one release,
+
+1111
+00:47:53,350 --> 00:47:53,850
+just a shear wave.
+
+1112
+00:47:53,370 --> 00:47:56,510
+Pengfei Song: One release. The last release will generate a transient shear wave.
+
+1113
+00:47:56,710 --> 00:47:57,210
+Keith Murphy: Yeah.
+
+1114
+00:47:56,870 --> 00:48:00,190
+Pengfei Song: That is a technology. Well, that, that's, you know, uh, I think people have
+
+1115
+00:48:00,190 --> 00:48:00,690
+done that.
+
+1116
+00:48:00,190 --> 00:48:02,730
+Keith Murphy: Yeah. Can, can you guys do it with your hands so that if, if
+
+1117
+00:48:02,770 --> 00:48:05,110
+anyone has their video open, if you don't, open your video.
+
+1118
+00:48:05,270 --> 00:48:06,630
+Not if you're driving, that's not safe.
+
+1119
+00:48:07,050 --> 00:48:10,950
+But it's like it pushes, so the wave's on, and then when it releases,
+
+1120
+00:48:11,030 --> 00:48:12,830
+it fwooh, kind of what the elbow does.
+
+1121
+00:48:12,870 --> 00:48:14,830
+Charles Caskey: Yeah. I, I think goes like- It goes that way
+
+1122
+00:48:14,850 --> 00:48:15,350
+Pengfei Song: ... sideways.
+
+1123
+00:48:15,030 --> 00:48:16,130
+Charles Caskey: Go, goes that way. Yeah.
+
+1124
+00:48:16,450 --> 00:48:16,950
+Pengfei Song: Yeah.
+
+1125
+00:48:16,590 --> 00:48:17,090
+Charles Caskey: Yeah.
+
+1126
+00:48:16,690 --> 00:48:18,530
+Keith Murphy: But, but the, you know, you get what I'm saying here.
+
+1127
+00:48:18,650 --> 00:48:19,150
+Pengfei Song: Yeah, yeah.
+
+1128
+00:48:19,270 --> 00:48:19,770
+Charles Caskey: Yeah. Mm-hmm.
+
+1129
+00:48:19,730 --> 00:48:20,450
+Pengfei Song: Oh, yeah, yeah. Also-
+
+1130
+00:48:20,690 --> 00:48:27,090
+Keith Murphy: So, so that's a rationale for saying that tissue outside of the focus may
+
+1131
+00:48:27,130 --> 00:48:29,970
+be impacted more by the shear wave than the release.
+
+1132
+00:48:29,970 --> 00:48:31,570
+Pengfei Song: That's what I'm curious about. That's what I'm curious about.
+
+1133
+00:48:31,610 --> 00:48:32,430
+Keith Murphy: I think it's reasonable.
+
+1134
+00:48:32,890 --> 00:48:33,390
+Pengfei Song: Right? You know-
+
+1135
+00:48:33,210 --> 00:48:36,290
+Keith Murphy: So maybe our, our argument of the PRF was not fully correct.
+
+1136
+00:48:36,390 --> 00:48:42,570
+Yes, it creates auditory effects, but it also may create more possibility of fluid
+
+1137
+00:48:42,670 --> 00:48:45,370
+flow outside of the focus or neuromodulation even.
+
+1138
+00:48:46,050 --> 00:48:48,130
+But definitely sound. You said we're hearing it.
+
+1139
+00:48:48,470 --> 00:48:51,090
+We're definitely hearing those shear waves, uh, when they hit the skull.
+
+1140
+00:48:51,690 --> 00:48:52,670
+Pengfei Song: Okay. Okay.
+
+1141
+00:48:53,010 --> 00:48:53,510
+Keith Murphy: I agree.
+
+1142
+00:48:53,690 --> 00:48:58,210
+Pengfei Song: That, that I can see because, you know, you guys are, uh, it's a
+
+1143
+00:48:58,250 --> 00:49:03,390
+decent push-pulse to me because, you know, another thing is that you can't spread
+
+1144
+00:49:03,470 --> 00:49:08,710
+out this pulse to... I mean, to generate effective, like, radiation force to actually
+
+1145
+00:49:08,770 --> 00:49:12,610
+move the tissue, you have to have hundreds of microseconds of duration of pulse.
+
+1146
+00:49:13,030 --> 00:49:15,310
+You can't just say, "Okay, I'm gonna turn on this one microsecond.
+
+1147
+00:49:15,630 --> 00:49:18,210
+I'm going to rest for 10 microseconds, do another one microsecond."
+
+1148
+00:49:18,610 --> 00:49:23,390
+You have to keep this pulse on for, you know, several hundred microseconds, even
+
+1149
+00:49:23,430 --> 00:49:25,590
+to several milliseconds, and then release, right?
+
+1150
+00:49:25,650 --> 00:49:29,830
+So to me, anything higher, so if you do one millisecond, this is like
+
+1151
+00:49:29,890 --> 00:49:33,110
+one kilohertz, right? So, uh, otherwise you're too weak.
+
+1152
+00:49:33,190 --> 00:49:34,750
+The pulse is too weak to move the tissue.
+
+1153
+00:49:34,810 --> 00:49:36,650
+Then you're basically oscillating the particles.
+
+1154
+00:49:37,070 --> 00:49:39,130
+You're not actually pushing them, right?
+
+1155
+00:49:39,210 --> 00:49:43,510
+They always recover to the, uh, you know, equilibrium, you know, basically where, where,
+
+1156
+00:49:43,650 --> 00:49:48,010
+where they start with. But, you know, to me, this is, you know, Elisa
+
+1157
+00:49:48,050 --> 00:49:50,730
+has done that. Uh, Shigao and James Greenleaf have done that.
+
+1158
+00:49:51,070 --> 00:49:54,110
+The early version of the shear wave elastography, people were all doing this kind
+
+1159
+00:49:54,150 --> 00:49:57,690
+of like, uh, you know, continuous, uh, you know, uh, repeated push at a
+
+1160
+00:49:57,710 --> 00:50:01,370
+certain frequency. And then there you can generate a shear wave at the corresponding
+
+1161
+00:50:01,430 --> 00:50:05,850
+frequency, right? And that wave can propagate, you know, several CM, you know, tens
+
+1162
+00:50:05,890 --> 00:50:08,250
+of CM, you know, depending on how strong shear wave you're generating.
+
+1163
+00:50:08,310 --> 00:50:11,310
+So to me, those shear waves are also shearing the tissue, right?
+
+1164
+00:50:11,410 --> 00:50:14,290
+So are they also stimulating neurons?
+
+1165
+00:50:14,450 --> 00:50:18,070
+Keith Murphy: So you're saying 100 microseconds is enough to get that push-pull shear wave?
+
+1166
+00:50:18,450 --> 00:50:21,850
+Pengfei Song: Yeah, you have to have... You know, the lowest I've done is probably 100,
+
+1167
+00:50:22,090 --> 00:50:24,670
+150 microseconds, you know, for the-
+
+1168
+00:50:24,750 --> 00:50:25,250
+Keith Murphy: Yeah
+
+1169
+00:50:24,930 --> 00:50:26,850
+Pengfei Song: ... radiation force imaging and for shear wave.
+
+1170
+00:50:27,330 --> 00:50:32,090
+Uh, for that, in a soft tissue, for example, um, something like liver-
+
+1171
+00:50:32,850 --> 00:50:33,350
+Keith Murphy: Mm-hmm
+
+1172
+00:50:32,870 --> 00:50:36,310
+Pengfei Song: ... you know, a couple hundred microseconds will give you maybe several microns of
+
+1173
+00:50:36,370 --> 00:50:41,510
+motion at the push beam. If you do, say, 800 microseconds or milliseconds, you
+
+1174
+00:50:41,530 --> 00:50:46,370
+can have, you know, tens of microsecond, uh, micrometers, microns of tissue motion.
+
+1175
+00:50:47,010 --> 00:50:50,030
+Um, you know, but that's just another thing, you know, I keep thinking about.
+
+1176
+00:50:50,750 --> 00:50:54,090
+If you're the neurons under the push beam, the push beam-
+
+1177
+00:50:54,110 --> 00:50:54,610
+Keith Murphy: Mm-hmm
+
+1178
+00:50:54,270 --> 00:50:56,030
+Pengfei Song: ... is pretty big, several millimeters, right?
+
+1179
+00:50:56,350 --> 00:50:58,790
+You don't sense that, 'cause you're being moved as a group, right?
+
+1180
+00:50:58,890 --> 00:50:59,390
+So [chuckles]
+
+1181
+00:50:59,370 --> 00:50:59,870
+Keith Murphy: Yeah
+
+1182
+00:50:59,490 --> 00:51:01,330
+Pengfei Song: ... in this crowd of people, you're being pushed forward.
+
+1183
+00:51:01,690 --> 00:51:03,490
+I think it's the boundaries, right?
+
+1184
+00:51:03,790 --> 00:51:06,270
+You know, some... With the surrounding, uh, brain tissue.
+
+1185
+00:51:06,270 --> 00:51:09,990
+Keith Murphy: Wait. Oh, so you're saying, you're saying the PRF shear waves are generating more
+
+1186
+00:51:10,070 --> 00:51:12,870
+off-target effects even than Charles and I had thought about.
+
+1187
+00:51:13,650 --> 00:51:14,270
+Is that what you're saying?
+
+1188
+00:51:14,690 --> 00:51:17,670
+Pengfei Song: You... No, what I'm saying, right at the center of the push beam, the
+
+1189
+00:51:17,730 --> 00:51:22,510
+neurons cannot experience anything because they are being moved as a group, as an
+
+1190
+00:51:22,570 --> 00:51:23,550
+ensemble, right?
+
+1191
+00:51:23,930 --> 00:51:24,430
+Keith Murphy: Yeah.
+
+1192
+00:51:23,970 --> 00:51:27,990
+Pengfei Song: It's at the boundaries, like where you have the surrounding neurons that are not
+
+1193
+00:51:28,010 --> 00:51:30,870
+being moved, to me. Yeah. That's, you know, my view of this.
+
+1194
+00:51:31,470 --> 00:51:34,910
+Compared to the neurons that are being moved inside that push beam or the
+
+1195
+00:51:34,950 --> 00:51:39,250
+focus beam. That's where they sense, "Oh, my body are being moved next to
+
+1196
+00:51:39,290 --> 00:51:43,650
+me. I'm not." But if you think about that gap, it's still a millimeter
+
+1197
+00:51:43,750 --> 00:51:45,090
+size gap. You know, that, that...
+
+1198
+00:51:45,170 --> 00:51:50,310
+You're talking about a gradient that's, you know, maybe millimeter, half millimeter, right?
+
+1199
+00:51:50,410 --> 00:51:55,890
+So I wonder, you know, why, you know, maybe that's why standing waves work
+
+1200
+00:51:55,930 --> 00:51:58,630
+better, because if you look at a standing wave, you have a lot of
+
+1201
+00:51:58,670 --> 00:51:59,290
+this, like, you know-
+
+1202
+00:51:59,310 --> 00:52:00,110
+Charles Caskey: A lot of gradient. Yeah
+
+1203
+00:52:00,110 --> 00:52:01,130
+Pengfei Song: ... a lot of gradients, right?
+
+1204
+00:52:01,290 --> 00:52:01,790
+You know.
+
+1205
+00:52:01,590 --> 00:52:02,090
+Charles Caskey: Mm-hmm.
+
+1206
+00:52:02,250 --> 00:52:05,610
+Pengfei Song: Um, yeah, I'm, I'm just, that's why I'm, I'm fascinated.
+
+1207
+00:52:05,730 --> 00:52:09,670
+I, I... In my head, there's this simulation, you see basically peaks and troughs,
+
+1208
+00:52:09,770 --> 00:52:11,450
+peaks and troughs. They're standing there.
+
+1209
+00:52:11,490 --> 00:52:11,990
+Charles Caskey: Yeah.
+
+1210
+00:52:11,510 --> 00:52:12,910
+Pengfei Song: They don't move, right?
+
+1211
+00:52:12,950 --> 00:52:13,450
+Keith Murphy: Uh-huh.
+
+1212
+00:52:13,110 --> 00:52:18,390
+Pengfei Song: And that to me creates this, um, you know, constant shearing or gradient or
+
+1213
+00:52:18,530 --> 00:52:20,130
+strain, however you wanna call that, right?
+
+1214
+00:52:20,430 --> 00:52:25,130
+Right at those transition between a positive displacement and active displacement, right?
+
+1215
+00:52:25,330 --> 00:52:25,830
+So-
+
+1216
+00:52:25,670 --> 00:52:29,130
+Keith Murphy: So, so you think that two waves coming towards each other would create a
+
+1217
+00:52:29,190 --> 00:52:32,390
+lot more local strain than one field pushing forward?
+
+1218
+00:52:32,450 --> 00:52:35,950
+'Cause there's a big distinction. A lot of groups are saying, "Should I use
+
+1219
+00:52:36,050 --> 00:52:40,830
+one transducer and push or should I use two and create a cross beam?"
+
+1220
+00:52:41,250 --> 00:52:42,610
+Pengfei Song: If I'm looking at the radiation force,
+
+1221
+00:52:42,630 --> 00:52:43,250
+Keith Murphy: I- Team cross beam here
+
+1222
+00:52:43,270 --> 00:52:45,690
+Pengfei Song: ... I think the standing wave makes a lot of sense.
+
+1223
+00:52:45,990 --> 00:52:47,150
+If I, I'm, I'm just guessing.
+
+1224
+00:52:47,170 --> 00:52:47,670
+Keith Murphy: Nice.
+
+1225
+00:52:47,270 --> 00:52:48,110
+Pengfei Song: Again, I'm just observer.
+
+1226
+00:52:48,150 --> 00:52:48,690
+Keith Murphy: No, I love it. [laughs]
+
+1227
+00:52:48,750 --> 00:52:52,550
+Pengfei Song: I'm just looking. I have done zero, right, experiment.
+
+1228
+00:52:52,930 --> 00:52:55,790
+But to me, I look at the simulation, look at the, the gradient, look
+
+1229
+00:52:55,830 --> 00:52:56,330
+at the strain.
+
+1230
+00:52:56,230 --> 00:52:56,730
+Keith Murphy: Yeah.
+
+1231
+00:52:56,290 --> 00:52:59,590
+Pengfei Song: I'm like, if that's what's happening, 'cause I'm thinking about if I'm neuron there,
+
+1232
+00:53:00,010 --> 00:53:01,930
+I want it to be there to be stimulated.
+
+1233
+00:53:02,030 --> 00:53:04,390
+But how do I create those, like, a nulls or whatever?
+
+1234
+00:53:04,490 --> 00:53:05,850
+I, I just do a standing wave.
+
+1235
+00:53:06,010 --> 00:53:06,550
+I think that makes perfect sense, right?
+
+1236
+00:53:06,570 --> 00:53:07,870
+Keith Murphy: What if, what happens with the helmet?
+
+1237
+00:53:08,190 --> 00:53:11,850
+What happens with the helmet where all the sources are coming from a hemisphere?
+
+1238
+00:53:11,870 --> 00:53:13,830
+Pengfei Song: Uh, it, I think for standing wave, it's pretty tricky, right?
+
+1239
+00:53:13,870 --> 00:53:16,770
+You have to have the equal distance that they have to fire together, and
+
+1240
+00:53:16,810 --> 00:53:18,970
+all the speed of sound thing has to work out.
+
+1241
+00:53:19,070 --> 00:53:19,570
+Keith Murphy: Yeah.
+
+1242
+00:53:19,210 --> 00:53:20,390
+Pengfei Song: So they have to meet, right?
+
+1243
+00:53:20,470 --> 00:53:23,110
+They, they have to be exactly, like, out of phase or whatever.
+
+1244
+00:53:23,230 --> 00:53:24,510
+I, I forgot the, the equation.
+
+1245
+00:53:25,050 --> 00:53:27,470
+Uh, I don't think that... Those helmet are still a focused beam, right?
+
+1246
+00:53:27,710 --> 00:53:28,350
+They are still doing-
+
+1247
+00:53:28,430 --> 00:53:28,930
+Charles Caskey: Yeah
+
+1248
+00:53:28,570 --> 00:53:29,510
+Pengfei Song: ... a single focused beam.
+
+1249
+00:53:29,630 --> 00:53:30,130
+Charles Caskey: Yeah.
+
+1250
+00:53:29,670 --> 00:53:31,990
+Pengfei Song: It's a, it's, uh, not a standing wave.
+
+1251
+00:53:32,870 --> 00:53:36,550
+Charles Caskey: Yep. And, and so I think the thing, you end up with, like, a
+
+1252
+00:53:36,690 --> 00:53:39,970
+small focus, and so you end up with your, your gradients, yeah, and a
+
+1253
+00:53:40,030 --> 00:53:44,450
+sharper focus. So you do end up with these, these nice gradients, but they're
+
+1254
+00:53:44,490 --> 00:53:47,650
+not gonna be... It's very different than, yeah, where if you have a standing
+
+1255
+00:53:47,690 --> 00:53:51,910
+wave, you have a lot of those, those gradient peaks, and they're spread over
+
+1256
+00:53:51,970 --> 00:53:56,390
+a, a bigger space. And so it's, yeah, it's, uh, they're fundamentally different.
+
+1257
+00:53:56,590 --> 00:53:57,090
+Uh-
+
+1258
+00:53:57,410 --> 00:54:01,210
+Pengfei Song: Yeah. Kim told me a study where, like, I think she told me that,
+
+1259
+00:54:01,390 --> 00:54:05,270
+like, if you just look at, I think it's, like, a single membrane.
+
+1260
+00:54:05,390 --> 00:54:09,730
+I, I maybe reciting this, you know, uh, in the wrong way.
+
+1261
+00:54:09,910 --> 00:54:13,690
+But if you look at the center of the, the beam, the response is
+
+1262
+00:54:13,750 --> 00:54:14,790
+lower than, you know-
+
+1263
+00:54:15,250 --> 00:54:15,750
+Charles Caskey: Mm-hmm
+
+1264
+00:54:15,290 --> 00:54:16,590
+Pengfei Song: ... just off center a little bit.
+
+1265
+00:54:16,670 --> 00:54:20,750
+I, I, you know, may- maybe I'm recalling this incorrectly, but I, that's my
+
+1266
+00:54:20,770 --> 00:54:22,870
+recollection. But to me, that makes perfect sense, right?
+
+1267
+00:54:22,890 --> 00:54:26,430
+Yeah. And, and also to me, if you think about, I see like a
+
+1268
+00:54:26,550 --> 00:54:30,710
+membrane. I see ion channel. I see a ultrasound beam on the ion channel-
+
+1269
+00:54:30,850 --> 00:54:31,350
+Charles Caskey: Pushing it
+
+1270
+00:54:31,290 --> 00:54:34,490
+Pengfei Song: ... and bending the membrane. To me, that was like, hmm, I have, I
+
+1271
+00:54:34,510 --> 00:54:37,270
+think the scale might be a little bit off to me, maybe because, you
+
+1272
+00:54:37,470 --> 00:54:39,710
+know. [laughs] Right? But, but, but I get the point, right?
+
+1273
+00:54:39,790 --> 00:54:42,970
+But that, back, back to what I'm thinking, so y- you see where I
+
+1274
+00:54:43,010 --> 00:54:45,550
+am. I'm just reading a bunch of, like, information- Well- ...
+
+1275
+00:54:45,550 --> 00:54:46,050
+cut.
+
+1276
+00:54:45,570 --> 00:54:46,590
+Keith Murphy: No, you're not wrong about that.
+
+1277
+00:54:46,950 --> 00:54:47,450
+Charles Caskey: No, I-
+
+1278
+00:54:47,310 --> 00:54:48,490
+Keith Murphy: Those are bad diagrams.
+
+1279
+00:54:48,750 --> 00:54:52,330
+Charles Caskey: No, you, you always have to consider scale when you think of biology and
+
+1280
+00:54:52,390 --> 00:54:57,050
+physics. And, and, like, yeah, the thought that, that ultrasound is poking on something
+
+1281
+00:54:57,090 --> 00:55:02,730
+that's, like, a little, you know, uh, mechanosensitive ion channel on a cell is,
+
+1282
+00:55:03,050 --> 00:55:07,170
+is not a fact. I mean, it's just not happening [chuckles] like that.
+
+1283
+00:55:07,250 --> 00:55:09,050
+Pengfei Song: Yeah. Keith, let me ask you a question.
+
+1284
+00:55:09,070 --> 00:55:11,050
+You keep using the word potentiating.
+
+1285
+00:55:11,590 --> 00:55:14,550
+Uh, what do you mean by potentiating the ion channels?
+
+1286
+00:55:15,210 --> 00:55:15,990
+I really like the word-
+
+1287
+00:55:16,130 --> 00:55:16,670
+Charles Caskey: I don't, I don't even-
+
+1288
+00:55:16,670 --> 00:55:18,310
+Pengfei Song: ... but I don't understand what, what it m- what do you mean by
+
+1289
+00:55:18,370 --> 00:55:18,870
+that?
+
+1290
+00:55:19,570 --> 00:55:23,030
+Keith Murphy: Potentiating ion channels? I don't remember using that word, but I'll try to answer
+
+1291
+00:55:23,210 --> 00:55:25,130
+what I would've [laughs] said.
+
+1292
+00:55:25,850 --> 00:55:27,110
+Charles Caskey: It just blows out of your mouth.
+
+1293
+00:55:27,170 --> 00:55:28,090
+You don't even take note.
+
+1294
+00:55:28,390 --> 00:55:30,810
+Pengfei Song: I, I, it sounds really, it sounds really elegant.
+
+1295
+00:55:30,830 --> 00:55:31,610
+[laughs]
+
+1296
+00:55:31,690 --> 00:55:34,670
+Keith Murphy: Um, I might have said potentiating neurons and-
+
+1297
+00:55:34,830 --> 00:55:35,330
+Pengfei Song: Right
+
+1298
+00:55:34,930 --> 00:55:40,370
+Keith Murphy: ... uh, that, that term really means that if you create ionic flow that
+
+1299
+00:55:40,710 --> 00:55:46,430
+lowers the differential ionic gradient across the membrane, they're closer to what's called the
+
+1300
+00:55:46,470 --> 00:55:48,570
+sort of reversal potential where they fire.
+
+1301
+00:55:48,990 --> 00:55:53,290
+Like, they basically drift right below this negative 70 millivolts.
+
+1302
+00:55:53,350 --> 00:55:56,710
+They kind of sway, and if they clip negative 70 or a little bit
+
+1303
+00:55:56,770 --> 00:55:59,970
+above, most neurons will start to go really positive.
+
+1304
+00:56:00,170 --> 00:56:01,150
+They'll depolarize.
+
+1305
+00:56:01,650 --> 00:56:02,150
+Pengfei Song: Okay.
+
+1306
+00:56:01,710 --> 00:56:04,990
+Keith Murphy: So potentiation means if you get a little bit of ion flow, it gets
+
+1307
+00:56:05,050 --> 00:56:09,710
+closer to that, that boundary. So you're potentiating sort of activity.
+
+1308
+00:56:10,050 --> 00:56:11,470
+You're getting it closer to that threshold.
+
+1309
+00:56:11,830 --> 00:56:14,550
+I might have just totally made all that up, but that's how I-- that's,
+
+1310
+00:56:14,730 --> 00:56:15,830
+if I said it, that's what I meant.
+
+1311
+00:56:15,890 --> 00:56:16,510
+[laughs]
+
+1312
+00:56:16,570 --> 00:56:17,070
+Pengfei Song: Okay.
+
+1313
+00:56:17,870 --> 00:56:18,390
+Keith Murphy: That's what I meant.
+
+1314
+00:56:18,790 --> 00:56:22,050
+Pengfei Song: I, I, I thought, you know, I don't know, somehow I- I'm linking that
+
+1315
+00:56:22,110 --> 00:56:24,790
+to this kind of like a shearing strain, whatever.
+
+1316
+00:56:25,410 --> 00:56:30,470
+You're stretching the membrane or whatever, changing the, uh, the structure of the ion
+
+1317
+00:56:30,570 --> 00:56:32,290
+channel. Maybe that causes, you know-
+
+1318
+00:56:32,370 --> 00:56:34,230
+Keith Murphy: I don't think... I, I agree with you.
+
+1319
+00:56:34,410 --> 00:56:38,470
+I don't think ion channels ever change because of membrane movement.
+
+1320
+00:56:38,630 --> 00:56:41,670
+I think there's a net mixing of the membrane.
+
+1321
+00:56:41,710 --> 00:56:43,830
+Like, the cells have to do something.
+
+1322
+00:56:43,970 --> 00:56:48,010
+Maybe they lightly squeeze or they, I don't know, they're rattling around.
+
+1323
+00:56:48,490 --> 00:56:53,030
+But cells are like fluid. They're not-- They're like a waxy fluid, and within
+
+1324
+00:56:53,070 --> 00:56:58,650
+the cell, the cell wants to aggregate these little rafts where it holds enzymes,
+
+1325
+00:56:59,130 --> 00:57:02,030
+and if you add energy to the membrane in any way, these rafts, like,
+
+1326
+00:57:02,110 --> 00:57:08,110
+explode, and there's all these chemical reactions, and the chemical reactions will actually ungate
+
+1327
+00:57:08,210 --> 00:57:10,870
+ion channels. So it's not that the ion channels-
+
+1328
+00:57:10,890 --> 00:57:11,390
+Pengfei Song: Okay
+
+1329
+00:57:11,110 --> 00:57:12,230
+Keith Murphy: ... mechanically open.
+
+1330
+00:57:12,490 --> 00:57:12,990
+Pengfei Song: Okay.
+
+1331
+00:57:12,770 --> 00:57:16,790
+Keith Murphy: They actually, they chemically ungate, which we know chemically is, you know, it's super
+
+1332
+00:57:16,910 --> 00:57:19,970
+fast. It's very measurable, all this stuff.
+
+1333
+00:57:20,530 --> 00:57:22,210
+So I, I like what you guys are saying.
+
+1334
+00:57:22,290 --> 00:57:26,470
+It actually, Seung-Schik Yoo used to say ultrasound, he thinks it's like a shrimp
+
+1335
+00:57:26,550 --> 00:57:30,270
+riding a sea wave. Weird metaphor for sure, but it's not wrong.
+
+1336
+00:57:30,450 --> 00:57:31,030
+[laughs]
+
+1337
+00:57:31,210 --> 00:57:32,590
+Charles Caskey: Yeah, yeah. No, he's totally right.
+
+1338
+00:57:32,630 --> 00:57:33,130
+Yeah, yeah.
+
+1339
+00:57:32,990 --> 00:57:34,570
+Keith Murphy: He used to say that. I was like, that's-
+
+1340
+00:57:34,710 --> 00:57:36,090
+Charles Caskey: This, this little tiny cell-
+
+1341
+00:57:36,090 --> 00:57:36,590
+Keith Murphy: You're not wrong, man
+
+1342
+00:57:36,450 --> 00:57:37,390
+Charles Caskey: ... with this huge wave.
+
+1343
+00:57:37,550 --> 00:57:40,570
+Keith Murphy: Pengfei, I should-- We should just be talking to you more to think about
+
+1344
+00:57:40,830 --> 00:57:44,190
+physics of scale, and I think we just all need to sit and talk
+
+1345
+00:57:44,290 --> 00:57:46,590
+more about this stuff. I think we're making progress here.
+
+1346
+00:57:47,170 --> 00:57:48,690
+Pengfei Song: Yeah, I mean, I, I think, I, I-
+
+1347
+00:57:49,010 --> 00:57:49,510
+Keith Murphy: Yeah
+
+1348
+00:57:49,170 --> 00:57:51,930
+Pengfei Song: ... apparently it works somehow, you know.
+
+1349
+00:57:52,190 --> 00:57:52,690
+So...
+
+1350
+00:57:53,270 --> 00:57:55,970
+Keith Murphy: Pengfei, can you talk about your Journal of Neuroscience paper?
+
+1351
+00:57:56,170 --> 00:58:00,170
+I loved it. Um, you were using your technology to image the hippocampus.
+
+1352
+00:58:00,390 --> 00:58:00,890
+Pengfei Song: Yeah.
+
+1353
+00:58:01,330 --> 00:58:04,110
+Keith Murphy: And you were working with an Alzheimer's disease mouse model.
+
+1354
+00:58:04,130 --> 00:58:04,630
+Pengfei Song: Right, right.
+
+1355
+00:58:04,350 --> 00:58:04,970
+Keith Murphy: Yeah. Is that right?
+
+1356
+00:58:05,010 --> 00:58:05,510
+Pengfei Song: Yeah.
+
+1357
+00:58:05,090 --> 00:58:06,110
+Keith Murphy: Can you talk about that paper?
+
+1358
+00:58:06,150 --> 00:58:07,110
+I thought that was awesome.
+
+1359
+00:58:07,290 --> 00:58:07,790
+Pengfei Song: Mm-hmm.
+
+1360
+00:58:07,610 --> 00:58:08,530
+Keith Murphy: I wanna see more of that.
+
+1361
+00:58:09,070 --> 00:58:11,930
+Pengfei Song: Well, I, I, well, I mean, it's, it's a solid study.
+
+1362
+00:58:11,950 --> 00:58:14,930
+It's 5xFAD, right? I think, um, you know-
+
+1363
+00:58:14,950 --> 00:58:17,630
+Keith Murphy: So 5xFAD is like a, an Alzheimer's disease mouse.
+
+1364
+00:58:17,650 --> 00:58:18,330
+Pengfei Song: Alzheimer's mouse.
+
+1365
+00:58:18,530 --> 00:58:22,650
+Keith Murphy: They have, they have, uh, fast accumulation of amyloid plaques and things or-
+
+1366
+00:58:22,770 --> 00:58:23,270
+Pengfei Song: Amyloid, yeah.
+
+1367
+00:58:22,990 --> 00:58:23,490
+Keith Murphy: Okay.
+
+1368
+00:58:23,070 --> 00:58:26,890
+Pengfei Song: It's like, uh, my collaborator, Daniel Llano, would use this like a Fri- what,
+
+1369
+00:58:27,190 --> 00:58:31,190
+Frankenstein study model of [laughs] like Alzheimer's, like 5X, right?
+
+1370
+00:58:31,310 --> 00:58:31,810
+So it's a-
+
+1371
+00:58:32,030 --> 00:58:32,690
+Keith Murphy: Yeah. Wow
+
+1372
+00:58:32,730 --> 00:58:36,150
+Pengfei Song: ... it, it has, you know, probably not five times more, uh, amyloid beta,
+
+1373
+00:58:36,250 --> 00:58:41,510
+but way, way more, you know, amyloid beta than w- actually human Alzheimer patient
+
+1374
+00:58:41,610 --> 00:58:45,010
+would have. Um, you know, and there's this simple idea of, you know, using
+
+1375
+00:58:45,070 --> 00:58:48,790
+ULM, super-resolution imaging to see the, you know, the microvascular impairment.
+
+1376
+00:58:49,310 --> 00:58:52,690
+It's subtle. You know, it's not like that we are seeing night and day,
+
+1377
+00:58:53,090 --> 00:58:56,470
+but what is really interesting is, you know, at a very early stage, the
+
+1378
+00:58:56,510 --> 00:59:01,310
+vessels are still there. Structurally, we're not seeing missing vessels or, you know, increased
+
+1379
+00:59:01,350 --> 00:59:04,950
+tortuosity, but the flow already, uh, you know, significantly reduced.
+
+1380
+00:59:05,350 --> 00:59:09,090
+So that means that, you know, um, if you integrate the flow velocity with
+
+1381
+00:59:09,130 --> 00:59:12,790
+the, you know, uh, the, the cross-sectional area of the vessels, then indicating that
+
+1382
+00:59:12,830 --> 00:59:16,590
+the flow is already impaired as, as early as three months, as I, I
+
+1383
+00:59:16,610 --> 00:59:19,690
+think. And six months, everything kind of like, you know, uh, you know, the
+
+1384
+00:59:19,730 --> 00:59:24,370
+difference becomes, uh, becomes bigger. So, I mean, y- you know, to, um, I
+
+1385
+00:59:24,430 --> 00:59:28,530
+think to a, uh, a Alzheimer expert, this is not news, right?
+
+1386
+00:59:28,630 --> 00:59:31,190
+They, they actually, um, wouldn't know this.
+
+1387
+00:59:31,270 --> 00:59:35,350
+It's just like, you know, someone actually, because there's no tools that can actually
+
+1388
+00:59:35,410 --> 00:59:37,970
+image that big part of the brain to actually show this, right?
+
+1389
+00:59:38,050 --> 00:59:39,990
+So that, that was the, that was really neat.
+
+1390
+00:59:40,130 --> 00:59:43,970
+I, I think, you know, uh, super-resolution imaging has, it has a big market
+
+1391
+00:59:44,090 --> 00:59:48,750
+in small animal pre-clinical. You know, a lot of testing, um, that, you know,
+
+1392
+00:59:48,830 --> 00:59:50,950
+you don't have to kill the animal to do histology anymore.
+
+1393
+00:59:50,990 --> 00:59:54,130
+You can do in vivo. Uh, you, you can also do awake imaging.
+
+1394
+00:59:54,210 --> 00:59:57,650
+You can follow the same animal, uh, for several months, right?
+
+1395
+00:59:57,830 --> 01:00:01,290
+Uh, you know, um. Yeah, I, I think it could be a really powerful
+
+1396
+01:00:01,470 --> 01:00:05,070
+tool. You know, Iconeus, you know, that's Mickael's company, right?
+
+1397
+01:00:05,250 --> 01:00:08,490
+That's already, uh, you know, disseminating this, this technology.
+
+1398
+01:00:08,590 --> 01:00:10,090
+So I think there's definitely a market.
+
+1399
+01:00:10,570 --> 01:00:13,910
+Um, you know, brain is something that I keep thinking, you know, I was
+
+1400
+01:00:13,950 --> 01:00:16,730
+trained in Mayo, right? I mean, I always have this translational mindset.
+
+1401
+01:00:17,030 --> 01:00:20,850
+Brain is probably the only organ that I would actually resort to the animals,
+
+1402
+01:00:20,890 --> 01:00:24,250
+not humans, because, you know, first of all, it's very difficult to do human
+
+1403
+01:00:24,350 --> 01:00:28,830
+ultrasound. Second, there's a lot of neuroscience stuff, it's just unethical to do humans,
+
+1404
+01:00:28,930 --> 01:00:30,330
+right? Let's say you study drug.
+
+1405
+01:00:30,690 --> 01:00:34,030
+How are you gonna inject opiate into a human study, you know, the, the,
+
+1406
+01:00:34,090 --> 01:00:36,270
+the brain response? You have to do that in animals.
+
+1407
+01:00:36,290 --> 01:00:36,790
+Keith Murphy: Mm-hmm.
+
+1408
+01:00:36,390 --> 01:00:38,330
+Pengfei Song: There's a lot of, uh, stuff, right?
+
+1409
+01:00:38,430 --> 01:00:39,250
+A- also, you know-
+
+1410
+01:00:39,310 --> 01:00:39,810
+Keith Murphy: Yeah
+
+1411
+01:00:39,370 --> 01:00:42,530
+Pengfei Song: ... uh, functional, the stuff well-controlled, you know, animals, you can do that.
+
+1412
+01:00:42,970 --> 01:00:49,710
+So yeah, I think, you know, functional ultrasound, ULM, uh, functional ULM, super-resolution, these
+
+1413
+01:00:49,770 --> 01:00:53,910
+all have, uh, you know, uh, a great utility, like a market, right, uh,
+
+1414
+01:00:54,050 --> 01:00:55,370
+in the small animal space.
+
+1415
+01:00:56,410 --> 01:00:59,950
+Keith Murphy: Oh, yeah. Well, I wonder, I wonder if there are blood vessels outside of
+
+1416
+01:00:59,990 --> 01:01:02,910
+the brain that you could apply super-resolution imaging to.
+
+1417
+01:01:03,050 --> 01:01:08,650
+Because what struck me about that paper is the blood vessel changes may precede
+
+1418
+01:01:08,690 --> 01:01:12,970
+the behavioral changes, and people are really looking at ways to catch Alzheimer's- Hmm
+
+1419
+01:01:12,970 --> 01:01:15,230
+... before it becomes a huge problem.
+
+1420
+01:01:15,710 --> 01:01:17,310
+Yeah. So I just, I saw a lot of potential.
+
+1421
+01:01:17,410 --> 01:01:21,170
+I know you're thinking, you know, a tool in mouse, but maybe there's other
+
+1422
+01:01:21,250 --> 01:01:25,430
+blood vessels in the body that correlate well with the hippocampus or something.
+
+1423
+01:01:25,950 --> 01:01:27,330
+I don't know. I just see, I see a lot.
+
+1424
+01:01:27,510 --> 01:01:28,190
+I see a lot there.
+
+1425
+01:01:28,310 --> 01:01:29,450
+Pengfei Song: Before we go, I have a question.
+
+1426
+01:01:29,530 --> 01:01:35,240
+Who, who, w- you know- For example, therapeutic ultrasound HIFU has a well-defined origin,
+
+1427
+01:01:35,320 --> 01:01:38,160
+right? The Fry brothers, right? You know, they, they, they're the pioneers.
+
+1428
+01:01:38,720 --> 01:01:41,160
+Diagnostic imaging, you know, uh, Howry, right?
+
+1429
+01:01:41,260 --> 01:01:43,340
+Dr. Howry, you know, Dr. Wild, right?
+
+1430
+01:01:43,440 --> 01:01:46,460
+You know, those. Who started ultrasound neuromodulation?
+
+1431
+01:01:46,800 --> 01:01:48,600
+Charles Caskey: I, I have an opinion on this.
+
+1432
+01:01:49,260 --> 01:01:50,720
+Uh, I think it's Gavrilov.
+
+1433
+01:01:51,780 --> 01:01:52,280
+Pengfei Song: Gavrilov?
+
+1434
+01:01:52,240 --> 01:01:52,740
+Keith Murphy: Yeah, it was.
+
+1435
+01:01:52,620 --> 01:01:53,120
+Charles Caskey: Gavrilov.
+
+1436
+01:01:53,120 --> 01:01:53,620
+Keith Murphy: Yeah.
+
+1437
+01:01:53,400 --> 01:01:54,000
+Charles Caskey: Yeah, yeah.
+
+1438
+01:01:54,300 --> 01:01:58,520
+Pengfei Song: When is this paper published? Uh, I have no idea who this person is.
+
+1439
+01:01:58,560 --> 01:01:59,480
+Sorry, I'm, I'm, I'm-
+
+1440
+01:01:59,500 --> 01:02:00,020
+Charles Caskey: No, no, he-
+
+1441
+01:02:00,320 --> 01:02:01,960
+Keith Murphy: He, he actually just passed away, yeah.
+
+1442
+01:02:02,040 --> 01:02:02,580
+Charles Caskey: I was gonna say- Oh, Gavrilov ...
+
+1443
+01:02:02,620 --> 01:02:04,660
+I, I thought he was st- he-- yeah, so he did pass away.
+
+1444
+01:02:04,720 --> 01:02:08,400
+I knew he was, uh, uh, he, he was still alive up-- that must've
+
+1445
+01:02:08,420 --> 01:02:09,660
+been recent, in the last year or two?
+
+1446
+01:02:10,440 --> 01:02:14,840
+Keith Murphy: He was supposed to-- So, um, Jean-François tried to invite him to give the
+
+1447
+01:02:14,900 --> 01:02:19,740
+keynote at the Focused Ultrasound Neuromodulation conference, and I think he had declined because
+
+1448
+01:02:19,780 --> 01:02:22,040
+he was, you know, having some health issues, and then he passed away-
+
+1449
+01:02:22,100 --> 01:02:22,600
+Pengfei Song: I see
+
+1450
+01:02:22,300 --> 01:02:22,900
+Keith Murphy: ... shortly after.
+
+1451
+01:02:22,940 --> 01:02:23,760
+Pengfei Song: So he's a old-timer.
+
+1452
+01:02:23,760 --> 01:02:24,580
+Keith Murphy: He was a real legend.
+
+1453
+01:02:25,140 --> 01:02:28,620
+Pengfei Song: Yeah. That's, that's another thing, you know, I want to advocate for.
+
+1454
+01:02:28,780 --> 01:02:31,900
+You know, I think, Keith, I, I left a message for you on the
+
+1455
+01:02:32,080 --> 01:02:34,740
+LinkedIn saying that I was just thinking about a podcast for ultrasound.
+
+1456
+01:02:35,100 --> 01:02:37,560
+I saw your post. I mean, it was just-- I'm, I'm not joking.
+
+1457
+01:02:37,620 --> 01:02:42,280
+It's like, you know, the reason is because I think we're m-- you know,
+
+1458
+01:02:42,440 --> 01:02:46,560
+I'm just old enough to have the opportunity to actually meet these legends in
+
+1459
+01:02:46,620 --> 01:02:48,260
+our field, in the diagnostic ultrasound.
+
+1460
+01:02:48,720 --> 01:02:49,220
+Keith Murphy: Oh, yeah.
+
+1461
+01:02:48,900 --> 01:02:50,280
+Pengfei Song: But, you know, Charles, you know what I'm talking about.
+
+1462
+01:02:50,360 --> 01:02:52,820
+These people are retiring, dying, right?
+
+1463
+01:02:53,360 --> 01:02:56,400
+And I have so much fun picking on their brain, 'cause they've-- You know,
+
+1464
+01:02:56,600 --> 01:03:00,840
+whenever you find an idea, you think, "Oh, how awesome the idea is.
+
+1465
+01:03:00,980 --> 01:03:02,920
+Why hasn't people, haven't people tried that before?"
+
+1466
+01:03:02,960 --> 01:03:05,140
+I'm like, "Wait a second." [laughs] You know?
+
+1467
+01:03:05,160 --> 01:03:08,100
+[laughs] There, there might have been, you know, someone who is smarter than you
+
+1468
+01:03:08,120 --> 01:03:11,100
+who have tried that. You know, the chance of-- You know, 'cause ultrasound is
+
+1469
+01:03:11,140 --> 01:03:13,600
+a modality for what? More than half a century, right?
+
+1470
+01:03:13,680 --> 01:03:14,600
+1950s, right?
+
+1471
+01:03:14,660 --> 01:03:15,160
+Charles Caskey: Yeah,
+
+1472
+01:03:14,720 --> 01:03:16,180
+Pengfei Song: yeah. There's also sonar stuff, right?
+
+1473
+01:03:16,800 --> 01:03:20,140
+I mean, we gotta get these old-timers back to just listen to-
+
+1474
+01:03:20,160 --> 01:03:20,660
+Keith Murphy: Yeah
+
+1475
+01:03:20,300 --> 01:03:23,260
+Pengfei Song: ... what they have to say before they are all gone, right?
+
+1476
+01:03:23,400 --> 01:03:28,460
+And, you know, I'm a little bit frustrated about science now having this tendency
+
+1477
+01:03:28,500 --> 01:03:29,320
+for recycling.
+
+1478
+01:03:29,820 --> 01:03:30,320
+Charles Caskey: Yeah, yeah.
+
+1479
+01:03:29,940 --> 01:03:33,260
+Pengfei Song: You know? Claiming something that was like, hang on a second.
+
+1480
+01:03:33,420 --> 01:03:35,940
+Back in 1970s, this was done, right?
+
+1481
+01:03:36,400 --> 01:03:39,240
+You know, and if you talk with old-timer, they will tell you in a
+
+1482
+01:03:39,280 --> 01:03:40,680
+story. That's just fascinating to me.
+
+1483
+01:03:40,740 --> 01:03:41,560
+I think we, we need to-
+
+1484
+01:03:41,680 --> 01:03:42,180
+Keith Murphy: Yeah
+
+1485
+01:03:41,740 --> 01:03:43,600
+Pengfei Song: ... get these people back to talk about, you know-
+
+1486
+01:03:43,920 --> 01:03:44,420
+Keith Murphy: Pengfei-
+
+1487
+01:03:44,300 --> 01:03:44,800
+Charles Caskey: Right
+
+1488
+01:03:44,320 --> 01:03:46,080
+Keith Murphy: ... take the torch. You know how to do it now.
+
+1489
+01:03:46,080 --> 01:03:48,360
+[laughs] You gotta do the ultrasound imaging side of things.
+
+1490
+01:03:48,420 --> 01:03:49,260
+Pengfei Song: I think you should do that.
+
+1491
+01:03:49,380 --> 01:03:50,080
+You know, you have the fUS..
+
+1492
+01:03:50,440 --> 01:03:51,180
+Keith Murphy: You, you have the recording.
+
+1493
+01:03:51,200 --> 01:03:53,860
+Pengfei Song: You already, you already took fUS, you know, functional ultrasound.
+
+1494
+01:03:53,960 --> 01:03:55,260
+[laughs]
+
+1495
+01:03:55,460 --> 01:03:56,540
+Keith Murphy: Oh, yeah. You gotta come up with a new title.
+
+1496
+01:03:56,540 --> 01:03:59,960
+Pengfei Song: Ultrasound imaging, right? You know. Do you have another acronym called a ULM or
+
+1497
+01:04:00,100 --> 01:04:02,800
+something, you know? [laughs] Gonna claim.
+
+1498
+01:04:02,860 --> 01:04:04,740
+Keith Murphy: FUS Forward stays. You gotta change it.
+
+1499
+01:04:04,780 --> 01:04:05,280
+Charles Caskey: Yeah.
+
+1500
+01:04:04,920 --> 01:04:05,440
+Keith Murphy: You pick your own.
+
+1501
+01:04:05,980 --> 01:04:06,480
+Charles Caskey: No, I-
+
+1502
+01:04:06,300 --> 01:04:06,800
+Keith Murphy: FUSI.
+
+1503
+01:04:06,680 --> 01:04:08,060
+Charles Caskey: Yeah, I agree with FUSI.
+
+1504
+01:04:08,100 --> 01:04:09,120
+Keith Murphy: The FUSI podcast with Pengfei.
+
+1505
+01:04:09,120 --> 01:04:09,620
+Pengfei Song: FUSI.
+
+1506
+01:04:09,200 --> 01:04:11,300
+Charles Caskey: Yeah. [laughs] Yeah, we need to- Yeah ...
+
+1507
+01:04:11,340 --> 01:04:13,060
+we need to make sure we're not losing information.
+
+1508
+01:04:13,140 --> 01:04:17,140
+I think about this a lot with, as we move forward into, like, this
+
+1509
+01:04:17,260 --> 01:04:20,600
+space where there's so much generated content and other stuff.
+
+1510
+01:04:20,740 --> 01:04:23,300
+And people did do the, um...
+
+1511
+01:04:23,600 --> 01:04:26,840
+Bill O'Brien, I know he did a lot of work to make sure that,
+
+1512
+01:04:26,900 --> 01:04:31,120
+like, papers that were not digitized, so when we kind of moved from paper
+
+1513
+01:04:31,200 --> 01:04:34,660
+journals to, uh, digitized journals, he did a lot of work to make sure
+
+1514
+01:04:34,720 --> 01:04:37,060
+stuff got scanned and was-- could be indexed.
+
+1515
+01:04:37,200 --> 01:04:39,680
+And I think you're right. I mean, yeah, it's the same.
+
+1516
+01:04:39,720 --> 01:04:41,820
+It's just even being able to sit down and talk to some of these
+
+1517
+01:04:41,860 --> 01:04:44,300
+folks that they've already thought about this stuff.
+
+1518
+01:04:44,320 --> 01:04:45,900
+We're not the first people to do this.
+
+1519
+01:04:45,920 --> 01:04:46,420
+[laughs]
+
+1520
+01:04:46,100 --> 01:04:46,720
+Pengfei Song: I know, right?
+
+1521
+01:04:47,660 --> 01:04:51,520
+Keith Murphy: Yeah. We just barely missed Gavrilov, so you're, you should go after whoever you
+
+1522
+01:04:51,560 --> 01:04:56,260
+got on that list. In fact, this week's FUS, FUS win, big FUS wins
+
+1523
+01:04:57,340 --> 01:04:59,040
+should go to our... So sad.
+
+1524
+01:04:59,080 --> 01:05:01,160
+Charles Caskey: Go to, go to the, go to our founding fathers.
+
+1525
+01:05:01,260 --> 01:05:04,000
+Pengfei Song: The founding fathers. [laughs]
+
+1526
+01:05:04,000 --> 01:05:04,500
+Charles Caskey: And, and, and, and, and-
+
+1527
+01:05:04,420 --> 01:05:04,920
+Keith Murphy: The founding mothers
+
+1528
+01:05:04,920 --> 01:05:05,420
+Charles Caskey: ... and, a-and mothers. And mothers.
+
+1529
+01:05:05,460 --> 01:05:05,960
+There, there you go.
+
+1530
+01:05:05,720 --> 01:05:06,720
+Pengfei Song: And mothers, right.
+
+1531
+01:05:06,880 --> 01:05:08,360
+Charles Caskey: Yeah, yeah,
+
+1532
+01:05:08,360 --> 01:05:08,860
+Pengfei Song: yeah. Yeah.
+
+1533
+01:05:08,420 --> 01:05:08,920
+Keith Murphy: Yes.
+
+1534
+01:05:08,520 --> 01:05:09,020
+Pengfei Song: Yeah.
+
+1535
+01:05:08,560 --> 01:05:10,140
+Charles Caskey: Yeah, the-- No- Yeah ... I think that's a g- that's a good FUS
+
+1536
+01:05:10,240 --> 01:05:17,940
+win. We- [outro music]

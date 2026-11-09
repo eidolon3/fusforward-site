@@ -1,0 +1,4935 @@
+1
+00:00:00,300 --> 00:00:03,220
+Charles Caskey: So are we gonna do like a formal introduction to the episode, and we're
+
+2
+00:00:03,260 --> 00:00:05,320
+gonna be like, "Hey, welcome to FUS Forward.
+
+3
+00:00:05,840 --> 00:00:08,300
+It's with Keith and Charles. We're gonna talk about..."
+
+4
+00:00:08,400 --> 00:00:09,540
+[laughs] [laughs]
+
+5
+00:00:09,540 --> 00:00:13,080
+Keith Murphy: I like that a lot. [laughs] [laughs]
+
+6
+00:00:13,280 --> 00:00:15,920
+Intro narrator: Follow Charles Caskey and Keith Murphy-
+
+7
+00:00:15,960 --> 00:00:16,460
+Keith Murphy: I think that's great
+
+8
+00:00:16,560 --> 00:00:22,500
+Intro narrator: ... as they explore the next frontier of ultrasound neuromodulation with FUS Forward.
+
+9
+00:00:23,060 --> 00:00:25,120
+Keith Murphy: Very good today. The suits are nice.
+
+10
+00:00:25,240 --> 00:00:27,260
+The mics are nice. This is very rare.
+
+11
+00:00:27,260 --> 00:00:27,760
+[laughs]
+
+12
+00:00:27,280 --> 00:00:31,120
+Charles Caskey: I expect nothing less from, from Brad with his, with his audio and acoustics
+
+13
+00:00:31,220 --> 00:00:32,500
+background. [laughs]
+
+14
+00:00:32,540 --> 00:00:35,340
+Brad Treeby: Yeah. I took it as an excuse to go and buy some new toys,
+
+15
+00:00:35,880 --> 00:00:36,380
+um.
+
+16
+00:00:36,400 --> 00:00:37,220
+Keith Murphy: Yeah. They sound good.
+
+17
+00:00:37,300 --> 00:00:39,180
+Charles Caskey: I was, I was hoping you would actually.
+
+18
+00:00:39,260 --> 00:00:42,000
+I was, I was like, "Maybe Brad needs like a new guitar mic or
+
+19
+00:00:42,080 --> 00:00:42,580
+something." [laughs]
+
+20
+00:00:42,300 --> 00:00:44,100
+Brad Treeby: Yeah. That's what I was thinking.
+
+21
+00:00:44,160 --> 00:00:44,980
+[laughs]
+
+22
+00:00:45,020 --> 00:00:47,240
+Keith Murphy: Two, two musicians. You guys both play music.
+
+23
+00:00:47,460 --> 00:00:49,940
+Brad, you play, um, you play all kinds of shit.
+
+24
+00:00:50,080 --> 00:00:55,200
+I forget. But you play piano, guitar, violin, everything?
+
+25
+00:00:55,240 --> 00:00:58,680
+Brad Treeby: Yeah. I mean, saying I play piano is a little stretch for, for anybody
+
+26
+00:00:58,740 --> 00:01:02,200
+that, um, was at the, the infamous, uh, concert a couple of years ago
+
+27
+00:01:02,260 --> 00:01:03,340
+at FUN. [laughs]
+
+28
+00:01:03,380 --> 00:01:04,200
+Keith Murphy: Ah, infamous.
+
+29
+00:01:04,660 --> 00:01:08,200
+Brad Treeby: In, in Toronto. Um, but, uh, guitar is my main instrument.
+
+30
+00:01:08,980 --> 00:01:12,300
+Keith Murphy: Nice. Hell yeah. And then, um, when we met, you told me you did
+
+31
+00:01:12,360 --> 00:01:16,800
+like concert hall acoustics, and that's how you got into ultrasound.
+
+32
+00:01:16,940 --> 00:01:18,540
+Like you used to simulate that stuff, right?
+
+33
+00:01:18,960 --> 00:01:19,460
+Not to jump-
+
+34
+00:01:19,360 --> 00:01:19,860
+Brad Treeby: Yeah
+
+35
+00:01:19,400 --> 00:01:21,360
+Keith Murphy: ... ahead of who you are, but that's who you are.
+
+36
+00:01:21,860 --> 00:01:24,000
+Brad Treeby: Yeah, no. Um, that was kind of my foray.
+
+37
+00:01:24,140 --> 00:01:26,600
+That's how I got started in, in my PhD.
+
+38
+00:01:26,700 --> 00:01:30,300
+So you, you have this system in Australia where you get to propose your
+
+39
+00:01:30,340 --> 00:01:35,640
+own project, right? Which sounds fantastic, but also has some caveats because, you know,
+
+40
+00:01:35,800 --> 00:01:38,820
+clearly most people have no idea, uh, what they're doing.
+
+41
+00:01:38,860 --> 00:01:40,920
+[laughs] That's what advisors are for, right?
+
+42
+00:01:41,420 --> 00:01:44,740
+Um, so I proposed this project that I would try and improve the, the
+
+43
+00:01:44,780 --> 00:01:47,100
+sound of the rock concert hall venues in, in Perth.
+
+44
+00:01:47,620 --> 00:01:49,120
+Um, that was my project. [laughs]
+
+45
+00:01:49,140 --> 00:01:50,700
+Keith Murphy: Wow. So bold that you could do that.
+
+46
+00:01:50,900 --> 00:01:52,620
+Brad Treeby: Like my whole project is gonna be me going to concerts.
+
+47
+00:01:52,660 --> 00:01:55,940
+That's, that's what we're doing. [laughs] Yeah.
+
+48
+00:01:55,960 --> 00:01:59,240
+And after three months, my advisor and paper was like, "Yeah, you probably want
+
+49
+00:01:59,260 --> 00:02:00,760
+to change projects if you want to get a PhD."
+
+50
+00:02:00,860 --> 00:02:06,200
+[laughs] So yeah. Anyway, I had a nice time for a few months.
+
+51
+00:02:06,920 --> 00:02:10,040
+Keith Murphy: Charles, did you also, both you guys got into ultrasound because you just like
+
+52
+00:02:10,080 --> 00:02:11,540
+music and it just felt like a-
+
+53
+00:02:12,540 --> 00:02:15,940
+Charles Caskey: Mine was a little bit less direct than Brad's in that respect, but like
+
+54
+00:02:16,120 --> 00:02:19,100
+it was more like, uh, I went like the signal processing.
+
+55
+00:02:19,200 --> 00:02:23,480
+Always loved music, went the signal processing route through electrical engineering, then got obsessed
+
+56
+00:02:23,520 --> 00:02:29,460
+with synthesizers, and that's my engineering connection to music [laughs] is like circuits and
+
+57
+00:02:29,580 --> 00:02:32,160
+sounds. And then when I got into acoustics, then I was like, I was
+
+58
+00:02:32,200 --> 00:02:34,040
+like, "Oh, all these instruments." I think I read like...
+
+59
+00:02:34,380 --> 00:02:37,160
+I got some classic text by, I think it was like Helmholtz on the
+
+60
+00:02:37,200 --> 00:02:40,500
+sensation of sound. [laughs] And, uh, and I was, I was like, "Oh, this
+
+61
+00:02:40,580 --> 00:02:44,080
+all like connects." It's like you got the equations, you got the physical things,
+
+62
+00:02:44,120 --> 00:02:45,820
+you got the signal processing.
+
+63
+00:02:45,840 --> 00:02:46,340
+Brad Treeby: Yeah.
+
+64
+00:02:45,880 --> 00:02:49,440
+Charles Caskey: And then I was like, yeah, then, uh, uh, most musicians I don't think
+
+65
+00:02:49,480 --> 00:02:53,100
+approach music that way though. [laughs]
+
+66
+00:02:53,180 --> 00:02:54,940
+Brad Treeby: Yeah. My PhD wasn't in ultrasound.
+
+67
+00:02:54,980 --> 00:02:56,660
+My PhD was in auditory acoustics.
+
+68
+00:02:57,300 --> 00:03:00,320
+Um, maybe I told you this story, but I, I asked a, a question
+
+69
+00:03:00,380 --> 00:03:04,060
+that, that nobody had ever asked before, and I'm, I'm not sure if anybody's
+
+70
+00:03:04,100 --> 00:03:05,760
+ever asked since, to be fair.
+
+71
+00:03:05,760 --> 00:03:08,160
+[laughs] Or maybe ever asked other than me.
+
+72
+00:03:08,260 --> 00:03:12,520
+And, and the question was, does your hair affect your ability to localize sound?
+
+73
+00:03:12,640 --> 00:03:16,000
+So, you know, does the hair on your head affect whether you can tell
+
+74
+00:03:16,040 --> 00:03:18,520
+where the sound is coming from left to right or, or up or down.
+
+75
+00:03:18,920 --> 00:03:22,880
+And you know, I wrote four JASA papers during my, during my PhD, and
+
+76
+00:03:22,940 --> 00:03:23,800
+I can tell you the answer.
+
+77
+00:03:23,880 --> 00:03:25,180
+The answer's no. But, you know.
+
+78
+00:03:25,200 --> 00:03:26,200
+[laughs]
+
+79
+00:03:26,380 --> 00:03:27,400
+Keith Murphy: You know, I would've thought no.
+
+80
+00:03:27,480 --> 00:03:27,980
+[laughs]
+
+81
+00:03:27,960 --> 00:03:30,120
+Brad Treeby: But I answered, I answered extremely rigorously.
+
+82
+00:03:30,160 --> 00:03:31,380
+[laughs]
+
+83
+00:03:31,420 --> 00:03:32,260
+Keith Murphy: Wait, why would they ask that?
+
+84
+00:03:32,300 --> 00:03:34,280
+Brad Treeby: Four papers that nobody's ever read, but I was proud of them.
+
+85
+00:03:35,160 --> 00:03:37,800
+Keith Murphy: Was it because the hair just like gets in the way of sound coming
+
+86
+00:03:37,840 --> 00:03:38,660
+from your right or your left?
+
+87
+00:03:38,680 --> 00:03:40,060
+Brad Treeby: Well, that was my hypothesis, right?
+
+88
+00:03:40,180 --> 00:03:40,820
+You know, it's like-
+
+89
+00:03:40,820 --> 00:03:41,320
+Keith Murphy: It's not that, I guess.
+
+90
+00:03:41,340 --> 00:03:44,540
+Brad Treeby: Yeah ... you know, you, you've changed the boundary condition of a, of a,
+
+91
+00:03:44,860 --> 00:03:46,580
+a surface that diffracts the sound.
+
+92
+00:03:47,140 --> 00:03:49,420
+Um, so, you know, does it, does it change something?
+
+93
+00:03:49,500 --> 00:03:51,820
+Yes, it does, and you can measure it and you can model it, which
+
+94
+00:03:51,880 --> 00:03:56,080
+I did very carefully. Does it affect your, your ability [laughs] to tell where
+
+95
+00:03:56,140 --> 00:03:56,960
+sound is coming from? No.
+
+96
+00:03:57,960 --> 00:03:59,720
+Keith Murphy: Right. Wow. I'm actually a little surprised.
+
+97
+00:03:59,820 --> 00:04:01,440
+I would've thought at least something if you-
+
+98
+00:04:01,500 --> 00:04:04,540
+Brad Treeby: But you can hear like a very slight perceptual difference, right?
+
+99
+00:04:04,620 --> 00:04:07,700
+So, you know, I went all the way through to building these models with
+
+100
+00:04:07,720 --> 00:04:11,920
+hemispherically split, uh, split boundary conditions, and then doing auditory tests, you know, with
+
+101
+00:04:11,960 --> 00:04:12,640
+hair, without hair.
+
+102
+00:04:12,960 --> 00:04:15,740
+Keith Murphy: And you've always hated hair, Brad, which is why you're here.
+
+103
+00:04:15,740 --> 00:04:16,240
+[laughs]
+
+104
+00:04:15,760 --> 00:04:16,260
+Brad Treeby: Yeah, that's what I mean.
+
+105
+00:04:15,960 --> 00:04:18,600
+Charles Caskey: You started at the hair, and now you're still avoiding that.
+
+106
+00:04:18,660 --> 00:04:19,320
+Yeah. [laughs]
+
+107
+00:04:20,320 --> 00:04:20,820
+Brad Treeby: Yeah.
+
+108
+00:04:20,360 --> 00:04:23,360
+Keith Murphy: Can we, can we do a little, uh, is it Tarantino where we kind
+
+109
+00:04:23,400 --> 00:04:26,280
+of go to where you are and then back up and keep backing up?
+
+110
+00:04:26,380 --> 00:04:30,020
+'Cause I have some funny things I pulled from the k-Wave forums, but I
+
+111
+00:04:30,060 --> 00:04:33,100
+think before, before we go there- [laughs] ...
+
+112
+00:04:33,160 --> 00:04:37,500
+before we go there, everyone who's listening to this already knows who Brad is,
+
+113
+00:04:37,560 --> 00:04:39,380
+so we're not gonna give you the introduction.
+
+114
+00:04:39,660 --> 00:04:46,220
+However, the thing that happened recently was Brad launched the official NeuroHarmonics first
+
+115
+00:04:46,700 --> 00:04:50,780
+minimum viable product, and it was a doozy, and we'd love to hear about
+
+116
+00:04:50,840 --> 00:04:54,000
+that up front, and then we'll kind of walk back into your career and
+
+117
+00:04:54,040 --> 00:04:57,180
+how you got there and all the juicy tidbits along the way.
+
+118
+00:04:57,600 --> 00:05:00,580
+Brad Treeby: Yeah, I mean, I mean, uh, I mean, as you guys know, we spent
+
+119
+00:05:00,640 --> 00:05:04,820
+quite a lot of time at UCL building a first-generation device.
+
+120
+00:05:05,400 --> 00:05:09,320
+Um, you know, this idea, I think for us, or for me in particular,
+
+121
+00:05:09,920 --> 00:05:13,760
+my thesis around ultrasound was, was really about, you know, what can it do
+
+122
+00:05:13,820 --> 00:05:16,320
+that nothing else can do? And that, that for me was always deep in,
+
+123
+00:05:16,500 --> 00:05:19,900
+in, and focal. So I've always been drawn to how do you build the
+
+124
+00:05:19,940 --> 00:05:23,540
+systems that allow you to, to get that focality in, in the deep brain.
+
+125
+00:05:23,580 --> 00:05:26,340
+That's exactly the sort of system that we built at, at UCL first, right?
+
+126
+00:05:26,380 --> 00:05:29,340
+We built this sort of array that, uh, looks a bit like the Insightec
+
+127
+00:05:29,380 --> 00:05:30,760
+system, if people are familiar with it.
+
+128
+00:05:31,040 --> 00:05:34,420
+It has, uh, transducers that sit all the, all the way around the head
+
+129
+00:05:34,480 --> 00:05:35,380
+on a kind of a bowl.
+
+130
+00:05:35,860 --> 00:05:38,300
+Uh, your head is dunked in a bucket of water, and you use a
+
+131
+00:05:38,320 --> 00:05:39,820
+sort of membrane to seal you in.
+
+132
+00:05:40,280 --> 00:05:44,120
+And that was a fantastic system in terms of its capabilities, right?
+
+133
+00:05:44,260 --> 00:05:46,880
+So often when we talk about acoustic beams, we talk about focality.
+
+134
+00:05:47,120 --> 00:05:48,480
+You know, what is the, the size?
+
+135
+00:05:48,520 --> 00:05:49,960
+What are the properties of the beam itself?
+
+136
+00:05:50,000 --> 00:05:51,120
+How big is your focal spot?
+
+137
+00:05:51,180 --> 00:05:53,620
+You know, which area of the brain are you, are you acting on?
+
+138
+00:05:53,660 --> 00:05:57,500
+And then your targeting accuracy, like how, how precisely can you- ...
+
+139
+00:05:57,520 --> 00:06:01,400
+place that, you know, little grain of rice or bean or, or whatever it
+
+140
+00:06:01,460 --> 00:06:03,820
+is, sausage, uh, inside your, inside your brain.
+
+141
+00:06:03,880 --> 00:06:06,460
+So I think we were interested in, in both of those aspects.
+
+142
+00:06:06,500 --> 00:06:08,380
+Keith Murphy: Who's calling it a sausage? [laughs] [laughs]
+
+143
+00:06:08,460 --> 00:06:09,660
+Brad Treeby: No, no, I, I hear-
+
+144
+00:06:09,980 --> 00:06:10,480
+Keith Murphy: Grain of rice
+
+145
+00:06:10,060 --> 00:06:11,400
+Charles Caskey: ... I hear cigar a lot, though.
+
+146
+00:06:11,500 --> 00:06:12,000
+I think, yeah.
+
+147
+00:06:12,020 --> 00:06:12,520
+Keith Murphy: Cigar.
+
+148
+00:06:13,420 --> 00:06:16,140
+Brad Treeby: Cigar. Perfect. I mean, it depends on your brain, right?
+
+149
+00:06:16,140 --> 00:06:19,360
+Keith Murphy: Wait, Brad, you, you call it sausage or somebody else called it a sausage?
+
+150
+00:06:19,520 --> 00:06:20,760
+Brad Treeby: Somebody else called it a sausage.
+
+151
+00:06:20,800 --> 00:06:23,460
+I'm just paraphrasing. So you've got this grain of rice in, in the brain.
+
+152
+00:06:23,880 --> 00:06:26,120
+Um, so we were interested in both of those problems, and that was a
+
+153
+00:06:26,160 --> 00:06:29,040
+fantastic system from its technical standpoint.
+
+154
+00:06:29,120 --> 00:06:31,440
+If you, if you look at the numbers on paper, it's, it's amazing.
+
+155
+00:06:31,500 --> 00:06:33,540
+You can do concurrent functional brain imaging.
+
+156
+00:06:33,620 --> 00:06:36,540
+But as a user, and I spent a lot of time in that device,
+
+157
+00:06:36,700 --> 00:06:40,800
+it is horrible. Um, so you're, you're pinned down in a stereotactic mask.
+
+158
+00:06:41,000 --> 00:06:44,020
+Okay, it's better than electrical frames screwed into your, your skull, but not much
+
+159
+00:06:44,060 --> 00:06:45,220
+better, right? You're, you're pinned down.
+
+160
+00:06:45,540 --> 00:06:46,680
+That gives you the accuracy, right?
+
+161
+00:06:46,740 --> 00:06:50,760
+You're very, very still. So to get this sort of sub-millimeter targeting accuracy, you
+
+162
+00:06:50,800 --> 00:06:52,280
+wanna keep the subject very, very still.
+
+163
+00:06:52,380 --> 00:06:55,260
+And so you're kind of constrained, and then you're inside this bucket of water.
+
+164
+00:06:55,300 --> 00:06:58,500
+The water's warm, but, you know, over t- over time, it's still, it's not
+
+165
+00:06:58,540 --> 00:07:01,800
+that fun, right? So thinking when we, when we formed the company, how do
+
+166
+00:07:01,840 --> 00:07:06,500
+we build something that still gives you that focality, still gives you that targeting
+
+167
+00:07:06,600 --> 00:07:11,300
+accuracy, but is much more accessible for the participants, and then commercially is, is
+
+168
+00:07:11,800 --> 00:07:15,420
+outside of the MR. So you still get that, um, precision, but you're not,
+
+169
+00:07:15,600 --> 00:07:19,020
+you're not locked to this, you know, this million-dollar sort of ins- instrument.
+
+170
+00:07:19,120 --> 00:07:22,580
+So I think we tried to come in with a, a kind of a,
+
+171
+00:07:22,780 --> 00:07:26,840
+a blank sheet of paper. Uh, you know, I think as academics we're, we
+
+172
+00:07:26,860 --> 00:07:29,200
+often get a bit stuck in our, in our ways.
+
+173
+00:07:29,800 --> 00:07:32,080
+And I think it's quite fun when you form a company 'cause you get
+
+174
+00:07:32,120 --> 00:07:35,180
+a whole bunch of people from the outside, which come in with, with different,
+
+175
+00:07:35,840 --> 00:07:36,960
+I don't know, ways of thinking.
+
+176
+00:07:37,320 --> 00:07:40,520
+And I think the academics are bringing that, I don't know, that first principles
+
+177
+00:07:40,560 --> 00:07:46,200
+debugging, and the, the people from the outside are bringing more reality-based constraints in
+
+178
+00:07:46,240 --> 00:07:47,220
+terms of manufacturing.
+
+179
+00:07:47,600 --> 00:07:48,100
+Keith Murphy: Yeah.
+
+180
+00:07:47,620 --> 00:07:49,660
+Brad Treeby: And you sort of put everybody in a room and you say, "Okay, this
+
+181
+00:07:49,720 --> 00:07:52,860
+is the problem. How do we couple a large array to the head through
+
+182
+00:07:52,900 --> 00:07:54,560
+the hair effectively, quickly?"
+
+183
+00:07:54,780 --> 00:07:55,280
+Keith Murphy: Mm-hmm.
+
+184
+00:07:54,800 --> 00:07:58,040
+Brad Treeby: And then, you know, you, you have a, a bunch of brainstorming sessions and,
+
+185
+00:07:58,060 --> 00:08:02,040
+and then you have a bunch of silly ideas, and then eventually, hopefully, one
+
+186
+00:08:02,080 --> 00:08:02,980
+of them is, is a good one.
+
+187
+00:08:03,000 --> 00:08:05,760
+And that kind of ended up with a new system, um, which you, which
+
+188
+00:08:05,820 --> 00:08:08,960
+you alluded to, which we just sort of, you know, launched recently.
+
+189
+00:08:09,160 --> 00:08:11,660
+Launched in the sense of started to show what we were doing.
+
+190
+00:08:12,160 --> 00:08:14,220
+Um, and the whole idea is, is pretty simple.
+
+191
+00:08:14,320 --> 00:08:18,340
+So what we do is we use sort of relatively gentle puffs of air
+
+192
+00:08:18,420 --> 00:08:20,940
+that blow down onto the head and that parts the hair.
+
+193
+00:08:21,580 --> 00:08:24,480
+Uh, and then we, we use a kind of a rocket ship transducer, which
+
+194
+00:08:24,500 --> 00:08:26,260
+comes and then lands in the gap.
+
+195
+00:08:26,460 --> 00:08:29,440
+So at most you've just got a few strands of hair left, and I
+
+196
+00:08:29,460 --> 00:08:32,760
+think listeners of the show will, will know that hair is a problem, not
+
+197
+00:08:33,120 --> 00:08:37,820
+because hair intrinsically has massive impedance contrasts compared to soft tissue, but because it
+
+198
+00:08:37,840 --> 00:08:41,840
+traps air bubbles. Some great work done by a bunch of people, including Elly
+
+199
+00:08:41,880 --> 00:08:43,620
+Martin, who I worked with for a long time at UCL.
+
+200
+00:08:43,680 --> 00:08:46,740
+If you take a, a hair sample and you dunk it in a, a
+
+201
+00:08:47,060 --> 00:08:50,620
+pot of water, and you put a transducer on either side and you do
+
+202
+00:08:50,660 --> 00:08:54,780
+nothing else, it completely obliterates your beam, not because of the hair, but because
+
+203
+00:08:54,820 --> 00:08:56,020
+of the, the air bubbles trapped.
+
+204
+00:08:56,040 --> 00:08:59,440
+And if you do something simple like degas, um, then, you know, all of
+
+205
+00:08:59,480 --> 00:09:02,020
+a sudden you, you restore your, your transmission.
+
+206
+00:09:02,100 --> 00:09:05,220
+So it's, it's about, you know, how do you avoid trapping, trapping that air?
+
+207
+00:09:05,240 --> 00:09:06,500
+And with a small transducer-
+
+208
+00:09:06,920 --> 00:09:07,420
+Keith Murphy: Yeah
+
+209
+00:09:06,940 --> 00:09:09,900
+Brad Treeby: ... it's relatively simple to do just by combing gel through or using a
+
+210
+00:09:09,940 --> 00:09:12,320
+gel pad and, and, and coupling, but you just can't do that with a
+
+211
+00:09:12,340 --> 00:09:13,380
+big array. Um-
+
+212
+00:09:13,500 --> 00:09:14,000
+Keith Murphy: Yeah
+
+213
+00:09:13,560 --> 00:09:16,280
+Brad Treeby: ... there's just no way you can couple ultrasound gel over the whole head
+
+214
+00:09:16,320 --> 00:09:19,180
+and then, and then join something to it without, without trapping air.
+
+215
+00:09:19,280 --> 00:09:22,500
+So we got super excited about this, worked in small prototypes, and then there's
+
+216
+00:09:22,520 --> 00:09:25,780
+always the challenge of, okay, now how do you scale that up, um, to
+
+217
+00:09:25,840 --> 00:09:30,120
+large, to large systems? Uh, you know, we-- There's a bunch of funny stories
+
+218
+00:09:30,280 --> 00:09:33,340
+from when we built the UCL system of, of things that worked in small
+
+219
+00:09:33,400 --> 00:09:35,760
+arrays and didn't work in, in big ones.
+
+220
+00:09:35,820 --> 00:09:38,020
+And so we, we'd learnt the hard way, carry a lot of bruises.
+
+221
+00:09:38,420 --> 00:09:40,460
+But yeah, we managed to build this, this full-scale system.
+
+222
+00:09:40,500 --> 00:09:42,420
+It's completely modular, which makes it helpful.
+
+223
+00:09:42,800 --> 00:09:44,600
+Um, so each one of those kind of little rocket ships-
+
+224
+00:09:44,660 --> 00:09:45,160
+Keith Murphy: Yeah
+
+225
+00:09:44,840 --> 00:09:46,820
+Brad Treeby: ... is, is like a little module you can, you can have on the
+
+226
+00:09:46,900 --> 00:09:49,840
+bench and, and test and iterate that part, and then obviously put it in,
+
+227
+00:09:50,060 --> 00:09:52,680
+into the whole system. So yeah, super excited about it.
+
+228
+00:09:53,720 --> 00:09:56,620
+Charles Caskey: Yeah, it's a super cool design, and I love the, the idea, kind of,
+
+229
+00:09:56,640 --> 00:09:58,660
+you m- you kind of tracked the lineage of it.
+
+230
+00:09:58,760 --> 00:10:01,860
+Like, you, you went back to the blank slate but carried all the knowledge
+
+231
+00:10:01,900 --> 00:10:04,840
+that you had with you. I mean, you see some papers here and there
+
+232
+00:10:04,900 --> 00:10:08,480
+about, oh, if you could get transducers all around the head, you know, but
+
+233
+00:10:08,520 --> 00:10:14,000
+the actual practical solution of that, I hadn't seen anything that really got to
+
+234
+00:10:14,060 --> 00:10:17,300
+that place where I was like, yeah, if you simulate a bunch of these,
+
+235
+00:10:17,360 --> 00:10:19,360
+it's great beam formation, but like-
+
+236
+00:10:19,560 --> 00:10:20,060
+Brad Treeby: Yeah. Yeah, yeah, exactly
+
+237
+00:10:20,020 --> 00:10:21,320
+Charles Caskey: ... how do you, how do you do it and- Yeah ...
+
+238
+00:10:21,340 --> 00:10:23,640
+you know, keep all that, it wired up and everything.
+
+239
+00:10:23,680 --> 00:10:26,620
+It's a really elegant solution, really cool that y'all came up with that and
+
+240
+00:10:26,660 --> 00:10:27,160
+built it.
+
+241
+00:10:27,940 --> 00:10:31,600
+Keith Murphy: And e- even then, Brad, I'm sure like at some point some of the
+
+242
+00:10:31,660 --> 00:10:36,440
+hairs get caught or they're not perfect, but you're probably getting good enough most
+
+243
+00:10:36,480 --> 00:10:39,960
+of the time. It's not like every one of these little transducers has to
+
+244
+00:10:40,020 --> 00:10:43,820
+land perfectly. I guess, would you say that your device has a lot of
+
+245
+00:10:43,860 --> 00:10:45,620
+buffer? Like, you have more of these...
+
+246
+00:10:46,080 --> 00:10:50,220
+They're like pistons almost. You're kind of describing them as rocket landings, but I
+
+247
+00:10:50,280 --> 00:10:53,700
+sort, sort of saw it as a bunch of pistons that feel the shape
+
+248
+00:10:53,760 --> 00:10:55,940
+of your head and gently stop when they get there.
+
+249
+00:10:56,520 --> 00:10:57,020
+Brad Treeby: Yeah.
+
+250
+00:10:56,640 --> 00:10:59,200
+Keith Murphy: And, and would you say that only some of them need to be really
+
+251
+00:10:59,240 --> 00:11:01,220
+good and, you know, most of them can be just okay?
+
+252
+00:11:01,900 --> 00:11:02,400
+Brad Treeby: Yeah.
+
+253
+00:11:01,960 --> 00:11:03,140
+Keith Murphy: How have the challenges been of that?
+
+254
+00:11:03,640 --> 00:11:05,700
+Brad Treeby: Yeah. I, I think you, you got it exactly right.
+
+255
+00:11:05,760 --> 00:11:08,240
+I mean, they come in and it doesn't matter if they trap a few
+
+256
+00:11:08,580 --> 00:11:13,840
+strands of hair underneath. The, the transducers themselves, they actually, uh, self, um, administer
+
+257
+00:11:13,900 --> 00:11:16,680
+a very small amount of, of coupling fluid out the end, so they have
+
+258
+00:11:16,720 --> 00:11:17,220
+a channel-
+
+259
+00:11:17,220 --> 00:11:17,720
+Keith Murphy: Cool
+
+260
+00:11:17,420 --> 00:11:21,100
+Brad Treeby: ... and, uh, there's a, a secondary, um, fluid delivery system that just emits
+
+261
+00:11:21,160 --> 00:11:23,120
+a, a couple of drops of, of coupling fluid.
+
+262
+00:11:23,200 --> 00:11:26,620
+So if there's a few strands of hair un- underneath, then you get really
+
+263
+00:11:26,640 --> 00:11:31,300
+good acoustic contact anyway. Um, it just obviously doesn't work if y- you've got
+
+264
+00:11:31,340 --> 00:11:33,680
+somebody come in with a lot of hair and you just try and compress
+
+265
+00:11:33,720 --> 00:11:36,160
+all the way through. It just, it just doesn't work, of course.
+
+266
+00:11:36,240 --> 00:11:38,480
+But that's why the air blowing part is, is important.
+
+267
+00:11:39,160 --> 00:11:43,840
+Keith Murphy: Was it fun thinking about how all of these, um, rocket ships land in
+
+268
+00:11:43,880 --> 00:11:45,240
+sort of a pattern and how they...
+
+269
+00:11:45,620 --> 00:11:47,680
+People, everybody should go watch the video, by the way.
+
+270
+00:11:47,740 --> 00:11:51,690
+We'll put it in the show notes, which by the way Brad says that
+
+271
+00:11:51,830 --> 00:11:55,850
+none of it is AI, even though the whole thing [laughs] just straight up-
+
+272
+00:11:56,150 --> 00:11:56,650
+Charles Caskey: Hey, hang on
+
+273
+00:11:56,710 --> 00:11:58,210
+Keith Murphy: ... top to bottom. [laughs]
+
+274
+00:11:58,230 --> 00:12:01,730
+Charles Caskey: So I, I had the pleasure of, of hearing from people that had seen
+
+275
+00:12:01,790 --> 00:12:04,510
+this, like, I, I think you presented it at a conference or something, and
+
+276
+00:12:04,570 --> 00:12:07,710
+I ran into people, uh, at a, at another location afterwards.
+
+277
+00:12:07,770 --> 00:12:10,190
+I had the pleasure of getting their first impressions, and they were like, "I,
+
+278
+00:12:10,310 --> 00:12:12,350
+I can't explain it." They're like, "Is this thing real?"
+
+279
+00:12:12,350 --> 00:12:14,510
+[laughs]
+
+280
+00:12:14,570 --> 00:12:17,170
+Keith Murphy: Brad's going so deep on chat, it's just bullshit.
+
+281
+00:12:17,190 --> 00:12:18,130
+[laughs] [laughs]
+
+282
+00:12:18,170 --> 00:12:21,750
+Brad Treeby: Yeah. Yeah. It's-- I can, I can confirm it is 100% real.
+
+283
+00:12:21,830 --> 00:12:24,790
+None of it is AI. We had a fantastic guy who's, does our brand
+
+284
+00:12:24,830 --> 00:12:27,150
+design and a, and a fantastic videographer who came in.
+
+285
+00:12:27,230 --> 00:12:30,510
+Our offices are in a couple of railway arches into South London.
+
+286
+00:12:31,010 --> 00:12:31,510
+So-
+
+287
+00:12:31,350 --> 00:12:31,850
+Charles Caskey: Cool
+
+288
+00:12:31,450 --> 00:12:33,610
+Brad Treeby: ... you know, the space that you see is actually the inside of the
+
+289
+00:12:33,650 --> 00:12:35,290
+rail arch, the back, the back wall.
+
+290
+00:12:35,450 --> 00:12:35,950
+Keith Murphy: Oh, cool.
+
+291
+00:12:35,510 --> 00:12:37,950
+Brad Treeby: And you can see the exit door and the fan and, and various other
+
+292
+00:12:37,990 --> 00:12:38,690
+things, but it looks kind-
+
+293
+00:12:38,730 --> 00:12:39,230
+Keith Murphy: Nice
+
+294
+00:12:38,810 --> 00:12:39,690
+Brad Treeby: ... it's a cool space, right?
+
+295
+00:12:40,190 --> 00:12:42,110
+Um, not many windows, but a cool space otherwise.
+
+296
+00:12:42,290 --> 00:12:42,790
+Charles Caskey: Yeah.
+
+297
+00:12:42,350 --> 00:12:44,970
+Brad Treeby: So yeah, he came in with all the kind of the lights and the
+
+298
+00:12:45,030 --> 00:12:48,470
+model in the, the videos is actually one of our transducer engineers, 'cause someone
+
+299
+00:12:48,510 --> 00:12:50,390
+was like, "She's AI, her face is too symmetrical."
+
+300
+00:12:50,430 --> 00:12:52,950
+I'm like, "No, she's..." [laughs]
+
+301
+00:12:52,990 --> 00:12:54,630
+Keith Murphy: Oh. Has she been feeling very good about that?
+
+302
+00:12:54,710 --> 00:12:56,350
+Brad Treeby: Her face is too symmetrical. [laughs]
+
+303
+00:12:56,450 --> 00:12:58,050
+Keith Murphy: So has she, has she commented?
+
+304
+00:12:58,090 --> 00:12:59,730
+Is she like, "Ooh, people think I'm AI"?
+
+305
+00:12:59,910 --> 00:13:00,770
+Like, that's very nice.
+
+306
+00:13:01,470 --> 00:13:01,970
+Brad Treeby: Yeah.
+
+307
+00:13:01,990 --> 00:13:05,030
+Charles Caskey: Yeah. Yeah. Yeah. That's the highest compliment in the year 2026.
+
+308
+00:13:05,230 --> 00:13:07,490
+Keith Murphy: It must be. [laughs]
+
+309
+00:13:07,530 --> 00:13:09,170
+Brad Treeby: Yeah. [laughs] No, they did a great job.
+
+310
+00:13:09,430 --> 00:13:11,530
+Keith Murphy: She also came from Dyson, right?
+
+311
+00:13:11,610 --> 00:13:12,530
+Or can you say that?
+
+312
+00:13:12,650 --> 00:13:13,150
+Brad Treeby: Um-
+
+313
+00:13:12,710 --> 00:13:14,350
+Keith Murphy: I think that's so cool- Yeah ...
+
+314
+00:13:14,370 --> 00:13:17,010
+that you brought someone from Dyson into ultrasound.
+
+315
+00:13:17,510 --> 00:13:19,190
+Yeah. It's like the perfect marriage of things.
+
+316
+00:13:19,490 --> 00:13:21,950
+Brad Treeby: Yeah, different, different person, but, um, so the-
+
+317
+00:13:22,010 --> 00:13:22,510
+Keith Murphy: Oh, damn. [laughs]
+
+318
+00:13:22,170 --> 00:13:25,670
+Brad Treeby: ... the person in the, in the video came from Daxsonics, so another transducer
+
+319
+00:13:26,190 --> 00:13:29,630
+manufacturing company. But yeah, our first hire actually was an industrial designer.
+
+320
+00:13:29,690 --> 00:13:33,330
+I think we've always understood-- I mean, I just explained to you our, our
+
+321
+00:13:33,370 --> 00:13:37,590
+thesis. So I think we understood the importance of having somebody with good design
+
+322
+00:13:37,650 --> 00:13:40,850
+roots and thinking about human factors right from the beginning.
+
+323
+00:13:40,870 --> 00:13:41,370
+Charles Caskey: Yeah. Mm-hmm.
+
+324
+00:13:41,290 --> 00:13:43,770
+Brad Treeby: You know, not just, "Okay, this is a cool prototype.
+
+325
+00:13:43,830 --> 00:13:46,750
+We're a bunch of engineers building, building some cool stuff with some wires."
+
+326
+00:13:47,150 --> 00:13:48,930
+But, you know, what does that look like as a product?
+
+327
+00:13:48,970 --> 00:13:52,350
+How does that interface with the user, both the user who's, you know, touching
+
+328
+00:13:52,390 --> 00:13:56,450
+the controls and the user that's, like, sitting in the device and experiencing, um,
+
+329
+00:13:56,730 --> 00:13:58,390
+the device? Like, what is it like for them?
+
+330
+00:13:59,010 --> 00:14:01,790
+So I think we, we put a lot of emphasis not just on how
+
+331
+00:14:01,830 --> 00:14:04,410
+it feels to be in the device, but also how it looks and how
+
+332
+00:14:04,450 --> 00:14:09,030
+you interact with the device, all of these things which we did-- I don't
+
+333
+00:14:09,030 --> 00:14:12,950
+wanna say we did badly in the, in the UCL device, but we just
+
+334
+00:14:12,990 --> 00:14:14,470
+didn't put a lot of weight on them, right?
+
+335
+00:14:14,830 --> 00:14:17,510
+So there was a lot of effort went into the background software and then,
+
+336
+00:14:17,550 --> 00:14:20,690
+of course, to, to run it, you open Linux and, and type a few
+
+337
+00:14:20,750 --> 00:14:23,030
+commands in the terminal. [laughs]
+
+338
+00:14:23,090 --> 00:14:23,590
+Keith Murphy: Yeah.
+
+339
+00:14:23,290 --> 00:14:25,510
+Charles Caskey: Yeah. Yeah. I think, like you said, you don't wanna be too, too hard
+
+340
+00:14:25,530 --> 00:14:27,970
+on the engineer scientists or the ones that are kinda like figuring it out
+
+341
+00:14:28,010 --> 00:14:31,510
+firsthand. But I think it's something that, that I've learned over time, is just
+
+342
+00:14:31,550 --> 00:14:34,550
+the importance of the different layers and sections of a business.
+
+343
+00:14:34,630 --> 00:14:35,910
+You know, you have to have product people.
+
+344
+00:14:35,990 --> 00:14:37,330
+You have to be looking at usability.
+
+345
+00:14:37,390 --> 00:14:42,430
+I mean, if you wanna really deploy something, there's s-so many additional layers beyond
+
+346
+00:14:42,470 --> 00:14:45,530
+the technical, and they are equally, if not more important.
+
+347
+00:14:45,630 --> 00:14:49,130
+Uh, and I think as engineers, we sometimes lose sight of that and, and
+
+348
+00:14:49,550 --> 00:14:53,130
+it's just a good ego check one to be like, be like, "Hey, maybe
+
+349
+00:14:53,330 --> 00:14:55,010
+we should listen to everybody here."
+
+350
+00:14:55,030 --> 00:14:55,950
+[laughs]
+
+351
+00:14:55,990 --> 00:14:56,490
+Brad Treeby: Yeah.
+
+352
+00:14:56,050 --> 00:14:56,550
+Keith Murphy: Yeah. Yeah, yeah.
+
+353
+00:14:56,230 --> 00:14:57,670
+Charles Caskey: Easy to say, hard to do.
+
+354
+00:14:57,730 --> 00:14:58,350
+[laughs]
+
+355
+00:14:58,390 --> 00:15:02,370
+Brad Treeby: Yeah. Yeah, and, and I think maybe that's, it's one of the traits of,
+
+356
+00:15:02,870 --> 00:15:08,150
+of what makes good academic founders, people that are open-minded enough to understand that,
+
+357
+00:15:08,270 --> 00:15:11,110
+you know, you're not just trying to solve technical challenges, but you have to
+
+358
+00:15:11,150 --> 00:15:13,150
+be somehow motivated to build a company, right?
+
+359
+00:15:13,230 --> 00:15:14,230
+So there's a-
+
+360
+00:15:14,250 --> 00:15:14,750
+Charles Caskey: Yeah
+
+361
+00:15:14,470 --> 00:15:17,130
+Brad Treeby: ... a sort of expectation. You're not, you don't just have a strong technical
+
+362
+00:15:17,190 --> 00:15:20,150
+ability, but you need to build some sort of commercial engine, right, that can
+
+363
+00:15:20,210 --> 00:15:25,470
+scale. And separating, you know, is this interesting or publishable from, [chuckles] like, will
+
+364
+00:15:25,510 --> 00:15:26,390
+somebody pay for this?
+
+365
+00:15:26,870 --> 00:15:27,370
+Charles Caskey: Yeah.
+
+366
+00:15:26,910 --> 00:15:29,730
+Brad Treeby: And those two things are not necessarily correlated, right?
+
+367
+00:15:30,330 --> 00:15:33,730
+And, you know, you get into a startup and, and technology is rarely the
+
+368
+00:15:33,810 --> 00:15:36,630
+only risk. Sometimes that's not even the most important risk anymore.
+
+369
+00:15:36,690 --> 00:15:40,070
+You know, m- I think a lot of people underweight, you know, industrial design,
+
+370
+00:15:40,210 --> 00:15:43,650
+clinical regulatory market, financial risk. So I think you need- Yeah ...
+
+371
+00:15:43,670 --> 00:15:46,370
+to bring on board all of those, all of those people, right?
+
+372
+00:15:46,890 --> 00:15:47,610
+Um, you know-
+
+373
+00:15:47,690 --> 00:15:50,830
+Charles Caskey: But I will say, though, you bring, you still brought forward and you, you've
+
+374
+00:15:50,870 --> 00:15:54,870
+held on to the, the technical component of precision and accuracy.
+
+375
+00:15:55,070 --> 00:15:57,870
+It seems to have carried a lot, you know, carried a lot of weight
+
+376
+00:15:58,030 --> 00:16:00,310
+with, with y'all's decision-making, which is- Yeah ...
+
+377
+00:16:00,330 --> 00:16:03,310
+which is cool. Like, that, I think that really can differentiate you guys on
+
+378
+00:16:03,350 --> 00:16:06,650
+the technical space as well as, um, the practical space.
+
+379
+00:16:06,690 --> 00:16:07,190
+So it's really-
+
+380
+00:16:07,170 --> 00:16:07,670
+Brad Treeby: Yeah
+
+381
+00:16:07,530 --> 00:16:08,030
+Charles Caskey: ... really neat.
+
+382
+00:16:08,450 --> 00:16:10,070
+Brad Treeby: Yeah, and I think that's an, an important point, right?
+
+383
+00:16:10,110 --> 00:16:12,030
+'Cause we're a relatively small company.
+
+384
+00:16:12,470 --> 00:16:15,830
+We're 12 people. Um, and there's some, there's some big companies in the space.
+
+385
+00:16:15,870 --> 00:16:18,150
+There's some well-funded companies in the, in the space.
+
+386
+00:16:18,250 --> 00:16:21,650
+So then you obviously have to think about, as a founder, as a CEO,
+
+387
+00:16:21,870 --> 00:16:25,230
+how do we, how do we think about positioning ourselves against those companies?
+
+388
+00:16:25,410 --> 00:16:29,010
+And, you know, you're not gonna compete in a race where, where money is
+
+389
+00:16:29,030 --> 00:16:30,810
+the deciding factor, right? So we're not gonna win on-
+
+390
+00:16:30,910 --> 00:16:31,410
+Charles Caskey: Mm-hmm
+
+391
+00:16:30,930 --> 00:16:34,530
+Brad Treeby: ... manufacturing scale or sales force size, marketing capability.
+
+392
+00:16:35,130 --> 00:16:37,910
+So you pick a battle where the scarce resource isn't money.
+
+393
+00:16:38,550 --> 00:16:39,110
+You pick a battle-
+
+394
+00:16:39,170 --> 00:16:39,670
+Charles Caskey: Mm-hmm
+
+395
+00:16:39,190 --> 00:16:41,170
+Brad Treeby: ... where the scarce resource is scientific knowledge.
+
+396
+00:16:41,470 --> 00:16:44,730
+Um, and then you focus on those almost exclusively, and then you try and
+
+397
+00:16:44,770 --> 00:16:46,210
+optimize the speed at which you can learn.
+
+398
+00:16:46,570 --> 00:16:49,090
+We can pivot our whole company to try and solve those problems, and then
+
+399
+00:16:49,110 --> 00:16:50,610
+you get an edge, you know, somewhere-
+
+400
+00:16:50,610 --> 00:16:51,110
+Charles Caskey: Yeah
+
+401
+00:16:50,710 --> 00:16:52,930
+Brad Treeby: ... where, you know, you clearly have an advantage.
+
+402
+00:16:53,310 --> 00:16:56,270
+So that's why I think, you know, we're, we've got five ultrasound PhDs inside
+
+403
+00:16:56,290 --> 00:17:00,190
+the company of 12 people. So there's a, a strong focus on how do
+
+404
+00:17:00,210 --> 00:17:04,230
+we leverage our unfair advantage, which is deep knowledge of the space, and then
+
+405
+00:17:04,270 --> 00:17:07,130
+turn that into something that could be clinically and commercially useful.
+
+406
+00:17:08,490 --> 00:17:09,610
+Charles Caskey: Yeah, totally. [clears throat]
+
+407
+00:17:09,650 --> 00:17:14,130
+Keith Murphy: How, how would you revise a PhD program if you, let's say, in some
+
+408
+00:17:14,610 --> 00:17:18,790
+hypothetical, you sold NeuroHarmonics for a fortune, and you were like- [clears throat] ...
+
+409
+00:17:18,790 --> 00:17:23,170
+"Well, I still wanna go back and do what I love," which I feel
+
+410
+00:17:23,190 --> 00:17:26,590
+like for you has been building community tools and, and giving back to the
+
+411
+00:17:26,650 --> 00:17:30,150
+world and discovering new things. Let's say you went back to it, and you're
+
+412
+00:17:30,190 --> 00:17:31,510
+now the chair of a department.
+
+413
+00:17:32,210 --> 00:17:36,530
+What things do you s- now encourage PhD students to start doing that you've
+
+414
+00:17:37,030 --> 00:17:39,550
+kind of thought more about? Or is it just those things that you described?
+
+415
+00:17:39,610 --> 00:17:44,030
+It's like, think about scientific experiment as product, and maybe the experiments will go
+
+416
+00:17:44,070 --> 00:17:45,270
+easier or you'll get-
+
+417
+00:17:45,290 --> 00:17:45,790
+Brad Treeby: Yeah
+
+418
+00:17:45,350 --> 00:17:46,070
+Keith Murphy: ... better funding.
+
+419
+00:17:46,090 --> 00:17:46,590
+Brad Treeby: Yeah.
+
+420
+00:17:46,310 --> 00:17:47,270
+Keith Murphy: You know? Like-
+
+421
+00:17:47,330 --> 00:17:49,630
+Brad Treeby: I'm, I'm not sure I'd want to change anything, to be honest.
+
+422
+00:17:49,730 --> 00:17:54,470
+I mean, I think academia and, and industry are good at different things, right?
+
+423
+00:17:54,950 --> 00:17:57,680
+So- If you think about what is the point of a university, what is
+
+424
+00:17:57,720 --> 00:18:01,920
+the point of an academic, you're thinking about how do I contribute to the
+
+425
+00:18:02,000 --> 00:18:03,700
+acquisition and the transfer of knowledge?
+
+426
+00:18:03,880 --> 00:18:06,480
+Whereas in a, in industry or in a startup, I'm thinking about how do
+
+427
+00:18:06,580 --> 00:18:11,520
+I deliver clinical value that has great commercial outcomes, you know, in some time
+
+428
+00:18:11,560 --> 00:18:15,460
+horizon. And I think those two things, they're not necessarily the same questions.
+
+429
+00:18:15,500 --> 00:18:19,340
+Part of it is, part of the, the training of being a good academic,
+
+430
+00:18:19,400 --> 00:18:22,440
+this kind of design, build, test, iterate sort of loop that we all run
+
+431
+00:18:22,460 --> 00:18:24,780
+through is similar, but you have a different objective function.
+
+432
+00:18:24,860 --> 00:18:29,000
+So in academia, you're sort of looping until you can explain something, you know?
+
+433
+00:18:29,060 --> 00:18:29,560
+Charles Caskey: Mm-hmm.
+
+434
+00:18:29,180 --> 00:18:31,780
+Brad Treeby: But I think in industry, you're just looping until you have enough conviction to
+
+435
+00:18:31,820 --> 00:18:34,140
+do the next thing to bring your product to market, and they're, they're so-
+
+436
+00:18:34,200 --> 00:18:34,700
+Charles Caskey: Mm-hmm
+
+437
+00:18:34,280 --> 00:18:35,600
+Brad Treeby: ... they're sort of separated in that way.
+
+438
+00:18:36,020 --> 00:18:39,960
+So I think academia is fantastic for the discovery part of the, the piece,
+
+439
+00:18:40,000 --> 00:18:43,320
+and industry is obviously great for that delivery translation aspect.
+
+440
+00:18:43,940 --> 00:18:47,640
+Um, and I think that framing has some interesting consequences, right?
+
+441
+00:18:47,760 --> 00:18:52,420
+You know, if you make a surprising discovery in academia, that's normally a gift.
+
+442
+00:18:52,480 --> 00:18:52,980
+Charles Caskey: Mm-hmm.
+
+443
+00:18:52,600 --> 00:18:56,920
+Brad Treeby: So, you know, Elly Martin and I had this long-running paper which took several
+
+444
+00:18:56,980 --> 00:19:00,280
+years to publish, not because we weren't working hard on it, just we started
+
+445
+00:19:00,320 --> 00:19:04,680
+to do this experimental comparison, experiment versus model through a skull and in, and
+
+446
+00:19:04,740 --> 00:19:08,300
+in water. And the first experiment, they just didn't match, so we went back
+
+447
+00:19:08,340 --> 00:19:11,400
+and, okay, we have to understand what the difference is.
+
+448
+00:19:11,420 --> 00:19:13,900
+And so we wrote papers on how do you model the transducers, how do
+
+449
+00:19:13,940 --> 00:19:17,060
+you understand cross-coupling, how do you understand hydrophone directivity.
+
+450
+00:19:17,460 --> 00:19:19,460
+So there's kind of all these things we published in the interim, and then
+
+451
+00:19:19,480 --> 00:19:22,780
+like several years later, this sort of thread drew itself to a natural conclusion,
+
+452
+00:19:22,800 --> 00:19:25,900
+and finally we could publish a paper on, okay, this is a, a comparison
+
+453
+00:19:25,940 --> 00:19:27,900
+between a model and an experiment that makes sense, right?
+
+454
+00:19:27,920 --> 00:19:30,040
+Keith Murphy: That paper is heavy. I know that paper well.
+
+455
+00:19:30,060 --> 00:19:31,200
+Brad Treeby: Yeah, there's a lot of stuff, right?
+
+456
+00:19:31,300 --> 00:19:32,180
+[laughs]
+
+457
+00:19:32,240 --> 00:19:33,860
+Keith Murphy: You said all the things that mattered.
+
+458
+00:19:34,020 --> 00:19:34,520
+[laughs]
+
+459
+00:19:34,460 --> 00:19:38,440
+Brad Treeby: Yeah. So, you know, I think that surprising discovery in academia is a gift,
+
+460
+00:19:38,500 --> 00:19:41,000
+but in, in a company, if you're trying to do product development, that's a
+
+461
+00:19:41,040 --> 00:19:44,260
+problem, right? It means your model of the system was wrong, and that's somewhere
+
+462
+00:19:44,300 --> 00:19:47,240
+that matters. I mean, it's stopping you from doing the next thing or running
+
+463
+00:19:47,260 --> 00:19:53,460
+the next clinical study. So, so I wouldn't necessarily try and take what industry
+
+464
+00:19:53,480 --> 00:19:55,780
+is good at and, and shove it into academia.
+
+465
+00:19:55,840 --> 00:19:59,520
+I mean, maybe some just awareness of the differences is, is useful, but, you
+
+466
+00:19:59,560 --> 00:20:01,640
+know, I, I love academia. I have a soft spot, right?
+
+467
+00:20:01,700 --> 00:20:04,980
+I mean, I spent, you know, my, my entire career in academia thinking about
+
+468
+00:20:05,180 --> 00:20:08,280
+general things that I just happen to be interested in, filling whiteboards with no
+
+469
+00:20:08,360 --> 00:20:10,420
+particular purpose, and that's where discoveries come from.
+
+470
+00:20:10,420 --> 00:20:10,920
+[laughs]
+
+471
+00:20:10,740 --> 00:20:11,240
+Charles Caskey: Yeah.
+
+472
+00:20:10,780 --> 00:20:11,900
+Brad Treeby: I, I wouldn't wanna change that.
+
+473
+00:20:11,960 --> 00:20:14,900
+I wouldn't wanna m- give everybody, "Okay, you can only do things that are
+
+474
+00:20:14,940 --> 00:20:17,320
+gonna have an immediate impact," 'cause I think that's a wrong way to think
+
+475
+00:20:17,380 --> 00:20:19,880
+about why universities are useful.
+
+476
+00:20:20,800 --> 00:20:25,060
+Charles Caskey: Yeah, and there's countless examples of that, like the discovery of GLP traces back
+
+477
+00:20:25,140 --> 00:20:28,980
+to studying, was it like specific lizards or something?
+
+478
+00:20:29,100 --> 00:20:30,180
+But I like what you're saying.
+
+479
+00:20:30,300 --> 00:20:35,140
+I think there is a, a culture in academics of industry work being lesser
+
+480
+00:20:35,620 --> 00:20:39,160
+or not as, as important, and I think that maybe that would be one
+
+481
+00:20:39,200 --> 00:20:42,540
+thing I would potentially change. You know, I talk to s- to a lot
+
+482
+00:20:42,560 --> 00:20:45,600
+of people and they think, "Oh, if I left academics, I'm leaving something pure,"
+
+483
+00:20:45,700 --> 00:20:48,220
+or that it's... I think, which one, academics is not pure.
+
+484
+00:20:48,320 --> 00:20:51,980
+[laughs] One thing, if you, you work on what you can get funded and
+
+485
+00:20:52,080 --> 00:20:53,940
+supported. Uh, so yeah, I mean...
+
+486
+00:20:54,380 --> 00:20:57,560
+And then, and then two, it's just i- if you go to industry, there's
+
+487
+00:20:57,580 --> 00:21:01,220
+still, like, so many meaningful, awesome things to do that, uh, I wouldn't completely
+
+488
+00:21:01,240 --> 00:21:03,700
+change how academics work, but I think that would be the one thing that
+
+489
+00:21:04,180 --> 00:21:09,580
+to somehow dispel that concept, because, uh, it's very difficult to make a career
+
+490
+00:21:09,720 --> 00:21:12,660
+out of doing what you want [laughs] in a, in a lab.
+
+491
+00:21:13,140 --> 00:21:17,480
+Um, and, and I think that that is a, a delusion that, that I
+
+492
+00:21:17,520 --> 00:21:21,160
+myself certainly had going in as a grad student, but it, it, it's, uh,
+
+493
+00:21:21,400 --> 00:21:25,380
+um, you know, I've, I've strung together so many years as a career doing
+
+494
+00:21:25,440 --> 00:21:28,600
+that, but it's like constant grant writing, trying to find out how my skills
+
+495
+00:21:28,620 --> 00:21:30,820
+and interests map to things that are actually fundable.
+
+496
+00:21:31,180 --> 00:21:33,780
+I mean, that's very similar to, like, what a company does with looking at
+
+497
+00:21:33,820 --> 00:21:35,660
+markets and looking at things like, so...
+
+498
+00:21:35,700 --> 00:21:39,460
+Brad Treeby: Yeah. I totally agree. Yeah. I mean, my-- mo- most of my academic career,
+
+499
+00:21:39,900 --> 00:21:44,820
+I guess, was I tried to just find good people and then let them
+
+500
+00:21:44,860 --> 00:21:46,160
+do good things, [laughs] you know?
+
+501
+00:21:46,560 --> 00:21:48,360
+You j- Yeah ... it's, it's, I, I guess maybe- Yeah ...
+
+502
+00:21:48,400 --> 00:21:51,140
+to add to your point, I th- I guess there is one difference just
+
+503
+00:21:51,280 --> 00:21:54,120
+in terms of management maybe v mentorship.
+
+504
+00:21:54,580 --> 00:21:58,720
+I mean, in academia, often to your point, you know, you write a grant,
+
+505
+00:21:58,760 --> 00:22:01,440
+you get one or two postdocs or a PhD student there on one thing,
+
+506
+00:22:01,480 --> 00:22:03,820
+and over here you've got another grant, a couple of postdocs and a PhD
+
+507
+00:22:04,020 --> 00:22:06,660
+student, and you're basically training these people to leave you.
+
+508
+00:22:07,160 --> 00:22:08,020
+I mean, that's essentially- Yeah ...
+
+509
+00:22:08,040 --> 00:22:10,540
+what you're doing. [laughs] Yeah. You kind of...
+
+510
+00:22:10,860 --> 00:22:14,120
+I mean, you want them to become independent PIs and grow their, their academic
+
+511
+00:22:14,160 --> 00:22:17,420
+careers. I mean, hopefully that's not what you're doing inside a company.
+
+512
+00:22:17,920 --> 00:22:18,420
+Um-
+
+513
+00:22:18,040 --> 00:22:21,700
+Charles Caskey: Yeah, right. [laughs] Like please go, go be president of another company and be
+
+514
+00:22:21,740 --> 00:22:22,420
+our competitor.
+
+515
+00:22:22,520 --> 00:22:23,020
+Brad Treeby: Yeah.
+
+516
+00:22:22,740 --> 00:22:25,880
+Charles Caskey: Yeah, yeah. It's like, yeah, it is, it's a very different ecosystem in that
+
+517
+00:22:26,000 --> 00:22:26,500
+respect.
+
+518
+00:22:26,940 --> 00:22:27,440
+Brad Treeby: Yeah.
+
+519
+00:22:27,520 --> 00:22:28,020
+Charles Caskey: I do-
+
+520
+00:22:27,820 --> 00:22:30,760
+Keith Murphy: Some of the better, um... I don't know, some of the best people that
+
+521
+00:22:30,800 --> 00:22:33,680
+you get are actually like, "Oh, I wanna go to med school," or, "I
+
+522
+00:22:33,760 --> 00:22:34,960
+do wanna go to grad school."
+
+523
+00:22:35,020 --> 00:22:38,640
+And you kinda think, "Well, we only have two or three years of runway
+
+524
+00:22:38,700 --> 00:22:40,440
+anyway, so maybe that'll work out."
+
+525
+00:22:40,960 --> 00:22:46,860
+And they still, it's sort of, I don't know, academic and company, um, boundaries
+
+526
+00:22:46,900 --> 00:22:50,080
+are dissolving, in my opinion, a little bit, you know, every year.
+
+527
+00:22:50,620 --> 00:22:51,420
+Yeah. It's kind of getting bigger.
+
+528
+00:22:51,760 --> 00:22:52,540
+Charles, what were you saying?
+
+529
+00:22:53,440 --> 00:22:55,800
+Charles Caskey: Oh, well, I was just, I didn't know if we were going backwards in
+
+530
+00:22:55,840 --> 00:22:57,380
+time because it is on this topic.
+
+531
+00:22:57,440 --> 00:23:01,780
+I mean, Brad had, Brad had like, kind of like one of the more
+
+532
+00:23:01,940 --> 00:23:07,700
+safer academic careers that one could imagine, but after building k-Wave, uh, international reputation
+
+533
+00:23:08,020 --> 00:23:12,660
+in focused ultrasound, uh, professor at, at UCL, and then, and then to go
+
+534
+00:23:12,820 --> 00:23:15,600
+start a company. What was the ma- main driving factor on that?
+
+535
+00:23:16,240 --> 00:23:18,440
+Brad Treeby: On, on which part? [laughs]
+
+536
+00:23:18,540 --> 00:23:19,160
+Charles Caskey: Um, the-
+
+537
+00:23:19,180 --> 00:23:19,720
+Brad Treeby: Yeah. [laughs]
+
+538
+00:23:19,720 --> 00:23:20,560
+Charles Caskey: ... the decision to, the decision to leave-
+
+539
+00:23:20,580 --> 00:23:22,020
+Keith Murphy: I also would like clarification.
+
+540
+00:23:22,420 --> 00:23:24,720
+Charles Caskey: Yeah. The decision to leave, uh, s- uh, stability.
+
+541
+00:23:25,500 --> 00:23:28,540
+Brad Treeby: Yeah. I mean, it's simple. I wanna help patients at scale, and I think
+
+542
+00:23:28,580 --> 00:23:30,320
+that's almost impossible to do in academia.
+
+543
+00:23:30,980 --> 00:23:31,480
+So-
+
+544
+00:23:31,160 --> 00:23:31,660
+Charles Caskey: Cool.
+
+545
+00:23:31,380 --> 00:23:32,100
+Brad Treeby: Yeah ... I think it's a very, very-
+
+546
+00:23:32,120 --> 00:23:32,620
+Charles Caskey: Brad
+
+547
+00:23:32,300 --> 00:23:34,860
+Keith Murphy: ... yeah ... they would, they would take you back at UCL if you
+
+548
+00:23:34,920 --> 00:23:36,860
+ever were like, "Oh, well, I've tried."
+
+549
+00:23:37,020 --> 00:23:37,520
+[laughs]
+
+550
+00:23:37,580 --> 00:23:38,640
+Brad Treeby: I mean, I keep my library card.
+
+551
+00:23:38,660 --> 00:23:39,160
+Charles Caskey: They would take you back.
+
+552
+00:23:39,000 --> 00:23:40,340
+Brad Treeby: I'm, I'm still an honorary professor.
+
+553
+00:23:40,400 --> 00:23:40,900
+Charles Caskey: Yeah.
+
+554
+00:23:41,020 --> 00:23:41,520
+Brad Treeby: So...
+
+555
+00:23:41,160 --> 00:23:43,080
+Keith Murphy: They'll take him back. [laughs] [laughs] Cool.
+
+556
+00:23:44,140 --> 00:23:47,180
+There was-- I mean, there c- like I feel like there wasn't even, there
+
+557
+00:23:47,220 --> 00:23:50,020
+wasn't even a choice. You kinda saw it, and you were like, "I have
+
+558
+00:23:50,040 --> 00:23:50,620
+to do this."
+
+559
+00:23:51,100 --> 00:23:51,600
+Brad Treeby: Yeah.
+
+560
+00:23:51,340 --> 00:23:55,420
+Keith Murphy: And, and honestly, you've made huge strides since...
+
+561
+00:23:55,680 --> 00:23:58,980
+So w- what I had heard with the UCL, one of the bigger things
+
+562
+00:23:59,060 --> 00:24:02,960
+was when their head was fixed for so long and the vacuum pressure together-
+
+563
+00:24:03,570 --> 00:24:06,630
+... created a lot of tension on the neck that was almost like it
+
+564
+00:24:06,650 --> 00:24:10,370
+would be difficult to carry forth with experiments, and there was so much institutional
+
+565
+00:24:10,430 --> 00:24:14,910
+knowledge. Did that device ever get out to other researchers?
+
+566
+00:24:14,970 --> 00:24:15,810
+Did that grow or?
+
+567
+00:24:16,090 --> 00:24:19,570
+Brad Treeby: No, sadly. It, it's, um, it's-- I think there's still some plans to use-
+
+568
+00:24:19,590 --> 00:24:20,470
+Keith Murphy: It's hard to build that thing
+
+569
+00:24:20,490 --> 00:24:21,190
+Brad Treeby: ... use it. It's really-
+
+570
+00:24:21,210 --> 00:24:21,710
+Keith Murphy: Really hard, right?
+
+571
+00:24:21,690 --> 00:24:24,690
+Brad Treeby: Hard to replicate. Actually, on that point, there was a, um, there was a
+
+572
+00:24:24,730 --> 00:24:27,730
+super cool solution that, that Morgan came up with that we just randomly had
+
+573
+00:24:27,770 --> 00:24:31,330
+in the lab. So we, we, we're trying to test this idea that after
+
+574
+00:24:31,450 --> 00:24:34,630
+spending some time in the device, you get this really hard pressure on your
+
+575
+00:24:34,650 --> 00:24:36,750
+head, and it's like, feels like you're getting pushed out of it.
+
+576
+00:24:37,450 --> 00:24:41,570
+And, um, the system works by flowing water in the bottom and then sort
+
+577
+00:24:41,610 --> 00:24:44,110
+of coming out the top. And, and for some reason, I still don't know
+
+578
+00:24:44,150 --> 00:24:47,010
+why, Morgan just, like, grabbed the top tube and sucked on it.
+
+579
+00:24:47,410 --> 00:24:49,170
+I was like- [laughs] ... "Hey, what did you do, man?
+
+580
+00:24:49,470 --> 00:24:53,210
+That feels awesome." But, you know, he'd drawn a vacuum on the top, which,
+
+581
+00:24:53,410 --> 00:24:56,930
+you know, reduced the atmospheric pressure on the water column, and all of a
+
+582
+00:24:56,970 --> 00:24:59,310
+sudden that pressure went away. And so-
+
+583
+00:24:59,530 --> 00:25:00,030
+Keith Murphy: Wow
+
+584
+00:24:59,550 --> 00:25:02,470
+Brad Treeby: ... in the end, the device that we tested, um, and published on has
+
+585
+00:25:02,510 --> 00:25:06,770
+got this tiny little vacuum pump and a little PID controller that just constantly
+
+586
+00:25:06,850 --> 00:25:08,450
+draws a vacuum just a little bit-
+
+587
+00:25:08,510 --> 00:25:09,010
+Keith Murphy: Wow
+
+588
+00:25:08,730 --> 00:25:09,810
+Brad Treeby: ... below atmospheric pressure- Yeah ...
+
+589
+00:25:09,850 --> 00:25:12,050
+so you don't get that crushing force on, on your head.
+
+590
+00:25:12,110 --> 00:25:14,890
+But that was just one of those totally random discoveries.
+
+591
+00:25:14,930 --> 00:25:15,950
+We were just trying different things.
+
+592
+00:25:15,970 --> 00:25:19,670
+We were filling it up different amounts, trying to understand, you know, when does
+
+593
+00:25:19,730 --> 00:25:23,670
+the, when does the pressure kick in, and then, yeah, light bulb.
+
+594
+00:25:24,350 --> 00:25:26,390
+Keith Murphy: So who's gonna carry the flag of, uh...
+
+595
+00:25:26,530 --> 00:25:30,890
+I mean, so Insightec was obviously the crown jewel where people wanted to use
+
+596
+00:25:30,950 --> 00:25:32,910
+it, but they don't do a lot of collaborations.
+
+597
+00:25:33,010 --> 00:25:35,550
+I mean, they did the Virginia stuff and, and a few other things.
+
+598
+00:25:35,630 --> 00:25:41,630
+But people viewed you guys and Elly and Charlie as sort of a way
+
+599
+00:25:41,690 --> 00:25:46,570
+to build a big community. Do you think anyone's going to eventually make more
+
+600
+00:25:46,610 --> 00:25:49,110
+of a global research, uh, hemisphere?
+
+601
+00:25:49,930 --> 00:25:53,930
+Or, I mean, not that you owe the world to, like, contribute to that,
+
+602
+00:25:54,010 --> 00:25:56,150
+you don't, [laughs] but I just mean in general.
+
+603
+00:25:57,030 --> 00:25:57,850
+I don't know. Where is that?
+
+604
+00:25:58,190 --> 00:25:59,350
+That's just not up to you anymore.
+
+605
+00:25:59,630 --> 00:26:00,550
+Brad Treeby: Yeah, I, I mean, you're right.
+
+606
+00:26:00,610 --> 00:26:03,130
+It's not up to me. I guess at, at NeuroHarmonics, we're, we're focused on
+
+607
+00:26:03,170 --> 00:26:08,390
+that clinical commercial translation piece. Um, we're not planning to make research devices, although
+
+608
+00:26:08,450 --> 00:26:10,750
+obviously we'll collaborate as many companies do.
+
+609
+00:26:11,330 --> 00:26:13,070
+Um, so yeah, it's a good question.
+
+610
+00:26:13,190 --> 00:26:15,030
+I think it's hard to do well, right?
+
+611
+00:26:15,190 --> 00:26:16,410
+I think that is the-
+
+612
+00:26:16,710 --> 00:26:17,210
+Keith Murphy: Yeah
+
+613
+00:26:16,730 --> 00:26:18,950
+Brad Treeby: ... problem. You know, there was a lot of things that you need to
+
+614
+00:26:18,970 --> 00:26:20,750
+get right, and you guys know this extremely well.
+
+615
+00:26:21,230 --> 00:26:24,330
+Um, you need to know the properties of your device super accurately in terms
+
+616
+00:26:24,370 --> 00:26:27,530
+of the calibration. You need to know the properties of the participant.
+
+617
+00:26:27,730 --> 00:26:32,090
+What are their skin properties, skull mapping, all the sequences to get their acoustic
+
+618
+00:26:32,150 --> 00:26:36,370
+properties, where the target is. You need to solve where the device is relative
+
+619
+00:26:36,410 --> 00:26:38,530
+to the participant, and you need to solve that well.
+
+620
+00:26:38,970 --> 00:26:41,110
+And then you need to model somehow that interaction.
+
+621
+00:26:41,530 --> 00:26:45,550
+And then somehow you need to put that in a user-friendly platform that works-
+
+622
+00:26:45,550 --> 00:26:49,670
+[laughs] ... end-to-end, um, that if you release it out on the world, um,
+
+623
+00:26:50,290 --> 00:26:50,790
+you know-
+
+624
+00:26:50,430 --> 00:26:51,190
+Keith Murphy: People will break it. They'll find a-
+
+625
+00:26:51,190 --> 00:26:54,250
+Brad Treeby: ... use it without your inbox being filled with nine million emails every day
+
+626
+00:26:54,290 --> 00:26:55,790
+of, you know, this broken, that broken.
+
+627
+00:26:56,250 --> 00:26:59,110
+You know, why doesn't this connect together and, and getting a timeout and, and
+
+628
+00:26:59,150 --> 00:27:03,190
+whatever. So I, I think doing that for a research platform is, is hard
+
+629
+00:27:03,250 --> 00:27:06,730
+and, and maybe even a research platform is harder to build than a clinical
+
+630
+00:27:06,790 --> 00:27:10,410
+platform because in the end, for the clinical platform, you're nailing it down to
+
+631
+00:27:10,430 --> 00:27:15,970
+do one particular thing, one particular pulse sequence, you know, one paradigm, one workflow.
+
+632
+00:27:16,250 --> 00:27:18,430
+Whereas in research, everyone wants to try some crazy thing.
+
+633
+00:27:18,450 --> 00:27:19,810
+"Hey, can I do this plus this?"
+
+634
+00:27:19,850 --> 00:27:20,350
+Keith Murphy: Yeah.
+
+635
+00:27:19,870 --> 00:27:20,990
+Brad Treeby: "Or can I do that backwards?"
+
+636
+00:27:21,050 --> 00:27:23,950
+Or, you know, "Can I do twice the energy or half the number?"
+
+637
+00:27:24,030 --> 00:27:25,730
+Or, or whatever. So I think it's just hard-
+
+638
+00:27:25,750 --> 00:27:26,250
+Keith Murphy: Or none at all
+
+639
+00:27:26,050 --> 00:27:28,150
+Brad Treeby: ... hard to support. Or none at all.
+
+640
+00:27:28,150 --> 00:27:28,910
+[laughs]
+
+641
+00:27:28,950 --> 00:27:30,450
+Keith Murphy: Hey, let's talk about k-Wave.
+
+642
+00:27:30,690 --> 00:27:31,190
+Brad Treeby: Hmm. Sure.
+
+643
+00:27:30,930 --> 00:27:34,910
+Keith Murphy: That's a natural transition. So you, you already gave the world just that.
+
+644
+00:27:35,030 --> 00:27:37,330
+You bent over backwards for 15 years.
+
+645
+00:27:37,790 --> 00:27:42,450
+I had Claude go in and analyze the forum for funny oddities.
+
+646
+00:27:42,490 --> 00:27:45,850
+[laughs] [laughs] I don't know that I have that many, but I wanted to
+
+647
+00:27:45,890 --> 00:27:46,810
+read a few things. So-
+
+648
+00:27:46,890 --> 00:27:47,390
+Brad Treeby: Okay
+
+649
+00:27:47,010 --> 00:27:51,570
+Keith Murphy: ... let's just start by saying that Brad and Ben Cox, these guys built
+
+650
+00:27:52,110 --> 00:27:56,110
+one of the most prolific acoustic simulation toolkits.
+
+651
+00:27:56,150 --> 00:28:00,550
+This was long before AI existed and, and was an easier support engine.
+
+652
+00:28:01,090 --> 00:28:05,430
+And the one thing I always noticed was Brad went through this forum, and
+
+653
+00:28:05,470 --> 00:28:10,410
+this is thousands and thousands of messages, and he answered every one of them
+
+654
+00:28:10,450 --> 00:28:13,170
+by hand. [laughs] Like almost every one of them.
+
+655
+00:28:13,730 --> 00:28:17,790
+And more often than not, I don't know that there was so much gratitude
+
+656
+00:28:17,910 --> 00:28:21,290
+or even correctly naming you. So we found- [laughs] ...
+
+657
+00:28:21,350 --> 00:28:25,590
+we found 11 instances where Brad was referred to as Treeby.
+
+658
+00:28:25,670 --> 00:28:29,030
+[laughs] Just, "Hi, hi Treeby." [laughs] "Thank you, Treeby."
+
+659
+00:28:29,030 --> 00:28:29,990
+[laughs]
+
+660
+00:28:30,010 --> 00:28:31,890
+Brad Treeby: My high school friends call me Treebs, so that's okay.
+
+661
+00:28:31,970 --> 00:28:32,810
+Keith Murphy: Oh, Treebs. Okay.
+
+662
+00:28:33,070 --> 00:28:36,010
+Charles Caskey: Thanks, Treebs. [laughs] [laughs]
+
+663
+00:28:36,070 --> 00:28:37,610
+Keith Murphy: Dear Treeby, I wanted to read one.
+
+664
+00:28:38,030 --> 00:28:43,450
+Somebody actually filled out a whole detailed bug report on the KDE sound recorder,
+
+665
+00:28:43,530 --> 00:28:46,090
+which was also called k-Wave. [laughs]
+
+666
+00:28:46,110 --> 00:28:46,610
+Brad Treeby: Oh, God.
+
+667
+00:28:46,410 --> 00:28:50,290
+Keith Murphy: And Brad goes, Brad goes, "I think you have the wrong forum.
+
+668
+00:28:50,370 --> 00:28:53,350
+Wink face. This one is about open source MATLAB.
+
+669
+00:28:53,710 --> 00:28:57,130
+Thanks for passing through." [laughs] [laughs]
+
+670
+00:28:57,190 --> 00:28:58,170
+Charles Caskey: A gracious man.
+
+671
+00:28:59,290 --> 00:29:05,350
+Keith Murphy: Yeah. Another user writes, "I want to simulate 40 kilohertz transducer and find
+
+672
+00:29:05,390 --> 00:29:09,610
+directivity. Can anyone please provide MATLAB code so I can simulate?
+
+673
+00:29:09,850 --> 00:29:15,530
+I need urgent reply." [laughs] [laughs] Brad, Brad says, "Thanks for stopping by.
+
+674
+00:29:15,630 --> 00:29:20,050
+You can start with sensor directivity and ultrasound simulation examples and modify them to
+
+675
+00:29:20,090 --> 00:29:21,830
+simulate what you're after." No reply.
+
+676
+00:29:22,070 --> 00:29:25,590
+Thread closed. [laughs] There's just a lot, there's a lot of examples where you
+
+677
+00:29:25,650 --> 00:29:28,850
+just graciously give people answers for over a decade.
+
+678
+00:29:29,190 --> 00:29:33,950
+So Claude was most surprised that never once through the whole forum did you
+
+679
+00:29:34,030 --> 00:29:35,990
+ever ask anyone to read the manual.
+
+680
+00:29:36,530 --> 00:29:38,370
+Did you ever notice that you didn't do that?
+
+681
+00:29:39,590 --> 00:29:40,090
+You just kept-
+
+682
+00:29:39,870 --> 00:29:40,370
+Brad Treeby: I never owned a manual
+
+683
+00:29:40,190 --> 00:29:42,530
+Keith Murphy: ... turning a wheel. Yeah. Nev- never.
+
+684
+00:29:42,670 --> 00:29:46,710
+And, and, and Claude also noticed almost all of these are in the manual.
+
+685
+00:29:46,810 --> 00:29:50,810
+[laughs] So what kept you going, Brad, all these years?
+
+686
+00:29:51,050 --> 00:29:53,910
+Brad Treeby: I don't know. I just felt like it was important and it was, it
+
+687
+00:29:53,950 --> 00:29:56,210
+was useful. I mean, it, it didn't start out big.
+
+688
+00:29:56,450 --> 00:30:01,030
+When I, um, I joined UCL, I joined UCL as, as Ben Cox's first
+
+689
+00:30:01,110 --> 00:30:04,170
+postdoc. He'd just won a fellowship, and this was in photoacoustic imaging.
+
+690
+00:30:04,350 --> 00:30:04,850
+So-
+
+691
+00:30:04,810 --> 00:30:05,310
+Keith Murphy: Mm-hmm
+
+692
+00:30:05,050 --> 00:30:08,780
+Brad Treeby: ... like in, in one sentence, photoacoustic imaging is where you pulse Laser light,
+
+693
+00:30:08,860 --> 00:30:12,460
+normally near-infrared. The photons go into the tissue, and they get absorbed by things
+
+694
+00:30:12,500 --> 00:30:16,380
+like blood, and they create an initial pressure distribution, which then propagates out.
+
+695
+00:30:16,680 --> 00:30:19,780
+And you record that, and then you try and reconstruct where those sound waves
+
+696
+00:30:19,820 --> 00:30:24,100
+came from. So when I joined Ben, we were looking at image reconstruction methods,
+
+697
+00:30:24,640 --> 00:30:28,220
+so trying to, can you use that data, that ultrasound data you record on
+
+698
+00:30:28,260 --> 00:30:31,360
+the skin, and then work out where those, um, sound waves came from?
+
+699
+00:30:31,400 --> 00:30:33,660
+And there was lots of different things in the literature, but we were interested
+
+700
+00:30:33,700 --> 00:30:37,700
+in this, in this method called time reversal, where you take those recorded...
+
+701
+00:30:38,020 --> 00:30:41,900
+They're broadband signals, much more broadband than, than a typical ultrasound pulse.
+
+702
+00:30:42,160 --> 00:30:46,120
+Um, and you basically reverse them in time, and you use a numerical model
+
+703
+00:30:46,140 --> 00:30:49,680
+to play them back, so they retrace their steps back to time equals zero,
+
+704
+00:30:49,740 --> 00:30:51,620
+where you get that initial pressure distribution.
+
+705
+00:30:52,220 --> 00:30:55,160
+But the problem was the models that we had to do that time reversal
+
+706
+00:30:55,180 --> 00:30:58,340
+were, were kind of too slow for that to be a useful technique.
+
+707
+00:30:58,440 --> 00:31:01,660
+So I was tasked with building on some work that Ben had already done
+
+708
+00:31:01,740 --> 00:31:05,860
+using these pseudo-spectral methods, um, to kind of use those to do, to do
+
+709
+00:31:05,900 --> 00:31:09,640
+time reversal. So that's kind of how it started, um, and we launched it
+
+710
+00:31:09,700 --> 00:31:12,800
+at a, a small conference. And to begin with, it was just on the
+
+711
+00:31:12,820 --> 00:31:16,180
+photoacoustic imaging group website. You... kind of a tiny little box.
+
+712
+00:31:16,220 --> 00:31:18,400
+You typed in your email and, and clicked request.
+
+713
+00:31:18,480 --> 00:31:21,200
+[chuckles] And then we'd get the email, and then we'd send you a zip
+
+714
+00:31:21,260 --> 00:31:23,080
+file. Um, and Ben and I-
+
+715
+00:31:23,160 --> 00:31:23,660
+Keith Murphy: Wow
+
+716
+00:31:23,200 --> 00:31:26,900
+Brad Treeby: ... printed the numbers one to 100 and then, like, stuck them on, on
+
+717
+00:31:26,940 --> 00:31:29,360
+the board. Then over the period of a couple of months, every time someone
+
+718
+00:31:29,400 --> 00:31:30,860
+requests it, we'd tear off a number.
+
+719
+00:31:31,340 --> 00:31:31,840
+And then when we-
+
+720
+00:31:31,740 --> 00:31:32,460
+Keith Murphy: Cool. [chuckles]
+
+721
+00:31:32,460 --> 00:31:34,820
+Brad Treeby: ... like several months later, we're like, "Yes, come on, we've won.
+
+722
+00:31:34,860 --> 00:31:37,920
+This is success." [laughs] We went to the pub and, and whatever, and it
+
+723
+00:31:37,940 --> 00:31:39,580
+was a, you know, it was, it was a nice, um...
+
+724
+00:31:40,620 --> 00:31:41,500
+It was, it was a nice result.
+
+725
+00:31:41,560 --> 00:31:42,820
+We think we've made something useful.
+
+726
+00:31:42,880 --> 00:31:44,420
+People are using it, and then it sort of grew.
+
+727
+00:31:44,500 --> 00:31:49,040
+That was k-Wave v0.1, um, which you can still download.
+
+728
+00:31:49,340 --> 00:31:51,800
+Uh, it was only about photoacoustic imaging.
+
+729
+00:31:51,900 --> 00:31:54,220
+You couldn't put in ultrasound sources, and then gradually it built.
+
+730
+00:31:54,260 --> 00:31:57,180
+Like, we added, we added the ability to put ultrasound sources in.
+
+731
+00:31:57,220 --> 00:32:01,020
+We added absorption. Uh, we added nonlinearity, and then it kind of built out
+
+732
+00:32:01,060 --> 00:32:05,120
+to this more general acoustic solver, uh, which found more and more uses in,
+
+733
+00:32:05,360 --> 00:32:08,580
+in nonlinear acoustics and underwater acoustics and room acoustics.
+
+734
+00:32:08,960 --> 00:32:12,080
+So I think it, it sort of, it took on its own life, and
+
+735
+00:32:12,660 --> 00:32:16,480
+we used it sort of as an engine for putting out our own research.
+
+736
+00:32:16,620 --> 00:32:19,000
+So it was a kind of a, a nice open source way.
+
+737
+00:32:19,060 --> 00:32:21,860
+We'd write a paper and then that code almost always would go into, into
+
+738
+00:32:21,920 --> 00:32:24,700
+k-Wave in, in some form. So yeah, it was, it was a really nice
+
+739
+00:32:24,740 --> 00:32:26,660
+way to, to kind of disseminate what we were doing.
+
+740
+00:32:28,200 --> 00:32:30,500
+Keith Murphy: Charles, were you gonna comment? I'll jump in if you-
+
+741
+00:32:30,520 --> 00:32:33,600
+Charles Caskey: Oh, I was just gonna say it's a fantastic package.
+
+742
+00:32:33,800 --> 00:32:36,380
+I mean, I don't know. I j- I've just- [laughs] I, I, I've gotta
+
+743
+00:32:36,460 --> 00:32:40,580
+think that I'm somebody in the world that's spent, I don't know, maybe not
+
+744
+00:32:40,600 --> 00:32:43,760
+in the top hundred, but in the top thousand maybe of people using k-
+
+745
+00:32:44,120 --> 00:32:46,160
+like, in terms of k-Wave. I, like, I don't know.
+
+746
+00:32:46,380 --> 00:32:46,880
+I gotta think.
+
+747
+00:32:46,420 --> 00:32:47,720
+Keith Murphy: Were you on the forums ever?
+
+748
+00:32:47,840 --> 00:32:49,160
+Did you drop anything on the forums?
+
+749
+00:32:49,200 --> 00:32:51,800
+Charles Caskey: The only thing I've ever... I think I put on the forum, and Brad
+
+750
+00:32:51,840 --> 00:32:55,720
+did reply, is I was like one day, like, uh, I was just i-
+
+751
+00:32:55,900 --> 00:33:00,680
+initially confused about, about why the 2D simulations didn't give the same focal gain
+
+752
+00:33:01,120 --> 00:33:04,020
+as the 3D ones, and I think Ben, Ben maybe replied to me, and
+
+753
+00:33:04,040 --> 00:33:06,140
+he gave a great explanation, and I was like, "Oh, of course."
+
+754
+00:33:06,520 --> 00:33:09,840
+Uh, so [chuckles] I think, so I think I have maybe one, maybe two
+
+755
+00:33:09,920 --> 00:33:11,220
+posts, uh, somewhere.
+
+756
+00:33:11,420 --> 00:33:14,680
+Keith Murphy: I feel like one of the reasons it took off, because I had evaluated
+
+757
+00:33:14,700 --> 00:33:18,460
+at some point all the packages, was probably that Brad made such nice case
+
+758
+00:33:18,520 --> 00:33:19,280
+examples.
+
+759
+00:33:19,500 --> 00:33:20,000
+Charles Caskey: Oh,
+
+760
+00:33:19,620 --> 00:33:22,120
+Keith Murphy: yeah. So he always said, "Well, what does someone wanna do with it?"
+
+761
+00:33:22,260 --> 00:33:24,520
+And then he would write a script that says- Yeah ...
+
+762
+00:33:24,520 --> 00:33:27,740
+"Well, here's, here's the module used for this, and I'm gonna plug in a
+
+763
+00:33:27,780 --> 00:33:31,860
+hypothetical array, and I'm gonna turn it," and all these fancy things, and it
+
+764
+00:33:31,880 --> 00:33:36,360
+was just such a tremendous effort, Brad, like really thinking about people and, like,
+
+765
+00:33:36,560 --> 00:33:39,580
+caring about them. I mean, I have to tell you, when I met you,
+
+766
+00:33:39,700 --> 00:33:41,920
+I was nervous. I was like, "This guy-" [laughs] "...
+
+767
+00:33:41,940 --> 00:33:45,580
+this guy is just a hero for this," for all the things that I
+
+768
+00:33:45,620 --> 00:33:46,460
+read out, I guess.
+
+769
+00:33:46,600 --> 00:33:47,100
+Brad Treeby: Oh, thanks.
+
+770
+00:33:46,620 --> 00:33:50,720
+Keith Murphy: What do you recommend for the future hero that might be out there in
+
+771
+00:33:50,760 --> 00:33:55,640
+the simulation space? Do you think everything's going the way of AI solvers, like
+
+772
+00:33:55,700 --> 00:34:01,160
+these U-Net functions, or is it more about people who can utilize GPUs more
+
+773
+00:34:01,200 --> 00:34:01,840
+efficiently?
+
+774
+00:34:01,980 --> 00:34:04,060
+Brad Treeby: Yeah, I mean, I think I could answer this in a couple of different
+
+775
+00:34:04,140 --> 00:34:08,200
+ways. I mean, one thing I would say about, about k-Wave, and I hope
+
+776
+00:34:08,240 --> 00:34:13,120
+people maybe take this into account when they develop their own packages, is I
+
+777
+00:34:13,140 --> 00:34:15,840
+think we probably put equal effort into three things.
+
+778
+00:34:15,920 --> 00:34:17,340
+One was, like, writing the code.
+
+779
+00:34:17,780 --> 00:34:20,320
+Two was testing the code. You know, there was...
+
+780
+00:34:20,560 --> 00:34:23,640
+I think we put a lot of effort in making sure each release of,
+
+781
+00:34:23,820 --> 00:34:26,360
+of k-Wave was really stable. Um-
+
+782
+00:34:26,520 --> 00:34:27,020
+Keith Murphy: Yeah
+
+783
+00:34:26,540 --> 00:34:27,420
+Brad Treeby: ... so there wasn't too many...
+
+784
+00:34:27,540 --> 00:34:30,380
+It's not like a load of bugs, things going wrong.
+
+785
+00:34:30,840 --> 00:34:32,980
+Uh, and then the documentation. We spent a long time-
+
+786
+00:34:33,000 --> 00:34:33,500
+Keith Murphy: Yeah
+
+787
+00:34:33,020 --> 00:34:37,100
+Brad Treeby: ... writing the manual, the documentation, the code documentation, the examples, just to make
+
+788
+00:34:37,160 --> 00:34:39,420
+it, like, the barrier to entry really low.
+
+789
+00:34:40,080 --> 00:34:43,120
+Um, 'cause some of the things inside some of these models are not that
+
+790
+00:34:43,180 --> 00:34:44,900
+easy to understand if you don't come from the field.
+
+791
+00:34:44,960 --> 00:34:49,440
+Like our absorption model, which is based on these, you know, fractional Laplacian-type operators,
+
+792
+00:34:49,840 --> 00:34:53,500
+you know, they're-- you can explain how they work, but they're not that easy
+
+793
+00:34:53,540 --> 00:34:57,680
+to understand how they, how they work mathematically, um, and then how you put
+
+794
+00:34:57,700 --> 00:35:00,820
+those into a numerical solver, um, and sort of wrap them up.
+
+795
+00:35:01,140 --> 00:35:05,000
+So I think that, that final piece, not just the code works, but the
+
+796
+00:35:05,040 --> 00:35:08,980
+code works and it's usable and it's repeatable and it's reliable, is, is super
+
+797
+00:35:09,000 --> 00:35:11,220
+important, so we put a lot of effort in, into that.
+
+798
+00:35:11,280 --> 00:35:15,180
+So I think, like, one thing if people are developing tools, and, you know,
+
+799
+00:35:15,200 --> 00:35:18,720
+of course we use, uh, all the AI tools now as well, of course.
+
+800
+00:35:18,940 --> 00:35:22,440
+It, it's, it's a massive, um, leverage when you're, when you're trying to write
+
+801
+00:35:22,480 --> 00:35:25,140
+code. But if you just think about that final piece, you know, how well
+
+802
+00:35:25,160 --> 00:35:26,900
+documented is this? How well tested is this?
+
+803
+00:35:26,940 --> 00:35:30,460
+Does somebody actually understand how it works and it matches the physics, um, is
+
+804
+00:35:30,480 --> 00:35:33,040
+gonna be pretty important. And there's a bunch of people doing great stuff, like
+
+805
+00:35:33,100 --> 00:35:34,760
+Sam Pichardo's putting a load of effort-
+
+806
+00:35:34,780 --> 00:35:35,280
+Charles Caskey: Mm-hmm
+
+807
+00:35:34,900 --> 00:35:36,720
+Brad Treeby: ... into, into his software, which I really admire.
+
+808
+00:35:37,240 --> 00:35:41,360
+Um, I can see that, that sort of hunger and thirst, um- Yeah ...
+
+809
+00:35:41,380 --> 00:35:42,840
+which I once had- Yeah ...
+
+810
+00:35:42,960 --> 00:35:43,860
+when I was a young boy.
+
+811
+00:35:43,940 --> 00:35:44,920
+[laughs] [laughs]
+
+812
+00:35:44,960 --> 00:35:46,320
+Charles Caskey: When you were a young boy.
+
+813
+00:35:46,840 --> 00:35:49,080
+You can't be that different in age from Sam.
+
+814
+00:35:49,620 --> 00:35:50,120
+Brad Treeby: Yeah.
+
+815
+00:35:49,860 --> 00:35:50,360
+Charles Caskey: You just-
+
+816
+00:35:50,540 --> 00:35:51,040
+Brad Treeby: No, that makes sense.
+
+817
+00:35:50,880 --> 00:35:54,280
+Charles Caskey: You're still hungry and thirsty. You're just going for different things, I guess.
+
+818
+00:35:54,460 --> 00:35:54,960
+Brad Treeby: Yeah.
+
+819
+00:35:54,740 --> 00:35:55,240
+Charles Caskey: Uh, but-
+
+820
+00:35:55,320 --> 00:35:55,980
+Brad Treeby: Yeah, you got me wrong
+
+821
+00:35:56,060 --> 00:35:58,700
+Charles Caskey: ... yeah, but yeah, it is, it is really well abstracted.
+
+822
+00:35:58,760 --> 00:36:02,580
+That's a great point. Like, the, the usability of k-Wave comes both from the
+
+823
+00:36:02,620 --> 00:36:06,420
+documentation, but also how you guys abstracted the layers.
+
+824
+00:36:06,480 --> 00:36:10,280
+Like, just abstracting to arrays, for instance, rather than having to deal with every
+
+825
+00:36:10,360 --> 00:36:13,420
+single source point and then figuring out how you're gonna, like- ...
+
+826
+00:36:13,460 --> 00:36:15,480
+talk to all those and keep them all regular.
+
+827
+00:36:15,600 --> 00:36:17,660
+I think that's, that's a, that's a really good point.
+
+828
+00:36:17,720 --> 00:36:21,800
+Like, and it's not just the programming, it's the whole thing, including how does
+
+829
+00:36:21,820 --> 00:36:25,880
+the programmer that receives it interact with it, and then how do they, how
+
+830
+00:36:25,900 --> 00:36:27,220
+do they learn to interact with it?
+
+831
+00:36:27,360 --> 00:36:30,240
+My continued use of it was definitely because I was like, "Oh, we can
+
+832
+00:36:30,260 --> 00:36:32,060
+figure out how to do this," 'cause the tools are available.
+
+833
+00:36:32,120 --> 00:36:35,180
+It's not like you hit this dead end and you're like, "Okay, well, we
+
+834
+00:36:35,200 --> 00:36:36,580
+can do this with it, but that's it."
+
+835
+00:36:36,860 --> 00:36:39,320
+Uh, so it's very, very cool the way y'all- Yeah ...
+
+836
+00:36:39,380 --> 00:36:41,600
+assembled the whole package and abstracted the parts.
+
+837
+00:36:42,380 --> 00:36:44,380
+Brad Treeby: Yeah. I mean, I've always thought of it as this kind of circle, right?
+
+838
+00:36:44,460 --> 00:36:47,420
+This, um, I've written about this before, but this sort-- you know, this so-called
+
+839
+00:36:47,480 --> 00:36:50,700
+circle of model development, and it's kind of like five pieces to it, right?
+
+840
+00:36:50,780 --> 00:36:53,820
+One is the, the governing equations, like what are, you know, what physics are
+
+841
+00:36:53,840 --> 00:36:57,220
+you solving? The second one is the numerical method, like how do you discretize
+
+842
+00:36:57,240 --> 00:36:57,980
+those equations?
+
+843
+00:36:58,380 --> 00:36:58,880
+Keith Murphy: Mm-hmm.
+
+844
+00:36:58,400 --> 00:37:01,220
+Brad Treeby: And I think these are all separate things, and sometimes they require separate expertise.
+
+845
+00:37:01,640 --> 00:37:03,440
+The third one is the actual computer code.
+
+846
+00:37:03,640 --> 00:37:06,140
+You know, is, is it all the things we just talked about, fast, reliable,
+
+847
+00:37:06,220 --> 00:37:11,020
+scalable, maybe regulatory compliant. Uh, then there's the actual model inputs, which I think
+
+848
+00:37:11,060 --> 00:37:13,780
+for where we are in focused ultrasound is the most important one.
+
+849
+00:37:13,860 --> 00:37:14,360
+Keith Murphy: Yeah.
+
+850
+00:37:14,480 --> 00:37:16,180
+Brad Treeby: You know, are they physical? Are they easy to measure?
+
+851
+00:37:16,240 --> 00:37:18,820
+What are the error bars? And then, of course, there's the validation.
+
+852
+00:37:19,400 --> 00:37:21,520
+Um, and often this is a loop 'cause you get to the end and
+
+853
+00:37:21,560 --> 00:37:24,460
+you realize there's some physics that's missing or there's some problem with the numerical
+
+854
+00:37:24,520 --> 00:37:27,480
+method or whatever. But I think you need all of those things when you-
+
+855
+00:37:27,500 --> 00:37:28,000
+Keith Murphy: Mm-hmm
+
+856
+00:37:27,520 --> 00:37:29,160
+Brad Treeby: ... think about developing a tool.
+
+857
+00:37:29,380 --> 00:37:31,980
+Um, and if you focus on only one of them, then, you know, you
+
+858
+00:37:32,020 --> 00:37:34,420
+might miss something, so. Yeah.
+
+859
+00:37:34,460 --> 00:37:38,940
+Keith Murphy: Do, do you feel like as things improve and get more accurate, which, you
+
+860
+00:37:38,980 --> 00:37:42,480
+know, maybe they're accurate enough now, but they could definitely improve, uh, quite a
+
+861
+00:37:42,540 --> 00:37:47,660
+bit. Does the imaging and information into models ne- I know you're gonna say
+
+862
+00:37:47,780 --> 00:37:49,540
+both too, but try not to say both.
+
+863
+00:37:49,600 --> 00:37:53,480
+[chuckles] [laughs] Is it, is it more that we need better information, or can
+
+864
+00:37:53,580 --> 00:37:56,400
+the simulations on their own still improve a lot?
+
+865
+00:37:56,520 --> 00:37:58,320
+Which one are you biased towards at the moment?
+
+866
+00:37:58,980 --> 00:38:02,040
+Brad Treeby: Yeah, I mean, there is, there is this trade-off and, and the way I
+
+867
+00:38:02,060 --> 00:38:07,020
+like to phrase it is, it's between like model complexity and parameter uncertainty.
+
+868
+00:38:07,140 --> 00:38:08,540
+So, you know, if you think about-
+
+869
+00:38:08,900 --> 00:38:09,400
+Keith Murphy: Mm.
+
+870
+00:38:08,920 --> 00:38:11,140
+Brad Treeby: You can, you can add more physics to a model, right?
+
+871
+00:38:11,280 --> 00:38:14,620
+You can, you can-- It's pretty easy to write an elastic wave solver.
+
+872
+00:38:15,060 --> 00:38:17,120
+But actually, if the error bars on those-
+
+873
+00:38:17,320 --> 00:38:17,820
+Keith Murphy: Easy
+
+874
+00:38:17,420 --> 00:38:20,060
+Brad Treeby: ... additional parameters are even bigger, uh...
+
+875
+00:38:20,280 --> 00:38:22,560
+Okay, easy. [laughs]
+
+876
+00:38:22,600 --> 00:38:23,340
+Keith Murphy: Yeah. For you.
+
+877
+00:38:23,450 --> 00:38:26,020
+Brad Treeby: Uh, if, if the error bars on those additional parameters that you're putting into
+
+878
+00:38:26,060 --> 00:38:28,700
+the model are even bigger, maybe you actually don't end up with a more
+
+879
+00:38:28,760 --> 00:38:30,580
+accurate simulation. So just thinking-
+
+880
+00:38:30,620 --> 00:38:31,120
+Keith Murphy: Yeah
+
+881
+00:38:30,700 --> 00:38:34,240
+Brad Treeby: ... about the, the uncertainty on the parameters versus the complexity of the model.
+
+882
+00:38:34,340 --> 00:38:39,960
+Sometimes a, a simple model with fairly well-constrained error bars is actually gonna be
+
+883
+00:38:40,000 --> 00:38:43,620
+more useful to you than a really complex one that has 100 tuning parameters
+
+884
+00:38:43,640 --> 00:38:44,880
+and you don't know what to put in them.
+
+885
+00:38:45,380 --> 00:38:46,560
+Um, you know, you can get very done with-
+
+886
+00:38:46,600 --> 00:38:49,220
+Keith Murphy: Yeah. They're like overfitting. It's like overfitting, right?
+
+887
+00:38:49,220 --> 00:38:50,000
+Brad Treeby: Yeah, exactly. Yeah.
+
+888
+00:38:50,060 --> 00:38:53,500
+Keith Murphy: Do you, do you feel like in your career there was ever a, uh,
+
+889
+00:38:53,640 --> 00:38:57,440
+an equation or a feature that you added that really blew you away?
+
+890
+00:38:57,540 --> 00:38:59,980
+You were like, "Oh, this just makes everything better."
+
+891
+00:39:00,100 --> 00:39:01,820
+So smoothing always stood out to me.
+
+892
+00:39:01,940 --> 00:39:07,800
+So there were laboratories, I can't really remember why, but people would use smoothing
+
+893
+00:39:07,840 --> 00:39:11,060
+in images because they wanted to get rid of these sort of voxel steps
+
+894
+00:39:11,100 --> 00:39:14,560
+or something. And then your paper clearly came out and said, "Well, you're just
+
+895
+00:39:14,580 --> 00:39:19,760
+gonna get more artificial transmission because the impedance difference is just less, and it's
+
+896
+00:39:19,780 --> 00:39:20,820
+like an exponential or something."
+
+897
+00:39:20,840 --> 00:39:21,760
+Brad Treeby: Good memory. Yeah.
+
+898
+00:39:22,080 --> 00:39:25,040
+Keith Murphy: Yeah. That one I remember being like, why was I s-- 'Cause I looked
+
+899
+00:39:25,080 --> 00:39:28,520
+at code, somebody was smoothing. I had used it for a while, and I
+
+900
+00:39:28,540 --> 00:39:29,560
+was like, "Why are we smoothing?"
+
+901
+00:39:29,560 --> 00:39:30,440
+[laughs] We just, um-
+
+902
+00:39:30,560 --> 00:39:31,060
+Brad Treeby: You're like, "Oh-"
+
+903
+00:39:32,140 --> 00:39:32,640
+Keith Murphy: Yeah.
+
+904
+00:39:32,300 --> 00:39:33,460
+Brad Treeby: "... trees are sudden like that."
+
+905
+00:39:33,600 --> 00:39:34,100
+Keith Murphy: Because of people like you, right?
+
+906
+00:39:34,440 --> 00:39:34,940
+Treeby.
+
+907
+00:39:35,300 --> 00:39:35,800
+Brad Treeby: Yeah. [laughs]
+
+908
+00:39:35,360 --> 00:39:36,960
+Keith Murphy: Treeby didn't answer me on the forum again.
+
+909
+00:39:37,000 --> 00:39:37,500
+[laughs]
+
+910
+00:39:37,100 --> 00:39:39,140
+Brad Treeby: If you want to, if you want to call it tree, you get staircasing,
+
+911
+00:39:39,200 --> 00:39:40,860
+of course, which is what people were trying to- Yeah ...
+
+912
+00:39:40,880 --> 00:39:42,300
+eliminate. Um, you know, if you're-
+
+913
+00:39:42,320 --> 00:39:42,820
+Keith Murphy: Yeah
+
+914
+00:39:42,380 --> 00:39:45,340
+Brad Treeby: ... trying to represent a boundary and you're trying to represent it on, on
+
+915
+00:39:45,380 --> 00:39:48,520
+graph paper, and your graph paper has really big squares, then of course you
+
+916
+00:39:48,560 --> 00:39:49,920
+end up with these sort of stairs.
+
+917
+00:39:50,480 --> 00:39:54,320
+Um, and then if you imagine the acoustic wave being similar wavelength to those
+
+918
+00:39:54,400 --> 00:39:57,280
+stairs, then you, you actually get scattering off the, off the edges.
+
+919
+00:39:57,640 --> 00:40:00,820
+So smoothing can el- can eliminate that, but of course comes with the, the
+
+920
+00:40:00,860 --> 00:40:04,400
+caveat. You've now made a smooth hill, so the reflections are totally different.
+
+921
+00:40:05,440 --> 00:40:09,660
+Keith Murphy: Yeah. So, uh, I guess don't say anything you don't want to say, but
+
+922
+00:40:09,720 --> 00:40:12,640
+I'm sure people would love to know, at least to see a little glimpse
+
+923
+00:40:12,720 --> 00:40:15,240
+of what goes on behind the scenes at NeuroHarmonics.
+
+924
+00:40:15,580 --> 00:40:18,960
+Are you guys pushing on all-- Don't say what you're doing, but are you
+
+925
+00:40:19,000 --> 00:40:24,500
+pushing on all these boundaries? Imaging stuff better, the solvers are better, things that
+
+926
+00:40:24,560 --> 00:40:28,760
+k-Wave could only dream of. [laughs] And maybe the field, the field will catch
+
+927
+00:40:28,840 --> 00:40:31,560
+up someday, but you've left us in the dust.
+
+928
+00:40:32,440 --> 00:40:32,940
+Brad Treeby: Um-
+
+929
+00:40:32,660 --> 00:40:33,160
+Keith Murphy: Perhaps
+
+930
+00:40:33,090 --> 00:40:36,560
+Brad Treeby: ... I, I mean, I think we're, we're working on clearly those, those four
+
+931
+00:40:36,660 --> 00:40:38,660
+aspects that I, I talked about before.
+
+932
+00:40:38,700 --> 00:40:39,320
+You know, the properties-
+
+933
+00:40:39,360 --> 00:40:39,860
+Keith Murphy: Yeah
+
+934
+00:40:39,420 --> 00:40:42,700
+Brad Treeby: ... of the device, the patient, where the device is, and then how do
+
+935
+00:40:42,740 --> 00:40:46,320
+you do the modeling. Um, I mean, I think we don't have the luxury
+
+936
+00:40:46,760 --> 00:40:50,760
+inside the company just to, to go after things that are, that are interesting.
+
+937
+00:40:50,840 --> 00:40:53,860
+So they have to be aligned with, okay, if we work on this...
+
+938
+00:40:54,000 --> 00:40:57,100
+And there are definitely some R&D that we have to do, some, some discovery.
+
+939
+00:40:57,500 --> 00:41:00,500
+But if we work on this, it's, it's gonna make X, you know, 10
+
+940
+00:41:00,580 --> 00:41:01,760
+times better. Uh-
+
+941
+00:41:01,780 --> 00:41:02,280
+Keith Murphy: Yeah
+
+942
+00:41:01,840 --> 00:41:05,280
+Brad Treeby: ... you know, it's gonna mean we, we can do our positioning better, right?
+
+943
+00:41:05,380 --> 00:41:07,620
+We, we've, we've done a bunch of cool stuff, some of which I can
+
+944
+00:41:07,660 --> 00:41:11,820
+talk about. For example, you know, with our new array, they have positioning encoders
+
+945
+00:41:11,880 --> 00:41:15,220
+inside them. Um, so as these come in, it's actually a two-part system.
+
+946
+00:41:15,300 --> 00:41:17,900
+Part of it's motorized and part of it's on a spring, and both have
+
+947
+00:41:17,940 --> 00:41:21,080
+encoders. So as it sort of compresses onto your head here, there's like a
+
+948
+00:41:21,200 --> 00:41:24,980
+spring keeping the transducer in contact with, with the head, and actually allows you
+
+949
+00:41:25,020 --> 00:41:26,020
+to move around a little bit.
+
+950
+00:41:26,580 --> 00:41:27,240
+Um, so that's-
+
+951
+00:41:27,240 --> 00:41:27,740
+Keith Murphy: Oh, that's cool
+
+952
+00:41:27,400 --> 00:41:28,820
+Brad Treeby: ... part of what it makes, makes it comfortable.
+
+953
+00:41:28,880 --> 00:41:32,480
+But you can track that, uh, in real time super accurately with these positioning
+
+954
+00:41:32,500 --> 00:41:36,500
+encoders. And assuming you know the surface of the head before you start, which
+
+955
+00:41:36,580 --> 00:41:40,560
+you, you can get pretty easily from, from imaging, it's actually easy to map
+
+956
+00:41:40,640 --> 00:41:44,020
+where everything is. You've got a-- With all your transducers, you've got a, a
+
+957
+00:41:44,080 --> 00:41:45,020
+mesh of the, of the head.
+
+958
+00:41:45,080 --> 00:41:46,840
+You've just read one out from your positioning encoder.
+
+959
+00:41:46,940 --> 00:41:50,080
+So you can, you can solve the positioning problem in a really neat way,
+
+960
+00:41:50,480 --> 00:41:53,480
+just as a byproduct of the design of, of the device.
+
+961
+00:41:53,900 --> 00:41:58,420
+So I think, um, we've solved some of those problems in slightly different ways,
+
+962
+00:41:58,940 --> 00:42:02,660
+um, than, than people have solved them traditionally, just because, you know, we have
+
+963
+00:42:02,760 --> 00:42:05,020
+access to, to things that people don't have access to.
+
+964
+00:42:05,680 --> 00:42:09,620
+You know, again, we, um, we do kind of pulse echo, you know, pulse
+
+965
+00:42:09,680 --> 00:42:13,560
+receive these kind of ultrasound computed tomography acquisitions, which you can use for a
+
+966
+00:42:13,580 --> 00:42:16,940
+bunch of stuff. Um, you know, a simple one is just, is each tran-
+
+967
+00:42:17,020 --> 00:42:18,840
+or how well is each transducer element coupled?
+
+968
+00:42:19,480 --> 00:42:22,660
+Um, you know, you can, you can imagine in your head, you can create
+
+969
+00:42:22,700 --> 00:42:26,660
+a pretty simple metric for knowing if I transmit here and listen everywhere else,
+
+970
+00:42:26,720 --> 00:42:30,240
+is that, is that transducer well coupled compared to all, you know, compared to
+
+971
+00:42:30,280 --> 00:42:33,300
+all of its neighbors? So yeah, we're, I think we're pushing on, on what
+
+972
+00:42:33,360 --> 00:42:36,800
+you can do acoustically, like what information, um, is held by that.
+
+973
+00:42:37,580 --> 00:42:40,340
+I don't think we're yet at the point where you can image your brain,
+
+974
+00:42:40,440 --> 00:42:44,920
+for example, [chuckles] which is from ultrasound computed tomography, that would be the dream.
+
+975
+00:42:45,480 --> 00:42:47,440
+Um, but we're, I think we're pushing ahead on that.
+
+976
+00:42:47,560 --> 00:42:50,600
+But where I think the main focus for us now is, is really on
+
+977
+00:42:50,640 --> 00:42:54,540
+that clinical translation piece. So now showing, you know, we- we...
+
+978
+00:42:54,560 --> 00:42:58,740
+there's a huge vibe around, around ultrasound and, and rightfully so, but I think
+
+979
+00:42:58,780 --> 00:43:01,440
+we're at the stage where, okay, this has been going for quite a long
+
+980
+00:43:01,540 --> 00:43:05,580
+time. We now need to show really robust, um, changes and show this can
+
+981
+00:43:05,600 --> 00:43:10,240
+have a really important and long-lasting and durable effect clinically, you know, on, on
+
+982
+00:43:10,280 --> 00:43:14,120
+some particular disorders. So I think that's the direction we're pushing in the fastest,
+
+983
+00:43:14,200 --> 00:43:14,700
+I would say.
+
+984
+00:43:15,920 --> 00:43:20,820
+Keith Murphy: Can you comment on Midjourney, uh, smoke and mirrors to some extent, some promise
+
+985
+00:43:20,880 --> 00:43:22,480
+with the tomographic approach, right?
+
+986
+00:43:22,520 --> 00:43:23,080
+Brad Treeby: Yeah. Yeah.
+
+987
+00:43:23,100 --> 00:43:26,520
+Keith Murphy: When, when bone is in the way, I always kind of told people this
+
+988
+00:43:26,560 --> 00:43:29,860
+falls apart and investors are making a little bit of a vapid bet.
+
+989
+00:43:30,700 --> 00:43:32,640
+Uh, would you agree or is there something there?
+
+990
+00:43:33,520 --> 00:43:34,020
+Brad Treeby: Um-
+
+991
+00:43:33,600 --> 00:43:35,460
+Keith Murphy: It's transcranial. Let's talk about through bone.
+
+992
+00:43:35,620 --> 00:43:37,700
+I get the soft tissue, of course, that would work.
+
+993
+00:43:38,100 --> 00:43:38,600
+Brad Treeby: Yeah.
+
+994
+00:43:38,240 --> 00:43:38,740
+Keith Murphy: Everything else.
+
+995
+00:43:38,580 --> 00:43:43,660
+Brad Treeby: I mean, in, in principle, there is some information in the signals.
+
+996
+00:43:44,260 --> 00:43:48,220
+How you solve the inverse problem is unclear to me, and it's not like
+
+997
+00:43:48,300 --> 00:43:52,700
+we haven't worked on this both in academia, um, and, and a lot of
+
+998
+00:43:52,760 --> 00:43:55,980
+other people, you know, at Imperial and, uh, in Switzerland.
+
+999
+00:43:56,120 --> 00:43:58,940
+So, you know, a lot of smart people are trying to solve this problem.
+
+1000
+00:43:59,000 --> 00:44:02,000
+But, you know, as we know, the, the amount of signal that you get,
+
+1001
+00:44:02,600 --> 00:44:06,860
+um, encoded by the brain tissue compared to the, to the bone at the
+
+1002
+00:44:06,880 --> 00:44:09,340
+frequencies we operate, I think is just really hard.
+
+1003
+00:44:09,760 --> 00:44:12,960
+So in silico you can do some stuff, especially if you have a strong
+
+1004
+00:44:13,060 --> 00:44:16,980
+prior. Um, you know, you can kind of bootstrap your way to a, to
+
+1005
+00:44:17,020 --> 00:44:20,200
+a nice reconstruction. Soft tissue, it obviously works really well.
+
+1006
+00:44:20,240 --> 00:44:22,680
+We've published papers on it. A lot of other people have, have published papers
+
+1007
+00:44:22,720 --> 00:44:25,380
+on it. So for things like the breast, for example, you get these exquisite
+
+1008
+00:44:25,580 --> 00:44:30,640
+reconstructions, you know, j- of, of ultrasound, of ultrasound contrast or absorption contrast.
+
+1009
+00:44:30,880 --> 00:44:34,900
+I would say it's not hopeless, but it's definitely an unsolved problem right now,
+
+1010
+00:44:35,340 --> 00:44:38,380
+trying to reconstruct something through, through the skull.
+
+1011
+00:44:38,720 --> 00:44:40,000
+We know we get some information, right?
+
+1012
+00:44:40,080 --> 00:44:41,060
+You know, transcranial Dopplers-
+
+1013
+00:44:41,100 --> 00:44:41,600
+Keith Murphy: A little bit
+
+1014
+00:44:41,540 --> 00:44:43,220
+Brad Treeby: ... you can find. So there is- Yeah ...
+
+1015
+00:44:43,240 --> 00:44:46,100
+there is some information you can get out, but the idea that you can
+
+1016
+00:44:46,160 --> 00:44:50,740
+have an array and suddenly get an MR quality brain image is, I think,
+
+1017
+00:44:50,780 --> 00:44:55,300
+a bit sci-fi right now. [both laughing] Am I being polite enough?
+
+1018
+00:44:56,440 --> 00:44:57,400
+Keith Murphy: Yeah, no, you don't have to be.
+
+1019
+00:44:57,500 --> 00:44:58,000
+That was, that was very polite.
+
+1020
+00:44:57,540 --> 00:45:03,200
+Let's fast-forward. [both laughing] There's just a lot of these companies, Charles and I get
+
+1021
+00:45:03,280 --> 00:45:05,980
+asked all the time, and like, it's coming up on the pod, it's like,
+
+1022
+00:45:06,000 --> 00:45:07,160
+"What do you think of it?"
+
+1023
+00:45:07,200 --> 00:45:09,040
+And it's like, I don't know.
+
+1024
+00:45:09,080 --> 00:45:11,440
+I guess I've seen people invest in things.
+
+1025
+00:45:11,920 --> 00:45:14,320
+I mean, Elizabeth Holmes is the famous example here.
+
+1026
+00:45:14,420 --> 00:45:17,920
+She just kind of said she could do it, and there was like some
+
+1027
+00:45:17,940 --> 00:45:24,280
+sort of mirage of a really well-qualified person, and Midjourney did image AI reconstruction,
+
+1028
+00:45:24,320 --> 00:45:26,620
+but it was, it was a really different problem they were solving-
+
+1029
+00:45:26,640 --> 00:45:27,140
+Brad Treeby: Yeah
+
+1030
+00:45:26,800 --> 00:45:27,300
+Keith Murphy: ... before.
+
+1031
+00:45:27,780 --> 00:45:28,280
+Brad Treeby: Yeah.
+
+1032
+00:45:28,160 --> 00:45:28,800
+Keith Murphy: So, I don't know.
+
+1033
+00:45:28,800 --> 00:45:31,460
+Brad Treeby: Yeah. I mean, I would encourage maybe anybody who's sitting at the edge and
+
+1034
+00:45:31,480 --> 00:45:33,840
+they wanna become a Midjourney, um, you know, competitor.
+
+1035
+00:45:34,140 --> 00:45:38,280
+Morgan Roberts, who was, was one of my PhD students and then postdocs, and
+
+1036
+00:45:38,320 --> 00:45:43,100
+then joined NeuroHarmonics actually, has a complete open source ultrasound tomography system.
+
+1037
+00:45:43,320 --> 00:45:43,920
+You can, like, build it-
+
+1038
+00:45:44,060 --> 00:45:44,560
+Keith Murphy: Cool
+
+1039
+00:45:44,340 --> 00:45:47,120
+Brad Treeby: ... into the whole thing. So you can build that ring array- Oh, yeah
+
+1040
+00:45:47,120 --> 00:45:50,520
+... that, that Midjourney has. So build yourself a Midjourney system.
+
+1041
+00:45:50,520 --> 00:45:52,460
+[both laughing]
+
+1042
+00:45:52,760 --> 00:45:53,260
+Keith Murphy: Yeah.
+
+1043
+00:45:53,060 --> 00:45:53,560
+Brad Treeby: On GitHub.
+
+1044
+00:45:53,480 --> 00:45:54,880
+Charles Caskey: Get yourself a ring array going.
+
+1045
+00:45:55,000 --> 00:45:57,760
+Yeah, yeah. That's right. I forgot you have that, you guys have that paper
+
+1046
+00:45:57,800 --> 00:45:58,360
+on this. [chuckles]
+
+1047
+00:45:58,380 --> 00:45:58,880
+Brad Treeby: Yeah.
+
+1048
+00:45:58,480 --> 00:45:58,980
+Keith Murphy: That's great.
+
+1049
+00:45:59,120 --> 00:45:59,880
+Brad Treeby: OpenUST.
+
+1050
+00:46:00,800 --> 00:46:04,020
+Keith Murphy: People always thought NeuroHarmonics would be the ring, and I was like, "I don't
+
+1051
+00:46:04,060 --> 00:46:04,960
+know. Maybe." [chuckles]
+
+1052
+00:46:04,980 --> 00:46:07,220
+Brad Treeby: Yeah. Yeah.
+
+1053
+00:46:07,240 --> 00:46:08,980
+Keith Murphy: That's cool. Man, I forgot Morgan did that.
+
+1054
+00:46:10,100 --> 00:46:10,600
+Good on him.
+
+1055
+00:46:10,440 --> 00:46:13,860
+Charles Caskey: Yeah. That's, uh, yeah, I've, I've, it's-- I'm very curious where all this is
+
+1056
+00:46:13,900 --> 00:46:17,460
+headed, 'cause there's one side of me that's like, like, oh, this has been
+
+1057
+00:46:17,580 --> 00:46:20,680
+tried and not successfully before, but then I'm also like, well, we have more
+
+1058
+00:46:20,840 --> 00:46:24,320
+computation, we have more, more knowledge than we did the first time this was
+
+1059
+00:46:24,360 --> 00:46:28,080
+attempted. Um, I don't think... It's hard to know how, how it's gonna pan
+
+1060
+00:46:28,160 --> 00:46:32,680
+out, but it, it's an... I, I think the thing specifically with Midjourney, uh,
+
+1061
+00:46:32,780 --> 00:46:37,000
+and maybe we'll edit this out, [chuckles] but, but specifically with Midjourney, and it's
+
+1062
+00:46:37,020 --> 00:46:39,900
+something I see with a, a decent number of companies, is the, the overlap
+
+1063
+00:46:39,940 --> 00:46:42,920
+between the wellness space and the medical space, uh, is...
+
+1064
+00:46:43,060 --> 00:46:44,880
+Makes me... I, I don't know about that.
+
+1065
+00:46:44,980 --> 00:46:48,740
+That's the part I, I think like, like I think conceptually I've already seen
+
+1066
+00:46:48,780 --> 00:46:53,760
+cool stuff with the imaging the breast with ultrasound tomography, uh, you know, appendages,
+
+1067
+00:46:53,800 --> 00:46:58,040
+stuff like that. I think there's, I think there's clearly information to be gathered
+
+1068
+00:46:58,080 --> 00:47:02,540
+from the body that's gonna have clinically meaningful impact, and there are researchers working
+
+1069
+00:47:02,600 --> 00:47:05,140
+on that in addition to s- a handful of companies.
+
+1070
+00:47:05,240 --> 00:47:09,840
+But, uh, yeah, I think this, this idea of like re- unleashing this, this
+
+1071
+00:47:09,860 --> 00:47:13,440
+thing in the wellness space, it's got kind of like 23andMe vibes a little
+
+1072
+00:47:13,480 --> 00:47:16,420
+bit, uh, where it's sort of like, I don't know, what, what was the
+
+1073
+00:47:16,460 --> 00:47:19,860
+endpoint for 23andMe? It was really popular for a while, but I think they
+
+1074
+00:47:19,900 --> 00:47:24,460
+sold it for parts and at a huge data, [chuckles] like jumble, not HIPAA
+
+1075
+00:47:24,480 --> 00:47:28,120
+compliant. You got like all this genetic data that people wanna buy.
+
+1076
+00:47:28,200 --> 00:47:31,900
+I'd like to think with focus or with, uh, ultrasound imaging that that remains
+
+1077
+00:47:32,040 --> 00:47:35,420
+having a good safety profile. I just think once you get into that space
+
+1078
+00:47:35,440 --> 00:47:39,720
+where you're not really guaranteeing outcome and you're not being heavily scrutinized by the
+
+1079
+00:47:39,840 --> 00:47:43,560
+FDA and held to the same standards that I'm sure that NeuroHarmonics has been
+
+1080
+00:47:43,600 --> 00:47:47,160
+held to and I'm sure every other imaging device has, I get a little
+
+1081
+00:47:47,220 --> 00:47:48,540
+uncomfortable with that. [chuckles]
+
+1082
+00:47:48,580 --> 00:47:51,920
+Brad Treeby: Yeah. Yeah. I mean, one thing I did love about the Midjourney release, which
+
+1083
+00:47:51,960 --> 00:47:53,700
+I'm trying to learn from, is the storytelling.
+
+1084
+00:47:54,160 --> 00:47:54,680
+So, I mean-
+
+1085
+00:47:54,700 --> 00:47:55,200
+Keith Murphy: Oh.
+
+1086
+00:47:54,720 --> 00:47:55,220
+Charles Caskey: Yeah
+
+1087
+00:47:54,860 --> 00:47:56,000
+Brad Treeby: ... you've taken, you've taken this-
+
+1088
+00:47:56,040 --> 00:47:56,540
+Keith Murphy: Hey, you've done this good job
+
+1089
+00:47:56,340 --> 00:47:59,580
+Brad Treeby: ... massive downside to this device in that you have to get wet and
+
+1090
+00:47:59,620 --> 00:48:03,320
+submerge. You know, that, that 70 years of ultrasound imaging has tried to avoid.
+
+1091
+00:48:03,680 --> 00:48:04,400
+And then you turn that-
+
+1092
+00:48:04,420 --> 00:48:04,920
+Keith Murphy: Yeah
+
+1093
+00:48:04,440 --> 00:48:07,360
+Brad Treeby: ... into a positive by saying, "Hey, we're gonna build wellness spas, and this
+
+1094
+00:48:07,400 --> 00:48:08,920
+is part of the wellness experience."
+
+1095
+00:48:09,080 --> 00:48:09,620
+Charles Caskey: Imagine yourself-
+
+1096
+00:48:09,780 --> 00:48:10,280
+Brad Treeby: I love it
+
+1097
+00:48:10,940 --> 00:48:13,240
+Charles Caskey: ... golden, like w- a, a tank of water-
+
+1098
+00:48:13,260 --> 00:48:13,760
+Keith Murphy: Ah
+
+1099
+00:48:13,280 --> 00:48:14,880
+Charles Caskey: ... with golden rays of sound.
+
+1100
+00:48:14,920 --> 00:48:15,600
+Keith Murphy: It sounds so good.
+
+1101
+00:48:15,620 --> 00:48:16,120
+Charles Caskey: You get in there. [laughs]
+
+1102
+00:48:16,120 --> 00:48:17,280
+Keith Murphy: Get in that warm water.
+
+1103
+00:48:17,460 --> 00:48:17,960
+Charles Caskey: Yeah, yeah.
+
+1104
+00:48:17,700 --> 00:48:20,500
+Keith Murphy: I was- Yeah. So they say in the ad, they're like, "It's warm water."
+
+1105
+00:48:20,520 --> 00:48:21,340
+[laughs] Yeah.
+
+1106
+00:48:22,060 --> 00:48:24,500
+Charles Caskey: Just imagine the way it's naked in the...
+
+1107
+00:48:24,500 --> 00:48:25,380
+[laughs]
+
+1108
+00:48:25,440 --> 00:48:30,320
+Keith Murphy: Yeah, that was nice. Oh, you know, Brad, yours was kinda felt like the
+
+1109
+00:48:30,360 --> 00:48:31,720
+mid... Did you watch that before-
+
+1110
+00:48:31,760 --> 00:48:32,260
+Charles Caskey: I
+
+1111
+00:48:31,820 --> 00:48:32,380
+Keith Murphy: think you nailed it ... you made yours?
+
+1112
+00:48:32,380 --> 00:48:33,160
+[laughs]
+
+1113
+00:48:33,180 --> 00:48:33,680
+Brad Treeby: Yeah, we did.
+
+1114
+00:48:34,360 --> 00:48:37,080
+Keith Murphy: Brad's is similar. If you watch them side by side, I feel like you
+
+1115
+00:48:37,200 --> 00:48:39,480
+took some notes there. [laughs] Man, I didn't think-
+
+1116
+00:48:39,520 --> 00:48:40,020
+Charles Caskey: Yeah
+
+1117
+00:48:39,560 --> 00:48:41,200
+Keith Murphy: ... about that, the warm gel tank.
+
+1118
+00:48:42,360 --> 00:48:45,820
+Yeah, it is cool. I mean, at least people trying to do medical stuff.
+
+1119
+00:48:46,000 --> 00:48:49,800
+I, I just am getting a little bit exhausted by-- I actually read today,
+
+1120
+00:48:49,860 --> 00:48:53,140
+I don't know how you guys feel about this, but Tim Cook was like,
+
+1121
+00:48:53,600 --> 00:48:58,120
+"The greatest thing Apple will ever do is actually human health," as if that's
+
+1122
+00:48:58,140 --> 00:49:02,400
+their next frontier. Well, it's like, okay, well, you just destroyed it, so it's
+
+1123
+00:49:02,440 --> 00:49:04,120
+probably the least that you can do- [laughs] ...
+
+1124
+00:49:04,160 --> 00:49:07,840
+is to correct all of these kids that can't look up from the desk.
+
+1125
+00:49:08,020 --> 00:49:09,280
+It's like- [laughs] ... I don't know.
+
+1126
+00:49:09,380 --> 00:49:10,240
+I'm very frustrated.
+
+1127
+00:49:10,760 --> 00:49:16,120
+Charles Caskey: The, the, but these companies, Nike, Apple, all these, all these companies, uh, Amazon,
+
+1128
+00:49:16,260 --> 00:49:19,620
+like, th- this has been, that's been their next frontier forever because it's the
+
+1129
+00:49:19,700 --> 00:49:22,120
+only market that they have left to consume.
+
+1130
+00:49:22,160 --> 00:49:22,660
+[laughs]
+
+1131
+00:49:22,600 --> 00:49:23,100
+Keith Murphy: Yeah. [laughs]
+
+1132
+00:49:22,660 --> 00:49:23,720
+Charles Caskey: I mean, it just, look at the-
+
+1133
+00:49:23,720 --> 00:49:24,820
+Keith Murphy: I wish they would've started there.
+
+1134
+00:49:24,880 --> 00:49:25,640
+[laughs]
+
+1135
+00:49:25,700 --> 00:49:28,960
+Charles Caskey: Yeah, yeah, yeah. Start there rather than, yeah, yeah, than do all the abusive
+
+1136
+00:49:29,060 --> 00:49:30,960
+stuff in the space that's unregulated.
+
+1137
+00:49:31,020 --> 00:49:34,400
+[laughs] And then, and then we recover from it while you take over the
+
+1138
+00:49:34,440 --> 00:49:37,920
+healthcare space. I don't know. All these companies, you see Amazon, they started with
+
+1139
+00:49:37,960 --> 00:49:40,260
+books, and now they're this, you know, they give your groceries-
+
+1140
+00:49:40,280 --> 00:49:40,780
+Keith Murphy: That's true
+
+1141
+00:49:40,540 --> 00:49:41,380
+Charles Caskey: ... to you. They're gonna fuck off.
+
+1142
+00:49:41,380 --> 00:49:41,880
+[laughs]
+
+1143
+00:49:41,460 --> 00:49:43,760
+Keith Murphy: That was a U-shaped, U-shaped function, I guess.
+
+1144
+00:49:44,020 --> 00:49:44,520
+Charles Caskey: Y- yeah. Yeah. I mean-
+
+1145
+00:49:44,480 --> 00:49:48,160
+Keith Murphy: Midjourney used to be nice. Midjourney was, like, very pretty art before.
+
+1146
+00:49:48,580 --> 00:49:51,880
+Um, it wasn't like chat where you're trying to, like, you know, turn your
+
+1147
+00:49:51,940 --> 00:49:55,160
+image into you riding a unicorn with, like, a funny hat or whatever.
+
+1148
+00:49:55,300 --> 00:49:56,300
+It was always kinda art.
+
+1149
+00:49:57,100 --> 00:49:57,860
+Charles Caskey: Oh, yeah, yeah.
+
+1150
+00:49:58,100 --> 00:49:59,060
+Keith Murphy: But, um, I don't know. It's nice.
+
+1151
+00:49:59,320 --> 00:49:59,820
+Charles Caskey: I don't know. I-
+
+1152
+00:49:59,480 --> 00:50:01,360
+Keith Murphy: So wait, guys, quick question for you two.
+
+1153
+00:50:01,980 --> 00:50:06,520
+People do transcranial Doppler mostly on babies with the f- with the window in
+
+1154
+00:50:06,540 --> 00:50:09,660
+their skull, the sort of opening, but for adults you could do it.
+
+1155
+00:50:10,180 --> 00:50:14,720
+You can only image really large arteries that have a lot of flow.
+
+1156
+00:50:15,360 --> 00:50:19,400
+I mean, what happens when you get, like, the smaller arteries and the microcapillaries?
+
+1157
+00:50:19,480 --> 00:50:22,380
+It's just garbage, or is there s- something there?
+
+1158
+00:50:23,860 --> 00:50:26,240
+Brad, you kinda tiptoed into, "Oh, it sorta works."
+
+1159
+00:50:26,380 --> 00:50:27,420
+Brad Treeby: I mean, TCD works-
+
+1160
+00:50:27,420 --> 00:50:27,920
+Keith Murphy: How well does it work?
+
+1161
+00:50:27,540 --> 00:50:30,440
+Brad Treeby: ... for, like, circle of Willis or, you know, these, exactly as you say,
+
+1162
+00:50:30,500 --> 00:50:31,820
+the major vessels in the brain.
+
+1163
+00:50:32,340 --> 00:50:34,880
+Um- Yeah ... and you normally do it through the temporal window, and it's,
+
+1164
+00:50:35,000 --> 00:50:36,780
+it's used in acute medicine all the time.
+
+1165
+00:50:36,840 --> 00:50:40,640
+But, um, I don't think you can see anything from smaller vessels at all
+
+1166
+00:50:40,680 --> 00:50:44,020
+through the, through the skull, at least with the conventional frequencies and algorithms and,
+
+1167
+00:50:44,120 --> 00:50:47,160
+and probes. Um- Yeah ... I mean, it's a different story if you have
+
+1168
+00:50:47,200 --> 00:50:51,400
+injected microbubbles, of course. As we all know, this kind of localization microscopy type
+
+1169
+00:50:51,460 --> 00:50:57,060
+techniques give you access to much stronger SNR, um, uh, with the caveat of
+
+1170
+00:50:57,240 --> 00:50:59,700
+you need to inject bubbles as, of microbubbles.
+
+1171
+00:51:00,160 --> 00:51:03,140
+Um, but I think, I think it's just an unsolved problem right now.
+
+1172
+00:51:04,260 --> 00:51:07,640
+Keith Murphy: Yeah. Wonder if there will be particles that'll be easier to get in, so
+
+1173
+00:51:07,700 --> 00:51:09,580
+all this imaging will be better.
+
+1174
+00:51:09,820 --> 00:51:14,440
+So you guys are, are-- You're not publicly positioned as imaging and BCI.
+
+1175
+00:51:14,620 --> 00:51:17,420
+You're kind of pure therapeutics. You're a purist, Brad.
+
+1176
+00:51:17,520 --> 00:51:19,120
+You always have been. [laughs] It's a nice...
+
+1177
+00:51:19,140 --> 00:51:23,400
+[laughs] Or maybe behind the scenes, different story.
+
+1178
+00:51:23,680 --> 00:51:28,680
+But, um, so with that, Brad, I'd like to ask, what is the beautiful
+
+1179
+00:51:28,880 --> 00:51:33,560
+future that you imagine that can be aided by NeuroHarmonics?
+
+1180
+00:51:33,620 --> 00:51:37,560
+And where in life would you say, "I've really done what I can here,
+
+1181
+00:51:37,820 --> 00:51:41,120
+and now to the next thing," when it comes to the company you're building?
+
+1182
+00:51:41,780 --> 00:51:45,580
+Brad Treeby: I think all of us are in this space because we think that ultrasound
+
+1183
+00:51:45,620 --> 00:51:48,820
+is gonna completely transform the way that we interact with the brain.
+
+1184
+00:51:49,180 --> 00:51:52,260
+So if we look 15 or 20 years into the future, I don't think
+
+1185
+00:51:52,300 --> 00:51:55,820
+it's that sci-fi to imagine that people have some kind of helmet in their,
+
+1186
+00:51:56,260 --> 00:51:58,420
+in their home that has some sensing capabilities.
+
+1187
+00:51:58,480 --> 00:52:02,160
+You put it on, it sort of senses what is your current brain state.
+
+1188
+00:52:02,200 --> 00:52:05,320
+Maybe you're feeling a little down, maybe your tremor is a little higher that
+
+1189
+00:52:05,360 --> 00:52:09,200
+day, and then it uses something like focused ultrasound to push you back towards
+
+1190
+00:52:09,240 --> 00:52:12,300
+a, towards a healthy state. I think that is entirely within the realms of,
+
+1191
+00:52:12,440 --> 00:52:15,400
+of possibility, and I think that would have an enormous impact.
+
+1192
+00:52:15,880 --> 00:52:21,160
+Um, we know just how important and how underserved people with neurological and neuropsychiatric
+
+1193
+00:52:21,260 --> 00:52:24,640
+dis- disorders are. So if we can even make a small dent towards that,
+
+1194
+00:52:24,940 --> 00:52:27,120
+you know, vision, I think we'll be doing a fantastic job.
+
+1195
+00:52:28,800 --> 00:52:33,360
+Keith Murphy: Nice. I would ask how we avoid the dystopia, but I think that would
+
+1196
+00:52:33,400 --> 00:52:35,560
+be not as fun a way to end the podcast.
+
+1197
+00:52:35,560 --> 00:52:36,700
+[laughs] [laughs]
+
+1198
+00:52:36,840 --> 00:52:37,860
+Charles Caskey: Wait, the dystopia?
+
+1199
+00:52:37,880 --> 00:52:39,160
+Keith Murphy: They're on their couch, Brad. There's a dystopia?
+
+1200
+00:52:39,160 --> 00:52:42,240
+Are they watching Netflix? Are they, like, 500 pounds?
+
+1201
+00:52:42,240 --> 00:52:42,740
+[laughs]
+
+1202
+00:52:42,600 --> 00:52:44,860
+Charles Caskey: Oh, this is the, the dystopia where there's just-
+
+1203
+00:52:44,900 --> 00:52:45,400
+Brad Treeby: Eating neuroethics
+
+1204
+00:52:44,940 --> 00:52:45,960
+Charles Caskey: ... you just, everybody's-
+
+1205
+00:52:46,880 --> 00:52:47,440
+Keith Murphy: Yeah. [laughs]
+
+1206
+00:52:47,440 --> 00:52:49,460
+Charles Caskey: ... zonked out, sonicating their brain.
+
+1207
+00:52:49,460 --> 00:52:50,860
+Keith Murphy: Wait, Brad, do we have to think about neuroethics?
+
+1208
+00:52:51,040 --> 00:52:55,000
+Are these people-- 'Cause in, in your video, they're very fit and they're very
+
+1209
+00:52:55,200 --> 00:52:59,840
+pretty and symmetric, but is there something we have to avoid about the dystopia?
+
+1210
+00:53:00,040 --> 00:53:01,180
+Or is it only a few people?
+
+1211
+00:53:01,200 --> 00:53:02,240
+[laughs]
+
+1212
+00:53:02,300 --> 00:53:04,380
+Brad Treeby: No, I think, I think we put-- I mean, we talked about it already,
+
+1213
+00:53:04,420 --> 00:53:07,100
+but we put a lot of effort in making the device accessible for, for
+
+1214
+00:53:07,140 --> 00:53:10,840
+people with all kinds of body shapes and hair types and, you know, I
+
+1215
+00:53:10,880 --> 00:53:12,300
+think it's a, a device for everybody.
+
+1216
+00:53:13,440 --> 00:53:17,020
+Charles Caskey: Yeah. And it seemed like in your video you're going, uh, essential tremor.
+
+1217
+00:53:17,100 --> 00:53:21,600
+And if this is a, has less of a risk profile, potential similar upside,
+
+1218
+00:53:21,740 --> 00:53:26,200
+I think in patient populations, the ethical question is a lot more easily addressed,
+
+1219
+00:53:26,460 --> 00:53:26,960
+uh-
+
+1220
+00:53:26,680 --> 00:53:27,480
+Keith Murphy: Yeah. Yeah
+
+1221
+00:53:27,480 --> 00:53:28,540
+Charles Caskey: ... than, than general population.
+
+1222
+00:53:28,580 --> 00:53:31,160
+Brad Treeby: I mean, I think for us, we, we really care about Enrico.
+
+1223
+00:53:31,540 --> 00:53:36,100
+So I think essential tremor as, at least our first clinical trials, which are,
+
+1224
+00:53:36,140 --> 00:53:39,720
+which are actually getting underway now, is a really great way to start.
+
+1225
+00:53:39,740 --> 00:53:44,220
+It's a huge underserved market. There's a massive gap between people who are diagnosed
+
+1226
+00:53:44,260 --> 00:53:47,640
+and, and frontline medications don't work, and then the people who get the neurosurgical
+
+1227
+00:53:47,680 --> 00:53:52,080
+interventions, which are pretty fantastic, by the way, but basically hardly anybody can, has,
+
+1228
+00:53:52,140 --> 00:53:54,680
+has access to them. So it's a, it's underserved population.
+
+1229
+00:53:55,080 --> 00:53:58,220
+But as a, as a disorder, it's a circuit we understand relatively well.
+
+1230
+00:53:58,280 --> 00:54:01,840
+We know where the target is, and we have an extremely clear biomarker.
+
+1231
+00:54:02,260 --> 00:54:07,600
+So for me, being able to just literally see robustly, repeatably, we can have
+
+1232
+00:54:07,620 --> 00:54:10,180
+an effect on a clinically important biomarker.
+
+1233
+00:54:10,540 --> 00:54:12,900
+I think that's gonna be, yes, okay, this is fantastic.
+
+1234
+00:54:12,940 --> 00:54:24,940
+Let's go. [upbeat music]

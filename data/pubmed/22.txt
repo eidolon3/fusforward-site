@@ -1,0 +1,3827 @@
+
+PMID- 42803624
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20260928
+LR  - 20260928
+IS  - 1520-8524 (Electronic)
+IS  - 0001-4966 (Linking)
+VI  - 160
+IP  - 3
+DP  - 2026 Sep 1
+TI  - Pointwise encoding time reduction with radial acquisition (PETRA) to pseudo-CT 
+      (computer tomography) mapping for precision focused transcranial ultrasound 
+      applications.
+PG  - 2579-2591
+LID - 10.1121/10.0042994 [doi]
+AB  - Ultrasound simulations used for treatment planning in transcranial ultrasound 
+      stimulation (TUS) currently depend on converting computed tomography (CT) images 
+      to acoustic properties. Aiming to reduce subject exposure to ionising radiation, 
+      recent literature focused on generating pseudo-CT images from different magnetic 
+      resonance (MR) imaging sequences. Here, the pointwise encoding time reduction 
+      with radial acquisition (PETRA) sequence was used because of its stronger ability 
+      to image bones. A dataset of paired CT and PETRA scans was acquired separately 
+      for human subjects and ex vivo skulls. Principal component analysis performed on 
+      all bone voxels uncovered the affine relationship converting PETRA images to 
+      pseudo-CTs. Acoustic simulations based on CTs and pseudo-CTs were performed in 
+      k-Plan and k-wave. For in vivo data, the mean absolute errors in focal position, 
+      peak pressure, and focal volume were 0.48+/-0.25 mm, 5.1+/-4.0% and 5.8+/-4.4%. The 
+      similarity of acoustic fields from ex vivo CTs/pseudo-CTs was compared with 
+      experimental data. The corresponding errors were 1.5 +/- 1.2 mm, 17.1 +/- 14.6% and 
+      32.5 +/- 22.5% for CT and 1.6 +/- 1.4 mm, 18.2 +/- 17.1% and 19.2 +/- 15.9% for 
+      pseudo-CT. The small errors for in vivo data and the similarity of the 
+      experimental errors for both methods validate the use of PETRA-derived pseudo-CT 
+      as an alternative to CT, ensuring precise acoustic field predictions. The 
+      conversion tool is available at https://github.com/ucl-bug/petra-to-ct.
+CI  - (c) 2026 Author(s). All article content, except where otherwise noted, is licensed 
+      under a Creative Commons Attribution (CC BY) license 
+      (https://creativecommons.org/licenses/by/4.0/).
+FAU - Miscouridou, Maria
+AU  - Miscouridou M
+AUID- ORCID: 0000-0002-8274-1595
+AD  - Department of Medical Physics and Biomedical Engineering, University College 
+      London, London, WC1E 6BT, United Kingdom.
+FAU - Krokhmal, Alisa A
+AU  - Krokhmal AA
+AUID- ORCID: 0000-0003-0026-6653
+AD  - Department of Medical Physics and Biomedical Engineering, University College 
+      London, London, WC1E 6BT, United Kingdom.
+FAU - Hess, Aaron T
+AU  - Hess AT
+AUID- ORCID: 0000-0002-9289-5619
+AD  - Nuffield Department of Clinical Neurosciences, FMRIB, Wellcome Centre for 
+      Integrative Neuroimaging, University of Oxford, Oxford, OX3 9DU, United Kingdom.
+FAU - Campbell, Jon
+AU  - Campbell J
+AUID- ORCID: 0000-0003-4757-1655
+AD  - Nuffield Department of Clinical Neurosciences, FMRIB, Wellcome Centre for 
+      Integrative Neuroimaging, University of Oxford, Oxford, OX3 9DU, United Kingdom.
+FAU - Stagg, Charlotte J
+AU  - Stagg CJ
+AUID- ORCID: 0000-0002-5542-5036
+AD  - Nuffield Department of Clinical Neurosciences, FMRIB, Wellcome Centre for 
+      Integrative Neuroimaging, University of Oxford, Oxford, OX3 9DU, United Kingdom.
+FAU - Martin, Eleanor
+AU  - Martin E
+AUID- ORCID: 0000-0001-8760-1180
+AD  - Department of Medical Physics and Biomedical Engineering, University College 
+      London, London, WC1E 6BT, United Kingdom.
+FAU - Treeby, Bradley E
+AU  - Treeby BE
+AUID- ORCID: 0000-0001-7782-011X
+AD  - Department of Medical Physics and Biomedical Engineering, University College 
+      London, London, WC1E 6BT, United Kingdom.
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - J Acoust Soc Am
+JT  - The Journal of the Acoustical Society of America
+JID - 7503051
+SB  - IM
+MH  - Humans
+MH  - *Tomography, X-Ray Computed/methods
+MH  - *Skull/diagnostic imaging
+MH  - Time Factors
+MH  - Computer Simulation
+MH  - Principal Component Analysis
+EDAT- 2026/09/28 11:40
+MHDA- 2026/09/28 11:41
+CRDT- 2026/09/28 09:33
+PHST- 2025/08/03 00:00 [received]
+PHST- 2026/02/19 00:00 [accepted]
+PHST- 2026/09/28 11:41 [medline]
+PHST- 2026/09/28 11:40 [pubmed]
+PHST- 2026/09/28 09:33 [entrez]
+AID - 3405422 [pii]
+AID - 10.1121/10.0042994 [doi]
+PST - ppublish
+SO  - J Acoust Soc Am. 2026 Sep 1;160(3):2579-2591. doi: 10.1121/10.0042994.
+
+PMID- 41685921
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20260213
+IS  - 1520-8524 (Electronic)
+IS  - 0001-4966 (Linking)
+VI  - 159
+IP  - 2
+DP  - 2026 Feb 1
+TI  - Iterative Born solver for the acoustic Helmholtz equation with heterogeneous 
+      sound speed and density.
+PG  - 1457-1470
+LID - 10.1121/10.0042259 [doi]
+AB  - Efficient numerical solution of the acoustic Helmholtz equation in heterogeneous 
+      media remains challenging, particularly for large-scale problems with spatially 
+      varying density-a limitation that restricts applications in biomedical acoustics 
+      and seismic imaging. A fast iterative solver that extends the convergent Born 
+      series [Osnabrugge, Leedumrongwatthanakun, and Vellekoop, J. Comput. Phys. 322, 
+      113-124 (2016)] method to handle arbitrary variations in sound speed, density, 
+      and absorption simultaneously is presented. This approach reformulates the 
+      Helmholtz equation as a first-order system and applies the universal 
+      split-preconditioner from Vettenburg and Vellekoop [arXiv:2207.14222v2 (2022)], 
+      yielding a matrix-free algorithm that leverages Fast Fourier Transforms for 
+      computational efficiency. Unlike existing Born series methods, this solver 
+      accommodates heterogeneous density without requiring expensive matrix 
+      decompositions or preprocessing steps, making it suitable for large-scale 
+      three-dimensional problems with minimal memory overhead. The method provides 
+      forward and adjoint solutions, enabling its application for inverse problems. 
+      Accuracy is validated through comparison against an analytical solution and the 
+      solver's practical utility is demonstrated through transcranial ultrasound 
+      simulations. The solver achieves convergence for strong scattering scenarios, 
+      offering a computationally efficient alternative to time-domain methods and 
+      matrix-based Helmholtz solvers for applications ranging from medical ultrasound 
+      treatment planning to seismic exploration.
+CI  - (c) 2026 Acoustical Society of America.
+FAU - Stanziola, Antonio
+AU  - Stanziola A
+AUID- ORCID: 0000-0001-7035-5489
+AD  - Department of Medical Physics and Biomedical Engineering, University College 
+      London, London WC1E 6BT, United Kingdom.
+FAU - Arridge, Simon R
+AU  - Arridge SR
+AUID- ORCID: 0000-0003-1292-0210
+AD  - Department of Computer Science, University College London, London WC1E 6BT, 
+      United Kingdom.
+FAU - Treeby, Bradley E
+AU  - Treeby BE
+AUID- ORCID: 0000-0001-7782-011X
+AD  - Department of Medical Physics and Biomedical Engineering, University College 
+      London, London WC1E 6BT, United Kingdom.
+FAU - Cox, Benjamin T
+AU  - Cox BT
+AUID- ORCID: 0000-0001-7296-4093
+AD  - Department of Medical Physics and Biomedical Engineering, University College 
+      London, London WC1E 6BT, United Kingdom.
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - J Acoust Soc Am
+JT  - The Journal of the Acoustical Society of America
+JID - 7503051
+SB  - IM
+EDAT- 2026/02/13 12:49
+MHDA- 2026/02/13 12:50
+CRDT- 2026/02/13 09:05
+PHST- 2025/07/28 00:00 [received]
+PHST- 2026/01/05 00:00 [accepted]
+PHST- 2026/02/13 12:50 [medline]
+PHST- 2026/02/13 12:49 [pubmed]
+PHST- 2026/02/13 09:05 [entrez]
+AID - 3379997 [pii]
+AID - 10.1121/10.0042259 [doi]
+PST - ppublish
+SO  - J Acoust Soc Am. 2026 Feb 1;159(2):1457-1470. doi: 10.1121/10.0042259.
+
+PMID- 41317895
+OWN - NLM
+STAT- In-Process
+LR  - 20260201
+IS  - 1876-4754 (Electronic)
+IS  - 1876-4754 (Linking)
+VI  - 19
+IP  - 1
+DP  - 2026 Jan-Feb
+TI  - Open letter on intervention regimes and adverse events in focused ultrasound for 
+      neuromodulation.
+PG  - 102994
+LID - S1935-861X(25)00396-1 [pii]
+LID - 10.1016/j.brs.2025.102994 [doi]
+FAU - Klein-Flugge, Miriam C
+AU  - Klein-Flugge MC
+AD  - Oxford Centre for Integrative Neuroimaging, Department of Experimental 
+      Psychology, University of Oxford, Oxford, OX1 3EL, United Kingdom; Department of 
+      Psychiatry,Warneford Hospital, University of Oxford, Oxford, OX3 7JX, United 
+      Kingdom. Electronic address: miriam.klein-flugge@psy.ox.ac.uk.
+FAU - Airan, Raag D
+AU  - Airan RD
+AD  - Department of Radiology, Neuroimaging and Neurointervention, Stanford University, 
+      Palo Alto, CA, 94304, USA.
+FAU - Attali, David
+AU  - Attali D
+AD  - Unite de Neuropsychiatrie Interventionnelle, Hopital Sainte-Anne, GHU Paris 
+      Psychiatrie & Neurosciences, Universite Paris Cite, 75014, Paris, France; 
+      Institute Physics for Medicine Paris - INSERM, CNRS, ESPCI Paris-PSL, Paris, 
+      France.
+FAU - Aubry, Jean-Francois
+AU  - Aubry JF
+AD  - Institute Physics for Medicine Paris - INSERM, CNRS, ESPCI Paris-PSL, Paris, 
+      France.
+FAU - Bubrick, Ellen J
+AU  - Bubrick EJ
+AD  - Brigham and Women's Hospital, Department of Neurology, Harvard Medical School, 
+      USA.
+FAU - Caskey, Charles F
+AU  - Caskey CF
+AD  - Vanderbilt University Medical Center, USA.
+FAU - Cleveland, Robin O
+AU  - Cleveland RO
+AD  - Institute of Biomedical Engineering, University of Oxford, United Kingdom.
+FAU - Fouragnan, Elsa F
+AU  - Fouragnan EF
+AD  - School of Psychology, Faculty of Health, University of Plymouth, United Kingdom; 
+      Brain Research Imaging Center, Faculty of Health, University of Plymouth, United 
+      Kingdom.
+FAU - Jones, Ryan M
+AU  - Jones RM
+AD  - Physical Sciences Platform, Sunnybrook Research Institute, Toronto, ON, Canada.
+FAU - Khokhlova, Tatiana D
+AU  - Khokhlova TD
+AD  - Division of Gastroenterology, University of Washington School of Medicine, USA; 
+      Applied Physics Laboratory, University of Washington, USA.
+FAU - Kubanek, Jan
+AU  - Kubanek J
+AD  - Psychiatry, Radiology, Neurology, and Biomedical Engineering, Washington 
+      University, USA.
+FAU - Lea-Banks, Harriet
+AU  - Lea-Banks H
+AD  - Department of Medical Physics and Biomedical Engineering, University College 
+      London, London, United Kingdom; UCL Centre for Advanced Biomedical Imaging, 
+      Division of Medicine, University College London, London, United Kingdom.
+FAU - Legon, Wynn
+AU  - Legon W
+AD  - Fralin Biomedical Research Institute at Virginia Tech Carilion, USA.
+FAU - McDannold, Nathan
+AU  - McDannold N
+AD  - Brigham and Women's Hospital, Department of Neurology, Harvard Medical School, 
+      USA.
+FAU - Murphy, Keith R
+AU  - Murphy KR
+AD  - Attune Neurosciences, San Francisco, CA, USA.
+FAU - Osada, Takahiro
+AU  - Osada T
+AD  - Department of Neurophysiology, Juntendo University School of Medicine, Japan.
+FAU - Pauly, Kim Butts
+AU  - Pauly KB
+AD  - Department of Radiology, Neuroimaging and Neurointervention, Stanford University, 
+      Palo Alto, CA, 94304, USA.
+FAU - Pichardo, Samuel
+AU  - Pichardo S
+AD  - Radiology and Clinical Neurosciences, Hotchkiss Brain Institute, Cumming School 
+      of Medicine, University of Calgary, Canada.
+FAU - Sallet, Jerome
+AU  - Sallet J
+AD  - INSERM Lyon France, 1 University of Oxford, United Kingdom.
+FAU - Sun, Lei
+AU  - Sun L
+AD  - The Hong Kong Polytechnic University, China.
+FAU - Treeby, Bradley E
+AU  - Treeby BE
+AD  - NeuroHarmonics LTD, 71-75 Shelton Street, Covent Garden, London, United Kingdom.
+FAU - Zheng, Hairong
+AU  - Zheng H
+AD  - Shenzhen Institutes of Advanced Technology, United Kingdom.
+FAU - Martin, Eleanor
+AU  - Martin E
+AD  - Department of Medical Physics and Biomedical Engineering, University College 
+      London, London, United Kingdom. Electronic address: elly.martin@ucl.ac.uk.
+FAU - Verhagen, Lennart
+AU  - Verhagen L
+AD  - Donders Institute for Brain, Cognition and Behaviour, Radboud University, 6525 
+      GD, Nijmegen, the Netherlands. Electronic address: 
+      lennart.verhagen@donders.ru.nl.
+LA  - eng
+PT  - Letter
+DEP - 20251127
+PL  - United States
+TA  - Brain Stimul
+JT  - Brain stimulation
+JID - 101465726
+SB  - IM
+COIS- Declaration of competing interest Raag D Airan is on the advisory boards of 
+      Cordance Medical and Lumos Labs and has received grant funding from AbbVie. David 
+      Attali has been invited to scientific meetings, served as a speaker, and received 
+      compensation from Janssen. David Attali has been invited to scientific meetings 
+      by Neuraxpharm. Jean-Francois Aubry reports a relationship with InSightec that 
+      includes: funding grants. Jean-Francois Aubry reports a relationship with 
+      Sonomind that includes: equity or stocks and consulting or advisory. Elsa 
+      Fourgagnan: Advisor for Attune Neuroscience. Tatiana Khokhlova: Scientific 
+      advisor for Petal Surgical, Inc and Associate Editor for Ultrasonics. Jan 
+      Kubanek: Co-founder of SPIRE Therapeutics Inc. Keith R. Murphy. holds equity and 
+      is a salaried employee of Attune Neurosciences, Inc. Kim Butts Pauly reports a 
+      relationship with Attune Neurosciences that includes: consulting or advisory and 
+      equity or stocks. Kim Butts Pauly reports a relationship with Surf Therapeutics 
+      that includes: consulting or advisory. Kim Butts Pauly reports a relationship 
+      with MR Instruments that includes: non-financial support. Bradley E. Treeby 
+      reports a relationship with NeuroHarmonics LTD that includes: board membership, 
+      employment, and equity or stocks. Eleanor Martin reports a relationship with 
+      BrainBox Ltd that includes: consulting or advisory. Lennart Verhagen reports a 
+      relationship with Brainbox that includes: non-financial support. Lennart Verhagen 
+      reports a relationship with Sonic Concepts that includes: non-financial support. 
+      Lennart Verhagen reports a relationship with Image Guided Therapy that includes: 
+      non-financial support. Lennart Verhagen reports a relationship with Nudge that 
+      includes: consulting or advisory.
+EDAT- 2025/11/30 00:30
+MHDA- 2025/11/30 00:30
+CRDT- 2025/11/29 19:13
+PHST- 2025/11/18 00:00 [received]
+PHST- 2025/11/23 00:00 [accepted]
+PHST- 2025/11/30 00:30 [pubmed]
+PHST- 2025/11/30 00:30 [medline]
+PHST- 2025/11/29 19:13 [entrez]
+AID - S1935-861X(25)00396-1 [pii]
+AID - 10.1016/j.brs.2025.102994 [doi]
+PST - ppublish
+SO  - Brain Stimul. 2026 Jan-Feb;19(1):102994. doi: 10.1016/j.brs.2025.102994. Epub 
+      2025 Nov 27.
+
+PMID- 40913042
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250905
+LR  - 20250909
+IS  - 2041-1723 (Electronic)
+IS  - 2041-1723 (Linking)
+VI  - 16
+IP  - 1
+DP  - 2025 Sep 5
+TI  - Ultrasound system for precise neuromodulation of human deep brain circuits.
+PG  - 8024
+LID - 10.1038/s41467-025-63020-1 [doi]
+LID - 8024
+AB  - We introduce an advanced transcranial ultrasound stimulation (TUS) system for 
+      precise deep brain neuromodulation, featuring a 256-element helmet-shaped 
+      transducer array (555 kHz), stereotactic positioning, individualised planning, 
+      and real-time fMRI monitoring. Experiments demonstrated selective modulation of 
+      the lateral geniculate nucleus (LGN) and connected visual cortex regions. 
+      Participants showed significantly increased visual cortex activity during 
+      concurrent TUS and visual stimulation, with high cross-individual 
+      reproducibility. A theta-burst TUS protocol produced robust neuromodulatory 
+      effects, decreasing visual cortex activity for at least 40 min post-stimulation. 
+      Control experiments confirmed these effects were specific to the targeted LGN. 
+      Our findings reveal this system's potential to non-invasively modulate deep brain 
+      circuits with unprecedented precision and specificity, offering new avenues for 
+      studying brain function and developing targeted therapies for neurological and 
+      psychiatric disorders, with transformative potential for both research and 
+      clinical applications.
+CI  - (c) 2025. The Author(s).
+FAU - Martin, Eleanor
+AU  - Martin E
+AUID- ORCID: 0000-0001-8760-1180
+AD  - Department of Medical Physics and Biomedical Engineering, University College 
+      London, London, UK.
+FAU - Roberts, Morgan
+AU  - Roberts M
+AD  - Department of Medical Physics and Biomedical Engineering, University College 
+      London, London, UK.
+FAU - Grigoras, Ioana F
+AU  - Grigoras IF
+AUID- ORCID: 0000-0002-5430-7919
+AD  - Nuffield Department of Clinical Neurosciences, FMRIB, Wellcome Centre for 
+      Integrative Neuroimaging, University of Oxford, Oxford, UK.
+AD  - MRC Brain Network Dynamics Unit, Nuffield Department of Clinical Neurosciences, 
+      University of Oxford, Oxford, UK.
+AD  - Oxford Health NHS Foundation Trust, Oxford, UK.
+FAU - Wright, Olivia
+AU  - Wright O
+AD  - Department of Medical Physics and Biomedical Engineering, University College 
+      London, London, UK.
+FAU - Nandi, Tulika
+AU  - Nandi T
+AUID- ORCID: 0000-0001-8161-3770
+AD  - Nuffield Department of Clinical Neurosciences, FMRIB, Wellcome Centre for 
+      Integrative Neuroimaging, University of Oxford, Oxford, UK.
+AD  - MRC Brain Network Dynamics Unit, Nuffield Department of Clinical Neurosciences, 
+      University of Oxford, Oxford, UK.
+AD  - Oxford Health NHS Foundation Trust, Oxford, UK.
+FAU - Rieger, Sebastian W
+AU  - Rieger SW
+AUID- ORCID: 0000-0001-5414-645X
+AD  - Nuffield Department of Clinical Neurosciences, FMRIB, Wellcome Centre for 
+      Integrative Neuroimaging, University of Oxford, Oxford, UK.
+AD  - Oxford Centre for Human Brain Activity, Wellcome Centre for Integrative 
+      Neuroimaging, Department of Psychiatry, University of Oxford, Oxford, UK.
+FAU - Campbell, Jon
+AU  - Campbell J
+AUID- ORCID: 0000-0003-4757-1655
+AD  - Nuffield Department of Clinical Neurosciences, FMRIB, Wellcome Centre for 
+      Integrative Neuroimaging, University of Oxford, Oxford, UK.
+FAU - den Boer, Tim
+AU  - den Boer T
+AD  - Nuffield Department of Clinical Neurosciences, FMRIB, Wellcome Centre for 
+      Integrative Neuroimaging, University of Oxford, Oxford, UK.
+AD  - MRC Brain Network Dynamics Unit, Nuffield Department of Clinical Neurosciences, 
+      University of Oxford, Oxford, UK.
+AD  - Oxford Health NHS Foundation Trust, Oxford, UK.
+FAU - Cox, Ben T
+AU  - Cox BT
+AUID- ORCID: 0000-0001-7296-4093
+AD  - Department of Medical Physics and Biomedical Engineering, University College 
+      London, London, UK.
+FAU - Stagg, Charlotte J
+AU  - Stagg CJ
+AUID- ORCID: 0000-0002-5542-5036
+AD  - Nuffield Department of Clinical Neurosciences, FMRIB, Wellcome Centre for 
+      Integrative Neuroimaging, University of Oxford, Oxford, UK. 
+      charlotte.stagg@ndcn.ox.ac.uk.
+AD  - MRC Brain Network Dynamics Unit, Nuffield Department of Clinical Neurosciences, 
+      University of Oxford, Oxford, UK. charlotte.stagg@ndcn.ox.ac.uk.
+AD  - Oxford Health NHS Foundation Trust, Oxford, UK. charlotte.stagg@ndcn.ox.ac.uk.
+FAU - Treeby, Bradley E
+AU  - Treeby BE
+AUID- ORCID: 0000-0001-7782-011X
+AD  - Department of Medical Physics and Biomedical Engineering, University College 
+      London, London, UK. b.treeby@ucl.ac.uk.
+LA  - eng
+GR  - EP/P008712/1/RCUK | Engineering and Physical Sciences Research Council (EPSRC)/
+GR  - NIHR203316/DH | National Institute for Health Research (NIHR)/
+GR  - EP/S026371/1/RCUK | Engineering and Physical Sciences Research Council (EPSRC)/
+GR  - 224430/Z/21/Z/Wellcome Trust (Wellcome)/
+GR  - 203145/Z/16/Z/Wellcome Trust (Wellcome)/
+GR  - EP/P008860/1/RCUK | Engineering and Physical Sciences Research Council (EPSRC)/
+GR  - WT_/Wellcome Trust/United Kingdom
+GR  - 203139/A/16/Z/Wellcome Trust (Wellcome)/
+PT  - Journal Article
+DEP - 20250905
+PL  - England
+TA  - Nat Commun
+JT  - Nature communications
+JID - 101528555
+SB  - IM
+MH  - Humans
+MH  - Male
+MH  - Magnetic Resonance Imaging
+MH  - Female
+MH  - *Deep Brain Stimulation/methods/instrumentation
+MH  - Adult
+MH  - *Visual Cortex/physiology/diagnostic imaging
+MH  - *Geniculate Bodies/physiology/diagnostic imaging
+MH  - *Brain/physiology/diagnostic imaging
+MH  - Photic Stimulation
+MH  - Young Adult
+MH  - Brain Mapping
+MH  - Reproducibility of Results
+PMC - PMC12413462
+COIS- Competing interests: B.E.T., E.M., O.W. and M.R. are authors of or have a 
+      financial interest in patent filings related to the technology described in this 
+      study. B.E.T. is a developer of the commercially available k-Plan treatment 
+      planning software used in this study, and B.E.T. and B.T.C. hold a financial 
+      interest in the software. The remaining authors declare no competing interests.
+EDAT- 2025/09/06 00:35
+MHDA- 2025/09/06 00:36
+PMCR- 2025/09/05
+CRDT- 2025/09/05 23:15
+PHST- 2025/02/17 00:00 [received]
+PHST- 2025/08/06 00:00 [accepted]
+PHST- 2025/09/06 00:36 [medline]
+PHST- 2025/09/06 00:35 [pubmed]
+PHST- 2025/09/05 23:15 [entrez]
+PHST- 2025/09/05 00:00 [pmc-release]
+AID - 10.1038/s41467-025-63020-1 [pii]
+AID - 63020 [pii]
+AID - 10.1038/s41467-025-63020-1 [doi]
+PST - epublish
+SO  - Nat Commun. 2025 Sep 5;16(1):8024. doi: 10.1038/s41467-025-63020-1.
+
+PMID- 40079769
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20250313
+IS  - 1520-8524 (Electronic)
+IS  - 0001-4966 (Linking)
+VI  - 157
+IP  - 3
+DP  - 2025 Mar 1
+TI  - Modelling power-law ultrasound absorption using a time-fractional, static memory, 
+      Fourier pseudo-spectral method.
+PG  - 1761-1771
+LID - 10.1121/10.0035937 [doi]
+AB  - We describe and implement a numerical method for modelling the 
+      frequency-dependent power-law absorption of ultrasound in tissue, as governed by 
+      the first order linear wave equations with a loss taking the form of a fractional 
+      time derivative. The (Caputo) fractional time derivative requires the full 
+      problem history, which is contained within an iterative procedure. The resulting 
+      numerical method requires a fixed (static) memory cost, irrespective of the 
+      number of time steps. The spatial domain is treated by the Fourier spectral 
+      method. Numerically. comparisons are made against a model for the same power-law 
+      absorption with loss described by the fractional-Laplacian operator. One 
+      advantage of the fractional time derivative over the fractional-Laplacian 
+      operator is the local treatment of the power-law, allowing for a spatially 
+      varying frequency power-law.
+CI  - (c) 2025 Acoustical Society of America.
+FAU - King, Matthew J
+AU  - King MJ
+AUID- ORCID: 0000-0002-6780-325X
+AD  - Department of Medical Physics and Biomedical Engineering, University College 
+      London, London, WC1E 6BT, United Kingdom.
+FAU - Gutleb, Timon S
+AU  - Gutleb TS
+AUID- ORCID: 0000-0002-8239-2372
+AD  - School of Computer Science, University of Leeds, Leeds, LS2 9JT, United Kingdom.
+FAU - Treeby, B E
+AU  - Treeby BE
+AUID- ORCID: 0000-0001-7782-011X
+AD  - Department of Medical Physics and Biomedical Engineering, University College 
+      London, London, WC1E 6BT, United Kingdom.
+FAU - Cox, B T
+AU  - Cox BT
+AUID- ORCID: 0000-0001-7296-4093
+AD  - Department of Medical Physics and Biomedical Engineering, University College 
+      London, London, WC1E 6BT, United Kingdom.
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - J Acoust Soc Am
+JT  - The Journal of the Acoustical Society of America
+JID - 7503051
+SB  - IM
+EDAT- 2025/03/13 14:07
+MHDA- 2025/03/13 14:08
+CRDT- 2025/03/13 10:12
+PHST- 2024/08/07 00:00 [received]
+PHST- 2025/02/02 00:00 [accepted]
+PHST- 2025/03/13 14:08 [medline]
+PHST- 2025/03/13 14:07 [pubmed]
+PHST- 2025/03/13 10:12 [entrez]
+AID - 3339551 [pii]
+AID - 10.1121/10.0035937 [doi]
+PST - ppublish
+SO  - J Acoust Soc Am. 2025 Mar 1;157(3):1761-1771. doi: 10.1121/10.0035937.
+
+PMID- 39700626
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250115
+LR  - 20260924
+IS  - 1361-6560 (Electronic)
+IS  - 0031-9155 (Print)
+IS  - 0031-9155 (Linking)
+VI  - 70
+IP  - 2
+DP  - 2025 Jan 15
+TI  - A comparative study of experimental and simulated ultrasound beam propagation 
+      through cranial bones.
+LID - 10.1088/1361-6560/ada19d [doi]
+LID - 025007
+AB  - Objective.Transcranial ultrasound is used in a variety of treatments, including 
+      neuromodulation, opening the blood-brain barrier, and high intensity focused 
+      ultrasound therapies. To ensure safety and efficacy of these treatments, 
+      numerical simulations of the ultrasound field within the brain are used for 
+      treatment planning and evaluation. This study investigates the accuracy of 
+      numerical modelling of the propagation of focused ultrasound through cranial 
+      bones.Approach.Holograms of acoustic fields after propagation through four human 
+      skull specimens were measured for frequencies ranging from 270 kHz to 1 MHz, 
+      using both quasi-continuous and pulsed modes. The open-source k-Wave toolbox was 
+      employed for simulations, using an equivalent-source hologram and a uniform bowl 
+      source with parameters that best matched the measured free-field pressure 
+      distribution.Main results.The average absolute error in k-Wave simulations with 
+      sound speed and density derived from CT scans compared to measurements was 15% 
+      for the spatial-peak acoustic pressure amplitude, 2.7 mm for the position of the 
+      focus, and 35% for the focal volume. Optimised uniform bowl sources achieved 
+      calculation accuracy comparable to that of the hologram sources.Significance.This 
+      method is demonstrated as a suitable tool for prediction of focal position, size 
+      and overall distribution of transcranial ultrasound fields. The accuracy of the 
+      shape and position of the focal region demonstrate the suitability of the sound 
+      speed and density mapping used here. However, large errors in pressure amplitude 
+      and transmission loss in some individual cases show that alternative methods for 
+      mapping individual skull attenuation are needed and the possibility of 
+      considerable errors in pressure amplitude should be taken into account when 
+      planning focused ultrasound studies or interventions in the human brain, and 
+      appropriate safety margins should be used.
+CI  - Creative Commons Attribution license.
+FAU - Krokhmal, Alisa
+AU  - Krokhmal A
+AUID- ORCID: 0000-0003-0026-6653
+AD  - Department of Medical Physics and Biomedical Engineering, University College 
+      London, London WC1E 6BT, United Kingdom.
+FAU - Simcock, Ian C
+AU  - Simcock IC
+AUID- ORCID: 0000-0002-5619-0785
+AD  - Great Ormond Street Hospital for Children NHS Foundation Trust, Great Ormond 
+      Street, London WC1N 3JH, United Kingdom.
+AD  - UCL Great Ormond Street Institute of Child Health, 30 Guildford Street, London 
+      WC1N 3EH, United Kingdom.
+AD  - NIHR Great Ormond Street Hospital Biomedical Research Centre, 30 Guildford 
+      Street, London WC1N 3EH, United Kingdom.
+FAU - Treeby, Bradley E
+AU  - Treeby BE
+AUID- ORCID: 0000-0001-7782-011X
+AD  - Department of Medical Physics and Biomedical Engineering, University College 
+      London, London WC1E 6BT, United Kingdom.
+FAU - Martin, Eleanor
+AU  - Martin E
+AUID- ORCID: 0000-0001-8760-1180
+AD  - Department of Medical Physics and Biomedical Engineering, University College 
+      London, London WC1E 6BT, United Kingdom.
+AD  - Wellcome/EPSRC Centre for Interventional and Surgical Sciences, University 
+      College London, London WC1E 6BT, United Kingdom.
+LA  - eng
+GR  - WT_/Wellcome Trust/United Kingdom
+PT  - Comparative Study
+PT  - Journal Article
+DEP - 20250115
+PL  - England
+TA  - Phys Med Biol
+JT  - Physics in medicine and biology
+JID - 0401220
+SB  - IM
+MH  - *Skull/diagnostic imaging
+MH  - Humans
+MH  - *Ultrasonic Waves
+MH  - Holography
+PMC - PMC11734220
+OTO - NOTNLM
+OT  - experimental validation
+OT  - focused ultrasound
+OT  - k-Wave
+OT  - numerical modelling
+OT  - transcranial ultrasound
+EDAT- 2024/12/20 00:23
+MHDA- 2025/01/15 12:24
+PMCR- 2025/01/15
+CRDT- 2024/12/19 18:04
+PHST- 2024/08/31 00:00 [received]
+PHST- 2024/12/19 00:00 [accepted]
+PHST- 2025/01/15 12:24 [medline]
+PHST- 2024/12/20 00:23 [pubmed]
+PHST- 2024/12/19 18:04 [entrez]
+PHST- 2025/01/15 00:00 [pmc-release]
+AID - pmbada19d [pii]
+AID - 10.1088/1361-6560/ada19d [doi]
+PST - epublish
+SO  - Phys Med Biol. 2025 Jan 15;70(2):025007. doi: 10.1088/1361-6560/ada19d.
+
+PMID- 38788727
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240610
+LR  - 20260811
+IS  - 1361-6560 (Electronic)
+IS  - 0031-9155 (Linking)
+VI  - 69
+IP  - 12
+DP  - 2024 Jun 10
+TI  - Strategies and safety simulations for ultrasonic cervical spinal cord 
+      neuromodulation.
+LID - 10.1088/1361-6560/ad506f [doi]
+AB  - Objective. Focused ultrasound spinal cord neuromodulation has been demonstrated 
+      in small animals. However, most of the tested neuromodulatory exposures are 
+      similar in intensity and exposure duration to the reported small animal threshold 
+      for possible spinal cord damage. All efforts must be made to minimize the risk 
+      and assure the safety of potential human studies, while maximizing potential 
+      treatment efficacy. This requires an understanding of ultrasound propagation and 
+      heat deposition within the human spine.Approach. Combined acoustic and thermal 
+      modelling was used to assess the pressure and heat distributions produced by a 
+      500 kHz source focused to the C5/C6 level via two approaches (a) the posterior 
+      acoustic window between vertebral posterior arches, and (b) the lateral 
+      intervertebral foramen from which the C6 spinal nerve exits. Pulse trains of 
+      fifty 0.1 s pulses (pulse repetition frequency: 0.33 Hz, free-field spatial peak 
+      pulse-averaged intensity: 10 W cm(-2)) were simulated for four subjects and for 
+      +/-10 mm translational and +/-10( composite function)rotational source positioning errors.Main 
+      results.Target pressures ranged between 20%-70% of free-field spatial peak 
+      pressures with the posterior approach, and 20%-100% with the lateral approach. 
+      When the posterior source was optimally positioned, peak spine heating values 
+      were below 1 ( composite function)C, but source mispositioning resulted in bone heating up to 
+      4 ( composite function)C. Heating with the lateral approach did not exceed 2 ( composite function)C within the 
+      mispositioning range. There were substantial inter-subject differences in target 
+      pressures and peak heating values. Target pressure varied three to four-fold 
+      between subjects, depending on approach, while peak heating varied approximately 
+      two-fold between subjects. This results in a nearly ten-fold range between 
+      subjects in the target pressure achieved per degree of maximum 
+      heating.Significance. This study highlights the utility of trans-spine ultrasound 
+      simulation software and need for precise source-anatomy positioning to assure the 
+      subject-specific safety and efficacy of focused ultrasound spinal cord therapies.
+CI  - Creative Commons Attribution license.
+FAU - Xu, Rui
+AU  - Xu R
+AUID- ORCID: 0000-0003-1606-0932
+AD  - Department of Medical Physics and Biomedical Engineering, University College 
+      London, London, United Kingdom.
+AD  - Wellcome/EPSRC Centre for Interventional and Surgical Sciences, University 
+      College London, London, United Kingdom.
+FAU - Bestmann, Sven
+AU  - Bestmann S
+AUID- ORCID: 0000-0002-6867-9545
+AD  - Department of Clinical and Movement Neuroscience, University College London, 
+      London, United Kingdom.
+FAU - Treeby, Bradley E
+AU  - Treeby BE
+AUID- ORCID: 0000-0001-7782-011X
+AD  - Department of Medical Physics and Biomedical Engineering, University College 
+      London, London, United Kingdom.
+FAU - Martin, Eleanor
+AU  - Martin E
+AUID- ORCID: 0000-0001-8760-1180
+AD  - Department of Medical Physics and Biomedical Engineering, University College 
+      London, London, United Kingdom.
+AD  - Wellcome/EPSRC Centre for Interventional and Surgical Sciences, University 
+      College London, London, United Kingdom.
+LA  - eng
+GR  - MR/T019166/1/Wellcome/
+GR  - 90254/e-INFRA CZ/
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+DEP - 20240610
+PL  - England
+TA  - Phys Med Biol
+JT  - Physics in medicine and biology
+JID - 0401220
+SB  - IM
+MH  - Humans
+MH  - *Ultrasonic Therapy/adverse effects/methods
+MH  - Safety
+MH  - Cervical Cord/diagnostic imaging
+MH  - Pressure
+MH  - Spinal Cord Stimulation/methods/instrumentation
+MH  - Models, Biological
+OTO - NOTNLM
+OT  - focused ultrasound
+OT  - neuromodulation
+OT  - simulation
+OT  - spinal cord
+OT  - spine
+EDAT- 2024/05/25 05:44
+MHDA- 2024/06/10 06:42
+CRDT- 2024/05/24 18:42
+PHST- 2024/02/21 00:00 [received]
+PHST- 2024/05/24 00:00 [accepted]
+PHST- 2024/06/10 06:42 [medline]
+PHST- 2024/05/25 05:44 [pubmed]
+PHST- 2024/05/24 18:42 [entrez]
+AID - 10.1088/1361-6560/ad506f [doi]
+PST - epublish
+SO  - Phys Med Biol. 2024 Jun 10;69(12). doi: 10.1088/1361-6560/ad506f.
+
+PMID- 38575415
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20240601
+IS  - 1879-291X (Electronic)
+IS  - 0301-5629 (Linking)
+VI  - 50
+IP  - 7
+DP  - 2024 Jul
+TI  - Corrigendum to 'Safety Review of Therapeutic Ultrasound for Spinal Cord 
+      Neuromodulation and Blood-Spinal Cord Barrier Opening' [Ultrasound in Med & Biol. 
+      50 (2024) 317-331].
+PG  - 1069
+LID - S0301-5629(24)00150-9 [pii]
+LID - 10.1016/j.ultrasmedbio.2024.03.017 [doi]
+FAU - Xu, Rui
+AU  - Xu R
+AD  - Department of Medical Physics and Biomedical Engineering, University College 
+      London, London, UK. Electronic address: rui.xu@ucl.ac.uk.
+FAU - Treeby, Bradley E
+AU  - Treeby BE
+AD  - Department of Medical Physics and Biomedical Engineering, University College 
+      London, London, UK.
+FAU - Martin, Eleanor
+AU  - Martin E
+AD  - Department of Medical Physics and Biomedical Engineering, University College 
+      London, London, UK.
+LA  - eng
+PT  - Published Erratum
+DEP - 20240404
+PL  - England
+TA  - Ultrasound Med Biol
+JT  - Ultrasound in medicine & biology
+JID - 0410553
+SB  - IM
+EFR - Ultrasound Med Biol. 2024 Mar;50(3):317-331. doi: 
+      10.1016/j.ultrasmedbio.2023.11.007. PMID: 38182491
+EDAT- 2024/04/05 00:42
+MHDA- 2024/04/05 00:43
+CRDT- 2024/04/04 22:19
+PHST- 2024/04/05 00:43 [medline]
+PHST- 2024/04/05 00:42 [pubmed]
+PHST- 2024/04/04 22:19 [entrez]
+AID - S0301-5629(24)00150-9 [pii]
+AID - 10.1016/j.ultrasmedbio.2024.03.017 [doi]
+PST - ppublish
+SO  - Ultrasound Med Biol. 2024 Jul;50(7):1069. doi: 
+      10.1016/j.ultrasmedbio.2024.03.017. Epub 2024 Apr 4.
+
+PMID- 38530713
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240510
+LR  - 20250530
+IS  - 1525-8955 (Electronic)
+IS  - 0885-3010 (Linking)
+VI  - 71
+IP  - 5
+DP  - 2024 May
+TI  - Review of the Low-Temperature Acoustic Properties of Water, Aqueous Solutions, 
+      Lipids, and Soft Biological Tissues.
+PG  - 607-620
+LID - 10.1109/TUFFC.2024.3381451 [doi]
+AB  - Existing data on the acoustic properties of low-temperature biological materials 
+      is limited and widely dispersed across fields. This makes it difficult to employ 
+      this information in the development of ultrasound applications in the medical 
+      field, such as cryosurgery and rewarming of cryopreserved tissues. In this 
+      review, the low-temperature acoustic properties of biological materials, and the 
+      measurement methods used to acquire them were collected from a range of 
+      scientific fields. The measurements were reviewed from the acoustic setup to 
+      thermal methodologies for samples preparation, temperature monitoring, and system 
+      insulation. The collected data contain the longitudinal and shear velocity, and 
+      attenuation coefficient of biological soft tissues and biologically relevant 
+      substances-water, aqueous solutions, and lipids-in the temperature range down to 
+      -50  degrees C and in the frequency range from 108 kHz to 25 MHz. The multiple reflection 
+      method (MRM) was found to be the preferred method for low-temperature samples, 
+      with a buffer rod inserted between the transducer and sample to avoid direct 
+      contact. Longitudinal velocity changes are observed through the phase transition 
+      zone, which is sharp in pure water, and occurs more slowly and at lower 
+      temperatures with added solutes. Lipids show longer transition zones with smaller 
+      sound velocity changes; with the longitudinal velocity changes observed during 
+      phase transition in tissues lying between these two extremes. More general 
+      conclusions on the shear velocity and attenuation coefficient at low-temperatures 
+      are restricted by the limited data. This review enhance knowledge guiding for 
+      further development of ultrasound applications in low-temperature biomedical 
+      fields, and may help to increase the precision and standardization of 
+      low-temperature acoustic property measurements.
+FAU - Liang, Suzi
+AU  - Liang S
+FAU - Treeby, Bradley E
+AU  - Treeby BE
+FAU - Martin, Eleanor
+AU  - Martin E
+LA  - eng
+GR  - MR/T019166/1/MRC_/Medical Research Council/United Kingdom
+GR  - 203145Z/16/Z/WT_/Wellcome Trust/United Kingdom
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+DEP - 20240510
+PL  - United States
+TA  - IEEE Trans Ultrason Ferroelectr Freq Control
+JT  - IEEE transactions on ultrasonics, ferroelectrics, and frequency control
+JID - 9882735
+RN  - 059QF0KO0R (Water)
+RN  - 0 (Lipids)
+SB  - IM
+MH  - *Water/chemistry
+MH  - *Lipids/chemistry
+MH  - *Cold Temperature
+MH  - Animals
+MH  - Humans
+MH  - Acoustics
+MH  - Ultrasonography/methods
+EDAT- 2024/03/26 18:43
+MHDA- 2024/05/10 18:42
+CRDT- 2024/03/26 12:44
+PHST- 2024/05/10 18:42 [medline]
+PHST- 2024/03/26 18:43 [pubmed]
+PHST- 2024/03/26 12:44 [entrez]
+AID - 10.1109/TUFFC.2024.3381451 [doi]
+PST - ppublish
+SO  - IEEE Trans Ultrason Ferroelectr Freq Control. 2024 May;71(5):607-620. doi: 
+      10.1109/TUFFC.2024.3381451. Epub 2024 May 10.
+
+PMID- 38182491
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240122
+LR  - 20250530
+IS  - 1879-291X (Electronic)
+IS  - 0301-5629 (Linking)
+VI  - 50
+IP  - 3
+DP  - 2024 Mar
+TI  - Safety Review of Therapeutic Ultrasound for Spinal Cord Neuromodulation and 
+      Blood-Spinal Cord Barrier Opening.
+PG  - 317-331
+LID - S0301-5629(23)00368-X [pii]
+LID - 10.1016/j.ultrasmedbio.2023.11.007 [doi]
+AB  - New focused ultrasound spinal cord applications have emerged, particularly those 
+      improving therapeutic agent delivery to the spinal cord via blood-spinal cord 
+      barrier opening and the neuromodulation of spinal cord tracts. One hurdle in the 
+      development of these applications is safety. It may be possible to use safety 
+      trends from seminal and subsequent works in focused ultrasound to guide the 
+      development of safety guidelines for spinal cord applications. We collated data 
+      from decades of pre-clinical studies and illustrate a clear relationship between 
+      damage, time-averaged spatial peak intensity and exposure duration. This 
+      relationship suggests a thermal mechanism underlies ultrasound-induced spinal 
+      cord damage. We developed minimum and mean thresholds for damage from these 
+      pre-clinical studies. When these thresholds were plotted against the parameters 
+      used in recent pre-clinical ultrasonic spinal cord neuromodulation studies, the 
+      majority of the neuromodulation studies were near or above the minimum threshold. 
+      This suggests that a thermal neuromodulatory effect may exist for ultrasonic 
+      spinal cord neuromodulation, and that the thermal dose must be carefully 
+      controlled to avoid damage to the spinal cord. By contrast, the 
+      intensity-exposure duration threshold had no predictive value when applied to 
+      blood-spinal cord barrier opening studies that employed injected contrast agents. 
+      Most blood-spinal cord barrier opening studies observed slight to severe damage, 
+      except for small animal studies that employed an active feedback control method 
+      to limit pressures based on measured bubble oscillation behavior. The development 
+      of new focused ultrasound spinal cord applications perhaps reflects the recent 
+      success in the development of focused ultrasound brain applications, and recent 
+      work has begun on the translation of these technologies from brain to spinal 
+      cord. However, a great deal of work remains to be done, particularly with respect 
+      to developing and accepting safety standards for these applications.
+CI  - Crown Copyright (c) 2023. Published by Elsevier Inc. All rights reserved.
+FAU - Xu, Rui
+AU  - Xu R
+AD  - Department of Medical Physics and Biomedical Engineering, University College 
+      London, London, UK. Electronic address: rui.xu@ucl.ac.uk.
+FAU - Treeby, Bradley E
+AU  - Treeby BE
+AD  - Department of Medical Physics and Biomedical Engineering, University College 
+      London, London, UK.
+FAU - Martin, Eleanor
+AU  - Martin E
+AD  - Department of Medical Physics and Biomedical Engineering, University College 
+      London, London, UK.
+LA  - eng
+GR  - MR/T019166/1/MRC_/Medical Research Council/United Kingdom
+PT  - Journal Article
+PT  - Review
+DEP - 20240105
+PL  - England
+TA  - Ultrasound Med Biol
+JT  - Ultrasound in medicine & biology
+JID - 0410553
+SB  - IM
+EIN - Ultrasound Med Biol. 2024 Jul;50(7):1069. doi: 
+      10.1016/j.ultrasmedbio.2024.03.017. PMID: 38575415
+MH  - Animals
+MH  - *Blood-Brain Barrier/diagnostic imaging
+MH  - Brain
+MH  - *Ultrasonic Therapy/methods
+MH  - Ultrasonography
+MH  - Spinal Cord
+OTO - NOTNLM
+OT  - Ablation
+OT  - Blood-spinal cord barrier opening
+OT  - Neuromodulation
+OT  - Safety
+OT  - Spinal cord
+OT  - Thresholds
+OT  - Ultrasound
+COIS- Conflict of interest The authors declare no competing interests.
+EDAT- 2024/01/06 10:42
+MHDA- 2024/01/22 06:43
+CRDT- 2024/01/05 21:55
+PHST- 2023/06/18 00:00 [received]
+PHST- 2023/11/07 00:00 [revised]
+PHST- 2023/11/10 00:00 [accepted]
+PHST- 2024/01/22 06:43 [medline]
+PHST- 2024/01/06 10:42 [pubmed]
+PHST- 2024/01/05 21:55 [entrez]
+AID - S0301-5629(23)00368-X [pii]
+AID - 10.1016/j.ultrasmedbio.2023.11.007 [doi]
+PST - ppublish
+SO  - Ultrasound Med Biol. 2024 Mar;50(3):317-331. doi: 
+      10.1016/j.ultrasmedbio.2023.11.007. Epub 2024 Jan 5.
+
+PMID- 37256814
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20230703
+LR  - 20250530
+IS  - 1525-8955 (Electronic)
+IS  - 0885-3010 (Linking)
+VI  - 70
+IP  - 7
+DP  - 2023 Jul
+TI  - open-UST: An Open-Source Ultrasound Tomography Transducer Array System.
+PG  - 782-791
+LID - 10.1109/TUFFC.2023.3280635 [doi]
+AB  - Fast imaging methods are needed to promote clinical adoption of ultrasound 
+      tomography (UST), and more widely available UST hardware could support the 
+      experimental validation of new measurement configurations. In this work, an 
+      open-source 256-element transducer ring array was developed 
+      (morganjroberts.github. io/open-UST) and manufactured using rapid prototyping, 
+      for only  pound2k. Novel manufacturing techniques were used, resulting in a 1.17 degrees  mean 
+      beam axis skew angle, a [Formula: see text] mean element position error, and a 
+      [Formula: see text] deviation in matching layer thickness. The nominal acoustic 
+      performance was measured using hydrophone scans and watershot data, and the 61.2 
+      dB signal-to-noise ratio (SNR), 55.4 degrees  opening angle, 10.2 mm beamwidth, and 54% 
+      transmit-receive bandwidth (-12 dB) were found to be similar to existing systems 
+      and compatible with state-of-the-art full-waveform-inversion image reconstruction 
+      methods. The interelement variation in acoustic performance was typically < 10% 
+      without using normalization, meaning that the elements can be modeled identically 
+      during image reconstruction, removing the need for individual source definitions 
+      based on hydrophone measurements. Finally, data from a phantom experiment were 
+      successfully reconstructed. These results demonstrate that the open-UST system is 
+      accessible for users and is suitable for UST imaging research.
+FAU - Roberts, Morgan
+AU  - Roberts M
+FAU - Martin, Eleanor
+AU  - Martin E
+FAU - Brown, Michael D
+AU  - Brown MD
+FAU - Cox, Ben T
+AU  - Cox BT
+FAU - Treeby, Bradley E
+AU  - Treeby BE
+LA  - eng
+GR  - MR/T019166/1/MRC_/Medical Research Council/United Kingdom
+PT  - Journal Article
+DEP - 20230629
+PL  - United States
+TA  - IEEE Trans Ultrason Ferroelectr Freq Control
+JT  - IEEE transactions on ultrasonics, ferroelectrics, and frequency control
+JID - 9882735
+SB  - IM
+MH  - Ultrasonography/methods
+MH  - *Tomography
+MH  - *Tomography, X-Ray Computed
+MH  - Image Processing, Computer-Assisted
+MH  - Phantoms, Imaging
+MH  - Transducers
+EDAT- 2023/05/31 19:16
+MHDA- 2023/07/03 06:41
+CRDT- 2023/05/31 13:03
+PHST- 2023/07/03 06:41 [medline]
+PHST- 2023/05/31 19:16 [pubmed]
+PHST- 2023/05/31 13:03 [entrez]
+AID - 10.1109/TUFFC.2023.3280635 [doi]
+PST - ppublish
+SO  - IEEE Trans Ultrason Ferroelectr Freq Control. 2023 Jul;70(7):782-791. doi: 
+      10.1109/TUFFC.2023.3280635. Epub 2023 Jun 29.
+
+PMID- 37125870
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20230502
+LR  - 20230502
+IS  - 2691-1191 (Electronic)
+IS  - 2691-1191 (Linking)
+VI  - 3
+IP  - 5
+DP  - 2023 May 1
+TI  - A learned Born series for highly-scattering media.
+LID - 052401 [pii]
+LID - 10.1121/10.0017937 [doi]
+AB  - A new method for solving the wave equation is presented, called the learned Born 
+      series (LBS), which is derived from a convergent Born series but its components 
+      are found through training. The LBS is shown to be significantly more accurate 
+      than the convergent Born series for the same number of iterations, in the 
+      presence of high contrast scatterers, while maintaining a comparable 
+      computational complexity. The LBS is able to generate a reasonable prediction of 
+      the global pressure field with a small number of iterations, and the errors 
+      decrease with the number of learned iterations.
+CI  - (c) 2023 Author(s). All article content, except where otherwise noted, is licensed 
+      under a Creative Commons Attribution (CC BY) license 
+      (http://creativecommons.org/licenses/by/4.0/).
+FAU - Stanziola, Antonio
+AU  - Stanziola A
+AD  - University College London, Gower Street, London, WC1E 6BT, United 
+      Kingdoma.stanziola@ucl.ac.uk, s.arridge@ucl.ac.uk, b.cox@ucl.ac.uk, 
+      b.treeby@ucl.ac.uk.
+FAU - Arridge, Simon
+AU  - Arridge S
+AUID- ORCID: 0000-0003-1292-0210
+AD  - University College London, Gower Street, London, WC1E 6BT, United 
+      Kingdoma.stanziola@ucl.ac.uk, s.arridge@ucl.ac.uk, b.cox@ucl.ac.uk, 
+      b.treeby@ucl.ac.uk.
+FAU - Cox, Ben T
+AU  - Cox BT
+AUID- ORCID: 0000-0001-7296-4093
+AD  - University College London, Gower Street, London, WC1E 6BT, United 
+      Kingdoma.stanziola@ucl.ac.uk, s.arridge@ucl.ac.uk, b.cox@ucl.ac.uk, 
+      b.treeby@ucl.ac.uk.
+FAU - Treeby, Bradley E
+AU  - Treeby BE
+AUID- ORCID: 0000-0001-7782-011X
+AD  - University College London, Gower Street, London, WC1E 6BT, United 
+      Kingdoma.stanziola@ucl.ac.uk, s.arridge@ucl.ac.uk, b.cox@ucl.ac.uk, 
+      b.treeby@ucl.ac.uk.
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - JASA Express Lett
+JT  - JASA express letters
+JID - 101775177
+SB  - IM
+EDAT- 2023/05/01 12:43
+MHDA- 2023/05/01 12:44
+CRDT- 2023/05/01 09:43
+PHST- 2023/02/13 00:00 [received]
+PHST- 2023/04/05 00:00 [accepted]
+PHST- 2023/05/01 12:44 [medline]
+PHST- 2023/05/01 12:43 [pubmed]
+PHST- 2023/05/01 09:43 [entrez]
+AID - 2887637 [pii]
+AID - 10.1121/10.0017937 [doi]
+PST - ppublish
+SO  - JASA Express Lett. 2023 May 1;3(5):052401. doi: 10.1121/10.0017937.
+
+PMID- 36732249
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230206
+LR  - 20230215
+IS  - 1520-8524 (Electronic)
+IS  - 0001-4966 (Linking)
+VI  - 153
+IP  - 1
+DP  - 2023 Jan
+TI  - Experiments and simulations demonstrating the rapid ultrasonic rewarming of 
+      frozen tissue cryovials.
+PG  - 517
+LID - 10.1121/10.0016886 [doi]
+AB  - The development of methods to safely rewarm large cryopreserved biological 
+      samples remains a barrier to the widespread adoption of cryopreservation. Here, 
+      experiments and simulations were performed to demonstrate that ultrasound can 
+      increase rewarming rates relative to thermal conduction alone. An ultrasonic 
+      rewarming setup based on a custom 444 kHz tubular piezoelectric transducer was 
+      designed, characterized, and tested with 2 ml cryovials filled with frozen ground 
+      beef. Rewarming rates were characterized in the -20  degrees C to 5  degrees C range. Thermal 
+      conduction-based rewarming was compared to thermal conduction plus ultrasonic 
+      rewarming, demonstrating a tenfold increase in rewarming rate when ultrasound was 
+      applied. The maximum recorded rewarming rate with ultrasound was 57 degrees  C/min, 
+      approximately 2.5 times faster than with thermal conduction alone. Coupled 
+      acoustic and thermal simulations were developed and showed good agreement with 
+      the heating rates demonstrated experimentally and were also used to demonstrate 
+      spatial heating distributions with small (<3 degrees  C) temperature differentials 
+      throughout the sample when the sample was below 0 degrees  C. The experiments and 
+      simulations demonstrate the potential for ultrasonic cryovial rewarming with a 
+      possible application to large volume rewarming, as faster rewarming rates may 
+      improve the viability of cryopreserved tissues and reduce the time needed for 
+      cells to regain normal function.
+FAU - Xu, Rui
+AU  - Xu R
+AUID- ORCID: 0000-0003-1606-0932
+AD  - Department of Medical Physics and Biomedical Engineering, University College 
+      London, London, United Kingdom.
+FAU - Treeby, Bradley E
+AU  - Treeby BE
+AUID- ORCID: 0000-0001-7782-011X
+AD  - Department of Medical Physics and Biomedical Engineering, University College 
+      London, London, United Kingdom.
+FAU - Martin, Eleanor
+AU  - Martin E
+AUID- ORCID: 0000-0001-8760-1180
+AD  - Department of Medical Physics and Biomedical Engineering, University College 
+      London, London, United Kingdom.
+LA  - eng
+GR  - MR/T019166/1/MRC_/Medical Research Council/United Kingdom
+GR  - 203145Z/16/Z/WT_/Wellcome Trust/United Kingdom
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - J Acoust Soc Am
+JT  - The Journal of the Acoustical Society of America
+JID - 7503051
+SB  - IM
+MH  - Animals
+MH  - Cattle
+MH  - *Rewarming
+MH  - *Ultrasonics
+MH  - Cryopreservation/methods
+MH  - Temperature
+MH  - Transducers
+EDAT- 2023/02/03 06:00
+MHDA- 2023/02/07 06:00
+CRDT- 2023/02/02 22:06
+PHST- 2023/02/02 22:06 [entrez]
+PHST- 2023/02/03 06:00 [pubmed]
+PHST- 2023/02/07 06:00 [medline]
+AID - 10.1121/10.0016886 [doi]
+PST - ppublish
+SO  - J Acoust Soc Am. 2023 Jan;153(1):517. doi: 10.1121/10.0016886.
+
+PMID- 35984788
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220929
+LR  - 20241211
+IS  - 1525-8955 (Electronic)
+IS  - 0885-3010 (Print)
+IS  - 0885-3010 (Linking)
+VI  - 69
+IP  - 10
+DP  - 2022 Oct
+TI  - Classical and Learned MR to Pseudo-CT Mappings for Accurate Transcranial 
+      Ultrasound Simulation.
+PG  - 2896-2905
+LID - 10.1109/TUFFC.2022.3198522 [doi]
+AB  - Model-based treatment planning for transcranial ultrasound therapy typically 
+      involves mapping the acoustic properties of the skull from an X-ray computed 
+      tomography (CT) image of the head. Here, three methods for generating pseudo-CT 
+      (pCT) images from magnetic resonance (MR) images were compared as an alternative 
+      to CT. A convolutional neural network (U-Net) was trained on paired MR-CT images 
+      to generate pCT T images from either T1-weighted or zero-echo time (ZTE) MR 
+      images (denoted tCT and zCT, respectively). A direct mapping from ZTE to pCT was 
+      also implemented (denoted cCT). When comparing the pCT and ground-truth CT images 
+      for the test set, the mean absolute error was 133, 83, and 145 Hounsfield units 
+      (HU) across the whole head, and 398, 222, and 336 HU within the skull for the 
+      tCT, zCT, and cCT images, respectively. Ultrasound simulations were also 
+      performed using the generated pCT images and compared to simulations based on CT. 
+      An annular array transducer was used targeting the visual or motor cortex. The 
+      mean differences in the simulated focal pressure, focal position, and focal 
+      volume were 9.9%, 1.5 mm, and 15.1% for simulations based on the tCT images; 
+      5.7%, 0.6 mm, and 5.7% for the zCT; and 6.7%, 0.9 mm, and 12.1% for the cCT. The 
+      improved results for images mapped from ZTE highlight the advantage of using 
+      imaging sequences, which improves the contrast of the skull bone. Overall, these 
+      results demonstrate that acoustic simulations based on MR images can give 
+      comparable accuracy to those based on CT.
+FAU - Miscouridou, Maria
+AU  - Miscouridou M
+FAU - Pineda-Pardo, Jose A
+AU  - Pineda-Pardo JA
+FAU - Stagg, Charlotte J
+AU  - Stagg CJ
+FAU - Treeby, Bradley E
+AU  - Treeby BE
+FAU - Stanziola, Antonio
+AU  - Stanziola A
+LA  - eng
+GR  - 102584/WT_/Wellcome Trust/United Kingdom
+PT  - Journal Article
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+DEP - 20220927
+PL  - United States
+TA  - IEEE Trans Ultrason Ferroelectr Freq Control
+JT  - IEEE transactions on ultrasonics, ferroelectrics, and frequency control
+JID - 9882735
+SB  - IM
+MH  - *Image Processing, Computer-Assisted/methods
+MH  - Magnetic Resonance Imaging/methods
+MH  - Neural Networks, Computer
+MH  - *Tomography, X-Ray Computed
+MH  - Ultrasonography
+PMC - PMC7616982
+MID - EMS174473
+EDAT- 2022/08/20 06:00
+MHDA- 2022/09/30 06:00
+PMCR- 2024/12/08
+CRDT- 2022/08/19 13:33
+PHST- 2022/08/20 06:00 [pubmed]
+PHST- 2022/09/30 06:00 [medline]
+PHST- 2022/08/19 13:33 [entrez]
+PHST- 2024/12/08 00:00 [pmc-release]
+AID - 10.1109/TUFFC.2022.3198522 [doi]
+PST - ppublish
+SO  - IEEE Trans Ultrason Ferroelectr Freq Control. 2022 Oct;69(10):2896-2905. doi: 
+      10.1109/TUFFC.2022.3198522. Epub 2022 Sep 27.
+
+PMID- 35969568
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220929
+LR  - 20221112
+IS  - 1525-8955 (Electronic)
+IS  - 0885-3010 (Linking)
+VI  - 69
+IP  - 10
+DP  - 2022 Oct
+TI  - On-the-Fly Calculation of Time-Averaged Acoustic Intensity in Time-Domain 
+      Ultrasound Simulations Using a k-Space Pseudospectral Method.
+PG  - 2917-2929
+LID - 10.1109/TUFFC.2022.3199173 [doi]
+AB  - This article presents a method to calculate the average acoustic intensity during 
+      ultrasound simulation using a new approach that exploits compression of 
+      intermediate results. One of the applications of high-intensity focused 
+      ultrasound (HIFU) simulations is the calculation of the thermal dose, which 
+      indicates the amount of tissue destroyed using a state-of-the-art k-space 
+      pseudospectral method. The thermal simulation is preceded by the calculation of 
+      the average intensity within the acoustic simulation. Due to the time staggering 
+      between the particle velocity and the acoustic pressure used in such simulations, 
+      the average intensity calculation is typically executed offline after the 
+      acoustic simulation consuming both disk space and time (the data can spread over 
+      terabytes). Our new approach calculates the average intensity during the acoustic 
+      simulation using the output coefficients of a new compression method which 
+      enables resolving the time staggering on-the-fly with huge disk space savings. To 
+      reduce RAM requirements, the article also presents a new 40-bit method for 
+      encoding compression complex coefficients. Experimental numerical simulations 
+      with the proposed method have shown that disk space requirements are up to 99% 
+      lower. The simulation speed was not significantly affected by the approach and 
+      the compression error did not affect the prediction accuracy of the thermal dose. 
+      From the standpoint of supercomputers, the new approach is significantly more 
+      economical. Saving computing resources increases the chances of real use of 
+      acoustic simulations in practice. The method can be applied to signals of a 
+      similar character, e.g., for electromagnetic radio waves.
+FAU - Kleparnik, Petr
+AU  - Kleparnik P
+FAU - Zemcik, Pavel
+AU  - Zemcik P
+FAU - Treeby, Bradley E
+AU  - Treeby BE
+FAU - Jaros, Jiri
+AU  - Jaros J
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20220927
+PL  - United States
+TA  - IEEE Trans Ultrason Ferroelectr Freq Control
+JT  - IEEE transactions on ultrasonics, ferroelectrics, and frequency control
+JID - 9882735
+SB  - IM
+MH  - Acoustics
+MH  - Computer Simulation
+MH  - *Data Compression
+MH  - *High-Intensity Focused Ultrasound Ablation/methods
+MH  - Sound
+MH  - Ultrasonography
+EDAT- 2022/08/16 06:00
+MHDA- 2022/09/30 06:00
+CRDT- 2022/08/15 13:34
+PHST- 2022/08/16 06:00 [pubmed]
+PHST- 2022/09/30 06:00 [medline]
+PHST- 2022/08/15 13:34 [entrez]
+AID - 10.1109/TUFFC.2022.3199173 [doi]
+PST - ppublish
+SO  - IEEE Trans Ultrason Ferroelectr Freq Control. 2022 Oct;69(10):2917-2929. doi: 
+      10.1109/TUFFC.2022.3199173. Epub 2022 Sep 27.
+
+PMID- 34717448
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20211031
+IS  - 1520-8524 (Electronic)
+IS  - 0001-4966 (Linking)
+VI  - 150
+IP  - 4
+DP  - 2021 Oct
+TI  - Measurement of the ultrasound attenuation and dispersion in 3D-printed 
+      photopolymer materials from 1 to 3.5 MHz.
+PG  - 2798
+LID - 10.1121/10.0006668 [doi]
+AB  - Over the past decade, the range of applications in biomedical ultrasound 
+      exploiting 3D printing has rapidly expanded. For wavefront shaping specifically, 
+      3D printing has enabled a diverse range of new, low-cost approaches for 
+      controlling acoustic fields. These methods rely on accurate knowledge of the bulk 
+      acoustic properties of the materials; however, to date, robust knowledge of these 
+      parameters is lacking for many materials that are commonly used. In this work, 
+      the acoustic properties of eight 3D-printed photopolymer materials were 
+      characterised over a frequency range from 1 to 3.5 MHz. The properties measured 
+      were the frequency-dependent phase velocity and attenuation, group velocity, 
+      signal velocity, and mass density. The materials were fabricated using two 
+      separate techniques [PolyJet and stereolithograph (SLA)], and included Agilus30, 
+      FLXA9960, FLXA9995, Formlabs Clear, RGDA8625, RGDA8630, VeroClear, and VeroWhite. 
+      The range of measured density values across all eight materials was 1120-1180 kg  
+      . m(-3), while the sound speed values were between 2020 to 2630 m  . s(-1), and 
+      attenuation values typically in the range 3-9 dB  .  MHz(-1). cm(-1).
+FAU - Bakaric, Marina
+AU  - Bakaric M
+AUID- ORCID: s000000023609311X
+AD  - Department of Medical Physics and Biomedical Engineering, University College 
+      London, Gower Street, London WC1E 6BT, United Kingdom.
+FAU - Miloro, Piero
+AU  - Miloro P
+AUID- ORCID: s0000000168092296
+AD  - Ultrasound and Underwater Acoustics, National Physical Laboratory, Hampton Road, 
+      Teddington TW11 0LW, United Kingdom.
+FAU - Javaherian, Ashkan
+AU  - Javaherian A
+AUID- ORCID: s0000000307983196
+AD  - Department of Medical Physics and Biomedical Engineering, University College 
+      London, Gower Street, London WC1E 6BT, United Kingdom.
+FAU - Cox, Ben T
+AU  - Cox BT
+AUID- ORCID: s0000000172964093
+AD  - Department of Medical Physics and Biomedical Engineering, University College 
+      London, Gower Street, London WC1E 6BT, United Kingdom.
+FAU - Treeby, Bradley E
+AU  - Treeby BE
+AUID- ORCID: s000000017782011X
+AD  - Department of Medical Physics and Biomedical Engineering, University College 
+      London, Gower Street, London WC1E 6BT, United Kingdom.
+FAU - Brown, Michael D
+AU  - Brown MD
+AUID- ORCID: s0000000201537403
+AD  - Department of Medical Physics and Biomedical Engineering, University College 
+      London, Gower Street, London WC1E 6BT, United Kingdom.
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - J Acoust Soc Am
+JT  - The Journal of the Acoustical Society of America
+JID - 7503051
+SB  - IM
+EDAT- 2021/11/01 06:00
+MHDA- 2021/11/01 06:01
+CRDT- 2021/10/31 20:28
+PHST- 2021/10/31 20:28 [entrez]
+PHST- 2021/11/01 06:00 [pubmed]
+PHST- 2021/11/01 06:01 [medline]
+AID - 10.1121/10.0006668 [doi]
+PST - ppublish
+SO  - J Acoust Soc Am. 2021 Oct;150(4):2798. doi: 10.1121/10.0006668.
+
+PMID- 33940866
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210705
+LR  - 20240504
+IS  - 1520-8524 (Electronic)
+IS  - 0001-4966 (Print)
+IS  - 0001-4966 (Linking)
+VI  - 149
+IP  - 4
+DP  - 2021 Apr
+TI  - Modelling and measurement of laser-generated focused ultrasound: Can 
+      interventional transducers achieve therapeutic effects?
+PG  - 2732
+LID - 10.1121/10.0004302 [doi]
+AB  - Laser-generated focused ultrasound (LGFU) transducers used for ultrasound therapy 
+      commonly have large diameters (6-15 mm), but smaller lateral dimensions (<4 mm) 
+      are required for interventional applications. To address the question of whether 
+      miniaturized LGFU transducers could generate sufficient pressure at the focus to 
+      enable therapeutic effects, a modelling and measurement study is performed. 
+      Measurements are carried out for both linear and nonlinear propagation for 
+      various illumination schemes and compared with the model. The model comprises 
+      several innovations. First, the model allows for radially varying acoustic input 
+      distributions on the surface of the LGFU transducer, which arise from the 
+      excitation light impinging on the curved transducer surfaces. This realistic 
+      representation of the source prevents the overestimation of the achievable 
+      pressures (shown here to be as high as 1.8 times). Second, an alternative inverse 
+      Gaussian illumination paradigm is proposed to achieve higher pressures; a 35% 
+      increase is observed in the measurements. Simulations show that LGFU transducers 
+      as small as 3.5 mm could generate sufficient peak negative pressures at the focus 
+      to exceed the cavitation threshold in water and blood. Transducers of this scale 
+      could be integrated with interventional devices, thereby opening new 
+      opportunities for therapeutic applications from inside the body.
+FAU - Aytac-Kipergil, Esra
+AU  - Aytac-Kipergil E
+AD  - Department of Medical Physics and Biomedical Engineering, University College 
+      London, Malet Place Engineering Building, London WC1E 6BT, United Kingdom.
+FAU - Desjardins, Adrien E
+AU  - Desjardins AE
+AD  - Department of Medical Physics and Biomedical Engineering, University College 
+      London, Malet Place Engineering Building, London WC1E 6BT, United Kingdom.
+FAU - Treeby, Bradley E
+AU  - Treeby BE
+AD  - Department of Medical Physics and Biomedical Engineering, University College 
+      London, Malet Place Engineering Building, London WC1E 6BT, United Kingdom.
+FAU - Noimark, Sacha
+AU  - Noimark S
+AD  - Department of Medical Physics and Biomedical Engineering, University College 
+      London, Malet Place Engineering Building, London WC1E 6BT, United Kingdom.
+FAU - Parkin, Ivan P
+AU  - Parkin IP
+AD  - Department of Chemistry, Materials Chemistry Research Centre, University College 
+      London, 20 Gordon Street, London WC1H 0AJ, United Kingdom.
+FAU - Alles, Erwin J
+AU  - Alles EJ
+AD  - Department of Medical Physics and Biomedical Engineering, University College 
+      London, Malet Place Engineering Building, London WC1E 6BT, United Kingdom.
+LA  - eng
+GR  - WT_/Wellcome Trust/United Kingdom
+GR  - 203145Z/16/Z/WT_/Wellcome Trust/United Kingdom
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - J Acoust Soc Am
+JT  - The Journal of the Acoustical Society of America
+JID - 7503051
+SB  - IM
+MH  - Acoustics
+MH  - Lasers
+MH  - *Transducers
+MH  - *Ultrasonic Therapy
+PMC - PMC8060049
+EDAT- 2021/05/05 06:00
+MHDA- 2021/07/06 06:00
+PMCR- 2021/04/20
+CRDT- 2021/05/04 05:37
+PHST- 2021/05/04 05:37 [entrez]
+PHST- 2021/05/05 06:00 [pubmed]
+PHST- 2021/07/06 06:00 [medline]
+PHST- 2021/04/20 00:00 [pmc-release]
+AID - 10.0004302 [pii]
+AID - 10.1121/10.0004302 [doi]
+PST - ppublish
+SO  - J Acoust Soc Am. 2021 Apr;149(4):2732. doi: 10.1121/10.0004302.
+
+PMID- 33582459
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20210427
+LR  - 20210427
+IS  - 1874-9968 (Electronic)
+IS  - 0041-624X (Linking)
+VI  - 114
+DP  - 2021 Jul
+TI  - Measurement of the temperature-dependent output of lead zirconate titanate 
+      transducers.
+PG  - 106378
+LID - S0041-624X(21)00022-6 [pii]
+LID - 10.1016/j.ultras.2021.106378 [doi]
+AB  - The effect of temperature and electrical drive conditions on the output of lead 
+      zirconate titanate (PZT) transducers is of particular interest in ultrasound 
+      metrology and medical ultrasound applications. In this work, the 
+      temperature-dependent output of two single-element PZT transducers was measured 
+      between 22  degrees C and 46  degrees C. Two independent measurement methods were used, namely 
+      radiation force balance measurements and laser vibrometry. When driven at 
+      constant voltage using a 50 Omega matched signal generator and amplifier using 
+      continuous wave (CW) or quasi-CW excitation, the output of the two transducers 
+      increased on average by 0.6 % per degree, largely due to an increase in 
+      transducer efficiency with temperature. The two measurement methods showed close 
+      agreement. Similar trends were observed when using single cycle excitation with 
+      the same signal chain. However, when driven using a pulser (which is not 
+      electrically matched), the two transducers exhibited different behaviour 
+      depending on their electrical impedance. Accounting for the temperature-dependent 
+      output of PZT transducers could have implications for many areas of ultrasound 
+      metrology, for example, in therapeutic ultrasound where a coupling fluid at an 
+      increased or decreased temperature is often used.
+CI  - Crown Copyright (c) 2021. Published by Elsevier B.V. All rights reserved.
+FAU - Bakaric, Marina
+AU  - Bakaric M
+AD  - Department of Medical Physics and Biomedical Engineering, University College 
+      London, London, UK; Centre for Chemical, Environmental and Medical Science, 
+      National Physical Laboratory, Teddington, UK. Electronic address: 
+      marina.bakaric.16@ucl.ac.uk.
+FAU - Fromme, Paul
+AU  - Fromme P
+AD  - Department of Mechanical Engineering, University College London, London, UK.
+FAU - Hurrell, Andrew
+AU  - Hurrell A
+AD  - Precision Acoustics Ltd., Higher Bockhampton, Dorchester, UK.
+FAU - Rajagopal, Srinath
+AU  - Rajagopal S
+AD  - Centre for Chemical, Environmental and Medical Science, National Physical 
+      Laboratory, Teddington, UK.
+FAU - Miloro, Piero
+AU  - Miloro P
+AD  - Centre for Chemical, Environmental and Medical Science, National Physical 
+      Laboratory, Teddington, UK.
+FAU - Zeqiri, Bajram
+AU  - Zeqiri B
+AD  - Department of Medical Physics and Biomedical Engineering, University College 
+      London, London, UK; Centre for Chemical, Environmental and Medical Science, 
+      National Physical Laboratory, Teddington, UK.
+FAU - Cox, Benjamin T
+AU  - Cox BT
+AD  - Department of Medical Physics and Biomedical Engineering, University College 
+      London, London, UK.
+FAU - Treeby, Bradley E
+AU  - Treeby BE
+AD  - Department of Medical Physics and Biomedical Engineering, University College 
+      London, London, UK.
+LA  - eng
+PT  - Journal Article
+DEP - 20210205
+PL  - Netherlands
+TA  - Ultrasonics
+JT  - Ultrasonics
+JID - 0050452
+SB  - IM
+OTO - NOTNLM
+OT  - Laser vibrometry
+OT  - Metrology
+OT  - PZT
+OT  - Radiation force balance
+OT  - Transducer
+OT  - Ultrasound
+EDAT- 2021/02/15 06:00
+MHDA- 2021/02/15 06:01
+CRDT- 2021/02/14 20:29
+PHST- 2020/10/13 00:00 [received]
+PHST- 2020/12/29 00:00 [revised]
+PHST- 2021/01/24 00:00 [accepted]
+PHST- 2021/02/15 06:00 [pubmed]
+PHST- 2021/02/15 06:01 [medline]
+PHST- 2021/02/14 20:29 [entrez]
+AID - S0041-624X(21)00022-6 [pii]
+AID - 10.1016/j.ultras.2021.106378 [doi]
+PST - ppublish
+SO  - Ultrasonics. 2021 Jul;114:106378. doi: 10.1016/j.ultras.2021.106378. Epub 2021 
+      Feb 5.
+
+PMID- 33138501
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20201103
+IS  - 1520-8524 (Electronic)
+IS  - 0001-4966 (Linking)
+VI  - 148
+IP  - 4
+DP  - 2020 Oct
+TI  - Nonlinear ultrasound simulation in an axisymmetric coordinate system using a 
+      k-space pseudospectral method.
+PG  - 2288
+LID - 10.1121/10.0002177 [doi]
+AB  - A full-wave model for nonlinear ultrasound propagation through a heterogeneous 
+      and absorbing medium in an axisymmetric coordinate system is developed. The model 
+      equations are solved using a nonstandard or k-space pseudospectral time domain 
+      method. Spatial gradients in the axial direction are calculated using the Fourier 
+      collocation spectral method, and spatial gradients in the radial direction are 
+      calculated using discrete trigonometric transforms. Time integration is performed 
+      using a k-space corrected finite difference scheme. This scheme is exact for 
+      plane waves propagating linearly in the axial direction in a homogeneous and 
+      lossless medium and significantly reduces numerical dispersion in the more 
+      general case. The implementation of the model is described, and performance 
+      benchmarks are given for a range of grid sizes. The model is validated by 
+      comparison with several analytical solutions. This includes one-dimensional 
+      absorption and nonlinearity, the pressure field generated by plane-piston and 
+      bowl transducers, and the scattering of a plane wave by a sphere. The general 
+      utility of the model is then demonstrated by simulating nonlinear transcranial 
+      ultrasound using a simplified head model.
+FAU - Treeby, Bradley E
+AU  - Treeby BE
+AUID- ORCID: s000000017782011X
+AD  - Department of Medical Physics and Biomedical Engineering, University College 
+      London, Gower Street, London WC1E 6BT, United Kingdom.
+FAU - Wise, Elliott S
+AU  - Wise ES
+AUID- ORCID: s0000000242583262
+AD  - Department of Medical Physics and Biomedical Engineering, University College 
+      London, Gower Street, London WC1E 6BT, United Kingdom.
+FAU - Kuklis, Filip
+AU  - Kuklis F
+AD  - Centre of Excellence IT4Innovations, Faculty of Information Technology, Brno 
+      University of Technology, Bozetechova 2, Brno, 612 00, Czech Republic.
+FAU - Jaros, Jiri
+AU  - Jaros J
+AUID- ORCID: s0000000200878804
+AD  - Centre of Excellence IT4Innovations, Faculty of Information Technology, Brno 
+      University of Technology, Bozetechova 2, Brno, 612 00, Czech Republic.
+FAU - Cox, B T
+AU  - Cox BT
+AUID- ORCID: s0000000172964093
+AD  - Department of Medical Physics and Biomedical Engineering, University College 
+      London, Gower Street, London WC1E 6BT, United Kingdom.
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - J Acoust Soc Am
+JT  - The Journal of the Acoustical Society of America
+JID - 7503051
+SB  - IM
+EDAT- 2020/11/04 06:00
+MHDA- 2020/11/04 06:01
+CRDT- 2020/11/03 05:31
+PHST- 2020/11/03 05:31 [entrez]
+PHST- 2020/11/04 06:00 [pubmed]
+PHST- 2020/11/04 06:01 [medline]
+AID - 10.1121/10.0002177 [doi]
+PST - ppublish
+SO  - J Acoust Soc Am. 2020 Oct;148(4):2288. doi: 10.1121/10.0002177.
+
+PMID- 31613754
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20200311
+LR  - 20200311
+IS  - 1525-8955 (Electronic)
+IS  - 0885-3010 (Linking)
+VI  - 67
+IP  - 3
+DP  - 2020 Mar
+TI  - The Effect of Curing Temperature and Time on the Acoustic and Optical Properties 
+      of PVCP.
+PG  - 505-512
+LID - 10.1109/TUFFC.2019.2947341 [doi]
+AB  - Polyvinyl chloride plastisol (PVCP) has been increasingly used as a phantom 
+      material for photoacoustic and ultrasound imaging. As one of the most useful 
+      polymeric materials for industrial applications, its mechanical properties and 
+      behavior are well-known. Although the acoustic and optical properties of several 
+      formulations have previously been investigated, it is still unknown how these are 
+      affected by varying the fabrication method. Here, an improved and straightforward 
+      fabrication method is presented, and the effect of curing temperature and curing 
+      time on the PVCP acoustic and optical properties, as well as their stability over 
+      time, is investigated. The speed of sound and attenuation were determined over a 
+      frequency range from 2 to 15 MHz, while the optical attenuation spectra of 
+      samples were measured over a wavelength range from 500 to 2200 nm. The results 
+      indicate that the optimum properties are achieved at curing temperatures between 
+      160  degrees C and 180  degrees C, while the required curing time decreases with increasing 
+      temperature. The properties of the fabricated phantoms were highly repeatable, 
+      meaning that the phantoms are not sensitive to the manufacturing conditions 
+      provided that the curing temperature and time are within the range of complete 
+      gelation-fusion (samples are optically clear) and below the limit of thermal 
+      degradation (indicated by the yellowish appearance of the sample). The samples' 
+      long-term stability was assessed over 16 weeks, and no significant change was 
+      observed in the measured acoustic and optical properties.
+FAU - Bakaric, Marina
+AU  - Bakaric M
+FAU - Miloro, Piero
+AU  - Miloro P
+FAU - Zeqiri, Bajram
+AU  - Zeqiri B
+FAU - Cox, Ben T
+AU  - Cox BT
+FAU - Treeby, Bradley E
+AU  - Treeby BE
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20191014
+PL  - United States
+TA  - IEEE Trans Ultrason Ferroelectr Freq Control
+JT  - IEEE transactions on ultrasonics, ferroelectrics, and frequency control
+JID - 9882735
+SB  - IM
+EDAT- 2019/10/16 06:00
+MHDA- 2019/10/16 06:01
+CRDT- 2019/10/16 06:00
+PHST- 2019/10/16 06:00 [pubmed]
+PHST- 2019/10/16 06:01 [medline]
+PHST- 2019/10/16 06:00 [entrez]
+AID - 10.1109/TUFFC.2019.2947341 [doi]
+PST - ppublish
+SO  - IEEE Trans Ultrason Ferroelectr Freq Control. 2020 Mar;67(3):505-512. doi: 
+      10.1109/TUFFC.2019.2947341. Epub 2019 Oct 14.
+
+PMID- 31535990
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210104
+LR  - 20250530
+IS  - 1525-8955 (Electronic)
+IS  - 0885-3010 (Linking)
+VI  - 67
+IP  - 1
+DP  - 2020 Jan
+TI  - Experimental Validation of k-Wave: Nonlinear Wave Propagation in Layered, 
+      Absorbing Fluid Media.
+PG  - 81-91
+LID - 10.1109/TUFFC.2019.2941795 [doi]
+AB  - Models of ultrasound propagation in biologically relevant media have applications 
+      in planning and verification of ultrasound therapies and computational dosimetry. 
+      To be effective, the models must be able to accurately predict both the spatial 
+      distribution and amplitude of the acoustic pressure. This requires that the 
+      models are validated in absolute terms, which for arbitrarily heterogeneous media 
+      should be performed by comparison with measurements of the acoustic field. In 
+      this article, simulations performed using the open-source k-Wave acoustics 
+      toolbox, with a measurement-based source definition, were quantitatively 
+      validated against measurements of acoustic pressure in water and layered 
+      absorbing fluid media. In water, the measured and simulated spatial-peak 
+      pressures agreed to within 3% under linear conditions and 7% under nonlinear 
+      conditions. After propagation through a planar or wedge-shaped glycerol-filled 
+      phantom, the difference in spatial-peak pressure was 8.5% and 10.7%, 
+      respectively. These differences are within or close to the expected uncertainty 
+      of the acoustic pressure measurement. The -6 dB width and length of the focus 
+      agreed to within 4% in all cases, and the focal positions were within 0.7 mm for 
+      the planar phantom and 1.2 mm for the wedge-shaped phantom. These results 
+      demonstrate that when the acoustic medium properties and geometry are well known, 
+      accurate quantitative predictions of the acoustic field can be made using k-Wave.
+FAU - Martin, Eleanor
+AU  - Martin E
+FAU - Jaros, Jiri
+AU  - Jaros J
+FAU - Treeby, Bradley E
+AU  - Treeby BE
+LA  - eng
+GR  - MR/T019166/1/MRC_/Medical Research Council/United Kingdom
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20190916
+PL  - United States
+TA  - IEEE Trans Ultrason Ferroelectr Freq Control
+JT  - IEEE transactions on ultrasonics, ferroelectrics, and frequency control
+JID - 9882735
+SB  - IM
+MH  - *Computer Simulation
+MH  - Nonlinear Dynamics
+MH  - *Phantoms, Imaging
+MH  - Pressure
+MH  - Reproducibility of Results
+MH  - Transducers
+MH  - Ultrasonography/*instrumentation/*standards
+EDAT- 2019/09/20 06:00
+MHDA- 2021/01/05 06:00
+CRDT- 2019/09/20 06:00
+PHST- 2019/09/20 06:00 [pubmed]
+PHST- 2021/01/05 06:00 [medline]
+PHST- 2019/09/20 06:00 [entrez]
+AID - 10.1109/TUFFC.2019.2941795 [doi]
+PST - ppublish
+SO  - IEEE Trans Ultrason Ferroelectr Freq Control. 2020 Jan;67(1):81-91. doi: 
+      10.1109/TUFFC.2019.2941795. Epub 2019 Sep 16.
+
+PMID- 31370581
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20190923
+IS  - 1520-8524 (Electronic)
+IS  - 0001-4966 (Linking)
+VI  - 146
+IP  - 1
+DP  - 2019 Jul
+TI  - Representing arbitrary acoustic source and sensor distributions in Fourier 
+      collocation methods.
+PG  - 278
+LID - 10.1121/1.5116132 [doi]
+AB  - Accurately representing acoustic source distributions is an important part of 
+      ultrasound simulation. This is challenging for grid-based collocation methods 
+      when such distributions do not coincide with the grid points, for instance when 
+      the source is a curved, two-dimensional surface embedded in a three-dimensional 
+      domain. Typically, grid points close to the source surface are defined as source 
+      points, but this can result in "staircasing" and substantial errors in the 
+      resulting acoustic fields. This paper describes a technique for accurately 
+      representing arbitrary source distributions within Fourier collocation methods. 
+      The method works by applying a discrete, band-limiting convolution operator to 
+      the continuous source distribution, after which source grid weights can be 
+      generated. This allows arbitrarily shaped sources, for example, focused bowls and 
+      circular pistons, to be defined on the grid without staircasing errors. The 
+      technique is examined through simulations of a range of ultrasound sources, and 
+      comparisons with analytical solutions show excellent accuracy and convergence 
+      rates. Extensions of the technique are also discussed, including application to 
+      initial value problems, distributed sensors, and moving sources.
+FAU - Wise, Elliott S
+AU  - Wise ES
+AD  - Department of Medical Physics and Biomedical Engineering, University College 
+      London, Gower Street, London WC1E 6BT, United Kingdom.
+FAU - Cox, B T
+AU  - Cox BT
+AD  - Department of Medical Physics and Biomedical Engineering, University College 
+      London, Gower Street, London WC1E 6BT, United Kingdom.
+FAU - Jaros, Jiri
+AU  - Jaros J
+AD  - Centre of Excellence IT4Innovations, Faculty of Information Technology, Brno 
+      University of Technology, Brno, Czech Republic.
+FAU - Treeby, Bradley E
+AU  - Treeby BE
+AD  - Department of Medical Physics and Biomedical Engineering, University College 
+      London, Gower Street, London WC1E 6BT, United Kingdom.
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - J Acoust Soc Am
+JT  - The Journal of the Acoustical Society of America
+JID - 7503051
+SB  - IM
+EDAT- 2019/08/03 06:00
+MHDA- 2019/08/03 06:01
+CRDT- 2019/08/03 06:00
+PHST- 2019/08/03 06:00 [entrez]
+PHST- 2019/08/03 06:00 [pubmed]
+PHST- 2019/08/03 06:01 [medline]
+AID - 10.1121/1.5116132 [doi]
+PST - ppublish
+SO  - J Acoust Soc Am. 2019 Jul;146(1):278. doi: 10.1121/1.5116132.
+
+PMID- 31180849
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20200312
+LR  - 20200312
+IS  - 1525-8955 (Electronic)
+IS  - 0885-3010 (Linking)
+VI  - 66
+IP  - 9
+DP  - 2019 Sep
+TI  - Analysis of the Directivity of Glass-Etalon Fabry-Perot Ultrasound Sensors.
+PG  - 1504-1513
+LID - 10.1109/TUFFC.2019.2921735 [doi]
+AB  - Planar glass-etalon Fabry-Perot (FP) optical ultrasound sensors offer an 
+      alternative to piezoelectric sensors for the measurements of high-intensity 
+      focused ultrasound (HIFU) fields and other metrological applications. In this 
+      work, a model of the frequency-dependent directional response of the FP sensor 
+      was developed using the global matrix method, treating the sensor as a 
+      multilayered elastic structure. The model was validated against the 
+      experimentally measured directional response of an air-backed cover-slip FP 
+      sensor with well-known material properties. In addition, the model was compared 
+      with the measurements of an all-hard-dielectric sensor suitable for HIFU 
+      measurements. The model was then used to calculate modal dispersion curves for 
+      both glass-etalon sensors, allowing the features of the directional response to 
+      be linked to specific wave phenomena. The features in the directivity of the 
+      air-backed cover-slip sensor are due to guided Lamb waves. Symmetric Lamb modes 
+      give rise to regions of high sensitivity, whereas anti-symmetric modes cause 
+      regions of low sensitivity. For the all-hard-dielectric sensor, two features 
+      correspond to the water-substrate and water-spacer compressional and shear 
+      critical angles. A region of high sensitivity close to the shear critical angle 
+      is associated with a leaky-Rayleigh wave, which has a frequency-dependent phase 
+      speed. At higher frequencies, this feature is counteracted by a region of low 
+      sensitivity, which occurs when there is no difference in the vertical 
+      displacement of the mirrors forming the FP cavity. The model may be used to 
+      improve and optimize the design of FP sensors or could be used to assist with the 
+      accurate deconvolution of the directional response from array measurements in 
+      metrological and imaging applications.
+FAU - Ramasawmy, Danny R
+AU  - Ramasawmy DR
+FAU - Martin, Eleanor
+AU  - Martin E
+FAU - Guggenheim, James A
+AU  - Guggenheim JA
+FAU - Zhang, Edward Z
+AU  - Zhang EZ
+FAU - Beard, Paul C
+AU  - Beard PC
+FAU - Treeby, Bradley E
+AU  - Treeby BE
+FAU - Cox, Ben T
+AU  - Cox BT
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20190607
+PL  - United States
+TA  - IEEE Trans Ultrason Ferroelectr Freq Control
+JT  - IEEE transactions on ultrasonics, ferroelectrics, and frequency control
+JID - 9882735
+SB  - IM
+EDAT- 2019/06/11 06:00
+MHDA- 2019/06/11 06:01
+CRDT- 2019/06/11 06:00
+PHST- 2019/06/11 06:00 [pubmed]
+PHST- 2019/06/11 06:01 [medline]
+PHST- 2019/06/11 06:00 [entrez]
+AID - 10.1109/TUFFC.2019.2921735 [doi]
+PST - ppublish
+SO  - IEEE Trans Ultrason Ferroelectr Freq Control. 2019 Sep;66(9):1504-1513. doi: 
+      10.1109/TUFFC.2019.2921735. Epub 2019 Jun 7.
+
+PMID- 30180662
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20191120
+IS  - 1520-8524 (Electronic)
+IS  - 0001-4966 (Linking)
+VI  - 144
+IP  - 2
+DP  - 2018 Aug
+TI  - Laser generated ultrasound sources using carbon-polymer nanocomposites for high 
+      frequency metrology.
+PG  - 584
+LID - 10.1121/1.5048413 [doi]
+AB  - The characterization of ultrasound fields generated by diagnostic and therapeutic 
+      equipment is an essential requirement for performance validation and to 
+      demonstrate compliance against established safety limits. This requires 
+      hydrophones calibrated to a traceable standard. Currently, the upper calibration 
+      frequency range available to the user community is limited to 60 MHz. However, 
+      high frequencies are increasingly being used for both imaging and therapy 
+      necessitating calibration frequencies up to 100 MHz. The precise calibration of 
+      hydrophones requires a source of high amplitude, broadband, quasi-planar, and 
+      stable ultrasound fields. There are challenges to using conventional 
+      piezoelectric sources, and laser generated ultrasound sources offer a promising 
+      solution. In this study, various nanocomposites consisting of a bulk polymer 
+      matrix and multi-walled carbon nanotubes were fabricated and tested using pulsed 
+      laser of a few nanoseconds for their suitability as a source for high frequency 
+      calibration of hydrophones. The pressure amplitude and bandwidths were measured 
+      using a broadband hydrophone from 27 different nanocomposite sources. The effect 
+      of nonlinear propagation of high amplitude laser generated ultrasound on 
+      bandwidth and the effect of bandlimited sensitivity response on the deconvolved 
+      pressure waveform were numerically investigated. The stability of the 
+      nanocomposite sources under sustained laser pulse excitation was also examined.
+FAU - Rajagopal, Srinath
+AU  - Rajagopal S
+AD  - Ultrasound and Underwater Acoustics, National Physical Laboratory, Hampton Road, 
+      Teddington, TW11 0LW, United Kingdom.
+FAU - Sainsbury, Toby
+AU  - Sainsbury T
+AD  - Composites, Adhesives and Polymeric Materials, National Physical Laboratory, 
+      Hampton Road, Teddington, TW11 0LW, United Kingdom.
+FAU - Treeby, Bradley E
+AU  - Treeby BE
+AD  - Department of Medical Physics and Biomedical Engineering, University College 
+      London, Malet Place Engineering Building, Gower Street, London, WC1E 6BT, United 
+      Kingdom.
+FAU - Cox, Ben T
+AU  - Cox BT
+AD  - Department of Medical Physics and Biomedical Engineering, University College 
+      London, Malet Place Engineering Building, Gower Street, London, WC1E 6BT, United 
+      Kingdom.
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - J Acoust Soc Am
+JT  - The Journal of the Acoustical Society of America
+JID - 7503051
+EDAT- 2018/09/06 06:00
+MHDA- 2018/09/06 06:01
+CRDT- 2018/09/06 06:00
+PHST- 2018/09/06 06:00 [entrez]
+PHST- 2018/09/06 06:00 [pubmed]
+PHST- 2018/09/06 06:01 [medline]
+AID - 10.1121/1.5048413 [doi]
+PST - ppublish
+SO  - J Acoust Soc Am. 2018 Aug;144(2):584. doi: 10.1121/1.5048413.
+
+PMID- 29897047
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190705
+LR  - 20190705
+IS  - 1361-6560 (Electronic)
+IS  - 0031-9155 (Linking)
+VI  - 63
+IP  - 14
+DP  - 2018 Jul 16
+TI  - The effects of image homogenisation on simulated transcranial ultrasound 
+      propagation.
+PG  - 145014
+LID - 10.1088/1361-6560/aacc33 [doi]
+AB  - Transcranial transmission of ultrasound is increasingly used in a variety of 
+      clinical and research applications, including high intensity ablation, opening 
+      the blood brain barrier, and neural stimulation. Numerical simulations of 
+      ultrasound propagation in the head are used to enable effective transcranial 
+      focusing and predict intracranial fields. Such simulations require maps of the 
+      acoustic properties of the head, which can be derived from clinical CT images. 
+      However, the spatial resolution of these images is typically coarser than the 
+      scale of heterogeneities within the skull bone, which are known to exert a major 
+      influence on ultrasound propagation. In the present work, the impact of image 
+      related homogenisation on transcranial transmission from a single element 
+      transducer is examined using a dataset of co-registered clinical resolution CT 
+      and micro-CT images of skull sections. Reference acoustic property maps are 
+      derived from micro-CT images of cortical bone tissue. The influence of imaging 
+      resolution is examined by progressively downsampling the segmented acoustic 
+      property maps, and through comparison with maps derived from co-registered 
+      clinical CT images. The influence of different methods of segmenting the bone 
+      volume from the clinical CT images, and for resampling the clinical and micro-CT 
+      data are also examined. Image related homogenisation is demonstrated to have a 
+      substantial effect on the transcranial transmission of ultrasound, resulting in 
+      underestimations of simulated transmission loss and time-of flight. Effects on 
+      time-of flight are due to the loss of the internal scattering microstructure of 
+      the skull, while changes in transmitted ultrasound amplitude are due to both loss 
+      of microstructure and other smoothing effects. Inflating the simulated 
+      attenuation coefficient of the skull layer reduces the error in transmitted 
+      pressure amplitude to around 40%, however this is unable to correct fully for 
+      errors in time of flight and the pressure distribution of the transmitted field.
+FAU - Robertson, James
+AU  - Robertson J
+AD  - Department of Medical Physics and Biomedical Engineering, University College 
+      London, Gower Street, London WC1E 6BT, United Kingdom.
+FAU - Urban, Jillian
+AU  - Urban J
+FAU - Stitzel, Joel
+AU  - Stitzel J
+FAU - Treeby, Bradley E
+AU  - Treeby BE
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20180716
+PL  - England
+TA  - Phys Med Biol
+JT  - Physics in medicine and biology
+JID - 0401220
+SB  - IM
+MH  - *Acoustics
+MH  - Cadaver
+MH  - *Computer Simulation
+MH  - Humans
+MH  - Image Processing, Computer-Assisted/*methods
+MH  - Skull/*diagnostic imaging
+MH  - Transducers
+MH  - Ultrasonography, Doppler, Transcranial/*methods
+EDAT- 2018/06/14 06:00
+MHDA- 2019/07/06 06:00
+CRDT- 2018/06/14 06:00
+PHST- 2018/06/14 06:00 [pubmed]
+PHST- 2019/07/06 06:00 [medline]
+PHST- 2018/06/14 06:00 [entrez]
+AID - 10.1088/1361-6560/aacc33 [doi]
+PST - epublish
+SO  - Phys Med Biol. 2018 Jul 16;63(14):145014. doi: 10.1088/1361-6560/aacc33.
+
+PMID- 29390772
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20191120
+IS  - 1520-8524 (Electronic)
+IS  - 0001-4966 (Linking)
+VI  - 143
+IP  - 1
+DP  - 2018 Jan
+TI  - Rapid calculation of acoustic fields from arbitrary continuous-wave sources.
+PG  - 529
+LID - 10.1121/1.5021245 [doi]
+AB  - A Green's function solution is derived for calculating the acoustic field 
+      generated by phased array transducers of arbitrary shape when driven by a single 
+      frequency continuous wave excitation with spatially varying amplitude and phase. 
+      The solution is based on the Green's function for the homogeneous wave equation 
+      expressed in the spatial frequency domain or k-space. The temporal convolution 
+      integral is solved analytically, and the remaining integrals are expressed in the 
+      form of the spatial Fourier transform. This allows the acoustic pressure for all 
+      spatial positions to be calculated in a single step using two fast Fourier 
+      transforms. The model is demonstrated through several numerical examples, 
+      including single element rectangular and spherically focused bowl transducers, 
+      and multi-element linear and hemispherical arrays.
+FAU - Treeby, Bradley E
+AU  - Treeby BE
+AD  - Department of Medical Physics and Biomedical Engineering, University College 
+      London, Gower Street, London WC1E 6BT, United Kingdom.
+FAU - Budisky, Jakub
+AU  - Budisky J
+AD  - IT4Innovations Centre of Excellence, Faculty of Information Technology, Brno 
+      University of Technology, Bozetechova 2, Brno, 612 00, Czech Republic.
+FAU - Wise, Elliott S
+AU  - Wise ES
+AD  - Department of Medical Physics and Biomedical Engineering, University College 
+      London, Gower Street, London WC1E 6BT, United Kingdom.
+FAU - Jaros, Jiri
+AU  - Jaros J
+AD  - IT4Innovations Centre of Excellence, Faculty of Information Technology, Brno 
+      University of Technology, Bozetechova 2, Brno, 612 00, Czech Republic.
+FAU - Cox, B T
+AU  - Cox BT
+AD  - Department of Medical Physics and Biomedical Engineering, University College 
+      London, Gower Street, London WC1E 6BT, United Kingdom.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - J Acoust Soc Am
+JT  - The Journal of the Acoustical Society of America
+JID - 7503051
+EDAT- 2018/02/03 06:00
+MHDA- 2018/02/03 06:01
+CRDT- 2018/02/03 06:00
+PHST- 2018/02/03 06:00 [entrez]
+PHST- 2018/02/03 06:00 [pubmed]
+PHST- 2018/02/03 06:01 [medline]
+AID - 10.1121/1.5021245 [doi]
+PST - ppublish
+SO  - J Acoust Soc Am. 2018 Jan;143(1):529. doi: 10.1121/1.5021245.
+
+PMID- 28880170
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20181211
+LR  - 20181211
+IS  - 1525-8955 (Electronic)
+IS  - 0885-3010 (Linking)
+VI  - 64
+IP  - 11
+DP  - 2017 Nov
+TI  - Rapid Spatial Mapping of Focused Ultrasound Fields Using a Planar Fabry-Perot 
+      Sensor.
+PG  - 1711-1722
+LID - 10.1109/TUFFC.2017.2748886 [doi]
+AB  - Measurement of high acoustic pressures is necessary in order to fully 
+      characterize clinical high-intensity focused ultrasound (HIFU) fields, and for 
+      accurate validation of computational models of ultrasound propagation. However, 
+      many existing measurement devices are unable to withstand the extreme pressures 
+      generated in these fields, and those that can often exhibit low sensitivity. 
+      Here, a planar Fabry-Perot interferometer with hard dielectric mirrors and spacer 
+      was designed, fabricated, and characterized, and its suitability for measurement 
+      of nonlinear focused ultrasound fields was investigated. The noise equivalent 
+      pressure (NEP) of the scanning system scaled with the adjustable pressure 
+      detection range between 49 kPa for pressures up to 8 MPa and 152 kPa for 
+      measurements up to 25 MPa, over a 125 MHz measurement bandwidth. Measurements of 
+      the frequency response of the sensor showed that it varied by less than 3 dB in 
+      the range 1-62 MHz. The effective element size of the sensor was 65 and waveforms 
+      were acquired at a rate of 200 Hz. The device was used to measure the acoustic 
+      pressure in the field of a 1.1 MHz single-element spherically focused bowl 
+      transducer. Measurements of the acoustic field at low pressures compared well 
+      with measurements made using a Polyvinylidene difluoride needle hydrophone. At 
+      high pressures, the measured peak focal pressures agreed well with the focal 
+      pressure modeled using the Khokhlov-Zabolotskaya-Kuznetsov equation. Maximum peak 
+      positive pressures of 25 MPa and peak negative pressures of 12 MPa were measured, 
+      and planar field scans were acquired in scan times on the order of 1 min. The 
+      properties of the sensor and scanning system are well suited to measurement of 
+      nonlinear focused ultrasound fields, in both the focal region and the 
+      low-pressure peripheral regions. The fast acquisition speed of the system and its 
+      low NEP are advantageous, and with further development of the sensor, it has 
+      potential in application to HIFU metrology.
+FAU - Martin, Eleanor
+AU  - Martin E
+FAU - Zhang, Edward Z
+AU  - Zhang EZ
+FAU - Guggenheim, James A
+AU  - Guggenheim JA
+FAU - Beard, Paul C
+AU  - Beard PC
+FAU - Treeby, Bradley E
+AU  - Treeby BE
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20170904
+PL  - United States
+TA  - IEEE Trans Ultrason Ferroelectr Freq Control
+JT  - IEEE transactions on ultrasonics, ferroelectrics, and frequency control
+JID - 9882735
+EDAT- 2017/09/08 06:00
+MHDA- 2017/09/08 06:01
+CRDT- 2017/09/08 06:00
+PHST- 2017/09/08 06:00 [pubmed]
+PHST- 2017/09/08 06:01 [medline]
+PHST- 2017/09/08 06:00 [entrez]
+AID - 10.1109/TUFFC.2017.2748886 [doi]
+PST - ppublish
+SO  - IEEE Trans Ultrason Ferroelectr Freq Control. 2017 Nov;64(11):1711-1722. doi: 
+      10.1109/TUFFC.2017.2748886. Epub 2017 Sep 4.
+
+PMID- 28372121
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190624
+LR  - 20190624
+IS  - 1520-8524 (Electronic)
+IS  - 0001-4966 (Linking)
+VI  - 141
+IP  - 3
+DP  - 2017 Mar
+TI  - Accurate simulation of transcranial ultrasound propagation for ultrasonic 
+      neuromodulation and stimulation.
+PG  - 1726
+LID - 10.1121/1.4976339 [doi]
+AB  - Non-invasive, focal neurostimulation with ultrasound is a potentially powerful 
+      neuroscientific tool that requires effective transcranial focusing of ultrasound 
+      to develop. Time-reversal (TR) focusing using numerical simulations of 
+      transcranial ultrasound propagation can correct for the effect of the skull, but 
+      relies on accurate simulations. Here, focusing requirements for ultrasonic 
+      neurostimulation are established through a review of previously employed 
+      ultrasonic parameters, and consideration of deep brain targets. The specific 
+      limitations of finite-difference time domain (FDTD) and k-space corrected 
+      pseudospectral time domain (PSTD) schemes are tested numerically to establish the 
+      spatial points per wavelength and temporal points per period needed to achieve 
+      the desired accuracy while minimizing the computational burden. These criteria 
+      are confirmed through convergence testing of a fully simulated TR protocol using 
+      a virtual skull. The k-space PSTD scheme performed as well as, or better than, 
+      the widely used FDTD scheme across all individual error tests and in the 
+      convergence of large scale models, recommending it for use in simulated TR. 
+      Staircasing was shown to be the most serious source of error. Convergence testing 
+      indicated that higher sampling is required to achieve fine control of the 
+      pressure amplitude at the target than is needed for accurate spatial targeting.
+FAU - Robertson, James L B
+AU  - Robertson JL
+AD  - Department of Medical Physics and Biomedical Engineering, University College 
+      London, London, United Kingdom.
+FAU - Cox, Ben T
+AU  - Cox BT
+AD  - Department of Medical Physics and Biomedical Engineering, University College 
+      London, London, United Kingdom.
+FAU - Jaros, J
+AU  - Jaros J
+AD  - Faculty of Information Technology, Brno University of Technology, Brno, Czech 
+      Republic.
+FAU - Treeby, Bradley E
+AU  - Treeby BE
+AD  - Department of Medical Physics and Biomedical Engineering, University College 
+      London, London, United Kingdom.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - J Acoust Soc Am
+JT  - The Journal of the Acoustical Society of America
+JID - 7503051
+SB  - IM
+MH  - *Computer Simulation
+MH  - Humans
+MH  - *Models, Theoretical
+MH  - Motion
+MH  - Numerical Analysis, Computer-Assisted
+MH  - Pressure
+MH  - Time Factors
+MH  - Ultrasonic Therapy/*methods
+MH  - *Ultrasonic Waves
+EDAT- 2017/04/05 06:00
+MHDA- 2019/06/25 06:00
+CRDT- 2017/04/05 06:00
+PHST- 2017/04/05 06:00 [entrez]
+PHST- 2017/04/05 06:00 [pubmed]
+PHST- 2019/06/25 06:00 [medline]
+AID - 10.1121/1.4976339 [doi]
+PST - ppublish
+SO  - J Acoust Soc Am. 2017 Mar;141(3):1726. doi: 10.1121/1.4976339.
+
+PMID- 28372078
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20190313
+LR  - 20190313
+IS  - 1520-8524 (Electronic)
+IS  - 0001-4966 (Linking)
+VI  - 141
+IP  - 3
+DP  - 2017 Mar
+TI  - Time domain reconstruction of sound speed and attenuation in ultrasound computed 
+      tomography using full wave inversion.
+PG  - 1595
+LID - 10.1121/1.4976688 [doi]
+AB  - Ultrasound computed tomography (USCT) is a non-invasive imaging technique that 
+      provides information about the acoustic properties of soft tissues in the body, 
+      such as the speed of sound (SS) and acoustic attenuation (AA). Knowledge of these 
+      properties can improve the discrimination between benign and malignant masses, 
+      especially in breast cancer studies. Full wave inversion (FWI) methods for image 
+      reconstruction in USCT provide the best image quality compared to more 
+      approximate methods. Using FWI, the SS is usually recovered in the time domain, 
+      and the AA is usually recovered in the frequency domain. Nevertheless, as both 
+      properties can be obtained from the same data, it is desirable to have a common 
+      framework to reconstruct both distributions. In this work, an algorithm is 
+      proposed to reconstruct both the SS and AA distributions using a time domain FWI 
+      methodology based on the fractional Laplacian wave equation, an adjoint field 
+      formulation, and a gradient-descent method. The optimization code employs a 
+      Compute Unified Device Architecture version of the software k-Wave, which 
+      provides high computational efficiency. The performance of the method was 
+      evaluated using simulated noisy data from numerical breast phantoms. Errors were 
+      less than 0.5% in the recovered SS and 10% in the AA.
+FAU - Perez-Liva, M
+AU  - Perez-Liva M
+AD  - Grupo de Fisica Nuclear, Dpto. de Fisica Atomica, Molecular y Nuclear, 
+      Universidad Complutense de Madrid, Campus de Excelencia Internacional Moncloa, 
+      Avenue Complutense S/N, Facultad de Ciencias Fisicas, Madrid 28040, Spain.
+FAU - Herraiz, J L
+AU  - Herraiz JL
+AD  - Grupo de Fisica Nuclear, Dpto. de Fisica Atomica, Molecular y Nuclear, 
+      Universidad Complutense de Madrid, Campus de Excelencia Internacional Moncloa, 
+      Avenue Complutense S/N, Facultad de Ciencias Fisicas, Madrid 28040, Spain.
+FAU - Udias, J M
+AU  - Udias JM
+AD  - Grupo de Fisica Nuclear, Dpto. de Fisica Atomica, Molecular y Nuclear, 
+      Universidad Complutense de Madrid, Campus de Excelencia Internacional Moncloa, 
+      Avenue Complutense S/N, Facultad de Ciencias Fisicas, Madrid 28040, Spain.
+FAU - Miller, E
+AU  - Miller E
+AD  - Department of Electrical and Computer Engineering, Tufts University, 161 College 
+      Avenue, Medford, Massachusetts 02155, USA.
+FAU - Cox, B T
+AU  - Cox BT
+AD  - Department of Medical Physics and Biomedical Engineering, University College 
+      London, Gower Street, London, WC1E 6BT, United Kingdom.
+FAU - Treeby, B E
+AU  - Treeby BE
+AD  - Department of Medical Physics and Biomedical Engineering, University College 
+      London, Gower Street, London, WC1E 6BT, United Kingdom.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - J Acoust Soc Am
+JT  - The Journal of the Acoustical Society of America
+JID - 7503051
+EDAT- 2017/04/05 06:00
+MHDA- 2017/04/05 06:01
+CRDT- 2017/04/05 06:00
+PHST- 2017/04/05 06:00 [entrez]
+PHST- 2017/04/05 06:00 [pubmed]
+PHST- 2017/04/05 06:01 [medline]
+AID - 10.1121/1.4976688 [doi]
+PST - ppublish
+SO  - J Acoust Soc Am. 2017 Mar;141(3):1595. doi: 10.1121/1.4976688.
+
+PMID- 28165334
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20171030
+LR  - 20260627
+IS  - 1361-6560 (Electronic)
+IS  - 0031-9155 (Linking)
+VI  - 62
+IP  - 7
+DP  - 2017 Apr 7
+TI  - Sensitivity of simulated transcranial ultrasound fields to acoustic medium 
+      property maps.
+PG  - 2559-2580
+LID - 10.1088/1361-6560/aa5e98 [doi]
+AB  - High intensity transcranial focused ultrasound is an FDA approved treatment for 
+      essential tremor, while low-intensity applications such as neurostimulation and 
+      opening the blood brain barrier are under active research. Simulations of 
+      transcranial ultrasound propagation are used both for focusing through the skull, 
+      and predicting intracranial fields. Maps of the skull acoustic properties are 
+      necessary for accurate simulations, and can be derived from medical images using 
+      a variety of methods. The skull maps range from segmented, homogeneous models, to 
+      fully heterogeneous models derived from medical image intensity. In the present 
+      work, the impact of uncertainties in the skull properties is examined using a 
+      model of transcranial propagation from a single element focused transducer. The 
+      impact of changes in bone layer geometry and the sound speed, density, and 
+      acoustic absorption values is quantified through a numerical sensitivity 
+      analysis. Sound speed is shown to be the most influential acoustic property, and 
+      must be defined with less than 4% error to obtain acceptable accuracy in 
+      simulated focus pressure, position, and volume. Changes in the skull thickness of 
+      as little as 0.1 mm can cause an error in peak intracranial pressure of greater 
+      than 5%, while smoothing with a 1 [Formula: see text] kernel to imitate the 
+      effect of obtaining skull maps from low resolution images causes an increase of 
+      over 50% in peak pressure. The numerical results are confirmed experimentally 
+      through comparison with sonications made through 3D printed and resin cast skull 
+      bone phantoms.
+FAU - Robertson, James
+AU  - Robertson J
+AD  - Department Medical Physics and Biomedical Engineering, University College London, 
+      Gower Street, WC1E 6BT, London.
+FAU - Martin, Eleanor
+AU  - Martin E
+AD  - Department Medical Physics and Biomedical Engineering, University College London, 
+      Gower Street, WC1E 6BT, London.
+FAU - Cox, Ben
+AU  - Cox B
+AD  - Department Medical Physics and Biomedical Engineering, University College London, 
+      Gower Street, WC1E 6BT, London.
+FAU - Treeby, Bradley E
+AU  - Treeby BE
+AD  - Department Medical Physics and Biomedical Engineering, University College London, 
+      Gower Street, WC1E 6BT, London.
+LA  - eng
+PT  - Journal Article
+DEP - 20170206
+PL  - England
+TA  - Phys Med Biol
+JT  - Physics in medicine and biology
+JID - 0401220
+SB  - IM
+MH  - *Acoustics
+MH  - Brain/*diagnostic imaging
+MH  - *Computer Simulation
+MH  - Humans
+MH  - *Phantoms, Imaging
+MH  - Transducers
+MH  - Ultrasonography/*methods
+EDAT- 2017/02/07 06:00
+MHDA- 2017/10/31 06:00
+CRDT- 2017/02/07 06:00
+PHST- 2017/02/07 06:00 [pubmed]
+PHST- 2017/10/31 06:00 [medline]
+PHST- 2017/02/07 06:00 [entrez]
+AID - 10.1088/1361-6560/aa5e98 [doi]
+PST - ppublish
+SO  - Phys Med Biol. 2017 Apr 7;62(7):2559-2580. doi: 10.1088/1361-6560/aa5e98. Epub 
+      2017 Feb 6.
+
+PMID- 28032342
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170320
+LR  - 20220316
+IS  - 2473-4209 (Electronic)
+IS  - 0094-2405 (Linking)
+VI  - 44
+IP  - 2
+DP  - 2017 Feb
+TI  - Beam distortion due to gold fiducial markers during salvage high-intensity 
+      focused ultrasound in the prostate.
+PG  - 679-693
+LID - 10.1002/mp.12044 [doi]
+AB  - PURPOSE: High intensity focused ultrasound (HIFU) provides a non-invasive salvage 
+      treatment option for patients with recurrence after external beam radiation 
+      therapy (EBRT). As part of EBRT the prostate is frequently implanted with 
+      permanent fiducial markers. To date, the impact of these markers on subsequent 
+      HIFU treatment is unknown. The objective of this work was to systematically 
+      investigate, using computational simulations, how these fiducial markers affect 
+      the delivery of HIFU treatment. METHODS: A series of simulations was performed 
+      modelling the propagation of ultrasound pressure waves in the prostate with a 
+      single spherical or cylindrical gold marker at different positions and 
+      orientations. For each marker configuration, a set of metrics (spatial-peak 
+      temporal-average intensity, focus shift, focal volume) was evaluated to quantify 
+      the distortion introduced at the focus. An analytical model was also developed 
+      describing the marker effect on the intensity at the focus. The model was used to 
+      examine the marker's impact in a clinical setting through case studies. RESULTS: 
+      The simulations show that the presence of the marker in the pre-focal region 
+      causes reflections which induce a decrease in the focal intensity and focal 
+      volume, and a shift of the maximum pressure point away from the transducer's 
+      focus. These effects depend on the shape and orientation of the marker and become 
+      more pronounced as its distance from the transducer's focus decreases, with the 
+      distortion introduced by the marker greatly increasing when placed within 5 mm of 
+      the focus. The analytical model approximates the marker's effect and can be used 
+      as an alternative method to the computationally intensive and time consuming 
+      simulations for quickly estimating the intensity at the focus. A retrospective 
+      review of a small patient cohort selected for focal HIFU after failed EBRT 
+      indicates that the presence of the marker may affect HIFU treatment delivery. 
+      CONCLUSIONS: The distortion introduced by the marker to the HIFU beam when 
+      positioned close to the focus may result in an undertreated region beyond the 
+      marker due to less energy arriving at the focus, and an overtreated region due to 
+      reflections. Further work is necessary to investigate whether the results 
+      presented here justify the revision of the patient selection criteria or the 
+      markers' placement protocol.
+CI  - (c) 2016 American Association of Physicists in Medicine.
+FAU - Georgiou, P S
+AU  - Georgiou PS
+AD  - Department of Medical Physics and Biomedical Engineering, University College 
+      London, London, UK.
+FAU - Jaros, J
+AU  - Jaros J
+AD  - Faculty of Information Technology, Brno University of Technology, Brno, Czech 
+      Republic.
+FAU - Payne, H
+AU  - Payne H
+AD  - Department of Medical Physics and Biomedical Engineering, University College 
+      London, London, UK.
+AD  - Department of Oncology, University College London Hospitals, London, UK.
+FAU - Allen, C
+AU  - Allen C
+AD  - Department of Oncology, University College London Hospitals, London, UK.
+FAU - Shah, T T
+AU  - Shah TT
+AD  - Division of Surgery and Interventional Science, University College London, 
+      London, UK.
+FAU - Ahmed, H U
+AU  - Ahmed HU
+AD  - Division of Surgery and Interventional Science, University College London, 
+      London, UK.
+FAU - Gibson, E
+AU  - Gibson E
+AD  - Department of Medical Physics and Biomedical Engineering, University College 
+      London, London, UK.
+FAU - Barratt, D
+AU  - Barratt D
+AD  - Department of Medical Physics and Biomedical Engineering, University College 
+      London, London, UK.
+FAU - Treeby, B E
+AU  - Treeby BE
+AD  - Department of Medical Physics and Biomedical Engineering, University College 
+      London, London, UK.
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - Med Phys
+JT  - Medical physics
+JID - 0425746
+RN  - 7440-57-5 (Gold)
+SB  - IM
+MH  - *Artifacts
+MH  - *Fiducial Markers
+MH  - *Gold
+MH  - Humans
+MH  - Male
+MH  - Prostatic Neoplasms/*therapy
+MH  - Salvage Therapy/*standards
+MH  - Ultrasound, High-Intensity Focused, Transrectal/*standards
+OTO - NOTNLM
+OT  - EBRT
+OT  - fiducial marker
+OT  - prostate cancer
+OT  - salvage HIFU
+EDAT- 2016/12/30 06:00
+MHDA- 2017/03/21 06:00
+CRDT- 2016/12/30 06:00
+PHST- 2016/08/23 00:00 [received]
+PHST- 2016/10/21 00:00 [revised]
+PHST- 2016/11/17 00:00 [accepted]
+PHST- 2016/12/30 06:00 [pubmed]
+PHST- 2017/03/21 06:00 [medline]
+PHST- 2016/12/30 06:00 [entrez]
+AID - 10.1002/mp.12044 [doi]
+PST - ppublish
+SO  - Med Phys. 2017 Feb;44(2):679-693. doi: 10.1002/mp.12044.
+
+PMID- 27541793
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20180719
+LR  - 20180719
+IS  - 1525-8955 (Electronic)
+IS  - 0885-3010 (Linking)
+VI  - 63
+IP  - 10
+DP  - 2016 Oct
+TI  - Simulating Focused Ultrasound Transducers Using Discrete Sources on Regular 
+      Cartesian Grids.
+PG  - 1535-1542
+AB  - Accurately representing the behavior of acoustic sources is an important part of 
+      ultrasound simulation. This is particularly challenging in ultrasound therapy 
+      where multielement arrays are often used. Typically, sources are defined as a 
+      boundary condition over a 2-D plane within the computational model. However, this 
+      approach can become difficult to apply to arrays with multiple elements 
+      distributed over a nonplanar surface. In this paper, a grid-based discrete source 
+      model for single- and multielement bowl-shaped transducers is developed to model 
+      the source geometry explicitly within a regular Cartesian grid. For each element, 
+      the source model is defined as a symmetric, simply connected surface with a 
+      single grid point thickness. Simulations using the source model with the 
+      open-source k-Wave toolbox are validated using the Rayleigh integral, O'Neil 
+      solution, and experimental measurements of a focused bowl transducer under both 
+      quasi-continuous wave and pulsed excitations. Close agreement is shown between 
+      the discrete bowl model and the axial pressure predicted by the O'Neil solution 
+      for a uniform curved radiator, even at very low grid resolutions. Excellent 
+      agreement is also shown between the discrete bowl model and experimental 
+      measurements. To accurately reproduce the near-field pressure measured 
+      experimentally, it is necessary to derive the drive signal at each grid point of 
+      the bowl model directly using holography. However, good agreement is also 
+      obtained in the focal region using uniformly radiating monopole sources 
+      distributed over the bowl surface. This allows the response of multielement 
+      transducers to be modeled, even where measurement of an input plane is not 
+      possible.
+FAU - Martin, Eleanor
+AU  - Martin E
+FAU - Ling, Yan To
+AU  - Ling YT
+FAU - Treeby, Bradley E
+AU  - Treeby BE
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20160816
+PL  - United States
+TA  - IEEE Trans Ultrason Ferroelectr Freq Control
+JT  - IEEE transactions on ultrasonics, ferroelectrics, and frequency control
+JID - 9882735
+EDAT- 2016/08/20 06:00
+MHDA- 2016/08/20 06:01
+CRDT- 2016/08/20 06:00
+PHST- 2016/08/20 06:00 [pubmed]
+PHST- 2016/08/20 06:01 [medline]
+PHST- 2016/08/20 06:00 [entrez]
+AID - 10.1109/TUFFC.2016.2600862 [doi]
+PST - ppublish
+SO  - IEEE Trans Ultrason Ferroelectr Freq Control. 2016 Oct;63(10):1535-1542. doi: 
+      10.1109/TUFFC.2016.2600862. Epub 2016 Aug 16.
+
+PMID- 27106311
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20171108
+LR  - 20171108
+IS  - 1520-8524 (Electronic)
+IS  - 0001-4966 (Linking)
+VI  - 139
+IP  - 4
+DP  - 2016 Apr
+TI  - Control of broadband optically generated ultrasound pulses using binary amplitude 
+      holograms.
+PG  - 1637
+LID - 10.1121/1.4944758 [doi]
+AB  - In this work, the use of binary amplitude holography is investigated as a 
+      mechanism to focus broadband acoustic pulses generated by high peak-power pulsed 
+      lasers. Two algorithms are described for the calculation of the binary holograms; 
+      one using ray-tracing, and one using an optimization based on direct binary 
+      search. It is shown using numerical simulations that when a binary amplitude 
+      hologram is excited by a train of laser pulses at its design frequency, the 
+      acoustic field can be focused at a pre-determined distribution of points, 
+      including single and multiple focal points, and line and square foci. The 
+      numerical results are validated by acoustic field measurements from binary 
+      amplitude holograms, excited by a high peak-power laser.
+FAU - Brown, Michael D
+AU  - Brown MD
+AD  - Department of Medical Physics and Biomedical Engineering, University College 
+      London, 2-10 Stephenson Way, NW1 2HE London, United Kingdom.
+FAU - Jaros, Jiri
+AU  - Jaros J
+AD  - Faculty of Information Technology, Brno University of Technology, Bozetechova 2, 
+      612 66 Brno, Czech Republic.
+FAU - Cox, Ben T
+AU  - Cox BT
+AD  - Department of Medical Physics and Biomedical Engineering, University College 
+      London, 2-10 Stephenson Way, NW1 2HE London, United Kingdom.
+FAU - Treeby, Bradley E
+AU  - Treeby BE
+AD  - Department of Medical Physics and Biomedical Engineering, University College 
+      London, 2-10 Stephenson Way, NW1 2HE London, United Kingdom.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - J Acoust Soc Am
+JT  - The Journal of the Acoustical Society of America
+JID - 7503051
+EDAT- 2016/04/24 06:00
+MHDA- 2016/04/24 06:01
+CRDT- 2016/04/24 06:00
+PHST- 2016/04/24 06:00 [entrez]
+PHST- 2016/04/24 06:00 [pubmed]
+PHST- 2016/04/24 06:01 [medline]
+AID - 10.1121/1.4944758 [doi]
+PST - ppublish
+SO  - J Acoust Soc Am. 2016 Apr;139(4):1637. doi: 10.1121/1.4944758.
+
+PMID- 25324054
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20151013
+LR  - 20161125
+IS  - 1520-8524 (Electronic)
+IS  - 0001-4966 (Linking)
+VI  - 136
+IP  - 4
+DP  - 2014 Oct
+TI  - Modeling power law absorption and dispersion in viscoelastic solids using a 
+      split-field and the fractional Laplacian.
+PG  - 1499-510
+LID - 10.1121/1.4894790 [doi]
+AB  - The absorption of compressional and shear waves in many viscoelastic solids has 
+      been experimentally shown to follow a frequency power law. It is now well 
+      established that this type of loss behavior can be modeled using fractional 
+      derivatives. However, previous fractional constitutive equations for viscoelastic 
+      media are based on temporal fractional derivatives. These operators are non-local 
+      in time, which makes them difficult to compute in a memory efficient manner. 
+      Here, a fractional Kelvin-Voigt model is derived based on the fractional 
+      Laplacian. This is obtained by splitting the particle velocity into compressional 
+      and shear components using a dyadic wavenumber tensor. This allows the temporal 
+      fractional derivatives in the Kelvin-Voigt model to be replaced with spatial 
+      fractional derivatives using a lossless dispersion relation with the appropriate 
+      compressional or shear wave speed. The model is discretized using the Fourier 
+      collocation spectral method, which allows the fractional operators to be 
+      efficiently computed. The field splitting also allows the use of a k-space 
+      corrected finite difference scheme for time integration to minimize numerical 
+      dispersion. The absorption and dispersion behavior of the fractional Laplacian 
+      model is analyzed for both high and low loss materials. The accuracy and utility 
+      of the model is then demonstrated through several numerical experiments, 
+      including the transmission of focused ultrasound waves through the skull.
+FAU - Treeby, Bradley E
+AU  - Treeby BE
+AD  - Department of Medical Physics and Biomedical Engineering, University College 
+      London, Gower Street, London WC1E 6BT, United Kingdom.
+FAU - Cox, B T
+AU  - Cox BT
+AD  - Department of Medical Physics and Biomedical Engineering, University College 
+      London, Gower Street, London WC1E 6BT, United Kingdom.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - J Acoust Soc Am
+JT  - The Journal of the Acoustical Society of America
+JID - 7503051
+SB  - IM
+MH  - Absorption, Physicochemical
+MH  - *Acoustics
+MH  - Animals
+MH  - Computer Simulation
+MH  - Elasticity
+MH  - Fourier Analysis
+MH  - Humans
+MH  - *Models, Theoretical
+MH  - Motion
+MH  - Numerical Analysis, Computer-Assisted
+MH  - Skull/diagnostic imaging
+MH  - *Sound
+MH  - Time Factors
+MH  - Ultrasonics
+MH  - Ultrasonography
+MH  - Viscosity
+EDAT- 2014/10/18 06:00
+MHDA- 2015/10/16 06:00
+CRDT- 2014/10/18 06:00
+PHST- 2014/10/18 06:00 [entrez]
+PHST- 2014/10/18 06:00 [pubmed]
+PHST- 2015/10/16 06:00 [medline]
+AID - 10.1121/1.4894790 [doi]
+PST - ppublish
+SO  - J Acoust Soc Am. 2014 Oct;136(4):1499-510. doi: 10.1121/1.4894790.
+
+PMID- 24081270
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20140506
+LR  - 20131001
+IS  - 1525-8955 (Electronic)
+IS  - 0885-3010 (Linking)
+VI  - 60
+IP  - 10
+DP  - 2013 Oct
+TI  - Modeling nonlinear wave propagation on nonuniform grids using a mapped k-space 
+      pseudospectral method.
+PG  - 2208-13
+LID - 10.1109/TUFFC.2013.2812 [doi]
+AB  - Simulating the propagation of nonlinear ultrasound waves is computationally 
+      difficult because of the dense grids needed to capture high-frequency harmonics. 
+      Here, a mapped k-space pseudospectral method is presented which allows the use of 
+      nonuniform grid spacings. This enables grid points to be clustered around steep 
+      regions of the wave field. Compared with using a uniform grid, this significantly 
+      reduces the total number of grid points needed for accurate simulations. Two 
+      methods for selecting a suitable nonuniform grid mapping are discussed.
+FAU - Treeby, Bradley E
+AU  - Treeby BE
+LA  - eng
+PT  - Letter
+PL  - United States
+TA  - IEEE Trans Ultrason Ferroelectr Freq Control
+JT  - IEEE transactions on ultrasonics, ferroelectrics, and frequency control
+JID - 9882735
+EDAT- 2013/10/02 06:00
+MHDA- 2013/10/02 06:01
+CRDT- 2013/10/02 06:00
+PHST- 2013/10/02 06:00 [entrez]
+PHST- 2013/10/02 06:00 [pubmed]
+PHST- 2013/10/02 06:01 [medline]
+AID - 10.1109/TUFFC.2013.2812 [doi]
+PST - ppublish
+SO  - IEEE Trans Ultrason Ferroelectr Freq Control. 2013 Oct;60(10):2208-13. doi: 
+      10.1109/TUFFC.2013.2812.
+
+PMID- 23503580
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20131024
+LR  - 20190930
+IS  - 1560-2281 (Electronic)
+IS  - 1083-3668 (Linking)
+VI  - 18
+IP  - 3
+DP  - 2013 Mar
+TI  - Acoustic attenuation compensation in photoacoustic tomography using time-variant 
+      filtering.
+PG  - 036008
+LID - 10.1117/1.JBO.18.3.036008 [doi]
+AB  - Most reconstruction algorithms used in photoacoustic tomography do not account 
+      for the effects of acoustic attenuation on the recorded signals. For experimental 
+      measurements made in biological tissue, the frequency dependent acoustic 
+      attenuation causes high frequency components of the propagating photoacoustic 
+      waves to be significantly reduced. This signal loss manifests as a depth 
+      dependent magnitude error and blurring of features within the reconstructed 
+      image. Here, a general method for compensating for this attenuation using 
+      time-variant filtering is presented. The time-variant filter is constructed to 
+      correct for acoustic attenuation and dispersion following a frequency power law 
+      under the assumption the distribution of attenuation parameters is homogeneous. 
+      The filter is then applied directly to the recorded time-domain signals using a 
+      form of nonstationary convolution. Regularization is achieved using a 
+      time-variant window where the cutoff frequency is based on the local 
+      time-frequency distribution of the recorded signals. The approach is 
+      computationally efficient and can be used in combination with any detector 
+      geometry or reconstruction algorithm. Numerical and experimental examples are 
+      presented to illustrate the utility of the technique. Clear improvements in the 
+      magnitude and resolution of reconstructed photoacoustic images are seen when 
+      acoustic attenuation compensation is applied.
+FAU - Treeby, Bradley E
+AU  - Treeby BE
+AD  - Department of Medical Physics and Bioengineering, University College London, 
+      Gower Street, London WC1E 6BT, United Kingdom. b.treeby@ucl.ac.uk
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - J Biomed Opt
+JT  - Journal of biomedical optics
+JID - 9605853
+SB  - IM
+MH  - Abdomen/anatomy & histology/blood supply
+MH  - Absorption
+MH  - Algorithms
+MH  - Animals
+MH  - Databases, Factual
+MH  - Female
+MH  - Image Processing, Computer-Assisted/*methods
+MH  - Mice
+MH  - Models, Biological
+MH  - Phantoms, Imaging
+MH  - Photoacoustic Techniques/*methods
+MH  - Pregnancy
+MH  - *Signal Processing, Computer-Assisted
+MH  - Tomography/*methods
+EDAT- 2013/03/19 06:00
+MHDA- 2013/10/25 06:00
+CRDT- 2013/03/19 06:00
+PHST- 2013/03/19 06:00 [entrez]
+PHST- 2013/03/19 06:00 [pubmed]
+PHST- 2013/10/25 06:00 [medline]
+AID - 1668913 [pii]
+AID - 10.1117/1.JBO.18.3.036008 [doi]
+PST - ppublish
+SO  - J Biomed Opt. 2013 Mar;18(3):036008. doi: 10.1117/1.JBO.18.3.036008.
+
+PMID- 22978855
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20130205
+LR  - 20120917
+IS  - 1520-8524 (Electronic)
+IS  - 0001-4966 (Linking)
+VI  - 132
+IP  - 3
+DP  - 2012 Sep
+TI  - A first-order k-space model for elastic wave propagation in heterogeneous media.
+PG  - 1271-83
+LID - 10.1121/1.4730897 [doi]
+AB  - A pseudospectral model of linear elastic wave propagation is described based on 
+      the first order stress-velocity equations of elastodynamics. k-space adjustments 
+      to the spectral gradient calculations are derived from the dyadic Green's 
+      function solution to the second-order elastic wave equation and used to (a) 
+      ensure the solution is exact for homogeneous wave propagation for timesteps of 
+      arbitrarily large size, and (b) also allows larger time steps without loss of 
+      accuracy in heterogeneous media. The formulation in k-space allows the wavefield 
+      to be split easily into compressional and shear parts. A perfectly matched layer 
+      (PML) absorbing boundary condition was developed to effectively impose a 
+      radiation condition on the wavefield. The staggered grid, which is essential for 
+      accurate simulations, is described, along with other practical details of the 
+      implementation. The model is verified through comparison with exact solutions for 
+      canonical examples and further examples are given to show the efficiency of the 
+      method for practical problems. The efficiency of the model is by virtue of the 
+      reduced point-per-wavelength requirement, the use of the fast Fourier transform 
+      (FFT) to calculate the gradients in k space, and larger time steps made possible 
+      by the k-space adjustments.
+FAU - Firouzi, K
+AU  - Firouzi K
+AD  - Department of Mechanical Engineering, University College London, London, WC1E 
+      7JE, United Kingdom. kamyar.firouzi.09@ucl.ac.uk
+FAU - Cox, B T
+AU  - Cox BT
+FAU - Treeby, B E
+AU  - Treeby BE
+FAU - Saffari, N
+AU  - Saffari N
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - J Acoust Soc Am
+JT  - The Journal of the Acoustical Society of America
+JID - 7503051
+SB  - IM
+MH  - *Acoustics
+MH  - Computer Simulation
+MH  - Elasticity
+MH  - *Linear Models
+MH  - Motion
+MH  - Numerical Analysis, Computer-Assisted
+MH  - Reproducibility of Results
+MH  - Scattering, Radiation
+MH  - *Sound
+MH  - Time Factors
+EDAT- 2012/09/18 06:00
+MHDA- 2013/02/06 06:00
+CRDT- 2012/09/18 06:00
+PHST- 2012/09/18 06:00 [entrez]
+PHST- 2012/09/18 06:00 [pubmed]
+PHST- 2013/02/06 06:00 [medline]
+AID - 10.1121/1.4730897 [doi]
+PST - ppublish
+SO  - J Acoust Soc Am. 2012 Sep;132(3):1271-83. doi: 10.1121/1.4730897.
+
+PMID- 22734734
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20121113
+LR  - 20190930
+IS  - 1560-2281 (Electronic)
+IS  - 1083-3668 (Linking)
+VI  - 17
+IP  - 6
+DP  - 2012 Jun
+TI  - Photoacoustic image reconstruction in an attenuating medium using singular-value 
+      decomposition.
+PG  - 061204
+LID - 10.1117/1.JBO.17.6.061204 [doi]
+AB  - Attenuation effects can be significant in photoacoustic tomography since the 
+      generated pressure signals are broadband, and ignoring them may lead to image 
+      artifacts and blurring. La Riviere et al. [Opt. Lett. 31(6), pp. 781-783, (2006)] 
+      had previously derived a method for modeling the attenuation effect and 
+      correcting for it in the image reconstruction. This was done by relating the 
+      ideal, unattenuated pressure signals to the attenuated pressure signals via an 
+      integral operator. We derive an integral operator relating the attenuated 
+      pressure signals to the absorbed optical energy for a planar measurement 
+      geometry. The matrix operator relating the two quantities is a function of the 
+      temporal frequency, attenuation coefficient and the two-dimensional spatial 
+      frequency. We perform singular-value decomposition (SVD) of this integral 
+      operator to study the problem further. We find that the smallest singular values 
+      correspond to wavelet-like eigenvectors in which most of the energy is 
+      concentrated at times corresponding to greater depths in tissue. This allows us 
+      to characterize the ill-posedness of recovering the absorbed optical energy 
+      distribution at different depths in an attenuating medium. This integral equation 
+      can be inverted using standard SVD methods, and the initial pressure distribution 
+      can be recovered. We conduct simulations and derive an algorithm for image 
+      reconstruction using SVD for a planar measurement geometry. We also study the 
+      noise and resolution properties of this image-reconstruction method.
+FAU - Modgil, Dimple
+AU  - Modgil D
+AD  - University of Chicago, Department of Radiology, 5841 South Maryland Avenue, 
+      Chicago, Illinois 60637, USA. dimple@uchicago.edu
+FAU - Treeby, Bradley E
+AU  - Treeby BE
+FAU - La Riviere, Patrick J
+AU  - La Riviere PJ
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - J Biomed Opt
+JT  - Journal of biomedical optics
+JID - 9605853
+SB  - IM
+MH  - Absorption
+MH  - *Acoustics
+MH  - Algorithms
+MH  - Fourier Analysis
+MH  - Humans
+MH  - Image Processing, Computer-Assisted/methods
+MH  - Models, Statistical
+MH  - Normal Distribution
+MH  - Optics and Photonics
+MH  - Phantoms, Imaging
+MH  - Photoacoustic Techniques/*methods
+MH  - Pressure
+MH  - Tomography/*methods
+EDAT- 2012/06/28 06:00
+MHDA- 2012/11/14 06:00
+CRDT- 2012/06/28 06:00
+PHST- 2012/06/28 06:00 [entrez]
+PHST- 2012/06/28 06:00 [pubmed]
+PHST- 2012/11/14 06:00 [medline]
+AID - 10.1117/1.JBO.17.6.061204 [doi]
+PST - ppublish
+SO  - J Biomed Opt. 2012 Jun;17(6):061204. doi: 10.1117/1.JBO.17.6.061204.
+
+PMID- 22712907
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20120921
+LR  - 20120620
+IS  - 1520-8524 (Electronic)
+IS  - 0001-4966 (Linking)
+VI  - 131
+IP  - 6
+DP  - 2012 Jun
+TI  - Modeling nonlinear ultrasound propagation in heterogeneous media with power law 
+      absorption using a k-space pseudospectral method.
+PG  - 4324-36
+LID - 10.1121/1.4712021 [doi]
+AB  - The simulation of nonlinear ultrasound propagation through tissue realistic media 
+      has a wide range of practical applications. However, this is a computationally 
+      difficult problem due to the large size of the computational domain compared to 
+      the acoustic wavelength. Here, the k-space pseudospectral method is used to 
+      reduce the number of grid points required per wavelength for accurate 
+      simulations. The model is based on coupled first-order acoustic equations valid 
+      for nonlinear wave propagation in heterogeneous media with power law absorption. 
+      These are derived from the equations of fluid mechanics and include a 
+      pressure-density relation that incorporates the effects of nonlinearity, power 
+      law absorption, and medium heterogeneities. The additional terms accounting for 
+      convective nonlinearity and power law absorption are expressed as spatial 
+      gradients making them efficient to numerically encode. The governing equations 
+      are then discretized using a k-space pseudospectral technique in which the 
+      spatial gradients are computed using the Fourier-collocation method. This 
+      increases the accuracy of the gradient calculation and thus relaxes the 
+      requirement for dense computational grids compared to conventional finite 
+      difference methods. The accuracy and utility of the developed model is 
+      demonstrated via several numerical experiments, including the 3D simulation of 
+      the beam pattern from a clinical ultrasound probe.
+FAU - Treeby, Bradley E
+AU  - Treeby BE
+AD  - Research School of Engineering, College of Engineering and Computer Science, The 
+      Australian National University, Canberra ACT 0200, Australia. 
+      bradley.treeby@anu.edu.au
+FAU - Jaros, Jiri
+AU  - Jaros J
+FAU - Rendell, Alistair P
+AU  - Rendell AP
+FAU - Cox, B T
+AU  - Cox BT
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - J Acoust Soc Am
+JT  - The Journal of the Acoustical Society of America
+JID - 7503051
+EDAT- 2012/06/21 06:00
+MHDA- 2012/06/21 06:01
+CRDT- 2012/06/21 06:00
+PHST- 2012/06/21 06:00 [entrez]
+PHST- 2012/06/21 06:00 [pubmed]
+PHST- 2012/06/21 06:01 [medline]
+AID - 10.1121/1.4712021 [doi]
+PST - ppublish
+SO  - J Acoust Soc Am. 2012 Jun;131(6):4324-36. doi: 10.1121/1.4712021.
+
+PMID- 22003638
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20111115
+LR  - 20190907
+VI  - 14
+IP  - Pt 1
+DP  - 2011
+TI  - Time domain simulation of harmonic ultrasound images and beam patterns in 3D 
+      using the k-space pseudospectral method.
+PG  - 363-70
+AB  - A k-space pseudospectral model is developed for the fast full-wave simulation of 
+      nonlinear ultrasound propagation through heterogeneous media. The model uses a 
+      novel equation of state to account for nonlinearity in addition to power law 
+      absorption. The spectral calculation of the spatial gradients enables a 
+      significant reduction in the number of required grid nodes compared to finite 
+      difference methods. The model is parallelized using a graphical processing unit 
+      (GPU) which allows the simulation of individual ultrasound scan lines using a 256 
+      x 256 x 128 voxel grid in less than five minutes. Several numerical examples are 
+      given, including the simulation of harmonic ultrasound images and beam patterns 
+      using a linear phased array transducer.
+FAU - Treeby, Bradley E
+AU  - Treeby BE
+AD  - College of Engineering and Computer Science, The Australian National University.
+FAU - Tumen, Mustafa
+AU  - Tumen M
+FAU - Cox, B T
+AU  - Cox BT
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - Germany
+TA  - Med Image Comput Comput Assist Interv
+JT  - Medical image computing and computer-assisted intervention : MICCAI ... 
+      International Conference on Medical Image Computing and Computer-Assisted 
+      Intervention
+JID - 101249582
+SB  - IM
+MH  - Absorption
+MH  - Acoustics
+MH  - Algorithms
+MH  - Computer Graphics
+MH  - Computer Simulation
+MH  - High-Energy Shock Waves
+MH  - Humans
+MH  - Imaging, Three-Dimensional/*methods
+MH  - Models, Statistical
+MH  - Reproducibility of Results
+MH  - Software
+MH  - Time Factors
+MH  - Ultrasonics
+MH  - Ultrasonography/*methods
+EDAT- 2011/10/19 06:00
+MHDA- 2011/11/16 06:00
+CRDT- 2011/10/19 06:00
+PHST- 2011/10/19 06:00 [entrez]
+PHST- 2011/10/19 06:00 [pubmed]
+PHST- 2011/11/16 06:00 [medline]
+AID - 10.1007/978-3-642-23623-5_46 [doi]
+PST - ppublish
+SO  - Med Image Comput Comput Assist Interv. 2011;14(Pt 1):363-70. doi: 
+      10.1007/978-3-642-23623-5_46.
+
+PMID- 21950905
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20120131
+LR  - 20190930
+IS  - 1560-2281 (Electronic)
+IS  - 1083-3668 (Linking)
+VI  - 16
+IP  - 9
+DP  - 2011 Sep
+TI  - Automatic sound speed selection in photoacoustic image reconstruction using an 
+      autofocus approach.
+PG  - 090501
+LID - 10.1117/1.3619139 [doi]
+AB  - The reconstruction of images in photoacoustic tomography is reliant on specifying 
+      the speed of sound within the propagation medium. However, for in vivo imaging, 
+      this value is not normally accurately known. Here, an autofocus approach for 
+      automatically selecting the sound speed is proposed. This is based on maximizing 
+      the sharpness of the reconstructed image as quantified by a focus function. 
+      Several focus functions are investigated, and their performance is discussed. The 
+      method is demonstrated using phantom measurements made in a medium with a known 
+      sound speed and in vivo measurements of the vasculature in the flank of an adult 
+      mouse.
+FAU - Treeby, Bradley E
+AU  - Treeby BE
+AD  - Australian National University, Research School of Engineering, College of 
+      Engineering and Computer Science, Building 115, North Road, Canberra, ACT 0200 
+      Australia. bradley.treeby@anu
+FAU - Varslot, Trond K
+AU  - Varslot TK
+FAU - Zhang, Edward Z
+AU  - Zhang EZ
+FAU - Laufer, Jan G
+AU  - Laufer JG
+FAU - Beard, Paul C
+AU  - Beard PC
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - J Biomed Opt
+JT  - Journal of biomedical optics
+JID - 9605853
+SB  - IM
+MH  - Algorithms
+MH  - Animals
+MH  - Blood Vessels/anatomy & histology
+MH  - Image Processing, Computer-Assisted/*methods
+MH  - Mice
+MH  - Phantoms, Imaging
+MH  - Photoacoustic Techniques/*methods
+MH  - Tomography/*methods
+EDAT- 2011/09/29 06:00
+MHDA- 2012/02/01 06:00
+CRDT- 2011/09/29 06:00
+PHST- 2011/09/29 06:00 [entrez]
+PHST- 2011/09/29 06:00 [pubmed]
+PHST- 2012/02/01 06:00 [medline]
+AID - 10.1117/1.3619139 [doi]
+PST - ppublish
+SO  - J Biomed Opt. 2011 Sep;16(9):090501. doi: 10.1117/1.3619139.
+
+PMID- 21682390
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20111108
+LR  - 20110620
+IS  - 1520-8524 (Electronic)
+IS  - 0001-4966 (Linking)
+VI  - 129
+IP  - 6
+DP  - 2011 Jun
+TI  - A k-space Green's function solution for acoustic initial value problems in 
+      homogeneous media with power law absorption.
+PG  - 3652-60
+LID - 10.1121/1.3583537 [doi]
+AB  - An efficient Green's function solution for acoustic initial value problems in 
+      homogeneous media with power law absorption is derived. The solution is based on 
+      the homogeneous wave equation for lossless media with two additional terms. These 
+      terms are dependent on the fractional Laplacian and separately account for power 
+      law absorption and dispersion. Given initial conditions for the pressure and its 
+      temporal derivative, the solution allows the pressure field for any time t>0 to 
+      be calculated in a single step using the Fourier transform and an exact k-space 
+      time propagator. For regularly spaced Cartesian grids, the former can be computed 
+      efficiently using the fast Fourier transform. Because no time stepping is 
+      required, the solution facilitates the efficient computation of the pressure 
+      field in one, two, or three dimensions without stability constraints. Several 
+      computational aspects of the solution are discussed, including the effect of 
+      using a truncated Fourier series to represent discrete initial conditions, the 
+      use of smoothing, and the properties of the encapsulated absorption and 
+      dispersion.
+CI  - (c) 2011 Acoustical Society of America
+FAU - Treeby, Bradley E
+AU  - Treeby BE
+AD  - Department of Medical Physics and Bioengineering, University College London, 
+      Gower Street, London, WC1E 6BT, United Kingdom. bradley.treeby@anu.edu.au
+FAU - Cox, B T
+AU  - Cox BT
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - J Acoust Soc Am
+JT  - The Journal of the Acoustical Society of America
+JID - 7503051
+SB  - IM
+MH  - Absorption
+MH  - *Acoustics
+MH  - Computer Simulation
+MH  - Fourier Analysis
+MH  - *Models, Theoretical
+MH  - Motion
+MH  - Numerical Analysis, Computer-Assisted
+MH  - Pressure
+MH  - *Sound
+MH  - Time Factors
+EDAT- 2011/06/21 06:00
+MHDA- 2011/11/09 06:00
+CRDT- 2011/06/21 06:00
+PHST- 2011/06/21 06:00 [entrez]
+PHST- 2011/06/21 06:00 [pubmed]
+PHST- 2011/11/09 06:00 [medline]
+AID - 10.1121/1.3583537 [doi]
+PST - ppublish
+SO  - J Acoust Soc Am. 2011 Jun;129(6):3652-60. doi: 10.1121/1.3583537.
+
+PMID- 21208728
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20110606
+LR  - 20110124
+IS  - 1879-291X (Electronic)
+IS  - 0301-5629 (Linking)
+VI  - 37
+IP  - 2
+DP  - 2011 Feb
+TI  - Measurement of the ultrasound attenuation and dispersion in whole human blood and 
+      its components from 0-70 MHz.
+PG  - 289-300
+LID - 10.1016/j.ultrasmedbio.2010.10.020 [doi]
+AB  - The ultrasound attenuation coefficient and dispersion from 0-70 MHz in whole 
+      human blood and its components (red blood cells and plasma) at 37 degrees C is reported. 
+      The measurements are made using a fixed path substitution technique that exploits 
+      optical mechanisms for the generation and detection of ultrasound. This allows 
+      the measurements to cover a broad frequency range with a single source and 
+      receiver. The measured attenuation coefficient and dispersion in solutions of red 
+      blood cells and physiological saline for total haemoglobin concentrations of 10, 
+      15 and 20 g/dL are presented. The attenuation coefficient and dispersion in whole 
+      human blood taken from four healthy volunteers by venipuncture is also reported. 
+      The power law dependence of the attenuation coefficient is shown to vary across 
+      the measured frequency range. This is due to the varying frequency dependence of 
+      the different mechanisms responsible for the attenuation. The attenuation 
+      coefficient measured at high frequencies is found to be significantly higher than 
+      that predicted by historical power law parameters. A review of the attenuation 
+      mechanisms in blood along with previously reported experimental measurements is 
+      given. Values for the sound speed and density in the tested samples are also 
+      presented.
+CI  - Copyright (c) 2011 World Federation for Ultrasound in Medicine & Biology. Published 
+      by Elsevier Inc. All rights reserved.
+FAU - Treeby, Bradley E
+AU  - Treeby BE
+AD  - Department of Medical Physics and Bioengineering, University College London, 
+      London, United Kingdom. btreeby@mpb.ucl.ac.uk
+FAU - Zhang, Edward Z
+AU  - Zhang EZ
+FAU - Thomas, Alison S
+AU  - Thomas AS
+FAU - Cox, Ben T
+AU  - Cox BT
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20110105
+PL  - England
+TA  - Ultrasound Med Biol
+JT  - Ultrasound in medicine & biology
+JID - 0410553
+SB  - IM
+MH  - Animals
+MH  - *Blood Chemical Analysis
+MH  - Humans
+MH  - Optical Rotatory Dispersion
+MH  - *Ultrasonics/methods
+EDAT- 2011/01/07 06:00
+MHDA- 2011/06/07 06:00
+CRDT- 2011/01/07 06:00
+PHST- 2010/09/09 00:00 [received]
+PHST- 2010/10/13 00:00 [revised]
+PHST- 2010/10/15 00:00 [accepted]
+PHST- 2011/01/07 06:00 [entrez]
+PHST- 2011/01/07 06:00 [pubmed]
+PHST- 2011/06/07 06:00 [medline]
+AID - S0301-5629(10)00569-7 [pii]
+AID - 10.1016/j.ultrasmedbio.2010.10.020 [doi]
+PST - ppublish
+SO  - Ultrasound Med Biol. 2011 Feb;37(2):289-300. doi: 
+      10.1016/j.ultrasmedbio.2010.10.020. Epub 2011 Jan 5.
+
+PMID- 21117722
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20110321
+LR  - 20110913
+IS  - 1520-8524 (Electronic)
+IS  - 0001-4966 (Linking)
+VI  - 127
+IP  - 5
+DP  - 2010 May
+TI  - Modeling power law absorption and dispersion for acoustic propagation using the 
+      fractional Laplacian.
+PG  - 2741-48
+LID - 10.1121/1.3377056 [doi]
+AB  - The efficient simulation of wave propagation through lossy media in which the 
+      absorption follows a frequency power law has many important applications in 
+      biomedical ultrasonics. Previous wave equations which use time-domain fractional 
+      operators require the storage of the complete pressure field at previous time 
+      steps (such operators are convolution based). This makes them unsuitable for many 
+      three-dimensional problems of interest. Here, a wave equation that utilizes two 
+      lossy derivative operators based on the fractional Laplacian is derived. These 
+      operators account separately for the required power law absorption and dispersion 
+      and can be efficiently incorporated into Fourier based pseudospectral and k-space 
+      methods without the increase in memory required by their time-domain fractional 
+      counterparts. A framework for encoding the developed wave equation using three 
+      coupled first-order constitutive equations is discussed, and the model is 
+      demonstrated through several one-, two-, and three-dimensional simulations.
+FAU - Treeby, Bradley E
+AU  - Treeby BE
+AD  - Department of Medical Physics and Bioengineering, University College London, 
+      Gower Street, London WC1E 6BT, United Kingdom. btreeby@mpb.ucl.ac.uk
+FAU - Cox, B T
+AU  - Cox BT
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - J Acoust Soc Am
+JT  - The Journal of the Acoustical Society of America
+JID - 7503051
+SB  - IM
+EIN - J Acoust Soc Am. 2011 Jul;130(1):610
+MH  - Absorption
+MH  - *Acoustics
+MH  - Computer Simulation
+MH  - Fourier Analysis
+MH  - *Models, Theoretical
+MH  - Motion
+MH  - Numerical Analysis, Computer-Assisted
+MH  - Pressure
+MH  - *Sound
+MH  - Time Factors
+MH  - *Ultrasonics
+EDAT- 2010/12/02 06:00
+MHDA- 2011/03/22 06:00
+CRDT- 2010/12/02 06:00
+PHST- 2010/12/02 06:00 [entrez]
+PHST- 2010/12/02 06:00 [pubmed]
+PHST- 2011/03/22 06:00 [medline]
+AID - 10.1121/1.3377056 [doi]
+PST - ppublish
+SO  - J Acoust Soc Am. 2010 May;127(5):2741-48. doi: 10.1121/1.3377056.
+
+PMID- 20459236
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20100913
+LR  - 20190930
+IS  - 1560-2281 (Electronic)
+IS  - 1083-3668 (Linking)
+VI  - 15
+IP  - 2
+DP  - 2010 Mar-Apr
+TI  - k-Wave: MATLAB toolbox for the simulation and reconstruction of photoacoustic 
+      wave fields.
+PG  - 021314
+LID - 10.1117/1.3360308 [doi]
+AB  - A new, freely available third party MATLAB toolbox for the simulation and 
+      reconstruction of photoacoustic wave fields is described. The toolbox, named 
+      k-Wave, is designed to make realistic photoacoustic modeling simple and fast. The 
+      forward simulations are based on a k-space pseudo-spectral time domain solution 
+      to coupled first-order acoustic equations for homogeneous or heterogeneous media 
+      in one, two, and three dimensions. The simulation functions can additionally be 
+      used as a flexible time reversal image reconstruction algorithm for an 
+      arbitrarily shaped measurement surface. A one-step image reconstruction algorithm 
+      for a planar detector geometry based on the fast Fourier transform (FFT) is also 
+      included. The architecture and use of the toolbox are described, and several 
+      novel modeling examples are given. First, the use of data interpolation is shown 
+      to considerably improve time reversal reconstructions when the measurement 
+      surface has only a sparse array of detector points. Second, by comparison with 
+      one-step, FFT-based reconstruction, time reversal is shown to be sufficiently 
+      general that it can also be used for finite-sized planar measurement surfaces. 
+      Last, the optimization of computational speed is demonstrated through parallel 
+      execution using a graphics processing unit.
+FAU - Treeby, Bradley E
+AU  - Treeby BE
+AD  - University College London, Department of Medical Physics and Bioengineering, 
+      Gower Street, London, WC1E 6BT, United Kingdom. btreeby@mpb.ucl.ac.uk
+FAU - Cox, B T
+AU  - Cox BT
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - J Biomed Opt
+JT  - Journal of biomedical optics
+JID - 9605853
+SB  - IM
+MH  - *Algorithms
+MH  - Elasticity Imaging Techniques/*methods
+MH  - Electromagnetic Fields
+MH  - Image Enhancement/*methods
+MH  - Image Interpretation, Computer-Assisted/*methods
+MH  - Imaging, Three-Dimensional/*methods
+MH  - *Programming Languages
+MH  - Reproducibility of Results
+MH  - Sensitivity and Specificity
+MH  - Signal Processing, Computer-Assisted
+MH  - *Software
+EDAT- 2010/05/13 06:00
+MHDA- 2010/09/14 06:00
+CRDT- 2010/05/13 06:00
+PHST- 2010/05/13 06:00 [entrez]
+PHST- 2010/05/13 06:00 [pubmed]
+PHST- 2010/09/14 06:00 [medline]
+AID - 10.1117/1.3360308 [doi]
+PST - ppublish
+SO  - J Biomed Opt. 2010 Mar-Apr;15(2):021314. doi: 10.1117/1.3360308.
+
+PMID- 19887310
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20100504
+LR  - 20120424
+IS  - 1558-254X (Electronic)
+IS  - 0278-0062 (Linking)
+VI  - 29
+IP  - 2
+DP  - 2010 Feb
+TI  - Artifact trapping during time reversal photoacoustic imaging for acoustically 
+      heterogeneous media.
+PG  - 387-96
+LID - 10.1109/TMI.2009.2032358 [doi]
+AB  - Several different reconstruction algorithms have been proposed for photoacoustic 
+      tomography, most of which presuppose that the acoustic properties of the medium 
+      are constant and homogeneous. In practice, there are often unknown spatial 
+      variations in the acoustic properties, and these algorithms give, at best, only 
+      approximate estimates of the true image. The question as to which approach is the 
+      most robust in these circumstances is therefore one of practical importance. 
+      Image reconstruction by "time reversal"-using a numerical propagation model with 
+      a time-varying boundary condition corresponding to the measured data in reversed 
+      temporal order-has been shown to be less restrictive in its assumptions than 
+      most, and therefore a good candidate for a general and practically useful 
+      algorithm. Here, it is shown that such reconstruction algorithms can "trap" time 
+      reversed scattered waves, leading to artifacts within the image region. Two ways 
+      to mitigate this effect are proposed.
+FAU - Cox, Benjamin T
+AU  - Cox BT
+AD  - Department of Medical Physics and Bioengineering, University College, WC1E 6DE 
+      London, U.K. bencox@mpb.ucl.ac.uk
+FAU - Treeby, Bradley E
+AU  - Treeby BE
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20091103
+PL  - United States
+TA  - IEEE Trans Med Imaging
+JT  - IEEE transactions on medical imaging
+JID - 8310780
+SB  - IM
+MH  - Acoustics
+MH  - Algorithms
+MH  - *Artifacts
+MH  - Image Processing, Computer-Assisted/*methods
+MH  - Light
+MH  - Models, Theoretical
+MH  - Phantoms, Imaging
+MH  - Scattering, Radiation
+MH  - Tomography/*methods
+EDAT- 2009/11/06 06:00
+MHDA- 2010/05/05 06:00
+CRDT- 2009/11/06 06:00
+PHST- 2009/11/06 06:00 [entrez]
+PHST- 2009/11/06 06:00 [pubmed]
+PHST- 2010/05/05 06:00 [medline]
+AID - 10.1109/TMI.2009.2032358 [doi]
+PST - ppublish
+SO  - IEEE Trans Med Imaging. 2010 Feb;29(2):387-96. doi: 10.1109/TMI.2009.2032358. 
+      Epub 2009 Nov 3.
+
+PMID- 19686982
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20091202
+LR  - 20151119
+IS  - 1525-8955 (Electronic)
+IS  - 0885-3010 (Linking)
+VI  - 56
+IP  - 8
+DP  - 2009 Aug
+TI  - Measurement of broadband temperature-dependent ultrasonic attenuation and 
+      dispersion using photoacoustics.
+PG  - 1666-76
+LID - 10.1109/TUFFC.2009.1231 [doi]
+AB  - The broadband ultrasonic characterization of biological fluids and tissues is 
+      important for the continued development and application of high-resolution 
+      ultrasound imaging modalities. Here, a photoacoustic technique for the 
+      transmission measurement of temperature-dependent ultrasonic attenuation and 
+      dispersion is described. The system uses a photoacoustic plane wave source 
+      constructed from a polymethylmethacrylate substrate with a thin optically 
+      absorbent layer. Broadband ultrasonic waves are generated by illuminating the 
+      absorbent layer with nanosecond pulses of laser light. The transmitted ultrasound 
+      waves are detected by a planar 7-microm high-finesse Fabry-Perot interferometer. 
+      Temperature-induced thickness changes in the Fabry-Perot interferometer are 
+      tracked to monitor the sample temperature and maintain the sensor sensitivity. 
+      The measured -6 dB bandwidth for the combined source and sensor is 1 to 35 MHz, 
+      with an attenuation corrected signal level at 100 MHz of -10 dB. The system is 
+      demonstrated through temperature-dependent ultrasound measurements in castor oil 
+      and olive oil. Power law attenuation parameters are extracted by fitting the 
+      experimental attenuation data to a frequency power law while simultaneously 
+      fitting the dispersion data to the corresponding Kramers-Kronig relation. The 
+      extracted parameters are compared with other calibration measurements previously 
+      reported in the literature.
+FAU - Treeby, Bradley E
+AU  - Treeby BE
+AD  - Department of Medical Physics and Bioengineering, University College London, 
+      London, UK. btreeby@mpb.ucl.ac.uk
+FAU - Cox, Benjamin T
+AU  - Cox BT
+FAU - Zhang, Edward Z
+AU  - Zhang EZ
+FAU - Patch, Sarah K
+AU  - Patch SK
+FAU - Beard, Paul C
+AU  - Beard PC
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - IEEE Trans Ultrason Ferroelectr Freq Control
+JT  - IEEE transactions on ultrasonics, ferroelectrics, and frequency control
+JID - 9882735
+RN  - 0 (Olive Oil)
+RN  - 0 (Plant Oils)
+RN  - 8001-79-4 (Castor Oil)
+SB  - IM
+MH  - Algorithms
+MH  - Castor Oil/chemistry
+MH  - Interferometry/*methods
+MH  - Lasers
+MH  - Olive Oil
+MH  - Optics and Photonics/*methods
+MH  - Plant Oils/chemistry
+MH  - *Signal Processing, Computer-Assisted
+MH  - Temperature
+MH  - Ultrasonography/*methods
+EDAT- 2009/08/19 09:00
+MHDA- 2009/12/16 06:00
+CRDT- 2009/08/19 09:00
+PHST- 2009/08/19 09:00 [entrez]
+PHST- 2009/08/19 09:00 [pubmed]
+PHST- 2009/12/16 06:00 [medline]
+AID - 10.1109/TUFFC.2009.1231 [doi]
+PST - ppublish
+SO  - IEEE Trans Ultrason Ferroelectr Freq Control. 2009 Aug;56(8):1666-76. doi: 
+      10.1109/TUFFC.2009.1231.
+
+PMID- 18247766
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20080306
+LR  - 20080205
+IS  - 1520-8524 (Electronic)
+IS  - 0001-4966 (Linking)
+VI  - 122
+IP  - 6
+DP  - 2007 Dec
+TI  - The effect of hair on auditory localization cues.
+PG  - 3586-97
+LID - 10.1121/1.2793607 [doi]
+AB  - Previous empirical and analytical investigations into human sound localization 
+      have illustrated that the head-related transfer function (HRTF) and interaural 
+      cues are affected by the acoustic material properties of the head. This study 
+      utilizes a recent analytical treatment of the sphere scattering problem (which 
+      accounts for a hemispherically divided surface boundary) to investigate the 
+      contribution of hair to the auditory cues below 5 kHz. The hair is modeled using 
+      a locally reactive equivalent impedance parameter, and cue changes are discussed 
+      for several cases of measured hair impedance. The hair is shown to produce 
+      asymmetric perturbations to the HRTF and the interaural time and level 
+      differences. The changes in the azimuth plane are explicated via analytical 
+      examination of the surface pressure variations with source angle. Experimental 
+      HRTFs obtained using a sphere with and without a hemispherical covering of 
+      synthetic hair show a good agreement with analytical results. Additional 
+      experimental and analytical investigations illustrate that the relative 
+      contribution of the hair remains robust, regardless of the placement of the 
+      pinnas, or inclusion of a cylindrical neck.
+FAU - Treeby, Bradley E
+AU  - Treeby BE
+AD  - Centre for Acoustics, Dynamics and Vibration, School of Mechanical Engineering, 
+      The University of Western Australia, 35 Stirling Highway, Crawley, WA 6009, 
+      Australia. treebs@mech.uwa.edu.au
+FAU - Pan, Jie
+AU  - Pan J
+FAU - Paurobally, Roshun M
+AU  - Paurobally RM
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - J Acoust Soc Am
+JT  - The Journal of the Acoustical Society of America
+JID - 7503051
+SB  - IM
+MH  - Acoustic Impedance Tests
+MH  - *Acoustics
+MH  - Auditory Threshold
+MH  - *Cues
+MH  - Ear Auricle/physiology
+MH  - Hair/*physiology
+MH  - Head/*physiology
+MH  - Humans
+MH  - Models, Biological
+MH  - Neck/physiology
+MH  - Pressure
+MH  - Reproducibility of Results
+MH  - *Sound Localization
+MH  - Sound Spectrography
+MH  - Surface Properties
+MH  - Time Factors
+EDAT- 2008/02/06 09:00
+MHDA- 2008/03/07 09:00
+CRDT- 2008/02/06 09:00
+PHST- 2008/02/06 09:00 [pubmed]
+PHST- 2008/03/07 09:00 [medline]
+PHST- 2008/02/06 09:00 [entrez]
+AID - 10.1121/1.2793607 [doi]
+PST - ppublish
+SO  - J Acoust Soc Am. 2007 Dec;122(6):3586-97. doi: 10.1121/1.2793607.
+
+PMID- 17902848
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20071128
+LR  - 20071001
+IS  - 1520-8524 (Electronic)
+IS  - 0001-4966 (Linking)
+VI  - 122
+IP  - 4
+DP  - 2007 Oct
+TI  - An experimental study of the acoustic impedance characteristics of human hair.
+PG  - 2107-17
+AB  - Previous analytical and empirical studies of the human auditory system have shown 
+      that the cues used for localization are modified by the inclusion of nonrigid 
+      scattering surfaces (clothing, hair etc). This paper presents an investigation 
+      into the acoustic impedance properties of human hair. The legitimacy of a locally 
+      reactive surface assumption is investigated, and an appropriate boundary 
+      condition is formulated to account for the physiological composition of a human 
+      head with hair. This utilizes an equivalent impedance parameter to allow the 
+      scattering boundary to be defined at a reference plane coincident with the inner 
+      rigid surface of the head. Experimental examination of a representative synthetic 
+      hair material at oblique incidence is used to show that a locally reactive 
+      surface assumption is legitimate. Additional experimental analysis of a simple 
+      scattering problem illustrates that the equivalent impedance must be used in 
+      favor of the traditional surface impedance to yield physically correct pressure 
+      magnitudes. The equivalent acoustic impedance properties of a representative 
+      range of human hair samples are discussed, including trends with sample 
+      thickness, fiber diameter, bulk density, and mass.
+FAU - Treeby, Bradley E
+AU  - Treeby BE
+AD  - Centre for Acoustics, Dynamics and Vibration, School of Mechanical Engineering, 
+      The University of Western Australia, 35 Stirling Highway, Crawley, WA 6009, 
+      Australia. treebs@mech.uwa.edu.au
+FAU - Pan, Jie
+AU  - Pan J
+FAU - Paurobally, Roshun M
+AU  - Paurobally RM
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - J Acoust Soc Am
+JT  - The Journal of the Acoustical Society of America
+JID - 7503051
+SB  - IM
+MH  - *Acoustic Impedance Tests
+MH  - Acoustics
+MH  - Computer Graphics
+MH  - Fourier Analysis
+MH  - Hair/*physiology
+MH  - Humans
+MH  - Models, Theoretical
+MH  - Scattering, Radiation
+MH  - Sound Localization/*physiology
+MH  - Sound Spectrography
+MH  - Surface Properties
+EDAT- 2007/10/02 09:00
+MHDA- 2007/12/06 09:00
+CRDT- 2007/10/02 09:00
+PHST- 2007/10/02 09:00 [pubmed]
+PHST- 2007/12/06 09:00 [medline]
+PHST- 2007/10/02 09:00 [entrez]
+AID - 10.1121/1.2773946 [doi]
+PST - ppublish
+SO  - J Acoust Soc Am. 2007 Oct;122(4):2107-17. doi: 10.1121/1.2773946.
+
+PMID- 17614464
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20070801
+LR  - 20070706
+IS  - 1520-8524 (Electronic)
+IS  - 0001-4966 (Linking)
+VI  - 122
+IP  - 1
+DP  - 2007 Jul
+TI  - Acoustic scattering by a sphere with a hemispherically split boundary condition.
+PG  - 46-57
+AB  - A general analytical model is developed for the scattering of sound by a sphere 
+      with a nonuniform impedance boundary condition that is divided into two uniformly 
+      distributed hemispheres. In addition to the overall solution for the time 
+      harmonic pressure, the analytical result gives insight into the modal 
+      contributions and coupling for different cases of source incidence and boundary 
+      impedance. Modal cross coupling is shown to exist between incoming and scattered 
+      wave modes of equi-order and nonequal degree when the degrees are opposite in 
+      parity (odd-even or even-odd coupling). This cross coupling is strongest between 
+      modes of adjacent degree, and decreases as the degrees become dissimilar. The 
+      overall magnitude of the cross coupling is dependent on the extent of the 
+      impedance mismatch between the two surface hemispheres. Simulation and discussion 
+      are given for several specific cases of source incidence and impedance (each 
+      hemisphere is given a different constant impedance value). These results are 
+      consistent with expectations from the scattering of sound by a sphere with a 
+      uniformly distributed surface boundary. The broad scattering characteristics of 
+      the hemispherically divided sphere are shown to be analogous to connecting the 
+      appropriate sectors from the corresponding uniformly distributed spheres.
+FAU - Treeby, Bradley E
+AU  - Treeby BE
+AD  - Centre for Acoustics, Dynamics and Vibration, School of Mechanical Engineering, 
+      The University of Western Australia, Crawley, WA, Australia. 
+      treebs@mech.uwa.edu.au
+FAU - Pan, Jie
+AU  - Pan J
+FAU - Paurobally, Roshun M
+AU  - Paurobally RM
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - J Acoust Soc Am
+JT  - The Journal of the Acoustical Society of America
+JID - 7503051
+SB  - IM
+MH  - Acoustic Impedance Tests
+MH  - *Acoustics
+MH  - Computer Simulation
+MH  - Head/*anatomy & histology
+MH  - Hearing/*physiology
+MH  - Humans
+MH  - Mathematical Computing
+MH  - Models, Biological
+MH  - Models, Statistical
+MH  - Motion
+MH  - Pressure
+MH  - Signal Processing, Computer-Assisted
+MH  - Sound
+MH  - Viscosity
+EDAT- 2007/07/07 09:00
+MHDA- 2007/08/02 09:00
+CRDT- 2007/07/07 09:00
+PHST- 2007/07/07 09:00 [pubmed]
+PHST- 2007/08/02 09:00 [medline]
+PHST- 2007/07/07 09:00 [entrez]
+AID - 10.1121/1.2736784 [doi]
+PST - ppublish
+SO  - J Acoust Soc Am. 2007 Jul;122(1):46-57. doi: 10.1121/1.2736784.
+
+PMID- 17471735
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20070612
+LR  - 20190516
+IS  - 0001-4966 (Print)
+IS  - 0001-4966 (Linking)
+VI  - 121
+IP  - 4
+DP  - 2007 Apr
+TI  - The effect of impedance on interaural azimuth cues derived from a spherical head 
+      model.
+PG  - 2217-26
+AB  - Recent implementations of binaural synthesis have combined high-frequency pinna 
+      diffraction data with low-frequency acoustic models of the head and torso. This 
+      combination ensures that the salient cues required for directional localization 
+      in the horizontal plane are consistent with psychophysical expectations, 
+      regardless of the accuracy or match of the high-frequency cues, or the fidelity 
+      of experimental low-frequency information. This paper investigates the effect of 
+      a nonrigid boundary condition on the surface pressure and the resulting 
+      interaural cues used for horizontal localization. These are derived from an 
+      analytical single sphere diffraction model assuming a locally reacting and 
+      uniformly distributed impedance boundary condition. Decreasing the magnitude of a 
+      purely resistive surface impedance results in an overall decrease in the sphere 
+      surface pressure level, particularly in the posterior region. This produces 
+      nontrivial increases in both the interaural level and time difference, especially 
+      for sound source directions near the interaural axis. When the surface impedance 
+      contains a reactive component the interaural cues exhibit further changes. The 
+      basic impedance characteristics of human hair and their incorporation into the 
+      sphere diffraction model are also discussed.
+FAU - Treeby, Bradley E
+AU  - Treeby BE
+AD  - Centre for Acoustics, Dynamics and Vibration, School of Mechanical Engineering, 
+      The University of Western Australia, Crawley, WA 6009, Australia. 
+      treebs@mech.uwa.edu.au
+FAU - Paurobally, Roshun M
+AU  - Paurobally RM
+FAU - Pan, Jie
+AU  - Pan J
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - J Acoust Soc Am
+JT  - The Journal of the Acoustical Society of America
+JID - 7503051
+SB  - IM
+MH  - Acoustic Impedance Tests/*methods/statistics & numerical data
+MH  - Acoustics/*instrumentation
+MH  - Auditory Perception/*physiology
+MH  - *Cues
+MH  - *Head
+MH  - Humans
+MH  - *Models, Theoretical
+MH  - *User-Computer Interface
+EDAT- 2007/05/03 09:00
+MHDA- 2007/06/15 09:00
+CRDT- 2007/05/03 09:00
+PHST- 2007/05/03 09:00 [pubmed]
+PHST- 2007/06/15 09:00 [medline]
+PHST- 2007/05/03 09:00 [entrez]
+AID - 10.1121/1.2709868 [doi]
+PST - ppublish
+SO  - J Acoust Soc Am. 2007 Apr;121(4):2217-26. doi: 10.1121/1.2709868.

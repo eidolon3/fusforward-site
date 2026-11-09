@@ -1,0 +1,6165 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:05.420
+<v Jean-François Aubry>And you know, I mean, transcranial ultrasound and, and, and surfing is the same,
+
+2
+00:00:05.860 --> 00:00:08.200
+<v Jean-François Aubry>by the way. We're just playing with waves.
+
+3
+00:00:08.540 --> 00:00:09.160
+<v Keith Murphy>Just waves.
+
+4
+00:00:09.180 --> 00:00:10.220
+<v Jean-François Aubry>Just playing with waves.
+
+5
+00:00:10.440 --> 00:00:11.140
+<v Keith Murphy>Ah, yeah. We-
+
+6
+00:00:11.380 --> 00:00:17.940
+<v Intro narrator>Follow Charles Caskey and Keith Murphy as they explore the next frontier of ultrasound
+
+7
+00:00:18.080 --> 00:00:20.760
+<v Intro narrator>neuromodulation with FUS Forward.
+
+8
+00:00:20.760 --> 00:00:23.860
+<v Keith Murphy>'Cause I don't know if people are gonna know it's a rash guard, and
+
+9
+00:00:23.880 --> 00:00:26.660
+<v Keith Murphy>they're gonna be like, "Well, Charles and Keith just look like idiots."
+
+10
+00:00:26.700 --> 00:00:27.200
+<v Keith Murphy>[laughs]
+
+11
+00:00:27.060 --> 00:00:31.000
+<v Jean-François Aubry>The thing is, I-- And I got, I got a special one, 'cause, uh,
+
+12
+00:00:31.300 --> 00:00:35.040
+<v Jean-François Aubry>I got a rash guard that, uh, I mean, my, my PhD students-
+
+13
+00:00:35.060 --> 00:00:35.560
+<v Keith Murphy>Oh, you brought two
+
+14
+00:00:35.780 --> 00:00:37.420
+<v Jean-François Aubry>... offered me this one. I'm gonna put it-
+
+15
+00:00:37.520 --> 00:00:38.660
+<v Keith Murphy>Oh, yeah. Let's see the other one.
+
+16
+00:00:38.820 --> 00:00:41.820
+<v Keith Murphy>That one looks nice. Got a blue, got a blue collar on it.
+
+17
+00:00:42.940 --> 00:00:44.920
+<v Keith Murphy>You know, that's, that's plausible that we're surfing.
+
+18
+00:00:44.920 --> 00:00:47.220
+<v Charles Caskey>Oh, physics. Is that a physics medicine, uh, rash guard?
+
+19
+00:00:48.560 --> 00:00:49.060
+<v Charles Caskey>Oh.
+
+20
+00:00:48.800 --> 00:00:49.300
+<v Keith Murphy>Nice.
+
+21
+00:00:49.300 --> 00:00:51.880
+<v Jean-François Aubry>This is, uh, the official Physics for Medicine.
+
+22
+00:00:52.420 --> 00:00:52.920
+<v Charles Caskey>Oh, I love it.
+
+23
+00:00:52.860 --> 00:00:53.740
+<v Keith Murphy>Yeah, we're talking.
+
+24
+00:00:53.860 --> 00:00:56.980
+<v Jean-François Aubry>Because they, they know me, my students know I, I, I mean, I enjoy
+
+25
+00:00:57.280 --> 00:00:59.440
+<v Jean-François Aubry>surfing a lot, and, uh-
+
+26
+00:00:59.680 --> 00:01:00.180
+<v Charles Caskey>Oh
+
+27
+00:01:00.040 --> 00:01:00.780
+<v Jean-François Aubry>... so this is from them.
+
+28
+00:01:01.300 --> 00:01:02.240
+<v Jean-François Aubry>Yeah, it's, it's really nice.
+
+29
+00:01:02.320 --> 00:01:07.340
+<v Charles Caskey>That's great. All right, cool. Well, uh, today we're really excited to have JF
+
+30
+00:01:07.400 --> 00:01:11.400
+<v Charles Caskey>Aubry with us. JF is one of the physicists who really helped figure out
+
+31
+00:01:11.440 --> 00:01:14.040
+<v Charles Caskey>how to actually focus ultrasound through the skull.
+
+32
+00:01:14.560 --> 00:01:18.900
+<v Charles Caskey>His work on CT-based prediction and adaptive focusing laid the groundwork for a lot
+
+33
+00:01:18.940 --> 00:01:23.580
+<v Charles Caskey>of stuff we do today. He's the research director at CNRS in Paris, scientific
+
+34
+00:01:23.640 --> 00:01:27.360
+<v Charles Caskey>director of the Focused Ultrasound, uh, Foundation Center of Excellence there.
+
+35
+00:01:27.920 --> 00:01:32.260
+<v Charles Caskey>And, uh, he recently has been a co-founder of SonoMind, where he's leading clinical
+
+36
+00:01:32.400 --> 00:01:35.500
+<v Charles Caskey>studies using personalized ultrasound for depression.
+
+37
+00:01:36.020 --> 00:01:40.320
+<v Charles Caskey>So he's been instrumental in developing safety guidelines, and he's someone Keith and I
+
+38
+00:01:40.340 --> 00:01:41.640
+<v Charles Caskey>have, uh, both learned a lot from.
+
+39
+00:01:41.740 --> 00:01:43.060
+<v Charles Caskey>So we're stoked to have him here today.
+
+40
+00:01:43.580 --> 00:01:45.100
+<v Charles Caskey>And, uh, so welcome, JF.
+
+41
+00:01:45.420 --> 00:01:46.360
+<v Jean-François Aubry>Thank you. Thank you.
+
+42
+00:01:46.400 --> 00:01:46.900
+<v Keith Murphy>Welcome.
+
+43
+00:01:46.420 --> 00:01:48.000
+<v Jean-François Aubry>I'm very happy to, to be here.
+
+44
+00:01:48.520 --> 00:01:50.080
+<v Keith Murphy>The legend joins us.
+
+45
+00:01:50.720 --> 00:01:52.140
+<v Charles Caskey>I know. We get such good people.
+
+46
+00:01:52.220 --> 00:01:54.040
+<v Charles Caskey>I'm so thankful for that. [laughs]
+
+47
+00:01:54.100 --> 00:01:57.060
+<v Keith Murphy>Je- JF is definitely the most highly cited on the show.
+
+48
+00:01:57.200 --> 00:01:59.980
+<v Keith Murphy>So JF, we waited to bring you on, but you were always-
+
+49
+00:02:00.060 --> 00:02:02.480
+<v Jean-François Aubry>Uh, uh, well, I, I also, you know, I'm a big fan.
+
+50
+00:02:02.660 --> 00:02:03.860
+<v Jean-François Aubry>Actually, I, I listen to-
+
+51
+00:02:03.960 --> 00:02:04.460
+<v Keith Murphy>You've been listening? [laughs]
+
+52
+00:02:04.240 --> 00:02:05.160
+<v Jean-François Aubry>... to your podcast.
+
+53
+00:02:05.320 --> 00:02:05.840
+<v Keith Murphy>I'm glad to know you listen.
+
+54
+00:02:05.860 --> 00:02:09.160
+<v Jean-François Aubry>I'm very happy when, when you mentioned Jean-François Aubry, which is so great.
+
+55
+00:02:09.160 --> 00:02:09.660
+<v Jean-François Aubry>[laughs]
+
+56
+00:02:09.380 --> 00:02:11.480
+<v Keith Murphy>Oh, we bring him up. [laughs]
+
+57
+00:02:11.520 --> 00:02:13.420
+<v Charles Caskey>Great. Great. [laughs]
+
+58
+00:02:13.560 --> 00:02:16.960
+<v Keith Murphy>JF and I went on a surf trip recently, where I learned that JF
+
+59
+00:02:17.020 --> 00:02:20.160
+<v Keith Murphy>is a much better surfer than myself and has way better endurance.
+
+60
+00:02:20.760 --> 00:02:23.100
+<v Keith Murphy>A- and on that trip, uh, I learned a lot.
+
+61
+00:02:23.280 --> 00:02:29.340
+<v Keith Murphy>So we, we've used these random arrays, you know, in our own work quite
+
+62
+00:02:29.380 --> 00:02:33.600
+<v Keith Murphy>a bit, where you can't fill the entire aperture of an ultrasound transducer.
+
+63
+00:02:34.200 --> 00:02:36.780
+<v Keith Murphy>So you try to randomly pattern it, so you get rid of lobes.
+
+64
+00:02:36.800 --> 00:02:40.180
+<v Keith Murphy>And when JF and I were talking, we're like, "Yeah, we're thinking about going
+
+65
+00:02:40.220 --> 00:02:42.420
+<v Keith Murphy>to, like, Fermat spirals and these other things."
+
+66
+00:02:42.440 --> 00:02:43.360
+<v Keith Murphy>And I'm like, "Have you heard of it?"
+
+67
+00:02:43.360 --> 00:02:48.740
+<v Keith Murphy>[laughs] And it turns out [laughs] JF may have been the inventor, and the
+
+68
+00:02:48.820 --> 00:02:51.720
+<v Keith Murphy>story behind it is actually kind of a twisty, turny one.
+
+69
+00:02:52.180 --> 00:02:54.620
+<v Keith Murphy>We're gonna let you rep with this story, and we'll just listen in-
+
+70
+00:02:55.000 --> 00:02:55.500
+<v Jean-François Aubry>Yeah, sure.
+
+71
+00:02:55.380 --> 00:02:55.880
+<v Keith Murphy>Sure ... with our hot chocolates.
+
+72
+00:02:55.440 --> 00:02:55.940
+<v Keith Murphy>[laughs]
+
+73
+00:02:55.480 --> 00:02:59.140
+<v Jean-François Aubry>Yeah, that's, that's, that's interesting. So, so maybe, I mean, first to listen why
+
+74
+00:02:59.180 --> 00:03:03.600
+<v Jean-François Aubry>and how to distribute transducers over this emitting surface.
+
+75
+00:03:04.120 --> 00:03:08.240
+<v Jean-François Aubry>If you, if you just try to stack the transducer as close as possible,
+
+76
+00:03:08.960 --> 00:03:13.580
+<v Jean-François Aubry>usually if you're using round transducers, you end up with an hexagonal compact distribution.
+
+77
+00:03:14.300 --> 00:03:17.200
+<v Jean-François Aubry>Uh, which is good 'cause it's very compact, but when you look at the
+
+78
+00:03:17.320 --> 00:03:21.340
+<v Jean-François Aubry>pressure field in the focal plane, you end up with the Fourier transform of
+
+79
+00:03:21.380 --> 00:03:23.460
+<v Jean-François Aubry>your aperture. So you have side lobes.
+
+80
+00:03:23.560 --> 00:03:29.300
+<v Jean-François Aubry>That can be quite significant. Uh, a- actually, we were, we were working on
+
+81
+00:03:29.700 --> 00:03:35.540
+<v Jean-François Aubry>thermal ablation, so it means that we were putting tissues at risk, uh, even-
+
+82
+00:03:35.560 --> 00:03:36.060
+<v Charles Caskey>Hmm
+
+83
+00:03:35.600 --> 00:03:37.000
+<v Jean-François Aubry>... outside the, the main focus.
+
+84
+00:03:37.840 --> 00:03:42.960
+<v Jean-François Aubry>So we, uh, we started, uh, working on distributing the, the ultrasound differently, the
+
+85
+00:03:43.040 --> 00:03:48.820
+<v Jean-François Aubry>transducers differently. And, and the, the most efficient way is, is to distribute semi-randomly
+
+86
+00:03:49.220 --> 00:03:53.040
+<v Jean-François Aubry>the, uh, the transducers. So we, we published a paper about that, and then
+
+87
+00:03:53.120 --> 00:03:58.360
+<v Jean-François Aubry>we worked with, uh, uh, SuperSonic Imagine to, to develop a transducer.
+
+88
+00:03:58.520 --> 00:04:04.860
+<v Jean-François Aubry>And that's when we noticed with the company that actually semi-random distribution was actually
+
+89
+00:04:04.880 --> 00:04:06.400
+<v Jean-François Aubry>patented by Gavrilov.
+
+90
+00:04:07.260 --> 00:04:07.760
+<v Charles Caskey>Ah.
+
+91
+00:04:07.620 --> 00:04:11.020
+<v Jean-François Aubry>Uh, yeah. And, uh, and it was, I mean, a very nice pattern, and,
+
+92
+00:04:11.120 --> 00:04:13.440
+<v Jean-François Aubry>and I, I felt ashamed 'cause I just didn't know.
+
+93
+00:04:13.440 --> 00:04:14.100
+<v Jean-François Aubry>[laughs]
+
+94
+00:04:14.480 --> 00:04:14.980
+<v Charles Caskey>Yeah.
+
+95
+00:04:14.820 --> 00:04:17.020
+<v Keith Murphy>A lot of stuff was behind the Iron Curtain, right?
+
+96
+00:04:17.200 --> 00:04:20.760
+<v Keith Murphy>Like, there were so many things that Gavrilov and, and others did in Russia
+
+97
+00:04:21.180 --> 00:04:22.600
+<v Keith Murphy>that they didn't publish at the time.
+
+98
+00:04:23.000 --> 00:04:25.580
+<v Keith Murphy>Like, they had-- they literally couldn't through the Iron Curtain, right?
+
+99
+00:04:26.040 --> 00:04:27.040
+<v Keith Murphy>That's true. How much stuff is back there?
+
+100
+00:04:27.100 --> 00:04:31.640
+<v Jean-François Aubry>I mean, some of his work was not published, but definitely the patent was
+
+101
+00:04:31.740 --> 00:04:32.240
+<v Jean-François Aubry>published. [laughs]
+
+102
+00:04:31.860 --> 00:04:32.900
+<v Keith Murphy>Oh, that was very good. [laughs]
+
+103
+00:04:33.080 --> 00:04:33.580
+<v Jean-François Aubry>I noticed that.
+
+104
+00:04:34.280 --> 00:04:36.580
+<v Keith Murphy>So, well, that's on you. [laughs]
+
+105
+00:04:36.620 --> 00:04:39.320
+<v Jean-François Aubry>We, we discussed with the company and said, "Okay, so, so what do we
+
+106
+00:04:39.400 --> 00:04:42.900
+<v Jean-François Aubry>do?" We're thinking, "Well, maybe we should-- we could contact Gavrilov and, and see
+
+107
+00:04:42.940 --> 00:04:44.520
+<v Jean-François Aubry>if we can use his patent."
+
+108
+00:04:44.600 --> 00:04:48.440
+<v Jean-François Aubry>And they said, "But yeah, may- maybe, but can you think of another way
+
+109
+00:04:49.060 --> 00:04:53.420
+<v Jean-François Aubry>to distribute the, the transducers?" And I, and I discussed with a friend of
+
+110
+00:04:53.480 --> 00:04:56.860
+<v Jean-François Aubry>mine who is a mathematician, and I say, "So, uh, is there a way
+
+111
+00:04:57.760 --> 00:05:04.520
+<v Jean-François Aubry>to distribute, um, points, uh, I would say in a, in a, in
+
+112
+00:05:04.580 --> 00:05:07.260
+<v Jean-François Aubry>a known way and fixed way?
+
+113
+00:05:07.800 --> 00:05:11.380
+<v Jean-François Aubry>But still, what is important to me is that the distance between the, the,
+
+114
+00:05:11.420 --> 00:05:17.100
+<v Jean-François Aubry>the center of the, of curvature of the surface and, and the, the, the
+
+115
+00:05:17.180 --> 00:05:22.800
+<v Jean-François Aubry>point on the surface is, is, um, actually varying, uh, almost randomly."
+
+116
+00:05:23.040 --> 00:05:26.420
+<v Jean-François Aubry>And, and he said, "Well..." And he might almost immediately say, "Yeah, well, use
+
+117
+00:05:26.480 --> 00:05:28.260
+<v Jean-François Aubry>a spiral, uh, surface."
+
+118
+00:05:28.300 --> 00:05:28.800
+<v Keith Murphy>Yeah.
+
+119
+00:05:28.320 --> 00:05:33.260
+<v Jean-François Aubry>So use, use several spirals that, that would, uh, uh, all emerge from, from
+
+120
+00:05:33.340 --> 00:05:37.980
+<v Jean-François Aubry>the, the center. Uh, and then you, you start with, uh, one distance, and
+
+121
+00:05:38.020 --> 00:05:41.560
+<v Jean-François Aubry>then you s- you change a little bit the dis- distance on each spiral.
+
+122
+00:05:41.940 --> 00:05:47.060
+<v Jean-François Aubry>And very quickly, you will end up with, uh, uh, almost a semi-random distribution
+
+123
+00:05:47.100 --> 00:05:48.900
+<v Jean-François Aubry>in terms of distances between the points.
+
+124
+00:05:49.400 --> 00:05:49.900
+<v Keith Murphy>Mm-hmm.
+
+125
+00:05:49.560 --> 00:05:51.020
+<v Jean-François Aubry>And so that's what we, we did.
+
+126
+00:05:51.060 --> 00:05:53.280
+<v Jean-François Aubry>So we tested the, uh, those, uh, spirals.
+
+127
+00:05:54.540 --> 00:05:55.040
+<v Jean-François Aubry>And, uh-
+
+128
+00:05:54.760 --> 00:05:55.340
+<v Charles Caskey>Interesting
+
+129
+00:05:55.340 --> 00:05:57.500
+<v Jean-François Aubry>... and it worked, and it's true.
+
+130
+00:05:57.640 --> 00:06:02.380
+<v Jean-François Aubry>I mean, we, we got almost the, the same pressure field in the, um,
+
+131
+00:06:02.620 --> 00:06:06.240
+<v Jean-François Aubry>in the focal plane than we had with the, um, the semi-random array.
+
+132
+00:06:06.340 --> 00:06:10.740
+<v Jean-François Aubry>So we, we stick with that, and we built this, uh, uh, spiral, uh,
+
+133
+00:06:10.900 --> 00:06:17.020
+<v Jean-François Aubry>distribution. Uh, but, uh, n- now I'm not even sure it's the best
+
+134
+00:06:17.080 --> 00:06:19.140
+<v Jean-François Aubry>way [laughs] to do it. [laughs]
+
+135
+00:06:19.180 --> 00:06:19.680
+<v Keith Murphy>Well-
+
+136
+00:06:19.360 --> 00:06:23.420
+<v Jean-François Aubry>We did it, we did it because, um, uh, at the origin, again, as
+
+137
+00:06:23.480 --> 00:06:26.920
+<v Jean-François Aubry>I said, we wanted to ablate tissue, so we needed very- Yeah ...
+
+138
+00:06:27.020 --> 00:06:31.340
+<v Jean-François Aubry>high density energy emitted from the transducer.
+
+139
+00:06:32.100 --> 00:06:32.600
+<v Keith Murphy>Mm-hmm.
+
+140
+00:06:32.260 --> 00:06:36.660
+<v Jean-François Aubry>And, uh, we contacted Imasonic and, and they ended up with single element transducers
+
+141
+00:06:37.200 --> 00:06:41.540
+<v Jean-François Aubry>that were able actually to dissipate a lot of energy so that the, the,
+
+142
+00:06:41.620 --> 00:06:45.680
+<v Jean-François Aubry>the watt per square centimeter at the surface of the area was, was usually
+
+143
+00:06:45.920 --> 00:06:51.140
+<v Jean-François Aubry>much higher than what is usually, uh, done on, with, um, on, on, uh,
+
+144
+00:06:51.460 --> 00:06:52.720
+<v Jean-François Aubry>let's say spherical arrays.
+
+145
+00:06:53.420 --> 00:06:53.920
+<v Keith Murphy>Mm-hmm.
+
+146
+00:06:53.740 --> 00:06:57.580
+<v Jean-François Aubry>Uh, and, and so we had to distribute those, those elements on the surface,
+
+147
+00:06:57.620 --> 00:07:02.460
+<v Jean-François Aubry>so we had no choice but to use those h- high, very high power
+
+148
+00:07:02.780 --> 00:07:05.020
+<v Jean-François Aubry>transducers, and we needed to distribute.
+
+149
+00:07:05.660 --> 00:07:10.900
+<v Jean-François Aubry>But when it's just a question of, um, I would say using a spherical
+
+150
+00:07:11.020 --> 00:07:13.160
+<v Jean-François Aubry>surface and dicing.
+
+151
+00:07:14.220 --> 00:07:14.720
+<v Keith Murphy>Mm-hmm.
+
+152
+00:07:14.420 --> 00:07:18.920
+<v Jean-François Aubry>And in that case, what you can do is have a paving that is
+
+153
+00:07:19.060 --> 00:07:21.700
+<v Jean-François Aubry>actually, uh, irregular-
+
+154
+00:07:22.540 --> 00:07:23.040
+<v Keith Murphy>Mm-hmm
+
+155
+00:07:22.600 --> 00:07:27.440
+<v Jean-François Aubry>... but with a, a full, uh, coverage of the, of the, the transducer,
+
+156
+00:07:27.940 --> 00:07:30.700
+<v Jean-François Aubry>and it's, uh, called actually tessellation.
+
+157
+00:07:31.140 --> 00:07:36.620
+<v Jean-François Aubry>Uh, and, and that is actually [chuckles] once again what Gavrilov published recently with,
+
+158
+00:07:36.700 --> 00:07:37.660
+<v Jean-François Aubry>with Vera Khokhlova. [laughs]
+
+159
+00:07:37.660 --> 00:07:40.880
+<v Keith Murphy>It look, it looks like a, a crack in the sidewalk almost, like it's
+
+160
+00:07:40.940 --> 00:07:41.920
+<v Keith Murphy>a very random-
+
+161
+00:07:42.280 --> 00:07:42.780
+<v Jean-François Aubry>Yes
+
+162
+00:07:42.860 --> 00:07:44.120
+<v Keith Murphy>... like lines drawn through, right?
+
+163
+00:07:44.160 --> 00:07:47.280
+<v Jean-François Aubry>Uh, actually, yeah, I, I got, I got a, a, a picture of the,
+
+164
+00:07:47.520 --> 00:07:49.480
+<v Jean-François Aubry>the, the distribution. Let's see.
+
+165
+00:07:49.520 --> 00:07:50.600
+<v Keith Murphy>Oh, beautiful. Nice.
+
+166
+00:07:50.620 --> 00:07:53.480
+<v Jean-François Aubry>So you, you see, so, so there are ways to arrange so they are
+
+167
+00:07:53.520 --> 00:07:59.600
+<v Jean-François Aubry>very close to each other, and so that you can fully populate the array.
+
+168
+00:07:59.680 --> 00:08:00.180
+<v Keith Murphy>Yeah.
+
+169
+00:08:00.320 --> 00:08:04.260
+<v Jean-François Aubry>Um, and, uh, I guess what they, they, they published it in, in, in
+
+170
+00:08:04.440 --> 00:08:10.620
+<v Jean-François Aubry>2018, and it was, uh, a method for designing multi-element fully populating,
+
+171
+00:08:11.380 --> 00:08:15.720
+<v Jean-François Aubry>populated random phased array. And that's, I think that's, that's fantastic.
+
+172
+00:08:15.760 --> 00:08:17.760
+<v Jean-François Aubry>It's a, it's a great way to, to do it.
+
+173
+00:08:18.360 --> 00:08:22.260
+<v Jean-François Aubry>Uh, and as I [chuckles] discussed with Keith, actually, I, I just, I mean,
+
+174
+00:08:22.360 --> 00:08:27.960
+<v Jean-François Aubry>and I thought to me, and when I teach how to distribute transducers on,
+
+175
+00:08:28.100 --> 00:08:33.140
+<v Jean-François Aubry>on a, a given surface, um, I think this is the best way to
+
+176
+00:08:33.180 --> 00:08:37.740
+<v Jean-François Aubry>do it because it's fully populated, and I give credit to, to Gavrilov and,
+
+177
+00:08:37.900 --> 00:08:40.900
+<v Jean-François Aubry>and, and of course, I mean, to, to Ve- Vera Khokhlova and, and, um,
+
+178
+00:08:41.540 --> 00:08:44.880
+<v Jean-François Aubry>also Oleg Sapozhnikov for, for doing that.
+
+179
+00:08:45.400 --> 00:08:45.900
+<v Jean-François Aubry>Um-
+
+180
+00:08:45.760 --> 00:08:46.260
+<v Keith Murphy>Mm-hmm
+
+181
+00:08:45.840 --> 00:08:52.060
+<v Jean-François Aubry>... but I, I actually ended up discussing with Francis Duck, and he, he's
+
+182
+00:08:52.100 --> 00:08:52.600
+<v Jean-François Aubry>a big fan-
+
+183
+00:08:52.320 --> 00:08:54.220
+<v Keith Murphy>Oh, is he the guy that wrote the textbook-
+
+184
+00:08:54.540 --> 00:08:55.040
+<v Jean-François Aubry>Yes
+
+185
+00:08:54.580 --> 00:08:56.460
+<v Keith Murphy>... "Ultrasound Medicine and Biology?" Duck.
+
+186
+00:08:56.500 --> 00:08:57.880
+<v Jean-François Aubry>Yes, he is. I, I met him.
+
+187
+00:08:57.900 --> 00:08:58.400
+<v Keith Murphy>Ah, classic. [laughs]
+
+188
+00:08:58.140 --> 00:09:00.260
+<v Jean-François Aubry>So I have another slide. Actually, let's see.
+
+189
+00:09:00.280 --> 00:09:02.020
+<v Jean-François Aubry>This is, this is me with, with Francis Duck.
+
+190
+00:09:02.580 --> 00:09:03.080
+<v Keith Murphy>Oh.
+
+191
+00:09:02.640 --> 00:09:03.480
+<v Jean-François Aubry>And we had a chat.
+
+192
+00:09:03.540 --> 00:09:05.600
+<v Keith Murphy>Yeah. I didn't know he was alive still.
+
+193
+00:09:05.660 --> 00:09:06.320
+<v Keith Murphy>That's cool.
+
+194
+00:09:06.760 --> 00:09:07.260
+<v Jean-François Aubry>Yeah.
+
+195
+00:09:07.260 --> 00:09:07.760
+<v Keith Murphy>Yeah.
+
+196
+00:09:07.280 --> 00:09:12.400
+<v Jean-François Aubry>He's great. He's great, and, and he is a big fan of, uh, Paul
+
+197
+00:09:12.460 --> 00:09:14.400
+<v Jean-François Aubry>Langevin. And he's been-
+
+198
+00:09:14.500 --> 00:09:15.000
+<v Keith Murphy>Okay
+
+199
+00:09:14.560 --> 00:09:18.660
+<v Jean-François Aubry>... digging in, and, and what Paul Langevin did i- in the 1920s, so,
+
+200
+00:09:19.440 --> 00:09:22.560
+<v Jean-François Aubry>uh, 100 years ago, a century ago, is crazy.
+
+201
+00:09:22.660 --> 00:09:23.160
+<v Keith Murphy>Wow.
+
+202
+00:09:22.720 --> 00:09:26.120
+<v Jean-François Aubry>And, and if you look at this, so he discovered, uh, the way to,
+
+203
+00:09:26.260 --> 00:09:32.440
+<v Jean-François Aubry>to build, uh, piezoelectric material, material with high power in 19,
+
+204
+00:09:33.100 --> 00:09:38.520
+<v Jean-François Aubry>uh, 17. And in 1920, he ended up with a, what he called a
+
+205
+00:09:38.600 --> 00:09:43.400
+<v Jean-François Aubry>crazy paving mosaic. And if you look at it, I mean, it's exactly what
+
+206
+00:09:43.460 --> 00:09:45.080
+<v Jean-François Aubry>Gavrilov is actually proposing.
+
+207
+00:09:45.540 --> 00:09:46.680
+<v Charles Caskey>Oh, it was [laughs] it's already factored in.
+
+208
+00:09:47.280 --> 00:09:47.780
+<v Jean-François Aubry>Yeah, he got-
+
+209
+00:09:47.820 --> 00:09:51.740
+<v Keith Murphy>So the tessellation and that paving, they're both similar, just at different scales.
+
+210
+00:09:51.800 --> 00:09:54.420
+<v Keith Murphy>They're kind of these random mosaic-looking patterns.
+
+211
+00:09:54.440 --> 00:09:58.440
+<v Jean-François Aubry>Yes. He noticed that actually the best way to build his transducers was to,
+
+212
+00:09:59.000 --> 00:10:04.720
+<v Jean-François Aubry>to have, I mean, to assemble the different pieces of, of, um, piezoelectric material
+
+213
+00:10:04.780 --> 00:10:09.840
+<v Jean-François Aubry>he got with various sizes, and he, he actually, he, he noticed that it
+
+214
+00:10:09.900 --> 00:10:13.720
+<v Jean-François Aubry>was better instead of having a, a regular-- 'Cause he did also, it's crazy,
+
+215
+00:10:13.960 --> 00:10:17.440
+<v Jean-François Aubry>incredible. He, he did also regular paving.
+
+216
+00:10:17.800 --> 00:10:22.580
+<v Jean-François Aubry>So he tested it, and he, he noticed that it's better not to, to
+
+217
+00:10:22.700 --> 00:10:29.480
+<v Jean-François Aubry>dice in a regular way, but have irregular patterns, and then assemble them as,
+
+218
+00:10:29.620 --> 00:10:33.080
+<v Jean-François Aubry>as packed as he could, uh, and, and he performed.
+
+219
+00:10:33.300 --> 00:10:37.000
+<v Jean-François Aubry>So he, he, he did basically one century ago, he, he, he did the
+
+220
+00:10:37.180 --> 00:10:41.240
+<v Jean-François Aubry>best, uh, [laughs] transducer ever. It's, uh, it's very impressive.
+
+221
+00:10:41.600 --> 00:10:42.100
+<v Jean-François Aubry>Um-
+
+222
+00:10:41.660 --> 00:10:46.860
+<v Keith Murphy>So what you said earlier is important for our younger listeners who are learning.
+
+223
+00:10:47.680 --> 00:10:51.140
+<v Keith Murphy>You wanna cover as much of the surface as you can to get more
+
+224
+00:10:51.360 --> 00:10:57.660
+<v Keith Murphy>power, but you can't have a regular or repeating pattern because it creates these
+
+225
+00:10:58.240 --> 00:11:01.720
+<v Keith Murphy>side lobes, which are just like you have your target, and then there's almost
+
+226
+00:11:01.780 --> 00:11:05.460
+<v Keith Murphy>a perfect replica off to the side because of this normal pattern.
+
+227
+00:11:05.960 --> 00:11:06.460
+<v Jean-François Aubry>Beautiful.
+
+228
+00:11:05.980 --> 00:11:09.680
+<v Keith Murphy>The Fourier transform thing maybe people won't follow, but is that right?
+
+229
+00:11:10.080 --> 00:11:13.900
+<v Jean-François Aubry>Yes. The Fourier transform thing is just a way to calculate exactly the distance
+
+230
+00:11:13.980 --> 00:11:14.480
+<v Jean-François Aubry>between those.
+
+231
+00:11:14.800 --> 00:11:15.300
+<v Keith Murphy>Mm-hmm.
+
+232
+00:11:14.820 --> 00:11:17.780
+<v Jean-François Aubry>And, and, uh, but, uh, yes, if we, we-
+
+233
+00:11:17.900 --> 00:11:18.400
+<v Keith Murphy>Okay
+
+234
+00:11:18.040 --> 00:11:19.720
+<v Jean-François Aubry>... see it's, uh, exactly that.
+
+235
+00:11:19.720 --> 00:11:20.220
+<v Jean-François Aubry>Yeah.
+
+236
+00:11:19.740 --> 00:11:23.460
+<v Keith Murphy>So everything you-- So you set out to try to solve both problems at
+
+237
+00:11:23.560 --> 00:11:27.060
+<v Keith Murphy>once. So I think it's, like, it's timely, and I, we may have mentioned
+
+238
+00:11:27.120 --> 00:11:32.580
+<v Keith Murphy>in the show, um, you know, Leonid Gavrilov's recent passing, but did you ever
+
+239
+00:11:32.620 --> 00:11:34.300
+<v Keith Murphy>get to talk to him about all this stuff?
+
+240
+00:11:34.600 --> 00:11:37.380
+<v Keith Murphy>Was he cool with you violating [laughs] the patent?
+
+241
+00:11:37.520 --> 00:11:39.200
+<v Keith Murphy>Was he like, "Hey, screw you"?
+
+242
+00:11:39.340 --> 00:11:39.840
+<v Keith Murphy>[laughs]
+
+243
+00:11:39.580 --> 00:11:41.960
+<v Jean-François Aubry>I, I did actually. You see, this is, uh, another picture of, of me
+
+244
+00:11:42.020 --> 00:11:44.920
+<v Jean-François Aubry>with Gavrilov. So we met in, uh, in Barcelona.
+
+245
+00:11:44.940 --> 00:11:46.260
+<v Keith Murphy>Can you hold that closer to the screen?
+
+246
+00:11:46.340 --> 00:11:50.320
+<v Keith Murphy>I wanna see it. This is, this is history.
+
+247
+00:11:51.380 --> 00:11:51.880
+<v Keith Murphy>Wow.
+
+248
+00:11:52.100 --> 00:11:52.600
+<v Jean-François Aubry>Oh, I love it.
+
+249
+00:11:52.200 --> 00:11:53.220
+<v Keith Murphy>I always wanted to meet him.
+
+250
+00:11:53.340 --> 00:11:53.840
+<v Keith Murphy>I ne-
+
+251
+00:11:53.600 --> 00:11:54.100
+<v Jean-François Aubry>Yeah.
+
+252
+00:11:53.620 --> 00:11:54.640
+<v Keith Murphy>Charles, have you ever met him?
+
+253
+00:11:54.780 --> 00:11:55.280
+<v Keith Murphy>I never got a chance.
+
+254
+00:11:55.220 --> 00:11:58.540
+<v Charles Caskey>No, no. I never, never had the opportunity, so that's really special and awesome
+
+255
+00:11:58.560 --> 00:11:59.620
+<v Charles Caskey>that you were able to, yeah.
+
+256
+00:11:59.860 --> 00:12:00.360
+<v Keith Murphy>Yeah. Wow.
+
+257
+00:12:00.420 --> 00:12:04.780
+<v Jean-François Aubry>Yeah, I, yeah, I got the-- So we, we met in Barcelona, um, and,
+
+258
+00:12:04.860 --> 00:12:08.960
+<v Jean-François Aubry>uh, it was in 2017 or '18.
+
+259
+00:12:09.740 --> 00:12:13.860
+<v Jean-François Aubry>And, uh, and actually, we, we exchanged a lot of emails after that.
+
+260
+00:12:14.540 --> 00:12:15.040
+<v Keith Murphy>Cool.
+
+261
+00:12:14.680 --> 00:12:18.560
+<v Jean-François Aubry>Uh, and, and, and it appeared because, I mean, I, I value his work
+
+262
+00:12:19.020 --> 00:12:23.320
+<v Jean-François Aubry>a lot. Uh, and, and I, I mentioned many times the book that, that
+
+263
+00:12:23.380 --> 00:12:28.410
+<v Jean-François Aubry>he wrote on neuromodulation. Uh, and, and, uh, and I was surprised to hear--
+
+264
+00:12:28.530 --> 00:12:32.410
+<v Jean-François Aubry>I, actually, he, he, he kind of liked what we were doing also in
+
+265
+00:12:32.450 --> 00:12:34.190
+<v Jean-François Aubry>the lab. Uh, and-
+
+266
+00:12:34.230 --> 00:12:34.730
+<v Keith Murphy>Yeah. And
+
+267
+00:12:34.410 --> 00:12:38.430
+<v Jean-François Aubry>the- ... the fact that, for example, the, the very first transducer that we
+
+268
+00:12:38.490 --> 00:12:44.850
+<v Jean-François Aubry>built in a semi-random, um, configuration, uh, he was the first to think
+
+269
+00:12:44.910 --> 00:12:47.930
+<v Jean-François Aubry>of it, and he was very happy to see that we were the first
+
+270
+00:12:47.970 --> 00:12:49.690
+<v Jean-François Aubry>to implement it.
+
+271
+00:12:49.730 --> 00:12:50.230
+<v Keith Murphy>Mm. Mm-hmm.
+
+272
+00:12:50.190 --> 00:12:52.270
+<v Jean-François Aubry>And to fully validate. And-
+
+273
+00:12:52.310 --> 00:12:52.810
+<v Keith Murphy>Yeah
+
+274
+00:12:52.510 --> 00:12:56.910
+<v Jean-François Aubry>... uh, and he was actually, uh, paying close attention to the, I would
+
+275
+00:12:56.990 --> 00:13:01.550
+<v Jean-François Aubry>say, the revival of focused ultrasound neurostimulation.
+
+276
+00:13:02.030 --> 00:13:02.690
+<v Keith Murphy>Oh, he was?
+
+277
+00:13:02.730 --> 00:13:04.430
+<v Jean-François Aubry>Uh, from the-- Yes. Yes. He was.
+
+278
+00:13:04.510 --> 00:13:05.970
+<v Keith Murphy>Oh, wow. Yeah. I didn't know that.
+
+279
+00:13:06.350 --> 00:13:07.090
+<v Keith Murphy>Can you, can you tell us?
+
+280
+00:13:07.210 --> 00:13:08.070
+<v Keith Murphy>Yeah, tell us more about that.
+
+281
+00:13:08.070 --> 00:13:12.610
+<v Jean-François Aubry>Well, he was also critical. He-- I can tell you, he did not like
+
+282
+00:13:12.830 --> 00:13:14.690
+<v Jean-François Aubry>all the work that was being done.
+
+283
+00:13:14.730 --> 00:13:15.230
+<v Jean-François Aubry>[laughs]
+
+284
+00:13:15.370 --> 00:13:17.430
+<v Keith Murphy>He would see- You know, not everything he had was perfect.
+
+285
+00:13:17.690 --> 00:13:18.190
+<v Keith Murphy>No.
+
+286
+00:13:19.030 --> 00:13:21.130
+<v Jean-François Aubry>No. Uh, and, and it's a- We can't...
+
+287
+00:13:21.270 --> 00:13:21.770
+<v Keith Murphy>Yeah
+
+288
+00:13:21.270 --> 00:13:24.990
+<v Jean-François Aubry>... I'm, I'm so-- I mean, I'm sad, I'm sad that, that he, he,
+
+289
+00:13:25.230 --> 00:13:29.950
+<v Jean-François Aubry>he passed away. I mean, uh, a, a few weeks after, after I, I
+
+290
+00:13:30.010 --> 00:13:32.950
+<v Jean-François Aubry>invited him to, to come to FUN 26.
+
+291
+00:13:33.490 --> 00:13:33.990
+<v Jean-François Aubry>We wanted-
+
+292
+00:13:33.910 --> 00:13:34.410
+<v Keith Murphy>Mm
+
+293
+00:13:34.010 --> 00:13:38.490
+<v Jean-François Aubry>... to invite him to, to, to give a, uh, a, a talk and,
+
+294
+00:13:38.610 --> 00:13:42.770
+<v Jean-François Aubry>and we wanted to, to give him an award for, for his lifetime achievement.
+
+295
+00:13:42.830 --> 00:13:46.590
+<v Jean-François Aubry>And, and he very quickly told me that, that, mm, it's very unlikely that
+
+296
+00:13:46.630 --> 00:13:50.930
+<v Jean-François Aubry>he would be, um, able to, to come and try to discuss together.
+
+297
+00:13:50.970 --> 00:13:53.790
+<v Jean-François Aubry>I mean, is there a way that maybe you could send me a, a
+
+298
+00:13:53.910 --> 00:13:57.890
+<v Jean-François Aubry>text that I would read for you, or you would, you would attend remotely?
+
+299
+00:13:58.250 --> 00:14:01.790
+<v Jean-François Aubry>Oh, yeah. And, uh, and, and that's, um, he, he told me he was,
+
+300
+00:14:01.870 --> 00:14:05.850
+<v Jean-François Aubry>he was in-- He had the feeling that it would be impossible for him
+
+301
+00:14:05.910 --> 00:14:08.590
+<v Jean-François Aubry>to come. And now, I, I mean, we know why, unfortunately.
+
+302
+00:14:08.710 --> 00:14:12.470
+<v Jean-François Aubry>Yeah. Yeah. Um, but so, so we will ask Vera to, to, to come
+
+303
+00:14:12.510 --> 00:14:16.790
+<v Jean-François Aubry>and, and, uh, and give a lecture on, on his, uh, lifetime, uh, achievement.
+
+304
+00:14:17.330 --> 00:14:20.750
+<v Jean-François Aubry>Uh, and so within the, the exchange that we had, and it's too bad
+
+305
+00:14:20.790 --> 00:14:25.650
+<v Jean-François Aubry>'cause I would have liked him to, to say really what, what he thought.
+
+306
+00:14:25.710 --> 00:14:27.150
+<v Jean-François Aubry>So he, he basically-
+
+307
+00:14:27.190 --> 00:14:27.690
+<v Keith Murphy>Yeah
+
+308
+00:14:27.310 --> 00:14:29.450
+<v Jean-François Aubry>... is happy to see this coming out.
+
+309
+00:14:30.310 --> 00:14:36.610
+<v Jean-François Aubry>Um, and, and somehow he, he was, um, he was not
+
+310
+00:14:36.670 --> 00:14:42.830
+<v Jean-François Aubry>supporting some studies who I would say, uh, were not done
+
+311
+00:14:43.090 --> 00:14:45.810
+<v Jean-François Aubry>for a good, uh, clinical impact.
+
+312
+00:14:46.330 --> 00:14:51.190
+<v Jean-François Aubry>I would say. Mm. He was not very keen on, on, um, I would
+
+313
+00:14:51.230 --> 00:14:53.890
+<v Jean-François Aubry>say non-medical application of, uh-
+
+314
+00:14:53.970 --> 00:14:54.470
+<v Keith Murphy>Mm-hmm
+
+315
+00:14:54.090 --> 00:14:56.730
+<v Jean-François Aubry>... transcranial stimulation. This is-- Yeah.
+
+316
+00:14:56.810 --> 00:14:57.310
+<v Jean-François Aubry>That's- And some-- Yeah.
+
+317
+00:14:57.950 --> 00:15:01.630
+<v Charles Caskey>There's so many things in that, in the, in that story that are like-
+
+318
+00:15:01.630 --> 00:15:04.830
+<v Charles Caskey>[laughs] ... that connect with me both-- Okay, so one of them is, is
+
+319
+00:15:04.890 --> 00:15:08.190
+<v Charles Caskey>the lineage. And this is something I don't know if people totally realize, is
+
+320
+00:15:08.270 --> 00:15:10.670
+<v Charles Caskey>we ta- we talk about, like, the lineage of ideas, kind of like what
+
+321
+00:15:10.690 --> 00:15:12.570
+<v Charles Caskey>we're talking about here with r- array design.
+
+322
+00:15:13.170 --> 00:15:16.910
+<v Charles Caskey>Um, but like P- uh, you know, and you talk about, uh, Langevin, but
+
+323
+00:15:16.950 --> 00:15:20.510
+<v Charles Caskey>you don't even need to go back that far before we're at, like, the
+
+324
+00:15:20.570 --> 00:15:23.910
+<v Charles Caskey>Curies discovering piezoelectrics. So that's, like, before, like...
+
+325
+00:15:23.930 --> 00:15:27.730
+<v Charles Caskey>And that's, like, 1880 to 1920, and then we-- It's like we're-- Th- this--
+
+326
+00:15:27.890 --> 00:15:32.330
+<v Charles Caskey>The whole thing's been building and, you know, it's on these, these early contributors,
+
+327
+00:15:32.370 --> 00:15:36.290
+<v Charles Caskey>and it's just so cool. And it's unfortunate we didn't, we didn't coalesce, and
+
+328
+00:15:36.310 --> 00:15:40.250
+<v Charles Caskey>then we weren't able to in person honor these people, um, while they're, while
+
+329
+00:15:40.290 --> 00:15:42.590
+<v Charles Caskey>they're still with us. But I, I know we honor-- I hope that we're
+
+330
+00:15:42.610 --> 00:15:45.690
+<v Charles Caskey>honoring them by our continued pursuit, and I, I hope that we'll have the
+
+331
+00:15:45.730 --> 00:15:50.110
+<v Charles Caskey>opportunity to maybe bestow upon them the, the credit they deserve as we, you
+
+332
+00:15:50.150 --> 00:15:52.730
+<v Charles Caskey>know, now we're more of a formed field.
+
+333
+00:15:52.830 --> 00:15:53.330
+<v Charles Caskey>Yeah.
+
+334
+00:15:53.490 --> 00:15:56.870
+<v Jean-François Aubry>What is, what is impressive with, with, with Gavrilov is, is that, that he,
+
+335
+00:15:57.050 --> 00:16:01.250
+<v Jean-François Aubry>he's been contributing to the field in, at many levels.
+
+336
+00:16:01.870 --> 00:16:08.510
+<v Jean-François Aubry>I, I first, uh, heard of his work on, on how to distribute transducers
+
+337
+00:16:08.710 --> 00:16:11.830
+<v Jean-François Aubry>on, on surface. So he did a lot on, on the development of, uh,
+
+338
+00:16:12.290 --> 00:16:14.510
+<v Jean-François Aubry>transducers and, and even in metrology.
+
+339
+00:16:15.470 --> 00:16:19.890
+<v Jean-François Aubry>But also back in the '80s, he did so much on, on the effect
+
+340
+00:16:19.950 --> 00:16:22.770
+<v Jean-François Aubry>of ultrasound on, on peripheral nerves.
+
+341
+00:16:22.970 --> 00:16:27.570
+<v Jean-François Aubry>So he, he was both involved in the technology and in the biology, in
+
+342
+00:16:27.630 --> 00:16:34.270
+<v Jean-François Aubry>the interaction of ultrasound with, uh, um, uh, w- with, um, tissues.
+
+343
+00:16:34.930 --> 00:16:39.010
+<v Jean-François Aubry>Mm-hmm. Um, a- and this-- And, and he, he, for a long period of
+
+344
+00:16:39.070 --> 00:16:41.230
+<v Jean-François Aubry>time, actually, we say did not publish.
+
+345
+00:16:41.250 --> 00:16:45.450
+<v Jean-François Aubry>He published, but, but it was in, uh, uh, Russian journals.
+
+346
+00:16:46.150 --> 00:16:48.870
+<v Jean-François Aubry>Yeah. Yeah. So it would be, yeah, it would be great to dig in.
+
+347
+00:16:48.910 --> 00:16:51.930
+<v Jean-François Aubry>I'm, I'm sure that this is, this must be a goldmine.
+
+348
+00:16:52.730 --> 00:16:54.330
+<v Charles Caskey>Yeah. Um. I, I bet you're right.
+
+349
+00:16:54.430 --> 00:16:59.610
+<v Charles Caskey>Like, there's so many hot, heavy hitters from the, from Russia in ultrasound.
+
+350
+00:16:59.690 --> 00:17:03.890
+<v Charles Caskey>So I, I always feel like France and Russia, there's so much good, good
+
+351
+00:17:03.990 --> 00:17:08.290
+<v Charles Caskey>work from laboratories out of France, has been a little bit more integrated and
+
+352
+00:17:08.410 --> 00:17:11.750
+<v Charles Caskey>indexed. Uh, they're, you know, having, continuing having a center.
+
+353
+00:17:11.790 --> 00:17:14.370
+<v Charles Caskey>But we did-- Uh, it does feel like we lost a bit with-- Or
+
+354
+00:17:14.390 --> 00:17:15.650
+<v Charles Caskey>it's, it hasn't been indexed yet.
+
+355
+00:17:15.730 --> 00:17:16.230
+<v Charles Caskey>[chuckles]
+
+356
+00:17:16.370 --> 00:17:21.330
+<v Jean-François Aubry>Yes. Yes. And, and when talking about the past, uh, I think we, each
+
+357
+00:17:21.590 --> 00:17:27.650
+<v Jean-François Aubry>country, I would say mostly sort of France, Russia, and US had great
+
+358
+00:17:27.710 --> 00:17:31.350
+<v Jean-François Aubry>researchers 'cause you, you also had the, the, the Fry brothers in the US.
+
+359
+00:17:31.450 --> 00:17:35.330
+<v Jean-François Aubry>They did quite a lot. Uh, and, uh- Yeah ...
+
+360
+00:17:35.410 --> 00:17:39.710
+<v Jean-François Aubry>I, I, I got the, the chance to, to, uh, hear from Fry just
+
+361
+00:17:39.830 --> 00:17:43.210
+<v Jean-François Aubry>once at one of the first ISTU conference.
+
+362
+00:17:43.750 --> 00:17:50.330
+<v Jean-François Aubry>And, uh, and actually it's, it's interesting because his, uh, his conclusion
+
+363
+00:17:50.370 --> 00:17:53.490
+<v Jean-François Aubry>at that time was in 2002 or something like that.
+
+364
+00:17:54.190 --> 00:17:58.130
+<v Jean-François Aubry>And what he said is, "No cavitation in the brain."
+
+365
+00:17:59.570 --> 00:18:01.410
+<v Keith Murphy>Um- Oh, he was the first to say it.
+
+366
+00:18:01.870 --> 00:18:03.130
+<v Keith Murphy>Yes. Or that he could still get changes without it.
+
+367
+00:18:03.150 --> 00:18:08.210
+<v Jean-François Aubry>He was not-- I mean, he would always-- And, and he, uh-- So I
+
+368
+00:18:08.270 --> 00:18:12.050
+<v Jean-François Aubry>know he was mostly using high-intensity focused ultrasound.
+
+369
+00:18:12.690 --> 00:18:15.210
+<v Jean-François Aubry>Mm-hmm. But, but all the way down, I mean, he tried.
+
+370
+00:18:15.270 --> 00:18:19.690
+<v Jean-François Aubry>He, he, he used craniotomy, and he noticed that when, when the skull is
+
+371
+00:18:19.730 --> 00:18:24.890
+<v Jean-François Aubry>in place, in order to deliver ultrasound through the skull, it's, it's very difficult.
+
+372
+00:18:25.430 --> 00:18:29.270
+<v Jean-François Aubry>Mm-hmm. And even when ... decreasing the frequency.
+
+373
+00:18:29.390 --> 00:18:34.470
+<v Jean-François Aubry>He tried, he went down to 500 kilohertz to produce lesions, and he could
+
+374
+00:18:34.510 --> 00:18:36.570
+<v Jean-François Aubry>not avoid cavitation in the brain.
+
+375
+00:18:37.010 --> 00:18:37.510
+<v Charles Caskey>Mm.
+
+376
+00:18:37.170 --> 00:18:41.870
+<v Jean-François Aubry>And, and he noticed that each time cavitation was occurring in the brain, I
+
+377
+00:18:41.910 --> 00:18:43.270
+<v Jean-François Aubry>mean, there was very bad outcome.
+
+378
+00:18:43.690 --> 00:18:44.190
+<v Charles Caskey>Okay.
+
+379
+00:18:43.730 --> 00:18:47.770
+<v Jean-François Aubry>So his, his advice was-- He has just-- He, he only had one advice
+
+380
+00:18:48.150 --> 00:18:51.870
+<v Jean-François Aubry>for brain therapy. He just said, "No cavitation in the brain."
+
+381
+00:18:51.870 --> 00:18:52.430
+<v Jean-François Aubry>[laughs]
+
+382
+00:18:52.470 --> 00:18:52.970
+<v Keith Murphy>Yeah.
+
+383
+00:18:52.870 --> 00:18:56.150
+<v Charles Caskey>And, and good advice probably. The, um, the, yeah.
+
+384
+00:18:56.730 --> 00:19:01.550
+<v Charles Caskey>Uh, so th-this is getting, you know, uh, uh, like this is really some
+
+385
+00:19:01.590 --> 00:19:05.250
+<v Charles Caskey>of the, the work that I became most familiar with was occurring around this
+
+386
+00:19:05.290 --> 00:19:09.110
+<v Charles Caskey>time, where clearly you were talking to the, the pioneers at this.
+
+387
+00:19:09.550 --> 00:19:15.270
+<v Charles Caskey>I mean, when did you realize CT-based prediction and stu-stuff was gonna be something
+
+388
+00:19:15.330 --> 00:19:17.370
+<v Charles Caskey>that could, could help with this problem?
+
+389
+00:19:17.430 --> 00:19:20.630
+<v Charles Caskey>'Cause I guess from my understanding, it sounds like, I don't think there was
+
+390
+00:19:20.650 --> 00:19:24.610
+<v Charles Caskey>a lot of phasing and thinking about how do we, you know, how do
+
+391
+00:19:24.630 --> 00:19:26.490
+<v Charles Caskey>we not cause cavitation and stuff.
+
+392
+00:19:26.550 --> 00:19:28.370
+<v Charles Caskey>I feel like that's really where you came on the scene.
+
+393
+00:19:28.570 --> 00:19:31.550
+<v Charles Caskey>Um, did you-- When did, did, when did you realize CT was gonna be
+
+394
+00:19:31.620 --> 00:19:33.270
+<v Charles Caskey>a, a, a player in this game?
+
+395
+00:19:33.850 --> 00:19:37.550
+<v Jean-François Aubry>Um, so that was definitely not my idea.
+
+396
+00:19:37.670 --> 00:19:38.390
+<v Jean-François Aubry>[laughs]
+
+397
+00:19:38.450 --> 00:19:39.710
+<v Charles Caskey>Okay. Oh, it wasn't your idea.
+
+398
+00:19:39.770 --> 00:19:40.530
+<v Charles Caskey>You just became... Okay.
+
+399
+00:19:40.970 --> 00:19:41.470
+<v Keith Murphy>Yeah.
+
+400
+00:19:40.990 --> 00:19:42.930
+<v Jean-François Aubry>It, it was Mathias, Mathias Fink idea.
+
+401
+00:19:42.950 --> 00:19:43.790
+<v Keith Murphy>Yeah, he did great with it.
+
+402
+00:19:43.810 --> 00:19:44.310
+<v Charles Caskey>Oh, that's right.
+
+403
+00:19:44.190 --> 00:19:46.690
+<v Jean-François Aubry>So it was Mathias Fink idea, and, and when I was looking for a
+
+404
+00:19:46.730 --> 00:19:52.010
+<v Jean-François Aubry>PhD in 1999, uh, I came and I visited his, uh, his lab, and
+
+405
+00:19:52.070 --> 00:19:53.910
+<v Jean-François Aubry>he presented me with Mickael Tanter.
+
+406
+00:19:54.370 --> 00:19:59.450
+<v Jean-François Aubry>'Cause Mickael at that time was actually working on focusing ultrasound through the skull
+
+407
+00:20:00.150 --> 00:20:04.070
+<v Jean-François Aubry>and per- with a hydrophone, so doing time reversal on, on, on a, a
+
+408
+00:20:04.110 --> 00:20:10.050
+<v Jean-François Aubry>human skull. And, uh, and I just, uh, worked with, with Mickael at the
+
+409
+00:20:10.070 --> 00:20:12.830
+<v Jean-François Aubry>end of his PhD and started my, my PhD.
+
+410
+00:20:12.910 --> 00:20:18.490
+<v Jean-François Aubry>And, uh, what we proposed and what Mathias proposed was to use CT information
+
+411
+00:20:18.770 --> 00:20:24.830
+<v Jean-François Aubry>about the skull in order to be able to perform a good focusing, as
+
+412
+00:20:24.890 --> 00:20:27.250
+<v Jean-François Aubry>good as we had with a hydrophone implanted-
+
+413
+00:20:27.350 --> 00:20:27.850
+<v Charles Caskey>Mm-hmm
+
+414
+00:20:27.630 --> 00:20:29.270
+<v Jean-François Aubry>... but completely noninvasively.
+
+415
+00:20:29.790 --> 00:20:30.290
+<v Charles Caskey>Yep.
+
+416
+00:20:30.050 --> 00:20:35.810
+<v Jean-François Aubry>And, and so my only credit is that when, when he described the project,
+
+417
+00:20:35.910 --> 00:20:37.950
+<v Jean-François Aubry>I thought it was, it was a wonderful project.
+
+418
+00:20:38.190 --> 00:20:42.290
+<v Jean-François Aubry>I loved it. And, uh, and so I put my heart and soul into
+
+419
+00:20:42.330 --> 00:20:44.470
+<v Jean-François Aubry>the project and did my three years PhD.
+
+420
+00:20:45.110 --> 00:20:49.390
+<v Jean-François Aubry>And, and that's where we actually validated that we could have, I mean, a
+
+421
+00:20:49.430 --> 00:20:52.630
+<v Jean-François Aubry>very high precision refocusing based- Yeah ...
+
+422
+00:20:52.670 --> 00:20:58.210
+<v Jean-François Aubry>on CT data. And, and almost at the same time, and, you know, uh,
+
+423
+00:20:59.230 --> 00:21:03.710
+<v Jean-François Aubry>very often, um, a few people in the world have the same idea at
+
+424
+00:21:03.730 --> 00:21:04.350
+<v Jean-François Aubry>the same time.
+
+425
+00:21:04.930 --> 00:21:05.430
+<v Charles Caskey>Mm-hmm.
+
+426
+00:21:04.990 --> 00:21:10.090
+<v Jean-François Aubry>And, uh, and Kullervo Hynynen was also working on, uh, on, uh, on, on
+
+427
+00:21:10.490 --> 00:21:11.630
+<v Jean-François Aubry>transcranial focusing.
+
+428
+00:21:12.370 --> 00:21:12.870
+<v Charles Caskey>Mm-hmm.
+
+429
+00:21:12.610 --> 00:21:18.630
+<v Jean-François Aubry>Uh, and, uh, so when we used CT-based correction, so we patented
+
+430
+00:21:18.670 --> 00:21:25.010
+<v Jean-François Aubry>it. Uh, I think one month before we patented the, the use of CT
+
+431
+00:21:25.090 --> 00:21:31.330
+<v Jean-François Aubry>to compensate for the aberrations, Kullervo patented, uh, the use of, uh, MRI to
+
+432
+00:21:31.370 --> 00:21:33.610
+<v Jean-François Aubry>extract the thickness of the bone.
+
+433
+00:21:33.690 --> 00:21:34.190
+<v Charles Caskey>Mm. Mm-hmm.
+
+434
+00:21:33.830 --> 00:21:34.430
+<v Keith Murphy>Oh, interesting.
+
+435
+00:21:34.470 --> 00:21:36.090
+<v Jean-François Aubry>In order, yeah, to, to compensate.
+
+436
+00:21:36.210 --> 00:21:36.790
+<v Jean-François Aubry>And one month after-
+
+437
+00:21:36.810 --> 00:21:39.810
+<v Keith Murphy>So he assigned it a homogenous value and just looked at the length.
+
+438
+00:21:40.130 --> 00:21:41.390
+<v Jean-François Aubry>Exactly. Exactly.
+
+439
+00:21:41.510 --> 00:21:42.010
+<v Keith Murphy>Okay. Very cool.
+
+440
+00:21:42.150 --> 00:21:46.730
+<v Jean-François Aubry>And one month after we, we patented the, um, the use of, of CT,
+
+441
+00:21:46.890 --> 00:21:49.290
+<v Jean-François Aubry>Insightec also patented the use of CT.
+
+442
+00:21:49.310 --> 00:21:49.810
+<v Jean-François Aubry>[laughs]
+
+443
+00:21:50.130 --> 00:21:50.630
+<v Charles Caskey>Okay.
+
+444
+00:21:50.390 --> 00:21:52.050
+<v Jean-François Aubry>Uh, with a slightly different approach.
+
+445
+00:21:52.110 --> 00:21:55.330
+<v Jean-François Aubry>We were proposing finite element, um, simulations.
+
+446
+00:21:55.950 --> 00:21:56.450
+<v Charles Caskey>Yeah.
+
+447
+00:21:56.030 --> 00:21:59.710
+<v Jean-François Aubry>So those three patents almost were, were, were granted at the same time.
+
+448
+00:22:00.330 --> 00:22:04.510
+<v Jean-François Aubry>And, uh, and they were all about the same idea of, uh, of using
+
+449
+00:22:04.690 --> 00:22:07.870
+<v Jean-François Aubry>an image of the skull in order-
+
+450
+00:22:07.890 --> 00:22:08.390
+<v Charles Caskey>Yeah
+
+451
+00:22:07.950 --> 00:22:09.830
+<v Jean-François Aubry>... to deduce the acoustic properties.
+
+452
+00:22:10.510 --> 00:22:11.250
+<v Jean-François Aubry>Um, yeah.
+
+453
+00:22:11.350 --> 00:22:13.570
+<v Keith Murphy>It's really cool. It reminds me of CRISPR a little bit.
+
+454
+00:22:13.670 --> 00:22:17.810
+<v Keith Murphy>It's always like when great innovation comes, there's always like a convergence of usually
+
+455
+00:22:17.870 --> 00:22:19.670
+<v Keith Murphy>two to three teams at the same time.
+
+456
+00:22:20.130 --> 00:22:22.970
+<v Keith Murphy>And people argue, it's like, well, they all spent so much time with each
+
+457
+00:22:23.030 --> 00:22:28.870
+<v Keith Murphy>other at conferences, and not like quite competing scientifically, but in a way competing.
+
+458
+00:22:29.290 --> 00:22:29.790
+<v Charles Caskey>Yeah.
+
+459
+00:22:29.330 --> 00:22:31.270
+<v Keith Murphy>You kind of learn from each other and grow together.
+
+460
+00:22:31.810 --> 00:22:34.310
+<v Keith Murphy>That's-- I didn't know that was all in the same, like same period.
+
+461
+00:22:35.010 --> 00:22:37.830
+<v Charles Caskey>Well, so it was definitely in the same period, and that's, hearing JF, JF's
+
+462
+00:22:37.870 --> 00:22:41.410
+<v Charles Caskey>actually clarified some things for me because if you're, like for me, like finding
+
+463
+00:22:41.450 --> 00:22:45.440
+<v Charles Caskey>these papers in 2010 or something like that and looking back, I'm like, I'm
+
+464
+00:22:45.470 --> 00:22:47.770
+<v Charles Caskey>thinking like, "Were these people all like working together?"
+
+465
+00:22:48.210 --> 00:22:48.710
+<v Charles Caskey>But, uh-
+
+466
+00:22:48.670 --> 00:22:49.170
+<v Keith Murphy>Yeah. [laughs]
+
+467
+00:22:49.010 --> 00:22:50.110
+<v Charles Caskey>You know, and but they weren't.
+
+468
+00:22:50.150 --> 00:22:52.290
+<v Charles Caskey>They were totally separate. And I think this is-
+
+469
+00:22:52.290 --> 00:22:53.010
+<v Keith Murphy>They're friends. [laughs]
+
+470
+00:22:53.070 --> 00:22:56.910
+<v Charles Caskey>Yeah, yeah, yeah. Friend, yeah, colleagues and in the same, uh, same fields and
+
+471
+00:22:56.990 --> 00:23:00.970
+<v Charles Caskey>approaching the same problem. And I think this is something I observe across science,
+
+472
+00:23:01.050 --> 00:23:02.350
+<v Charles Caskey>but then even outside of science.
+
+473
+00:23:02.410 --> 00:23:06.250
+<v Charles Caskey>I saw this cool Brian Eno documentary once, and he talked about like how
+
+474
+00:23:06.330 --> 00:23:10.930
+<v Charles Caskey>ideas come from shared knowledge and scenes of people and groups of people as,
+
+475
+00:23:11.150 --> 00:23:13.610
+<v Charles Caskey>you know, as much. We attribute a lot to individuals.
+
+476
+00:23:13.790 --> 00:23:17.410
+<v Charles Caskey>Of course, the individuals that carry these things forward deserve the credit, but a
+
+477
+00:23:17.450 --> 00:23:19.930
+<v Charles Caskey>lot of times there were people doing transcranial ultrasound.
+
+478
+00:23:19.950 --> 00:23:22.170
+<v Charles Caskey>There were people, you know, we, we were, they were finding things out, and
+
+479
+00:23:22.430 --> 00:23:25.930
+<v Charles Caskey>eventually there's this group of puzzle pieces, and they only fit together in a
+
+480
+00:23:25.970 --> 00:23:29.690
+<v Charles Caskey>certain number of ways. We knew we needed some information about the skull, and
+
+481
+00:23:29.770 --> 00:23:32.930
+<v Charles Caskey>people were, were, uh, going, you know, at it in different directions.
+
+482
+00:23:32.990 --> 00:23:35.410
+<v Charles Caskey>But yeah, when I read these papers or when I read them initially, I
+
+483
+00:23:35.430 --> 00:23:38.050
+<v Charles Caskey>was like, I was like, "Oh, these guys must have all been working together."
+
+484
+00:23:38.050 --> 00:23:39.390
+<v Charles Caskey>[laughs] But, you know.
+
+485
+00:23:39.730 --> 00:23:40.230
+<v Jean-François Aubry>Yeah.
+
+486
+00:23:39.830 --> 00:23:42.510
+<v Charles Caskey>Because of how the solutions mirror each other.
+
+487
+00:23:42.530 --> 00:23:46.550
+<v Jean-François Aubry>Yeah, completely. But, uh, it, there's also a reason why this idea emerged at,
+
+488
+00:23:46.590 --> 00:23:53.490
+<v Jean-François Aubry>at this particular time. It's, it's because in, in the mid-'90s is when, uh,
+
+489
+00:23:53.650 --> 00:24:00.150
+<v Jean-François Aubry>I would say CT and MR images got better with
+
+490
+00:24:00.170 --> 00:24:04.090
+<v Jean-François Aubry>the millimetric resolution. And the millimetric resolution, when you think of it, is what
+
+491
+00:24:04.130 --> 00:24:04.730
+<v Jean-François Aubry>we needed-
+
+492
+00:24:04.850 --> 00:24:05.350
+<v Charles Caskey>Yeah
+
+493
+00:24:04.970 --> 00:24:10.090
+<v Jean-François Aubry>... in order, one, to be able to use it to guide the treatment,
+
+494
+00:24:10.270 --> 00:24:12.490
+<v Jean-François Aubry>to guide ultrasound, because we want to be precise.
+
+495
+00:24:12.910 --> 00:24:19.150
+<v Jean-François Aubry>And second, to get information that are sufficiently precise in order to get access
+
+496
+00:24:19.230 --> 00:24:20.930
+<v Jean-François Aubry>to the property of the bone.
+
+497
+00:24:21.630 --> 00:24:22.130
+<v Charles Caskey>Mm-hmm.
+
+498
+00:24:21.830 --> 00:24:25.890
+<v Jean-François Aubry>And so I would say in, in the '80s, uh, it would have been
+
+499
+00:24:25.930 --> 00:24:26.430
+<v Jean-François Aubry>impossible.
+
+500
+00:24:27.010 --> 00:24:27.510
+<v Charles Caskey>Yeah.
+
+501
+00:24:27.210 --> 00:24:30.610
+<v Jean-François Aubry>Mm-hmm. We would not be able to rely on, on, on, uh, MRI to,
+
+502
+00:24:30.810 --> 00:24:33.310
+<v Jean-François Aubry>to, uh, to guide the, the treatment with such a precision.
+
+503
+00:24:33.410 --> 00:24:38.350
+<v Jean-François Aubry>So that's, that's a reason. Uh, and And, and I think the reason also
+
+504
+00:24:38.510 --> 00:24:42.730
+<v Jean-François Aubry>why there were different groups had the same idea, but when you think of
+
+505
+00:24:42.770 --> 00:24:46.870
+<v Jean-François Aubry>it, I mean, Insightec was working with, with, with Kullervo Hynynen, so there were
+
+506
+00:24:46.910 --> 00:24:50.070
+<v Jean-François Aubry>only two teams in the world working in, in, in this field.
+
+507
+00:24:50.110 --> 00:24:56.310
+<v Jean-François Aubry>And, and so I think what was disruptive was not really using CT to,
+
+508
+00:24:56.530 --> 00:25:01.110
+<v Jean-François Aubry>to-- or, or MRI to non-invasively focus the ultrasound through the brain.
+
+509
+00:25:01.190 --> 00:25:02.770
+<v Jean-François Aubry>It was simply through the skull.
+
+510
+00:25:03.390 --> 00:25:07.850
+<v Jean-François Aubry>Just to believe that one day we could use ultrasound in the brain.
+
+511
+00:25:08.630 --> 00:25:09.130
+<v Keith Murphy>Yeah.
+
+512
+00:25:08.710 --> 00:25:12.950
+<v Jean-François Aubry>And back in 1999, I can tell you that very few people thought that
+
+513
+00:25:12.990 --> 00:25:16.670
+<v Jean-François Aubry>it was possible to actually deliver energy through the skull.
+
+514
+00:25:17.270 --> 00:25:20.910
+<v Jean-François Aubry>The, the first months when I started my PhD, I, I discussed with a
+
+515
+00:25:21.510 --> 00:25:26.730
+<v Jean-François Aubry>radiologist, uh, he told me, "Ah, man, I mean, uh, you know, this is
+
+516
+00:25:26.790 --> 00:25:29.150
+<v Jean-François Aubry>such a bad idea. I mean, you should change- [laughs]
+
+517
+00:25:29.190 --> 00:25:29.850
+<v Keith Murphy>Just don't do it
+
+518
+00:25:29.870 --> 00:25:34.090
+<v Jean-François Aubry>... to go someplace else or, or try to convince your, your PhD advisor
+
+519
+00:25:34.170 --> 00:25:36.870
+<v Jean-François Aubry>to change subject." I mean, when, when we used ultrasound-
+
+520
+00:25:36.870 --> 00:25:38.330
+<v Keith Murphy>Wow. Imagine he had pulled that off.
+
+521
+00:25:38.490 --> 00:25:38.990
+<v Keith Murphy>Where would we be?
+
+522
+00:25:38.710 --> 00:25:44.110
+<v Jean-François Aubry>Yeah, because the, the first thing we, we tell i-in, in, um, uh, in
+
+523
+00:25:44.150 --> 00:25:45.750
+<v Jean-François Aubry>medicine to, to students that-
+
+524
+00:25:45.890 --> 00:25:46.390
+<v Keith Murphy>Mm-hmm
+
+525
+00:25:46.070 --> 00:25:49.190
+<v Jean-François Aubry>... is that ultrasound do not go through bones.
+
+526
+00:25:49.910 --> 00:25:53.070
+<v Jean-François Aubry>It's valid for, for cardiac applications where you would go-
+
+527
+00:25:53.110 --> 00:25:53.610
+<v Keith Murphy>Yeah
+
+528
+00:25:53.150 --> 00:25:55.270
+<v Jean-François Aubry>... in between the, the, the ribs.
+
+529
+00:25:55.830 --> 00:25:58.630
+<v Jean-François Aubry>And, and when you try to image through the skull, you just don't see
+
+530
+00:25:58.710 --> 00:26:03.170
+<v Jean-François Aubry>anything. You should convince your advisor to, to work on another subject.
+
+531
+00:26:03.250 --> 00:26:09.250
+<v Jean-François Aubry>For example, abdominal applications for obese patients, we have very poor image quality, but
+
+532
+00:26:09.270 --> 00:26:09.770
+<v Jean-François Aubry>at least-
+
+533
+00:26:09.810 --> 00:26:10.310
+<v Keith Murphy>Uh-huh
+
+534
+00:26:09.830 --> 00:26:12.990
+<v Jean-François Aubry>... we got an image. Uh, through the skull, we just got nothing, so
+
+535
+00:26:13.030 --> 00:26:17.330
+<v Jean-François Aubry>it's just ultrasound. You should know that ultrasound do not go through the skull,
+
+536
+00:26:17.410 --> 00:26:20.810
+<v Jean-François Aubry>so it, it, it's impossible. And, um-
+
+537
+00:26:21.310 --> 00:26:21.810
+<v Keith Murphy>Yeah
+
+538
+00:26:21.470 --> 00:26:25.690
+<v Jean-François Aubry>... it, it's true. But it's important to tell the difference between what is
+
+539
+00:26:26.350 --> 00:26:28.930
+<v Jean-François Aubry>impossible and what is difficult to do.
+
+540
+00:26:29.110 --> 00:26:30.010
+<v Keith Murphy>Yeah. Yeah. Right.
+
+541
+00:26:30.050 --> 00:26:34.310
+<v Jean-François Aubry>So it is definitely difficult to go through the skull, but it's not impossible,
+
+542
+00:26:34.410 --> 00:26:39.330
+<v Jean-François Aubry>and it's very easy to demonstrate with if you put a transducer on one
+
+543
+00:26:39.450 --> 00:26:43.710
+<v Jean-François Aubry>side of the skull and a receiver on the other side, then you receive
+
+544
+00:26:43.830 --> 00:26:45.590
+<v Jean-François Aubry>a signal. It's weaker- Mm-hmm ...
+
+545
+00:26:45.610 --> 00:26:50.730
+<v Jean-François Aubry>but it's not noise. The, the same frequency, the same shape, so you know
+
+546
+00:26:50.930 --> 00:26:52.890
+<v Jean-François Aubry>this is the same signal. There is something.
+
+547
+00:26:53.330 --> 00:26:53.830
+<v Jean-François Aubry>It's been-
+
+548
+00:26:53.750 --> 00:26:54.250
+<v Keith Murphy>Yeah, yeah
+
+549
+00:26:53.810 --> 00:26:58.750
+<v Jean-François Aubry>... attenuated, and when you look at the, the focal spot, there is something
+
+550
+00:26:58.810 --> 00:27:03.310
+<v Jean-François Aubry>you can measure. It's shifted away, it's distorted, but there's something.
+
+551
+00:27:03.370 --> 00:27:05.530
+<v Jean-François Aubry>So it means that you have signals.
+
+552
+00:27:05.630 --> 00:27:09.250
+<v Jean-François Aubry>Mm-hmm. You need to work with those signals in order to improve the focusing.
+
+553
+00:27:09.650 --> 00:27:10.150
+<v Keith Murphy>Yeah.
+
+554
+00:27:09.670 --> 00:27:11.610
+<v Jean-François Aubry>So it's definitely not possible, impossible.
+
+555
+00:27:12.130 --> 00:27:13.910
+<v Jean-François Aubry>But I admit it's not easy.
+
+556
+00:27:13.910 --> 00:27:14.450
+<v Jean-François Aubry>[laughs]
+
+557
+00:27:14.550 --> 00:27:15.050
+<v Keith Murphy>Yeah.
+
+558
+00:27:15.890 --> 00:27:20.210
+<v Charles Caskey>Two things related to this. One is I think there's also a less appreciated,
+
+559
+00:27:20.270 --> 00:27:24.070
+<v Charles Caskey>less cited paper by you around this time where you did transmit through the
+
+560
+00:27:24.110 --> 00:27:26.450
+<v Charles Caskey>skull, and you have-- and received on the other side.
+
+561
+00:27:26.470 --> 00:27:26.970
+<v Jean-François Aubry>Yes.
+
+562
+00:27:26.510 --> 00:27:28.890
+<v Charles Caskey>That one's-- I don't think as many people know about that, so I'm telling
+
+563
+00:27:28.910 --> 00:27:30.110
+<v Charles Caskey>the readers to, to view it.
+
+564
+00:27:30.470 --> 00:27:30.970
+<v Charles Caskey>And I will say-
+
+565
+00:27:30.890 --> 00:27:34.050
+<v Keith Murphy>But was the bilateral temporal array, JF, you were the first one to do
+
+566
+00:27:34.090 --> 00:27:34.590
+<v Keith Murphy>it.
+
+567
+00:27:34.310 --> 00:27:35.390
+<v Charles Caskey>He was the first. Yeah, yeah.
+
+568
+00:27:35.470 --> 00:27:35.970
+<v Charles Caskey>That I remember.
+
+569
+00:27:35.910 --> 00:27:36.410
+<v Jean-François Aubry>You, you were number one.
+
+570
+00:27:36.610 --> 00:27:37.130
+<v Keith Murphy>Yeah, yeah. I-
+
+571
+00:27:37.490 --> 00:27:37.990
+<v Jean-François Aubry>Yeah.
+
+572
+00:27:37.550 --> 00:27:39.170
+<v Charles Caskey>Yeah. So I think it's, it's true.
+
+573
+00:27:39.270 --> 00:27:41.730
+<v Charles Caskey>And then the other is there's still people out there that doubt this.
+
+574
+00:27:41.790 --> 00:27:45.070
+<v Charles Caskey>I had a student from the lab, uh, she was at an event a
+
+575
+00:27:45.110 --> 00:27:47.910
+<v Charles Caskey>couple of weeks ago, and somebody came up and, and was talking to her,
+
+576
+00:27:48.010 --> 00:27:49.250
+<v Charles Caskey>and they, they said the same thing.
+
+577
+00:27:49.450 --> 00:27:52.010
+<v Charles Caskey>Like, she was like, "We do transcranial ultrasound."
+
+578
+00:27:52.130 --> 00:27:54.590
+<v Charles Caskey>And the, the guy, I think he had a background in the maybe like
+
+579
+00:27:54.770 --> 00:27:58.330
+<v Charles Caskey>physical therapy of, uh, using ultrasound, he's like, "You need to change your project."
+
+580
+00:27:58.370 --> 00:28:00.010
+<v Charles Caskey>He's like, "This is, doesn't work at all."
+
+581
+00:28:00.070 --> 00:28:04.950
+<v Charles Caskey>[laughs] I think by now, though, she was like, she was like, "No, we
+
+582
+00:28:04.990 --> 00:28:06.750
+<v Charles Caskey>know it works. Please stop talking to me."
+
+583
+00:28:06.890 --> 00:28:08.810
+<v Charles Caskey>[laughs]
+
+584
+00:28:08.850 --> 00:28:09.410
+<v Jean-François Aubry>That's cool.
+
+585
+00:28:10.110 --> 00:28:11.530
+<v Keith Murphy>But- I think times have changed.
+
+586
+00:28:11.850 --> 00:28:14.950
+<v Charles Caskey>They've changed. Yeah, yeah. No, you know, 20, 20, a little over 20 years,
+
+587
+00:28:15.010 --> 00:28:18.010
+<v Charles Caskey>we're, we're moving forward, but there's, they're still out there, you know, with this,
+
+588
+00:28:18.170 --> 00:28:20.850
+<v Charles Caskey>this kind of like dogmatic thinking like, "This cannot work."
+
+589
+00:28:20.930 --> 00:28:22.470
+<v Charles Caskey>But, uh, uh, we know otherwise.
+
+590
+00:28:22.470 --> 00:28:24.830
+<v Keith Murphy>JF, did you tell that, did you tell that guy in this moment when
+
+591
+00:28:24.850 --> 00:28:27.770
+<v Keith Murphy>he was like, "Don't do it," were you like, "Watch this," and you-- or
+
+592
+00:28:27.850 --> 00:28:30.170
+<v Keith Murphy>you showed him the data that you could transmit across?
+
+593
+00:28:30.170 --> 00:28:31.710
+<v Keith Murphy>'Cause it's irrefutable at that point.
+
+594
+00:28:31.710 --> 00:28:32.210
+<v Keith Murphy>It's data.
+
+595
+00:28:32.030 --> 00:28:36.730
+<v Jean-François Aubry>Well, the, the worst part of this story is, is that it was during
+
+596
+00:28:36.750 --> 00:28:40.430
+<v Jean-François Aubry>the first months of my PhD, so I did not even get a chance
+
+597
+00:28:40.650 --> 00:28:42.850
+<v Jean-François Aubry>to measure signals yet.
+
+598
+00:28:43.310 --> 00:28:43.810
+<v Keith Murphy>Hmm.
+
+599
+00:28:43.330 --> 00:28:46.870
+<v Jean-François Aubry>So I just didn't know. At that time, I was kind of just, uh,
+
+600
+00:28:47.250 --> 00:28:52.470
+<v Jean-François Aubry>trusting Mathias Fink and, and Mickael, who told me, well, that they already did
+
+601
+00:28:52.530 --> 00:28:55.690
+<v Jean-François Aubry>it, and that they at least with a hydrophone in it, they, they could.
+
+602
+00:28:55.750 --> 00:29:00.210
+<v Jean-François Aubry>So I, uh, I, I was kind of, uh, anxious to do the measurements
+
+603
+00:29:00.250 --> 00:29:02.090
+<v Jean-François Aubry>and see if there was something.
+
+604
+00:29:02.090 --> 00:29:04.730
+<v Jean-François Aubry>[laughs] I just didn't know. But I wanted to give it a try.
+
+605
+00:29:04.830 --> 00:29:08.350
+<v Jean-François Aubry>I definitely wanted to give it a try, and I, I liked it anyway.
+
+606
+00:29:08.510 --> 00:29:11.310
+<v Jean-François Aubry>You know, it's, it's important in, um...
+
+607
+00:29:12.130 --> 00:29:18.030
+<v Jean-François Aubry>I mean, sometimes I'm asked what, which advice to give to a, a PhD
+
+608
+00:29:18.110 --> 00:29:18.610
+<v Jean-François Aubry>student.
+
+609
+00:29:19.750 --> 00:29:20.250
+<v Keith Murphy>Yeah.
+
+610
+00:29:19.890 --> 00:29:24.950
+<v Jean-François Aubry>And, and I would, I would say that, um, uh, it's, it's important to
+
+611
+00:29:25.030 --> 00:29:26.490
+<v Jean-François Aubry>trust your mentor.
+
+612
+00:29:27.530 --> 00:29:28.030
+<v Keith Murphy>Mm-hmm.
+
+613
+00:29:27.770 --> 00:29:32.810
+<v Jean-François Aubry>Uh, because I mean, they, they know the subject, and they know what is
+
+614
+00:29:32.850 --> 00:29:37.790
+<v Jean-François Aubry>possible and what is not. And the second advice is to very carefully choose
+
+615
+00:29:37.850 --> 00:29:39.210
+<v Jean-François Aubry>your mentor and choose a good one.
+
+616
+00:29:39.230 --> 00:29:40.330
+<v Jean-François Aubry>[laughs] [laughs]
+
+617
+00:29:40.410 --> 00:29:43.050
+<v Keith Murphy>Okay. That makes sense.
+
+618
+00:29:43.090 --> 00:29:44.170
+<v Charles Caskey>100% though. Yeah.
+
+619
+00:29:44.190 --> 00:29:45.770
+<v Keith Murphy>I was like, "Wait a minute," and then that twist.
+
+620
+00:29:45.770 --> 00:29:46.330
+<v Keith Murphy>[laughs]
+
+621
+00:29:46.370 --> 00:29:47.990
+<v Charles Caskey>Yeah, yeah. Like you need-- Yeah, yeah.
+
+622
+00:29:48.050 --> 00:29:50.870
+<v Charles Caskey>You need to g- find, find somebody that can steer you with, and then,
+
+623
+00:29:51.050 --> 00:29:52.690
+<v Charles Caskey>and then trust it, and then make your measurements.
+
+624
+00:29:52.750 --> 00:29:54.110
+<v Charles Caskey>You know, make your... Yeah. That's, uh, the-
+
+625
+00:29:54.210 --> 00:29:54.730
+<v Keith Murphy>Well said.
+
+626
+00:29:55.450 --> 00:29:55.950
+<v Jean-François Aubry>Yeah.
+
+627
+00:29:55.510 --> 00:29:58.930
+<v Keith Murphy>JF, when you started that, were-- I, I know you have a very close
+
+628
+00:29:59.010 --> 00:30:02.910
+<v Keith Murphy>connection to, to mental health and, and, you know, as many people do.
+
+629
+00:30:03.370 --> 00:30:07.210
+<v Keith Murphy>Did you always know that you were building tools so you could eventually, you
+
+630
+00:30:07.250 --> 00:30:10.250
+<v Keith Murphy>know, fly the rocket ship, so you could eventually intervene in the brain?
+
+631
+00:30:10.290 --> 00:30:14.950
+<v Keith Murphy>Because it was many years later until you started doing monkeys with the whole
+
+632
+00:30:14.990 --> 00:30:18.410
+<v Keith Murphy>team at Oxford. Like, you were their, their starting point, right?
+
+633
+00:30:18.490 --> 00:30:19.410
+<v Keith Murphy>They, they spoke with you.
+
+634
+00:30:19.450 --> 00:30:19.950
+<v Jean-François Aubry>Yes.
+
+635
+00:30:19.510 --> 00:30:22.790
+<v Keith Murphy>How did that story unfold? Can you, can you tell the listeners about that?
+
+636
+00:30:23.290 --> 00:30:24.870
+<v Jean-François Aubry>It's, [clears throat] it, it's been a-
+
+637
+00:30:24.890 --> 00:30:25.770
+<v Keith Murphy>It's a long story, I know.
+
+638
+00:30:25.850 --> 00:30:32.070
+<v Jean-François Aubry>Yeah. Long story. Long story. Uh, to be honest, at the very beginning, I,
+
+639
+00:30:32.710 --> 00:30:38.840
+<v Jean-François Aubry>I enjoyed the challenge of focusing waves through the skull, uh,
+
+640
+00:30:39.000 --> 00:30:45.260
+<v Jean-François Aubry>proving the, the feasibility. Um, but, uh, it was more to me,
+
+641
+00:30:45.720 --> 00:30:48.500
+<v Jean-François Aubry>uh, working with the physics of ultrasound.
+
+642
+00:30:49.280 --> 00:30:49.780
+<v Charles Caskey>Mm.
+
+643
+00:30:49.400 --> 00:30:56.100
+<v Jean-François Aubry>With waves in complex media. Um, even the, the, the twin arrays
+
+644
+00:30:56.220 --> 00:30:57.900
+<v Jean-François Aubry>on each side of the, of the head.
+
+645
+00:30:58.260 --> 00:31:02.240
+<v Jean-François Aubry>If you look at the paper, we were recording the, uh, the transfer matrix
+
+646
+00:31:03.000 --> 00:31:08.720
+<v Jean-François Aubry>and, and we did-- I did a lot of mathematical work for almost 10
+
+647
+00:31:08.760 --> 00:31:10.220
+<v Jean-François Aubry>years. Um-
+
+648
+00:31:10.260 --> 00:31:10.760
+<v Charles Caskey>Mm.
+
+649
+00:31:10.600 --> 00:31:15.340
+<v Jean-François Aubry>Playing with matrices, reflection matrices, transmission, uh, matrices.
+
+650
+00:31:16.060 --> 00:31:19.040
+<v Jean-François Aubry>Uh, and, and, and we were having fun doing so.
+
+651
+00:31:19.120 --> 00:31:19.620
+<v Charles Caskey>Mm.
+
+652
+00:31:19.900 --> 00:31:23.660
+<v Jean-François Aubry>And, and in a sense, advancing the, the field and with a better comprehension
+
+653
+00:31:23.720 --> 00:31:28.760
+<v Jean-François Aubry>of, of this. But the, the clinical applications seem very far away.
+
+654
+00:31:29.400 --> 00:31:35.020
+<v Jean-François Aubry>Uh, at, at some point, um, we, we collaborated with a SuperSonic Imagine.
+
+655
+00:31:35.260 --> 00:31:40.240
+<v Jean-François Aubry>Was interested in, in, uh, in, in building a device to perform brain ablation.
+
+656
+00:31:40.320 --> 00:31:45.880
+<v Jean-François Aubry>So suddenly, that was in 20, uh, eight or nine.
+
+657
+00:31:46.520 --> 00:31:48.240
+<v Jean-François Aubry>So it became quite serious.
+
+658
+00:31:48.820 --> 00:31:49.320
+<v Charles Caskey>Mm.
+
+659
+00:31:48.960 --> 00:31:54.920
+<v Jean-François Aubry>And, and I realized that with good engineers, yeah, actually we can go all
+
+660
+00:31:54.980 --> 00:31:58.340
+<v Jean-François Aubry>the way and build a clinical device.
+
+661
+00:31:58.480 --> 00:32:00.500
+<v Jean-François Aubry>Due to investment, it didn't go through.
+
+662
+00:32:01.180 --> 00:32:04.640
+<v Jean-François Aubry>Uh, but I, I continued to work on, uh, on this and, and in
+
+663
+00:32:04.740 --> 00:32:09.840
+<v Jean-François Aubry>parallel, uh, thermal ablation, BBB opening, and neuromodulation.
+
+664
+00:32:10.700 --> 00:32:11.200
+<v Charles Caskey>Yeah.
+
+665
+00:32:11.220 --> 00:32:15.440
+<v Jean-François Aubry>Uh, neuromodulation mostly, I mean, uh, following the, the, the, the work of, uh,
+
+666
+00:32:15.600 --> 00:32:17.000
+<v Jean-François Aubry>Jamie Tyler is-
+
+667
+00:32:17.100 --> 00:32:17.600
+<v Charles Caskey>Mm.
+
+668
+00:32:17.180 --> 00:32:22.060
+<v Jean-François Aubry>When I, I, I, I became interested in, in, in the field of neuromodulation.
+
+669
+00:32:22.900 --> 00:32:28.420
+<v Jean-François Aubry>Um, and you might know that I, I started experiment that I wanted to
+
+670
+00:32:29.300 --> 00:32:35.500
+<v Jean-François Aubry>somehow show that, that, that, uh, um, what, what, uh,
+
+671
+00:32:36.260 --> 00:32:38.340
+<v Jean-François Aubry>Jamie Tyler showed was, was not real.
+
+672
+00:32:38.600 --> 00:32:40.340
+<v Jean-François Aubry>To me, it, it [laughing] was impossible.
+
+673
+00:32:40.820 --> 00:32:44.060
+<v Jean-François Aubry>It-- Yeah. I did not believe in it, and we did not believe it-
+
+674
+00:32:44.120 --> 00:32:44.620
+<v Charles Caskey>I like this.
+
+675
+00:32:44.780 --> 00:32:49.620
+<v Jean-François Aubry>Because the, the acoustical power was too low to induce something.
+
+676
+00:32:49.880 --> 00:32:50.380
+<v Jean-François Aubry>And it-
+
+677
+00:32:50.220 --> 00:32:50.720
+<v Charles Caskey>Yes, it was.
+
+678
+00:32:50.640 --> 00:32:55.220
+<v Jean-François Aubry>That's just not possible. It's, uh, you know, the, the paper in Neuron 2010,
+
+679
+00:32:55.860 --> 00:33:00.300
+<v Jean-François Aubry>when they, they-- the more they decrease the, the intensity, and the more they
+
+680
+00:33:00.340 --> 00:33:02.480
+<v Jean-François Aubry>decrease the frequency, the higher the effect.
+
+681
+00:33:03.240 --> 00:33:04.760
+<v Jean-François Aubry>And, and, and it was not ending.
+
+682
+00:33:04.800 --> 00:33:06.140
+<v Jean-François Aubry>At, at some point it did not stop.
+
+683
+00:33:06.180 --> 00:33:09.980
+<v Jean-François Aubry>So if you go al-almost all the way to zero, the, the effect is
+
+684
+00:33:10.020 --> 00:33:15.660
+<v Jean-François Aubry>increasing. So, so we, we, we did the experiment on, uh, on rodents, and
+
+685
+00:33:15.700 --> 00:33:19.600
+<v Jean-François Aubry>that was our first paper where we were managed to-- When we saw the
+
+686
+00:33:19.660 --> 00:33:22.520
+<v Jean-François Aubry>first time the tail of the animal moving, we said, "What?
+
+687
+00:33:22.840 --> 00:33:27.280
+<v Jean-François Aubry>Okay. There is something." And it was very convincing.
+
+688
+00:33:27.360 --> 00:33:32.180
+<v Jean-François Aubry>We could-- I mean, what-- I mean, a few whiskers moving, uh, sometimes the
+
+689
+00:33:32.220 --> 00:33:35.880
+<v Jean-François Aubry>paw of the animal moving, and this, this was clearly real.
+
+690
+00:33:36.540 --> 00:33:38.640
+<v Jean-François Aubry>Uh, and this was very impressive.
+
+691
+00:33:39.240 --> 00:33:40.740
+<v Jean-François Aubry>Uh, but, but we saw a threshold.
+
+692
+00:33:40.860 --> 00:33:43.660
+<v Jean-François Aubry>There was a threshold. Uh, when we decreased the power, we did not see
+
+693
+00:33:43.700 --> 00:33:48.140
+<v Jean-François Aubry>anything. Which, which makes sense. And this is when I realized that, okay, this
+
+694
+00:33:48.240 --> 00:33:54.640
+<v Jean-François Aubry>is new, at least to me, that, that we can actually modulate brain
+
+695
+00:33:54.680 --> 00:33:58.840
+<v Jean-François Aubry>activity. And, and I, and I noticed this is where maybe we can have
+
+696
+00:33:58.880 --> 00:34:01.020
+<v Jean-François Aubry>a real impact- Yeah ... in the future.
+
+697
+00:34:01.620 --> 00:34:02.120
+<v Charles Caskey>Mm-hmm.
+
+698
+00:34:01.740 --> 00:34:06.680
+<v Jean-François Aubry>And, and especially in psychiatry, where there is a need for deep brain stimulation
+
+699
+00:34:07.380 --> 00:34:13.460
+<v Jean-François Aubry>noninvasively for, for treatment-resistant depression. And, and I say, okay, this is
+
+700
+00:34:13.920 --> 00:34:18.860
+<v Jean-François Aubry>low power. We know how to focus the beam precisely in, in the brain,
+
+701
+00:34:19.680 --> 00:34:24.040
+<v Jean-François Aubry>and we, we should be able to, to fully validate this and go all
+
+702
+00:34:24.120 --> 00:34:29.900
+<v Jean-François Aubry>the way to, to a device that, that can actually be of significant use
+
+703
+00:34:30.440 --> 00:34:32.080
+<v Jean-François Aubry>to psychiatrists and, and to patients.
+
+704
+00:34:32.900 --> 00:34:36.020
+<v Jean-François Aubry>Uh, and, and, and it's, uh, I would say it's, it's much easier to
+
+705
+00:34:36.500 --> 00:34:40.120
+<v Jean-François Aubry>put in place than ablation 'cause you need so much-
+
+706
+00:34:40.200 --> 00:34:40.700
+<v Charles Caskey>Mm-hmm.
+
+707
+00:34:40.360 --> 00:34:46.780
+<v Jean-François Aubry>Power to distribute. And, uh, and when we, we were working on, uh, ways
+
+708
+00:34:46.880 --> 00:34:51.860
+<v Jean-François Aubry>to focus ultrasound to the brain, and we were using more and more transducers.
+
+709
+00:34:52.340 --> 00:34:55.920
+<v Jean-François Aubry>We started with one hundred and then three hundred and five hundred.
+
+710
+00:34:56.220 --> 00:34:57.980
+<v Jean-François Aubry>Insightec was using one thousand.
+
+711
+00:34:58.780 --> 00:34:59.280
+<v Charles Caskey>Mm-hmm.
+
+712
+00:34:59.020 --> 00:35:02.720
+<v Jean-François Aubry>And, and, and this is, uh, we, we bought a couple of, uh, 3D
+
+713
+00:35:02.760 --> 00:35:06.000
+<v Jean-François Aubry>printing machines in the lab for completely different projects.
+
+714
+00:35:06.540 --> 00:35:11.500
+<v Jean-François Aubry>And that's when we realized, like, well, we, we are assembling a lot of
+
+715
+00:35:11.560 --> 00:35:17.600
+<v Jean-François Aubry>elements to adjust the phase, but we could just 3D print phase screens and,
+
+716
+00:35:17.700 --> 00:35:18.200
+<v Jean-François Aubry>uh-
+
+717
+00:35:18.060 --> 00:35:18.560
+<v Charles Caskey>Mm. Yeah
+
+718
+00:35:18.300 --> 00:35:20.640
+<v Jean-François Aubry>... objects that, that would have a varying thickness.
+
+719
+00:35:20.680 --> 00:35:25.620
+<v Jean-François Aubry>And that's when we, we thought about a lens, an acoustic lens with a
+
+720
+00:35:25.660 --> 00:35:31.920
+<v Jean-François Aubry>varying- Mm-hmm ... thickness that is perfectly manufactured to counterbalance the, the impact
+
+721
+00:35:31.960 --> 00:35:35.440
+<v Jean-François Aubry>of the skull. And to me, that was, that was it.
+
+722
+00:35:35.540 --> 00:35:40.980
+<v Jean-François Aubry>That was the, the, the ideal way to build a, um, a, a device
+
+723
+00:35:41.020 --> 00:35:42.780
+<v Jean-François Aubry>that is very simple to use.
+
+724
+00:35:42.820 --> 00:35:43.320
+<v Charles Caskey>Mm-hmm.
+
+725
+00:35:43.400 --> 00:35:46.420
+<v Jean-François Aubry>That can be easily operated because you just have one, one channel.
+
+726
+00:35:46.860 --> 00:35:47.360
+<v Charles Caskey>Yeah.
+
+727
+00:35:46.880 --> 00:35:48.860
+<v Jean-François Aubry>So it's just on, on and off.
+
+728
+00:35:49.520 --> 00:35:52.440
+<v Jean-François Aubry>And there is absolutely no compromise on, on the precision.
+
+729
+00:35:53.100 --> 00:35:53.600
+<v Jean-François Aubry>Um-
+
+730
+00:35:53.140 --> 00:35:55.400
+<v Charles Caskey>It might even be better in some cases, I would guess.
+
+731
+00:35:55.540 --> 00:35:57.360
+<v Charles Caskey>Like, 'cause you just have so much phase control.
+
+732
+00:35:57.860 --> 00:35:59.740
+<v Charles Caskey>It's better than a lot of cases at least, you know?
+
+733
+00:35:59.800 --> 00:36:03.900
+<v Jean-François Aubry>It is. Uh, typically, it's, it, it is more-- I mean, we-- if you
+
+734
+00:36:04.220 --> 00:36:07.820
+<v Jean-François Aubry>think of it, the, the resolution of the printer is, is less than a
+
+735
+00:36:08.160 --> 00:36:08.660
+<v Jean-François Aubry>millimeter.
+
+736
+00:36:09.160 --> 00:36:09.660
+<v Charles Caskey>Mm-hmm.
+
+737
+00:36:09.360 --> 00:36:15.300
+<v Jean-François Aubry>And so on over a, a, a one, a ten-centimeter diameter lens, it's more
+
+738
+00:36:15.600 --> 00:36:21.980
+<v Jean-François Aubry>sim-- Uh, it, it is actually similar to a ten What, to 100,000 transducers
+
+739
+00:36:22.120 --> 00:36:24.360
+<v Charles Caskey>I think-- I didn't know it was gonna be that many orders of magnitude,
+
+740
+00:36:24.440 --> 00:36:25.820
+<v Charles Caskey>but yeah. It's, I knew it was-
+
+741
+00:36:26.040 --> 00:36:26.540
+<v Jean-François Aubry>Wow.
+
+742
+00:36:26.160 --> 00:36:27.720
+<v Charles Caskey>There's a lot of phase control there.
+
+743
+00:36:28.220 --> 00:36:28.720
+<v Jean-François Aubry>Yeah.
+
+744
+00:36:28.480 --> 00:36:32.560
+<v Charles Caskey>So the, I love the story of you transitioning from a physicist and then
+
+745
+00:36:32.640 --> 00:36:36.360
+<v Charles Caskey>seeing the idea of medical products in one sense, and then the possibility of,
+
+746
+00:36:36.900 --> 00:36:40.860
+<v Charles Caskey>of Neuromod. And then kind of these things coalesced as in the lens idea
+
+747
+00:36:40.900 --> 00:36:43.300
+<v Charles Caskey>in a way of, of like how do you do this practically?
+
+748
+00:36:43.740 --> 00:36:47.520
+<v Charles Caskey>And I guess, um, uh, just for the people at home, um, can you
+
+749
+00:36:47.540 --> 00:36:51.220
+<v Charles Caskey>explain the real- the differences between a, a le- like what is a lens
+
+750
+00:36:51.300 --> 00:36:54.900
+<v Charles Caskey>versus... So we've talked about there's thousands of elements in one case, but then
+
+751
+00:36:54.960 --> 00:36:56.500
+<v Charles Caskey>in this other it's like just a lens.
+
+752
+00:36:56.560 --> 00:37:01.000
+<v Charles Caskey>Can you just, uh, briefly as an educational segment tell the differences between those?
+
+753
+00:37:01.660 --> 00:37:07.820
+<v Jean-François Aubry>Sure. Um, so, uh, when, when you, you want to, to,
+
+754
+00:37:07.940 --> 00:37:10.260
+<v Jean-François Aubry>uh, compensate the effect of the, of the skull.
+
+755
+00:37:10.320 --> 00:37:12.680
+<v Jean-François Aubry>So let, let's maybe start with the effect of the skull.
+
+756
+00:37:13.100 --> 00:37:19.200
+<v Jean-François Aubry>So the skull bone has a varying thickness, basically that's the main effect, and
+
+757
+00:37:19.260 --> 00:37:23.460
+<v Jean-François Aubry>the speed of sound in the bone is twice higher than in tissues.
+
+758
+00:37:24.200 --> 00:37:29.420
+<v Jean-François Aubry>So that actually the ultrasound beams are accelerated when they go through the skull
+
+759
+00:37:30.260 --> 00:37:33.860
+<v Jean-François Aubry>and, and they are more or less accelerated depending on the area of the
+
+760
+00:37:33.920 --> 00:37:39.700
+<v Jean-François Aubry>skull they, they're going through. So in order to spherically focus at one given
+
+761
+00:37:39.740 --> 00:37:42.260
+<v Jean-François Aubry>location, it's going to be distorted by the skull.
+
+762
+00:37:43.060 --> 00:37:48.980
+<v Jean-François Aubry>In order to compensate that, we need to somehow prepare the ultrasound beam and,
+
+763
+00:37:49.080 --> 00:37:53.200
+<v Jean-François Aubry>and we know that there will be, uh, that the beam will be accelerated
+
+764
+00:37:53.460 --> 00:37:58.920
+<v Jean-François Aubry>by the skull, so we somehow need to slow it down before it enters
+
+765
+00:37:58.960 --> 00:37:59.460
+<v Jean-François Aubry>the skull.
+
+766
+00:37:59.660 --> 00:38:00.160
+<v Charles Caskey>Mm-hmm.
+
+767
+00:37:59.680 --> 00:38:03.480
+<v Jean-François Aubry>And in order to, to add some time shifts, there are two ways to
+
+768
+00:38:03.520 --> 00:38:09.260
+<v Jean-François Aubry>do it. You can either populate a, a, a large number of, of transducers,
+
+769
+00:38:09.720 --> 00:38:13.740
+<v Jean-François Aubry>and in that case you use the electronics and you determine the timing on
+
+770
+00:38:13.780 --> 00:38:17.500
+<v Jean-François Aubry>each transducer in order to compensate the effect of the skull.
+
+771
+00:38:18.040 --> 00:38:21.160
+<v Jean-François Aubry>And the other way to do it is to use a single element.
+
+772
+00:38:21.500 --> 00:38:24.260
+<v Jean-François Aubry>So in that case, all the wave is, is emitted at the same time.
+
+773
+00:38:24.920 --> 00:38:25.420
+<v Charles Caskey>Mm-hmm.
+
+774
+00:38:25.000 --> 00:38:31.300
+<v Jean-François Aubry>But you put in front of the transducer an acoustic lens, which is basically
+
+775
+00:38:31.440 --> 00:38:36.760
+<v Jean-François Aubry>silicone material, where you calculate exactly the, the thickness of the lens.
+
+776
+00:38:37.280 --> 00:38:42.840
+<v Jean-François Aubry>The speed of sound within the, uh, the material is less, um, than in
+
+777
+00:38:42.900 --> 00:38:46.580
+<v Jean-François Aubry>water, so it means that it will slow it down, and you need to
+
+778
+00:38:46.700 --> 00:38:51.040
+<v Jean-François Aubry>slow it down exactly the same amount corresponding to the opposite of the effect
+
+779
+00:38:51.080 --> 00:38:55.220
+<v Jean-François Aubry>of the skull. So that's the o- other way to, uh, to compensate the
+
+780
+00:38:55.260 --> 00:38:59.640
+<v Jean-François Aubry>effect. It's, it's as efficient, uh, but to me, I think it's, it's easier
+
+781
+00:38:59.720 --> 00:39:01.160
+<v Jean-François Aubry>to, to use in, in practice.
+
+782
+00:39:01.860 --> 00:39:04.260
+<v Charles Caskey>Mm-hmm. And because there's gotta be a cost trade-off there.
+
+783
+00:39:04.460 --> 00:39:08.880
+<v Charles Caskey>Usually when I'm shopping for transmitters, um, the, the number that I can transmit-
+
+784
+00:39:08.880 --> 00:39:09.380
+<v Jean-François Aubry>Pretty often. [laughs]
+
+785
+00:39:09.320 --> 00:39:12.100
+<v Charles Caskey>... on is usually scales with the price pretty heavily.
+
+786
+00:39:12.240 --> 00:39:14.360
+<v Charles Caskey>So that sounds like quite the, quite a- Yeah ...
+
+787
+00:39:14.400 --> 00:39:15.780
+<v Charles Caskey>quite a win on the cost trade-off.
+
+788
+00:39:15.860 --> 00:39:16.360
+<v Charles Caskey>[chuckles]
+
+789
+00:39:16.240 --> 00:39:19.260
+<v Jean-François Aubry>It is definitely a win on the cost, not only on the transducers, but
+
+790
+00:39:19.340 --> 00:39:20.400
+<v Jean-François Aubry>also on the electronics.
+
+791
+00:39:20.960 --> 00:39:21.460
+<v Charles Caskey>Yeah. On the, on the-
+
+792
+00:39:21.440 --> 00:39:24.180
+<v Jean-François Aubry>'Cause you need also to be able to drive the electronics and to store
+
+793
+00:39:24.220 --> 00:39:26.820
+<v Jean-François Aubry>the s- the signals, so it's also another cost.
+
+794
+00:39:26.900 --> 00:39:29.680
+<v Jean-François Aubry>And, and, uh, and of course, in that case, you need to make sure
+
+795
+00:39:29.740 --> 00:39:33.800
+<v Jean-François Aubry>that the, the cost for one lens is not too expensive, but it's, it's
+
+796
+00:39:33.840 --> 00:39:37.360
+<v Jean-François Aubry>not. So actually, it is not a big cost, but it's, uh, it, it,
+
+797
+00:39:37.440 --> 00:39:39.820
+<v Jean-François Aubry>uh, requires a lot of knowhow-
+
+798
+00:39:40.400 --> 00:39:40.900
+<v Charles Caskey>Yeah.
+
+799
+00:39:40.480 --> 00:39:43.740
+<v Jean-François Aubry>Mm-hmm ... to really be able to, to, to prepare the, the lens and
+
+800
+00:39:43.780 --> 00:39:47.120
+<v Jean-François Aubry>to build the, the lens and to, to put it at the, the right
+
+801
+00:39:47.220 --> 00:39:47.720
+<v Jean-François Aubry>place.
+
+802
+00:39:48.160 --> 00:39:48.660
+<v Charles Caskey>Yes. Yeah.
+
+803
+00:39:48.180 --> 00:39:50.460
+<v Jean-François Aubry>Position the transducer also at the right place.
+
+804
+00:39:51.040 --> 00:39:51.540
+<v Charles Caskey>Mm-hmm.
+
+805
+00:39:51.220 --> 00:39:56.020
+<v Jean-François Aubry>Um, so I would say overall it might end up being n- not, not
+
+806
+00:39:56.040 --> 00:40:01.120
+<v Jean-François Aubry>the same cost. Hopefully, it would be, uh, less costly than using multielement arrays,
+
+807
+00:40:01.200 --> 00:40:03.300
+<v Jean-François Aubry>but it's more for a hospital, for example.
+
+808
+00:40:03.840 --> 00:40:06.660
+<v Jean-François Aubry>Instead of having a huge cost upfront- Right ...
+
+809
+00:40:06.680 --> 00:40:11.260
+<v Jean-François Aubry>the device is very inexpensive, and you pay for each patient.
+
+810
+00:40:11.340 --> 00:40:13.940
+<v Jean-François Aubry>So it's just a, a treatment by treatment, uh-
+
+811
+00:40:14.100 --> 00:40:14.600
+<v Charles Caskey>Mm-hmm
+
+812
+00:40:14.220 --> 00:40:17.920
+<v Jean-François Aubry>... cost, which, which makes a, a, a big difference for, for, uh, for
+
+813
+00:40:17.980 --> 00:40:21.100
+<v Jean-François Aubry>hospitals or, or for, uh, insurance companies.
+
+814
+00:40:21.660 --> 00:40:25.160
+<v Keith Murphy>People always make this distinction. They're like, "Oh, are you, um, you know, more
+
+815
+00:40:25.220 --> 00:40:26.600
+<v Keith Murphy>of an academic or more company?"
+
+816
+00:40:26.620 --> 00:40:28.460
+<v Keith Murphy>And now they're sort of blending together.
+
+817
+00:40:28.620 --> 00:40:34.120
+<v Keith Murphy>So JF, you're, you're really engineering for accessibility, but it's also building new tools
+
+818
+00:40:34.160 --> 00:40:35.900
+<v Keith Murphy>that are fundamental physics.
+
+819
+00:40:36.080 --> 00:40:36.580
+<v Jean-François Aubry>Mm-hmm.
+
+820
+00:40:36.340 --> 00:40:36.840
+<v Charles Caskey>Yeah.
+
+821
+00:40:36.360 --> 00:40:40.100
+<v Keith Murphy>And I think there's a, there's a nice avenue for funding and creating real
+
+822
+00:40:40.200 --> 00:40:41.720
+<v Keith Murphy>treatments that are coming together. It's awesome.
+
+823
+00:40:41.760 --> 00:40:44.100
+<v Jean-François Aubry>It is still, but I, but I have to admit that I think I'm
+
+824
+00:40:44.180 --> 00:40:46.520
+<v Jean-François Aubry>still an, a, a physicist after all.
+
+825
+00:40:46.580 --> 00:40:47.080
+<v Keith Murphy>Of course.
+
+826
+00:40:46.960 --> 00:40:47.460
+<v Jean-François Aubry>And, uh-
+
+827
+00:40:47.420 --> 00:40:49.240
+<v Charles Caskey>Yes. [laughs]
+
+828
+00:40:49.400 --> 00:40:53.300
+<v Jean-François Aubry>No. Well, it's just, you know, it's, it's a different job, uh-
+
+829
+00:40:53.340 --> 00:40:53.840
+<v Keith Murphy>Mm-hmm
+
+830
+00:40:53.400 --> 00:40:55.220
+<v Jean-François Aubry>... and, and, and it's true.
+
+831
+00:40:55.340 --> 00:41:00.460
+<v Jean-François Aubry>So I, I asked a CEO and a CTO to run the companies, the
+
+832
+00:41:00.500 --> 00:41:01.000
+<v Jean-François Aubry>company.
+
+833
+00:41:00.820 --> 00:41:01.320
+<v Keith Murphy>Mm-hmm.
+
+834
+00:41:01.040 --> 00:41:02.860
+<v Jean-François Aubry>So SonoMind has a, uh-
+
+835
+00:41:02.960 --> 00:41:04.640
+<v Keith Murphy>Well, Jeremy Bercoff is also-
+
+836
+00:41:04.740 --> 00:41:05.240
+<v Jean-François Aubry>Yeah.
+
+837
+00:41:04.780 --> 00:41:08.440
+<v Keith Murphy>He was a physicist with you, with Mickael Tanter, right?
+
+838
+00:41:08.580 --> 00:41:09.080
+<v Jean-François Aubry>Yes.
+
+839
+00:41:08.620 --> 00:41:10.720
+<v Keith Murphy>You guys kind of came from the same lab at some point.
+
+840
+00:41:10.760 --> 00:41:11.580
+<v Jean-François Aubry>Yes. We, we all-
+
+841
+00:41:11.580 --> 00:41:12.080
+<v Keith Murphy>Is that right?
+
+842
+00:41:11.740 --> 00:41:15.080
+<v Jean-François Aubry>... came from the same lab, but he's been working for the industry for
+
+843
+00:41:15.200 --> 00:41:15.880
+<v Jean-François Aubry>20 years now.
+
+844
+00:41:16.520 --> 00:41:17.020
+<v Keith Murphy>Okay.
+
+845
+00:41:16.540 --> 00:41:18.920
+<v Jean-François Aubry>And so he's got lots of experience in it.
+
+846
+00:41:18.980 --> 00:41:19.480
+<v Keith Murphy>Mm-hmm.
+
+847
+00:41:19.280 --> 00:41:22.560
+<v Jean-François Aubry>And, and he gained experience at each step.
+
+848
+00:41:22.940 --> 00:41:23.440
+<v Charles Caskey>Yeah.
+
+849
+00:41:22.980 --> 00:41:27.060
+<v Jean-François Aubry>So he knows better how to raise money, how to manage people.
+
+850
+00:41:27.180 --> 00:41:30.800
+<v Jean-François Aubry>I mean, I, I, I know how, how to, to, to manage PhD students,
+
+851
+00:41:30.940 --> 00:41:35.520
+<v Jean-François Aubry>but it's very different for, from managing, uh, a, a company.
+
+852
+00:41:36.280 --> 00:41:37.700
+<v Jean-François Aubry>And, uh, and I know what it takes.
+
+853
+00:41:37.760 --> 00:41:42.900
+<v Jean-François Aubry>And, and again, same thing for CTO to, to, to be able to industrialize.
+
+854
+00:41:43.700 --> 00:41:47.160
+<v Jean-François Aubry>Uh, and, and you need to, to make sure that your system will be
+
+855
+00:41:47.220 --> 00:41:52.580
+<v Jean-François Aubry>robust, easy to ship, uh, that maintenance will be easy, that the cost will
+
+856
+00:41:52.620 --> 00:41:56.280
+<v Jean-François Aubry>be as low as possible. So, and you need to, to take into account,
+
+857
+00:41:56.520 --> 00:42:00.840
+<v Jean-François Aubry>I mean, so many things. So I would say I, I, I would always
+
+858
+00:42:01.180 --> 00:42:04.020
+<v Jean-François Aubry>kind of work on the, the next generation of device.
+
+859
+00:42:04.100 --> 00:42:06.380
+<v Jean-François Aubry>What, what, what could we do in the future?
+
+860
+00:42:06.740 --> 00:42:07.240
+<v Charles Caskey>Yeah.
+
+861
+00:42:06.760 --> 00:42:10.480
+<v Jean-François Aubry>What would be the V2 of, of, of, uh, the SonoMind device?
+
+862
+00:42:10.940 --> 00:42:14.660
+<v Jean-François Aubry>And, and I trust them to do the, the best currently for the V1,
+
+863
+00:42:14.880 --> 00:42:16.740
+<v Jean-François Aubry>uh, device that we've been. Uh-
+
+864
+00:42:16.780 --> 00:42:17.280
+<v Charles Caskey>Yeah.
+
+865
+00:42:17.920 --> 00:42:21.480
+<v Jean-François Aubry>It's, uh, I would not know how, how to, how to do that.
+
+866
+00:42:21.780 --> 00:42:24.820
+<v Jean-François Aubry>And, uh, what I know now is, is, for example, I, I did work
+
+867
+00:42:24.880 --> 00:42:30.210
+<v Jean-François Aubry>on, on non-human primates. Uh, to, to optimize the parameters.
+
+868
+00:42:30.270 --> 00:42:34.210
+<v Jean-François Aubry>I'm pretty sure there's still work to be done on, uh, on that.
+
+869
+00:42:34.570 --> 00:42:35.070
+<v Charles Caskey>Mm. Yeah.
+
+870
+00:42:34.890 --> 00:42:41.210
+<v Jean-François Aubry>And, and SonoMind also is focusing on treatment-resistant depression, and
+
+871
+00:42:41.290 --> 00:42:45.070
+<v Jean-François Aubry>they will do a great job in, in making this technology available to the
+
+872
+00:42:45.170 --> 00:42:51.350
+<v Jean-François Aubry>many. Uh, I would now also kind of help testing on other indications,
+
+873
+00:42:51.450 --> 00:42:55.410
+<v Jean-François Aubry>other, uh, location-- other targets in, uh, in the brain.
+
+874
+00:42:56.070 --> 00:42:59.710
+<v Jean-François Aubry>That's, that's what I'm, I'm, I'm, I'm good at, and I'm, I'm very bad
+
+875
+00:42:59.750 --> 00:43:03.430
+<v Jean-François Aubry>at, uh, at, uh, industrializing, uh, a device.
+
+876
+00:43:03.490 --> 00:43:04.530
+<v Jean-François Aubry>I just don't know how to do that.
+
+877
+00:43:04.570 --> 00:43:07.730
+<v Jean-François Aubry>And, and sometimes, sometimes you got to re- recognize, okay, this...
+
+878
+00:43:07.950 --> 00:43:08.810
+<v Jean-François Aubry>I, I'm not good at it.
+
+879
+00:43:09.330 --> 00:43:13.690
+<v Jean-François Aubry>I should rather have people do it in, in the right way.
+
+880
+00:43:14.590 --> 00:43:17.750
+<v Charles Caskey>Yeah. I think that-- So this is-- reminds me of something that, uh, I
+
+881
+00:43:17.790 --> 00:43:19.690
+<v Charles Caskey>don't know if you heard the podcast with Amy Kruse.
+
+882
+00:43:19.730 --> 00:43:22.750
+<v Charles Caskey>She's an investor, and she talked a lot about, um, you know, what's the
+
+883
+00:43:22.870 --> 00:43:23.370
+<v Charles Caskey>ideal-
+
+884
+00:43:23.150 --> 00:43:23.650
+<v Jean-François Aubry>Not yet. At least that one.
+
+885
+00:43:23.590 --> 00:43:24.090
+<v Jean-François Aubry>I, I-
+
+886
+00:43:24.070 --> 00:43:24.570
+<v Charles Caskey>Oh
+
+887
+00:43:24.130 --> 00:43:25.730
+<v Jean-François Aubry>... I listened to a lot of your podcasts.
+
+888
+00:43:25.770 --> 00:43:26.270
+<v Charles Caskey>Oh.
+
+889
+00:43:26.010 --> 00:43:27.150
+<v Jean-François Aubry>But not that one yet. [chuckles]
+
+890
+00:43:27.250 --> 00:43:29.490
+<v Charles Caskey>All good. But what-- So what she was talking about relates to this.
+
+891
+00:43:29.550 --> 00:43:32.630
+<v Charles Caskey>It's, it's this idea that we all, yeah, we all have strengths, but when
+
+892
+00:43:32.650 --> 00:43:35.490
+<v Charles Caskey>you need to, like, deploy something, you, you need to fill all the, all
+
+893
+00:43:35.510 --> 00:43:38.670
+<v Charles Caskey>the gaps. So in this case, it's, yeah, it's somebody that can productize something,
+
+894
+00:43:38.730 --> 00:43:42.930
+<v Charles Caskey>make sure it's reliable like you were talking about, acquire funding, and motivate the
+
+895
+00:43:42.970 --> 00:43:46.990
+<v Charles Caskey>problem. And it, it's this differentiation process that, like, I think we all go
+
+896
+00:43:47.010 --> 00:43:49.250
+<v Charles Caskey>through as, as we, as we develop.
+
+897
+00:43:49.310 --> 00:43:51.730
+<v Charles Caskey>We realize that, hey, we're better at this thing than that thing.
+
+898
+00:43:52.030 --> 00:43:54.050
+<v Charles Caskey>And eventually, yeah, like I-- 'cause I'm kind of the same way.
+
+899
+00:43:54.110 --> 00:43:58.190
+<v Charles Caskey>I'm kind of like I'm, I'm, I'm an engineer, uh, fir- first and foremost,
+
+900
+00:43:58.290 --> 00:44:00.210
+<v Charles Caskey>uh, with a, with a background in acoustics.
+
+901
+00:44:00.390 --> 00:44:01.750
+<v Charles Caskey>Um, so not even a physicist, you know.
+
+902
+00:44:01.770 --> 00:44:03.790
+<v Charles Caskey>It's a v- it's even different, it's a little different than that.
+
+903
+00:44:03.850 --> 00:44:04.890
+<v Charles Caskey>And I think we- Yeah ...
+
+904
+00:44:04.930 --> 00:44:07.190
+<v Charles Caskey>it's this process for, like, the trainees out there.
+
+905
+00:44:07.210 --> 00:44:08.750
+<v Charles Caskey>It's not like we know where we're going.
+
+906
+00:44:08.790 --> 00:44:12.390
+<v Charles Caskey>It's like you, you sort of shape into it over time with- through experiments
+
+907
+00:44:12.450 --> 00:44:13.470
+<v Charles Caskey>and experiences.
+
+908
+00:44:13.970 --> 00:44:17.790
+<v Jean-François Aubry>Exactly. And I-- For, for example, I'm very bad at negotiating [chuckles] sometimes.
+
+909
+00:44:17.810 --> 00:44:18.310
+<v Jean-François Aubry>[laughs]
+
+910
+00:44:18.290 --> 00:44:20.010
+<v Charles Caskey>It's, it's uncomfortable, right?
+
+911
+00:44:20.270 --> 00:44:20.770
+<v Jean-François Aubry>Yeah.
+
+912
+00:44:20.650 --> 00:44:21.710
+<v Charles Caskey>It's uncomfortable. Yeah. Yeah. Yeah.
+
+913
+00:44:21.730 --> 00:44:24.250
+<v Keith Murphy>Do you, do you have an example of that [laughs] where you're just really
+
+914
+00:44:24.350 --> 00:44:25.170
+<v Keith Murphy>tough in a negotiation?
+
+915
+00:44:25.270 --> 00:44:26.850
+<v Jean-François Aubry>Or anything. Or whatever it is.
+
+916
+00:44:27.030 --> 00:44:31.470
+<v Jean-François Aubry>[laughs] And, and, and also it, it's, I, it's good also.
+
+917
+00:44:31.570 --> 00:44:36.680
+<v Jean-François Aubry>I, I'm kind of leveraging also on what I did in the, the past.
+
+918
+00:44:36.730 --> 00:44:39.490
+<v Jean-François Aubry>I mean, now, I mean, it's-- When I think of it, is I've been
+
+919
+00:44:39.550 --> 00:44:44.090
+<v Jean-François Aubry>working on, on transcranial ultrasound for 27 years, almost 30 years now.
+
+920
+00:44:44.690 --> 00:44:46.710
+<v Jean-François Aubry>And, and so I-- And it, it's true.
+
+921
+00:44:47.750 --> 00:44:51.290
+<v Jean-François Aubry>Um, uh, the, the more I go and I-- when I go to the
+
+922
+00:44:51.330 --> 00:44:58.050
+<v Jean-François Aubry>Detroit Show and there's im- always new things to, to discover, to understand, um,
+
+923
+00:44:58.490 --> 00:45:05.190
+<v Jean-François Aubry>it, it's, it's, um, um... Well, for example, today we, we got a-- We,
+
+924
+00:45:05.530 --> 00:45:10.530
+<v Jean-François Aubry>we, we just, we just got a presentation from Keith Wear, uh, former, uh,
+
+925
+00:45:10.790 --> 00:45:11.770
+<v Jean-François Aubry>FDA, uh-
+
+926
+00:45:11.770 --> 00:45:12.270
+<v Charles Caskey>Oh, yeah
+
+927
+00:45:11.870 --> 00:45:17.490
+<v Jean-François Aubry>... researcher. And he, he, he gave a, a talk on, on, uh, hydrophones
+
+928
+00:45:17.550 --> 00:45:23.770
+<v Jean-François Aubry>and, and calibration. And we got so interesting discussions, uh, about, about hydrophones,
+
+929
+00:45:23.810 --> 00:45:25.250
+<v Jean-François Aubry>and I would like to, to go back.
+
+930
+00:45:25.290 --> 00:45:29.950
+<v Jean-François Aubry>And so we, we always... Each time you dig in something, you, you have
+
+931
+00:45:30.010 --> 00:45:36.090
+<v Jean-François Aubry>a, an expert presenting a very specific aspect of the technology, and you learn
+
+932
+00:45:36.210 --> 00:45:40.510
+<v Jean-François Aubry>so much. Uh, and, and I realize that's what I like actually, to trying
+
+933
+00:45:40.590 --> 00:45:44.790
+<v Jean-François Aubry>to understand. And, and it's, it makes things easier on- once you, you, you,
+
+934
+00:45:44.910 --> 00:45:49.390
+<v Jean-François Aubry>um, I mean, you, you have years of experience on, on knowing what works
+
+935
+00:45:49.430 --> 00:45:50.690
+<v Jean-François Aubry>and what doesn't. [chuckles]
+
+936
+00:45:50.770 --> 00:45:54.450
+<v Charles Caskey>Mm-hmm. I always look back and I'm like: Man, why did we design it
+
+937
+00:45:54.510 --> 00:45:56.950
+<v Charles Caskey>this way? I really would have done this differently with what I know now.
+
+938
+00:45:57.370 --> 00:45:59.450
+<v Charles Caskey>But so you don't know what you don't know.
+
+939
+00:45:59.610 --> 00:46:01.690
+<v Charles Caskey>That's just it. [laughs] And then you gotta...
+
+940
+00:46:01.970 --> 00:46:04.350
+<v Charles Caskey>That's where that d- you know, digging in deep goes from.
+
+941
+00:46:05.010 --> 00:46:08.490
+<v Charles Caskey>Um, when you-- We, we'll-- So let's talk a little bit about SonoMind since
+
+942
+00:46:08.530 --> 00:46:12.550
+<v Charles Caskey>we're on lenses, we're on, you know, products and, and, you know, having impact
+
+943
+00:46:12.590 --> 00:46:14.450
+<v Charles Caskey>in the medical field. I, I've, I've read the paper.
+
+944
+00:46:14.510 --> 00:46:15.810
+<v Charles Caskey>Yeah. So Keith was talking about this.
+
+945
+00:46:15.970 --> 00:46:19.290
+<v Charles Caskey>It looked like in that, in the, the publication that's out there, you're targeting
+
+946
+00:46:19.550 --> 00:46:22.330
+<v Charles Caskey>white-- Are you targeting tracts, like white matter tracts in that case?
+
+947
+00:46:22.930 --> 00:46:23.430
+<v Jean-François Aubry>Yes.
+
+948
+00:46:23.130 --> 00:46:23.630
+<v Charles Caskey>Is it-
+
+949
+00:46:23.690 --> 00:46:24.190
+<v Jean-François Aubry>Yes.
+
+950
+00:46:23.770 --> 00:46:24.290
+<v Charles Caskey>Cool. Very-
+
+951
+00:46:24.410 --> 00:46:25.710
+<v Jean-François Aubry>In, in the paper, yes. Yes.
+
+952
+00:46:25.750 --> 00:46:29.810
+<v Jean-François Aubry>That's what we did. Uh, and funny, we, we did also a study on
+
+953
+00:46:29.850 --> 00:46:31.250
+<v Jean-François Aubry>essential tremor where-
+
+954
+00:46:32.190 --> 00:46:32.690
+<v Charles Caskey>Mm. Mm-hmm
+
+955
+00:46:32.330 --> 00:46:34.570
+<v Jean-François Aubry>... and since we also targeted the, the tracts.
+
+956
+00:46:35.170 --> 00:46:35.670
+<v Charles Caskey>Yeah.
+
+957
+00:46:35.310 --> 00:46:37.710
+<v Jean-François Aubry>Um, and I'm-- So that's a big question.
+
+958
+00:46:37.810 --> 00:46:41.890
+<v Jean-François Aubry>Currently, who, who knows? Is it better to target the white matter or gray
+
+959
+00:46:42.010 --> 00:46:45.270
+<v Jean-François Aubry>matter? Gray matter? I, I don't know.
+
+960
+00:46:45.310 --> 00:46:50.310
+<v Jean-François Aubry>It's still an open question. What I like about the tracts though is that,
+
+961
+00:46:50.390 --> 00:46:52.770
+<v Jean-François Aubry>I mean, it-- but it's the same approach with DBS.
+
+962
+00:46:53.130 --> 00:46:53.630
+<v Jean-François Aubry>DBS-
+
+963
+00:46:53.450 --> 00:46:53.950
+<v Charles Caskey>Yeah
+
+964
+00:46:53.510 --> 00:46:54.530
+<v Jean-François Aubry>... they have a small tip.
+
+965
+00:46:55.210 --> 00:46:56.830
+<v Jean-François Aubry>We have a small focal spot.
+
+966
+00:46:57.470 --> 00:46:57.970
+<v Charles Caskey>Mm-hmm.
+
+967
+00:46:57.990 --> 00:47:01.630
+<v Jean-François Aubry>So it's a way to address a hub that is connected-
+
+968
+00:47:01.650 --> 00:47:02.150
+<v Charles Caskey>Yeah.
+
+969
+00:47:01.990 --> 00:47:04.090
+<v Jean-François Aubry>Yeah ... to, to so many areas in the brain.
+
+970
+00:47:04.970 --> 00:47:10.190
+<v Jean-François Aubry>Um, so yeah. It is definitely a very interesting target.
+
+971
+00:47:11.050 --> 00:47:11.550
+<v Charles Caskey>Mm-hmm.
+
+972
+00:47:11.290 --> 00:47:16.810
+<v Jean-François Aubry>Now, is there a way to optimize the ultrasound parameters in order to optimize
+
+973
+00:47:17.130 --> 00:47:19.630
+<v Jean-François Aubry>the effects on fibers? I don't know.
+
+974
+00:47:20.310 --> 00:47:21.290
+<v Jean-François Aubry>Um [laughs] but, uh-
+
+975
+00:47:21.310 --> 00:47:21.810
+<v Charles Caskey>Right. Right.
+
+976
+00:47:21.730 --> 00:47:22.790
+<v Keith Murphy>Do you have, do you have a guess on that?
+
+977
+00:47:23.070 --> 00:47:27.170
+<v Keith Murphy>Do you think it'll require more pressure, less pressure, different pulsing?
+
+978
+00:47:28.490 --> 00:47:32.210
+<v Jean-François Aubry>I don't know. To, to be honest, the, the, the effect we saw on
+
+979
+00:47:32.250 --> 00:47:35.890
+<v Jean-François Aubry>the first five patients that we published, I mean, if we could just, um,
+
+980
+00:47:36.190 --> 00:47:37.930
+<v Jean-François Aubry>reproduce this-
+
+981
+00:47:38.650 --> 00:47:39.150
+<v Charles Caskey>Yeah
+
+982
+00:47:38.770 --> 00:47:45.130
+<v Jean-François Aubry>... and be able to perform consolidation treatments, repeat
+
+983
+00:47:45.190 --> 00:47:50.610
+<v Jean-François Aubry>the treatment after, let's say, a month and after three months and, and sustain
+
+984
+00:47:50.670 --> 00:47:56.410
+<v Jean-François Aubry>those patients. Um, if, if somehow the, just the fact-- I mean, we, we,
+
+985
+00:47:56.590 --> 00:48:01.130
+<v Jean-François Aubry>we, we could see how the patient evolved within just one week of treatment.
+
+986
+00:48:01.170 --> 00:48:01.930
+<v Charles Caskey>Mm-hmm.
+
+987
+00:48:01.990 --> 00:48:07.010
+<v Jean-François Aubry>And, and it completely, it completely changes their life if they-
+
+988
+00:48:07.290 --> 00:48:07.790
+<v Charles Caskey>Yeah
+
+989
+00:48:07.350 --> 00:48:10.910
+<v Jean-François Aubry>... if we could just maintain the very last day of treatment.
+
+990
+00:48:11.550 --> 00:48:13.750
+<v Jean-François Aubry>So now it's just we know we have an impact.
+
+991
+00:48:14.430 --> 00:48:17.890
+<v Jean-François Aubry>Now, I mean, how can we have a long-lasting impact?
+
+992
+00:48:17.970 --> 00:48:23.550
+<v Jean-François Aubry>So it's, uh, so definitely, uh, I, I, I'm already very happy with, with
+
+993
+00:48:23.610 --> 00:48:26.470
+<v Jean-François Aubry>the effect that we used so far.
+
+994
+00:48:27.570 --> 00:48:28.070
+<v Charles Caskey>Oh, yeah.
+
+995
+00:48:27.650 --> 00:48:30.130
+<v Jean-François Aubry>Uh, if we could do even better, that, that would be great.
+
+996
+00:48:30.270 --> 00:48:35.030
+<v Jean-François Aubry>Now I'm, I'm thinking based on, on this at least maybe even if we
+
+997
+00:48:35.070 --> 00:48:39.160
+<v Jean-François Aubry>do not do better, but if we can sustain The effect that that would
+
+998
+00:48:39.180 --> 00:48:44.100
+<v Jean-François Aubry>be great. For SonoMind, this is the next step, uh, because the-- it's, it's
+
+999
+00:48:44.160 --> 00:48:46.980
+<v Jean-François Aubry>already-- I mean, they, they, they are filling a gap here because the-
+
+1000
+00:48:47.040 --> 00:48:47.540
+<v Keith Murphy>Mm-hmm
+
+1001
+00:48:47.260 --> 00:48:50.060
+<v Jean-François Aubry>... old system was great but not so easy to use.
+
+1002
+00:48:50.440 --> 00:48:55.540
+<v Jean-François Aubry>You know, positioning the lens with the neuronavigator, um, you, you need to be
+
+1003
+00:48:55.580 --> 00:48:58.700
+<v Jean-François Aubry>very precise in the positioning of the transducer and the lens.
+
+1004
+00:48:59.200 --> 00:49:02.740
+<v Jean-François Aubry>With a, with a, a transducer without the lens, you need to make sure
+
+1005
+00:49:02.780 --> 00:49:04.080
+<v Jean-François Aubry>that the focus is at the right spot.
+
+1006
+00:49:04.560 --> 00:49:05.060
+<v Jean-François Aubry>Here we need-
+
+1007
+00:49:04.920 --> 00:49:05.420
+<v Keith Murphy>Mm-hmm
+
+1008
+00:49:04.980 --> 00:49:07.660
+<v Jean-François Aubry>... to make sure that the focus is at the right spot, but also
+
+1009
+00:49:08.320 --> 00:49:12.940
+<v Jean-François Aubry>that the outer surface of, uh, of the, the, the skin that is traversed
+
+1010
+00:49:12.980 --> 00:49:17.580
+<v Jean-François Aubry>by the ultrasound beam is also at the right location and the correct orientation.
+
+1011
+00:49:18.980 --> 00:49:24.980
+<v Jean-François Aubry>So that's, that's why currently SonoMind's effort is in translating this
+
+1012
+00:49:26.040 --> 00:49:30.200
+<v Jean-François Aubry>lens technology into a device that is much easier to use.
+
+1013
+00:49:30.320 --> 00:49:34.960
+<v Jean-François Aubry>So first of all, if we have the same effect, but if it's much
+
+1014
+00:49:35.020 --> 00:49:37.320
+<v Jean-François Aubry>easier to use, I think it's a win.
+
+1015
+00:49:38.000 --> 00:49:42.360
+<v Charles Caskey>The mixture of ease of use and, and like having a nice accurate beam
+
+1016
+00:49:42.420 --> 00:49:46.420
+<v Charles Caskey>that's really predictable, works across a lot of patients is like that-- I think
+
+1017
+00:49:46.480 --> 00:49:50.760
+<v Charles Caskey>that's, that's one of the engineering and physics and, uh, product problems that we
+
+1018
+00:49:50.940 --> 00:49:51.440
+<v Charles Caskey>face.
+
+1019
+00:49:51.160 --> 00:49:51.660
+<v Jean-François Aubry>Yeah.
+
+1020
+00:49:51.300 --> 00:49:54.580
+<v Charles Caskey>So I'm glad that SonoMind's getting in there and making it happen.
+
+1021
+00:49:54.940 --> 00:49:57.920
+<v Jean-François Aubry>And, and when you think-- I mean, I, I, I did not listen all
+
+1022
+00:49:57.960 --> 00:50:00.380
+<v Jean-François Aubry>your podcast, but, but a lot.
+
+1023
+00:50:00.940 --> 00:50:07.180
+<v Jean-François Aubry>And, and I think the one thing almost everyone agrees is
+
+1024
+00:50:07.240 --> 00:50:12.880
+<v Jean-François Aubry>that we're not sure yet about the optimum ultrasound parameters [clears throat] to best-
+
+1025
+00:50:12.900 --> 00:50:13.400
+<v Keith Murphy>Oh, yeah
+
+1026
+00:50:12.980 --> 00:50:17.740
+<v Jean-François Aubry>... optimize with the brain and, and, and trigger, uh, uh, uh, um, uh,
+
+1027
+00:50:17.820 --> 00:50:19.940
+<v Jean-François Aubry>have a, a huge impact on, on the brain.
+
+1028
+00:50:20.840 --> 00:50:26.880
+<v Jean-François Aubry>But somehow all that we know is that we know how to compensate
+
+1029
+00:50:26.880 --> 00:50:29.540
+<v Jean-François Aubry>the effect of the skull. We know the skull has an impact.
+
+1030
+00:50:29.820 --> 00:50:32.620
+<v Jean-François Aubry>We know how to compensate. So I think it's the first step.
+
+1031
+00:50:32.740 --> 00:50:39.420
+<v Jean-François Aubry>First, make sure that we know exactly where we are trying to impact
+
+1032
+00:50:39.440 --> 00:50:41.480
+<v Jean-François Aubry>the brain, and that's the first step.
+
+1033
+00:50:41.500 --> 00:50:45.180
+<v Jean-François Aubry>And that, that's almost the only thing that can be, I would say f-
+
+1034
+00:50:45.340 --> 00:50:50.460
+<v Jean-François Aubry>on, on which we can rely now that the technology allows us to do,
+
+1035
+00:50:50.740 --> 00:50:55.000
+<v Jean-François Aubry>so let's do that. And then try to optimize the parameters.
+
+1036
+00:50:55.060 --> 00:51:01.120
+<v Jean-François Aubry>'Cause otherwise, if you're not 100% sure where you are actually targeting
+
+1037
+00:51:01.180 --> 00:51:05.220
+<v Jean-François Aubry>the beam, and you're not sure if you're using the right parameters, and if
+
+1038
+00:51:05.280 --> 00:51:09.500
+<v Jean-François Aubry>you change the parameters but you have no control on the exact location, then
+
+1039
+00:51:09.540 --> 00:51:11.660
+<v Jean-François Aubry>what is it? I mean, is it the effect of the parameter or just
+
+1040
+00:51:11.700 --> 00:51:17.000
+<v Jean-François Aubry>the fact that somehow a different patient had a, a, a different skull, it
+
+1041
+00:51:17.060 --> 00:51:19.780
+<v Jean-François Aubry>was shifted differently, so the location was different.
+
+1042
+00:51:20.440 --> 00:51:24.160
+<v Jean-François Aubry>So I think it, it was a, a first step and, uh, a- and
+
+1043
+00:51:24.200 --> 00:51:28.500
+<v Jean-François Aubry>it had to be in a, in a, I mean, easiest way possible to-
+
+1044
+00:51:28.860 --> 00:51:29.360
+<v Keith Murphy>Mm-hmm
+
+1045
+00:51:29.140 --> 00:51:29.640
+<v Jean-François Aubry>... to use.
+
+1046
+00:51:30.680 --> 00:51:34.340
+<v Keith Murphy>You mentioned having a lot of scar tissue of experiments and knowing what won't
+
+1047
+00:51:34.380 --> 00:51:38.560
+<v Keith Murphy>work, and this happened twice [chuckles] where I was like, "Hey, JF, is there
+
+1048
+00:51:38.620 --> 00:51:43.060
+<v Keith Murphy>some way you can ask somebody about how much they hear the ultrasound and
+
+1049
+00:51:43.220 --> 00:51:48.720
+<v Keith Murphy>use the bone conduction across frequencies to try to learn about transmission through the
+
+1050
+00:51:48.760 --> 00:51:50.340
+<v Keith Murphy>skull?" And JF was like, "No."
+
+1051
+00:51:50.500 --> 00:51:51.000
+<v Keith Murphy>[laughs]
+
+1052
+00:51:51.100 --> 00:51:52.520
+<v Jean-François Aubry>No. [laughs]
+
+1053
+00:51:52.580 --> 00:51:53.600
+<v Keith Murphy>And then I was like, "But..."
+
+1054
+00:51:53.700 --> 00:51:55.840
+<v Keith Murphy>And he's like, "No, you cannot do it."
+
+1055
+00:51:55.920 --> 00:51:59.200
+<v Keith Murphy>And I, and I always wondered if there was like a, a backstory to
+
+1056
+00:51:59.280 --> 00:52:00.520
+<v Keith Murphy>it or... [laughs]
+
+1057
+00:52:00.580 --> 00:52:02.020
+<v Jean-François Aubry>Oh, no. No, there's-- Oh, wait.
+
+1058
+00:52:02.160 --> 00:52:05.580
+<v Jean-François Aubry>[laughs] There is no story. I, I, I, I didn't try.
+
+1059
+00:52:06.000 --> 00:52:08.940
+<v Jean-François Aubry>I just, I just-- unfortunately, I, I-
+
+1060
+00:52:09.020 --> 00:52:09.520
+<v Keith Murphy>You just feel like-
+
+1061
+00:52:09.740 --> 00:52:13.660
+<v Jean-François Aubry>I do not think that it's, it's, it's possible to, to do so.
+
+1062
+00:52:14.260 --> 00:52:18.980
+<v Jean-François Aubry>Um, uh, at least not based on, on, on, on the, the, the sound
+
+1063
+00:52:19.020 --> 00:52:20.980
+<v Jean-François Aubry>that you might hear. B- again, because they are-
+
+1064
+00:52:20.980 --> 00:52:22.520
+<v Keith Murphy>'Cause it's too subjective perhaps?
+
+1065
+00:52:23.020 --> 00:52:28.560
+<v Jean-François Aubry>Too subjective. A- and also [sighs] some- somehow I, I don't think there is,
+
+1066
+00:52:28.660 --> 00:52:32.840
+<v Jean-François Aubry>uh, an optimum frequency. Optimizing the frequency is not enough.
+
+1067
+00:52:32.900 --> 00:52:37.280
+<v Jean-François Aubry>You need also to shape the beam, and because you will always have parts
+
+1068
+00:52:37.320 --> 00:52:39.520
+<v Jean-François Aubry>of the skull that will be thicker than others.
+
+1069
+00:52:40.200 --> 00:52:40.880
+<v Jean-François Aubry>So it's, it's kind of subjective.
+
+1070
+00:52:40.900 --> 00:52:44.160
+<v Keith Murphy>Oh, so there's not, there's not one resonance because the skull is sort of
+
+1071
+00:52:44.280 --> 00:52:44.880
+<v Keith Murphy>amorphous.
+
+1072
+00:52:44.960 --> 00:52:45.460
+<v Jean-François Aubry>No.
+
+1073
+00:52:45.060 --> 00:52:46.760
+<v Keith Murphy>There's so much going on. That makes sense.
+
+1074
+00:52:46.800 --> 00:52:53.740
+<v Jean-François Aubry>No. No. So it would-- Uh, uh, uh, maybe one experiment
+
+1075
+00:52:53.880 --> 00:52:55.890
+<v Jean-François Aubry>were so conducted by Kullervo Hynynen.
+
+1076
+00:52:56.100 --> 00:53:00.360
+<v Jean-François Aubry>W- it was interesting though. He, he was trying with multiple elements to adjust
+
+1077
+00:53:00.580 --> 00:53:03.540
+<v Jean-François Aubry>the frequency on each of the el- individual elements.
+
+1078
+00:53:03.560 --> 00:53:04.240
+<v Keith Murphy>Oh, yeah. Yeah. Mm-hmm.
+
+1079
+00:53:04.260 --> 00:53:06.260
+<v Jean-François Aubry>Yeah. In order to optimize the focusing-
+
+1080
+00:53:06.280 --> 00:53:06.780
+<v Keith Murphy>Oh
+
+1081
+00:53:06.300 --> 00:53:06.800
+<v Jean-François Aubry>... twin.
+
+1082
+00:53:06.320 --> 00:53:07.020
+<v Keith Murphy>What happened there?
+
+1083
+00:53:07.660 --> 00:53:11.500
+<v Jean-François Aubry>Yeah. Well, so it, it-- I mean, you, you can slightly increase, you, you
+
+1084
+00:53:11.520 --> 00:53:15.100
+<v Jean-François Aubry>increase the efficiency, uh, of the propagation, uh-
+
+1085
+00:53:15.440 --> 00:53:15.940
+<v Keith Murphy>Uh-huh
+
+1086
+00:53:15.540 --> 00:53:16.220
+<v Jean-François Aubry>... but still, I mean-
+
+1087
+00:53:16.240 --> 00:53:19.660
+<v Keith Murphy>You'd have to have a drive system with 128 different frequencies.
+
+1088
+00:53:20.000 --> 00:53:20.800
+<v Keith Murphy>That must cost a fortune.
+
+1089
+00:53:20.800 --> 00:53:24.400
+<v Jean-François Aubry>Oh, no. No, that's why that's not so hard because usually what you-
+
+1090
+00:53:24.720 --> 00:53:25.220
+<v Keith Murphy>Okay
+
+1091
+00:53:24.840 --> 00:53:28.960
+<v Jean-François Aubry>... what, what you have is when you use multi-element transducers, you us- you
+
+1092
+00:53:29.060 --> 00:53:34.700
+<v Jean-François Aubry>use also a multi-channel electronics, and it's very easy to adjust the, uh, the--
+
+1093
+00:53:35.020 --> 00:53:36.920
+<v Jean-François Aubry>Well, at least on some, on our systems.
+
+1094
+00:53:36.980 --> 00:53:38.100
+<v Jean-François Aubry>I just don't know on others.
+
+1095
+00:53:38.140 --> 00:53:41.500
+<v Jean-François Aubry>[chuckles] But to adjust also the, the, the shape so you can-
+
+1096
+00:53:41.540 --> 00:53:42.040
+<v Keith Murphy>Mm-hmm
+
+1097
+00:53:41.580 --> 00:53:44.240
+<v Jean-François Aubry>... you can adjust and change the frequency on, on each of them.
+
+1098
+00:53:44.700 --> 00:53:48.740
+<v Jean-François Aubry>So I guess it's possible. Uh, but it's, uh, it, it's a way to
+
+1099
+00:53:50.140 --> 00:53:56.240
+<v Jean-François Aubry>slightly en- enhance the transmission, but not a way to completely compensate the effect
+
+1100
+00:53:56.300 --> 00:54:02.020
+<v Jean-François Aubry>of the bone. Uh, so even with, with such an approach, it, it, it's,
+
+1101
+00:54:02.280 --> 00:54:05.760
+<v Jean-François Aubry>it's not a way to, to fully compensate the effect of the, of the
+
+1102
+00:54:05.840 --> 00:54:11.120
+<v Jean-François Aubry>bone. So I, I doubt that by just changing the frequency, unfortunately, you, you
+
+1103
+00:54:11.200 --> 00:54:13.840
+<v Jean-François Aubry>could. So, so maybe... I mean, I don't know.
+
+1104
+00:54:14.300 --> 00:54:18.300
+<v Jean-François Aubry>Uh, I'm sorry. I don't have any tangible results.
+
+1105
+00:54:18.320 --> 00:54:19.820
+<v Keith Murphy>No, that's okay. That was interesting.
+
+1106
+00:54:19.920 --> 00:54:24.140
+<v Jean-François Aubry>It, it's more a gut feeling, and sometimes, sometimes it goes just like that.
+
+1107
+00:54:24.180 --> 00:54:26.820
+<v Jean-François Aubry>I say, "Now what?" [laughs]
+
+1108
+00:54:26.880 --> 00:54:31.080
+<v Charles Caskey>You're-- JF's risking joining the old guard here and telling you that something's impossible.
+
+1109
+00:54:31.080 --> 00:54:32.740
+<v Charles Caskey>[laughs] [laughs]
+
+1110
+00:54:33.020 --> 00:54:34.400
+<v Keith Murphy>Somebody's gotta take that one on.
+
+1111
+00:54:34.460 --> 00:54:34.960
+<v Jean-François Aubry>But it-
+
+1112
+00:54:34.600 --> 00:54:35.100
+<v Keith Murphy>Somebody's gotta
+
+1113
+00:54:35.020 --> 00:54:40.740
+<v Jean-François Aubry>... i- i- it's still, it's, it's also important to, to know what is
+
+1114
+00:54:40.800 --> 00:54:42.680
+<v Jean-François Aubry>impossible. So, um-
+
+1115
+00:54:42.720 --> 00:54:43.220
+<v Keith Murphy>Mm
+
+1116
+00:54:44.580 --> 00:54:49.280
+<v Jean-François Aubry>I, I'm very skeptical when I see some-- I mean, I-- and I've seen
+
+1117
+00:54:49.320 --> 00:54:55.480
+<v Jean-François Aubry>it, people proposing a metamaterial that is actually making the, the skull
+
+1118
+00:54:55.520 --> 00:54:56.600
+<v Jean-François Aubry>completely transparent.
+
+1119
+00:54:57.600 --> 00:54:58.100
+<v Keith Murphy>Oh.
+
+1120
+00:54:57.640 --> 00:54:59.460
+<v Jean-François Aubry>No matter the thickness of the skull.
+
+1121
+00:54:59.880 --> 00:55:00.380
+<v Keith Murphy>Yeah.
+
+1122
+00:55:00.100 --> 00:55:03.360
+<v Jean-François Aubry>And, and I saw a, I mean, a, a kind of gel that you
+
+1123
+00:55:03.420 --> 00:55:07.940
+<v Jean-François Aubry>would put in front of-- And it's, no, this, this just does not work.
+
+1124
+00:55:08.020 --> 00:55:11.480
+<v Jean-François Aubry>And, and it took me a while to understand why, but, uh, it was
+
+1125
+00:55:11.520 --> 00:55:16.280
+<v Jean-François Aubry>kind of a fraud actually. Um, so there are things, uh...
+
+1126
+00:55:17.380 --> 00:55:23.520
+<v Jean-François Aubry>And if, if someone was supposed to, to propose a metamaterial that can
+
+1127
+00:55:23.560 --> 00:55:29.800
+<v Jean-François Aubry>automatically adapt its shape and, and modify automatically in front of the skull,
+
+1128
+00:55:29.900 --> 00:55:31.120
+<v Jean-François Aubry>then maybe.
+
+1129
+00:55:31.140 --> 00:55:31.720
+<v Keith Murphy>Oh, that's cool. Yeah.
+
+1130
+00:55:31.740 --> 00:55:35.060
+<v Jean-François Aubry>But not an homogeneous material, uh-
+
+1131
+00:55:35.240 --> 00:55:35.740
+<v Keith Murphy>Yeah
+
+1132
+00:55:35.280 --> 00:55:39.500
+<v Jean-François Aubry>... or something that could-- I mean, one fits all, I mean, that's just
+
+1133
+00:55:39.540 --> 00:55:42.180
+<v Jean-François Aubry>not possible. It, it needs to adapt at, at some-
+
+1134
+00:55:42.280 --> 00:55:44.040
+<v Keith Murphy>I think I remember what you're talking about.
+
+1135
+00:55:44.140 --> 00:55:48.060
+<v Keith Murphy>It was like a, a low-density metal, and if it was at the skull,
+
+1136
+00:55:48.300 --> 00:55:52.240
+<v Keith Murphy>it was like you would step down the, um, impedance, right?
+
+1137
+00:55:52.380 --> 00:55:55.200
+<v Keith Murphy>Until you get to skull. But there's skin and fat in the way.
+
+1138
+00:55:55.880 --> 00:55:56.380
+<v Jean-François Aubry>Yes.
+
+1139
+00:55:55.920 --> 00:55:57.500
+<v Keith Murphy>So you don't really get that step.
+
+1140
+00:55:57.820 --> 00:55:58.320
+<v Jean-François Aubry>Yes.
+
+1141
+00:55:57.980 --> 00:55:59.300
+<v Keith Murphy>I, I think I read that one too, and I was like, "This is
+
+1142
+00:55:59.300 --> 00:55:59.800
+<v Keith Murphy>real."
+
+1143
+00:55:59.560 --> 00:56:01.320
+<v Jean-François Aubry>And still when you think of it-- I mean, and I, and I've seen-
+
+1144
+00:56:01.600 --> 00:56:05.880
+<v Jean-François Aubry>Yeah ... I've seen some papers on, on metamaterials, I mean, proposing, I mean,
+
+1145
+00:56:06.060 --> 00:56:10.260
+<v Jean-François Aubry>in the long run maybe to be able to propose something through the skull.
+
+1146
+00:56:10.800 --> 00:56:14.460
+<v Jean-François Aubry>And but the-- it was a proof of concept with a, a, a plastic
+
+1147
+00:56:14.560 --> 00:56:16.140
+<v Jean-François Aubry>plate with a constant thickness.
+
+1148
+00:56:16.740 --> 00:56:17.240
+<v Keith Murphy>Mm-hmm.
+
+1149
+00:56:16.780 --> 00:56:22.920
+<v Jean-François Aubry>And I understand there are ways-- I mean, you can probably manufacture materials that
+
+1150
+00:56:22.980 --> 00:56:29.400
+<v Jean-François Aubry>can enhance the transmission through a, a, a, a, an homogeneous plate
+
+1151
+00:56:29.580 --> 00:56:34.560
+<v Jean-François Aubry>with a constant thickness. But the skull, first, does not have a constant thickness,
+
+1152
+00:56:34.940 --> 00:56:37.260
+<v Jean-François Aubry>has a curvature- Mm-hmm ... and is heterogeneous.
+
+1153
+00:56:37.880 --> 00:56:40.120
+<v Jean-François Aubry>So it's a long way. And definitely- Yeah ...
+
+1154
+00:56:40.140 --> 00:56:44.540
+<v Jean-François Aubry>I'm not saying it's impossible, but it, it might be-- at least it would
+
+1155
+00:56:44.580 --> 00:56:47.660
+<v Jean-François Aubry>be a very smart material. Um, and, uh-
+
+1156
+00:56:47.700 --> 00:56:49.140
+<v Keith Murphy>There's barriers. [chuckles]
+
+1157
+00:56:49.180 --> 00:56:52.400
+<v Jean-François Aubry>And not, not just something that, that, that you can create very easily and
+
+1158
+00:56:52.480 --> 00:56:53.540
+<v Jean-François Aubry>put in front of any-
+
+1159
+00:56:54.320 --> 00:56:54.820
+<v Keith Murphy>Yeah
+
+1160
+00:56:54.460 --> 00:56:55.000
+<v Jean-François Aubry>... uh, piece of-
+
+1161
+00:56:55.100 --> 00:56:57.700
+<v Charles Caskey>Like a, a general acoustic. [chuckles] Just it, it-
+
+1162
+00:56:57.720 --> 00:56:58.220
+<v Jean-François Aubry>Yeah
+
+1163
+00:56:57.900 --> 00:56:59.620
+<v Charles Caskey>... on the other side of this material-
+
+1164
+00:56:59.920 --> 00:57:00.420
+<v Jean-François Aubry>Yeah
+
+1165
+00:56:59.960 --> 00:57:01.480
+<v Charles Caskey>... physics doesn't matter. [laughs]
+
+1166
+00:57:01.540 --> 00:57:04.580
+<v Keith Murphy>This, this is a really cool prediction of the future, JF.
+
+1167
+00:57:04.640 --> 00:57:08.740
+<v Keith Murphy>Or maybe you're building it, but something that's morphing in real time and optimizing
+
+1168
+00:57:08.780 --> 00:57:10.520
+<v Keith Murphy>and listening on the other side of the skull.
+
+1169
+00:57:10.780 --> 00:57:11.280
+<v Keith Murphy>I love--
+
+1170
+00:57:11.040 --> 00:57:11.720
+<v Jean-François Aubry>Yeah. It's very cool.
+
+1171
+00:57:11.900 --> 00:57:12.400
+<v Keith Murphy>Yeah, like a phase-
+
+1172
+00:57:12.400 --> 00:57:12.900
+<v Jean-François Aubry>Very cool
+
+1173
+00:57:12.720 --> 00:57:13.760
+<v Charles Caskey>... yeah, some sort of like phase view.
+
+1174
+00:57:13.780 --> 00:57:16.860
+<v Keith Murphy>You're listening to the leader telling his, his forecast here.
+
+1175
+00:57:17.220 --> 00:57:19.720
+<v Charles Caskey>Yeah. Well, that, that's what I wanna know from him is like, where-- Yeah.
+
+1176
+00:57:19.740 --> 00:57:20.240
+<v Jean-François Aubry>Yeah.
+
+1177
+00:57:20.140 --> 00:57:21.640
+<v Charles Caskey>That's kind of the next topic I was thinking of is like-
+
+1178
+00:57:21.640 --> 00:57:22.640
+<v Keith Murphy>You got more good stuff? [laughs]
+
+1179
+00:57:22.680 --> 00:57:24.100
+<v Charles Caskey>Yeah, yeah. Where, where, where are we going?
+
+1180
+00:57:24.220 --> 00:57:26.740
+<v Charles Caskey>Where are we going next? What's, what's, what is ultrasound-
+
+1181
+00:57:26.740 --> 00:57:27.240
+<v Jean-François Aubry>It's awesome
+
+1182
+00:57:26.760 --> 00:57:28.500
+<v Charles Caskey>... what, what do we hope, uh, JF?
+
+1183
+00:57:28.560 --> 00:57:32.160
+<v Charles Caskey>What's your-- What does ultrasound neuromodulation look like in five years?
+
+1184
+00:57:33.240 --> 00:57:39.100
+<v Jean-François Aubry>To be honest, I just-- [chuckles] First, I hope nothing will go wrong.
+
+1185
+00:57:39.720 --> 00:57:40.220
+<v Keith Murphy>Yeah.
+
+1186
+00:57:40.000 --> 00:57:45.940
+<v Jean-François Aubry>And, you know, I've-- Yeah. And I know I've been kind of, uh, um,
+
+1187
+00:57:46.060 --> 00:57:52.540
+<v Jean-François Aubry>uh, I'm very enthusiastic about this technology, definitely.
+
+1188
+00:57:53.560 --> 00:57:58.960
+<v Jean-François Aubry>But I've always-- I mean, at least for the past 10 years, I've been
+
+1189
+00:57:59.060 --> 00:57:59.880
+<v Jean-François Aubry>scared to death-
+
+1190
+00:58:00.440 --> 00:58:00.940
+<v Keith Murphy>Yeah
+
+1191
+00:58:00.620 --> 00:58:07.040
+<v Jean-François Aubry>... to see a lot of, I would say, neurobiologists willing to use
+
+1192
+00:58:07.200 --> 00:58:12.980
+<v Jean-François Aubry>ultrasound without knowing the acoustics. The-- It's important that they team up with, with
+
+1193
+00:58:13.280 --> 00:58:19.460
+<v Jean-François Aubry>acousticians, with physicists, because ultrasound, it seems easy
+
+1194
+00:58:19.760 --> 00:58:23.660
+<v Jean-François Aubry>to use, but it's not, especially when going through the skull.
+
+1195
+00:58:24.520 --> 00:58:25.200
+<v Jean-François Aubry>Uh, and-
+
+1196
+00:58:25.300 --> 00:58:25.800
+<v Keith Murphy>Yeah
+
+1197
+00:58:25.460 --> 00:58:31.940
+<v Jean-François Aubry>... and there are-- So there are many ways to be safe, and ultrasound
+
+1198
+00:58:31.980 --> 00:58:36.720
+<v Jean-François Aubry>neurostimulation should be a non-significant risk approach.
+
+1199
+00:58:37.720 --> 00:58:43.820
+<v Jean-François Aubry>But there are not only the ultrasound risk, but there's also, I would say,
+
+1200
+00:58:44.200 --> 00:58:46.600
+<v Jean-François Aubry>the, uh, electrical safety.
+
+1201
+00:58:46.700 --> 00:58:47.200
+<v Keith Murphy>Mm.
+
+1202
+00:58:47.440 --> 00:58:51.820
+<v Jean-François Aubry>And, and all, all this-- I mean, building a medical device requires, again, as
+
+1203
+00:58:51.880 --> 00:58:55.360
+<v Jean-François Aubry>I said, and I don't have all the skills, but people have, and it's,
+
+1204
+00:58:55.400 --> 00:58:59.780
+<v Jean-François Aubry>it requires a lot of efforts and, and paying attention to all the regulations.
+
+1205
+00:59:00.180 --> 00:59:03.480
+<v Jean-François Aubry>Regulations are not here to hamper us.
+
+1206
+00:59:03.800 --> 00:59:04.300
+<v Jean-François Aubry>They are here-
+
+1207
+00:59:04.240 --> 00:59:04.740
+<v Keith Murphy>No
+
+1208
+00:59:04.300 --> 00:59:06.100
+<v Jean-François Aubry>... to help us and guide us.
+
+1209
+00:59:06.780 --> 00:59:07.280
+<v Jean-François Aubry>And we learn-
+
+1210
+00:59:07.340 --> 00:59:09.020
+<v Charles Caskey>Yeah, and protect people. Like-
+
+1211
+00:59:09.040 --> 00:59:12.860
+<v Jean-François Aubry>Exactly. And, and you, you, you said, I mean, I mean, what standards are
+
+1212
+00:59:12.940 --> 00:59:18.520
+<v Jean-François Aubry>doing is learning from everybody's mistake around the world and, and keeping track of
+
+1213
+00:59:18.560 --> 00:59:22.920
+<v Jean-François Aubry>it and making sure that we would not reproduce those basic mistakes.
+
+1214
+00:59:23.320 --> 00:59:24.000
+<v Keith Murphy>Yeah. Yeah.
+
+1215
+00:59:24.020 --> 00:59:28.320
+<v Jean-François Aubry>And, and so I would say first, for the future of, uh, focused ultrasound,
+
+1216
+00:59:28.380 --> 00:59:31.740
+<v Jean-François Aubry>I do hope that, that nothing too bad will, will happen.
+
+1217
+00:59:32.300 --> 00:59:32.800
+<v Keith Murphy>Yeah.
+
+1218
+00:59:32.320 --> 00:59:37.580
+<v Jean-François Aubry>Because we know also, of course, with ultrasound, depending on the parameters, yes, we
+
+1219
+00:59:37.640 --> 00:59:42.480
+<v Jean-François Aubry>can all do-- can, can go all the way to tissue destruction, which is
+
+1220
+00:59:42.640 --> 00:59:45.420
+<v Jean-François Aubry>good because we can cure with ultrasound.
+
+1221
+00:59:45.860 --> 00:59:46.360
+<v Keith Murphy>Mm-hmm. Yeah.
+
+1222
+00:59:46.080 --> 00:59:51.240
+<v Jean-François Aubry>But now we're talking about simply, in a sense, modulating brain activity.
+
+1223
+00:59:51.280 --> 00:59:53.140
+<v Jean-François Aubry>It's a smooth-- it's a massage of the brain.
+
+1224
+00:59:53.200 --> 00:59:54.840
+<v Jean-François Aubry>It should not hurt the brain.
+
+1225
+00:59:55.260 --> 00:59:55.760
+<v Keith Murphy>Mm-hmm.
+
+1226
+00:59:55.360 --> 00:59:58.360
+<v Jean-François Aubry>So we need to make sure at least that it goes well.
+
+1227
+00:59:58.580 --> 01:00:02.160
+<v Jean-François Aubry>That the first thing I owe for the community in, in, in the, in
+
+1228
+01:00:02.200 --> 01:00:08.280
+<v Jean-François Aubry>the next years. A-and then, um, so, so the, the one
+
+1229
+01:00:08.320 --> 01:00:13.960
+<v Jean-François Aubry>of the best thing that, that could happen is, is that, uh, someone, anyone
+
+1230
+01:00:14.520 --> 01:00:19.040
+<v Jean-François Aubry>quickly in the US gets FDA approval 'cause it would be a, a, a
+
+1231
+01:00:19.120 --> 01:00:24.360
+<v Jean-François Aubry>predicate and, and so that a lot of other devices could, could do a
+
+1232
+01:00:24.560 --> 01:00:25.740
+<v Jean-François Aubry>510(k) and-
+
+1233
+01:00:25.780 --> 01:00:26.280
+<v Keith Murphy>Yeah
+
+1234
+01:00:25.820 --> 01:00:29.860
+<v Jean-François Aubry>... benefit from this. This would help, I think, the field to, to, to
+
+1235
+01:00:29.900 --> 01:00:35.700
+<v Jean-François Aubry>advance. Uh, and, and I think now there, there's no stepping back.
+
+1236
+01:00:35.740 --> 01:00:40.020
+<v Jean-François Aubry>I mean, there are too many people now interested and believing in the technology.
+
+1237
+01:00:40.560 --> 01:00:44.140
+<v Jean-François Aubry>There will be tons of approach that will be developed.
+
+1238
+01:00:44.820 --> 01:00:48.980
+<v Jean-François Aubry>Um, again, I, I, I like the lens approach, but there are others and
+
+1239
+01:00:49.080 --> 01:00:51.240
+<v Jean-François Aubry>we can use also multi-element arrays.
+
+1240
+01:00:51.320 --> 01:00:55.840
+<v Jean-François Aubry>There are many ways to do it and, and definitely one or the other
+
+1241
+01:00:55.980 --> 01:01:01.500
+<v Jean-François Aubry>or several will be successful. And once we have-- we get more and more
+
+1242
+01:01:01.600 --> 01:01:03.400
+<v Jean-François Aubry>clinical data, we will learn a lot.
+
+1243
+01:01:03.480 --> 01:01:06.580
+<v Jean-François Aubry>So I, I see a great future in, in the technology.
+
+1244
+01:01:07.120 --> 01:01:11.860
+<v Jean-François Aubry>And, and also the, the cost will decrease because there will be more and
+
+1245
+01:01:11.920 --> 01:01:17.100
+<v Jean-François Aubry>more devices manufactured and, and there will be OEM devices.
+
+1246
+01:01:17.200 --> 01:01:17.700
+<v Keith Murphy>Yeah.
+
+1247
+01:01:17.720 --> 01:01:20.240
+<v Jean-François Aubry>And, and so, so it would hyper up the, the community.
+
+1248
+01:01:20.720 --> 01:01:21.220
+<v Jean-François Aubry>So-
+
+1249
+01:01:20.980 --> 01:01:21.480
+<v Keith Murphy>Yeah
+
+1250
+01:01:21.140 --> 01:01:26.860
+<v Jean-François Aubry>... uh, I just don't know yet if one would be more efficient than
+
+1251
+01:01:26.900 --> 01:01:32.620
+<v Jean-François Aubry>another. Uh, I don't know if, if some, you know-- if one day we
+
+1252
+01:01:32.660 --> 01:01:36.420
+<v Jean-François Aubry>will be able to treat a patient within a couple of hours.
+
+1253
+01:01:36.960 --> 01:01:38.820
+<v Jean-François Aubry>But again, I, I don't care.
+
+1254
+01:01:39.120 --> 01:01:43.140
+<v Jean-François Aubry>What, what we need is just to, to, uh, to, to alleviate the, the
+
+1255
+01:01:43.220 --> 01:01:45.540
+<v Jean-François Aubry>symptoms on as many people as we can.
+
+1256
+01:01:46.180 --> 01:01:50.740
+<v Jean-François Aubry>And there's so- Yeah ... so much need in this, not only in psychiatry,
+
+1257
+01:01:50.800 --> 01:01:55.540
+<v Jean-François Aubry>but especially in psychiatry, um, that, uh, we will end up with s- with
+
+1258
+01:01:55.580 --> 01:01:56.800
+<v Jean-François Aubry>solutions. And-
+
+1259
+01:01:56.820 --> 01:01:57.320
+<v Keith Murphy>Yeah
+
+1260
+01:01:56.880 --> 01:02:00.120
+<v Jean-François Aubry>... and it, it will become widespread and, and we will have an easy
+
+1261
+01:02:00.180 --> 01:02:06.040
+<v Jean-François Aubry>access to the technology. Uh, hopefully many hospitals and, uh, maybe doctors at some
+
+1262
+01:02:06.080 --> 01:02:09.480
+<v Jean-François Aubry>point will be able also to, to propose this in their office saying, "Okay,
+
+1263
+01:02:09.700 --> 01:02:12.960
+<v Jean-François Aubry>what about you have a, a session of ultrasound and feel better after that?"
+
+1264
+01:02:13.440 --> 01:02:15.460
+<v Jean-François Aubry>We, we see and that, that could be in the future.
+
+1265
+01:02:15.620 --> 01:02:16.800
+<v Jean-François Aubry>That's, uh, that's possible.
+
+1266
+01:02:16.880 --> 01:02:17.380
+<v Keith Murphy>Yeah.
+
+1267
+01:02:17.820 --> 01:02:22.020
+<v Charles Caskey>You've spent a lot of time trying to get, uh, g- safety guidelines because
+
+1268
+01:02:22.180 --> 01:02:26.120
+<v Charles Caskey>I think that because these don't exist and, uh, it's-- You know, I've learned
+
+1269
+01:02:26.140 --> 01:02:30.800
+<v Charles Caskey>a lot just, uh, watching you and Kim Butts Pauly really dissect this and
+
+1270
+01:02:30.840 --> 01:02:32.180
+<v Charles Caskey>try to put the information out there.
+
+1271
+01:02:32.220 --> 01:02:34.820
+<v Charles Caskey>It's, uh, it's really a service task because I don't think this is in
+
+1272
+01:02:34.860 --> 01:02:37.940
+<v Charles Caskey>any of our, you know, grant aims to try to, [chuckles] to try to
+
+1273
+01:02:37.980 --> 01:02:40.860
+<v Charles Caskey>like, you know, wrangle this in and put the information out there.
+
+1274
+01:02:40.920 --> 01:02:45.500
+<v Charles Caskey>But it, it's so important as things scale up and become more available.
+
+1275
+01:02:45.700 --> 01:02:48.600
+<v Charles Caskey>It will shape the type of hardware that becomes available.
+
+1276
+01:02:48.980 --> 01:02:53.280
+<v Charles Caskey>And then when it's in people's hands, they'll have guidelines to follow and, you
+
+1277
+01:02:53.320 --> 01:02:57.240
+<v Charles Caskey>know, we're just not in a place where we have turnkey things that automatically
+
+1278
+01:02:57.720 --> 01:02:59.720
+<v Charles Caskey>ensure the safety. But it's-- Yeah.
+
+1279
+01:02:59.780 --> 01:03:02.560
+<v Charles Caskey>But, uh, that, that's gonna be necessary to have this impact that we wanna
+
+1280
+01:03:02.600 --> 01:03:03.100
+<v Charles Caskey>have.
+
+1281
+01:03:02.900 --> 01:03:07.960
+<v Jean-François Aubry>And I'm more concerned, I mean, not necessarily by devices developed by companies.
+
+1282
+01:03:08.380 --> 01:03:12.320
+<v Jean-François Aubry>Usually, they pay extra attention to the safety of the-
+
+1283
+01:03:12.400 --> 01:03:12.900
+<v Keith Murphy>Mm
+
+1284
+01:03:12.420 --> 01:03:16.180
+<v Jean-François Aubry>... of the device, but more kind of homemade devices.
+
+1285
+01:03:16.980 --> 01:03:21.500
+<v Jean-François Aubry>Uh, and, uh, everything that will be approved by the FDA, I'm fully confident
+
+1286
+01:03:21.820 --> 01:03:23.400
+<v Jean-François Aubry>it will be okay. Uh-
+
+1287
+01:03:23.420 --> 01:03:23.920
+<v Keith Murphy>Yeah
+
+1288
+01:03:23.560 --> 01:03:26.320
+<v Jean-François Aubry>... but it's-- So some-
+
+1289
+01:03:26.520 --> 01:03:30.240
+<v Keith Murphy>People say that's what killed TDCS, the direct current stimulation.
+
+1290
+01:03:30.320 --> 01:03:33.980
+<v Keith Murphy>They started selling them on eBay, and they just had enough electronics to get
+
+1291
+01:03:34.020 --> 01:03:34.780
+<v Keith Murphy>it over the line.
+
+1292
+01:03:34.860 --> 01:03:35.360
+<v Jean-François Aubry>Mm.
+
+1293
+01:03:35.700 --> 01:03:41.320
+<v Keith Murphy>Ultrasound's harder. It's harder, but it's starting to become, like, within reach for the
+
+1294
+01:03:41.460 --> 01:03:47.080
+<v Keith Murphy>average electronics user. So it's-- I definitely recognize that.
+
+1295
+01:03:47.600 --> 01:03:53.480
+<v Keith Murphy>It's-- And also your work through ITRUSST Leading Safety is now really being used
+
+1296
+01:03:53.520 --> 01:03:57.800
+<v Keith Murphy>by the FDA and European regulatory agencies as guidelines.
+
+1297
+01:03:57.840 --> 01:04:00.020
+<v Keith Murphy>Is that right? Or at least they're talking to you a bunch.
+
+1298
+01:04:00.280 --> 01:04:03.580
+<v Jean-François Aubry>No, I, I would not say that yet.
+
+1299
+01:04:03.980 --> 01:04:08.720
+<v Jean-François Aubry>Um, the, the good news i-i-is that they consider it, uh, seriously.
+
+1300
+01:04:08.800 --> 01:04:09.560
+<v Jean-François Aubry>I mean, they think it's-
+
+1301
+01:04:09.620 --> 01:04:10.120
+<v Keith Murphy>Okay. Good.
+
+1302
+01:04:10.040 --> 01:04:10.720
+<v Jean-François Aubry>Yeah ... we did a good job.
+
+1303
+01:04:11.420 --> 01:04:15.740
+<v Jean-François Aubry>But I don't think they would officially say that, that they recommend following those
+
+1304
+01:04:15.820 --> 01:04:20.540
+<v Jean-François Aubry>guidelines. I would say the, the, the-- what is most important about those guidelines
+
+1305
+01:04:20.620 --> 01:04:26.720
+<v Jean-François Aubry>is that it, it helps everybody, uh, designing their own studies, but
+
+1306
+01:04:26.820 --> 01:04:30.520
+<v Jean-François Aubry>also in regards to the FDA, as you're mentioning, the, the FDA or, or
+
+1307
+01:04:30.600 --> 01:04:37.360
+<v Jean-François Aubry>the European regulatory bodies. Um, it, it's more to help companies, uh,
+
+1308
+01:04:37.640 --> 01:04:44.020
+<v Jean-François Aubry>having sound, um, I would say safety, um,
+
+1309
+01:04:44.320 --> 01:04:46.580
+<v Jean-François Aubry>recommendations so they can at least use...
+
+1310
+01:04:46.640 --> 01:04:52.620
+<v Jean-François Aubry>What we basically did is that we, we collected everything that was supporting non-significant
+
+1311
+01:04:52.800 --> 01:04:57.980
+<v Jean-François Aubry>risk, and, and we provide, uh-- It's a, it's a consensus, but it's based--
+
+1312
+01:04:58.080 --> 01:05:03.160
+<v Jean-François Aubry>it's evidence-based, and it is based also on, on all the, the, the different
+
+1313
+01:05:03.220 --> 01:05:07.740
+<v Jean-François Aubry>recommendations we could, we could find for other technologies or for, for, uh, other
+
+1314
+01:05:07.820 --> 01:05:13.380
+<v Jean-François Aubry>biomedical ultrasound usage. Uh, so it, it helps them organize- Yeah ...
+
+1315
+01:05:13.400 --> 01:05:19.280
+<v Jean-François Aubry>and, and, and better prepare their, um, regulatory file to, to submit to the
+
+1316
+01:05:19.380 --> 01:05:25.220
+<v Jean-François Aubry>FDA. That's, that's it. Um, and, and I-I'm kind of confident that if they
+
+1317
+01:05:25.500 --> 01:05:31.300
+<v Jean-François Aubry>do so, uh, the FDA should, should consider it as, as, uh, as safe
+
+1318
+01:05:31.780 --> 01:05:34.600
+<v Jean-François Aubry>because it's a-- And it, and it makes sense.
+
+1319
+01:05:34.700 --> 01:05:38.760
+<v Jean-François Aubry>It's just, uh... So I, I don't think it's, uh-- It will come one
+
+1320
+01:05:38.860 --> 01:05:44.460
+<v Jean-François Aubry>day. I, I, I would love to see a, a, an IEC standard committee-
+
+1321
+01:05:44.660 --> 01:05:45.160
+<v Keith Murphy>Mm.
+
+1322
+01:05:44.800 --> 01:05:49.740
+<v Jean-François Aubry>Yeah ... starting to work on transcranial, uh, ultrasound stimulation.
+
+1323
+01:05:49.820 --> 01:05:52.540
+<v Jean-François Aubry>I, I, I talked about it more today actually.
+
+1324
+01:05:53.100 --> 01:05:56.680
+<v Jean-François Aubry>I, I, I would be happy to, to help, but it's, again, I mean,
+
+1325
+01:05:57.020 --> 01:06:01.760
+<v Jean-François Aubry>there are committees that are already in place, uh, for biomedical ultrasound.
+
+1326
+01:06:01.820 --> 01:06:08.140
+<v Jean-François Aubry>It's just that now they would need also to somehow either incorporate transcranial ultrasound
+
+1327
+01:06:08.220 --> 01:06:12.180
+<v Jean-François Aubry>stimulation into one of the existing standard or create a new one.
+
+1328
+01:06:12.360 --> 01:06:13.240
+<v Jean-François Aubry>I just don't know.
+
+1329
+01:06:13.540 --> 01:06:14.040
+<v Keith Murphy>Yeah.
+
+1330
+01:06:13.660 --> 01:06:15.420
+<v Jean-François Aubry>It will take time. It will take time.
+
+1331
+01:06:15.460 --> 01:06:16.240
+<v Jean-François Aubry>And it, it's still-
+
+1332
+01:06:16.240 --> 01:06:16.740
+<v Keith Murphy>And, and there-- Yeah.
+
+1333
+01:06:17.120 --> 01:06:20.820
+<v Jean-François Aubry>And, and, and I mean, you know, Charles, I mean, you, you know how
+
+1334
+01:06:20.900 --> 01:06:24.860
+<v Jean-François Aubry>long it took us to, to agree to this consensus.
+
+1335
+01:06:24.940 --> 01:06:29.520
+<v Jean-François Aubry>And, and I see now this is not written like a standard.
+
+1336
+01:06:29.620 --> 01:06:35.560
+<v Jean-François Aubry>It's not rigorous enough yet. Uh, it's, it's a very tough work.
+
+1337
+01:06:35.820 --> 01:06:40.720
+<v Jean-François Aubry>And, uh, and when we tried, for example, we wanted also to, to kind
+
+1338
+01:06:40.780 --> 01:06:46.440
+<v Jean-François Aubry>of redefine a mechanical index and a, and a thermal index It's very specific
+
+1339
+01:06:46.520 --> 01:06:52.580
+<v Jean-François Aubry>to transcranial ultrasound stimulation. Actually, it's very hard 'cause they, they-- Whatever
+
+1340
+01:06:52.640 --> 01:06:56.980
+<v Jean-François Aubry>we say about mechanical index and thermal index, mm, they did a pretty good
+
+1341
+01:06:57.060 --> 01:06:58.300
+<v Jean-François Aubry>job in, in making-
+
+1342
+01:06:58.300 --> 01:06:59.720
+<v Charles Caskey>I know. [laughs]
+
+1343
+01:06:59.720 --> 01:07:02.740
+<v Jean-François Aubry>... sure that it would be easy to use and safe.
+
+1344
+01:07:03.260 --> 01:07:03.760
+<v Charles Caskey>Yeah.
+
+1345
+01:07:03.280 --> 01:07:06.440
+<v Jean-François Aubry>And now if you want to, if you wish to, to, wish to change
+
+1346
+01:07:06.500 --> 01:07:09.000
+<v Jean-François Aubry>it or to introduce a new index-
+
+1347
+01:07:10.300 --> 01:07:10.800
+<v Charles Caskey>Yeah
+
+1348
+01:07:10.440 --> 01:07:13.960
+<v Jean-François Aubry>... uh, then you realize that it's, it's not as easy as it, as
+
+1349
+01:07:14.000 --> 01:07:18.840
+<v Jean-François Aubry>it seems. And for example, we, we discussed a lot within the, um, uh,
+
+1350
+01:07:18.940 --> 01:07:24.300
+<v Jean-François Aubry>the, the, the ITRUSST, uh, committee, uh, what is the maximum transmission through the
+
+1351
+01:07:24.340 --> 01:07:29.840
+<v Jean-François Aubry>skull. And at some point we, we ended up actually building a new model,
+
+1352
+01:07:29.920 --> 01:07:31.680
+<v Jean-François Aubry>the three-layer model that we-
+
+1353
+01:07:31.700 --> 01:07:32.200
+<v Charles Caskey>Mm-hmm
+
+1354
+01:07:31.720 --> 01:07:33.120
+<v Jean-François Aubry>... published completely separately.
+
+1355
+01:07:33.420 --> 01:07:34.160
+<v Charles Caskey>Yeah. Def- yeah.
+
+1356
+01:07:34.480 --> 01:07:36.440
+<v Jean-François Aubry>Sometimes you, you, you have an idea like that.
+
+1357
+01:07:36.540 --> 01:07:40.400
+<v Jean-François Aubry>It's, it's actually a lot of work, and it's not finished because it's not
+
+1358
+01:07:40.440 --> 01:07:41.220
+<v Jean-François Aubry>fully validated.
+
+1359
+01:07:41.800 --> 01:07:42.300
+<v Charles Caskey>Mm-hmm.
+
+1360
+01:07:42.400 --> 01:07:42.900
+<v Jean-François Aubry>So it's-
+
+1361
+01:07:42.580 --> 01:07:44.500
+<v Charles Caskey>Right. Right. Like, you want a bigger population-
+
+1362
+01:07:44.660 --> 01:07:45.160
+<v Jean-François Aubry>You kind of put-
+
+1363
+01:07:44.820 --> 01:07:45.760
+<v Charles Caskey>... and you want a bigger-- Yeah.
+
+1364
+01:07:45.880 --> 01:07:46.380
+<v Charles Caskey>There's-
+
+1365
+01:07:46.260 --> 01:07:46.760
+<v Jean-François Aubry>Yeah
+
+1366
+01:07:46.460 --> 01:07:50.480
+<v Charles Caskey>... there's-- But the i- I think the ideas as guidelines are there now
+
+1367
+01:07:50.520 --> 01:07:51.040
+<v Charles Caskey>for people.
+
+1368
+01:07:51.400 --> 01:07:51.900
+<v Jean-François Aubry>Yeah.
+
+1369
+01:07:51.540 --> 01:07:56.500
+<v Charles Caskey>That they can, they can use the logic in those papers as a framework
+
+1370
+01:07:56.540 --> 01:07:59.720
+<v Charles Caskey>to discuss with the FDA and then build their own rigor plan, you know,
+
+1371
+01:07:59.780 --> 01:08:01.980
+<v Charles Caskey>rigorous plan for a specific device.
+
+1372
+01:08:02.300 --> 01:08:02.800
+<v Jean-François Aubry>Exactly.
+
+1373
+01:08:02.380 --> 01:08:06.120
+<v Charles Caskey>And eventually, after enough of that times that happens, I think we'll know more
+
+1374
+01:08:06.160 --> 01:08:08.300
+<v Charles Caskey>what the IEC needs to look like.
+
+1375
+01:08:08.360 --> 01:08:10.560
+<v Charles Caskey>I don't-- You know, we were-- Like you said, it's just so much work
+
+1376
+01:08:10.600 --> 01:08:12.460
+<v Charles Caskey>to get there. Um, but, uh-
+
+1377
+01:08:12.460 --> 01:08:12.960
+<v Jean-François Aubry>And it's-
+
+1378
+01:08:12.700 --> 01:08:13.200
+<v Charles Caskey>But, yeah, I think that-
+
+1379
+01:08:12.960 --> 01:08:16.460
+<v Jean-François Aubry>It's also a good starting point, I think, for the IEC to, to start-
+
+1380
+01:08:16.540 --> 01:08:17.040
+<v Charles Caskey>Yeah
+
+1381
+01:08:16.820 --> 01:08:19.160
+<v Jean-François Aubry>... with, with this and, and, and do something better.
+
+1382
+01:08:19.220 --> 01:08:20.920
+<v Jean-François Aubry>I'm sure they can. Um-
+
+1383
+01:08:21.040 --> 01:08:21.540
+<v Charles Caskey>Yeah.
+
+1384
+01:08:21.440 --> 01:08:21.940
+<v Jean-François Aubry>Yeah.
+
+1385
+01:08:22.280 --> 01:08:24.620
+<v Charles Caskey>S- so that's, yeah, that's a challenge, and I, I hope that I, uh,
+
+1386
+01:08:24.840 --> 01:08:27.260
+<v Charles Caskey>for, for all of us that-- And, and, oh, I guess I should point
+
+1387
+01:08:27.340 --> 01:08:30.520
+<v Charles Caskey>out, um, I was talking with some folks at the FDA recently.
+
+1388
+01:08:30.580 --> 01:08:33.800
+<v Charles Caskey>They are hiring in this area, so if anybody's listening and you're an aspiring
+
+1389
+01:08:33.900 --> 01:08:37.920
+<v Charles Caskey>grad student or so- somebody that wants to contribute to this space, there's clearly
+
+1390
+01:08:37.960 --> 01:08:40.940
+<v Charles Caskey>work to be done. Somebody will pay you for it, and it will be
+
+1391
+01:08:40.980 --> 01:08:43.760
+<v Charles Caskey>very important. So I hope that some-- I hope that we get a really
+
+1392
+01:08:43.800 --> 01:08:47.600
+<v Charles Caskey>good, uh... They already have great, you know, some great people, but, uh, it
+
+1393
+01:08:47.620 --> 01:08:50.800
+<v Charles Caskey>w- you know, if they can get some more, uh, that really understand these
+
+1394
+01:08:50.840 --> 01:08:52.220
+<v Charles Caskey>things. Well, we're at an hour.
+
+1395
+01:08:52.460 --> 01:08:56.580
+<v Charles Caskey>Do we wanna w- wrap this up, or do we-- Where are we at,
+
+1396
+01:08:56.660 --> 01:08:57.160
+<v Charles Caskey>Keith?
+
+1397
+01:08:57.180 --> 01:08:59.580
+<v Keith Murphy>Um, do you wanna do a FUS win or do you wanna say something?
+
+1398
+01:08:59.720 --> 01:09:01.160
+<v Keith Murphy>I can move something epic to the end.
+
+1399
+01:09:01.160 --> 01:09:01.920
+<v Jean-François Aubry>I had, uh, again, I-
+
+1400
+01:09:01.940 --> 01:09:02.820
+<v Keith Murphy>You know the FUS wins.
+
+1401
+01:09:03.020 --> 01:09:03.980
+<v Jean-François Aubry>Yeah, in a sense, I had-
+
+1402
+01:09:04.000 --> 01:09:04.500
+<v Keith Murphy>You're, yeah
+
+1403
+01:09:04.420 --> 01:09:06.100
+<v Jean-François Aubry>... a FUS win because there, there's been a-
+
+1404
+01:09:06.140 --> 01:09:06.740
+<v Keith Murphy>Oh, you did? All right.
+
+1405
+01:09:06.820 --> 01:09:11.940
+<v Jean-François Aubry>Yeah, no. There, there was an, an article, uh, published two weeks ago, and,
+
+1406
+01:09:12.040 --> 01:09:17.200
+<v Jean-François Aubry>uh, it said the last author is someone named Charles Caskey about the performance-
+
+1407
+01:09:17.260 --> 01:09:18.100
+<v Keith Murphy>Ah. [laughs]
+
+1408
+01:09:18.120 --> 01:09:19.900
+<v Jean-François Aubry>... of the w- through transmit aberration correction.
+
+1409
+01:09:19.960 --> 01:09:21.080
+<v Jean-François Aubry>Of course, I, well, I, I like it.
+
+1410
+01:09:21.360 --> 01:09:24.020
+<v Jean-François Aubry>I like it a lot because it, of course, it resurfaces-
+
+1411
+01:09:24.560 --> 01:09:25.060
+<v Keith Murphy>Yeah
+
+1412
+01:09:24.580 --> 01:09:26.460
+<v Jean-François Aubry>... uh, some of my previous work.
+
+1413
+01:09:26.520 --> 01:09:29.640
+<v Jean-François Aubry>But it's, uh, I'd like to see it, and of course, and we need
+
+1414
+01:09:29.700 --> 01:09:33.320
+<v Jean-François Aubry>to, we need to acknowledge here that the work that Jan Kubanek also on
+
+1415
+01:09:33.360 --> 01:09:36.180
+<v Jean-François Aubry>the through, through device. And I think it's, it's good.
+
+1416
+01:09:36.240 --> 01:09:40.600
+<v Jean-François Aubry>You know, it, it does also loop where, where, uh, it, it, it's, it's,
+
+1417
+01:09:41.260 --> 01:09:46.780
+<v Jean-François Aubry>uh, it's, it's good to, to see old ideas coming back and maybe at
+
+1418
+01:09:46.820 --> 01:09:51.680
+<v Jean-François Aubry>the right time because we, when we used the, the shoot through, uh, transmit,
+
+1419
+01:09:52.440 --> 01:09:54.860
+<v Jean-François Aubry>um, device that we developed, it was for imaging.
+
+1420
+01:09:55.200 --> 01:09:56.400
+<v Jean-François Aubry>It was for a completely different-
+
+1421
+01:09:56.440 --> 01:09:56.940
+<v Keith Murphy>Mm-hmm
+
+1422
+01:09:56.540 --> 01:10:01.900
+<v Jean-François Aubry>... application, and it was actually not appropriate for radiologists to, to use it
+
+1423
+01:10:01.940 --> 01:10:06.140
+<v Jean-François Aubry>because they wanted a single element transducer that they could hold and, and to
+
+1424
+01:10:06.180 --> 01:10:09.840
+<v Jean-François Aubry>acquire an image. That's the way they acquire a, an ultrasound image.
+
+1425
+01:10:10.440 --> 01:10:10.940
+<v Jean-François Aubry>Uh-
+
+1426
+01:10:10.620 --> 01:10:11.120
+<v Keith Murphy>Mm-hmm.
+
+1427
+01:10:10.960 --> 01:10:16.560
+<v Jean-François Aubry>But now, I mean, to, to kind of adapt it to another indication, another
+
+1428
+01:10:16.660 --> 01:10:21.800
+<v Jean-François Aubry>way to use the device and make it easier to use as well.
+
+1429
+01:10:22.240 --> 01:10:25.800
+<v Jean-François Aubry>And it-- And I-- So I, I, I both like the, the, the fact
+
+1430
+01:10:25.820 --> 01:10:29.140
+<v Jean-François Aubry>that, that, that Jan actually put it in place and-
+
+1431
+01:10:29.180 --> 01:10:29.680
+<v Keith Murphy>Mm-hmm
+
+1432
+01:10:29.360 --> 01:10:33.700
+<v Jean-François Aubry>... also the, the fact that Charles actually changed the technique a- as well.
+
+1433
+01:10:33.820 --> 01:10:38.100
+<v Jean-François Aubry>It, it's, it's important to, to validate it, it, it, uh, I would say,
+
+1434
+01:10:38.560 --> 01:10:43.780
+<v Jean-François Aubry>with, with other devices, other approach, uh, and, and see when it's suited, when
+
+1435
+01:10:43.820 --> 01:10:48.940
+<v Jean-François Aubry>it's, when it's not. Um, um, you, you, um, you tested it on, on,
+
+1436
+01:10:49.160 --> 01:10:50.720
+<v Jean-François Aubry>on monkeys, on non-human primates.
+
+1437
+01:10:51.680 --> 01:10:52.180
+<v Keith Murphy>Mm-hmm.
+
+1438
+01:10:51.800 --> 01:10:54.680
+<v Jean-François Aubry>So the curvature is, is, uh, more challenging, I would say.
+
+1439
+01:10:54.780 --> 01:10:55.280
+<v Jean-François Aubry>So it's a-
+
+1440
+01:10:55.160 --> 01:10:55.660
+<v Keith Murphy>Mm-hmm
+
+1441
+01:10:55.320 --> 01:10:59.320
+<v Jean-François Aubry>... it's a more challenging, uh, geometry for this approach.
+
+1442
+01:11:00.000 --> 01:11:00.500
+<v Keith Murphy>Mm-hmm.
+
+1443
+01:11:00.220 --> 01:11:04.800
+<v Jean-François Aubry>Uh, but it's good because, again, I mean, you, you, you propose also different
+
+1444
+01:11:04.960 --> 01:11:10.000
+<v Jean-François Aubry>ways to estimate the transmission, so I'm pretty sure it, it benefits to others
+
+1445
+01:11:10.040 --> 01:11:14.460
+<v Jean-François Aubry>who would maybe try to, to maybe implement it the, the same way you
+
+1446
+01:11:14.560 --> 01:11:19.340
+<v Jean-François Aubry>did. You would be very happy anyway, Charles, to, to, to hear that, that
+
+1447
+01:11:19.400 --> 01:11:23.020
+<v Jean-François Aubry>one of my PhD student recently said that he, he read your, your paper,
+
+1448
+01:11:23.520 --> 01:11:26.280
+<v Jean-François Aubry>and he said that when he had a, a first look at, uh, Jan's
+
+1449
+01:11:26.300 --> 01:11:31.420
+<v Jean-François Aubry>paper, he did not fully understand how he was implementing the, the s- the,
+
+1450
+01:11:31.960 --> 01:11:34.840
+<v Jean-François Aubry>the technique, and he said, "Oh, that was cry- crystal clear.
+
+1451
+01:11:34.900 --> 01:11:36.440
+<v Jean-François Aubry>Now I know, I know how to do that."
+
+1452
+01:11:36.460 --> 01:11:40.460
+<v Jean-François Aubry>[laughs] [laughs] So it's, it's always good to, to reduce it and, and-
+
+1453
+01:11:40.460 --> 01:11:40.960
+<v Keith Murphy>Healthy discourse
+
+1454
+01:11:40.600 --> 01:11:44.120
+<v Jean-François Aubry>... and people change mind. And, and now, by the way, a PhD student
+
+1455
+01:11:44.140 --> 01:11:49.480
+<v Jean-François Aubry>will probably go back to Jan Kubanek's paper and also to my paper just
+
+1456
+01:11:49.540 --> 01:11:51.660
+<v Jean-François Aubry>to have the, the full story and, and see-
+
+1457
+01:11:51.800 --> 01:11:52.300
+<v Keith Murphy>Yep
+
+1458
+01:11:51.880 --> 01:11:54.140
+<v Jean-François Aubry>... the different, uh, ways of, of doing it.
+
+1459
+01:11:54.620 --> 01:11:57.680
+<v Jean-François Aubry>So, so it's, so to me, it's a win because it, it shows that
+
+1460
+01:11:57.720 --> 01:11:59.000
+<v Jean-François Aubry>the technology evolves-
+
+1461
+01:11:59.720 --> 01:12:00.220
+<v Keith Murphy>Mm-hmm
+
+1462
+01:11:59.780 --> 01:12:04.000
+<v Jean-François Aubry>... uh, and, and different teams are, are testing this approach.
+
+1463
+01:12:04.580 --> 01:12:08.800
+<v Jean-François Aubry>Uh, I just, uh, m- I don't know, Charles, where are you-- Are, are
+
+1464
+01:12:08.840 --> 01:12:10.880
+<v Jean-François Aubry>you going to use this, uh, this technique?
+
+1465
+01:12:11.640 --> 01:12:15.640
+<v Charles Caskey>The-- Th- first off, thank you very much, uh, for, for being aware-
+
+1466
+01:12:15.780 --> 01:12:16.280
+<v Keith Murphy>To Charles
+
+1467
+01:12:16.240 --> 01:12:17.320
+<v Charles Caskey>... of this manuscript. Yeah, yeah.
+
+1468
+01:12:17.420 --> 01:12:20.340
+<v Charles Caskey>I, I'm, uh, so I credit, I gotta, I have to credit the, the
+
+1469
+01:12:20.420 --> 01:12:23.600
+<v Charles Caskey>first author, who's an undergr- He was an undergrad in the lab, and he
+
+1470
+01:12:23.640 --> 01:12:25.120
+<v Charles Caskey>was-- But he is just-
+
+1471
+01:12:25.220 --> 01:12:25.720
+<v Keith Murphy>Cooper, right?
+
+1472
+01:12:25.720 --> 01:12:28.820
+<v Charles Caskey>... super smart. Cooper, yeah. Cooper's super smart, and, uh, he's gonna go to
+
+1473
+01:12:28.860 --> 01:12:31.360
+<v Charles Caskey>med school, so we won't get to keep him around, so, um- Oh, darn
+
+1474
+01:12:31.360 --> 01:12:33.160
+<v Charles Caskey>... uh, in the ultrasound field for the moment.
+
+1475
+01:12:33.320 --> 01:12:36.780
+<v Charles Caskey>But, um, so thank you. But yeah, so I think from my perspective, it's
+
+1476
+01:12:36.820 --> 01:12:39.100
+<v Charles Caskey>similar to some of the stuff you were talking about with, like, meta-lenses or
+
+1477
+01:12:39.160 --> 01:12:43.840
+<v Charles Caskey>something, is I-- When I first saw the through transmit idea, I was fascinated
+
+1478
+01:12:43.900 --> 01:12:47.700
+<v Charles Caskey>by it, but I kept doing the linear, uh, algebra and thinking like, "Dude,
+
+1479
+01:12:47.740 --> 01:12:51.340
+<v Charles Caskey>this is underdetermined. There's no, like, more unknowns than we have equations."
+
+1480
+01:12:51.860 --> 01:12:53.760
+<v Charles Caskey>But I was also really curious though.
+
+1481
+01:12:53.800 --> 01:12:55.240
+<v Charles Caskey>I was like, "But is it good enough?"
+
+1482
+01:12:55.660 --> 01:12:58.260
+<v Charles Caskey>It was the question. I, I was like, "Is this g- and how robust
+
+1483
+01:12:58.300 --> 01:13:01.160
+<v Charles Caskey>will it be?" And I was like, "These are the next questions we wanna
+
+1484
+01:13:01.200 --> 01:13:04.220
+<v Charles Caskey>know about this technology." Um, and so yeah.
+
+1485
+01:13:04.380 --> 01:13:06.800
+<v Charles Caskey>So, uh, but it, but it felt a little, um...
+
+1486
+01:13:07.120 --> 01:13:11.200
+<v Charles Caskey>I was pretty self-conscious about whether-- Like, I definitely wanted to credit the people
+
+1487
+01:13:11.240 --> 01:13:14.200
+<v Charles Caskey>that are pushing it, that have pushed it forward and are, are moving it
+
+1488
+01:13:14.240 --> 01:13:14.740
+<v Charles Caskey>forward.
+
+1489
+01:13:14.780 --> 01:13:18.540
+<v Keith Murphy>You guys all trying to figure out how to improve the phase correction.
+
+1490
+01:13:18.720 --> 01:13:22.820
+<v Keith Murphy>I, I get that listening f- and correcting for the amplitude was pretty good.
+
+1491
+01:13:23.200 --> 01:13:23.700
+<v Charles Caskey>Mm-hmm.
+
+1492
+01:13:23.680 --> 01:13:25.660
+<v Keith Murphy>Um, but you guys have new ideas for the phase.
+
+1493
+01:13:26.260 --> 01:13:28.880
+<v Keith Murphy>Or d- I've, I-- Like, JF, when I read it, I saw that it
+
+1494
+01:13:28.940 --> 01:13:33.240
+<v Keith Murphy>was like, "Amplitude, pretty good. Phase, not going to work for now."
+
+1495
+01:13:33.360 --> 01:13:35.720
+<v Keith Murphy>But maybe you read it as, "Here's the future path."
+
+1496
+01:13:36.300 --> 01:13:36.800
+<v Charles Caskey>Yeah.
+
+1497
+01:13:36.560 --> 01:13:37.580
+<v Keith Murphy>And Charles, same, same.
+
+1498
+01:13:37.780 --> 01:13:43.520
+<v Jean-François Aubry>There might be also, I mean, uh, uh, might revisit it with, with human
+
+1499
+01:13:43.580 --> 01:13:45.080
+<v Jean-François Aubry>skulls first. And, and in a-
+
+1500
+01:13:45.180 --> 01:13:45.680
+<v Charles Caskey>Mm-hmm. Yeah
+
+1501
+01:13:45.300 --> 01:13:50.200
+<v Jean-François Aubry>... in a ideal configuration where actually when you have the, the transducers, what
+
+1502
+01:13:50.240 --> 01:13:53.640
+<v Jean-François Aubry>the, you know, the, the reason why we place the, the transducers here is
+
+1503
+01:13:53.700 --> 01:13:55.540
+<v Jean-François Aubry>that the, the skull is quite flat-
+
+1504
+01:13:56.240 --> 01:13:56.740
+<v Charles Caskey>Mm-hmm
+
+1505
+01:13:56.520 --> 01:13:57.800
+<v Jean-François Aubry>... uh, around the, the temples.
+
+1506
+01:13:58.520 --> 01:14:02.740
+<v Jean-François Aubry>So it, it means that it's very favorable in that case because the- there
+
+1507
+01:14:02.780 --> 01:14:08.260
+<v Jean-François Aubry>is less aberration, I would say, along the elongation of the, of each individual
+
+1508
+01:14:08.340 --> 01:14:14.360
+<v Jean-François Aubry>elements. Um, so it, it, it, it-- W-when we implemented it, it,
+
+1509
+01:14:14.440 --> 01:14:20.480
+<v Jean-François Aubry>it worked well when we were refocusing close to one of the array.
+
+1510
+01:14:21.240 --> 01:14:21.740
+<v Charles Caskey>Mm-hmm.
+
+1511
+01:14:21.620 --> 01:14:26.840
+<v Jean-François Aubry>When we were steering the beam away and going deeper and deeper inside the
+
+1512
+01:14:26.920 --> 01:14:29.780
+<v Jean-François Aubry>brain is where we were getting challenged.
+
+1513
+01:14:30.340 --> 01:14:31.060
+<v Charles Caskey>Mm-hmm. Yeah.
+
+1514
+01:14:31.120 --> 01:14:37.240
+<v Jean-François Aubry>Um, and so, so there, there might still be some things to, to do
+
+1515
+01:14:37.340 --> 01:14:42.620
+<v Jean-François Aubry>to, to improve the, the technique and maybe work on the backscattered echoes inside
+
+1516
+01:14:42.640 --> 01:14:44.940
+<v Jean-François Aubry>the brain once you refocus the beam.
+
+1517
+01:14:45.000 --> 01:14:47.860
+<v Jean-François Aubry>I, I don't know. There, there might be many things to, to do.
+
+1518
+01:14:48.220 --> 01:14:54.740
+<v Jean-François Aubry>But a-again, it's always interesting to, to see, um, I mean, new experimental
+
+1519
+01:14:54.860 --> 01:15:00.540
+<v Jean-François Aubry>setup testing a similar way of, of processing the data and for others to,
+
+1520
+01:15:00.680 --> 01:15:05.180
+<v Jean-François Aubry>to implement and choose between the, the various, uh, techniques e-exactly when you go
+
+1521
+01:15:05.220 --> 01:15:07.160
+<v Jean-François Aubry>into the details. Um-
+
+1522
+01:15:07.280 --> 01:15:07.780
+<v Charles Caskey>Yeah
+
+1523
+01:15:07.320 --> 01:15:11.580
+<v Jean-François Aubry>... so there are, I mean, still, still many things to, to, to, to
+
+1524
+01:15:11.620 --> 01:15:12.240
+<v Jean-François Aubry>do. Yeah.
+
+1525
+01:15:12.840 --> 01:15:17.000
+<v Keith Murphy>Field is alive and well. Everybody's building on top of each other, figuring things
+
+1526
+01:15:17.060 --> 01:15:19.380
+<v Keith Murphy>out together. [chuckles] Open discussion.
+
+1527
+01:15:20.000 --> 01:15:20.500
+<v Charles Caskey>Yeah.
+
+1528
+01:15:20.020 --> 01:15:21.220
+<v Keith Murphy>It's cool to bring it back around.
+
+1529
+01:15:21.500 --> 01:15:24.240
+<v Jean-François Aubry>And I can tell there's a, there's an, uh, another win is your podcast.
+
+1530
+01:15:24.380 --> 01:15:27.560
+<v Jean-François Aubry>You know, it's, it's, it's very popular among students, I can tell you.
+
+1531
+01:15:28.000 --> 01:15:28.500
+<v Jean-François Aubry>And, and-
+
+1532
+01:15:28.080 --> 01:15:29.720
+<v Keith Murphy>It's about to be way more popular now that you're on.
+
+1533
+01:15:29.760 --> 01:15:31.520
+<v Charles Caskey>Yeah. Now that, now that JF's on it, yeah, yeah.
+
+1534
+01:15:31.580 --> 01:15:33.020
+<v Charles Caskey>It's gonna, it's gonna blow up.
+
+1535
+01:15:33.020 --> 01:15:33.520
+<v Charles Caskey>[chuckles]
+
+1536
+01:15:33.240 --> 01:15:36.500
+<v Jean-François Aubry>And I, I-- It's just that I was, I was looking forward to, to
+
+1537
+01:15:36.540 --> 01:15:40.300
+<v Jean-François Aubry>have some, uh, some, some fun with you guys 'cause, I mean, you seem
+
+1538
+01:15:40.340 --> 01:15:42.920
+<v Jean-François Aubry>to have so much fun recording.
+
+1539
+01:15:43.020 --> 01:15:46.120
+<v Jean-François Aubry>And it's, uh-- When I listen to it, I mean, I, I, I'm always
+
+1540
+01:15:46.280 --> 01:15:48.840
+<v Jean-François Aubry>smiling when I listening to you and your podcast.
+
+1541
+01:15:48.900 --> 01:15:56.280
+<v Jean-François Aubry>It's, it's really nice, yeah. [outro music]

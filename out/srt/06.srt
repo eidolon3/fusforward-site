@@ -1,0 +1,6643 @@
+1
+00:00:00,300 --> 00:00:03,220
+Charles Caskey: So are we gonna do like a formal introduction to the episode, and we're
+
+2
+00:00:03,260 --> 00:00:05,320
+gonna be like, "Hey, welcome to FUS Forward.
+
+3
+00:00:05,840 --> 00:00:08,300
+It's with Keith and Charles. We're gonna talk about..."
+
+4
+00:00:08,400 --> 00:00:09,540
+[laughs] [laughs]
+
+5
+00:00:09,540 --> 00:00:13,080
+Keith Murphy: I like that a lot. [laughs] [laughs]
+
+6
+00:00:13,280 --> 00:00:15,920
+Intro narrator: Follow Charles Caskey and Keith Murphy-
+
+7
+00:00:15,960 --> 00:00:16,460
+Keith Murphy: I think that's great
+
+8
+00:00:16,560 --> 00:00:22,500
+Intro narrator: ... as they explore the next frontier of ultrasound neuromodulation with FUS Forward.
+
+9
+00:00:22,980 --> 00:00:25,040
+Keith Murphy: I just don't look nearly as cool as you two do.
+
+10
+00:00:25,040 --> 00:00:25,560
+[laughs]
+
+11
+00:00:25,600 --> 00:00:26,620
+Charles Caskey: You look great. You got that...
+
+12
+00:00:26,700 --> 00:00:27,280
+You, you, it's very clear.
+
+13
+00:00:27,280 --> 00:00:28,940
+Noah Philip: You look amazing. You're-
+
+14
+00:00:29,080 --> 00:00:29,580
+Charles Caskey: Yeah.
+
+15
+00:00:29,120 --> 00:00:31,100
+Noah Philip: You're in full send mode, Keith.
+
+16
+00:00:31,500 --> 00:00:32,380
+Keith Murphy: Can you see the llama?
+
+17
+00:00:33,260 --> 00:00:33,760
+Noah Philip: Yeah.
+
+18
+00:00:33,480 --> 00:00:35,420
+Charles Caskey: Yeah. [laughs]
+
+19
+00:00:35,660 --> 00:00:40,220
+Keith Murphy: Okay. Well, ho-ho-ho, how are you doing, focus ultrasound friends?
+
+20
+00:00:40,580 --> 00:00:45,500
+Today we have Noah Philip, who is a professor at Brown University and section
+
+21
+00:00:45,620 --> 00:00:49,900
+chief of psychiatric neuromodulation at Veterans Affairs.
+
+22
+00:00:50,460 --> 00:00:51,600
+Noah, it's good to see you.
+
+23
+00:00:52,140 --> 00:00:53,720
+Noah Philip: It is, it is good to be here.
+
+24
+00:00:54,400 --> 00:00:56,840
+Keith Murphy: So Charles and I have known Noah for...
+
+25
+00:00:56,920 --> 00:01:00,100
+Well, I've... Noah, I've known you maybe for five years now, four or five
+
+26
+00:01:00,100 --> 00:01:00,600
+years.
+
+27
+00:01:00,140 --> 00:01:01,060
+Noah Philip: Five years. That's about right.
+
+28
+00:01:01,120 --> 00:01:02,100
+Keith Murphy: Sure you guys for a while.
+
+29
+00:01:02,600 --> 00:01:03,100
+Noah Philip: Yeah.
+
+30
+00:01:02,920 --> 00:01:06,560
+Keith Murphy: Um, and I, I think the thing that's most interesting about my time with
+
+31
+00:01:06,640 --> 00:01:10,320
+you is I've... You know, I guess all of us have always known you
+
+32
+00:01:10,380 --> 00:01:13,760
+came from TMS, and have had some incredible work that we'll talk about.
+
+33
+00:01:14,380 --> 00:01:19,800
+But in ultrasound- Yeah ... you've kind of lived under this sort of cover.
+
+34
+00:01:19,980 --> 00:01:21,420
+Like, we knew you were doing work-
+
+35
+00:01:21,460 --> 00:01:21,960
+Noah Philip: This bubble
+
+36
+00:01:21,580 --> 00:01:22,140
+Keith Murphy: ... and we knew it was...
+
+37
+00:01:22,540 --> 00:01:25,740
+Yeah, we knew it was amazing, but you have been- [laughs] ...
+
+38
+00:01:25,780 --> 00:01:30,080
+you've been unable to talk about what happens inside this bubble, and I-
+
+39
+00:01:30,180 --> 00:01:30,680
+Noah Philip: So true
+
+40
+00:01:30,540 --> 00:01:34,100
+Keith Murphy: ... I've, uh, I've always thought of you as sort of like a yeti
+
+41
+00:01:34,180 --> 00:01:38,320
+or like a, a narwhal, like a big, big and magical with the-
+
+42
+00:01:38,540 --> 00:01:39,040
+Noah Philip: I like it
+
+43
+00:01:38,940 --> 00:01:40,180
+Keith Murphy: ... the h- the horn nose.
+
+44
+00:01:40,180 --> 00:01:41,760
+Noah Philip: With the big tusk. The big tusk.
+
+45
+00:01:41,820 --> 00:01:43,340
+Keith Murphy: Yeah. The- Yeah ... big tusk.
+
+46
+00:01:43,380 --> 00:01:46,180
+But if, but if we ever saw it, would it be, you know, would
+
+47
+00:01:46,220 --> 00:01:49,000
+it be as magical as, as we imagined it to be?
+
+48
+00:01:49,020 --> 00:01:49,520
+[laughs]
+
+49
+00:01:49,440 --> 00:01:53,880
+Noah Philip: Would, would it, would it help me navigate through those ice tunnels beneath the
+
+50
+00:01:53,960 --> 00:01:55,520
+glacier shelves? Would it really help us?
+
+51
+00:01:55,560 --> 00:01:56,940
+Keith Murphy: So what's- [laughs]
+
+52
+00:01:56,980 --> 00:02:01,760
+Charles Caskey: Wait, so we have the pr- uh, a premier clinician scientist pushing more neuromodulation,
+
+53
+00:02:02,200 --> 00:02:07,320
+uh, forward in focused ultrasound, and your question, Keith, is, is he like a
+
+54
+00:02:07,380 --> 00:02:10,240
+narwhal or yeti? [laughs] [laughs]
+
+55
+00:02:10,340 --> 00:02:11,280
+Noah Philip: I feel like he just-
+
+56
+00:02:11,340 --> 00:02:11,840
+Keith Murphy: Yo
+
+57
+00:02:11,360 --> 00:02:12,580
+Charles Caskey: Do you feel like a narwhal or a yeti?
+
+58
+00:02:12,580 --> 00:02:14,120
+Noah Philip: ... straight to, straight to the point of it.
+
+59
+00:02:14,240 --> 00:02:14,740
+Charles Caskey: Yeah.
+
+60
+00:02:14,360 --> 00:02:15,740
+Noah Philip: Straight to the point. I feel like-
+
+61
+00:02:15,860 --> 00:02:17,480
+Keith Murphy: Under the cold ice of Antarctica?
+
+62
+00:02:17,560 --> 00:02:21,060
+Noah Philip: Exactly. Mistaken, in fact, for a unicorn, but...
+
+63
+00:02:21,220 --> 00:02:22,160
+[laughs] [laughs]
+
+64
+00:02:22,200 --> 00:02:25,580
+Charles Caskey: Hang on. Hang on. I think I feel like I'm, I'm like lacking context
+
+65
+00:02:25,620 --> 00:02:28,300
+to understand this. I mean, I, I'm not disagreeing-
+
+66
+00:02:28,300 --> 00:02:28,800
+Keith Murphy: Maybe, maybe not accurate
+
+67
+00:02:28,500 --> 00:02:30,720
+Charles Caskey: ... uh, out of hand. [laughs] Uh-
+
+68
+00:02:30,820 --> 00:02:32,140
+Keith Murphy: I wrote that before we started.
+
+69
+00:02:32,720 --> 00:02:35,640
+Noah Philip: I, I... It's all good. I think, I think what, what Keith is getting
+
+70
+00:02:35,680 --> 00:02:39,320
+at, Charles, is that, you know, been doing this for a while, came in,
+
+71
+00:02:39,620 --> 00:02:43,600
+if you will, from another field, and came in sort of at a, a
+
+72
+00:02:43,700 --> 00:02:50,140
+combo of super weird times, both between, like, COVID and, like, weird
+
+73
+00:02:50,240 --> 00:02:54,820
+other intersectional issues that, like, I'm, uh, also happy to talk about, 'cause actually
+
+74
+00:02:54,860 --> 00:02:59,340
+it's, it's germane to, like, how we all think about developing new treatments when,
+
+75
+00:03:00,100 --> 00:03:05,520
+you know, when we're sitting at the intersection of so many different federal agencies
+
+76
+00:03:05,560 --> 00:03:08,620
+and rules and things like that, that it, you know, sometimes I think it
+
+77
+00:03:08,700 --> 00:03:13,660
+feels from the outside looking in, you're sort of like, well, so, so, like,
+
+78
+00:03:14,240 --> 00:03:15,580
+you know- What's this guy doing?
+
+79
+00:03:15,580 --> 00:03:16,840
+... what's going on? What's going on?
+
+80
+00:03:17,040 --> 00:03:17,540
+Keith Murphy: Yeah.
+
+81
+00:03:17,120 --> 00:03:18,340
+Charles Caskey: Okay. Okay. Yeah, yeah.
+
+82
+00:03:18,600 --> 00:03:19,100
+Noah Philip: Um-
+
+83
+00:03:18,620 --> 00:03:19,120
+Charles Caskey: Yeah
+
+84
+00:03:18,720 --> 00:03:20,000
+Noah Philip: ... and I, I, I actually, I-
+
+85
+00:03:20,080 --> 00:03:20,620
+Keith Murphy: It's like the narwhal, right, Charles?
+
+86
+00:03:20,660 --> 00:03:21,320
+That's the narwhal.
+
+87
+00:03:21,340 --> 00:03:21,840
+Noah Philip: Like the nar-
+
+88
+00:03:21,620 --> 00:03:22,320
+Keith Murphy: You've never heard of one.
+
+89
+00:03:22,760 --> 00:03:24,820
+Charles Caskey: Yeah. Oh, yeah, yeah. Noah, Noah the narwhal.
+
+90
+00:03:25,060 --> 00:03:26,380
+I'm g- I'm, I'm starting to see this.
+
+91
+00:03:27,000 --> 00:03:27,880
+Noah Philip: Noah the narwhal.
+
+92
+00:03:28,080 --> 00:03:28,580
+Charles Caskey: Yeah.
+
+93
+00:03:28,200 --> 00:03:29,540
+Noah Philip: Noah the narwhal. [laughs]
+
+94
+00:03:29,960 --> 00:03:30,460
+Charles Caskey: Okay.
+
+95
+00:03:30,040 --> 00:03:30,540
+Noah Philip: So, like-
+
+96
+00:03:30,120 --> 00:03:33,540
+Keith Murphy: So Noah, you agree with-- You agreed, but, like, what, what, what's it been
+
+97
+00:03:33,580 --> 00:03:37,580
+like living under the ice? Have you, have you presented fully, and did I
+
+98
+00:03:37,640 --> 00:03:39,600
+just miss it? Have you presented the findings?
+
+99
+00:03:39,660 --> 00:03:44,300
+Noah Philip: So I, I did actually do a mini TED Talk on some prelim results
+
+100
+00:03:44,420 --> 00:03:46,040
+last Biological Psychiatry.
+
+101
+00:03:46,860 --> 00:03:47,360
+Keith Murphy: Okay.
+
+102
+00:03:47,420 --> 00:03:50,500
+Noah Philip: Um, so that was out, and that's, that's, uh, in public.
+
+103
+00:03:51,060 --> 00:03:56,040
+Um, we got some stuff that's gonna be at, um, the American College of
+
+104
+00:03:56,160 --> 00:04:00,380
+Neuropsychopharmacology. Um, that's in the Bahamas- Mm-hmm ...
+
+105
+00:04:00,460 --> 00:04:05,900
+in, um, January. So there's a whole bunch of stuff that's, like, being released
+
+106
+00:04:05,940 --> 00:04:10,300
+and whatnot, and the paper is, like, almost done, but there's a few more
+
+107
+00:04:10,340 --> 00:04:13,740
+things. I just wanna make sure it's, like, rock solid and I can't break
+
+108
+00:04:13,800 --> 00:04:14,980
+it before it gets out there.
+
+109
+00:04:15,480 --> 00:04:17,000
+Charles Caskey: Hey, we love that. Yeah. Okay.
+
+110
+00:04:17,120 --> 00:04:20,060
+So it's kind of the, this idea that you, you kind of landed in
+
+111
+00:04:20,100 --> 00:04:24,920
+this space with the proper experience based on TMS and, uh, tDCS.
+
+112
+00:04:25,420 --> 00:04:30,760
+Previously, you were, like, kind of ready to go on certain aspects that were
+
+113
+00:04:30,820 --> 00:04:34,860
+a little more remote to us non-clinicians maybe, uh, and, and kind of have,
+
+114
+00:04:35,000 --> 00:04:36,440
+have been building up this data-
+
+115
+00:04:36,460 --> 00:04:36,960
+Noah Philip: Yeah
+
+116
+00:04:36,480 --> 00:04:40,540
+Charles Caskey: ... and it's just starting to trickle out, uh, in the, i- in, in
+
+117
+00:04:40,820 --> 00:04:42,060
+publications and stuff.
+
+118
+00:04:42,560 --> 00:04:43,060
+Noah Philip: Yeah.
+
+119
+00:04:42,600 --> 00:04:45,920
+Keith Murphy: Charles, Noah is, uh, Noah, Noah's a theta burst guy.
+
+120
+00:04:45,980 --> 00:04:46,500
+Did you know that?
+
+121
+00:04:46,780 --> 00:04:48,460
+Noah Philip: Oh, yeah. Before it was cool.
+
+122
+00:04:49,160 --> 00:04:49,660
+Charles Caskey: Yeah.
+
+123
+00:04:49,280 --> 00:04:52,280
+Keith Murphy: Noah, Charles and I give theta bursts very different ratings.
+
+124
+00:04:53,020 --> 00:04:54,560
+Noah Philip: Well, I, you know-
+
+125
+00:04:54,780 --> 00:04:55,280
+Keith Murphy: What do you think about it?
+
+126
+00:04:55,060 --> 00:04:57,720
+Noah Philip: ... I listened to that as a, as a friend to the show- [laughs]
+
+127
+00:04:57,720 --> 00:04:59,520
+... of your show, friend of the show.
+
+128
+00:04:59,700 --> 00:05:00,400
+I listened to that.
+
+129
+00:05:00,400 --> 00:05:00,900
+Keith Murphy: Yeah, what'd you, what'd you think?
+
+130
+00:05:01,060 --> 00:05:01,560
+Charles Caskey: Yeah, yeah.
+
+131
+00:05:01,540 --> 00:05:04,180
+Noah Philip: And I said I would've given that a two.
+
+132
+00:05:04,840 --> 00:05:05,340
+Charles Caskey: Yeah.
+
+133
+00:05:05,260 --> 00:05:06,520
+Keith Murphy: Yeah. I gave it a one.
+
+134
+00:05:06,580 --> 00:05:07,080
+[laughs]
+
+135
+00:05:06,980 --> 00:05:08,480
+Charles Caskey: That's, that's, that's what I gave it.
+
+136
+00:05:08,580 --> 00:05:12,120
+Noah Philip: So, so, a- and, and, and the, the o- what I wanted to say
+
+137
+00:05:12,160 --> 00:05:17,080
+about that is that when we talk about theta burst from an electromagnetic perspective-
+
+138
+00:05:17,720 --> 00:05:18,220
+Keith Murphy: Yeah, we're talking
+
+139
+00:05:18,040 --> 00:05:19,000
+Noah Philip: ... that doesn't mean-
+
+140
+00:05:19,080 --> 00:05:19,580
+Keith Murphy: Yes
+
+141
+00:05:19,320 --> 00:05:24,300
+Noah Philip: ... that theta burst from an acoustic perspective, even though the numbers might be
+
+142
+00:05:24,360 --> 00:05:28,660
+the same, it doesn't necessarily mean that it's the same thing, and, and, and,
+
+143
+00:05:28,720 --> 00:05:30,060
+and let me sort of step back.
+
+144
+00:05:30,140 --> 00:05:30,640
+Keith Murphy: Mm-hmm.
+
+145
+00:05:31,200 --> 00:05:35,240
+Noah Philip: One of the things that I got to see just by pure luck is
+
+146
+00:05:35,460 --> 00:05:39,780
+I got to see the field of clinical TMS come into its own.
+
+147
+00:05:39,960 --> 00:05:40,980
+Like, I got to be- Yeah ...
+
+148
+00:05:41,040 --> 00:05:42,440
+I was there when it was starting.
+
+149
+00:05:42,460 --> 00:05:42,960
+Keith Murphy: Oh, yeah.
+
+150
+00:05:43,400 --> 00:05:48,040
+Noah Philip: And so, like, I got to see the stuff that honestly, like, we got
+
+151
+00:05:48,240 --> 00:05:52,780
+so right, which was amazing, and I also got to see the stuff that
+
+152
+00:05:52,860 --> 00:05:53,520
+we didn't.
+
+153
+00:05:54,040 --> 00:05:54,540
+Keith Murphy: Whoa.
+
+154
+00:05:54,180 --> 00:05:57,900
+Noah Philip: And how, like, we've not been able to get out from under that.
+
+155
+00:05:58,360 --> 00:05:58,860
+It's-
+
+156
+00:05:58,420 --> 00:06:00,860
+Keith Murphy: Noah, can you tell people about the PTSD study?
+
+157
+00:06:01,100 --> 00:06:02,800
+That-- I mean, those results were awesome
+
+158
+00:06:03,540 --> 00:06:04,040
+Noah Philip: Sure
+
+159
+00:06:03,640 --> 00:06:05,600
+Keith Murphy: ... if you can just briefly hit them with that and then tell us-
+
+160
+00:06:05,620 --> 00:06:06,120
+Noah Philip: Yeah, yeah, yeah
+
+161
+00:06:05,760 --> 00:06:07,280
+Keith Murphy: ... what you got wrong. I wanna know what you got wrong.
+
+162
+00:06:07,340 --> 00:06:12,640
+Noah Philip: Yeah, yeah, yeah. So, so, uh, so the, the study Keith's talking about is
+
+163
+00:06:12,700 --> 00:06:17,120
+a study where we took veterans with, with post-traumatic stress, and this is one
+
+164
+00:06:17,180 --> 00:06:21,800
+of the first randomized control trials of, of theta burst TMS, which is a
+
+165
+00:06:21,820 --> 00:06:22,320
+theta patterns-
+
+166
+00:06:22,200 --> 00:06:23,140
+Keith Murphy: It was the first, right?
+
+167
+00:06:23,760 --> 00:06:24,260
+Noah Philip: It was the-
+
+168
+00:06:23,960 --> 00:06:24,460
+Charles Caskey: I thought it was you
+
+169
+00:06:24,180 --> 00:06:25,480
+Noah Philip: ... it was the first. It was the first, yeah.
+
+170
+00:06:25,500 --> 00:06:26,300
+Charles Caskey: Nice. Own it.
+
+171
+00:06:26,560 --> 00:06:27,060
+Noah Philip: Um-
+
+172
+00:06:26,780 --> 00:06:27,280
+Charles Caskey: Yeah, the first
+
+173
+00:06:27,260 --> 00:06:27,840
+Noah Philip: ... and, um-
+
+174
+00:06:27,840 --> 00:06:29,560
+Charles Caskey: Know it's amazing. [laughs]
+
+175
+00:06:29,600 --> 00:06:34,220
+Noah Philip: And so we, we delivered 1,800 pulses of theta burst, uh, to the right
+
+176
+00:06:34,360 --> 00:06:38,180
+dorsolateral prefrontal cortex, 'cause that was where we thought we wanted to be stimulating.
+
+177
+00:06:38,300 --> 00:06:40,540
+More on that later. Um- [laughs] ...
+
+178
+00:06:40,660 --> 00:06:44,740
+and, uh, we did it in this, like, kind of semi-adaptive design where we
+
+179
+00:06:44,800 --> 00:06:49,380
+gave people a sham control for two weeks, and then we gave everybody active
+
+180
+00:06:49,440 --> 00:06:54,520
+for the following two weeks. And, and we looked at, like, has it improved
+
+181
+00:06:54,580 --> 00:06:57,960
+symptoms and has it improved, like, quality of life and all the stuff that
+
+182
+00:06:57,980 --> 00:07:02,580
+we look at from, from a clinician perspective, and also included a whole lot
+
+183
+00:07:02,620 --> 00:07:06,680
+of neuroimaging, so looking at their brains and networks and stuff like that before
+
+184
+00:07:06,780 --> 00:07:11,720
+and after. And, um, the short version of what we saw is that two
+
+185
+00:07:11,780 --> 00:07:14,520
+weeks of theta burst started to really help.
+
+186
+00:07:14,580 --> 00:07:19,120
+You could actually see separation between active and sham at two weeks only, which
+
+187
+00:07:19,160 --> 00:07:21,520
+was pretty cool in terms of how people functioned.
+
+188
+00:07:22,000 --> 00:07:22,500
+Charles Caskey: Mm-hmm.
+
+189
+00:07:22,020 --> 00:07:25,580
+Noah Philip: Like, even before their symptoms got better, they were telling us they're, like, able
+
+190
+00:07:25,620 --> 00:07:28,560
+to participate in their lives. And then when we got all the way out
+
+191
+00:07:28,620 --> 00:07:33,320
+to a month, sort of a cumulative exposure of four weeks, then, then that's
+
+192
+00:07:33,340 --> 00:07:37,100
+where we saw a really clear story that the symptoms were getting better.
+
+193
+00:07:38,060 --> 00:07:43,680
+And then when we looked at those people a year later, those people who,
+
+194
+00:07:43,740 --> 00:07:46,160
+who were in the active groups, so really if you do the math, they,
+
+195
+00:07:46,320 --> 00:07:49,380
+they got a t- a total of four weeks of stimulation.
+
+196
+00:07:49,700 --> 00:07:50,200
+Charles Caskey: Mm-hmm.
+
+197
+00:07:49,720 --> 00:07:51,860
+Noah Philip: When we took those people compared to the people in the sham group, who
+
+198
+00:07:51,880 --> 00:07:57,560
+got two weeks of stimulation, um, basically most people in the active group were
+
+199
+00:07:57,620 --> 00:08:01,000
+well at a year when we followed them through the medical record.
+
+200
+00:08:01,260 --> 00:08:06,520
+And, and honestly, that was when I started to, like, actually believe that data-
+
+201
+00:08:07,080 --> 00:08:07,580
+Charles Caskey: Mm-hmm
+
+202
+00:08:07,120 --> 00:08:09,220
+Noah Philip: ... was when I saw people were still well at a year.
+
+203
+00:08:09,400 --> 00:08:09,900
+Because-
+
+204
+00:08:10,000 --> 00:08:10,500
+Charles Caskey: Wow
+
+205
+00:08:10,260 --> 00:08:15,440
+Noah Philip: ... you know, psychiatric illness, challenging thing to measure, but, like, people being well
+
+206
+00:08:15,500 --> 00:08:17,860
+for a year, I c- I feel like I could take that home.
+
+207
+00:08:18,260 --> 00:08:20,160
+Charles Caskey: That's, like, sustained. Yeah, right, 'cause it-
+
+208
+00:08:20,260 --> 00:08:20,980
+Noah Philip: Yeah. That's a real effect
+
+209
+00:08:20,980 --> 00:08:24,400
+Charles Caskey: ... that puts some time between the potential for placebo effect- Yeah ...
+
+210
+00:08:24,420 --> 00:08:26,340
+which I'm sure is hard to control for.
+
+211
+00:08:27,040 --> 00:08:27,540
+Noah Philip: 100%.
+
+212
+00:08:27,900 --> 00:08:30,000
+Charles Caskey: Um, yeah. That's, that's cool. I can see, yeah.
+
+213
+00:08:30,080 --> 00:08:30,580
+Noah Philip: 100%.
+
+214
+00:08:30,120 --> 00:08:33,560
+Charles Caskey: So that was really where you were like, "This, this is, this is real,"
+
+215
+00:08:34,120 --> 00:08:34,780
+uh, sustained.
+
+216
+00:08:34,920 --> 00:08:35,480
+Noah Philip: This is the thing.
+
+217
+00:08:35,540 --> 00:08:36,040
+Charles Caskey: Yeah.
+
+218
+00:08:35,700 --> 00:08:38,180
+Keith Murphy: What's the control for, uh-- What's the control in that trial?
+
+219
+00:08:38,300 --> 00:08:40,880
+Do you just turn the coil off or do you move it to an
+
+220
+00:08:40,940 --> 00:08:41,440
+off target area?
+
+221
+00:08:41,740 --> 00:08:46,080
+Noah Philip: No. No, that is a-- It's sort of a pseudo active sham.
+
+222
+00:08:46,240 --> 00:08:50,600
+So it's-- In that, in that trial, what we had was a, um, a
+
+223
+00:08:50,780 --> 00:08:54,900
+magnet that had half of the coil windings reversed.
+
+224
+00:08:55,540 --> 00:09:01,860
+So essentially, um, you get, um, energy that doesn't quite summate in three-dimensional space,
+
+225
+00:09:01,980 --> 00:09:05,540
+so you get a little bit of electrical, uh, sort of a magnetic, um,
+
+226
+00:09:06,220 --> 00:09:07,520
+sensation in your scalp.
+
+227
+00:09:07,900 --> 00:09:08,400
+Charles Caskey: Oh, wow.
+
+228
+00:09:08,040 --> 00:09:10,240
+Noah Philip: Okay. But the energy never actually makes it to brain-
+
+229
+00:09:10,800 --> 00:09:11,300
+Charles Caskey: Oh
+
+230
+00:09:10,820 --> 00:09:13,660
+Noah Philip: ... and it also sounds the same.
+
+231
+00:09:14,680 --> 00:09:15,180
+Um-
+
+232
+00:09:15,040 --> 00:09:16,340
+Keith Murphy: Oh, that sounds well-controlled
+
+233
+00:09:16,340 --> 00:09:16,840
+Noah Philip: ... and I was-
+
+234
+00:09:16,620 --> 00:09:19,860
+Keith Murphy: I've, I've heard some heat put onto TMS for poor control, but that sounds
+
+235
+00:09:19,880 --> 00:09:20,380
+great.
+
+236
+00:09:19,980 --> 00:09:23,320
+Noah Philip: Oh, no, no, no. So early bad con- [laughs] I mean, the early controls
+
+237
+00:09:23,360 --> 00:09:27,020
+were, the early controls were, you'll appreciate this, acoustic controls.
+
+238
+00:09:27,080 --> 00:09:27,580
+Charles Caskey: I love it.
+
+239
+00:09:27,220 --> 00:09:28,200
+Noah Philip: Where have we heard-
+
+240
+00:09:28,240 --> 00:09:28,740
+Keith Murphy: Oh, really? [laughs]
+
+241
+00:09:28,560 --> 00:09:31,020
+Noah Philip: ... that there are acoustic confounds?
+
+242
+00:09:31,060 --> 00:09:32,820
+[laughs] Hmm.
+
+243
+00:09:32,860 --> 00:09:33,940
+Keith Murphy: We didn't learn our lesson.
+
+244
+00:09:34,020 --> 00:09:36,180
+Noah Philip: Hmm. [laughs] So, uh-
+
+245
+00:09:36,580 --> 00:09:38,300
+Charles Caskey: Yeah. [laughs]
+
+246
+00:09:38,340 --> 00:09:42,600
+Noah Philip: So about that, uh, [laughs] so the-- And I-- And, and the other thing
+
+247
+00:09:42,620 --> 00:09:45,680
+that was really cool was we, we got to see-- You know, we saw
+
+248
+00:09:45,700 --> 00:09:50,940
+a pretty clear picture about, like, neural network integrity, predicting responses in ways that
+
+249
+00:09:50,980 --> 00:09:55,400
+we hypothesized, and actually some of those even predicted outcomes like a year out,
+
+250
+00:09:55,480 --> 00:09:56,860
+which was pretty cool- Wow ...
+
+251
+00:09:56,900 --> 00:10:00,860
+in terms of sort of the people's individual sort of network architecture, which was
+
+252
+00:10:00,960 --> 00:10:04,620
+neat. Um, but let me tell you about what we got wrong.
+
+253
+00:10:05,380 --> 00:10:10,520
+So, so I, I, I put the coil over the right dorsolateral prefrontal cortex,
+
+254
+00:10:10,920 --> 00:10:12,100
+and, and why?
+
+255
+00:10:12,680 --> 00:10:13,180
+Charles Caskey: Mm-hmm.
+
+256
+00:10:12,700 --> 00:10:18,780
+Noah Philip: Because the lore at that point was that left side treats depression.
+
+257
+00:10:19,400 --> 00:10:19,900
+Charles Caskey: Mm-hmm.
+
+258
+00:10:19,440 --> 00:10:21,280
+Noah Philip: Right side treats PTSD.
+
+259
+00:10:22,160 --> 00:10:22,660
+Charles Caskey: Whoa.
+
+260
+00:10:22,420 --> 00:10:23,360
+Noah Philip: And, um-
+
+261
+00:10:23,400 --> 00:10:25,020
+Charles Caskey: How'd that, how'd that lore come about?
+
+262
+00:10:25,260 --> 00:10:25,760
+Noah Philip: And that was-
+
+263
+00:10:25,520 --> 00:10:26,060
+Charles Caskey: Did you seed that lore?
+
+264
+00:10:26,200 --> 00:10:26,700
+Noah Philip: Big, small-
+
+265
+00:10:26,680 --> 00:10:27,260
+Charles Caskey: Is that from you?
+
+266
+00:10:27,300 --> 00:10:31,300
+Noah Philip: Yes. No, no. Yeah, exactly. [laughs] No, that came from a series of, came
+
+267
+00:10:31,340 --> 00:10:37,120
+from a series of, I would say, pretty small, not always well-controlled studies, small
+
+268
+00:10:37,200 --> 00:10:41,840
+sample sizes, a lot going on, and, and actually really confirmation bias.
+
+269
+00:10:41,900 --> 00:10:45,440
+So really, the PTSD studies were always looking at right, and the, the depression
+
+270
+00:10:45,500 --> 00:10:46,820
+studies were always looking at left.
+
+271
+00:10:46,880 --> 00:10:51,400
+And so from that, what we concluded was that left treats depression and right
+
+272
+00:10:51,760 --> 00:10:57,360
+treats PTSD. But it never actually had been sort of, uh, really tested in
+
+273
+00:10:57,420 --> 00:10:59,280
+a rigorous way that needed to be done.
+
+274
+00:11:00,020 --> 00:11:05,840
+And it's sort of the-- So, so, you know, really what we've shown, and
+
+275
+00:11:05,880 --> 00:11:09,400
+we have a couple of more recent publications too, where we're like, we're comparing
+
+276
+00:11:09,460 --> 00:11:15,560
+like left-sided stimulation with regular stim versus theta burst versus, um, what's called
+
+277
+00:11:15,600 --> 00:11:19,160
+deep TMS, so a really big field, and we can all get-- we can
+
+278
+00:11:19,200 --> 00:11:24,920
+get really equivalent, statistically equivalent results across all the different shapes and sizes of
+
+279
+00:11:25,000 --> 00:11:29,520
+coils. So, so part of what we did wrong was we really got into
+
+280
+00:11:29,560 --> 00:11:32,580
+this mindset of like, "This thing does that."
+
+281
+00:11:33,080 --> 00:11:33,580
+Charles Caskey: Mm-hmm.
+
+282
+00:11:33,320 --> 00:11:39,380
+Noah Philip: And, and you say that enough, and you just, it, s- you start to
+
+283
+00:11:39,440 --> 00:11:40,740
+not question it anymore.
+
+284
+00:11:41,340 --> 00:11:41,840
+Charles Caskey: Yeah.
+
+285
+00:11:41,920 --> 00:11:42,420
+Noah Philip: Same thing-
+
+286
+00:11:42,280 --> 00:11:42,780
+Charles Caskey: Yeah
+
+287
+00:11:42,300 --> 00:11:48,480
+Noah Philip: ... with high frequency excitatory TMS, low frequency inhibitory TMS can
+
+288
+00:11:48,540 --> 00:11:52,420
+be true in the motor cortex, but we're not stimulating the motor cortex.
+
+289
+00:11:52,480 --> 00:11:56,140
+And so back to your question about why did I give theta burst a
+
+290
+00:11:56,240 --> 00:12:01,640
+two, it's because the last thing that I wanna do now is I want
+
+291
+00:12:01,720 --> 00:12:08,380
+us to all decide together that theta burst is ex-- theta burst acoustic delivery
+
+292
+00:12:08,500 --> 00:12:12,220
+is, quote unquote, "excitatory," and then we just stop questioning that.
+
+293
+00:12:12,830 --> 00:12:15,170
+That's like the worst thing that we can do right now.
+
+294
+00:12:16,510 --> 00:12:17,170
+Keith Murphy: Just too early.
+
+295
+00:12:17,450 --> 00:12:17,950
+Charles Caskey: So not-
+
+296
+00:12:17,630 --> 00:12:18,130
+Keith Murphy: Yeah.
+
+297
+00:12:17,990 --> 00:12:18,490
+Charles Caskey: Too early.
+
+298
+00:12:18,030 --> 00:12:19,090
+Keith Murphy: Yeah. Do we have any like-
+
+299
+00:12:19,150 --> 00:12:19,650
+Charles Caskey: Just exactly,
+
+300
+00:12:19,650 --> 00:12:22,290
+Keith Murphy: Charles ... do we have any, uh, myths that have been living around in
+
+301
+00:12:22,330 --> 00:12:25,050
+focused ultrasound? Uh, well, we're not calling-
+
+302
+00:12:25,070 --> 00:12:25,570
+Charles Caskey: Oh, yeah
+
+303
+00:12:25,270 --> 00:12:28,390
+Keith Murphy: ... theta burst a myth, but Charles and I talked about it previously.
+
+304
+00:12:28,430 --> 00:12:32,650
+It's like you have to test things around it to call it the ideal.
+
+305
+00:12:32,810 --> 00:12:34,850
+Not that it doesn't work, it just may not be optimal.
+
+306
+00:12:34,930 --> 00:12:38,510
+But there's gotta be other things in ultrasound that have kicked around for some
+
+307
+00:12:38,510 --> 00:12:39,010
+time.
+
+308
+00:12:38,510 --> 00:12:40,610
+Charles Caskey: Oh, dude, I, I can think of one, and I, I-
+
+309
+00:12:40,650 --> 00:12:41,150
+Keith Murphy: What do you got?
+
+310
+00:12:41,510 --> 00:12:45,450
+Charles Caskey: I- it's the, the, the, the, the second PRF in the pulse.
+
+311
+00:12:45,930 --> 00:12:50,010
+The one that's like, we have a hard time getting away from this be-
+
+312
+00:12:50,350 --> 00:12:54,030
+it-- because we, we end up in the same dogmatic thinking that Noah's referring
+
+313
+00:12:54,070 --> 00:12:57,330
+to. It's because it's worked for us, though we know it adds to the
+
+314
+00:12:57,390 --> 00:13:02,350
+auditory confound. We have a hard time saying like, "Oh, this extra PRF."
+
+315
+00:13:02,410 --> 00:13:06,030
+It's like we've-- if we, if we change one thing and it-- and there's
+
+316
+00:13:06,090 --> 00:13:07,270
+always a reason not to change.
+
+317
+00:13:07,330 --> 00:13:12,030
+Maybe we've like collected a year's worth of data with this one pulse, uh,
+
+318
+00:13:12,170 --> 00:13:16,130
+sequence and, and then it, then it just snowballs though, 'cause then you now
+
+319
+00:13:16,150 --> 00:13:18,990
+have another paper that says that this works for this one thing and you
+
+320
+00:13:19,030 --> 00:13:22,490
+never really did the, the con- the comparison between the two, and that ends
+
+321
+00:13:22,550 --> 00:13:24,450
+up in your, your grant application.
+
+322
+00:13:24,810 --> 00:13:28,970
+The reviewers say like, "Oh, how did you justify your pulses?"
+
+323
+00:13:29,030 --> 00:13:31,050
+And it's like, "Here's these six papers."
+
+324
+00:13:31,090 --> 00:13:35,330
+And it just starts to build and snowball into something that, yeah, as Noah
+
+325
+00:13:35,470 --> 00:13:40,430
+said, we then now kinda will just by default design that way.
+
+326
+00:13:40,490 --> 00:13:46,150
+But y- it's-- there's not a physical rationale or mechanism that really explains it.
+
+327
+00:13:46,270 --> 00:13:48,130
+Uh, it's just sort of that's how it was done.
+
+328
+00:13:48,750 --> 00:13:49,510
+Keith Murphy: Charles, uh-
+
+329
+00:13:49,890 --> 00:13:50,390
+Charles Caskey: Oh
+
+330
+00:13:49,910 --> 00:13:51,230
+Keith Murphy: ... ex-extra PRF.
+
+331
+00:13:51,470 --> 00:13:51,970
+Charles Caskey: Extra-
+
+332
+00:13:51,610 --> 00:13:52,130
+Keith Murphy: I don't even-
+
+333
+00:13:52,530 --> 00:13:53,030
+Charles Caskey: Yeah.
+
+334
+00:13:52,690 --> 00:13:53,970
+Keith Murphy: So- ... know what you're-- what are you referring to?
+
+335
+00:13:53,970 --> 00:13:54,470
+[chuckles]
+
+336
+00:13:54,510 --> 00:13:59,070
+Charles Caskey: So a lot of early papers from, uh, Jamie Tyler and Seung-Schik, I think
+
+337
+00:13:59,110 --> 00:14:03,990
+we all appreciate that we need about like, you know, 100 milliseconds or so
+
+338
+00:14:04,130 --> 00:14:07,830
+pulse. But a lot of times within that pulse there will be a PRF
+
+339
+00:14:07,890 --> 00:14:10,750
+on the order of a, you know, couple of kilohertz or something.
+
+340
+00:14:10,950 --> 00:14:13,050
+Keith Murphy: Oh my God, the double pulse.
+
+341
+00:14:13,190 --> 00:14:14,150
+Oh, I hate that.
+
+342
+00:14:14,710 --> 00:14:15,210
+Charles Caskey: Yeah. So-
+
+343
+00:14:15,130 --> 00:14:16,690
+Keith Murphy: That is a myth, Charles. You're right.
+
+344
+00:14:16,790 --> 00:14:17,290
+Charles Caskey: No.
+
+345
+00:14:16,810 --> 00:14:17,410
+Keith Murphy: You nailed it.
+
+346
+00:14:17,790 --> 00:14:18,290
+Charles Caskey: Well, I mean-
+
+347
+00:14:17,950 --> 00:14:18,990
+Keith Murphy: Charles, you win. [chuckles]
+
+348
+00:14:19,050 --> 00:14:21,310
+Charles Caskey: I know, and I hate it because I have to own it because we
+
+349
+00:14:21,390 --> 00:14:22,010
+still use it.
+
+350
+00:14:22,110 --> 00:14:22,870
+Keith Murphy: Explain yourself.
+
+351
+00:14:23,370 --> 00:14:26,690
+Charles Caskey: I, yeah. Well, I'm say- I'm saying that, you know, I'm gonna be guilty
+
+352
+00:14:26,730 --> 00:14:30,630
+and say that, that we-- so w- I can't, uh, explain myself.
+
+353
+00:14:30,710 --> 00:14:35,250
+I do think that it's clear that that pulse will have some different physical,
+
+354
+00:14:36,010 --> 00:14:37,870
+uh, mechanism, or at least- Sure ...
+
+355
+00:14:37,930 --> 00:14:40,050
+physically affect the tissue a little bit differently.
+
+356
+00:14:40,570 --> 00:14:43,890
+And yeah, and we've more recently we've been trying to shift away from it,
+
+357
+00:14:43,950 --> 00:14:48,330
+though it's required us to d- do these comparative studies where we're doing fMRI
+
+358
+00:14:48,750 --> 00:14:51,470
+between this pulsed one and then the continuous wave.
+
+359
+00:14:51,550 --> 00:14:52,050
+Keith Murphy: Yeah. Ugh.
+
+360
+00:14:51,610 --> 00:14:55,390
+Charles Caskey: And then like that's, that's, uh, 10 months of work and effort-
+
+361
+00:14:55,450 --> 00:14:55,950
+Keith Murphy: Sure
+
+362
+00:14:55,510 --> 00:14:56,590
+Charles Caskey: ... from people, and it just-
+
+363
+00:14:56,890 --> 00:14:57,390
+Keith Murphy: Yeah
+
+364
+00:14:56,970 --> 00:15:01,610
+Charles Caskey: ... um, just to steer away from something that we're just like hesitant, uh,
+
+365
+00:15:01,750 --> 00:15:02,250
+to do.
+
+366
+00:15:02,010 --> 00:15:03,970
+Keith Murphy: So let me just recap it.
+
+367
+00:15:04,070 --> 00:15:07,630
+But inside of like, let's say a one hertz, you have a very high
+
+368
+00:15:07,730 --> 00:15:09,710
+frequency, [imitates alarm] so that-
+
+369
+00:15:09,750 --> 00:15:10,250
+Charles Caskey: Yep
+
+370
+00:15:09,810 --> 00:15:10,770
+Keith Murphy: ... you can actually hear it.
+
+371
+00:15:11,310 --> 00:15:17,170
+So is it possible that, that hearing something and whatever underlying neuromodulation, um, is
+
+372
+00:15:17,210 --> 00:15:21,270
+happening are sort of superimposing? And maybe it does have a different effect for
+
+373
+00:15:21,310 --> 00:15:21,850
+that reason.
+
+374
+00:15:22,850 --> 00:15:23,830
+Charles Caskey: Y- yeah. The main, uh-
+
+375
+00:15:23,890 --> 00:15:24,550
+Keith Murphy: Kind of waking people up.
+
+376
+00:15:25,670 --> 00:15:28,530
+Charles Caskey: It may, it may-- I mean, certainly, and then when you, when you think
+
+377
+00:15:28,590 --> 00:15:33,550
+about that particular pulse characteristic with respect to the early studies where there was
+
+378
+00:15:33,590 --> 00:15:37,410
+sort of-- where I think now we appreciate that some of the early studies
+
+379
+00:15:37,810 --> 00:15:41,250
+almost certainly had, uh, a component of a startle effect.
+
+380
+00:15:41,670 --> 00:15:46,090
+I mean, adding a two kilohertz pulse is only gonna enhance that.
+
+381
+00:15:46,150 --> 00:15:49,530
+And so it sort of s- kinda sees how we got down that path
+
+382
+00:15:49,570 --> 00:15:51,090
+a little bit. Um-
+
+383
+00:15:51,910 --> 00:15:56,410
+Keith Murphy: Noah, what do you think about this rapscallion putting all this PRF doubling in
+
+384
+00:15:57,150 --> 00:15:57,650
+out of our field? [clears throat]
+
+385
+00:15:57,490 --> 00:16:02,030
+Noah Philip: I mean, I-- you know, we-- that startle response is a, is a beast
+
+386
+00:16:02,110 --> 00:16:05,650
+in people too. Um, you know, part of-- you know, there's a lot of
+
+387
+00:16:05,710 --> 00:16:07,890
+pain in the TMS pulse makes people jump.
+
+388
+00:16:08,710 --> 00:16:09,210
+Keith Murphy: Yeah.
+
+389
+00:16:08,770 --> 00:16:12,150
+Noah Philip: I will say, I will say credit to you, Charles, because, you know, one--
+
+390
+00:16:12,290 --> 00:16:18,050
+the easiest thing is to see something like this and just sort of quietly
+
+391
+00:16:18,210 --> 00:16:24,050
+let it go. And the really good scientists see this, and they're like, "Nope."
+
+392
+00:16:24,230 --> 00:16:24,730
+Keith Murphy: Mm-hmm.
+
+393
+00:16:24,930 --> 00:16:25,430
+Charles Caskey: "Nope."
+
+394
+00:16:25,170 --> 00:16:25,670
+Keith Murphy: It's like-
+
+395
+00:16:25,510 --> 00:16:26,950
+Charles Caskey: "Gotta deal with it."
+
+396
+00:16:26,950 --> 00:16:28,190
+Keith Murphy: Nice. Well done, Charles. [chuckles]
+
+397
+00:16:28,210 --> 00:16:30,450
+Charles Caskey: We gotta deal with it. We're trying to deal with it.
+
+398
+00:16:30,530 --> 00:16:35,430
+It's-- yeah, but it, it has been slower than I would've liked and, and
+
+399
+00:16:35,490 --> 00:16:38,570
+just that there is actual work to move away from it.
+
+400
+00:16:38,650 --> 00:16:39,330
+[chuckles] Yeah.
+
+401
+00:16:40,190 --> 00:16:40,690
+Keith Murphy: Um-
+
+402
+00:16:40,330 --> 00:16:41,230
+Charles Caskey: Yeah, that sucks.
+
+403
+00:16:41,930 --> 00:16:43,970
+Noah Philip: It's hard to unlearn. It's hard-
+
+404
+00:16:43,990 --> 00:16:44,490
+Keith Murphy: Yeah.
+
+405
+00:16:44,630 --> 00:16:48,290
+Noah Philip: Once-- it's hard to unlearn. That's what-- I mean, that's the story of PTSD.
+
+406
+00:16:48,350 --> 00:16:49,890
+It's hard to unlearn.
+
+407
+00:16:50,070 --> 00:16:50,570
+Keith Murphy: Oh, nice.
+
+408
+00:16:50,390 --> 00:16:51,490
+Charles Caskey: Yeah. Mechanistically-
+
+409
+00:16:51,610 --> 00:16:52,110
+Keith Murphy: Yeah
+
+410
+00:16:51,630 --> 00:16:53,270
+Charles Caskey: ... on theme, yeah. Mm-hmm. Yeah.
+
+411
+00:16:53,750 --> 00:16:54,250
+Yeah.
+
+412
+00:16:54,990 --> 00:16:59,930
+Keith Murphy: I feel like we also as a field are getting overly wrapped up in
+
+413
+00:17:00,110 --> 00:17:02,950
+online effects when the real good stuff is- Ooh ...
+
+414
+00:17:02,990 --> 00:17:06,090
+the offline effects. And, you know, I, I appreciate- Yeah ...
+
+415
+00:17:06,130 --> 00:17:09,770
+knowing what happens offline. It's good to know what happens online, but I don't
+
+416
+00:17:09,790 --> 00:17:12,110
+know. It's hard to measure stuff online for everybody.
+
+417
+00:17:12,150 --> 00:17:14,830
+It's like- Yeah ... we should try to shift a little.
+
+418
+00:17:15,630 --> 00:17:16,190
+Okay, so Noah-
+
+419
+00:17:16,210 --> 00:17:16,710
+Charles Caskey: We'll have the data
+
+420
+00:17:16,650 --> 00:17:17,830
+Keith Murphy: ... let me, let me go back to the notes.
+
+421
+00:17:18,710 --> 00:17:19,210
+Charles Caskey: Yeah.
+
+422
+00:17:18,770 --> 00:17:23,490
+Keith Murphy: So, uh, okay. So you were doing-- I, I mean, it reminds me also,
+
+423
+00:17:23,550 --> 00:17:26,330
+and I know he was a friend of yours, of like Nolan Williams was
+
+424
+00:17:26,390 --> 00:17:27,390
+the guy who was like- Yeah ...
+
+425
+00:17:27,390 --> 00:17:29,150
+"Do, do more. Do it really fast."
+
+426
+00:17:29,210 --> 00:17:31,190
+And you brought online the idea-
+
+427
+00:17:31,210 --> 00:17:31,710
+Charles Caskey: Yeah
+
+428
+00:17:31,250 --> 00:17:34,590
+Keith Murphy: ... of do, do these different patterns and under certain circumstances.
+
+429
+00:17:34,750 --> 00:17:35,250
+Charles Caskey: Yeah.
+
+430
+00:17:34,850 --> 00:17:36,470
+Keith Murphy: And you guys operated in a similar way.
+
+431
+00:17:37,090 --> 00:17:37,990
+What are you doing-
+
+432
+00:17:38,010 --> 00:17:38,510
+Charles Caskey: I mean, we-
+
+433
+00:17:38,490 --> 00:17:40,650
+Keith Murphy: ... to the extent that you can share in ultrasound-
+
+434
+00:17:41,350 --> 00:17:42,510
+Charles Caskey: Yeah, yeah, yeah. Yeah, I mean-
+
+435
+00:17:42,530 --> 00:17:45,870
+Keith Murphy: The, the, the mature, the pointy horn, the horn-headed narwhal that you are.
+
+436
+00:17:45,910 --> 00:17:47,510
+Noah Philip: The horn-headed, the horn-headed narwhal. [chuckles]
+
+437
+00:17:47,550 --> 00:17:48,050
+Keith Murphy: Horn-headed narwhal.
+
+438
+00:17:48,090 --> 00:17:51,930
+Noah Philip: Yeah. I mean-- oh God. Uh, Nolan, I mean, he-- you know, I really,
+
+439
+00:17:52,170 --> 00:17:55,410
+you know, considered him a friend, and he and I like, you know, he
+
+440
+00:17:55,450 --> 00:17:57,670
+would ride and I would ski or telemark and whatnot.
+
+441
+00:17:57,890 --> 00:18:01,530
+So, you know, we, we talked a lot about theta burst stuff in the
+
+442
+00:18:01,590 --> 00:18:05,130
+early days. Um, but that's sort of a TMS story.
+
+443
+00:18:05,610 --> 00:18:08,430
+Um, so what were you asking about ultrasound?
+
+444
+00:18:08,430 --> 00:18:08,930
+[chuckles]
+
+445
+00:18:09,030 --> 00:18:09,530
+Keith Murphy: Oh, yeah, yeah.
+
+446
+00:18:09,550 --> 00:18:10,050
+Charles Caskey: So-
+
+447
+00:18:09,590 --> 00:18:11,190
+Keith Murphy: What's, what's going on now under the ice?
+
+448
+00:18:11,370 --> 00:18:14,090
+Noah Philip: Yeah, yeah, yeah. So, okay, so we are, um...
+
+449
+00:18:14,430 --> 00:18:20,670
+So we got a cooperative kinda first in human study that was funded by
+
+450
+00:18:20,790 --> 00:18:24,370
+NIMH in, I'd have to check the year, but I think it was 2021.
+
+451
+00:18:24,490 --> 00:18:27,090
+And actually even before that, come to think of it, actually we started in
+
+452
+00:18:27,230 --> 00:18:30,860
+20-- we were- 19 with like a big equipment grant from VA.
+
+453
+00:18:31,540 --> 00:18:32,040
+Keith Murphy: Oh, nice.
+
+454
+00:18:31,840 --> 00:18:37,840
+Noah Philip: Um, 2019 or 2020. So, so that, that study, which is sort of ironic,
+
+455
+00:18:37,880 --> 00:18:42,980
+you sort of look back on this, uh, this is in patients with depression
+
+456
+00:18:43,040 --> 00:18:49,060
+and anxiety and, you know, was essentially testing the use of, of a
+
+457
+00:18:49,260 --> 00:18:55,340
+very simple single element, you know, system delivering energy to,
+
+458
+00:18:55,760 --> 00:19:00,520
+you know, the right amygdala or the contralateral somatosensory cortex in a crossover design.
+
+459
+00:19:01,200 --> 00:19:04,980
+Uh, doing both, to your point earlier, both online and offline effects.
+
+460
+00:19:05,040 --> 00:19:08,780
+So online is kind of, uh, uh, offline is sort of phase one of
+
+461
+00:19:08,820 --> 00:19:12,060
+the study and, and offline is sort of phase two of the study.
+
+462
+00:19:12,720 --> 00:19:16,120
+And, and FDA at the, at the point where, because we had to get
+
+463
+00:19:16,140 --> 00:19:20,540
+an IDE to, to get this study going, you know, even though we were
+
+464
+00:19:20,660 --> 00:19:24,860
+in the, what we would now consider to be like a clearly NSR area,
+
+465
+00:19:25,500 --> 00:19:27,660
+they gave us a significant risk determination.
+
+466
+00:19:28,340 --> 00:19:28,840
+Keith Murphy: Oh. Whoa.
+
+467
+00:19:28,780 --> 00:19:29,280
+Noah Philip: Um, so they, they-
+
+468
+00:19:29,060 --> 00:19:31,460
+Keith Murphy: Are you the first person to be designated that way?
+
+469
+00:19:31,960 --> 00:19:34,720
+I have not heard of anybody else getting the significant risk.
+
+470
+00:19:34,760 --> 00:19:37,640
+Noah Philip: Uh, it's possible. It po- I mean, I think, I think part of- Wow
+
+471
+00:19:37,640 --> 00:19:39,600
+... part of the problem was like I might've been too early.
+
+472
+00:19:39,780 --> 00:19:40,340
+I think people kind of freaked out.
+
+473
+00:19:40,380 --> 00:19:42,000
+Charles Caskey: Well, yeah, there's a timing portion.
+
+474
+00:19:42,060 --> 00:19:43,740
+Was this IRB or was this FDA?
+
+475
+00:19:44,440 --> 00:19:44,940
+Noah Philip: FDA.
+
+476
+00:19:45,180 --> 00:19:45,680
+Charles Caskey: So FDA.
+
+477
+00:19:45,680 --> 00:19:46,180
+Keith Murphy: Oh.
+
+478
+00:19:45,720 --> 00:19:46,880
+Charles Caskey: Yeah, okay. Got it. Yeah.
+
+479
+00:19:46,900 --> 00:19:47,700
+Noah Philip: FDA. Oh, yeah.
+
+480
+00:19:47,700 --> 00:19:50,040
+Keith Murphy: So, and it was because of the repeated nature maybe?
+
+481
+00:19:50,200 --> 00:19:51,000
+Because of how much you were doing?
+
+482
+00:19:51,200 --> 00:19:55,480
+Noah Philip: Um, no. I mean, I, I think it actually had more to do with
+
+483
+00:19:55,560 --> 00:19:59,140
+the, at that point, the intersectional unknown of-
+
+484
+00:19:59,280 --> 00:19:59,780
+Charles Caskey: Yeah
+
+485
+00:19:59,300 --> 00:20:04,340
+Noah Philip: ... of sonicating essentially a new area in patients.
+
+486
+00:20:04,640 --> 00:20:07,480
+So, you know, we-- when, when you think about some of the other work
+
+487
+00:20:07,500 --> 00:20:11,820
+with ultrasound that's been looking in depression or even other psychiatric illnesses like, like
+
+488
+00:20:11,860 --> 00:20:16,100
+Jan's stuff and whatnot, those are, those are going to targets that we know
+
+489
+00:20:16,140 --> 00:20:18,860
+from deep brain stimulation. Like we kinda get it.
+
+490
+00:20:18,940 --> 00:20:22,880
+We, we, we have a, we have a general idea of what happens-
+
+491
+00:20:23,400 --> 00:20:23,900
+Charles Caskey: Okay
+
+492
+00:20:23,420 --> 00:20:27,080
+Noah Philip: ... when you reach in and you put some leads in the subgenual anterior
+
+493
+00:20:27,140 --> 00:20:33,380
+cingulate. Well, w- we have, we collectively so much less experience going
+
+494
+00:20:33,480 --> 00:20:38,340
+in and, you know, and, and, and poking the amygdala.
+
+495
+00:20:38,800 --> 00:20:39,300
+Charles Caskey: Yeah.
+
+496
+00:20:39,100 --> 00:20:39,600
+Keith Murphy: Mm-hmm.
+
+497
+00:20:39,340 --> 00:20:43,720
+Noah Philip: And so, so I, I think, you know, their, their-- as I understood it,
+
+498
+00:20:43,780 --> 00:20:47,400
+the logic that was essentially it was, it was just a lot of unknowns,
+
+499
+00:20:47,780 --> 00:20:52,480
+and they were worried because patients with depression have things that happen to them.
+
+500
+00:20:52,800 --> 00:20:56,440
+They really didn't want something bad, and so they called it significant risk.
+
+501
+00:20:56,480 --> 00:20:56,980
+And-
+
+502
+00:20:56,720 --> 00:20:57,220
+Charles Caskey: Yeah
+
+503
+00:20:56,840 --> 00:20:59,480
+Noah Philip: ... which, which, um, is fine.
+
+504
+00:20:59,520 --> 00:21:01,720
+I mean, fast-forward, I mean, that intensity is laughable.
+
+505
+00:21:01,800 --> 00:21:04,880
+We have a, you know, another study that's gonna be starting soon that gives-
+
+506
+00:21:04,920 --> 00:21:05,420
+Keith Murphy: Laughable
+
+507
+00:21:05,080 --> 00:21:05,940
+Noah Philip: ... like repeated administrations-
+
+508
+00:21:05,940 --> 00:21:06,440
+Keith Murphy: Wait, what was the-
+
+509
+00:21:06,360 --> 00:21:07,760
+Noah Philip: ... and higher doses. Sorry.
+
+510
+00:21:07,800 --> 00:21:09,280
+Keith Murphy: What was the pressure? What was the intensity?
+
+511
+00:21:10,300 --> 00:21:11,800
+Noah Philip: This is like the, this is like- Okay ...
+
+512
+00:21:11,840 --> 00:21:16,340
+I mean, we're a mechanical index of like 1.3 to 1.7 maybe.
+
+513
+00:21:16,940 --> 00:21:20,120
+I mean, it's the ISPTA of, you know, the just under 720.
+
+514
+00:21:21,000 --> 00:21:21,500
+Um, yeah.
+
+515
+00:21:21,200 --> 00:21:21,740
+Keith Murphy: Oh, that's low.
+
+516
+00:21:21,820 --> 00:21:22,320
+Noah Philip: So it's-
+
+517
+00:21:22,580 --> 00:21:23,080
+Keith Murphy: That's very low. Yeah
+
+518
+00:21:23,040 --> 00:21:26,860
+Noah Philip: ... so it's, it's, it's what we would really consider to be, you know,
+
+519
+00:21:27,000 --> 00:21:31,040
+kinda NSR use now, but I think there was just too much unknown at
+
+520
+00:21:31,080 --> 00:21:32,160
+that point. Um-
+
+521
+00:21:32,180 --> 00:21:36,600
+Charles Caskey: Well, yeah, and any-- and I think any risk designation is always going to
+
+522
+00:21:36,640 --> 00:21:40,900
+consider the, the patient population in, in-
+
+523
+00:21:41,160 --> 00:21:41,660
+Noah Philip: Yeah
+
+524
+00:21:41,240 --> 00:21:46,200
+Charles Caskey: ... yeah, and so it's, uh, if depressive, if patients that have depression, the
+
+525
+00:21:46,260 --> 00:21:50,300
+potential outcomes may be, may be, uh, worse if they're-
+
+526
+00:21:50,380 --> 00:21:50,880
+Noah Philip: Yeah, exactly
+
+527
+00:21:50,500 --> 00:21:54,760
+Charles Caskey: ... they may be predisposed to have a negative, uh, an adverse event compared
+
+528
+00:21:54,820 --> 00:21:58,220
+to somebody that doesn't have a disease state and, um- Yeah ...
+
+529
+00:21:58,240 --> 00:22:01,400
+I've, I've s- that's echoes. And, and but I think you mentioned something else.
+
+530
+00:22:01,440 --> 00:22:06,620
+It's like it was deemed significant risk for these reasons, but that's significant risk
+
+531
+00:22:06,660 --> 00:22:09,300
+doesn't equate to bad, and it doesn't equate to-
+
+532
+00:22:09,400 --> 00:22:09,900
+Noah Philip: Right
+
+533
+00:22:09,420 --> 00:22:10,900
+Charles Caskey: ... don't do it. It just-
+
+534
+00:22:10,920 --> 00:22:11,420
+Noah Philip: Correct
+
+535
+00:22:11,360 --> 00:22:14,920
+Charles Caskey: ... from my understanding means the FDA wants to know more about it.
+
+536
+00:22:14,960 --> 00:22:18,040
+They wanna keep their eyes on it and, and understand it more rather than
+
+537
+00:22:18,100 --> 00:22:23,200
+say, "You're gonna fly under the NSR, non-significant risk," and not care as much.
+
+538
+00:22:23,320 --> 00:22:27,920
+So I think y- it is, and then especially considering the timeframe, as you
+
+539
+00:22:27,960 --> 00:22:32,020
+mentioned, I think physically we've, we've converged on sets of parameters that we feel
+
+540
+00:22:32,460 --> 00:22:36,480
+present non-significant risk. But it i-- I think even with that, we will still
+
+541
+00:22:36,620 --> 00:22:39,120
+see things with new brain sites and new-
+
+542
+00:22:39,260 --> 00:22:39,760
+Noah Philip: 100%
+
+543
+00:22:39,520 --> 00:22:43,780
+Charles Caskey: ... uh, and new conditions that, that shift that one way or the other.
+
+544
+00:22:45,040 --> 00:22:50,980
+Noah Philip: You know, a- anything that helps people feel better can go the other way.
+
+545
+00:22:51,000 --> 00:22:51,500
+[coughs]
+
+546
+00:22:51,520 --> 00:22:52,080
+Charles Caskey: Yeah, r- yeah.
+
+547
+00:22:52,140 --> 00:22:52,720
+Noah Philip: I mean, it, and-
+
+548
+00:22:52,800 --> 00:22:53,300
+Charles Caskey: Yeah
+
+549
+00:22:52,980 --> 00:22:56,560
+Noah Philip: ... and, and things can go real bad and, and we've seen this a
+
+550
+00:22:56,620 --> 00:23:00,900
+couple of times in, in, in other folks' studies and ours too, and we
+
+551
+00:23:00,940 --> 00:23:04,720
+should anticipate we're gonna be seeing more of it as, as we intervene.
+
+552
+00:23:05,200 --> 00:23:07,240
+Charles Caskey: Yeah, and it's, that goes with drugs too.
+
+553
+00:23:07,280 --> 00:23:07,780
+Noah Philip: Yeah.
+
+554
+00:23:07,340 --> 00:23:08,060
+Charles Caskey: I think you can get-
+
+555
+00:23:08,200 --> 00:23:08,700
+Noah Philip: 100%
+
+556
+00:23:08,420 --> 00:23:09,400
+Charles Caskey: ... drug combinations-
+
+557
+00:23:09,400 --> 00:23:09,900
+Noah Philip: 100%
+
+558
+00:23:09,480 --> 00:23:13,560
+Charles Caskey: ... that make people more depressive or more prone to suicide, uh, than if
+
+559
+00:23:13,600 --> 00:23:14,780
+they hadn't had it, and those are the...
+
+560
+00:23:15,240 --> 00:23:19,380
+But i- identifying those and setting up the situations the, where those things will
+
+561
+00:23:19,420 --> 00:23:22,240
+be identified, I think that's what the significant risk- Yeah ...
+
+562
+00:23:22,260 --> 00:23:24,500
+designation is about sometimes.
+
+563
+00:23:24,540 --> 00:23:28,800
+Noah Philip: Yeah. No, exactly. So we-- Keith, to, to actually answer your question, right?
+
+564
+00:23:28,860 --> 00:23:31,740
+So that study is just about done in its entirety.
+
+565
+00:23:31,880 --> 00:23:35,800
+So we finished phase one of the study about a year ago, and that's
+
+566
+00:23:35,840 --> 00:23:38,020
+what we're writing up and getting ready to put out, and that's what I
+
+567
+00:23:38,460 --> 00:23:43,700
+started to present on. And then phase two is gonna end, uh, I wanna
+
+568
+00:23:43,740 --> 00:23:48,140
+say it's like, it's like March 30th or whatever the date is for, for
+
+569
+00:23:48,200 --> 00:23:51,220
+that part of the phase. So that's almost like we've got like one or
+
+570
+00:23:51,260 --> 00:23:53,640
+two more people that we're gonna run through, and then we're done.
+
+571
+00:23:53,880 --> 00:23:56,160
+Keith Murphy: Oh, and is that at the higher, the higher dose?
+
+572
+00:23:57,540 --> 00:23:59,600
+Noah Philip: No, th- this is all, this is all-
+
+573
+00:23:59,620 --> 00:24:00,120
+Keith Murphy: Oh, it's in that phase
+
+574
+00:23:59,700 --> 00:24:03,120
+Noah Philip: ... single application crossover to... The, the higher dose stuff is gonna be the
+
+575
+00:24:03,160 --> 00:24:04,540
+next study. Um-
+
+576
+00:24:04,640 --> 00:24:09,280
+Keith Murphy: And, um, when you did this study, I'm remembering you, uh, partnered with BrainSonix.
+
+577
+00:24:09,420 --> 00:24:10,880
+So it's, uh, it's like a- Yeah ...
+
+578
+00:24:10,920 --> 00:24:15,460
+large, very large element that can be mechanically pivoted inside like a water-
+
+579
+00:24:15,500 --> 00:24:16,000
+Noah Philip: Correct
+
+580
+00:24:15,560 --> 00:24:19,920
+Keith Murphy: ... capsule. So do you put people, you put people in the MRI scanner,
+
+581
+00:24:19,960 --> 00:24:24,020
+and then can you reach in and steer it after like, uh, MR imaging
+
+582
+00:24:24,080 --> 00:24:25,100
+where the device sits?
+
+583
+00:24:25,320 --> 00:24:25,820
+Noah Philip: Yeah.
+
+584
+00:24:25,680 --> 00:24:26,180
+Keith Murphy: How does that work?
+
+585
+00:24:26,100 --> 00:24:29,060
+Noah Philip: Yeah, so the-- yeah, so there, it's, it's clunky.
+
+586
+00:24:29,540 --> 00:24:32,240
+Uh, and- [laughs] ... and essentially, I mean-
+
+587
+00:24:32,280 --> 00:24:33,300
+Keith Murphy: He doesn't mean it like that.
+
+588
+00:24:33,360 --> 00:24:35,800
+He just means it's big. [laughs]
+
+589
+00:24:35,900 --> 00:24:36,400
+Noah Philip: Just-
+
+590
+00:24:36,280 --> 00:24:36,780
+Keith Murphy: Well [laughs]
+
+591
+00:24:36,360 --> 00:24:38,260
+Noah Philip: ... you know, you, you put it, you put it in.
+
+592
+00:24:38,440 --> 00:24:40,240
+So we're doing all of our stuff in scanner.
+
+593
+00:24:40,610 --> 00:24:44,110
+And actually, I thought it was really important to do everything in scanner for
+
+594
+00:24:44,150 --> 00:24:44,650
+this first one.
+
+595
+00:24:44,630 --> 00:24:45,130
+Keith Murphy: Yeah. Awesome.
+
+596
+00:24:44,690 --> 00:24:46,930
+Noah Philip: So there's just like no interpolation.
+
+597
+00:24:46,970 --> 00:24:49,810
+Like there's causal data. Whatever the data is, it's causal.
+
+598
+00:24:50,330 --> 00:24:50,830
+Keith Murphy: Yeah.
+
+599
+00:24:50,390 --> 00:24:54,970
+Noah Philip: And, um, so you put it in, and there's a series of like MRI
+
+600
+00:24:55,030 --> 00:24:59,410
+fiducials that essentially give you a target, um, and it gives you what is
+
+601
+00:24:59,470 --> 00:25:02,510
+the hopeful Z axis of where the beam is going.
+
+602
+00:25:03,010 --> 00:25:06,310
+And then you basically, you look at it in real time, like with the
+
+603
+00:25:06,390 --> 00:25:10,130
+person in the scanner. You, you take a look at like a surgical, neurosurgical
+
+604
+00:25:10,230 --> 00:25:13,250
+atlas. You have a couple people with eyes on, and you're like, "Uh, it's
+
+605
+00:25:13,290 --> 00:25:17,870
+not quite amygdala. It's pretty close," or, "It's not quite over somatosensory cortex, but
+
+606
+00:25:17,870 --> 00:25:20,250
+it's pretty close." And then you go and you physically adjust it.
+
+607
+00:25:20,910 --> 00:25:25,170
+Um, it's actually pretty... Once you get used to using it, it's actually pretty
+
+608
+00:25:25,270 --> 00:25:28,970
+slick and actually really easy to do, 'cause you just, in the MRI machine
+
+609
+00:25:29,030 --> 00:25:32,810
+itself, you measure, you know, the X, Y, and Z that you wanna adjust,
+
+610
+00:25:32,910 --> 00:25:36,750
+and then you just go physically in, um, and you just move it X,
+
+611
+00:25:36,970 --> 00:25:39,790
+Y, and Z, and it, it goes exactly where you want it to go.
+
+612
+00:25:40,070 --> 00:25:41,630
+So it's, it's actually pretty-
+
+613
+00:25:41,890 --> 00:25:42,390
+Keith Murphy: Super cool
+
+614
+00:25:42,270 --> 00:25:44,870
+Noah Philip: ... it's really useful in that particular space.
+
+615
+00:25:45,230 --> 00:25:47,110
+You know, to your point, there's no beam steering.
+
+616
+00:25:47,330 --> 00:25:49,970
+It's be- it's, it's like your hand steering.
+
+617
+00:25:50,510 --> 00:25:52,690
+Um- Yeah ... so it's a g- you know, it's a good first way
+
+618
+00:25:52,730 --> 00:25:53,230
+to do it.
+
+619
+00:25:53,510 --> 00:25:55,030
+Charles Caskey: I think it's a great first way.
+
+620
+00:25:55,090 --> 00:26:00,750
+I mean, at the very least, it, it really seems to address what I
+
+621
+00:26:00,790 --> 00:26:04,810
+think a lot of studies may suffer from, is that, uh, the initial alignment
+
+622
+00:26:05,010 --> 00:26:06,810
+may not be where, where you wanna go.
+
+623
+00:26:06,850 --> 00:26:11,410
+And so it's at least one physical effort, um, to, to adjust that.
+
+624
+00:26:11,450 --> 00:26:13,730
+And quant- quantitative. It sounds like it has the-
+
+625
+00:26:13,990 --> 00:26:14,490
+Noah Philip: Yeah
+
+626
+00:26:14,470 --> 00:26:16,850
+Charles Caskey: ... that you get kind of another coordinate system, and you do give it-
+
+627
+00:26:16,930 --> 00:26:17,430
+Noah Philip: Correct
+
+628
+00:26:17,150 --> 00:26:18,050
+Charles Caskey: ... the best you can.
+
+629
+00:26:18,090 --> 00:26:20,510
+Noah Philip: And you, you, you capture that in the T1.
+
+630
+00:26:20,850 --> 00:26:21,350
+Keith Murphy: Mm-hmm.
+
+631
+00:26:21,370 --> 00:26:27,390
+Noah Philip: So you, you have like a ground truth of exactly where everything
+
+632
+00:26:27,430 --> 00:26:29,270
+is pointed at that moment that you deliver.
+
+633
+00:26:29,350 --> 00:26:32,310
+You might still be off target, and we've seen in a couple of the
+
+634
+00:26:32,410 --> 00:26:37,850
+ones, usually due to more like kinda funny anatomy or honestly space inside the
+
+635
+00:26:37,910 --> 00:26:39,110
+head coil, that it-
+
+636
+00:26:39,310 --> 00:26:39,810
+Keith Murphy: Mm-hmm
+
+637
+00:26:39,490 --> 00:26:41,050
+Noah Philip: ... can't quite get it perfect.
+
+638
+00:26:41,170 --> 00:26:44,250
+And so the, you know, we're gonna do stuff outside the scanner for next,
+
+639
+00:26:44,350 --> 00:26:48,030
+but it was just, it was just real important to, to stick in the
+
+640
+00:26:48,110 --> 00:26:49,830
+scanner just to get that data for now.
+
+641
+00:26:50,770 --> 00:26:53,770
+Keith Murphy: I think this'll be a cool learning thing, and I'm gonna guess what you're
+
+642
+00:26:53,810 --> 00:26:56,670
+doing, um, and tell me if I'm wrong, but you have-
+
+643
+00:26:56,750 --> 00:26:57,250
+Noah Philip: Yeah, yeah
+
+644
+00:26:56,790 --> 00:27:00,570
+Keith Murphy: ... a very large element which, you know, for all intents and purposes, it
+
+645
+00:27:00,610 --> 00:27:03,590
+probably doesn't get diffracted by the skull that much.
+
+646
+00:27:03,830 --> 00:27:05,310
+So I'm imagining you just draw-
+
+647
+00:27:05,370 --> 00:27:05,870
+Noah Philip: Yeah
+
+648
+00:27:05,390 --> 00:27:07,890
+Keith Murphy: ... like a straight shot laser from the-
+
+649
+00:27:08,490 --> 00:27:08,990
+Noah Philip: You got it.
+
+650
+00:27:08,790 --> 00:27:13,170
+Keith Murphy: So what's cool is, and Charles and I talked about this before, if you
+
+651
+00:27:13,250 --> 00:27:15,270
+extract... I know you take CTs.
+
+652
+00:27:15,690 --> 00:27:16,190
+Everybody know-
+
+653
+00:27:16,250 --> 00:27:16,750
+Noah Philip: Yeah
+
+654
+00:27:16,290 --> 00:27:17,250
+Keith Murphy: ... it goes above and beyond.
+
+655
+00:27:17,310 --> 00:27:21,950
+He gets that real deal CT, which is the ground truth for bone estimation.
+
+656
+00:27:22,590 --> 00:27:23,090
+Noah Philip: Ground truth.
+
+657
+00:27:22,890 --> 00:27:23,490
+Keith Murphy: But you can also-
+
+658
+00:27:23,490 --> 00:27:26,670
+Charles Caskey: I, I'm just in love with the clinician that really wants to worry about
+
+659
+00:27:26,710 --> 00:27:27,210
+these details. [laughs]
+
+660
+00:27:27,070 --> 00:27:27,570
+Keith Murphy: I know.
+
+661
+00:27:27,890 --> 00:27:28,590
+Noah Philip: It's, I love it.
+
+662
+00:27:28,630 --> 00:27:29,130
+Keith Murphy: No, a couple are here for that.
+
+663
+00:27:29,010 --> 00:27:29,850
+Noah Philip: I, people can-
+
+664
+00:27:30,710 --> 00:27:31,210
+Keith Murphy: Few in the back. [laughs]
+
+665
+00:27:31,190 --> 00:27:32,190
+Noah Philip: People... So, so h- hold on.
+
+666
+00:27:32,230 --> 00:27:32,750
+Wait a sec, wait a sec.
+
+667
+00:27:32,810 --> 00:27:33,830
+Let's take a, let's take a step back.
+
+668
+00:27:33,890 --> 00:27:36,430
+I mean, I get it when you've got like healthy people that aren't ill.
+
+669
+00:27:36,690 --> 00:27:39,270
+That's, you know, that's, that's, that's, that's one thing.
+
+670
+00:27:39,770 --> 00:27:40,970
+You know, these are ill folks.
+
+671
+00:27:41,130 --> 00:27:42,790
+You know, they've already failed so much.
+
+672
+00:27:42,950 --> 00:27:44,010
+Like I, I, you know, when-
+
+673
+00:27:44,050 --> 00:27:44,550
+Keith Murphy: They've been through a lot
+
+674
+00:27:44,470 --> 00:27:49,410
+Noah Philip: ... we ask people to get CAT scans all the time for medical things,
+
+675
+00:27:49,570 --> 00:27:52,990
+and I, and you can have a rational conversation with someone to say like,
+
+676
+00:27:53,050 --> 00:27:57,990
+"Yep, it's, it's, it's radiation." You know, they can make that call, and if
+
+677
+00:27:58,070 --> 00:27:59,690
+they don't wanna do it, I respect that.
+
+678
+00:28:00,250 --> 00:28:00,750
+Keith Murphy: Yeah.
+
+679
+00:28:00,490 --> 00:28:03,650
+Noah Philip: Um, and, and also, like if I see anything on that CAT scan that
+
+680
+00:28:03,710 --> 00:28:07,710
+is like not good or the radiologists see anything, then they're, they would be
+
+681
+00:28:07,790 --> 00:28:10,630
+out. That hasn't happened, but like I left that in there just in case.
+
+682
+00:28:10,710 --> 00:28:11,210
+Keith Murphy: Yeah.
+
+683
+00:28:11,470 --> 00:28:11,970
+Noah Philip: Yeah.
+
+684
+00:28:11,570 --> 00:28:15,590
+Keith Murphy: I remember you soapboxed that point at Funf '22 in Germany, and I was
+
+685
+00:28:15,630 --> 00:28:18,270
+like, "All right." You were like, "Just get the damn CT."
+
+686
+00:28:18,410 --> 00:28:19,810
+But people would maybe-
+
+687
+00:28:20,010 --> 00:28:20,710
+Noah Philip: Just get the CT. [laughs]
+
+688
+00:28:20,770 --> 00:28:21,430
+Keith Murphy: People would argue.
+
+689
+00:28:21,470 --> 00:28:23,770
+Noah Philip: There were... Let me... So Keith, you were, you were in the audience.
+
+690
+00:28:23,910 --> 00:28:26,070
+You should've seen people's faces when I said that.
+
+691
+00:28:26,090 --> 00:28:27,550
+Keith Murphy: They were pissed. [laughs]
+
+692
+00:28:27,590 --> 00:28:28,090
+Noah Philip: They were.
+
+693
+00:28:28,110 --> 00:28:28,610
+Keith Murphy: Not pissed at you, but-
+
+694
+00:28:28,850 --> 00:28:29,850
+Noah Philip: I was not-
+
+695
+00:28:29,850 --> 00:28:30,350
+Keith Murphy: ... they would love to have heard it.
+
+696
+00:28:30,070 --> 00:28:31,050
+[laughs]
+
+697
+00:28:31,070 --> 00:28:35,830
+Noah Philip: You know, that was my first time like really interacting with anybody in the
+
+698
+00:28:35,890 --> 00:28:37,910
+ultrasound community. Like Till like cold calls me-
+
+699
+00:28:37,910 --> 00:28:38,410
+Keith Murphy: Tough community
+
+700
+00:28:38,150 --> 00:28:41,350
+Noah Philip: ... and invites me to give this call, and I'm like, "Ah."
+
+701
+00:28:41,770 --> 00:28:45,190
+I mean, I, I, I know, I knew Till, but I didn't know anybody
+
+702
+00:28:45,270 --> 00:28:48,630
+else. I'm coming in cold, and I was like, "I'm gonna say some really
+
+703
+00:28:49,230 --> 00:28:53,710
+unpopular things right now, and like they're never gonna ask me back.
+
+704
+00:28:53,810 --> 00:28:55,290
+I'm gonna be like this pariah.
+
+705
+00:28:55,570 --> 00:28:56,670
+I'm gonna be the narwhal."
+
+706
+00:28:57,350 --> 00:28:57,850
+Keith Murphy: Yeah.
+
+707
+00:28:57,630 --> 00:28:58,410
+Noah Philip: I'm gonna like be-
+
+708
+00:28:58,530 --> 00:29:00,150
+Keith Murphy: Another narwhal moment. You're such a nar.
+
+709
+00:29:00,170 --> 00:29:01,970
+[laughs] Such a total nar nar.
+
+710
+00:29:02,030 --> 00:29:04,650
+Charles Caskey: This has been a cool thing about like, about the field as it's formed
+
+711
+00:29:04,690 --> 00:29:09,590
+is like this cross-pollination, 'cause I feel like similarly I've been invited to, to
+
+712
+00:29:09,650 --> 00:29:14,190
+meetings, um, that, that where I didn't know anybody hardly, and then they're like,
+
+713
+00:29:14,270 --> 00:29:16,390
+they're like, "You're the invited speaker, and you're gonna talk about this."
+
+714
+00:29:16,470 --> 00:29:19,330
+I'm like, "Oh man, I have no idea what landmine I'm about to walk
+
+715
+00:29:19,350 --> 00:29:19,850
+across."
+
+716
+00:29:20,050 --> 00:29:21,730
+Keith Murphy: Oh geez. What do I do?
+
+717
+00:29:21,750 --> 00:29:22,430
+[laughs]
+
+718
+00:29:22,490 --> 00:29:24,790
+Charles Caskey: Each field sort of has its own like things-
+
+719
+00:29:24,830 --> 00:29:25,330
+Keith Murphy: Yeah
+
+720
+00:29:24,850 --> 00:29:27,710
+Charles Caskey: ... that they consider sacred that they, that you don't question.
+
+721
+00:29:27,730 --> 00:29:28,230
+Keith Murphy: Yeah.
+
+722
+00:29:27,910 --> 00:29:28,630
+Noah Philip: And, and then like-
+
+723
+00:29:28,750 --> 00:29:29,250
+Keith Murphy: Yeah
+
+724
+00:29:28,870 --> 00:29:29,770
+Noah Philip: ... you know, the outside-
+
+725
+00:29:29,790 --> 00:29:30,930
+Keith Murphy: They're bitten you into it.
+
+726
+00:29:31,330 --> 00:29:32,130
+Noah Philip: Yeah, yeah, yeah.
+
+727
+00:29:32,650 --> 00:29:34,730
+Keith Murphy: Charles, come stand over here and say something stupid.
+
+728
+00:29:34,790 --> 00:29:36,170
+We're gonna rip him apart. [laughs]
+
+729
+00:29:36,210 --> 00:29:39,950
+Charles Caskey: It's like, yeah, stand on this podium and, and say what you normally say,
+
+730
+00:29:40,030 --> 00:29:42,130
+but it'll be controversial in this context.
+
+731
+00:29:42,190 --> 00:29:42,690
+Keith Murphy: Uh-huh.
+
+732
+00:29:42,490 --> 00:29:42,990
+Noah Philip: So. [laughs]
+
+733
+00:29:42,930 --> 00:29:44,910
+Keith Murphy: Yeah. That is scary. I worry.
+
+734
+00:29:45,170 --> 00:29:45,670
+You know, like-
+
+735
+00:29:45,630 --> 00:29:46,130
+Noah Philip: Yeah
+
+736
+00:29:45,830 --> 00:29:46,590
+Keith Murphy: ... yeah, especially when-
+
+737
+00:29:46,970 --> 00:29:47,470
+Noah Philip: Yeah
+
+738
+00:29:47,010 --> 00:29:50,690
+Keith Murphy: ... so the other direction too, Noah, when people step into like, um...
+
+739
+00:29:50,750 --> 00:29:53,630
+Like we've been working with Katherine Scangos on, on, uh, OCD.
+
+740
+00:29:54,090 --> 00:29:54,590
+Noah Philip: Yeah. Oh.
+
+741
+00:29:54,530 --> 00:29:55,590
+Keith Murphy: And any time I talk about OCD-
+
+742
+00:29:55,610 --> 00:29:56,110
+Noah Philip: She's awesome. Yeah
+
+743
+00:29:55,950 --> 00:29:58,810
+Keith Murphy: ... I'm like, "Oh my God, I'm about to say something so stupid."
+
+744
+00:29:58,810 --> 00:30:00,710
+[laughs] And I do. [laughs]
+
+745
+00:30:00,990 --> 00:30:01,490
+Noah Philip: Yeah.
+
+746
+00:30:01,150 --> 00:30:02,750
+Keith Murphy: I just say really stupid things.
+
+747
+00:30:03,450 --> 00:30:03,950
+Me the narwhal.
+
+748
+00:30:03,510 --> 00:30:04,450
+Noah Philip: Gotta lean into it.
+
+749
+00:30:04,490 --> 00:30:05,310
+Keith Murphy: Me the narwhal with the most.
+
+750
+00:30:05,350 --> 00:30:07,550
+Noah Philip: Yep. You're just, I'm, I'm just, it's happening.
+
+751
+00:30:08,430 --> 00:30:09,790
+Keith Murphy: Um, wait, so let's g- let's go back though.
+
+752
+00:30:09,830 --> 00:30:11,630
+What I think is cool about- Yeah ...
+
+753
+00:30:11,690 --> 00:30:14,930
+you doing the straight shot, it's, it's probably mostly hitting the target, but some
+
+754
+00:30:14,990 --> 00:30:17,710
+people, their bone is just going to want it in such a way.
+
+755
+00:30:17,830 --> 00:30:18,330
+Noah Philip: Yeah.
+
+756
+00:30:18,150 --> 00:30:18,650
+Keith Murphy: But you can-
+
+757
+00:30:18,590 --> 00:30:19,090
+Noah Philip: Yeah
+
+758
+00:30:18,650 --> 00:30:20,610
+Keith Murphy: ... you could retrospectively just pick that up.
+
+759
+00:30:20,670 --> 00:30:21,170
+Noah Philip: 100%.
+
+760
+00:30:20,790 --> 00:30:21,390
+Keith Murphy: And be like, "Yeah, this-"
+
+761
+00:30:21,530 --> 00:30:22,030
+Noah Philip: Yeah
+
+762
+00:30:21,670 --> 00:30:22,850
+Keith Murphy: ... "this one we missed a little bit.
+
+763
+00:30:22,870 --> 00:30:23,650
+This one we really hit it."
+
+764
+00:30:23,690 --> 00:30:24,190
+Noah Philip: Yep.
+
+765
+00:30:24,090 --> 00:30:25,770
+Keith Murphy: Has that been helpful to the dataset?
+
+766
+00:30:25,870 --> 00:30:27,290
+Can you tell us that at a later time?
+
+767
+00:30:27,310 --> 00:30:28,970
+Noah Philip: Yeah. Yeah, it's pretty cool. I would say, you know-
+
+768
+00:30:29,030 --> 00:30:29,530
+Keith Murphy: Progress on that?
+
+769
+00:30:29,190 --> 00:30:29,970
+Noah Philip: ... the biggest thing that we...
+
+770
+00:30:30,470 --> 00:30:33,990
+Yeah, the, the biggest thing that we see is like a, a, an attenuation
+
+771
+00:30:34,030 --> 00:30:35,850
+in the Z direction, sort of in the plane of the-
+
+772
+00:30:35,870 --> 00:30:36,370
+Keith Murphy: Uh-huh
+
+773
+00:30:36,130 --> 00:30:36,810
+Noah Philip: ... in the plane of the beam.
+
+774
+00:30:37,270 --> 00:30:39,070
+That's the, that's the biggest change.
+
+775
+00:30:39,170 --> 00:30:42,130
+When you, when you look at the difference, so we're putting everything through BabelBrain
+
+776
+00:30:42,190 --> 00:30:43,450
+and Sam, Sam Pichardo-
+
+777
+00:30:43,510 --> 00:30:44,010
+Keith Murphy: Oh, cool
+
+778
+00:30:43,630 --> 00:30:47,210
+Noah Philip: ... who's just amazingly helpful. And so, you know, we do see that we-
+
+779
+00:30:47,230 --> 00:30:48,690
+Keith Murphy: He pays every time you say his name.
+
+780
+00:30:48,770 --> 00:30:50,930
+So if you say it again, he's gonna send us 50 bucks.
+
+781
+00:30:50,970 --> 00:30:52,910
+Noah Philip: And if I say it three times, he's gonna appear.
+
+782
+00:30:53,150 --> 00:30:54,290
+Keith Murphy: That's 150 bucks.
+
+783
+00:30:56,870 --> 00:30:57,370
+Noah Philip: Um-
+
+784
+00:30:56,910 --> 00:30:57,410
+Keith Murphy: Sam thanks, well remembered
+
+785
+00:30:57,230 --> 00:30:59,150
+Noah Philip: ... friend of the show, Sam Pichardo.
+
+786
+00:30:59,190 --> 00:31:00,690
+Keith Murphy: Oh, great. [laughs]
+
+787
+00:31:01,400 --> 00:31:03,700
+Charles Caskey: No, he doesn't get paid from BabelBrain, I don't think.
+
+788
+00:31:04,200 --> 00:31:07,940
+Noah Philip: Oh, he's, uh, it's so, so helpful and so wonderful.
+
+789
+00:31:07,940 --> 00:31:08,440
+Charles Caskey: Yeah. Plus his wife.
+
+790
+00:31:08,100 --> 00:31:11,760
+Noah Philip: And so what we see is, you know, you see a couple millimeters in,
+
+791
+00:31:11,820 --> 00:31:15,120
+like, what would be, like, essentially the X and Y.
+
+792
+00:31:15,180 --> 00:31:17,860
+It's not huge. It's mostly attenuation in Z.
+
+793
+00:31:18,540 --> 00:31:19,540
+Charles Caskey: Mm-hmm.
+
+794
+00:31:19,540 --> 00:31:22,900
+Noah Philip: Um, and there are some situations where I think I said earlier, you know,
+
+795
+00:31:23,200 --> 00:31:27,220
+physically, like, in this scanner, you can't quite get the angle right because there's
+
+796
+00:31:27,280 --> 00:31:30,240
+just not enough room with like some- somebody who has a big head.
+
+797
+00:31:31,280 --> 00:31:32,520
+Keith Murphy: You ever get frustrated in there?
+
+798
+00:31:32,580 --> 00:31:33,080
+Noah Philip: Yeah.
+
+799
+00:31:32,660 --> 00:31:36,560
+Keith Murphy: Like you're just reaching and you just can't get that last turn the best
+
+800
+00:31:36,600 --> 00:31:37,100
+little bit.
+
+801
+00:31:36,800 --> 00:31:40,100
+Noah Philip: We, we, we do as best-- We do the best that we can.
+
+802
+00:31:41,020 --> 00:31:41,800
+So, um-
+
+803
+00:31:41,920 --> 00:31:42,420
+Charles Caskey: Yeah
+
+804
+00:31:42,020 --> 00:31:43,940
+Noah Philip: ... and we, we do, we do, we do pretty good.
+
+805
+00:31:44,020 --> 00:31:46,340
+We actually have a-- We basically have, like, a test run.
+
+806
+00:31:46,400 --> 00:31:50,220
+When people come in for their baseline procedures, we do, like, a test targeting
+
+807
+00:31:50,280 --> 00:31:52,720
+to see, like, how much work it's gonna need to be.
+
+808
+00:31:52,820 --> 00:31:56,400
+So when they actually come in for their ultrasound, like, when it's actually, like,
+
+809
+00:31:56,500 --> 00:31:59,960
+real, real sonication, we kind of know where we're gonna start.
+
+810
+00:32:00,020 --> 00:32:01,720
+We have some, like, internal notes.
+
+811
+00:32:02,480 --> 00:32:02,980
+Charles Caskey: Mm-hmm.
+
+812
+00:32:02,720 --> 00:32:05,820
+Noah Philip: And what's interesting are-- I would say our control site, the-- like, which is
+
+813
+00:32:05,880 --> 00:32:08,600
+over somatosensory cortex, that's actually really easy.
+
+814
+00:32:09,280 --> 00:32:09,780
+Charles Caskey: Yeah.
+
+815
+00:32:09,500 --> 00:32:15,240
+Noah Philip: Like, really easy, um, 'cause, like, the, the shape of people's essentially, like, the
+
+816
+00:32:15,260 --> 00:32:19,700
+sh- the shape of the skull over somatosensory cortex is, like, really uniform.
+
+817
+00:32:20,280 --> 00:32:20,780
+Charles Caskey: Mm-hmm.
+
+818
+00:32:20,300 --> 00:32:23,480
+Noah Philip: And actually, we do some tricks that we use from TMS in terms of,
+
+819
+00:32:23,520 --> 00:32:24,880
+like, measurements of where to start.
+
+820
+00:32:25,020 --> 00:32:28,120
+But, you know, you can't look at somebody and be like, "I can see
+
+821
+00:32:28,140 --> 00:32:30,280
+where your amygdala is." That's just not-
+
+822
+00:32:30,400 --> 00:32:30,900
+Charles Caskey: Yeah. That's hard.
+
+823
+00:32:31,280 --> 00:32:33,780
+Noah Philip: Um, but you can with the somatosensory cortex.
+
+824
+00:32:33,900 --> 00:32:35,660
+So you-- We g- so that's pretty quick.
+
+825
+00:32:36,260 --> 00:32:40,480
+Um, but at least it, it-- Uh, so we have all the-- We have
+
+826
+00:32:40,540 --> 00:32:44,840
+the-- We've got lots of modeling and, and sort of retrospectively looking at it.
+
+827
+00:32:45,280 --> 00:32:50,240
+You know, the, the, the modeling when we're doing the study, um, when we
+
+828
+00:32:50,360 --> 00:32:54,700
+started the study, I should say, you know, we didn't-- The modeling wasn't good
+
+829
+00:32:54,760 --> 00:32:58,420
+enough to be doing it prospectively on every single person with all the data.
+
+830
+00:32:58,840 --> 00:33:03,220
+It just, it wasn't there. Like, there was an early version of, um, of
+
+831
+00:33:03,280 --> 00:33:08,680
+k-Wave that we were playing with, with Nathan McDannold, and, um, it was just
+
+832
+00:33:08,740 --> 00:33:13,300
+really not technically feasible to, like, do all that in real time.
+
+833
+00:33:13,940 --> 00:33:16,760
+Next study, we're gonna, you know, we're gonna do a test run, see what
+
+834
+00:33:16,780 --> 00:33:19,720
+the modeling is, adjust based on that, and use that 100%.
+
+835
+00:33:20,340 --> 00:33:20,840
+Um-
+
+836
+00:33:20,580 --> 00:33:21,080
+Charles Caskey: Yeah
+
+837
+00:33:20,840 --> 00:33:24,680
+Noah Philip: ... so it's a little frustrating knowing that, like, as you finish out the
+
+838
+00:33:24,740 --> 00:33:28,240
+study, that you're doing something suboptimal, but, like, you can't-
+
+839
+00:33:28,260 --> 00:33:28,760
+Charles Caskey: Yeah
+
+840
+00:33:28,500 --> 00:33:31,880
+Noah Philip: ... change, you can't change that method midstream.
+
+841
+00:33:31,980 --> 00:33:32,480
+Charles Caskey: Mm-hmm. Yeah.
+
+842
+00:33:32,300 --> 00:33:35,140
+Noah Philip: That would just-- It just would ru- it just ruins the experiment.
+
+843
+00:33:35,680 --> 00:33:36,180
+Charles Caskey: Yeah.
+
+844
+00:33:36,080 --> 00:33:38,260
+Noah Philip: I don't know if you guys have that kind of experience, but, like, I
+
+845
+00:33:38,300 --> 00:33:38,800
+just-
+
+846
+00:33:38,540 --> 00:33:39,040
+Charles Caskey: Yeah
+
+847
+00:33:38,740 --> 00:33:40,360
+Noah Philip: ... a little part of me dies every time.
+
+848
+00:33:40,440 --> 00:33:40,940
+Like-
+
+849
+00:33:40,620 --> 00:33:44,820
+Charles Caskey: It's, it's so tough to just say, "We're frozen with these methods for this
+
+850
+00:33:44,920 --> 00:33:49,300
+study," and i- and it only-- And in my experience so far as we
+
+851
+00:33:49,360 --> 00:33:53,600
+look at translating to humans is it only gets frozen earlier [chuckles] because you-
+
+852
+00:33:53,820 --> 00:33:54,320
+Noah Philip: Yeah
+
+853
+00:33:53,980 --> 00:33:57,240
+Charles Caskey: ... you know, your IDE or your other things, you start to say, "This
+
+854
+00:33:57,300 --> 00:33:58,420
+is what we're planning to do."
+
+855
+00:33:59,040 --> 00:34:00,220
+Uh, and yeah.
+
+856
+00:34:00,320 --> 00:34:00,820
+Noah Philip: Yeah.
+
+857
+00:34:00,500 --> 00:34:03,180
+Charles Caskey: And, but in a-- But I think you-- It sounds like you really followed
+
+858
+00:34:03,240 --> 00:34:07,180
+along with the field's capabilities in the sense that...
+
+859
+00:34:07,320 --> 00:34:10,560
+Yeah, because same for us. Like, it's taken us a while to get the
+
+860
+00:34:10,640 --> 00:34:16,740
+technical capability to prospectively plan. Uh, just it, it really does change your
+
+861
+00:34:16,780 --> 00:34:18,180
+workflow a bit. But-
+
+862
+00:34:18,660 --> 00:34:19,160
+Noah Philip: Yeah
+
+863
+00:34:18,780 --> 00:34:22,360
+Charles Caskey: ... with, with good things that make it probably better for the patient and
+
+864
+00:34:22,580 --> 00:34:27,260
+make the targeting better and-- but it, it, it's a technical lift, so that's
+
+865
+00:34:27,320 --> 00:34:27,820
+great. And-
+
+866
+00:34:28,040 --> 00:34:28,540
+Noah Philip: Yeah
+
+867
+00:34:28,140 --> 00:34:29,440
+Charles Caskey: ... tools like BabelBrain-
+
+868
+00:34:29,900 --> 00:34:30,400
+Noah Philip: Yeah
+
+869
+00:34:29,940 --> 00:34:31,520
+Charles Caskey: ... of course, help facilitate that.
+
+870
+00:34:31,660 --> 00:34:35,940
+And so we're lucky to have, like, good community support from all these angles.
+
+871
+00:34:36,960 --> 00:34:38,080
+Keith Murphy: I, uh, I often think-
+
+872
+00:34:38,120 --> 00:34:38,620
+Noah Philip: Yeah, it's huge
+
+873
+00:34:38,180 --> 00:34:42,200
+Keith Murphy: ... about this challenge I'm sure both of you guys have, where you could
+
+874
+00:34:42,280 --> 00:34:48,160
+turn up the pressure to compensate for skull attenuation, but then your peripheral stimulation-
+
+875
+00:34:48,560 --> 00:34:49,060
+Noah Philip: Yeah
+
+876
+00:34:48,580 --> 00:34:50,440
+Keith Murphy: ... will also be different from the other-
+
+877
+00:34:50,460 --> 00:34:50,960
+Noah Philip: Yep
+
+878
+00:34:50,640 --> 00:34:55,040
+Keith Murphy: ... participants. I don't know which way the field's gonna go, whether people will
+
+879
+00:34:55,060 --> 00:35:00,020
+ultimately try to match at focus within safe range, or if everyone will just
+
+880
+00:35:00,120 --> 00:35:04,680
+use the same source pressure and then regress out what has actually reached the
+
+881
+00:35:04,700 --> 00:35:06,280
+brain after the fact. What do you guys think?
+
+882
+00:35:06,320 --> 00:35:09,560
+What's the future? Not that I'm asking-
+
+883
+00:35:09,560 --> 00:35:10,060
+Noah Philip: We're gonna-
+
+884
+00:35:09,640 --> 00:35:11,960
+Keith Murphy: ... because I'm gonna change my own opinion, but maybe.
+
+885
+00:35:12,880 --> 00:35:16,300
+Charles Caskey: That would be the idea of pre-planning, or at least, uh, from my interpretation
+
+886
+00:35:16,360 --> 00:35:20,900
+of, of how I think of pre-planning would be like you take the s-
+
+887
+00:35:20,900 --> 00:35:24,560
+some model of the skull, you place where you think is a good, uh,
+
+888
+00:35:24,660 --> 00:35:29,200
+angle of approach, and then you compensate based on that location.
+
+889
+00:35:29,760 --> 00:35:34,240
+And so I think that would be, I think that would be then each
+
+890
+00:35:34,300 --> 00:35:38,960
+individual, b- based on their skull, would get a different output from the transducer.
+
+891
+00:35:39,200 --> 00:35:41,680
+But the hope would be that it would be the same pressure in the
+
+892
+00:35:41,720 --> 00:35:45,200
+brain between subjects. Um-
+
+893
+00:35:45,480 --> 00:35:48,480
+Noah Philip: Yeah. You know, the, the comparable maybe metaphor, I don't know if this is
+
+894
+00:35:48,520 --> 00:35:52,600
+helpful or not, but like, you know, in TMS, right, we do a motor
+
+895
+00:35:52,660 --> 00:35:55,640
+threshold. That's how much energy it takes for somebody's finger to twitch- Uh-huh ...
+
+896
+00:35:55,680 --> 00:35:56,900
+you know, 50% of the time.
+
+897
+00:35:57,240 --> 00:35:57,740
+Keith Murphy: Oh, yeah.
+
+898
+00:35:57,540 --> 00:35:58,040
+Noah Philip: And, you know-
+
+899
+00:35:58,100 --> 00:35:58,600
+Keith Murphy: I wish we had that
+
+900
+00:35:58,240 --> 00:36:00,800
+Noah Philip: ... they get active or sh- they get active or sham.
+
+901
+00:36:00,920 --> 00:36:02,000
+Yeah, we can get back to that, Keith.
+
+902
+00:36:02,640 --> 00:36:05,440
+Uh, we- Yeah ... you know, but then they get active or sham based
+
+903
+00:36:05,480 --> 00:36:07,920
+on their individual calibration, if you will.
+
+904
+00:36:08,000 --> 00:36:08,500
+Keith Murphy: Yeah.
+
+905
+00:36:08,040 --> 00:36:13,660
+Noah Philip: So some people do get a louder acoustic experience because they need more energy.
+
+906
+00:36:14,100 --> 00:36:14,600
+Keith Murphy: Yeah.
+
+907
+00:36:14,120 --> 00:36:17,540
+Noah Philip: But you know, what we're still doing is we're making sure that they-- we're
+
+908
+00:36:17,580 --> 00:36:23,380
+still, we're still, uh, we're still titrated to what that person's brain needs.
+
+909
+00:36:24,740 --> 00:36:25,240
+Keith Murphy: I think-
+
+910
+00:36:24,880 --> 00:36:25,380
+Charles Caskey: Yeah
+
+911
+00:36:24,960 --> 00:36:28,020
+Keith Murphy: ... we're not borrowing enough lessons from TMS and DBS.
+
+912
+00:36:28,300 --> 00:36:30,780
+Me and Charles are b- we've been talking about this a bunch, but I
+
+913
+00:36:30,800 --> 00:36:35,380
+would love to just start paying attention to what's already been sorted out.
+
+914
+00:36:35,840 --> 00:36:38,820
+Just general conceptual frameworks, like that would be helpful.
+
+915
+00:36:38,920 --> 00:36:41,460
+We should start a, well, maybe a sub meeting for that.
+
+916
+00:36:41,980 --> 00:36:45,980
+Um, hey, Noah, you've been working with people, veterans, lots of veterans.
+
+917
+00:36:46,240 --> 00:36:46,740
+Um-
+
+918
+00:36:46,380 --> 00:36:46,880
+Noah Philip: Yeah.
+
+919
+00:36:46,540 --> 00:36:49,460
+Keith Murphy: Yeah ... I know the funding's not military, it's NIH, but w- what's that
+
+920
+00:36:49,500 --> 00:36:53,740
+like? Is it a different-- Are there different considerations in working with these folks?
+
+921
+00:36:53,840 --> 00:36:58,120
+Do they have experiences when you're shoving them into the bore of a scanner?
+
+922
+00:36:58,200 --> 00:36:58,700
+Do you have to, like-
+
+923
+00:36:58,800 --> 00:36:59,300
+Noah Philip: Yeah
+
+924
+00:36:59,080 --> 00:37:00,400
+Keith Murphy: ... really think about that? So-
+
+925
+00:37:01,340 --> 00:37:06,100
+Noah Philip: Um, you know, I, I've been working at the VA for a long time.
+
+926
+00:37:06,140 --> 00:37:10,080
+I think I joined them in like 20 or 2011, 2012, something like that.
+
+927
+00:37:10,840 --> 00:37:16,360
+Um, and I, I would say, um, one of the things I love the
+
+928
+00:37:16,500 --> 00:37:22,820
+most about working there is that these guys and gals are like 100%
+
+929
+00:37:22,940 --> 00:37:24,380
+in on paying it forward.
+
+930
+00:37:25,140 --> 00:37:25,640
+Keith Murphy: Uh-huh.
+
+931
+00:37:25,540 --> 00:37:26,300
+Noah Philip: 100%.
+
+932
+00:37:26,360 --> 00:37:27,140
+Keith Murphy: That's cool. Commitment.
+
+933
+00:37:27,200 --> 00:37:32,960
+Noah Philip: That is baked, that is baked in, and, and they are used to taking
+
+934
+00:37:33,100 --> 00:37:38,440
+risks for the people they're with, and that's part of the deal.
+
+935
+00:37:39,500 --> 00:37:40,560
+Like it's all baked in.
+
+936
+00:37:40,620 --> 00:37:41,120
+Keith Murphy: Yeah.
+
+937
+00:37:40,800 --> 00:37:45,860
+Noah Philip: And so even if you offer something to them where you could say, "This
+
+938
+00:37:45,900 --> 00:37:51,720
+has no chance of benefiting you, but it might help the next guy down
+
+939
+00:37:51,740 --> 00:37:54,920
+the line," they are like, "Sign me up," and-
+
+940
+00:37:55,400 --> 00:37:56,120
+Keith Murphy: Wow. Yeah
+
+941
+00:37:56,120 --> 00:37:58,860
+Noah Philip: ... and s- so it's really, it's really good.
+
+942
+00:37:58,900 --> 00:38:00,800
+There, there is some other considerations we gotta do.
+
+943
+00:38:00,880 --> 00:38:06,740
+So like great simple example, uh, um, right, you guys have both done like
+
+944
+00:38:06,860 --> 00:38:09,500
+fMRI research in some form or another, right?
+
+945
+00:38:09,620 --> 00:38:10,120
+Keith Murphy: Mm-hmm.
+
+946
+00:38:09,640 --> 00:38:13,300
+Noah Philip: And so what do you do when you do resting state scan, right?
+
+947
+00:38:13,460 --> 00:38:16,100
+You put cross on the screen, fixation cross.
+
+948
+00:38:16,160 --> 00:38:17,360
+You know what that looks a lot like?
+
+949
+00:38:18,240 --> 00:38:19,080
+Looks like a target.
+
+950
+00:38:19,420 --> 00:38:19,920
+Keith Murphy: Oh.
+
+951
+00:38:19,440 --> 00:38:19,940
+Noah Philip: Yeah.
+
+952
+00:38:19,480 --> 00:38:21,920
+Charles Caskey: Tar- a bull- yeah, I was gonna say a bullseye or a target, yeah.
+
+953
+00:38:22,000 --> 00:38:22,920
+Noah Philip: Looks like a bullseye.
+
+954
+00:38:22,980 --> 00:38:23,480
+Keith Murphy: Yeah.
+
+955
+00:38:23,040 --> 00:38:26,140
+Noah Philip: So you do get some folks who are like, "Mm-mm.
+
+956
+00:38:27,100 --> 00:38:31,320
+Mm-mm. Don't like this." So, so what we actually use- Wow ...
+
+957
+00:38:31,380 --> 00:38:34,220
+is we'll use the word rest instead.
+
+958
+00:38:34,940 --> 00:38:35,440
+Keith Murphy: Mm-hmm.
+
+959
+00:38:35,240 --> 00:38:40,420
+Noah Philip: Because sometimes- Right ... the fixation cross is triggering in and of itself.
+
+960
+00:38:41,020 --> 00:38:41,520
+Keith Murphy: Yeah.
+
+961
+00:38:41,260 --> 00:38:45,740
+Noah Philip: Um, there's other stuff too I'll say, so like you really gotta like lead
+
+962
+00:38:45,800 --> 00:38:50,220
+from the front. So, you know, I've got all these crazy videos of me
+
+963
+00:38:50,280 --> 00:38:54,400
+getting like TMS'd, which I always like show my guys when they're coming in
+
+964
+00:38:54,460 --> 00:38:55,260
+for consults.
+
+965
+00:38:55,780 --> 00:38:56,280
+Keith Murphy: Mm.
+
+966
+00:38:56,520 --> 00:38:57,700
+Noah Philip: Um, I don't know if I can say this out loud.
+
+967
+00:38:57,760 --> 00:38:59,480
+I think I can say this out loud, like I sonicated myself.
+
+968
+00:38:59,480 --> 00:39:01,600
+Keith Murphy: We always talk about stuff. Yes, you did.
+
+969
+00:39:01,640 --> 00:39:02,140
+[laughs]
+
+970
+00:39:01,900 --> 00:39:08,060
+Noah Philip: Yeah. So I totally, totally sonicated myself first, so because I knew it, it's
+
+971
+00:39:08,120 --> 00:39:10,040
+just-- it's a cultural competency thing.
+
+972
+00:39:10,180 --> 00:39:13,460
+Like you, you just, you gotta lead from the front, and if you don't
+
+973
+00:39:13,660 --> 00:39:14,160
+do that-
+
+974
+00:39:13,880 --> 00:39:15,820
+Keith Murphy: Yeah, no, Charles has never sonicated himself.
+
+975
+00:39:15,880 --> 00:39:17,660
+I don't know if you caught that in the former episode.
+
+976
+00:39:17,800 --> 00:39:20,520
+Noah Philip: I, you know, I might have, I might have caught that on a prior-
+
+977
+00:39:20,700 --> 00:39:21,200
+Keith Murphy: We're not here to shame him, Charles
+
+978
+00:39:21,120 --> 00:39:22,360
+Noah Philip: ... not saying I'm gonna recommend it.
+
+979
+00:39:22,360 --> 00:39:23,020
+[laughs] [laughs]
+
+980
+00:39:23,040 --> 00:39:24,920
+Charles Caskey: Oh, no, no, no. I, I'm, I'm working-
+
+981
+00:39:25,020 --> 00:39:26,000
+Keith Murphy: We always have this problem
+
+982
+00:39:26,040 --> 00:39:27,340
+Charles Caskey: ... I, I've reflected on this.
+
+983
+00:39:27,380 --> 00:39:28,400
+The pod's been good for me.
+
+984
+00:39:28,540 --> 00:39:30,600
+I, I am starting an IRB right now.
+
+985
+00:39:30,740 --> 00:39:31,640
+Keith Murphy: Oh, no, Charles.
+
+986
+00:39:31,640 --> 00:39:32,140
+Noah Philip: There you go. Spread it.
+
+987
+00:39:31,760 --> 00:39:33,020
+Keith Murphy: We're not trying to bias you, man.
+
+988
+00:39:33,120 --> 00:39:33,620
+It's cool.
+
+989
+00:39:33,420 --> 00:39:36,220
+Charles Caskey: No, no, you're not. No, I think, uh, well, what we realized-
+
+990
+00:39:36,240 --> 00:39:36,860
+Keith Murphy: No, it's, that's smoke and mirrors
+
+991
+00:39:36,860 --> 00:39:39,680
+Charles Caskey: ... as Noah and we're planning this study, it's exactly what Noah's talking about,
+
+992
+00:39:40,140 --> 00:39:44,620
+is I'm like, "I don't want to recruit somebody that's sick, uh, you know,
+
+993
+00:39:44,680 --> 00:39:48,260
+that has a disease state, and then put them in this, you know, through
+
+994
+00:39:48,320 --> 00:39:52,560
+these procedures. I wanna make sure that, that our acoustic radiation force imaging's gonna
+
+995
+00:39:52,680 --> 00:39:57,140
+work well and do so." Um, to date, I hadn't had a major reason
+
+996
+00:39:57,180 --> 00:40:02,140
+to, to do this, uh, on myself and, um, but now, yeah, I'm joining
+
+997
+00:40:02,180 --> 00:40:05,700
+the adventure because, uh, as I, as we consider our move to humans, and
+
+998
+00:40:05,800 --> 00:40:07,160
+I think that it's just the right...
+
+999
+00:40:07,720 --> 00:40:11,480
+Yeah, I, to think that leading, leading from front like that is, is, it's
+
+1000
+00:40:11,500 --> 00:40:12,880
+the only way I can think to do it.
+
+1001
+00:40:13,040 --> 00:40:13,540
+Uh-
+
+1002
+00:40:14,180 --> 00:40:14,680
+Noah Philip: Yeah.
+
+1003
+00:40:14,340 --> 00:40:17,040
+Keith Murphy: Guys, can I-- I just... Noah, you said something so cool.
+
+1004
+00:40:17,120 --> 00:40:18,980
+I just wanna reflect on this for a moment.
+
+1005
+00:40:19,100 --> 00:40:24,800
+These people have been through sometimes hell for, you know, like, and I'm not,
+
+1006
+00:40:25,080 --> 00:40:29,180
+I'm not a military war, you know, type of person, but, um, they've been
+
+1007
+00:40:29,220 --> 00:40:31,520
+through a lot for their country and for their people.
+
+1008
+00:40:31,800 --> 00:40:35,380
+You know, how they feel about it, that's, that's a side, but they go
+
+1009
+00:40:35,460 --> 00:40:41,440
+through all this often with PTSD, m- maybe epilepsy, all these different issues, anxiety
+
+1010
+00:40:41,560 --> 00:40:46,160
+for sure. They come back here and they say, "Sign me up again.
+
+1011
+00:40:46,380 --> 00:40:49,660
+I'm gonna keep giving everything I have for these people."
+
+1012
+00:40:49,900 --> 00:40:51,400
+It's like amazing.
+
+1013
+00:40:52,020 --> 00:40:52,520
+Noah Philip: 100%.
+
+1014
+00:40:52,060 --> 00:40:52,560
+Keith Murphy: How do you feel-
+
+1015
+00:40:52,520 --> 00:40:53,020
+Noah Philip: It's amazing
+
+1016
+00:40:52,660 --> 00:40:54,400
+Keith Murphy: ... do you get emotional working with these folks?
+
+1017
+00:40:54,480 --> 00:40:54,980
+I mean-
+
+1018
+00:40:54,700 --> 00:40:55,200
+Noah Philip: Yeah
+
+1019
+00:40:54,840 --> 00:40:55,340
+Keith Murphy: ... that's cool.
+
+1020
+00:40:55,200 --> 00:40:56,820
+Noah Philip: 100%. It's inspiring.
+
+1021
+00:40:56,840 --> 00:40:57,340
+Keith Murphy: Damn.
+
+1022
+00:40:57,160 --> 00:41:00,980
+Noah Philip: It's inspiring. So, you know, I am not a veteran myself.
+
+1023
+00:41:01,060 --> 00:41:03,160
+You know, I was in-- But I, you know, I was in med school
+
+1024
+00:41:03,180 --> 00:41:08,460
+when 9/11 hit, and like I watched some of my friends from like high
+
+1025
+00:41:08,580 --> 00:41:13,740
+school and other places go into the military, so I, I saw sort of
+
+1026
+00:41:13,780 --> 00:41:17,060
+the totality of their experiences, good and bad.
+
+1027
+00:41:17,800 --> 00:41:21,220
+And so like-- And it like, I feel like, again, to your point, you,
+
+1028
+00:41:21,420 --> 00:41:24,300
+you sort of slipped it in there, which is like, you know, regardless of
+
+1029
+00:41:24,400 --> 00:41:28,980
+how you feel about other stuff in that context, like you can always come
+
+1030
+00:41:29,000 --> 00:41:32,940
+together trying to figure out how to, how to help people that are suffering,
+
+1031
+00:41:33,160 --> 00:41:37,600
+particularly for people who have already just given so much.
+
+1032
+00:41:37,640 --> 00:41:40,020
+Keith Murphy: They gave it all. It's like they never-
+
+1033
+00:41:40,100 --> 00:41:40,600
+Noah Philip: Yeah
+
+1034
+00:41:40,120 --> 00:41:41,900
+Keith Murphy: ... stop giving. You gotta respect that.
+
+1035
+00:41:42,540 --> 00:41:43,040
+Noah Philip: And they're-
+
+1036
+00:41:42,820 --> 00:41:43,320
+Keith Murphy: How cool is that?
+
+1037
+00:41:43,300 --> 00:41:45,380
+Noah Philip: When they're s- it's amazing. It's inspiring.
+
+1038
+00:41:45,500 --> 00:41:46,960
+I love it. I really do.
+
+1039
+00:41:48,140 --> 00:41:48,640
+Keith Murphy: Noah-
+
+1040
+00:41:48,460 --> 00:41:48,960
+Noah Philip: It's huge
+
+1041
+00:41:48,840 --> 00:41:52,680
+Keith Murphy: ... the default mode network, the magical network that never stops giving.
+
+1042
+00:41:52,800 --> 00:41:53,300
+Noah Philip: The magical network. [laughs]
+
+1043
+00:41:53,180 --> 00:41:56,200
+Keith Murphy: Tell, tell us from your brilliance as...
+
+1044
+00:41:57,180 --> 00:41:58,600
+I'm not gonna say it through your title again.
+
+1045
+00:41:58,640 --> 00:41:59,740
+It's too long for me to remember.
+
+1046
+00:41:59,840 --> 00:42:02,520
+But in all you've done, why is the default mode network?
+
+1047
+00:42:02,580 --> 00:42:05,320
+What is it? Why is it so important for all these disorders?
+
+1048
+00:42:05,680 --> 00:42:06,180
+Noah Philip: Yeah.
+
+1049
+00:42:05,720 --> 00:42:06,220
+Keith Murphy: When c-
+
+1050
+00:42:06,160 --> 00:42:06,660
+Noah Philip: Why is it-
+
+1051
+00:42:06,320 --> 00:42:08,780
+Keith Murphy: When can we go too far with the default mode network?
+
+1052
+00:42:09,060 --> 00:42:09,560
+Go.
+
+1053
+00:42:09,200 --> 00:42:11,460
+Noah Philip: Why is it always there for everything, right?
+
+1054
+00:42:12,000 --> 00:42:12,500
+Keith Murphy: What is it?
+
+1055
+00:42:12,200 --> 00:42:14,200
+Noah Philip: So, you know, w- what is it?
+
+1056
+00:42:14,380 --> 00:42:18,440
+I mean, you know, it's that, it's that series of in- functionally, not structurally,
+
+1057
+00:42:18,640 --> 00:42:23,660
+interconnected brain regions, right, that's trying to help you keep a tab on yourself,
+
+1058
+00:42:24,260 --> 00:42:29,220
+right? And, uh, when that goes wrong, you can't...
+
+1059
+00:42:29,360 --> 00:42:35,100
+You're stuck on self mode, and with a little bit of anthropomorphizing, that sounds
+
+1060
+00:42:35,140 --> 00:42:36,060
+like rumination.
+
+1061
+00:42:37,000 --> 00:42:37,500
+Keith Murphy: Mm-hmm.
+
+1062
+00:42:37,320 --> 00:42:42,260
+Noah Philip: And, and, and, you know, when the neural networks start telling you what your
+
+1063
+00:42:42,340 --> 00:42:48,080
+patients are telling you, when the imaging pictures and what comes out of people's
+
+1064
+00:42:48,140 --> 00:42:51,800
+mouths are the same, you know, you gotta pay attention to that.
+
+1065
+00:42:52,600 --> 00:42:54,580
+And so we keep coming back to default network, right?
+
+1066
+00:42:54,640 --> 00:42:56,900
+We see that in everything. No matter what you do, you scan, you see
+
+1067
+00:42:56,960 --> 00:43:00,880
+some default network finding, right? And it's because it's, you know, we have people-
+
+1068
+00:43:01,370 --> 00:43:03,210
+... sitting in a scanner. They're not doing anything.
+
+1069
+00:43:03,270 --> 00:43:05,550
+They're gonna be attending to their internal stimuli, if you will.
+
+1070
+00:43:06,290 --> 00:43:11,490
+Um, and also it's just such a huge part of our human conscious experience.
+
+1071
+00:43:12,330 --> 00:43:13,950
+It's part of what we're always doing.
+
+1072
+00:43:13,990 --> 00:43:18,870
+We're going between kind of what we are monitoring and feeling on the inside
+
+1073
+00:43:18,970 --> 00:43:22,230
+to an external thing. Those are other networks and whatnot have you.
+
+1074
+00:43:22,710 --> 00:43:23,950
+But you keep coming back to it.
+
+1075
+00:43:24,070 --> 00:43:29,310
+And boy, when that gets disrupted, that's really bad, right?
+
+1076
+00:43:29,370 --> 00:43:31,330
+So, so right, we'll call it rumination and depression.
+
+1077
+00:43:31,330 --> 00:43:32,430
+Keith Murphy: Just locked, locked in your own head.
+
+1078
+00:43:32,670 --> 00:43:33,170
+It's just so-
+
+1079
+00:43:33,070 --> 00:43:33,570
+Noah Philip: You are stuck
+
+1080
+00:43:33,190 --> 00:43:36,950
+Keith Murphy: ... like I said, the DMN is just being inside your head, overthinking everything,
+
+1081
+00:43:37,110 --> 00:43:37,610
+playing the past.
+
+1082
+00:43:37,210 --> 00:43:39,810
+Noah Philip: You are hyper-- You are just super hyperconnected.
+
+1083
+00:43:39,930 --> 00:43:40,430
+Keith Murphy: Yeah.
+
+1084
+00:43:39,950 --> 00:43:42,730
+Noah Philip: And, and every time we modulate it, right, what do we see?
+
+1085
+00:43:43,230 --> 00:43:47,330
+We generally don't see increased functional connectivity, and we talk about what the heck
+
+1086
+00:43:47,390 --> 00:43:49,150
+a functional connectivity signal actually means.
+
+1087
+00:43:49,650 --> 00:43:53,530
+But often what we see when we intervene is we see a reduction in
+
+1088
+00:43:53,610 --> 00:43:54,430
+that network-
+
+1089
+00:43:55,090 --> 00:43:55,590
+Keith Murphy: Yeah
+
+1090
+00:43:55,110 --> 00:43:56,670
+Noah Philip: ... in the connectivity of that network.
+
+1091
+00:43:57,050 --> 00:43:58,170
+Charles Caskey: Just less communication-
+
+1092
+00:43:58,170 --> 00:43:58,670
+Noah Philip: Right, where-
+
+1093
+00:43:58,190 --> 00:44:01,030
+Charles Caskey: ... between brain state or b- between nodes.
+
+1094
+00:44:01,030 --> 00:44:02,330
+Noah Philip: We're just unstuckin'. Right.
+
+1095
+00:44:02,370 --> 00:44:02,870
+Charles Caskey: Yeah.
+
+1096
+00:44:03,810 --> 00:44:06,730
+Noah Philip: And you know, what's really cool is not just default network, but like, let's,
+
+1097
+00:44:06,770 --> 00:44:12,990
+like salience network, right? So, so brain areas like, you know, insula, amygdala, anterior
+
+1098
+00:44:13,050 --> 00:44:16,450
+cingulate, you know, all brain regions that have to talk to each other in
+
+1099
+00:44:16,550 --> 00:44:20,950
+order to monitor what's relevant to the world around you, right?
+
+1100
+00:44:21,190 --> 00:44:23,630
+And you get stuck in a salience mode, let's put it in the word
+
+1101
+00:44:23,810 --> 00:44:29,110
+threat, right? And all of a sudden you've got something that starts to, again,
+
+1102
+00:44:29,550 --> 00:44:31,390
+sound a whole lot like post-traumatic stress.
+
+1103
+00:44:31,830 --> 00:44:37,090
+Or let's say your, your salience network is stuck on detecting bad things in
+
+1104
+00:44:37,150 --> 00:44:40,310
+the environment, negative things in the environment, like glass half full.
+
+1105
+00:44:40,650 --> 00:44:44,310
+It starts to t- feel a lot like depression.
+
+1106
+00:44:45,010 --> 00:44:47,770
+So like I, I mean I actually was, I was, you know, I was
+
+1107
+00:44:47,850 --> 00:44:53,230
+imaging before I was doing so any sort of stimulation or otherwise, and I,
+
+1108
+00:44:53,310 --> 00:44:57,690
+I remember sort of seeing these and seeing these networks, it's like 2000 and
+
+1109
+00:44:57,750 --> 00:45:01,890
+like what one, it's like default mode of brain function, Marcus Raichle stuff and,
+
+1110
+00:45:02,530 --> 00:45:06,930
+and like, I was like, "This is exactly what my patients are saying."
+
+1111
+00:45:07,490 --> 00:45:07,990
+Charles Caskey: Yeah.
+
+1112
+00:45:07,530 --> 00:45:09,130
+Noah Philip: Like that's really cool.
+
+1113
+00:45:09,930 --> 00:45:14,730
+Charles Caskey: That, that there can be something that you can detect physically, uh, through functional
+
+1114
+00:45:14,810 --> 00:45:19,750
+imaging that, that in, in your-- that you, you've seen it enough that you
+
+1115
+00:45:19,810 --> 00:45:24,850
+feel like that there, that it's, it's an, it's a physical expression of, of
+
+1116
+00:45:24,910 --> 00:45:27,970
+these internal mental states in a way that we can actually measure.
+
+1117
+00:45:28,430 --> 00:45:28,930
+Noah Philip: Yeah.
+
+1118
+00:45:28,470 --> 00:45:28,970
+Charles Caskey: And that-
+
+1119
+00:45:28,850 --> 00:45:29,490
+Noah Philip: That we can measure.
+
+1120
+00:45:29,870 --> 00:45:30,370
+Charles Caskey: Yeah.
+
+1121
+00:45:30,910 --> 00:45:31,410
+Noah Philip: Yeah.
+
+1122
+00:45:30,990 --> 00:45:33,150
+Keith Murphy: Charles loves measurable, measurable stuff.
+
+1123
+00:45:33,390 --> 00:45:33,890
+Charles Caskey: I do.
+
+1124
+00:45:33,730 --> 00:45:35,150
+Noah Philip: I do too. [laughs] Yeah. Yeah.
+
+1125
+00:45:35,470 --> 00:45:36,630
+I don't, I don't, I-
+
+1126
+00:45:36,670 --> 00:45:37,850
+Keith Murphy: No, I do too. What, what was I just saying?
+
+1127
+00:45:37,950 --> 00:45:38,710
+[laughs]
+
+1128
+00:45:38,750 --> 00:45:42,190
+Charles Caskey: Yeah, well, yeah, but th- this has my brain going in different, different directions
+
+1129
+00:45:42,230 --> 00:45:45,590
+with this. Um, and I think one of them I'm, I'm curious about, so
+
+1130
+00:45:45,650 --> 00:45:49,630
+seeing in some of Noah, in some of your work, unlike many people, it
+
+1131
+00:45:49,710 --> 00:45:55,150
+seems like you have, um, homed in on some white matter targets.
+
+1132
+00:45:55,290 --> 00:45:55,790
+Is that-
+
+1133
+00:45:55,770 --> 00:45:56,270
+Noah Philip: Mm-hmm
+
+1134
+00:45:56,050 --> 00:46:01,390
+Charles Caskey: ... due to your enthusiasm for, um, for the, the, you know, the network
+
+1135
+00:46:01,430 --> 00:46:03,050
+and the connections bet- between them?
+
+1136
+00:46:03,950 --> 00:46:06,250
+Noah Philip: So, so that comes from two different areas.
+
+1137
+00:46:06,530 --> 00:46:11,950
+One is a completely uneducated, uh, thought that I had, and the other might
+
+1138
+00:46:11,990 --> 00:46:13,150
+be as w- informed by data.
+
+1139
+00:46:13,630 --> 00:46:14,130
+Charles Caskey: Okay.
+
+1140
+00:46:13,890 --> 00:46:17,650
+Noah Philip: So the, the [laughs] so, so the data part is that, you know, these
+
+1141
+00:46:17,710 --> 00:46:22,990
+white matter targets are like a historical target for lots of things that we
+
+1142
+00:46:24,010 --> 00:46:26,630
+would no longer call psychosurgery, right?
+
+1143
+00:46:26,790 --> 00:46:32,770
+So, so for like, for functional neurosurgery, uh, for, for more surgical approaches, for
+
+1144
+00:46:32,810 --> 00:46:38,190
+like just really intractable depression, we, we target these, these white matter tracts that
+
+1145
+00:46:38,250 --> 00:46:42,610
+essentially are sort of the main communication hubs going from subcortical to cortical areas.
+
+1146
+00:46:42,930 --> 00:46:43,430
+Charles Caskey: Mm-hmm.
+
+1147
+00:46:43,950 --> 00:46:47,090
+Noah Philip: And, and so that makes a lot of sense to start, start targeting 'cause
+
+1148
+00:46:47,110 --> 00:46:50,150
+you're gonna try to develop a treatment maybe for this or for that.
+
+1149
+00:46:50,610 --> 00:46:54,250
+The other-- And you guys tell me if I'm totally wrong here with this
+
+1150
+00:46:54,330 --> 00:46:56,330
+uneducated comment. My, my other thought-
+
+1151
+00:46:56,350 --> 00:46:58,650
+Keith Murphy: Oh, let's do it. [laughs]
+
+1152
+00:46:58,690 --> 00:47:01,710
+Noah Philip: Bring it on. So, so the other thing, I was thinking about this, I'm
+
+1153
+00:47:01,730 --> 00:47:07,850
+thinking about this, so you know, there's gotta be something elastically different between a
+
+1154
+00:47:07,970 --> 00:47:14,470
+really well myelinated white matter tract that's long versus like a heterogeneous
+
+1155
+00:47:14,530 --> 00:47:18,710
+like glob of like gray matter cells that are kind of like just a
+
+1156
+00:47:18,770 --> 00:47:23,350
+matrix in and of themselves. Like we gotta, I, maybe-- I think there's probably
+
+1157
+00:47:23,390 --> 00:47:26,770
+gonna be more effect when you go for like the gus- the guitar string
+
+1158
+00:47:26,870 --> 00:47:28,390
+as opposed to like the jello.
+
+1159
+00:47:29,270 --> 00:47:30,930
+Charles Caskey: Uh, yeah. I mean physical-
+
+1160
+00:47:31,010 --> 00:47:31,510
+Noah Philip: But-
+
+1161
+00:47:31,090 --> 00:47:33,590
+Charles Caskey: ... properties. I think that, I don't think that these are...
+
+1162
+00:47:34,050 --> 00:47:37,610
+I, I, this is, this comes up sometimes, like the difference between gray and
+
+1163
+00:47:37,650 --> 00:47:40,590
+white matter and the-- 'cause we're talking physically, right?
+
+1164
+00:47:40,710 --> 00:47:41,210
+Just structurally.
+
+1165
+00:47:41,170 --> 00:47:41,850
+Noah Philip: Right. Physically.
+
+1166
+00:47:41,870 --> 00:47:42,370
+Charles Caskey: Yeah.
+
+1167
+00:47:41,890 --> 00:47:46,110
+Noah Philip: Right. Exactly. Yeah. Not even like where there's recept- not like where the like
+
+1168
+00:47:46,390 --> 00:47:48,310
+piezo ones are at in a human or...
+
+1169
+00:47:48,350 --> 00:47:51,630
+No, this is just, I mean, literally like the thickness and length of the-
+
+1170
+00:47:51,630 --> 00:47:53,090
+Keith Murphy: I like that you called them guitar strings
+
+1171
+00:47:53,130 --> 00:47:53,630
+Noah Philip: ... of the string.
+
+1172
+00:47:53,610 --> 00:47:54,570
+Charles Caskey: Yeah, I know. I like that too.
+
+1173
+00:47:54,710 --> 00:47:55,210
+Just like-
+
+1174
+00:47:55,030 --> 00:47:55,890
+Keith Murphy: Yeah, that was beautiful
+
+1175
+00:47:55,890 --> 00:47:57,090
+Charles Caskey: ... these, they're these like structured-
+
+1176
+00:47:57,150 --> 00:47:57,650
+Noah Philip: Thank you
+
+1177
+00:47:57,330 --> 00:47:58,930
+Charles Caskey: ... connectors between- [mimics guitar] ... like this.
+
+1178
+00:47:58,970 --> 00:47:59,530
+You can just, yeah-
+
+1179
+00:47:59,550 --> 00:48:00,050
+Noah Philip: Exactly
+
+1180
+00:47:59,610 --> 00:48:02,230
+Charles Caskey: ... then you can play them, hit the right notes, move.
+
+1181
+00:48:02,370 --> 00:48:02,870
+Yeah.
+
+1182
+00:48:02,650 --> 00:48:03,150
+Noah Philip: Yeah.
+
+1183
+00:48:02,730 --> 00:48:06,650
+Keith Murphy: I, I'm gonna give the contr- uh, no, actually, so Noah, I love that
+
+1184
+00:48:06,690 --> 00:48:08,630
+thought, and I, I like that you highlighted it.
+
+1185
+00:48:08,710 --> 00:48:12,150
+I don't know if Charles and I have ever talked about cell bodies versus
+
+1186
+00:48:12,170 --> 00:48:17,370
+their axons. I, I would tend to say the direction that you pushed, you
+
+1187
+00:48:17,450 --> 00:48:22,510
+flow and push along the axis, or are you bending by coming in orthogonal
+
+1188
+00:48:22,570 --> 00:48:27,370
+to those fibers? But you know, those, those fibers and tracts are heavily myelinated.
+
+1189
+00:48:27,430 --> 00:48:32,130
+There's like a waxy shell that just doesn't allow ions to flow across them.
+
+1190
+00:48:32,230 --> 00:48:36,010
+So that would be my one thought of they may be resistant to ultrasound,
+
+1191
+00:48:36,070 --> 00:48:39,730
+but I, I don't know, the nodes that are there, that could be really
+
+1192
+00:48:39,770 --> 00:48:44,050
+conductive, and I love that you're saying you can flex the fibers like guitar
+
+1193
+00:48:44,190 --> 00:48:45,510
+strings. So that part-
+
+1194
+00:48:45,610 --> 00:48:46,110
+Noah Philip: Yeah
+
+1195
+00:48:46,150 --> 00:48:48,530
+Keith Murphy: ... that part in my mind makes it maybe more sensitive.
+
+1196
+00:48:49,110 --> 00:48:51,910
+Has anyone ever investigated that? Has that been done yet?
+
+1197
+00:48:52,370 --> 00:48:53,770
+No, right? Does anyone know?
+
+1198
+00:48:53,790 --> 00:48:54,830
+Noah Philip: I don't-- I mean, not really.
+
+1199
+00:48:55,150 --> 00:48:55,930
+I mean, folks have been-
+
+1200
+00:48:55,970 --> 00:48:56,470
+Keith Murphy: Yeah
+
+1201
+00:48:56,010 --> 00:48:59,570
+Noah Philip: ... thinking and looking at white matter targets, um, but I, I don't think
+
+1202
+00:48:59,610 --> 00:49:03,550
+we have a white versus gray study ...
+
+1203
+00:49:03,590 --> 00:49:07,550
+going on. I mean, someone maybe put in like, what, notes to the show
+
+1204
+00:49:07,630 --> 00:49:09,470
+to say like, "You, you're wrong, Noah.
+
+1205
+00:49:09,570 --> 00:49:11,890
+This is like where-- this is what we're doing and how dare you not
+
+1206
+00:49:11,910 --> 00:49:13,330
+mention our work." [laughs]
+
+1207
+00:49:13,330 --> 00:49:13,830
+Charles Caskey: Oh, yeah.
+
+1208
+00:49:13,730 --> 00:49:14,230
+Keith Murphy: Yeah.
+
+1209
+00:49:13,850 --> 00:49:14,350
+Noah Philip: Like-
+
+1210
+00:49:14,710 --> 00:49:15,430
+Charles Caskey: We'd love to know, man.
+
+1211
+00:49:15,470 --> 00:49:16,690
+Noah Philip: Yeah ... but no, I think it's great.
+
+1212
+00:49:17,090 --> 00:49:19,310
+Charles Caskey: We would, yeah. It's-
+
+1213
+00:49:19,350 --> 00:49:22,270
+Keith Murphy: We're, we're doing a study with, uh, Andrew Krystal on depression.
+
+1214
+00:49:22,750 --> 00:49:23,250
+I-
+
+1215
+00:49:22,990 --> 00:49:23,490
+Noah Philip: Mm-hmm
+
+1216
+00:49:23,130 --> 00:49:27,270
+Keith Murphy: ... will not speak to white versus gray, but when we did stimulate targeting
+
+1217
+00:49:27,330 --> 00:49:32,910
+towards a ventral capsule versus BNST or more like anterior thalamus, those are all
+
+1218
+00:49:32,950 --> 00:49:34,250
+sort of in line in that- Yeah ...
+
+1219
+00:49:34,270 --> 00:49:38,210
+depression circuit. Uh- Yeah ... you know, the ventral capsule didn't really show much
+
+1220
+00:49:38,250 --> 00:49:39,950
+of anything, whereas as you move back-
+
+1221
+00:49:39,990 --> 00:49:40,490
+Noah Philip: Yeah
+
+1222
+00:49:40,010 --> 00:49:43,010
+Keith Murphy: ... towards the, the gray matter area, the effect became larger.
+
+1223
+00:49:43,150 --> 00:49:47,970
+So not, not evidence per se, but it, it follows that, that you're wrong,
+
+1224
+00:49:48,070 --> 00:49:50,490
+Noah. That you're wrong about all this guitar string stuff.
+
+1225
+00:49:50,550 --> 00:49:51,250
+Noah Philip: Yeah. Although y-
+
+1226
+00:49:51,430 --> 00:49:51,930
+Keith Murphy: No, I'm just kidding
+
+1227
+00:49:51,450 --> 00:49:54,290
+Noah Philip: ... there's all sorts of-- When you look at-- It's actually kinda cool if
+
+1228
+00:49:54,330 --> 00:49:58,310
+you think about like the anterior capsule, too, right?
+
+1229
+00:49:58,390 --> 00:50:02,450
+You've actually got a whole lot of white matter tracts that are kinda like
+
+1230
+00:50:02,530 --> 00:50:04,490
+punching through there, too, right?
+
+1231
+00:50:04,530 --> 00:50:05,030
+Keith Murphy: Oh, yeah.
+
+1232
+00:50:04,550 --> 00:50:08,750
+Noah Philip: True. Yeah. There's a whole lot that's like going through those areas that are
+
+1233
+00:50:08,830 --> 00:50:12,750
+probably in your focal area to some degree.
+
+1234
+00:50:13,210 --> 00:50:13,710
+Keith Murphy: Yeah.
+
+1235
+00:50:13,490 --> 00:50:14,250
+Noah Philip: I don't know if it's... Yeah.
+
+1236
+00:50:14,750 --> 00:50:19,730
+Keith Murphy: Is targeting the tracts-- I think the original theory of DBS being more effective
+
+1237
+00:50:19,790 --> 00:50:21,330
+there, you should correct me if I'm wrong.
+
+1238
+00:50:21,890 --> 00:50:24,930
+The tracts, because they're so fine, like little fibers-
+
+1239
+00:50:25,070 --> 00:50:25,570
+Noah Philip: Mm-hmm
+
+1240
+00:50:25,190 --> 00:50:27,670
+Keith Murphy: ... it's like a junction for so many areas-
+
+1241
+00:50:27,710 --> 00:50:28,210
+Noah Philip: Yeah
+
+1242
+00:50:27,730 --> 00:50:28,830
+Keith Murphy: ... that pulls together- Yeah ...
+
+1243
+00:50:28,870 --> 00:50:31,770
+that you get more, more bang for your buck by putting it in this
+
+1244
+00:50:32,090 --> 00:50:33,110
+node or central-
+
+1245
+00:50:33,270 --> 00:50:33,770
+Noah Philip: Yeah
+
+1246
+00:50:33,290 --> 00:50:34,290
+Keith Murphy: ... central highway.
+
+1247
+00:50:34,350 --> 00:50:34,850
+Noah Philip: Yeah.
+
+1248
+00:50:34,390 --> 00:50:34,890
+Keith Murphy: Is that true?
+
+1249
+00:50:35,750 --> 00:50:39,310
+Noah Philip: Yeah. You just got a really high concentration of everything in a very small
+
+1250
+00:50:39,410 --> 00:50:40,710
+place. Um.
+
+1251
+00:50:41,430 --> 00:50:42,830
+Keith Murphy: Yeah. Take out the bridge, you know?
+
+1252
+00:50:43,070 --> 00:50:43,850
+Uh, so to speak.
+
+1253
+00:50:44,050 --> 00:50:50,170
+Noah Philip: Yeah. Yeah. And, and like a, a fairly, um, a, a fairly understandable
+
+1254
+00:50:50,230 --> 00:50:55,950
+and predictable, like geographic representation, sort of almost mini homunculus in three-dimensional space.
+
+1255
+00:50:55,990 --> 00:50:58,170
+So like, if you're trying to think about like where you wanna put the
+
+1256
+00:50:58,230 --> 00:51:02,410
+electrodes, you can, you can sort of figure out generally where you wanna be
+
+1257
+00:51:02,470 --> 00:51:02,970
+going.
+
+1258
+00:51:03,470 --> 00:51:03,970
+Keith Murphy: Yeah.
+
+1259
+00:51:03,610 --> 00:51:04,110
+Noah Philip: Yeah.
+
+1260
+00:51:06,270 --> 00:51:08,470
+Keith Murphy: Charles, do you have-- I have some, I have a juicy question.
+
+1261
+00:51:08,710 --> 00:51:10,030
+Maybe juicy, unless you have one.
+
+1262
+00:51:10,710 --> 00:51:14,210
+Charles Caskey: No, no, jump in. I, I mean, this is all, this is exactly what
+
+1263
+00:51:14,270 --> 00:51:15,390
+I was hoping we'd talk about.
+
+1264
+00:51:15,530 --> 00:51:20,610
+Different-- I'm loving talking about the difference between, between, you know, kinda junctions versus,
+
+1265
+00:51:21,010 --> 00:51:23,310
+uh, nodes that are, you know, cortical.
+
+1266
+00:51:23,390 --> 00:51:25,410
+No, this has been great, so no, jump in.
+
+1267
+00:51:25,590 --> 00:51:26,130
+If you got anything juicy.
+
+1268
+00:51:26,250 --> 00:51:29,170
+Keith Murphy: Charles, I always thought you, I always thought your lab would be the person--
+
+1269
+00:51:29,370 --> 00:51:32,630
+Well, your lab would be the team that would've addressed that question, just because
+
+1270
+00:51:32,670 --> 00:51:36,990
+that paper you had with astrocytes and neurons and pericytes felt like that.
+
+1271
+00:51:37,170 --> 00:51:41,430
+But now the next step would be anatomically within one cell type, what, what
+
+1272
+00:51:41,450 --> 00:51:42,130
+do we care about?
+
+1273
+00:51:42,590 --> 00:51:43,090
+Charles Caskey: Yeah.
+
+1274
+00:51:42,710 --> 00:51:45,350
+Keith Murphy: You've let us all down by not having completed that study
+
+1275
+00:51:45,350 --> 00:51:46,610
+Charles Caskey: that I know you did. It wasn't me, I will say that.
+
+1276
+00:51:46,670 --> 00:51:47,750
+It was actually the- [laughs] ...
+
+1277
+00:51:47,830 --> 00:51:50,830
+it was actually the reviewers of my grants that [laughs]
+
+1278
+00:51:51,030 --> 00:51:51,530
+Noah Philip: Oh.
+
+1279
+00:51:51,330 --> 00:51:52,570
+Keith Murphy: It's always the reviewers.
+
+1280
+00:51:52,830 --> 00:51:53,890
+Noah Philip: It's always the reviewers.
+
+1281
+00:51:53,930 --> 00:51:54,430
+Charles Caskey: Son of a-
+
+1282
+00:51:54,090 --> 00:51:56,870
+Noah Philip: Oh my God, wait. So speaking of which, I don't know if I can
+
+1283
+00:51:56,910 --> 00:51:58,430
+talk about this out loud, but I'm gonna talk about it out loud.
+
+1284
+00:51:58,450 --> 00:51:59,070
+Keith Murphy: Yeah, you can talk about it.
+
+1285
+00:51:59,110 --> 00:52:03,790
+Noah Philip: So, so in, in this, in this U, one of, one of the reviewers,
+
+1286
+00:52:04,670 --> 00:52:07,290
+um, they did two things that were super-duper weird.
+
+1287
+00:52:07,510 --> 00:52:08,630
+One of which was like- [laughs] ...
+
+1288
+00:52:08,650 --> 00:52:13,090
+you know, you can't study people who have depression and PTSD because that's too
+
+1289
+00:52:13,170 --> 00:52:13,670
+complicated.
+
+1290
+00:52:13,290 --> 00:52:14,950
+Keith Murphy: What? Why not? Get out of here.
+
+1291
+00:52:15,070 --> 00:52:17,430
+Noah Philip: To which I, to which I was sort of like, "Have you, have you
+
+1292
+00:52:17,510 --> 00:52:21,210
+seen what I've been doing? That is, that is literally what I do."
+
+1293
+00:52:21,390 --> 00:52:25,090
+Like that's like the... And then the other which was they asked me to,
+
+1294
+00:52:25,190 --> 00:52:29,290
+uh, take out all the women 'cause it was gonna be too complicated.
+
+1295
+00:52:29,510 --> 00:52:30,030
+Keith Murphy: Oh my God.
+
+1296
+00:52:30,070 --> 00:52:30,570
+Noah Philip: And I was like-
+
+1297
+00:52:30,570 --> 00:52:31,170
+Keith Murphy: What the hell?
+
+1298
+00:52:31,170 --> 00:52:34,610
+Noah Philip: ... what era, what era are we liv-
+
+1299
+00:52:34,710 --> 00:52:35,210
+Keith Murphy: Yeah.
+
+1300
+00:52:34,730 --> 00:52:36,170
+Noah Philip: Uh, yeah. Yeah. I was like-
+
+1301
+00:52:36,170 --> 00:52:36,670
+Keith Murphy: Oh my God
+
+1302
+00:52:36,230 --> 00:52:41,010
+Noah Philip: ... this is the moment where a good, a good like someone in the
+
+1303
+00:52:41,050 --> 00:52:44,290
+room needed to be like, "Um, please don't do that."
+
+1304
+00:52:44,690 --> 00:52:45,650
+Keith Murphy: Very frustrating, Noah.
+
+1305
+00:52:45,650 --> 00:52:46,150
+Noah Philip: "Please don't do that."
+
+1306
+00:52:45,710 --> 00:52:46,210
+Keith Murphy: Very frustrating.
+
+1307
+00:52:45,730 --> 00:52:46,690
+Noah Philip: Ah, very, very frustrating.
+
+1308
+00:52:47,530 --> 00:52:48,890
+Keith Murphy: That's, that's what Flip Sabes says.
+
+1309
+00:52:49,010 --> 00:52:50,830
+He says, "I'm frustrated with FUS."
+
+1310
+00:52:51,290 --> 00:52:52,250
+You guys ever heard him say that?
+
+1311
+00:52:52,250 --> 00:52:53,570
+[laughs]
+
+1312
+00:52:53,610 --> 00:52:56,230
+Noah Philip: Yeah. I think, yeah, I think the, um...
+
+1313
+00:52:57,450 --> 00:52:59,030
+I'm gonna wait for Charles to come back in here.
+
+1314
+00:52:59,350 --> 00:53:00,010
+Charles Caskey: I think I'm back.
+
+1315
+00:53:01,530 --> 00:53:02,030
+Keith Murphy: Nice.
+
+1316
+00:53:02,070 --> 00:53:02,570
+Noah Philip: Yes.
+
+1317
+00:53:02,610 --> 00:53:03,290
+Charles Caskey: Excellent. Okay.
+
+1318
+00:53:03,350 --> 00:53:05,230
+Keith Murphy: Okay. Noah, let's talk about that later.
+
+1319
+00:53:05,530 --> 00:53:06,750
+Um, yeah, Charles-
+
+1320
+00:53:06,750 --> 00:53:07,330
+Noah Philip: All right. All right. Sounds good.
+
+1321
+00:53:07,370 --> 00:53:07,870
+Sounds good
+
+1322
+00:53:07,530 --> 00:53:08,190
+Keith Murphy: ... okay, where did we leave off?
+
+1323
+00:53:08,290 --> 00:53:10,370
+So, uh, Charles has disappointed us.
+
+1324
+00:53:10,390 --> 00:53:10,930
+Noah Philip: You were saying juicy.
+
+1325
+00:53:10,970 --> 00:53:12,210
+Keith Murphy: We're really excited about the future.
+
+1326
+00:53:12,550 --> 00:53:15,870
+Oh, and then Flip Sabes says, "Frustrated with FUS," he says.
+
+1327
+00:53:16,350 --> 00:53:16,850
+Noah Philip: That's right.
+
+1328
+00:53:16,790 --> 00:53:20,250
+Keith Murphy: But the, the other important thing I wanted to talk about, 'cause I haven't
+
+1329
+00:53:20,550 --> 00:53:24,910
+gotten a chance to get an expert's opinion yet, and I love expert opinions.
+
+1330
+00:53:25,850 --> 00:53:27,850
+Flow Neurosciences. Flow-
+
+1331
+00:53:28,170 --> 00:53:28,670
+Noah Philip: Yeah
+
+1332
+00:53:28,250 --> 00:53:30,090
+Keith Murphy: ... Flow Neuroscience? Flow Neurosciences-
+
+1333
+00:53:30,170 --> 00:53:30,670
+Noah Philip: Yeah
+
+1334
+00:53:30,190 --> 00:53:35,950
+Keith Murphy: ... is a company that builds a transcranial direct current stimulation device that was-
+
+1335
+00:53:36,050 --> 00:53:36,550
+Noah Philip: Yep
+
+1336
+00:53:36,110 --> 00:53:38,110
+Keith Murphy: ... previously a, a wellness device.
+
+1337
+00:53:38,390 --> 00:53:40,190
+And for the audience, a wellness device-
+
+1338
+00:53:40,310 --> 00:53:40,810
+Noah Philip: Mm-hmm
+
+1339
+00:53:40,330 --> 00:53:46,630
+Keith Murphy: ... is something that the FDA considers not, uh, necessary to regulate
+
+1340
+00:53:46,650 --> 00:53:48,750
+because it is just so safe and benign.
+
+1341
+00:53:49,250 --> 00:53:53,690
+It cannot make medical claims. So previously, and I'll get to the fun part
+
+1342
+00:53:53,730 --> 00:53:58,530
+here, previously Flow Neuroscience did not say it had anything to do with depression.
+
+1343
+00:53:58,690 --> 00:54:03,210
+It may be something you could wear at home to feel better about yourself
+
+1344
+00:54:03,270 --> 00:54:05,670
+or whatever. I think this is cool.
+
+1345
+00:54:05,750 --> 00:54:12,310
+What happened five, six days ago, uh, they went through a rigorous FDA
+
+1346
+00:54:12,430 --> 00:54:17,210
+trial after they were already on market as a wellness device.
+
+1347
+00:54:17,270 --> 00:54:21,410
+But they said, "No, we're gonna go and get FDA approval to say we
+
+1348
+00:54:21,430 --> 00:54:25,210
+have stood up against the true test of whether this could be a therapy
+
+1349
+00:54:25,690 --> 00:54:29,190
+in major depressive disorder." And I, I read the paper.
+
+1350
+00:54:29,610 --> 00:54:35,850
+The effect is tiny. I mean, d-depression score reduction goes from negative 10
+
+1351
+00:54:35,910 --> 00:54:39,530
+placebo to like negative 12-- Not negative.
+
+1352
+00:54:39,550 --> 00:54:40,050
+Noah Philip: Yeah.
+
+1353
+00:54:39,790 --> 00:54:41,450
+Keith Murphy: 10 to 12 s- Improvement ...
+
+1354
+00:54:41,570 --> 00:54:43,590
+Noah, you should rehash that. Yeah, it was a small-
+
+1355
+00:54:43,610 --> 00:54:44,110
+Noah Philip: Yeah.
+
+1356
+00:54:43,890 --> 00:54:44,410
+Keith Murphy: Yeah. Yeah ... improvement.
+
+1357
+00:54:44,570 --> 00:54:45,070
+Noah Philip: Yeah. Yeah.
+
+1358
+00:54:44,850 --> 00:54:47,710
+Keith Murphy: But it was, it was good, and it was a multi-site trial.
+
+1359
+00:54:48,570 --> 00:54:50,670
+Uh, how do you feel about the unwindings here?
+
+1360
+00:54:50,790 --> 00:54:52,890
+Charles, same. I mean, what do you guys think about this?
+
+1361
+00:54:52,970 --> 00:54:56,110
+Is it good, bad? I think it-- I kinda thought it was cool that
+
+1362
+00:54:56,150 --> 00:54:56,650
+they did it.
+
+1363
+00:54:57,250 --> 00:54:59,250
+Charles Caskey: Oh, man. I got a lot of opinions about this.
+
+1364
+00:54:59,250 --> 00:54:59,910
+[laughs]
+
+1365
+00:54:59,970 --> 00:55:01,450
+Noah Philip: I do too. I do too.
+
+1366
+00:55:01,990 --> 00:55:02,490
+I do too.
+
+1367
+00:55:02,130 --> 00:55:04,450
+Keith Murphy: Who wants to go first? Which one of you is feeling spicy?
+
+1368
+00:55:04,910 --> 00:55:05,730
+Who's feeling spicier?
+
+1369
+00:55:07,140 --> 00:55:12,840
+Charles Caskey: Um, well, I guess, okay, so I, I think I, this idea of the,
+
+1370
+00:55:12,840 --> 00:55:16,960
+the wellness space being a, I think it's, I guess what I will say,
+
+1371
+00:55:17,020 --> 00:55:21,080
+my, my, my, my hot take is that the, the, the idea of, of
+
+1372
+00:55:21,220 --> 00:55:27,220
+a wellness product having an on-ramp into clinical space, I, I'm enthusiastic
+
+1373
+00:55:27,320 --> 00:55:33,220
+about new technologies, but I, I, I just, if, if the very definition of
+
+1374
+00:55:33,240 --> 00:55:36,540
+it being put into the wellness space is that it would not have clinical
+
+1375
+00:55:36,660 --> 00:55:41,320
+efficacy, what, what are we doing here other than just doing a, a clinical
+
+1376
+00:55:41,440 --> 00:55:44,660
+trial without any of the guardrails that we typically require?
+
+1377
+00:55:45,360 --> 00:55:46,280
+Like, if now we're-
+
+1378
+00:55:46,340 --> 00:55:46,840
+Keith Murphy: Oh, it, it did go through the FDA trial, yeah
+
+1379
+00:55:46,440 --> 00:55:49,960
+Charles Caskey: ... now we're building the road, are we not piercing the veil between something?
+
+1380
+00:55:51,280 --> 00:55:52,760
+Keith Murphy: Yeah, no, it went through, so they went back-
+
+1381
+00:55:52,760 --> 00:55:53,340
+Noah Philip: It went through FDA
+
+1382
+00:55:53,360 --> 00:55:55,540
+Keith Murphy: ... and did a full FDA trial, though.
+
+1383
+00:55:56,200 --> 00:55:56,700
+Noah Philip: Yeah.
+
+1384
+00:55:56,240 --> 00:55:57,320
+Keith Murphy: That's what was cool about it.
+
+1385
+00:55:57,860 --> 00:55:58,660
+Charles Caskey: Um, I think that's-
+
+1386
+00:55:58,660 --> 00:55:59,160
+Keith Murphy: Yeah. I was-
+
+1387
+00:55:58,800 --> 00:56:00,580
+Charles Caskey: I think that's the question from my side.
+
+1388
+00:56:00,620 --> 00:56:01,860
+Or not, or just is how-
+
+1389
+00:56:01,920 --> 00:56:02,420
+Noah Philip: Yeah
+
+1390
+00:56:02,320 --> 00:56:06,460
+Charles Caskey: ... how do you, how do you square that, uh, this idea that ostensibly
+
+1391
+00:56:06,960 --> 00:56:09,360
+the thing, 'cause this fall, like, I think these things, what do people take,
+
+1392
+00:56:09,420 --> 00:56:13,300
+like, nucleotides now or something, or what are, okay, peptides maybe?
+
+1393
+00:56:13,660 --> 00:56:14,180
+Noah Philip: Peptides. Peptides.
+
+1394
+00:56:14,220 --> 00:56:16,840
+Charles Caskey: Is it, yeah, there's a big, that's a big, big part of the wellness-
+
+1395
+00:56:16,900 --> 00:56:17,400
+Noah Philip: Yeah
+
+1396
+00:56:16,980 --> 00:56:19,200
+Charles Caskey: ... uh, market right now, and I have no-
+
+1397
+00:56:19,320 --> 00:56:19,820
+Noah Philip: Yeah.
+
+1398
+00:56:19,360 --> 00:56:22,740
+Charles Caskey: That's, how is that not just giving people drugs, and then you'll maybe, like,
+
+1399
+00:56:22,860 --> 00:56:25,780
+one day, like, look at this and be like, "Oh, these people, this, they
+
+1400
+00:56:25,840 --> 00:56:29,240
+actually seem to get less depressed or better memory or something like that"?
+
+1401
+00:56:29,840 --> 00:56:33,760
+And the other, this, otherwise, up to that point before they recognized in the
+
+1402
+00:56:33,800 --> 00:56:40,100
+population that was taking a drug, um, for basically taking a drug that ostensibly
+
+1403
+00:56:40,140 --> 00:56:42,900
+wasn't gonna have a clinical effect, they're like, "Oh, actually it does."
+
+1404
+00:56:43,300 --> 00:56:46,180
+And then in that time, there could've been any number of people that like,
+
+1405
+00:56:46,300 --> 00:56:49,540
+I don't know, messed up their liver, messed up their brain, anything else because
+
+1406
+00:56:49,580 --> 00:56:51,540
+of the lack of rules in the wellness space.
+
+1407
+00:56:52,000 --> 00:56:52,500
+Noah Philip: Yeah.
+
+1408
+00:56:52,040 --> 00:56:55,640
+Keith Murphy: So Charles is bearish. Interesting. I like, I love that take, Charles.
+
+1409
+00:56:55,700 --> 00:56:56,200
+Charles Caskey: So, so-
+
+1410
+00:56:55,740 --> 00:56:57,380
+Keith Murphy: Hot take. Noah, what do you have?
+
+1411
+00:56:57,440 --> 00:57:01,420
+Noah Philip: I mean, I, I, it, it's interesting that people are using the wellness space
+
+1412
+00:57:01,480 --> 00:57:04,460
+essentially as an incubator for product development, right?
+
+1413
+00:57:04,540 --> 00:57:05,140
+That's sort of what we're talking about.
+
+1414
+00:57:05,140 --> 00:57:07,060
+Keith Murphy: Oh, it doesn't sound good when you put it that way [laughs]
+
+1415
+00:57:07,160 --> 00:57:09,100
+Noah Philip: Oh, it doesn't. No, it doesn't, does it?
+
+1416
+00:57:09,560 --> 00:57:10,380
+So, so-
+
+1417
+00:57:10,680 --> 00:57:11,920
+Keith Murphy: Yeah. Charles, that was, that was me.
+
+1418
+00:57:12,060 --> 00:57:15,860
+I just, Noah, Noah framed it a little dirtier than you did, but you
+
+1419
+00:57:15,900 --> 00:57:16,900
+guys are saying the same thing.
+
+1420
+00:57:17,200 --> 00:57:17,760
+It's true.
+
+1421
+00:57:17,880 --> 00:57:18,680
+Noah Philip: We are saying the same thing.
+
+1422
+00:57:18,680 --> 00:57:19,260
+Keith Murphy: I guess that's, that's accurate.
+
+1423
+00:57:20,160 --> 00:57:20,660
+Noah Philip: So, so I-
+
+1424
+00:57:20,480 --> 00:57:22,340
+Keith Murphy: Wait, do I, let me ask a question before-
+
+1425
+00:57:22,380 --> 00:57:22,880
+Noah Philip: Yeah, yeah. Go
+
+1426
+00:57:22,680 --> 00:57:23,360
+Keith Murphy: ... you go into this, Noah.
+
+1427
+00:57:23,460 --> 00:57:23,960
+Noah Philip: All right.
+
+1428
+00:57:23,480 --> 00:57:27,480
+Keith Murphy: And then you're gonna nail it, but, like, if, if it's ki- I mean,
+
+1429
+00:57:27,520 --> 00:57:31,720
+the effect was small, and it was beneficial, and we don't tell people, like,
+
+1430
+00:57:31,800 --> 00:57:34,180
+"Don't do certain exercises that could be-"
+
+1431
+00:57:34,260 --> 00:57:34,760
+Noah Philip: Sure.
+
+1432
+00:57:34,780 --> 00:57:38,260
+Keith Murphy: Just to, just to be the devil's advocate, there are many things that we
+
+1433
+00:57:38,300 --> 00:57:41,640
+know could be clinically good for us that we cannot regulate.
+
+1434
+00:57:41,960 --> 00:57:46,280
+Friendship, being around people, going out to, to drink coffee, you know?
+
+1435
+00:57:46,320 --> 00:57:49,520
+And like, these are things we will never regulate that we know will have
+
+1436
+00:57:49,560 --> 00:57:53,460
+clinical benefit. But I agree it's a device and they're using it as an
+
+1437
+00:57:53,500 --> 00:57:57,040
+on-ramp. I actually agree with you guys, so I'm trying to be a little
+
+1438
+00:57:57,100 --> 00:57:59,400
+global. Noah, as you, as you were saying-
+
+1439
+00:57:59,700 --> 00:58:00,200
+Noah Philip: All right [laughs]
+
+1440
+00:57:59,740 --> 00:58:00,260
+Keith Murphy: ... the old narwhal, you.
+
+1441
+00:58:00,280 --> 00:58:04,060
+Noah Philip: So I got couple, couple, couple different, c- Noah the Narwhal.
+
+1442
+00:58:04,560 --> 00:58:05,540
+It's, you know, like going-
+
+1443
+00:58:05,620 --> 00:58:06,220
+Keith Murphy: That's not gonna stick, by the way
+
+1444
+00:58:06,220 --> 00:58:07,140
+Noah Philip: ... g- going to the zoo.
+
+1445
+00:58:07,560 --> 00:58:08,060
+Keith Murphy: Just for now.
+
+1446
+00:58:08,340 --> 00:58:08,840
+Noah Philip: Oh, God.
+
+1447
+00:58:08,960 --> 00:58:09,460
+Keith Murphy: It's not gonna stick.
+
+1448
+00:58:09,480 --> 00:58:11,020
+Noah Philip: It's gonna be my next, next talk.
+
+1449
+00:58:11,080 --> 00:58:12,600
+I, this background is gonna be just narwhal.
+
+1450
+00:58:13,140 --> 00:58:13,640
+So, uh-
+
+1451
+00:58:13,440 --> 00:58:14,480
+Keith Murphy: It wasn't even a good metaphor.
+
+1452
+00:58:14,540 --> 00:58:16,640
+I just... [laughs]
+
+1453
+00:58:16,780 --> 00:58:21,060
+Noah Philip: So few, few different thoughts. The first of which is that, so right, the,
+
+1454
+00:58:21,100 --> 00:58:25,260
+the effect, the separation from sham is real small, and you can look at
+
+1455
+00:58:25,320 --> 00:58:27,580
+that and you could look at that as glass half full or glass half
+
+1456
+00:58:27,640 --> 00:58:30,840
+empty, and you could say, like, "Well, we really need, like, interventions that, like,
+
+1457
+00:58:30,980 --> 00:58:33,720
+really get people better, and does this meet that mark?"
+
+1458
+00:58:33,780 --> 00:58:39,880
+And that's an open question. And, and that all said, when we're
+
+1459
+00:58:39,960 --> 00:58:45,660
+talking about, like, transcranial direct current stimulation, which is delivering a small amount of
+
+1460
+00:58:45,740 --> 00:58:51,260
+energy largely to the, in this case, prefrontal cortex to bias neurons towards firing,
+
+1461
+00:58:51,360 --> 00:58:56,240
+which by the way, subthreshold perturbation might also be what ultrasound is doing.
+
+1462
+00:58:56,820 --> 00:59:03,100
+Separate discussion. Um, you know, that's, that's,
+
+1463
+00:59:03,440 --> 00:59:09,300
+um, something that's providing a little bit of clinical benefit, but then the question
+
+1464
+00:59:09,340 --> 00:59:11,060
+is, but how much harm is it causing?
+
+1465
+00:59:12,260 --> 00:59:14,740
+And the answer to that is very little.
+
+1466
+00:59:14,960 --> 00:59:16,940
+You can burn, you can get a burn, sure.
+
+1467
+00:59:17,340 --> 00:59:19,740
+You, if you leave the machines on too much, you can get some funny
+
+1468
+00:59:19,800 --> 00:59:21,980
+side effects. I, I could talk about that.
+
+1469
+00:59:22,020 --> 00:59:25,520
+I get a few people a year who like super overuse their at-home DIY
+
+1470
+00:59:25,580 --> 00:59:27,480
+tDCS systems and, and, and-
+
+1471
+00:59:27,580 --> 00:59:28,080
+Keith Murphy: Okay
+
+1472
+00:59:27,680 --> 00:59:29,840
+Noah Philip: ... note to you at home, if you're doing this, please don't.
+
+1473
+00:59:30,940 --> 00:59:31,440
+Keith Murphy: Don't do it.
+
+1474
+00:59:31,080 --> 00:59:32,280
+Noah Philip: Like, reach out to me offline.
+
+1475
+00:59:32,340 --> 00:59:33,340
+Please don't do that.
+
+1476
+00:59:33,640 --> 00:59:34,140
+Keith Murphy: Reach out to me.
+
+1477
+00:59:33,740 --> 00:59:35,260
+Noah Philip: It does, doesn't end well. Um-
+
+1478
+00:59:35,300 --> 00:59:37,420
+Charles Caskey: Another member of the deep DIY camp.
+
+1479
+00:59:37,740 --> 00:59:38,420
+Don't do it yourself.
+
+1480
+00:59:38,420 --> 00:59:41,640
+Noah Philip: Don't do that. That's a, that's a real don't do, man.
+
+1481
+00:59:41,680 --> 00:59:42,180
+Charles Caskey: Yeah.
+
+1482
+00:59:42,160 --> 00:59:44,780
+Noah Philip: A handful times a year I come in, people come into my clinic for
+
+1483
+00:59:44,800 --> 00:59:46,660
+a consult, and they've really messed themselves up.
+
+1484
+00:59:46,820 --> 00:59:47,320
+Charles Caskey: Mm.
+
+1485
+00:59:47,240 --> 00:59:51,520
+Noah Philip: But anyway, so, so, but, but in the grand scheme of things, like, you
+
+1486
+00:59:51,540 --> 00:59:55,660
+know, you get a little bit of benefit for, like, really low risk, as
+
+1487
+00:59:55,700 --> 01:00:00,260
+opposed to if you're developing a new pharmaceutical that, that might give you two
+
+1488
+01:00:00,320 --> 01:00:04,380
+points on the Montgomery-Åsberg Depression Rating Scale, right?
+
+1489
+01:00:04,540 --> 01:00:10,980
+That's statistically significant, but you also have like, you know, a really high likelihood
+
+1490
+01:00:11,060 --> 01:00:15,740
+of getting weight gain, diabetes, cardiac side effects, you know- Mm ...
+
+1491
+01:00:15,800 --> 01:00:21,400
+real life-changing, truly, like, things that could be really bad for your body.
+
+1492
+01:00:21,820 --> 01:00:25,140
+You know, I think those are two different risk-benefit calculations.
+
+1493
+01:00:25,800 --> 01:00:26,300
+And-
+
+1494
+01:00:26,000 --> 01:00:26,500
+Charles Caskey: Yeah
+
+1495
+01:00:26,080 --> 01:00:28,820
+Noah Philip: ... and, you know, usually when the FDA is looking at devices, right?
+
+1496
+01:00:28,880 --> 01:00:32,480
+It's a, it's a, you know, from a, a clearance perspective, it's usually, like,
+
+1497
+01:00:32,580 --> 01:00:38,540
+a risk-based, um, it's a risk-based determination, you know, relative to benefit.
+
+1498
+01:00:38,680 --> 01:00:42,620
+And I, I think in that case you can say, yeah, there's likelihood of
+
+1499
+01:00:42,660 --> 01:00:43,840
+a little bit of a benefit, sure.
+
+1500
+01:00:44,420 --> 01:00:48,520
+But the, the risk for it is, is so low, as opposed to, you
+
+1501
+01:00:48,560 --> 01:00:53,960
+know, the, the whatever new medication that, you know, might give you a small
+
+1502
+01:00:54,020 --> 01:00:55,640
+benefit and a lot of risk.
+
+1503
+01:00:55,860 --> 01:00:56,700
+You know, that's-
+
+1504
+01:00:56,860 --> 01:00:57,360
+Charles Caskey: Mm-hmm
+
+1505
+01:00:56,900 --> 01:00:58,640
+Noah Philip: ... that's, that's a different calculus.
+
+1506
+01:00:58,680 --> 01:01:01,400
+And I, I think, I'm not on FDA, I, I, I can't speculate to
+
+1507
+01:01:01,420 --> 01:01:03,740
+what they were thinking, but that would be my guess.
+
+1508
+01:01:04,140 --> 01:01:06,540
+A- and so sort of what part one.
+
+1509
+01:01:06,720 --> 01:01:11,010
+Part two, just before I forget it- Is like one of the things I
+
+1510
+01:01:11,070 --> 01:01:17,690
+love about this is that these systems, these tDCS systems, they are, they
+
+1511
+01:01:17,750 --> 01:01:19,170
+can go where they need to go.
+
+1512
+01:01:19,970 --> 01:01:24,550
+And I, over the last like year or two, and maybe we can get
+
+1513
+01:01:24,590 --> 01:01:28,070
+to this later, you know, I, I've been to Ukraine a couple times teaching
+
+1514
+01:01:28,130 --> 01:01:33,030
+TMS. Like I, I, I have a, I have a newfound appreciation of just
+
+1515
+01:01:33,110 --> 01:01:38,250
+how important it is to make sure that the systems that we develop can
+
+1516
+01:01:38,370 --> 01:01:42,250
+actually like go where they need to go and do what they need to
+
+1517
+01:01:42,330 --> 01:01:46,470
+do. And so having, you know, having an option that might be like something
+
+1518
+01:01:46,530 --> 01:01:49,710
+that people can do in the privacy of their own home, or we could
+
+1519
+01:01:49,770 --> 01:01:53,990
+take to resource poor environments, because all you need essentially is like a system
+
+1520
+01:01:54,030 --> 01:01:57,130
+and like an iPhone, I think that's really cool.
+
+1521
+01:01:57,410 --> 01:01:57,910
+Charles Caskey: Yeah. Mm-hmm.
+
+1522
+01:01:57,950 --> 01:01:59,030
+Noah Philip: That's huge.
+
+1523
+01:01:59,470 --> 01:01:59,970
+Charles Caskey: Yeah.
+
+1524
+01:01:59,550 --> 01:02:03,150
+Noah Philip: Like, that gives people something that they don't otherwise have access to for pretty
+
+1525
+01:02:03,190 --> 01:02:07,470
+low risk. And so I think like on balance, yeah, you know, incubator space,
+
+1526
+01:02:08,150 --> 01:02:12,930
+uh, to develop a product, mm, uh, you know, w- you know, mis- wellness
+
+1527
+01:02:12,970 --> 01:02:14,450
+misuse, that's, uh, sort of one thing.
+
+1528
+01:02:14,590 --> 01:02:18,230
+But I think on balance, I think it's a huge win for people who
+
+1529
+01:02:18,310 --> 01:02:19,210
+are really suffering.
+
+1530
+01:02:19,690 --> 01:02:25,490
+Charles Caskey: Yeah. Like usability in general, like pushing forward in that space is, is import-
+
+1531
+01:02:25,610 --> 01:02:30,030
+incredibly important. And then, and, and I think something that you came up a
+
+1532
+01:02:30,070 --> 01:02:34,050
+lot when you were discussing is just, is, is really being really serious about
+
+1533
+01:02:34,130 --> 01:02:40,210
+managing the, the potential risks and, and trying to minimize that, um, seems like
+
+1534
+01:02:40,290 --> 01:02:43,150
+a, of utmost important if you're gonna be in this space.
+
+1535
+01:02:44,150 --> 01:02:45,810
+Noah Philip: Yeah. Yeah. Yeah. Yeah.
+
+1536
+01:02:46,670 --> 01:02:47,170
+Charles Caskey: And-
+
+1537
+01:02:46,710 --> 01:02:49,170
+Noah Philip: I mean, I gotta say, and, and we, I, I should have led with
+
+1538
+01:02:49,210 --> 01:02:52,810
+this earlier. I mean, part of one of the other reasons that I am
+
+1539
+01:02:53,210 --> 01:02:57,950
+so enthusiastic and why I really dove into the ultrasound space was I, I
+
+1540
+01:02:58,190 --> 01:03:02,910
+do think that this tech, all the things that go into it, have the,
+
+1541
+01:03:03,210 --> 01:03:07,350
+ha- m- has a much higher possibility of being able to go and to
+
+1542
+01:03:07,410 --> 01:03:07,910
+travel.
+
+1543
+01:03:08,230 --> 01:03:08,730
+Charles Caskey: Yeah.
+
+1544
+01:03:08,250 --> 01:03:11,670
+Noah Philip: Like our TMS devices, man, they take so much energy.
+
+1545
+01:03:12,030 --> 01:03:12,770
+The capacitors-
+
+1546
+01:03:12,890 --> 01:03:13,390
+Charles Caskey: Yeah
+
+1547
+01:03:12,910 --> 01:03:16,550
+Noah Philip: ... are so huge. Like, and, and there's, there's a fundamental physics problem.
+
+1548
+01:03:16,630 --> 01:03:21,790
+There's an induction problem there that we are not gonna be able to solve.
+
+1549
+01:03:22,270 --> 01:03:28,030
+Whereas, you know, the amount of energy required to drive these piezoelectric elements in
+
+1550
+01:03:28,070 --> 01:03:31,950
+the grand scheme of things is so much lower, and I think that's really
+
+1551
+01:03:32,030 --> 01:03:36,110
+exciting. It's not a now use for this stuff, but like in terms of
+
+1552
+01:03:36,170 --> 01:03:39,090
+where it could go and if it, if it does all the stuff that
+
+1553
+01:03:39,150 --> 01:03:43,410
+we hope it can do, I think that's just like, just super exciting.
+
+1554
+01:03:43,770 --> 01:03:44,270
+Charles Caskey: Oh, yeah.
+
+1555
+01:03:44,230 --> 01:03:48,210
+Keith Murphy: Noah, are you more bullish on ultrasound than you are TMS, having lived both
+
+1556
+01:03:48,270 --> 01:03:48,850
+pretty heavily?
+
+1557
+01:03:49,950 --> 01:03:53,790
+Noah Philip: I, I, I'm super exci- I mean, I really like TMS.
+
+1558
+01:03:53,830 --> 01:03:55,310
+Keith Murphy: You know what the name of this podcast is, right?
+
+1559
+01:03:56,510 --> 01:03:58,070
+Noah Philip: Uh, is it TUS Forward?
+
+1560
+01:03:58,770 --> 01:04:02,030
+Keith Murphy: No, FUS Forward. [laughs] [laughs] Get the hell out of here.
+
+1561
+01:04:02,230 --> 01:04:02,730
+Charles Caskey: I want to go back.
+
+1562
+01:04:02,510 --> 01:04:04,070
+Keith Murphy: You knew it was FUS Forward.
+
+1563
+01:04:04,910 --> 01:04:07,210
+That's messed up. That's messed up.
+
+1564
+01:04:07,270 --> 01:04:11,070
+You knew it. [laughs]
+
+1565
+01:04:11,150 --> 01:04:12,030
+Charles Caskey: I couldn't resist.
+
+1566
+01:04:12,070 --> 01:04:12,570
+Keith Murphy: Just saying that.
+
+1567
+01:04:12,490 --> 01:04:15,810
+Charles Caskey: No, no, no, it's, we're solidly FUS here.
+
+1568
+01:04:15,850 --> 01:04:18,410
+Noah Philip: No, I mean, I [laughs]
+
+1569
+01:04:18,410 --> 01:04:19,510
+Charles Caskey: ... Um, but anyway-
+
+1570
+01:04:19,550 --> 01:04:20,870
+Keith Murphy: No, I, I- You guys look like clowns with those outfits.
+
+1571
+01:04:20,930 --> 01:04:21,730
+I take that back what I said.
+
+1572
+01:04:21,750 --> 01:04:22,250
+I don't like it.
+
+1573
+01:04:22,010 --> 01:04:25,390
+Charles Caskey: Well, he, he, Noah, Noah doesn't have to have to say he's bullish on
+
+1574
+01:04:25,430 --> 01:04:28,050
+one or the other because he can, he, he could just pick from the-
+
+1575
+01:04:28,090 --> 01:04:28,630
+Noah Philip: I'm in both
+
+1576
+01:04:28,870 --> 01:04:31,150
+Charles Caskey: ... the, the buffet of, of options and, and-
+
+1577
+01:04:31,170 --> 01:04:31,670
+Keith Murphy: You're in a much bigger-
+
+1578
+01:04:31,390 --> 01:04:32,790
+Noah Philip: But we, I do a lot of stuff.
+
+1579
+01:04:32,990 --> 01:04:33,730
+I do a lot of stuff.
+
+1580
+01:04:33,770 --> 01:04:35,370
+No, I think it's really exciting.
+
+1581
+01:04:35,450 --> 01:04:38,970
+I think there's so much potential to get at the actual signal generators.
+
+1582
+01:04:39,050 --> 01:04:40,470
+Keith Murphy: Is there room, though? Is there room to get people-
+
+1583
+01:04:40,570 --> 01:04:41,070
+Noah Philip: Oh, yeah
+
+1584
+01:04:40,590 --> 01:04:43,110
+Keith Murphy: ... I just like people could do TMS and ultrasound.
+
+1585
+01:04:43,170 --> 01:04:43,670
+Noah Philip: Oh, man.
+
+1586
+01:04:43,210 --> 01:04:44,570
+Keith Murphy: Why do, why do it have to be one or the other?
+
+1587
+01:04:45,610 --> 01:04:49,010
+Noah Philip: So I would love if we ran out of room, but truth of the
+
+1588
+01:04:49,070 --> 01:04:51,050
+matter is like our need is so big-
+
+1589
+01:04:52,070 --> 01:04:52,570
+Keith Murphy: That's-
+
+1590
+01:04:52,230 --> 01:04:53,450
+Noah Philip: ... I, I'm gonna worry about that later.
+
+1591
+01:04:54,210 --> 01:04:54,710
+Keith Murphy: Yes.
+
+1592
+01:04:54,310 --> 01:04:55,770
+Noah Philip: Uh, that's a, that's a tomorrow problem.
+
+1593
+01:04:55,770 --> 01:04:58,890
+Charles Caskey: There's, there's a lot of unknown disease states that-
+
+1594
+01:04:59,330 --> 01:04:59,830
+Noah Philip: Yeah
+
+1595
+01:04:59,350 --> 01:05:02,910
+Charles Caskey: ... could benefit from, yeah, that, that's not, that's not where you're seeing the
+
+1596
+01:05:02,950 --> 01:05:04,030
+bottleneck or the, the-
+
+1597
+01:05:04,090 --> 01:05:05,830
+Noah Philip: I'm not worried about that part.
+
+1598
+01:05:05,890 --> 01:05:06,390
+Charles Caskey: Yeah.
+
+1599
+01:05:05,910 --> 01:05:07,430
+Noah Philip: Let's just get the stuff out there.
+
+1600
+01:05:07,490 --> 01:05:12,570
+Let's see if it works. Let's make sure it's safe and, and FUS Forward..
+
+1601
+01:05:12,830 --> 01:05:13,330
+I mean-
+
+1602
+01:05:12,970 --> 01:05:13,470
+Charles Caskey: Yeah
+
+1603
+01:05:13,070 --> 01:05:13,570
+Noah Philip: ... just-
+
+1604
+01:05:13,970 --> 01:05:17,650
+Keith Murphy: Uh, Noah, we do something called FUS Wins, which I'm sure you know about,
+
+1605
+01:05:18,190 --> 01:05:20,810
+or TUS Wins if that's what you want to call it with your jokes,
+
+1606
+01:05:21,310 --> 01:05:26,850
+your funny jokes over there. [laughs] Charles, maybe you can [laughs] lead us into
+
+1607
+01:05:26,890 --> 01:05:29,290
+FUS Wins and then, Noah, you got anything?
+
+1608
+01:05:29,290 --> 01:05:30,130
+[laughs]
+
+1609
+01:05:30,190 --> 01:05:31,070
+Noah Philip: Yeah, I do. I do.
+
+1610
+01:05:31,250 --> 01:05:32,850
+Keith Murphy: Charles, go ahead. Lead us in.
+
+1611
+01:05:33,570 --> 01:05:35,930
+Charles Caskey: All right. So wait, so I don't actually have to come up with the
+
+1612
+01:05:35,970 --> 01:05:36,470
+FUS Win?
+
+1613
+01:05:38,030 --> 01:05:38,830
+Keith Murphy: I don't think so.
+
+1614
+01:05:38,930 --> 01:05:39,430
+Charles Caskey: Oh, this is great.
+
+1615
+01:05:39,170 --> 01:05:40,830
+Keith Murphy: Have we had any submissions since last time?
+
+1616
+01:05:40,850 --> 01:05:42,130
+Charles Caskey: All right. No, no, let me introduce it.
+
+1617
+01:05:42,230 --> 01:05:46,030
+Okay, everybody, we've been brought to the point in our episode which we celebrate
+
+1618
+01:05:46,650 --> 01:05:49,150
+FUS Wins. These are wins in the field recently.
+
+1619
+01:05:49,730 --> 01:05:53,630
+I looked through an inbox of our LinkedIn account as well as my, uh,
+
+1620
+01:05:53,630 --> 01:05:57,810
+um, uh, m- email inbox, and we have received zero submissions still.
+
+1621
+01:05:57,810 --> 01:06:04,130
+[laughs] [laughs] So, uh, but, but today we have a treat
+
+1622
+01:06:04,190 --> 01:06:08,130
+that it, this, this FUS Win does not originate from me or Keith.
+
+1623
+01:06:08,630 --> 01:06:12,010
+Um, I think that Noah has shown up to the podcast with a FUS
+
+1624
+01:06:12,130 --> 01:06:13,430
+Win to report.
+
+1625
+01:06:14,090 --> 01:06:19,290
+Noah Philip: Yeah. So I'm super excited. So, you know, we have a, um, an official
+
+1626
+01:06:19,550 --> 01:06:21,890
+start date, uh, for, uh- [laughs]
+
+1627
+01:06:21,930 --> 01:06:23,170
+Keith Murphy: You're giving it to yourself, Noah?
+
+1628
+01:06:23,250 --> 01:06:23,750
+I love that.
+
+1629
+01:06:23,970 --> 01:06:24,770
+Noah Philip: Oh, yeah, totally.
+
+1630
+01:06:24,790 --> 01:06:25,610
+Charles Caskey: Yeah, we, we allow that.
+
+1631
+01:06:25,730 --> 01:06:26,670
+Noah Philip: Totally taking this.
+
+1632
+01:06:26,870 --> 01:06:28,330
+Charles Caskey: We allow that. Yeah, yeah, yeah, we allow that.
+
+1633
+01:06:28,390 --> 01:06:28,890
+We encourage that behavior.
+
+1634
+01:06:28,850 --> 01:06:29,790
+Noah Philip: Totally allowed.
+
+1635
+01:06:30,110 --> 01:06:31,330
+Keith Murphy: Keep it going. What do you got?
+
+1636
+01:06:31,530 --> 01:06:32,030
+This is awesome.
+
+1637
+01:06:31,730 --> 01:06:34,210
+Noah Philip: Keep it going. No, no, we, you know, we have a, you know, it's
+
+1638
+01:06:34,250 --> 01:06:38,550
+a, it's a, it'll be a, you know, sham controlled dose escalation study, uh,
+
+1639
+01:06:38,710 --> 01:06:42,430
+of ultrasound for PTSD, and we've got, you know, a scheduled start date of
+
+1640
+01:06:42,530 --> 01:06:44,650
+April 1. It's a big VA grant.
+
+1641
+01:06:44,710 --> 01:06:46,190
+Keith Murphy: Hell yeah, Noah. [clapping]
+
+1642
+01:06:46,230 --> 01:06:49,550
+Noah Philip: I think it's really important, so first of it's sure the me part, but
+
+1643
+01:06:49,610 --> 01:06:51,670
+the other thing is it, what does it represent, right?
+
+1644
+01:06:51,750 --> 01:06:58,130
+So this represents yet another funding agency that recognizes the importance
+
+1645
+01:06:58,210 --> 01:07:01,310
+of the tech, the promise of what it can do, right?
+
+1646
+01:07:01,370 --> 01:07:03,870
+It's like it's precision without the incision.
+
+1647
+01:07:04,070 --> 01:07:08,370
+Charles Caskey: Super exciting to have such a competent group heading up a study like that
+
+1648
+01:07:08,470 --> 01:07:10,450
+and on a, on an impactful topic.
+
+1649
+01:07:10,530 --> 01:07:13,070
+So I'm fully support this FUS Win.
+
+1650
+01:07:13,530 --> 01:07:14,030
+So it's so cool.
+
+1651
+01:07:13,810 --> 01:07:16,050
+Keith Murphy: Yeah, we would've given it to you if you didn't give it to yourself.
+
+1652
+01:07:16,370 --> 01:07:16,870
+[laughs]
+
+1653
+01:07:16,690 --> 01:07:19,010
+Charles Caskey: Yeah, yeah, yeah. If, if we had known, we would've done-
+
+1654
+01:07:19,150 --> 01:07:21,310
+Noah Philip: It's not public yet. I mean, it's not really a public thing, so.
+
+1655
+01:07:21,350 --> 01:07:21,850
+Charles Caskey: We didn't know. We didn't know.
+
+1656
+01:07:21,850 --> 01:07:23,330
+Noah Philip: Yeah, yeah, yeah.
+
+1657
+01:07:23,330 --> 01:07:24,890
+Charles Caskey: Yeah. Uh, thank you. We're looking ahead.
+
+1658
+01:07:25,370 --> 01:07:26,990
+Uh, this has been FUS Forward.
+
+1659
+01:07:27,450 --> 01:07:32,810
+It's FUS Forward. [laughs]
+
+1660
+01:07:32,890 --> 01:07:35,450
+Noah Philip: Thanks so much for, uh, just so happy to be here with you guys.
+
+1661
+01:07:42,870 --> 01:07:43,370
+[outro music]

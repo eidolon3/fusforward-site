@@ -1,0 +1,52 @@
+{
+ "_note": "Claude's review of out/flags/08.json. 'fix' may only swap a flagged span for a listed term; 'uncertain' words are marked in the output, not changed (by raw word index 'i', or by text anchor 'near_s' + 'text'). Every other flag was checked and kept as transcribed. 'replace' (word corrections) and the text-anchored 'uncertain' entries come from a read-through audit of the transcripts; they are text-based, not checked against the audio: high-confidence corrections are applied, medium ones that need the audio are only marked uncertain. 'speaker' entries are reviewed speaker corrections from the same audit, applied after the voice naming.",
+ "fix": [
+  {
+   "i": 3031,
+   "k": 3,
+   "from": "reticular vagus nerve",
+   "to": "auricular vagus nerve",
+   "why": "'vagus nerve in the ear'"
+  }
+ ],
+ "replace": [
+  {
+   "near_s": 177.34,
+   "from": "Shishov",
+   "to": "Chizhov",
+   "why": "Lev Chizhov (self-experimentation, with Leo)"
+  }
+ ],
+ "uncertain": [
+  {
+   "i": 923,
+   "why": "low confidence on a name ('Leo Zarif')"
+  },
+  {
+   "i": 693,
+   "why": "very low confidence"
+  },
+  {
+   "i": 694,
+   "why": "unclear ('over-smell')"
+  },
+  {
+   "i": 1022,
+   "why": "very low confidence"
+  }
+ ],
+ "speaker": [
+  {
+   "near_s": 397.92,
+   "text": "not.",
+   "who": "Charles Caskey",
+   "why": "Charles's 'Most certainly not.'"
+  },
+  {
+   "near_s": 420.76,
+   "text": "know.",
+   "who": "Charles Caskey",
+   "why": "Charles's 'I don't know.'"
+  }
+ ]
+}

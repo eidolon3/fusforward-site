@@ -1,0 +1,82 @@
+# Shared FUS jargon. Rare words and acronyms only: common English is transcribed fine without help.
+FUS
+FUS Forward
+tFUS
+TUS
+LIFU
+LIPUS
+HIFU
+MRgFUS
+TPS
+transcranial ultrasound stimulation
+low-intensity focused ultrasound
+ultrasound neuromodulation
+sonication
+sonications
+sonogenetics
+transducer
+phased array
+acoustic lens
+acoustic hologram
+metamaterial
+hydrophone
+skull aberration
+aberration correction
+time reversal
+time-reversal mirror
+ray tracing
+full-wave simulation
+k-Wave
+k-Plan
+BabelBrain
+Kranion
+pseudo-CT
+Hounsfield units
+ultrashort echo time
+MR-ARFI
+acoustic radiation force
+MR thermometry
+thermal dose
+CEM43
+mechanical index
+thermal index
+ISPPA
+ISPTA
+PRF
+pulse repetition frequency
+duty cycle
+cavitation
+inertial cavitation
+microbubbles
+blood-brain barrier
+histotripsy
+thalamotomy
+essential tremor
+subcallosal cingulate
+anterior cingulate cortex
+nucleus accumbens
+amygdala
+auditory confound
+non-human primates
+macaques
+neuronavigation
+TMS
+DBS
+ECT
+fMRI
+EEG
+ITRUSST
+IDE
+510(k)
+FUS win
+FUS wins
+Vanderbilt
+Attune
+Focused Ultrasound Foundation
+high-intensity focused ultrasound
+ultrasound neurostimulation
+NeuroFUS
+BrainBox
+Rayleigh-Plesset
+MADRS
+ARPA-H

@@ -1,0 +1,6019 @@
+1
+00:00:00,300 --> 00:00:03,220
+Charles Caskey: So are we gonna do like a formal introduction to the episode, and we're
+
+2
+00:00:03,260 --> 00:00:05,320
+gonna be like, "Hey, welcome to FUS Forward.
+
+3
+00:00:05,840 --> 00:00:08,300
+It's with Keith and Charles. We're gonna talk about..."
+
+4
+00:00:08,400 --> 00:00:09,540
+[laughs] [laughs]
+
+5
+00:00:09,540 --> 00:00:13,080
+Keith Murphy: I like that a lot. [laughs] [laughs]
+
+6
+00:00:13,280 --> 00:00:15,920
+Intro narrator: Follow Charles Caskey and Keith Murphy-
+
+7
+00:00:15,960 --> 00:00:16,460
+Keith Murphy: I think that's great
+
+8
+00:00:16,560 --> 00:00:22,500
+Intro narrator: ... as they explore the next frontier of ultrasound neuromodulation with FUS Forward.
+
+9
+00:00:23,520 --> 00:00:25,000
+Charles Caskey: Are we getting in a good, a better spot there?
+
+10
+00:00:25,500 --> 00:00:28,100
+Keith Murphy: Yeah, that sounds good. All right, everybody good?
+
+11
+00:00:29,580 --> 00:00:30,080
+Except for Elly-
+
+12
+00:00:29,980 --> 00:00:30,480
+Charles Caskey: I think so
+
+13
+00:00:30,340 --> 00:00:33,740
+Keith Murphy: ... who looks like, uh, some sort of an Amish waffle thief.
+
+14
+00:00:33,740 --> 00:00:35,160
+[laughs]
+
+15
+00:00:35,540 --> 00:00:40,560
+Charles Caskey: Hang on. Hang on. I'm so con- W- w- does it not fit?
+
+16
+00:00:40,600 --> 00:00:42,740
+[laughs] [laughs]
+
+17
+00:00:42,780 --> 00:00:44,540
+Keith Murphy: I missed this earlier. Where'd you get it?
+
+18
+00:00:44,820 --> 00:00:45,620
+Elly Martin: Uh, I just bought it f-
+
+19
+00:00:45,820 --> 00:00:46,380
+Keith Murphy: English Amazon?
+
+20
+00:00:46,380 --> 00:00:49,020
+Elly Martin: I swear, no, I got it from some-- I went out at lunchtime and
+
+21
+00:00:49,060 --> 00:00:50,420
+I was like, "Right, I need to get one."
+
+22
+00:00:50,460 --> 00:00:52,760
+I hadn't-- I'd forgotten, and then I was like, "I'm gonna go get one."
+
+23
+00:00:53,220 --> 00:00:54,400
+So I went down Tottenham Court Road-
+
+24
+00:00:54,400 --> 00:00:54,900
+Keith Murphy: Oh, good
+
+25
+00:00:54,440 --> 00:00:55,460
+Elly Martin: ... and the weather was awful.
+
+26
+00:00:55,480 --> 00:00:57,700
+It was really raining, and I saw one in the window of a shop,
+
+27
+00:00:57,760 --> 00:01:00,080
+so I just went in and I grabbed it, and the guy charged me
+
+28
+00:01:00,120 --> 00:01:00,880
+a fortune for it.
+
+29
+00:01:00,880 --> 00:01:01,380
+Keith Murphy: Mm-hmm.
+
+30
+00:01:00,900 --> 00:01:03,080
+Elly Martin: And I didn't think to see whether it fit on my head.
+
+31
+00:01:03,220 --> 00:01:05,020
+[laughs] And then I-
+
+32
+00:01:05,320 --> 00:01:06,100
+Keith Murphy: He's like, "Sucker."
+
+33
+00:01:06,140 --> 00:01:06,640
+Elly Martin: Yeah.
+
+34
+00:01:06,260 --> 00:01:06,800
+Keith Murphy: That's not gonna fit.
+
+35
+00:01:06,840 --> 00:01:09,380
+Elly Martin: He charged me £8 for, like, a child's hat.
+
+36
+00:01:09,440 --> 00:01:10,180
+Keith Murphy: Oh my God.
+
+37
+00:01:10,320 --> 00:01:10,820
+Elly Martin: Um.
+
+38
+00:01:10,720 --> 00:01:11,220
+Keith Murphy: Geez.
+
+39
+00:01:11,020 --> 00:01:12,080
+Elly Martin: I should've kept on walking-
+
+40
+00:01:12,120 --> 00:01:12,620
+Keith Murphy: No, it's, it's a youth
+
+41
+00:01:12,620 --> 00:01:15,380
+Elly Martin: ... a bit further. So yeah, it doesn't-- it won't go on my head.
+
+42
+00:01:15,400 --> 00:01:15,900
+Keith Murphy: Um.
+
+43
+00:01:15,720 --> 00:01:17,600
+Elly Martin: So. [laughs]
+
+44
+00:01:17,680 --> 00:01:21,580
+Keith Murphy: Elly, I think that seems like a good point to introduce you, unless, Charles,
+
+45
+00:01:21,640 --> 00:01:23,280
+you wanna crack another joke about Elly.
+
+46
+00:01:23,860 --> 00:01:24,360
+You're welcome to.
+
+47
+00:01:24,600 --> 00:01:28,060
+Charles Caskey: No, no, no. I, I, I, I'm glad to be informed about the, the
+
+48
+00:01:28,120 --> 00:01:31,900
+hat and why Elly has taped it to her head rather than wear it,
+
+49
+00:01:31,980 --> 00:01:32,560
+'cause it looks like a normal hat.
+
+50
+00:01:32,560 --> 00:01:34,380
+Keith Murphy: You would've been confused the whole episode.
+
+51
+00:01:34,700 --> 00:01:35,200
+Elly Martin: Yeah. [laughs]
+
+52
+00:01:35,060 --> 00:01:38,100
+Charles Caskey: I w- I just, I wasn't gonna be able to do the episode with
+
+53
+00:01:38,160 --> 00:01:40,400
+that, like, lingering, so. [laughs]
+
+54
+00:01:40,440 --> 00:01:43,280
+Elly Martin: Well, I had, I had the same problem yesterday with a, with a paper
+
+55
+00:01:43,320 --> 00:01:47,060
+hat of a Christmas cracker, and my hair was just really- [laughs] ...
+
+56
+00:01:47,120 --> 00:01:48,660
+you know, big, and it just wouldn't go on.
+
+57
+00:01:49,020 --> 00:01:50,700
+So it was just, I tried to perch it on my head, and it
+
+58
+00:01:50,720 --> 00:01:51,900
+just kept falling off, so I gave up.
+
+59
+00:01:51,960 --> 00:01:54,180
+It just wasn't designed for people with thick hair.
+
+60
+00:01:54,560 --> 00:01:57,440
+[laughs]
+
+61
+00:01:57,840 --> 00:02:01,420
+Keith Murphy: I had no problem. The beard came in, I was like, "That's just fantastic."
+
+62
+00:02:02,360 --> 00:02:03,040
+Elly Martin: It really suits you.
+
+63
+00:02:04,440 --> 00:02:09,040
+Keith Murphy: So we got super lucky. We had to track Elly down through the wilderness,
+
+64
+00:02:09,600 --> 00:02:12,380
+through the jungles to get her onto this podcast.
+
+65
+00:02:13,080 --> 00:02:17,580
+Elly Martin is an associate professor of University College London.
+
+66
+00:02:18,340 --> 00:02:23,200
+We've known, [laughs] we've known Elly forever, the longest time.
+
+67
+00:02:23,260 --> 00:02:25,380
+We've been on so many fun adventures together.
+
+68
+00:02:26,400 --> 00:02:27,960
+Elly, it's a pleasure to have you here with us.
+
+69
+00:02:27,980 --> 00:02:29,020
+Elly Martin: Oh, thanks for having me on.
+
+70
+00:02:29,260 --> 00:02:31,040
+Um, yeah, very excited to be here.
+
+71
+00:02:31,500 --> 00:02:33,420
+Been enjoying listening to the podcast so far.
+
+72
+00:02:33,880 --> 00:02:34,380
+Keith Murphy: Yes, we appreciate that.
+
+73
+00:02:33,940 --> 00:02:38,560
+Charles Caskey: Thank you for listening. [laughs] We're gonna keep making them.
+
+74
+00:02:38,580 --> 00:02:40,340
+[laughs]
+
+75
+00:02:40,400 --> 00:02:43,760
+Keith Murphy: I wanted to start with a topic that people don't often know about you.
+
+76
+00:02:43,960 --> 00:02:49,060
+Everybody, um, who thinks of Elly Martin thinks of, like, well, for one, ultrasound
+
+77
+00:02:49,160 --> 00:02:50,680
+sweetheart. That's what I always say.
+
+78
+00:02:50,880 --> 00:02:51,720
+But also- [laughs]
+
+79
+00:02:51,760 --> 00:02:52,260
+Charles Caskey: I can-- Yeah, yeah
+
+80
+00:02:52,240 --> 00:02:52,800
+Keith Murphy: ... the queen of-
+
+81
+00:02:53,120 --> 00:02:55,200
+Charles Caskey: That, uh, clearly. Yeah, yeah, yeah.
+
+82
+00:02:55,240 --> 00:02:58,220
+The, and then, and then the, uh, in me- in, like, metrology.
+
+83
+00:02:58,340 --> 00:02:58,880
+I always am like-
+
+84
+00:02:58,900 --> 00:02:59,400
+Keith Murphy: Yes
+
+85
+00:02:58,940 --> 00:03:02,440
+Charles Caskey: ... I'm like, if Elly's associated with it, we're gonna know the pressure as
+
+86
+00:03:02,480 --> 00:03:03,460
+well as we're gonna know it.
+
+87
+00:03:03,460 --> 00:03:06,300
+[laughs] [laughs] That's usually, like, how I think about it.
+
+88
+00:03:06,360 --> 00:03:08,680
+If I see her name on something, I'm like, "Oh yeah, we're gonna get--
+
+89
+00:03:08,740 --> 00:03:10,400
+we're gonna learn new stuff about hydrophones."
+
+90
+00:03:10,860 --> 00:03:11,360
+Like-
+
+91
+00:03:11,020 --> 00:03:14,360
+Keith Murphy: I didn't even know what the word metrology meant until Elly started throwing it
+
+92
+00:03:14,420 --> 00:03:15,580
+around, and metrology-
+
+93
+00:03:15,580 --> 00:03:16,280
+Charles Caskey: Oh, yeah. I'm, I'm-
+
+94
+00:03:16,280 --> 00:03:17,600
+Keith Murphy: ... just means measurement, the science of measurement.
+
+95
+00:03:17,600 --> 00:03:20,860
+Charles Caskey: Oh, yeah, yeah. I'm bandying that word about as if, like, I'd heard it
+
+96
+00:03:20,900 --> 00:03:21,540
+before I met Elly. [laughs]
+
+97
+00:03:21,540 --> 00:03:22,780
+Keith Murphy: Yeah, like nobody knows that word.
+
+98
+00:03:23,620 --> 00:03:25,540
+Elly Martin: I di- yeah, I don't know where-- I don't think I knew that word
+
+99
+00:03:25,580 --> 00:03:28,060
+before I worked at the National Measurement Institute.
+
+100
+00:03:28,080 --> 00:03:28,580
+Keith Murphy: Before you owned it?
+
+101
+00:03:28,420 --> 00:03:30,980
+Elly Martin: And then you have to be like, you have to say the professional words,
+
+102
+00:03:31,040 --> 00:03:31,540
+I guess.
+
+103
+00:03:32,880 --> 00:03:33,380
+Charles Caskey: Then you, like-
+
+104
+00:03:33,320 --> 00:03:33,820
+Keith Murphy: Oh boy
+
+105
+00:03:33,460 --> 00:03:35,900
+Charles Caskey: ... embody the word, and y- which you've done wonderfully, so.
+
+106
+00:03:35,900 --> 00:03:36,400
+[laughs]
+
+107
+00:03:36,100 --> 00:03:36,600
+Elly Martin: Thank you.
+
+108
+00:03:36,680 --> 00:03:40,900
+Keith Murphy: Elly, I wanna talk about something people don't know as much about, uh, I
+
+109
+00:03:40,940 --> 00:03:46,080
+guess, uh, of you, and that is this idea that people are now starting
+
+110
+00:03:46,100 --> 00:03:51,140
+to cryogenically freeze tissue, brains. In fact, there's a company in, in San Francisco
+
+111
+00:03:51,180 --> 00:03:56,740
+that now- Mm ... has successfully cryogenically frozen and thawed mouse brain, and the
+
+112
+00:03:56,780 --> 00:03:58,340
+neurons were still spiking when they came back.
+
+113
+00:03:58,380 --> 00:03:59,020
+Elly Martin: Oh, wow. That's amazing.
+
+114
+00:03:59,020 --> 00:04:01,160
+Keith Murphy: So I think the field's growing pretty quickly.
+
+115
+00:04:01,840 --> 00:04:06,220
+Um, Elly, you've had a role in thawing out tissue so that it would
+
+116
+00:04:06,280 --> 00:04:12,560
+survive this process. How does one who is an ultrasound metrological expert get
+
+117
+00:04:12,620 --> 00:04:13,580
+into that sort of thing?
+
+118
+00:04:14,740 --> 00:04:16,720
+Elly Martin: Uh, yeah, that's a really good question.
+
+119
+00:04:17,100 --> 00:04:18,880
+Um, [laughs] you know, so-
+
+120
+00:04:19,100 --> 00:04:21,580
+Keith Murphy: Killed Amish Santa you. [laughs]
+
+121
+00:04:21,640 --> 00:04:22,140
+Elly Martin: I mean-
+
+122
+00:04:21,880 --> 00:04:22,380
+Keith Murphy: How did you get into that?
+
+123
+00:04:22,260 --> 00:04:23,500
+Elly Martin: ... I'm not sure how to-- Yeah.
+
+124
+00:04:23,940 --> 00:04:28,380
+Well, I think-- So we, yeah, I, I guess there was a point when
+
+125
+00:04:28,440 --> 00:04:31,740
+I had to be like, "Right, I, I need to write a fellowship to
+
+126
+00:04:31,760 --> 00:04:34,260
+get my, like, independent position. What am I gonna write it on?"
+
+127
+00:04:34,980 --> 00:04:39,160
+Um, and then I sat down with, uh, with Brad Treeby, who I've worked
+
+128
+00:04:39,200 --> 00:04:42,080
+with for a long time, um, and Ben Cox as well, who I work
+
+129
+00:04:42,120 --> 00:04:45,220
+with, and we kind of went through like, "Right, what are the things that
+
+130
+00:04:45,280 --> 00:04:47,360
+I can do? And let's think of ideas."
+
+131
+00:04:47,420 --> 00:04:53,700
+And then, uh, we'd actually heard this podcast, um, about, uh, cryopreservation and
+
+132
+00:04:53,820 --> 00:04:58,300
+recovery of tissues and sort of use in different, in different fields.
+
+133
+00:04:59,020 --> 00:05:00,100
+Um, and then we were like, "Hmm."
+
+134
+00:05:00,180 --> 00:05:01,680
+Keith Murphy: You, you guys had a podcast about that?
+
+135
+00:05:01,720 --> 00:05:02,220
+Elly Martin: No, we heard-
+
+136
+00:05:02,220 --> 00:05:02,720
+Keith Murphy: What was it called?
+
+137
+00:05:02,280 --> 00:05:04,240
+Elly Martin: We heard it on, like, the Guardian Science podcast.
+
+138
+00:05:04,260 --> 00:05:04,760
+Keith Murphy: Oh, heard it.
+
+139
+00:05:04,960 --> 00:05:09,200
+Elly Martin: Yeah. So there was, um, basically, uh, someone, Barry Fuller from the Royal Free
+
+140
+00:05:09,420 --> 00:05:13,540
+Hospital, who's now a collaborator, he was interviewed on this podcast and was saying,
+
+141
+00:05:13,560 --> 00:05:14,540
+"Oh, this is a big problem."
+
+142
+00:05:15,240 --> 00:05:17,880
+Um, like, "We need new ways of, of solving it, of doing the, the
+
+143
+00:05:17,940 --> 00:05:20,500
+rewarming of the tissues," 'cause that's one of the difficult bits.
+
+144
+00:05:21,180 --> 00:05:23,820
+Um, so yeah. So then I basically just started looking into it and I
+
+145
+00:05:23,840 --> 00:05:28,120
+was like, "Oh, this seems like it could be a good, um, yeah, a
+
+146
+00:05:28,200 --> 00:05:32,120
+good problem to attack with, with ultrasound," because you can, you know, in other
+
+147
+00:05:32,180 --> 00:05:34,840
+applications you can deposit the energy quite precisely.
+
+148
+00:05:35,320 --> 00:05:36,640
+You can choose how quickly you do that.
+
+149
+00:05:36,680 --> 00:05:40,520
+You can move it, move the focus around and deposit energy in different places
+
+150
+00:05:40,580 --> 00:05:41,900
+and, and that kind of thing.
+
+151
+00:05:42,020 --> 00:05:44,080
+So it kind of went from there really, and then I, I got in
+
+152
+00:05:44,100 --> 00:05:46,200
+touch with him and had a chat with him, and he thought it was
+
+153
+00:05:46,240 --> 00:05:49,160
+a good idea, and we kind of worked it out, and then I applied
+
+154
+00:05:49,180 --> 00:05:51,560
+for some money, and I got it because I think it was a slightly
+
+155
+00:05:51,600 --> 00:05:54,920
+wacky idea, so people thought, "Okay, yeah, that sounds a bit different."
+
+156
+00:05:55,380 --> 00:05:55,880
+Keith Murphy: That is wacky.
+
+157
+00:05:55,620 --> 00:05:58,340
+Elly Martin: Um, yeah. So then that, that's kind of how it started.
+
+158
+00:05:58,380 --> 00:05:58,940
+Keith Murphy: How, how do you do it?
+
+159
+00:05:59,080 --> 00:05:59,740
+Elly Martin: How do you do it?
+
+160
+00:05:59,900 --> 00:06:02,440
+Keith Murphy: How, how do you- Yeah. How'd you-- Did you figure it out?
+
+161
+00:06:02,500 --> 00:06:03,000
+How's it going?
+
+162
+00:06:02,980 --> 00:06:08,620
+Elly Martin: Yeah. So we have, um... Yeah, so far we have successfully warmed some encapsulated
+
+163
+00:06:08,660 --> 00:06:13,300
+liver cells, um, which are used in a bioartificial liver device that was developed
+
+164
+00:06:13,420 --> 00:06:16,360
+by, uh, Claire Selden, who's one of my collaborators.
+
+165
+00:06:17,020 --> 00:06:22,800
+Um, and yeah, so basically you can freeze down these liver cells, um, and
+
+166
+00:06:22,840 --> 00:06:25,940
+then we showed that if we warmed them with ultrasound, then the viability afterwards
+
+167
+00:06:26,000 --> 00:06:29,220
+was the same as if you warmed them with the, like, standard water bath
+
+168
+00:06:29,320 --> 00:06:32,720
+method. So that's really good from my point of view.
+
+169
+00:06:32,760 --> 00:06:35,900
+There's a big milestone of we're not, we're not damaging them, and we don't
+
+170
+00:06:35,960 --> 00:06:37,900
+kill everything with the sound. Um- Okay ...
+
+171
+00:06:37,920 --> 00:06:38,500
+and we can actually-
+
+172
+00:06:38,640 --> 00:06:39,400
+Keith Murphy: You gotta start with the basics.
+
+173
+00:06:39,440 --> 00:06:41,260
+Elly Martin: Yeah, exactly. I was like, "Okay."
+
+174
+00:06:41,680 --> 00:06:43,500
+Well, yeah, first of all, can you actually warm something up?
+
+175
+00:06:43,540 --> 00:06:48,260
+Or like, does frozen-- do frozen materials really absorb, um, enough energy to get
+
+176
+00:06:48,300 --> 00:06:49,560
+hot? Um-
+
+177
+00:06:49,840 --> 00:06:54,880
+Charles Caskey: Well, just on this topic of, of cryopreservation, I started thinking, like, the, the
+
+178
+00:06:55,040 --> 00:06:58,340
+speed of sound issues 'cause, like, do you-- Have you encountered stuff with that?
+
+179
+00:06:58,380 --> 00:07:02,340
+Is that a thing? Like, because I guess you're going from frozen to, uh,
+
+180
+00:07:02,520 --> 00:07:05,280
+to, you know, biological temperature, and I don't know.
+
+181
+00:07:05,520 --> 00:07:07,520
+How mu- Do you know how much the speed of sound changes in that?
+
+182
+00:07:07,580 --> 00:07:08,740
+Is that something you have to think about?
+
+183
+00:07:08,760 --> 00:07:11,200
+Elly Martin: Yeah. Yeah, I mean, that's a huge part of it, that the...
+
+184
+00:07:11,580 --> 00:07:15,980
+Yeah, the speed of sound in ice and sort of icy materials is way
+
+185
+00:07:16,020 --> 00:07:19,000
+higher than it is in kind of watery soft tissues.
+
+186
+00:07:19,720 --> 00:07:20,620
+Um, like-
+
+187
+00:07:20,680 --> 00:07:21,180
+Charles Caskey: Oh
+
+188
+00:07:20,800 --> 00:07:24,180
+Elly Martin: ... yeah, 2,000, 2,500 meters per second or something.
+
+189
+00:07:24,260 --> 00:07:27,260
+So it's actually not that dissimilar to bone, um, I guess.
+
+190
+00:07:27,300 --> 00:07:27,800
+Charles Caskey: Right.
+
+191
+00:07:27,620 --> 00:07:28,120
+Keith Murphy: Wow.
+
+192
+00:07:27,660 --> 00:07:28,640
+Elly Martin: So it's that kind of thing.
+
+193
+00:07:28,880 --> 00:07:31,640
+But yeah, some of the problems that we have are the, the change, like
+
+194
+00:07:31,680 --> 00:07:34,440
+going through the phase transition that, um...
+
+195
+00:07:34,900 --> 00:07:38,860
+Like, we've also been trying to just measure the acoustic properties of frozen materials,
+
+196
+00:07:39,220 --> 00:07:44,300
+like at different temperatures. Um, and it-- you can do it when the material
+
+197
+00:07:44,340 --> 00:07:47,240
+is really frozen, and you can do it when it's liquid, but the kind
+
+198
+00:07:47,280 --> 00:07:51,900
+of while it's freezing, which is actually kind of the important bit, um, is
+
+199
+00:07:51,920 --> 00:07:54,720
+really difficult to do because you just-- I guess you get a mixture of
+
+200
+00:07:54,780 --> 00:07:59,920
+frozen and thawed stuff, so you get a lot of reflections and scattering, I
+
+201
+00:07:59,960 --> 00:08:01,500
+think, um, inside.
+
+202
+00:08:01,600 --> 00:08:03,940
+Charles Caskey: It's like super complex wave interactions because you've got...
+
+203
+00:08:04,100 --> 00:08:05,780
+Are you saying it has like different phases?
+
+204
+00:08:05,920 --> 00:08:10,860
+Like there's liquid parts, there's ice parts, and things are not uniformly converting?
+
+205
+00:08:10,920 --> 00:08:12,520
+Elly Martin: Yeah, I think, I think that's what's happening.
+
+206
+00:08:12,540 --> 00:08:13,680
+I mean, that's what we think so far.
+
+207
+00:08:13,740 --> 00:08:16,460
+We haven't-- We're kind of at the beginning of this journey of trying to
+
+208
+00:08:17,200 --> 00:08:20,140
+look at some waveforms and figure out what's happening, but that's what it looks
+
+209
+00:08:20,180 --> 00:08:24,260
+like to me that, yeah, as it's freezing and going through this transition zone,
+
+210
+00:08:24,320 --> 00:08:28,060
+which-- And you can affect the temperatures at which that happens by adding cryoprotectants
+
+211
+00:08:28,080 --> 00:08:30,220
+and things, um, then yeah.
+
+212
+00:08:30,220 --> 00:08:31,400
+Charles Caskey: This makes the skull seem easy.
+
+213
+00:08:31,560 --> 00:08:32,360
+I like it. [laughing]
+
+214
+00:08:32,400 --> 00:08:34,220
+Elly Martin: Yeah. Yeah, at least it doesn't really change, right?
+
+215
+00:08:34,260 --> 00:08:36,820
+Charles Caskey: At least humans... Yeah, yeah, we at least, yeah.
+
+216
+00:08:37,220 --> 00:08:40,380
+Or at least the amount that it changes is like, at least like, yeah,
+
+217
+00:08:40,500 --> 00:08:42,040
+the temperature doesn't change that much.
+
+218
+00:08:42,120 --> 00:08:42,900
+Elly Martin: Yeah. Yeah.
+
+219
+00:08:43,420 --> 00:08:46,680
+Charles Caskey: Did you start this when-- Were you doing neuromodulation when you started this path?
+
+220
+00:08:46,720 --> 00:08:47,660
+Was this like in parallel?
+
+221
+00:08:48,040 --> 00:08:52,900
+Elly Martin: Um, yeah. So we, uh, we started, uh, kind of doing neuromodulation, um...
+
+222
+00:08:54,260 --> 00:08:57,440
+Yeah, when-- I think the grant that we had, which we stupidly thought would
+
+223
+00:08:57,480 --> 00:09:01,540
+be, you know, enough money and time to do the entire thing, uh, that
+
+224
+00:09:01,580 --> 00:09:06,980
+was at like 2017. Um, and then I got this grant in 2020, uh,
+
+225
+00:09:07,060 --> 00:09:10,160
+so that's when it started. So we'd kind of-- We were, you know, in
+
+226
+00:09:10,200 --> 00:09:14,440
+the midst of building the, the helmet system and things, and then I started
+
+227
+00:09:14,460 --> 00:09:15,740
+this off as well, kind of on...
+
+228
+00:09:16,020 --> 00:09:16,980
+That was supposed to be my main thing.
+
+229
+00:09:17,040 --> 00:09:20,040
+It was kind of on the side while we carried on with the neuromodulation
+
+230
+00:09:20,400 --> 00:09:21,280
+stuff. Um-
+
+231
+00:09:21,760 --> 00:09:26,600
+Charles Caskey: Nice side cryopreservation project while you're doing neuromodulation.
+
+232
+00:09:26,940 --> 00:09:27,440
+Elly Martin: Yeah.
+
+233
+00:09:26,960 --> 00:09:27,460
+Charles Caskey: It's good. [laughing]
+
+234
+00:09:27,360 --> 00:09:29,640
+Elly Martin: Yeah. Yeah. I mean, they're so similar that, you know.
+
+235
+00:09:29,660 --> 00:09:32,140
+[laughing]
+
+236
+00:09:32,200 --> 00:09:37,400
+Keith Murphy: Wacky was an appropriate term. Elly, I want to pose a hypothetical, and it's
+
+237
+00:09:37,440 --> 00:09:40,140
+related to Charles, and I want you to answer honestly.
+
+238
+00:09:40,360 --> 00:09:41,860
+Elly Martin: Okay. Okay.
+
+239
+00:09:42,280 --> 00:09:47,760
+Keith Murphy: Imagine Charles' great uncle, Von Dobenkascky, has been frozen in time.
+
+240
+00:09:48,540 --> 00:09:49,040
+Elly Martin: Mm-hmm.
+
+241
+00:09:48,580 --> 00:09:51,100
+Keith Murphy: Charles loves Von Doben. It's his favorite uncle.
+
+242
+00:09:52,000 --> 00:09:54,940
+He has one shot of coming back from cryogenic unfreezing.
+
+243
+00:09:55,560 --> 00:09:58,020
+Do you give it a shot, or are there other methods that are still
+
+244
+00:09:58,060 --> 00:09:58,560
+ahead of you?
+
+245
+00:09:59,100 --> 00:10:03,240
+Elly Martin: I'm gonna say no. Um, I'm so sorry.
+
+246
+00:10:03,240 --> 00:10:04,900
+[laughing]
+
+247
+00:10:04,940 --> 00:10:07,200
+Charles Caskey: Wait, wait, you're just not even gonna try?
+
+248
+00:10:07,440 --> 00:10:07,940
+Okay.
+
+249
+00:10:07,620 --> 00:10:09,020
+Keith Murphy: You give up on his Uncle Von Doben?
+
+250
+00:10:09,220 --> 00:10:11,180
+Charles Caskey: No, no, no. We can keep him frozen for longer so he perfects it.
+
+251
+00:10:11,200 --> 00:10:13,460
+Elly Martin: Well, you can keep him frozen, but I'd just like to point out that
+
+252
+00:10:13,500 --> 00:10:15,580
+he'd already died before he was frozen.
+
+253
+00:10:16,080 --> 00:10:17,440
+Um, so I'm, I'm really sorry-
+
+254
+00:10:17,500 --> 00:10:18,000
+Charles Caskey: Oh
+
+255
+00:10:17,520 --> 00:10:18,920
+Elly Martin: ... but he may not be recoverable.
+
+256
+00:10:20,440 --> 00:10:20,940
+Keith Murphy: Oh.
+
+257
+00:10:21,040 --> 00:10:24,680
+Charles Caskey: Okay. Well, that, you know, it's just, just normal life and death.
+
+258
+00:10:25,040 --> 00:10:25,620
+Elly Martin: I'm so sorry.
+
+259
+00:10:25,640 --> 00:10:26,140
+Keith Murphy: Yeah.
+
+260
+00:10:25,800 --> 00:10:26,740
+Elly Martin: I'm so sorry for your loss.
+
+261
+00:10:28,220 --> 00:10:28,720
+Keith Murphy: RIP.
+
+262
+00:10:29,060 --> 00:10:32,200
+Charles Caskey: Um, so wait, Keith, are you wondering what the, uh, competing technology is on
+
+263
+00:10:32,260 --> 00:10:33,240
+this? Is that, is that the gist of it?
+
+264
+00:10:33,260 --> 00:10:34,500
+Keith Murphy: That's what I was hoping for.
+
+265
+00:10:34,500 --> 00:10:35,000
+[chuckles]
+
+266
+00:10:34,940 --> 00:10:36,060
+Elly Martin: I mean, I can... Yeah, sorry.
+
+267
+00:10:36,100 --> 00:10:36,600
+Keith Murphy: Have you studied it?
+
+268
+00:10:36,240 --> 00:10:38,040
+Elly Martin: Um, just like, no. Uh, I can tell you the other...
+
+269
+00:10:38,100 --> 00:10:41,320
+Yeah. So the-- If, if, um- [laughing] Okay.
+
+270
+00:10:41,360 --> 00:10:41,860
+If you can-
+
+271
+00:10:42,240 --> 00:10:44,020
+Keith Murphy: You don't give up on Von Dobenkascky yet?
+
+272
+00:10:44,020 --> 00:10:46,180
+Elly Martin: I'm sorry. Yeah. Maybe there are other people who won't give up on Von
+
+273
+00:10:46,240 --> 00:10:47,840
+Dobenkascky. Um, so-
+
+274
+00:10:48,280 --> 00:10:48,780
+Charles Caskey: Yeah
+
+275
+00:10:48,380 --> 00:10:51,440
+Elly Martin: ... you-- So there are other methods which involve, um...
+
+276
+00:10:51,720 --> 00:10:54,920
+People have tried using microwaves, um, but with that, you tend to get the
+
+277
+00:10:54,960 --> 00:10:58,100
+same issues you get when you're microwaving food, um, like you get hot bits
+
+278
+00:10:58,120 --> 00:10:59,640
+and cold bits. Um-
+
+279
+00:11:00,200 --> 00:11:00,700
+Keith Murphy: Yeah
+
+280
+00:11:00,300 --> 00:11:01,500
+Elly Martin: ... not so good for your uncle.
+
+281
+00:11:01,880 --> 00:11:05,460
+Um, and then, [chuckles] uh, the other...
+
+282
+00:11:05,720 --> 00:11:07,900
+I, I think one of the one, one of the other methods which is,
+
+283
+00:11:08,320 --> 00:11:13,520
+um, really progressing and is becoming more well-developed is, um, like RF warming using
+
+284
+00:11:13,660 --> 00:11:18,620
+nanoparticles. So you put metallic nanoparticles into the tissue, um, so you kind of
+
+285
+00:11:18,640 --> 00:11:21,880
+perfuse them in there before you freeze it, um, or mix them into the
+
+286
+00:11:21,900 --> 00:11:24,960
+cells, whatever. Um, and then you freeze it down, and then you put it
+
+287
+00:11:25,020 --> 00:11:29,180
+in, in a container with a coil around the outside, basically, and you warm
+
+288
+00:11:29,220 --> 00:11:33,180
+it up. Um, so they've actually-- They've done a lot on that and started
+
+289
+00:11:33,220 --> 00:11:37,300
+warming larger volumes, um, 'cause that's really the issue, that you're kind of restricted
+
+290
+00:11:37,360 --> 00:11:41,380
+to, to really tiny volumes where you can warm it uniformly, so you don't
+
+291
+00:11:41,420 --> 00:11:44,800
+get, uh, damage from ice formation, and you don't get thermal stresses.
+
+292
+00:11:45,160 --> 00:11:47,140
+So the ice will form if you don't warm quickly enough.
+
+293
+00:11:47,960 --> 00:11:48,460
+Um-
+
+294
+00:11:49,080 --> 00:11:52,720
+Keith Murphy: The, the time that you have to transition from solid to, like, what's called
+
+295
+00:11:52,760 --> 00:11:56,360
+a fluid state, it's like, it's on the order of, like, nanoseconds, right?
+
+296
+00:11:56,480 --> 00:11:57,720
+Or, like, femtoseconds even?
+
+297
+00:11:57,820 --> 00:12:00,220
+Elly Martin: Um, I think it's not that, it's not that fast.
+
+298
+00:12:00,280 --> 00:12:04,560
+It does, it does depend on the-- on how you've cooled it, um, and
+
+299
+00:12:04,620 --> 00:12:08,700
+how fast you've cooled it. So if you've vitrified the material, so it's not
+
+300
+00:12:08,740 --> 00:12:12,380
+frozen, it's just, like, in suspended animation is, like, how I like to think
+
+301
+00:12:12,420 --> 00:12:13,840
+of it. So it's in a glassy state.
+
+302
+00:12:13,880 --> 00:12:15,000
+Keith Murphy: You go past the freezing state.
+
+303
+00:12:15,080 --> 00:12:15,840
+Elly Martin: Yeah, so it never-
+
+304
+00:12:15,860 --> 00:12:17,380
+Keith Murphy: It went so fast that it couldn't freeze it.
+
+305
+00:12:17,380 --> 00:12:17,880
+Elly Martin: Yes, exactly.
+
+306
+00:12:17,920 --> 00:12:18,420
+Keith Murphy: Okay.
+
+307
+00:12:17,960 --> 00:12:21,640
+Elly Martin: So it never, like, rearranges into ice crystals, so there's no icy structure.
+
+308
+00:12:21,660 --> 00:12:22,160
+Keith Murphy: Mm-hmm.
+
+309
+00:12:21,700 --> 00:12:24,340
+Elly Martin: It's just kind of like a suspended liquid almost.
+
+310
+00:12:24,940 --> 00:12:25,440
+Um...
+
+311
+00:12:25,260 --> 00:12:26,280
+Keith Murphy: They call it vitrified?
+
+312
+00:12:26,420 --> 00:12:28,080
+Elly Martin: Yeah, like from-- It, like, it's glassy.
+
+313
+00:12:28,840 --> 00:12:29,360
+Um, so-
+
+314
+00:12:29,780 --> 00:12:31,040
+Keith Murphy: Elly, that's such a cool word.
+
+315
+00:12:31,080 --> 00:12:32,680
+You have such a beautiful vocabulary.
+
+316
+00:12:32,700 --> 00:12:33,480
+[laughs]
+
+317
+00:12:33,560 --> 00:12:34,520
+Elly Martin: These are the, these are the real-
+
+318
+00:12:34,580 --> 00:12:35,080
+Keith Murphy: Very British of you
+
+319
+00:12:34,800 --> 00:12:36,940
+Elly Martin: ... these are the proper words, you know, the scientific words.
+
+320
+00:12:37,620 --> 00:12:41,880
+Um, so yeah. So if you've vitrified it, then you need to warm extremely
+
+321
+00:12:41,940 --> 00:12:45,660
+quickly. Um, so that's really difficult.
+
+322
+00:12:45,720 --> 00:12:48,700
+But then there are these, these other methods where you freeze slowly and you
+
+323
+00:12:48,740 --> 00:12:52,120
+allow ice to form, but you allow it-- You sort of control it, and
+
+324
+00:12:52,140 --> 00:12:53,820
+you do it in a controlled way, and then when you warm it, it
+
+325
+00:12:53,840 --> 00:12:55,180
+doesn't need to be quite so fast.
+
+326
+00:12:55,780 --> 00:12:59,700
+So that's really the, the kind of one that we're targeting, 'cause it's-- it
+
+327
+00:12:59,760 --> 00:13:02,760
+reduces the challenge a little bit, and you don't have to warm it at,
+
+328
+00:13:02,980 --> 00:13:04,660
+yeah, like hundreds of degrees per second.
+
+329
+00:13:05,040 --> 00:13:09,200
+Um, you can kind of, yeah, go at more reasonable rates, which I think,
+
+330
+00:13:09,420 --> 00:13:12,160
+you know, is still probably a bit slower on the order of the kind
+
+331
+00:13:12,200 --> 00:13:15,780
+of warming that you get in HIFU, I guess, where you're warming by, um,
+
+332
+00:13:16,000 --> 00:13:18,600
+you know, 20 degrees in a second or something like that.
+
+333
+00:13:18,980 --> 00:13:21,700
+Um, so I, I don't think it has to be that fast.
+
+334
+00:13:22,080 --> 00:13:25,440
+Um, so yeah. So I think it, you know, it seems to be doable,
+
+335
+00:13:26,020 --> 00:13:27,040
+um, so far.
+
+336
+00:13:27,640 --> 00:13:30,940
+Charles Caskey: I'm just trying to think. So the, um, the nano-warming, I guess is, uh,
+
+337
+00:13:31,080 --> 00:13:35,680
+unlike acoustics, is the, is the, the-- You don't face the challenge if, if
+
+338
+00:13:35,720 --> 00:13:39,740
+you have those beads, I guess, di-distributed pretty well, um, you don't ha- say--
+
+339
+00:13:39,920 --> 00:13:42,220
+face the same attenuation challenges you might face.
+
+340
+00:13:42,380 --> 00:13:44,980
+Is that why that techno- why you think that technology's doing?
+
+341
+00:13:45,520 --> 00:13:49,300
+Elly Martin: I, I think so, yeah. 'Cause I think you can get a fairly uniform...
+
+342
+00:13:50,180 --> 00:13:53,520
+I guess you can get a reasonably uniform field and warming if you distribute
+
+343
+00:13:53,540 --> 00:13:57,520
+the nanoparticles quite evenly. And then the, the- there obviously doesn't have the same,
+
+344
+00:13:57,550 --> 00:13:59,940
+like, coupling issues that we have with sound.
+
+345
+00:14:00,820 --> 00:14:01,320
+Um-
+
+346
+00:14:00,880 --> 00:14:03,020
+Charles Caskey: Oh, yeah. Right. Yeah. Coupling. Oh.
+
+347
+00:14:03,120 --> 00:14:04,260
+Elly Martin: Yeah. That's such a problem.
+
+348
+00:14:04,460 --> 00:14:04,960
+Charles Caskey: Yeah.
+
+349
+00:14:04,720 --> 00:14:07,420
+Elly Martin: Yeah. [laughs] Um, yeah.
+
+350
+00:14:07,440 --> 00:14:07,940
+Charles Caskey: Yeah.
+
+351
+00:14:07,640 --> 00:14:08,640
+Elly Martin: So I think that's why it works.
+
+352
+00:14:08,680 --> 00:14:11,100
+But then I, i-- on the other hand, you don't-- I don't think you're
+
+353
+00:14:11,120 --> 00:14:14,820
+ever gonna be able to have the same kind of control of how you
+
+354
+00:14:14,840 --> 00:14:18,960
+deposit the energy. Like, the potential for ultrasound is that if there is some--
+
+355
+00:14:19,240 --> 00:14:23,260
+You know, if you have an organ that's constructed of different types of tissue,
+
+356
+00:14:23,340 --> 00:14:29,440
+different properties, and you could, um, you know, selectively deliver the energy to different
+
+357
+00:14:29,480 --> 00:14:30,740
+bits of it, they're gonna heat up faster.
+
+358
+00:14:30,780 --> 00:14:34,700
+If they've got different absorptions and different, uh, heat capacities and things like that,
+
+359
+00:14:34,800 --> 00:14:40,140
+then, um, potentially you can tailor it specifically, which I don't think you'd be
+
+360
+00:14:40,160 --> 00:14:42,140
+able to do with, uh, RF warming.
+
+361
+00:14:43,780 --> 00:14:48,760
+Charles Caskey: Yeah. Like, and getting, and getting those beads throughout a volume, uh, you know,
+
+362
+00:14:48,860 --> 00:14:52,860
+in a homogenous way is probably not the-- It's not the easiest thing, I
+
+363
+00:14:52,880 --> 00:14:55,620
+would guess. That's not totally non-invasive, so it's not like a, yeah-
+
+364
+00:14:55,740 --> 00:14:57,000
+Elly Martin: Yeah. You have to wash them out again-
+
+365
+00:14:57,020 --> 00:14:57,560
+Charles Caskey: ... solution, the end-all solution
+
+366
+00:14:57,580 --> 00:14:58,620
+Elly Martin: ... afterwards. So, yeah.
+
+367
+00:14:58,700 --> 00:15:00,660
+Charles Caskey: Yeah. You can't, yeah. You can't just live with them once they come out-
+
+368
+00:15:00,720 --> 00:15:03,340
+Elly Martin: Yes. [laughs] Yeah. Um, but yeah.
+
+369
+00:15:03,460 --> 00:15:03,960
+But they-
+
+370
+00:15:03,860 --> 00:15:04,360
+Charles Caskey: Yeah
+
+371
+00:15:03,980 --> 00:15:06,880
+Elly Martin: ... yeah. That's really at the forefront of that field now, so yeah.
+
+372
+00:15:07,660 --> 00:15:08,980
+Charles Caskey: I, I like that we started with this.
+
+373
+00:15:09,100 --> 00:15:09,680
+[laughs]
+
+374
+00:15:09,720 --> 00:15:12,540
+Keith Murphy: Yeah, I know. It's a little bit-- It's, uh, I felt like we might
+
+375
+00:15:12,580 --> 00:15:14,540
+not be able to get, we might not get back to it if we
+
+376
+00:15:14,580 --> 00:15:16,460
+didn't start there, you know, throw people for a loop.
+
+377
+00:15:16,540 --> 00:15:19,200
+But you know what people really wanna know?
+
+378
+00:15:19,640 --> 00:15:24,140
+They wanna know about this amazing hel- I don't wanna call it a helmet,
+
+379
+00:15:24,200 --> 00:15:28,420
+this amazing sort of brain-wide interface device that you built.
+
+380
+00:15:28,440 --> 00:15:28,940
+Elly Martin: Mm-hmm.
+
+381
+00:15:28,840 --> 00:15:32,820
+Keith Murphy: Before you talk about it, before we ask you questions about it, Charles knows
+
+382
+00:15:32,860 --> 00:15:34,760
+the history of all this really well.
+
+383
+00:15:35,620 --> 00:15:38,160
+I think it-- And I wanna say you've brought it up before, but it
+
+384
+00:15:38,240 --> 00:15:42,380
+starts with our f- a friend of the show, Jie Sun, who's an old
+
+385
+00:15:42,440 --> 00:15:47,320
+school ultrasound guy. He's currently the interim CEO of, uh, the Chen Institute.
+
+386
+00:15:48,200 --> 00:15:49,940
+Uh, it started with Jay, I...
+
+387
+00:15:50,200 --> 00:15:53,760
+Right? Charles, can you walk us through to when Elly came into the scene?
+
+388
+00:15:54,520 --> 00:15:58,960
+A, a young and ambitious Amish Elly Martin.
+
+389
+00:15:58,960 --> 00:16:01,280
+[laughs]
+
+390
+00:16:01,340 --> 00:16:05,660
+Charles Caskey: Yeah, yeah. The, um, yeah, so, um, and, uh, maybe Elly can, and can
+
+391
+00:16:05,740 --> 00:16:07,160
+correct me, uh, on any of this.
+
+392
+00:16:07,220 --> 00:16:13,340
+So the transcranial focusing, um, was, was the first-- Was the earliest
+
+393
+00:16:13,400 --> 00:16:17,400
+work out of Kullervo's lab on getting a good beam to focus through the
+
+394
+00:16:17,440 --> 00:16:19,680
+skull, to your knowledge? Like 1999?
+
+395
+00:16:19,780 --> 00:16:21,680
+That's the earliest, one of the earliest papers I can find.
+
+396
+00:16:21,720 --> 00:16:26,100
+Elly Martin: I think it's around that, and I, I think, and Jean-Fran- Jean-François Aubry's early
+
+397
+00:16:26,140 --> 00:16:27,540
+paper's around the same time as well.
+
+398
+00:16:28,660 --> 00:16:32,840
+Charles Caskey: Yep. Yeah. Okay. Yeah. So sort of parallel activities happening there, um, to just
+
+399
+00:16:32,860 --> 00:16:33,360
+show, "Hey, we can-"
+
+400
+00:16:33,020 --> 00:16:36,280
+Keith Murphy: Was Jean-François using a helmet or, like, more like a smaller array?
+
+401
+00:16:36,460 --> 00:16:38,980
+Elly Martin: Well, I think he started looking at the kind of like aberrations caused by
+
+402
+00:16:39,000 --> 00:16:40,520
+the skull, things to name them.
+
+403
+00:16:40,980 --> 00:16:42,720
+Um, yeah. Is that right?
+
+404
+00:16:42,780 --> 00:16:46,280
+Charles Caskey: Yep. Yeah. And they-- And I think they were really focused a lot on,
+
+405
+00:16:46,460 --> 00:16:48,060
+on ablation, I think, at that time.
+
+406
+00:16:48,420 --> 00:16:53,780
+Uh, and, you know, so neuromodulation wasn't r- as much in the, uh, in
+
+407
+00:16:53,840 --> 00:16:56,160
+the public consciousness or the scientists.
+
+408
+00:16:56,300 --> 00:16:58,540
+But, um, but yeah. It, but it, it...
+
+409
+00:16:59,280 --> 00:16:59,980
+I think there was a lot...
+
+410
+00:17:00,060 --> 00:17:02,680
+It's interesting 'cause there was, like, a lot of this, these, this work at
+
+411
+00:17:02,740 --> 00:17:08,800
+that time. But I feel like not until, like, 2015 or so
+
+412
+00:17:09,700 --> 00:17:14,760
+did it s-seem accessible for... And a lot of work, uh, k-Wave was a
+
+413
+00:17:14,800 --> 00:17:17,560
+big part of this, and, like, your work-- And you've done so much work
+
+414
+00:17:17,820 --> 00:17:22,440
+validating k-Wave and doing models with that, um, and, and ex- you know, very
+
+415
+00:17:22,580 --> 00:17:27,680
+careful experiments that I think had been done maybe as a one-off in a
+
+416
+00:17:27,740 --> 00:17:31,020
+lab or two. But it, I feel like it really got democratized, uh, with,
+
+417
+00:17:31,140 --> 00:17:33,780
+with a lot of that effort, um, later.
+
+418
+00:17:34,320 --> 00:17:37,460
+And so, um, I think, I feel like that's when you came, yeah, where
+
+419
+00:17:37,700 --> 00:17:43,680
+I became m-increasingly aware of your work a-and, and, and Brad's as well on
+
+420
+00:17:43,720 --> 00:17:46,340
+the simulation side. Uh, or do you-- Are you guys, like, like part of
+
+421
+00:17:46,380 --> 00:17:48,540
+the-- At the time when that was going, were y'all, like, part of the
+
+422
+00:17:48,620 --> 00:17:50,300
+same lab and you were like ...
+
+423
+00:17:50,340 --> 00:17:52,600
+the metrology side and they were the simulation side.
+
+424
+00:17:52,900 --> 00:17:53,400
+Um-
+
+425
+00:17:53,920 --> 00:17:58,180
+Elly Martin: So I actually joined, uh, I came to work with Brad as his postdoc.
+
+426
+00:17:58,280 --> 00:18:02,140
+So, um, we had worked together on a, on a project before that when
+
+427
+00:18:02,200 --> 00:18:05,100
+I was still working at the National Physical Laboratory, kind of doing a lot
+
+428
+00:18:05,140 --> 00:18:09,060
+of metrology. Um, and then I got to know Brad 'cause he was, uh,
+
+429
+00:18:09,140 --> 00:18:11,780
+he had a grant that was on a-- It was kind of related to
+
+430
+00:18:11,800 --> 00:18:12,960
+a project that I was working on.
+
+431
+00:18:13,700 --> 00:18:16,860
+Um, and then he got a fellowship, um, and then he had a postdoc
+
+432
+00:18:16,920 --> 00:18:20,200
+position, so I applied for that and then came to work with him.
+
+433
+00:18:20,700 --> 00:18:23,460
+And then it kind of was that idea that I had this experience in
+
+434
+00:18:23,660 --> 00:18:27,900
+metrology, um, and his background was kind of in the modeling and the, you
+
+435
+00:18:27,940 --> 00:18:31,740
+know, the maths of the, um, you know, behind the models and things like
+
+436
+00:18:31,780 --> 00:18:35,260
+that. Um, and then I kind of came along and started up some, um,
+
+437
+00:18:35,400 --> 00:18:38,480
+some of the measurement stuff to go with that to, to validate k-Wave.
+
+438
+00:18:38,780 --> 00:18:40,680
+Um, so yeah, that's kind of how it started.
+
+439
+00:18:41,420 --> 00:18:41,920
+Um-
+
+440
+00:18:42,360 --> 00:18:48,900
+Charles Caskey: So this sustained effort has brought us to high precision neuromodulation in, in humans
+
+441
+00:18:49,320 --> 00:18:52,180
+with a, with a 256 element array?
+
+442
+00:18:52,280 --> 00:18:52,780
+Elly Martin: Yeah.
+
+443
+00:18:52,680 --> 00:18:55,480
+Charles Caskey: Is that-- Oh, yeah. What-- So yeah, what is, what are we getting at
+
+444
+00:18:55,520 --> 00:18:58,900
+here? This is-- What does precision mean here in this context?
+
+445
+00:18:59,400 --> 00:19:02,420
+What are the, you know, what, yeah, what, what parts of...
+
+446
+00:19:02,560 --> 00:19:04,880
+I don't know. What, what-- When you were making this, what kept you up
+
+447
+00:19:04,920 --> 00:19:07,560
+at night? I'm curious about like, as this thing was coming together.
+
+448
+00:19:07,620 --> 00:19:08,120
+Elly Martin: Yeah.
+
+449
+00:19:07,720 --> 00:19:08,900
+Charles Caskey: Yeah. Lay, lay some things on me.
+
+450
+00:19:08,940 --> 00:19:10,280
+Elly Martin: So many things. So many things.
+
+451
+00:19:10,340 --> 00:19:11,400
+[chuckles] Um-
+
+452
+00:19:11,600 --> 00:19:13,260
+Charles Caskey: All right. How precise are we talking?
+
+453
+00:19:13,320 --> 00:19:13,820
+Let's start-
+
+454
+00:19:13,720 --> 00:19:14,220
+Elly Martin: Oh, okay
+
+455
+00:19:13,980 --> 00:19:14,480
+Keith Murphy: ... let's go there first.
+
+456
+00:19:14,440 --> 00:19:17,720
+Elly Martin: Uh, so yeah, I guess the, the precision is kind of referring to the
+
+457
+00:19:17,840 --> 00:19:21,500
+spatial precision. So the, on, on two counts, I guess.
+
+458
+00:19:21,580 --> 00:19:23,820
+So one of them is that the focal size is really small.
+
+459
+00:19:24,520 --> 00:19:29,800
+Um, so the, uh, yeah, the, the focus is, it's like 1.3 by 1.3
+
+460
+00:19:29,880 --> 00:19:32,220
+by 3.4 millimeters or something like that.
+
+461
+00:19:32,540 --> 00:19:33,040
+Um-
+
+462
+00:19:33,580 --> 00:19:34,080
+Keith Murphy: Wow, that's tiny.
+
+463
+00:19:34,000 --> 00:19:35,980
+Elly Martin: It's really, yeah. It's really, really teeny.
+
+464
+00:19:36,380 --> 00:19:38,080
+Um, and we could do that because of-
+
+465
+00:19:38,180 --> 00:19:38,900
+Keith Murphy: Grain of rice.
+
+466
+00:19:39,420 --> 00:19:39,940
+Elly Martin: Sorry? [chuckles]
+
+467
+00:19:39,960 --> 00:19:41,600
+Keith Murphy: Yeah. Grain of rice.
+
+468
+00:19:41,600 --> 00:19:44,000
+Elly Martin: Yeah, but like really, really a grain of rice, and not like a grain
+
+469
+00:19:44,040 --> 00:19:45,180
+of rice shaped bigger thing.
+
+470
+00:19:45,340 --> 00:19:45,840
+Keith Murphy: Yeah, yeah.
+
+471
+00:19:45,420 --> 00:19:46,480
+Elly Martin: Um, yeah.
+
+472
+00:19:46,720 --> 00:19:47,220
+Keith Murphy: Yeah.
+
+473
+00:19:46,780 --> 00:19:50,760
+Elly Martin: So yeah, really, really small. Um, so we could do that because we have
+
+474
+00:19:50,800 --> 00:19:54,120
+this whole helmet array that kind of surrounds the head.
+
+475
+00:19:54,780 --> 00:19:57,520
+Um, so the way that you can get the focus to be really small
+
+476
+00:19:57,560 --> 00:20:00,560
+is obviously it's the choice of the frequency that you use, but also the,
+
+477
+00:20:00,960 --> 00:20:04,300
+the size of the aperture, um, that you're using and the kind of, you
+
+478
+00:20:04,340 --> 00:20:07,460
+know, how that enables you to focus, um, and really shrink that down.
+
+479
+00:20:08,240 --> 00:20:08,740
+Um-
+
+480
+00:20:08,860 --> 00:20:13,340
+Keith Murphy: Do you have an intuitive way, Elly, of, of describing why the frequency limits
+
+481
+00:20:13,460 --> 00:20:17,480
+the focal size? My, my explanation's crap, but I bet yours is great.
+
+482
+00:20:17,520 --> 00:20:21,180
+Elly Martin: What's, what's your explanation, Keith? [laughs]
+
+483
+00:20:21,260 --> 00:20:24,240
+Keith Murphy: My-- Oh, ch-- Oh. No, you go, you go.
+
+484
+00:20:24,300 --> 00:20:27,460
+I asked you. And then I'll do mine after.
+
+485
+00:20:27,660 --> 00:20:29,700
+Elly Martin: Uh, well, it's, it's related to the wavelength.
+
+486
+00:20:29,700 --> 00:20:31,660
+[laughs]
+
+487
+00:20:31,740 --> 00:20:33,380
+Keith Murphy: Yeah, we know that, but, but why?
+
+488
+00:20:33,720 --> 00:20:36,420
+Like when people ask, "Okay, let me go for a sunny one here," crappy
+
+489
+00:20:36,420 --> 00:20:36,920
+joke.
+
+490
+00:20:36,420 --> 00:20:37,140
+Elly Martin: I'm like, "I'm not asking a question."
+
+491
+00:20:37,160 --> 00:20:37,840
+[laughs]
+
+492
+00:20:37,940 --> 00:20:42,520
+Keith Murphy: If you, if you took, if you took a waveform and you took multiple,
+
+493
+00:20:42,600 --> 00:20:47,920
+which you're trying to focus and superimpose, the smallest that they could possibly be
+
+494
+00:20:48,000 --> 00:20:49,320
+is perfectly overlapping-
+
+495
+00:20:49,500 --> 00:20:50,000
+Elly Martin: Mm
+
+496
+00:20:49,700 --> 00:20:51,800
+Keith Murphy: ... which still looks like that waveform.
+
+497
+00:20:52,260 --> 00:20:56,180
+So it is just the width of the, I guess it's the half cycle.
+
+498
+00:20:56,220 --> 00:20:57,760
+It kind of shows the distribution.
+
+499
+00:20:57,860 --> 00:20:59,260
+Elly Martin: Yeah. I guess that's it really, isn't it?
+
+500
+00:20:59,300 --> 00:21:01,160
+Keith Murphy: How, how was that? It was good?
+
+501
+00:21:01,180 --> 00:21:02,980
+Elly Martin: I think that makes sense intuitively, doesn't it?
+
+502
+00:21:03,180 --> 00:21:04,640
+Keith Murphy: Am I, am I a metrologist now?
+
+503
+00:21:04,640 --> 00:21:07,940
+[laughs] Am I a metrologist? [laughs]
+
+504
+00:21:08,060 --> 00:21:10,540
+Elly Martin: Uh, you can be a metrologist if you can, if you can measure that
+
+505
+00:21:10,600 --> 00:21:12,220
+shape, then yeah, then sure.
+
+506
+00:21:12,440 --> 00:21:15,080
+Keith Murphy: Well, pretty easy to measure. [laughs]
+
+507
+00:21:15,160 --> 00:21:16,660
+Charles Caskey: You're just an orator right now.
+
+508
+00:21:17,040 --> 00:21:19,960
+It's like... [laughs]
+
+509
+00:21:20,060 --> 00:21:22,980
+Elly Martin: Um, but yeah. So I guess if you, yeah, if your wavelength is smaller,
+
+510
+00:21:23,040 --> 00:21:24,860
+then you can, you can focus it more tightly.
+
+511
+00:21:25,240 --> 00:21:25,740
+Um-
+
+512
+00:21:26,360 --> 00:21:28,580
+Keith Murphy: How did you decide on this huge hemisphere?
+
+513
+00:21:28,680 --> 00:21:32,100
+Were you inspired by Insightec, or were you just like, "Why don't we have
+
+514
+00:21:32,140 --> 00:21:34,040
+a public version of this amazing tool?"
+
+515
+00:21:34,140 --> 00:21:39,380
+Because you guys were the first public hemisphere outside of JSUN and, and Claro,
+
+516
+00:21:39,560 --> 00:21:43,340
+which was like they never really made it available, and they never used it
+
+517
+00:21:43,380 --> 00:21:44,040
+for neuromod.
+
+518
+00:21:44,640 --> 00:21:48,420
+Elly Martin: Um, yeah. I guess, yeah. I mean, I, I guess that is what we
+
+519
+00:21:48,440 --> 00:21:50,280
+were kind of what we were pushing towards.
+
+520
+00:21:50,320 --> 00:21:53,140
+I think the original idea was to do kind of more of a ring
+
+521
+00:21:53,280 --> 00:21:57,120
+shape so that you could... They, you know, we were targeting this specific region
+
+522
+00:21:57,160 --> 00:21:59,900
+in the deep brain, so the, the size of the focus that we wanted
+
+523
+00:22:00,560 --> 00:22:06,160
+came from the size of that, um, nucleus in the deep brain, um, and
+
+524
+00:22:06,190 --> 00:22:09,080
+to get a focus that would go within that, and then it had to
+
+525
+00:22:09,120 --> 00:22:11,800
+reach the deep brain. And to get that deep, then the obvious thing is
+
+526
+00:22:11,840 --> 00:22:14,740
+to surround the head, um, and kind of come from all sides rather than
+
+527
+00:22:14,780 --> 00:22:17,000
+one side and having a long focus or something like that, so.
+
+528
+00:22:17,260 --> 00:22:19,020
+Keith Murphy: What, what nucleus? Why is it, why'd you pick it?
+
+529
+00:22:19,140 --> 00:22:23,280
+Elly Martin: Uh, the lateral geniculate nucleus. Um, I hope I'm saying that correctly.
+
+530
+00:22:23,600 --> 00:22:24,100
+Uh-
+
+531
+00:22:23,820 --> 00:22:24,320
+Keith Murphy: Yeah
+
+532
+00:22:23,880 --> 00:22:24,660
+Elly Martin: ... I think I am by now.
+
+533
+00:22:24,800 --> 00:22:25,300
+Keith Murphy: Nailed it.
+
+534
+00:22:24,860 --> 00:22:27,040
+Elly Martin: I've said it enough times. Um [laughs]
+
+535
+00:22:27,260 --> 00:22:28,120
+Keith Murphy: Yeah. [laughs]
+
+536
+00:22:28,420 --> 00:22:28,920
+Elly Martin: So.
+
+537
+00:22:28,980 --> 00:22:33,620
+Charles Caskey: I know. It's like being a physicist and like encroaching on the neurosciences.
+
+538
+00:22:33,700 --> 00:22:35,520
+Yeah, you don't wanna like say something completely-
+
+539
+00:22:35,600 --> 00:22:36,100
+Elly Martin: Yeah
+
+540
+00:22:35,700 --> 00:22:36,360
+Charles Caskey: ... like all wrong. [laughs]
+
+541
+00:22:36,400 --> 00:22:37,760
+Elly Martin: Yeah. I still worry about this a lot.
+
+542
+00:22:37,820 --> 00:22:38,540
+I'm like, "Oh, God."
+
+543
+00:22:38,840 --> 00:22:39,340
+Keith Murphy: Yeah.
+
+544
+00:22:39,160 --> 00:22:43,380
+Elly Martin: Um, yeah. So, uh, yeah, and we chose that one because it's a, I
+
+545
+00:22:43,400 --> 00:22:47,380
+guess it's part of a well un- like a really well-understood, um, circuit in
+
+546
+00:22:47,420 --> 00:22:51,900
+the brain, um, that's the sort of visual signals are, are passing through it.
+
+547
+00:22:52,580 --> 00:22:55,980
+Um, and then it's kind of, I guess it's very well defined what you
+
+548
+00:22:56,020 --> 00:22:59,420
+can do to, to stimulate a response in that circuit, and then where you
+
+549
+00:22:59,440 --> 00:23:03,360
+would look for the, um, the activity, um, in response to that as well.
+
+550
+00:23:04,060 --> 00:23:06,820
+So it's kind of like the thing that we're pushing forward was the developing
+
+551
+00:23:06,840 --> 00:23:10,900
+the capability of the device while keeping the neuroscience to something that was already
+
+552
+00:23:10,920 --> 00:23:11,720
+really well understood.
+
+553
+00:23:13,180 --> 00:23:17,180
+Keith Murphy: It's, um, uh, correct me if I'm wrong, but they have an animal who's
+
+554
+00:23:17,220 --> 00:23:19,080
+head-mounted or human in this case.
+
+555
+00:23:19,700 --> 00:23:25,120
+You flash a visual pattern, and this nucleus controls basically the relay of that
+
+556
+00:23:25,160 --> 00:23:27,120
+visual pattern to the visual cortex.
+
+557
+00:23:27,180 --> 00:23:27,680
+Elly Martin: Mm-hmm. Yeah.
+
+558
+00:23:27,860 --> 00:23:32,900
+Keith Murphy: And they'll put electrodes or sort of EEG on a human over the visual
+
+559
+00:23:33,020 --> 00:23:36,400
+cortices and measure that response amplitude and latency.
+
+560
+00:23:36,440 --> 00:23:37,760
+Is that correct? Something like that.
+
+561
+00:23:37,900 --> 00:23:39,840
+Elly Martin: Yeah. So yes, I think that's the general idea.
+
+562
+00:23:39,940 --> 00:23:44,260
+So our participants were looking at a, a flashing checkerboard, basically, where the polarity
+
+563
+00:23:44,280 --> 00:23:47,480
+of it just inverts and that's, you know, it's just, it's a great big
+
+564
+00:23:47,560 --> 00:23:48,060
+signal-
+
+565
+00:23:48,160 --> 00:23:48,660
+Keith Murphy: Yeah
+
+566
+00:23:48,240 --> 00:23:49,800
+Elly Martin: ... uh, for your eyes.
+
+567
+00:23:50,220 --> 00:23:51,840
+Keith Murphy: And it, and it's just like easy.
+
+568
+00:23:51,980 --> 00:23:55,560
+It's a really well-defined circuit. I think, Charles, you used to talk about this
+
+569
+00:23:55,600 --> 00:24:00,450
+in a really beautiful way, but you don't need to reinvent the ...
+
+570
+00:24:00,490 --> 00:24:04,250
+the circuit. You almost want something that works just so reliably, so if all
+
+571
+00:24:04,290 --> 00:24:09,630
+the other perturbations can be tuned and measured and validated, like, Elly, you wanted
+
+572
+00:24:09,670 --> 00:24:13,110
+to prove this system could create this focus at the target.
+
+573
+00:24:13,190 --> 00:24:14,790
+So why, why start with something weird?
+
+574
+00:24:14,850 --> 00:24:16,030
+Why not go with something well-known?
+
+575
+00:24:16,110 --> 00:24:17,770
+Elly Martin: Yeah. That's exactly it. Yeah.
+
+576
+00:24:18,230 --> 00:24:22,490
+Charles Caskey: Yeah. It's tough from the grants, uh, point of view, and probably, probably similar
+
+577
+00:24:22,610 --> 00:24:27,790
+for running a company, though, to do the uninteresting, uh, system.
+
+578
+00:24:27,970 --> 00:24:32,290
+It, it-- somebody-- it, it-- your reviewers or the people looking at it really
+
+579
+00:24:32,310 --> 00:24:36,870
+have to appreciate the need for technology development, and that you can't just go
+
+580
+00:24:37,030 --> 00:24:41,070
+buy something off the shelf that does this deep brain focusing and effort.
+
+581
+00:24:41,110 --> 00:24:44,450
+Like, we know it's physically possible, but that doesn't mean you can just, like
+
+582
+00:24:44,590 --> 00:24:45,790
+whip something up and do it.
+
+583
+00:24:46,390 --> 00:24:51,850
+Um, and, and I think by now a handful of labs have taken on
+
+584
+00:24:51,890 --> 00:24:56,610
+this task in different, in different ways, either hemispheres, uh, multiple transducers, single transducers.
+
+585
+00:24:56,710 --> 00:25:01,070
+But yeah, getting it and doing it with high precision, uh, like, like Elly
+
+586
+00:25:01,110 --> 00:25:04,550
+and others did, it's, it's-- yeah, it's, uh, I think it's just tough.
+
+587
+00:25:04,610 --> 00:25:07,290
+It's tough to, to sell that, but you kind of really have to connect
+
+588
+00:25:07,310 --> 00:25:10,810
+it to the bigger picture of you need to do this thing first, and
+
+589
+00:25:10,890 --> 00:25:12,970
+then you can do all these other exciting therapies.
+
+590
+00:25:13,070 --> 00:25:15,770
+But you can't-- well, you've got to know how it works, and I think
+
+591
+00:25:15,810 --> 00:25:19,470
+it's, it's tough to stay focused on that, um, 'cause you want to just
+
+592
+00:25:19,510 --> 00:25:22,170
+be like, "Oh, we're gonna point this thing at the head and it's gonna
+
+593
+00:25:22,210 --> 00:25:26,610
+cure this disease." And, um, there's so much that has to happen, right?
+
+594
+00:25:26,630 --> 00:25:27,130
+Keith Murphy: That's true.
+
+595
+00:25:26,950 --> 00:25:29,670
+Charles Caskey: For that, uh, maybe to occur for us to even explore that.
+
+596
+00:25:30,330 --> 00:25:34,310
+Um, I've always been curious, uh, since we have Elly here, like, yeah, I
+
+597
+00:25:34,330 --> 00:25:37,350
+wanted to go back to the question of like, what kept you up at
+
+598
+00:25:37,410 --> 00:25:39,010
+night? Was it, like, the hardware?
+
+599
+00:25:39,090 --> 00:25:40,290
+Was it-- what was the hardest part of this?
+
+600
+00:25:40,350 --> 00:25:43,190
+Was it the hardware, the modeling, the regulatory?
+
+601
+00:25:43,610 --> 00:25:47,150
+Was it the measurements? Uh, what was the-- what are you-- w- in looking
+
+602
+00:25:47,250 --> 00:25:50,090
+back now that the system exists, where were, where was your, you know-
+
+603
+00:25:50,270 --> 00:25:51,290
+Keith Murphy: She sounds distressed
+
+604
+00:25:51,370 --> 00:25:51,870
+Elly Martin: ... your mind? Uh, yeah.
+
+605
+00:25:52,050 --> 00:25:52,550
+Charles Caskey: Oh my gosh.
+
+606
+00:25:52,550 --> 00:25:53,470
+Elly Martin: There were so many- [laughs]
+
+607
+00:25:53,510 --> 00:25:54,110
+Charles Caskey: I know, but like-
+
+608
+00:25:55,070 --> 00:25:55,570
+Elly Martin: Yeah.
+
+609
+00:25:56,150 --> 00:25:56,950
+Charles Caskey: Yeah, sorry. [laughs]
+
+610
+00:25:57,010 --> 00:25:59,970
+Elly Martin: I think it was probably all of those things at different, at different times.
+
+611
+00:26:01,250 --> 00:26:01,750
+Charles Caskey: Okay.
+
+612
+00:26:01,310 --> 00:26:01,810
+Elly Martin: I mean, there were-
+
+613
+00:26:02,110 --> 00:26:02,610
+Charles Caskey: It was just-
+
+614
+00:26:02,270 --> 00:26:05,330
+Elly Martin: Yeah, there were some times when I, you know, I guess there was a
+
+615
+00:26:05,370 --> 00:26:08,090
+long time of just putting the thing together and, and operating it.
+
+616
+00:26:08,720 --> 00:26:12,110
+Um, you know, and then sometimes you get held up by really stupid things,
+
+617
+00:26:12,170 --> 00:26:15,350
+like it's just really hard to know to find the focus, and then you're
+
+618
+00:26:15,390 --> 00:26:16,710
+like, "Am I doing something wrong?
+
+619
+00:26:16,790 --> 00:26:19,650
+Like, I've input the phases incorrectly, so there is no focus, and that's why
+
+620
+00:26:19,690 --> 00:26:21,710
+I can't find it." You know, those, those kind of things.
+
+621
+00:26:22,450 --> 00:26:22,950
+Um-
+
+622
+00:26:23,070 --> 00:26:23,570
+Charles Caskey: Yeah
+
+623
+00:26:23,190 --> 00:26:26,490
+Elly Martin: ... so sometimes there was, like, periods of really slow progress until you're like,
+
+624
+00:26:26,530 --> 00:26:29,410
+"Okay, now this has clicked, and I can, I can now make these measurements."
+
+625
+00:26:29,710 --> 00:26:31,250
+Um, but I think-
+
+626
+00:26:31,530 --> 00:26:35,450
+Keith Murphy: You, you, uh, took a bunch of individual piezos and installed them inside, like
+
+627
+00:26:35,550 --> 00:26:37,570
+a-- is it 3D printed or machined-
+
+628
+00:26:37,630 --> 00:26:38,810
+Elly Martin: Yeah. It's 3D printed. So-
+
+629
+00:26:38,810 --> 00:26:39,310
+Keith Murphy: ... capsule?
+
+630
+00:26:39,370 --> 00:26:42,530
+Elly Martin: Yeah. So we, um, yeah, I guess the, the timeline is like right at
+
+631
+00:26:42,550 --> 00:26:46,870
+the beginning that we, uh, we decided to buy the individual elements, and then,
+
+632
+00:26:47,210 --> 00:26:51,390
+um, Brad basically ran like a ton of simulations of all different arrangements and
+
+633
+00:26:51,870 --> 00:26:56,230
+sort of different sizes and coverages and positions of these elements and worked out
+
+634
+00:26:56,290 --> 00:26:59,610
+kind of what would be the best to give us, you know, this, a
+
+635
+00:26:59,690 --> 00:27:03,870
+small focus with very low background, um, and a good steering range.
+
+636
+00:27:04,810 --> 00:27:07,550
+Um, and then we had to kind of put that together, and we had--
+
+637
+00:27:07,650 --> 00:27:10,910
+you know, there was just a lot of sort of parts of it, I
+
+638
+00:27:10,950 --> 00:27:12,790
+guess, like the electronics or the matching.
+
+639
+00:27:13,610 --> 00:27:14,290
+We went through like-
+
+640
+00:27:14,350 --> 00:27:14,850
+Keith Murphy: Mm-hmm
+
+641
+00:27:14,370 --> 00:27:18,650
+Elly Martin: ... three different types of cable design, um, before- Mm-hmm ...
+
+642
+00:27:18,670 --> 00:27:19,410
+we got to the end.
+
+643
+00:27:19,450 --> 00:27:19,950
+Keith Murphy: A lot of cables.
+
+644
+00:27:19,890 --> 00:27:21,410
+Elly Martin: A lot of cables. So many, so many.
+
+645
+00:27:21,710 --> 00:27:22,950
+It feels like miles of cables.
+
+646
+00:27:23,690 --> 00:27:24,190
+Um-
+
+647
+00:27:24,470 --> 00:27:24,970
+Charles Caskey: Yes
+
+648
+00:27:24,790 --> 00:27:25,650
+Elly Martin: ... and so that was-
+
+649
+00:27:25,650 --> 00:27:27,050
+Charles Caskey: 'Cause yours goes into the MR, right?
+
+650
+00:27:27,110 --> 00:27:27,610
+Elly Martin: Yeah.
+
+651
+00:27:27,990 --> 00:27:28,490
+Charles Caskey: You're-
+
+652
+00:27:28,370 --> 00:27:28,870
+Keith Murphy: Oh, yeah.
+
+653
+00:27:28,690 --> 00:27:32,350
+Charles Caskey: Yeah. So you get, you get at least like multiple meters just to stay
+
+654
+00:27:32,410 --> 00:27:33,170
+away from the MR. [laughs]
+
+655
+00:27:33,230 --> 00:27:35,490
+Elly Martin: Yeah. Yeah. Yeah. So the, so the main cable's, uh, 10 meters long.
+
+656
+00:27:35,870 --> 00:27:37,050
+Um, and we-
+
+657
+00:27:37,290 --> 00:27:37,790
+Charles Caskey: Mm-hmm
+
+658
+00:27:37,330 --> 00:27:39,850
+Elly Martin: ... I think we had f- yeah, the, the, the final ones that we
+
+659
+00:27:39,930 --> 00:27:42,030
+use are like the third version, um.
+
+660
+00:27:43,110 --> 00:27:46,490
+Charles Caskey: And so that's 256 channels, 10 meters per channel.
+
+661
+00:27:47,110 --> 00:27:49,230
+Uh, yeah, yeah, you are getting through a mile pretty quickly.
+
+662
+00:27:49,250 --> 00:27:49,750
+[laughs]
+
+663
+00:27:49,370 --> 00:27:49,870
+Elly Martin: Yeah.
+
+664
+00:27:49,710 --> 00:27:52,030
+Charles Caskey: You literally probably had a mile of cables.
+
+665
+00:27:52,170 --> 00:27:52,670
+Elly Martin: Yeah.
+
+666
+00:27:52,450 --> 00:27:53,030
+Keith Murphy: Oh, my God.
+
+667
+00:27:53,370 --> 00:27:54,350
+Charles Caskey: I like that. Yeah, I know.
+
+668
+00:27:54,370 --> 00:27:54,870
+[laughs]
+
+669
+00:27:54,630 --> 00:27:55,590
+Elly Martin: Yeah. So there was a lot.
+
+670
+00:27:55,650 --> 00:27:56,150
+Charles Caskey: Oh.
+
+671
+00:27:55,770 --> 00:27:57,170
+Elly Martin: So yeah, Morgan Roberts, who was doing the-
+
+672
+00:27:57,170 --> 00:27:58,930
+Keith Murphy: Were you driving it with, uh, Verasonics?
+
+673
+00:27:59,110 --> 00:27:59,610
+Elly Martin: Yeah.
+
+674
+00:27:59,170 --> 00:28:00,870
+Keith Murphy: Or did you guys build your own drive system?
+
+675
+00:28:00,930 --> 00:28:02,070
+Elly Martin: No, we u- we used Verasonics.
+
+676
+00:28:02,070 --> 00:28:02,570
+Keith Murphy: Verasonics.
+
+677
+00:28:02,230 --> 00:28:04,050
+Elly Martin: Yeah. So at least that bit was, like, taken care of.
+
+678
+00:28:04,090 --> 00:28:05,570
+We didn't have to worry about that, um.
+
+679
+00:28:06,390 --> 00:28:07,410
+Keith Murphy: Yeah, you don't want to reinvent everything.
+
+680
+00:28:07,510 --> 00:28:10,530
+Elly Martin: No. Um, but yeah, so that, that took a long time.
+
+681
+00:28:10,550 --> 00:28:14,230
+And yeah, Morgan, he was, he was responsible for sort of designing and building
+
+682
+00:28:14,250 --> 00:28:16,870
+and testing all of that. I mean, he did an amazing job on, um,
+
+683
+00:28:17,240 --> 00:28:19,730
+figuring it all out. And then, you know, we got to a point in
+
+684
+00:28:19,740 --> 00:28:23,050
+the end where we just kind of, yeah, we're really happy that we just
+
+685
+00:28:23,090 --> 00:28:25,570
+got very, very minimal electrical crosstalk.
+
+686
+00:28:25,630 --> 00:28:29,150
+And I think that's part of the crucial bit of how it works so
+
+687
+00:28:29,170 --> 00:28:32,870
+precisely as well, that it really behaves in a kind of very close to
+
+688
+00:28:32,950 --> 00:28:37,190
+ideal way. Um, so we don't have to deal with any kind of unexpected
+
+689
+00:28:37,230 --> 00:28:40,150
+behavior, and when we, when we model it, we can be pretty confident that's
+
+690
+00:28:40,210 --> 00:28:42,650
+what's, what it's actually doing. Um.
+
+691
+00:28:43,690 --> 00:28:47,650
+Charles Caskey: Yeah, that's like a, that's a super cool part of, uh, the-- doing so
+
+692
+00:28:47,750 --> 00:28:51,930
+much validation in the water tank like you guys did, a lot of skulls,
+
+693
+00:28:52,370 --> 00:28:54,010
+and very precise registration-
+
+694
+00:28:54,050 --> 00:28:54,550
+Elly Martin: Mm-hmm
+
+695
+00:28:54,110 --> 00:28:56,810
+Charles Caskey: ... it seems like, between your simulations and your measurements.
+
+696
+00:28:57,290 --> 00:29:02,470
+Like, those are just, just careful, difficult ex- time-consuming experiments to do, but then
+
+697
+00:29:02,510 --> 00:29:03,690
+they give you that confidence- Yeah ...
+
+698
+00:29:03,730 --> 00:29:06,150
+to say, "Well, now we got this thing plugged in.
+
+699
+00:29:06,210 --> 00:29:07,930
+We know that it's doing what we think it is."
+
+700
+00:29:08,710 --> 00:29:11,190
+And such an important development step.
+
+701
+00:29:11,250 --> 00:29:14,950
+Again, something I'm curious about, uh, as-- 'cause during this time, this would've been
+
+702
+00:29:14,990 --> 00:29:21,190
+like, it sounds like between, like, 2017 to '18 through, like, early '20s, the
+
+703
+00:29:21,330 --> 00:29:24,350
+2020s, when you were, like, truly in the building phase.
+
+704
+00:29:24,950 --> 00:29:28,150
+It seemed like a lot of people really started doing human studies-
+
+705
+00:29:28,230 --> 00:29:28,730
+Elly Martin: Mm
+
+706
+00:29:28,250 --> 00:29:30,810
+Charles Caskey: ... at that time, um, some of which you're a part of, like Elsa's
+
+707
+00:29:30,850 --> 00:29:37,250
+group. Um, and the, the approach of using y- a spherical, a larger spherical
+
+708
+00:29:37,370 --> 00:29:40,450
+cap, um, did you ever think, "Why did I do this?"
+
+709
+00:29:40,490 --> 00:29:45,630
+[laughs] With in- because physically makes a lot of sense with a skull and
+
+710
+00:29:45,650 --> 00:29:48,710
+everything else. But when, when you have a human, you've got the hair, you've
+
+711
+00:29:48,750 --> 00:29:51,410
+got these other things. Uh, did you ever-- were you ever like, "Man, we
+
+712
+00:29:51,450 --> 00:29:55,710
+really commit..." 'Cause I, I, I'm sorry, s-sort of speaking for myself, 'cause we
+
+713
+00:29:55,730 --> 00:29:58,150
+were driven also by precision.
+
+714
+00:29:58,230 --> 00:29:58,730
+Elly Martin: Yeah.
+
+715
+00:29:58,490 --> 00:29:59,930
+Charles Caskey: And for precision, you want to use-
+
+716
+00:30:00,190 --> 00:30:01,590
+Keith Murphy: Charles, do you regret it? [laughs]
+
+717
+00:30:01,670 --> 00:30:05,490
+Charles Caskey: I, oh, I, um, [laughs] I don't know if regret's the right word, but
+
+718
+00:30:05,570 --> 00:30:07,970
+I, I envy the, the more flexible-
+
+719
+00:30:07,970 --> 00:30:09,050
+Keith Murphy: For jumping over there? [laughs]
+
+720
+00:30:09,090 --> 00:30:12,430
+Charles Caskey: Yeah. Well, yeah. I mean, I'm a lit- I'm envious of your, your system
+
+721
+00:30:12,530 --> 00:30:13,930
+or, you know, Attune, you know, having this-
+
+722
+00:30:13,990 --> 00:30:17,270
+Keith Murphy: We went temporal window 'cause we're like, "We're just not gonna try to figure
+
+723
+00:30:17,330 --> 00:30:19,050
+that out." [laughs] It's hard when you get-
+
+724
+00:30:19,070 --> 00:30:21,030
+Elly Martin: It's, it's really, yeah. [laughs] It, it is really hard.
+
+725
+00:30:21,130 --> 00:30:21,630
+But yeah-
+
+726
+00:30:21,530 --> 00:30:22,030
+Keith Murphy: Yeah
+
+727
+00:30:21,550 --> 00:30:23,890
+Elly Martin: ... Charles, I mean, you also work with arrays, so you know how difficult
+
+728
+00:30:23,930 --> 00:30:27,490
+it, like, getting all of these pieces of it together and knowing where it
+
+729
+00:30:27,590 --> 00:30:28,090
+is and-
+
+730
+00:30:27,670 --> 00:30:28,990
+Keith Murphy: How are you guys dealing with the hair?
+
+731
+00:30:29,980 --> 00:30:31,280
+So, uh, well, actually for-- Okay.
+
+732
+00:30:31,440 --> 00:30:35,460
+So guys, we get, I don't know if it's complaints, but the young bucks
+
+733
+00:30:35,500 --> 00:30:38,720
+who are entering the field say, "I love the podcast."
+
+734
+00:30:39,000 --> 00:30:40,640
+They don't talk like that, but I'm gonna do that thing.
+
+735
+00:30:40,660 --> 00:30:44,460
+[laughs] "I love the podcast, but I want more lessons in the podcast.
+
+736
+00:30:44,640 --> 00:30:46,120
+I don't know this stuff. I wanna learn it."
+
+737
+00:30:46,180 --> 00:30:47,980
+Okay. [laughs] So if the hair-
+
+738
+00:30:48,000 --> 00:30:51,380
+Charles Caskey: [laughs] You can't characterize our listeners as sounding like that.
+
+739
+00:30:51,380 --> 00:30:52,040
+[laughs]
+
+740
+00:30:52,100 --> 00:30:54,080
+Keith Murphy: Oh, no. Yeah, they should sound more-
+
+741
+00:30:55,640 --> 00:30:59,140
+Charles Caskey: Gruff, ape-like. [laughs]
+
+742
+00:30:59,200 --> 00:31:01,320
+Keith Murphy: It's the costume. They're just doing crazy things.
+
+743
+00:31:02,000 --> 00:31:06,420
+Guys, when there's, when there are changes in density or speed of sound that
+
+744
+00:31:06,480 --> 00:31:11,260
+are rapid, really fast changes, like if you had a bubble trapped in hair,
+
+745
+00:31:12,000 --> 00:31:14,540
+r- the ultrasound 99% straight back.
+
+746
+00:31:14,640 --> 00:31:19,420
+So hair, trapping these things, getting water into those spaces is the challenge that
+
+747
+00:31:19,500 --> 00:31:22,440
+Charles and Elly are just going on about.
+
+748
+00:31:22,540 --> 00:31:25,820
+You guys are [laughs] really, really whining about it.
+
+749
+00:31:25,900 --> 00:31:26,980
+How did you try to fix it?
+
+750
+00:31:27,100 --> 00:31:28,140
+Where, where are we right now?
+
+751
+00:31:28,940 --> 00:31:31,020
+Oh, um- Both of you could comment on your own experience.
+
+752
+00:31:31,060 --> 00:31:33,500
+Elly Martin: Well, yeah. I mean, but that, yeah, that is really difficult, and I think
+
+753
+00:31:33,540 --> 00:31:38,100
+understanding, yeah, all of that, how many bubbles are trapped and even when-- if
+
+754
+00:31:38,140 --> 00:31:39,880
+you've got no bubbles, then what's the hair doing?
+
+755
+00:31:40,220 --> 00:31:42,360
+Um, I actually have a student at the moment who's doing- Yeah ...
+
+756
+00:31:42,380 --> 00:31:44,500
+trying to do some more measurements in the lab of hair.
+
+757
+00:31:45,260 --> 00:31:47,220
+Um, but yeah, so our solution-
+
+758
+00:31:47,300 --> 00:31:50,280
+Charles Caskey: I saw some shaved heads in your, in the, in the UCL group around
+
+759
+00:31:50,300 --> 00:31:50,800
+that time too, right?
+
+760
+00:31:50,680 --> 00:31:53,000
+Elly Martin: Yeah. Our solution was just please remove your hair.
+
+761
+00:31:53,300 --> 00:31:55,320
+Um, well, what, what do you do, Charles?
+
+762
+00:31:55,360 --> 00:31:57,320
+Do you ask people to shave your heads or w- I guess when you're
+
+763
+00:31:57,340 --> 00:31:58,520
+doing monkeys, you shave their heads.
+
+764
+00:31:58,520 --> 00:31:59,180
+Charles Caskey: Yeah. We're, we're-
+
+765
+00:31:59,180 --> 00:31:59,680
+Keith Murphy: You don't ask them
+
+766
+00:31:59,700 --> 00:32:03,940
+Charles Caskey: ... we're, we're looking at, at populations that, uh, so that are already planning
+
+767
+00:32:03,980 --> 00:32:05,860
+to shave their heads for other procedures.
+
+768
+00:32:06,140 --> 00:32:12,340
+Um, but it doesn't alleviate the longer term concern for, like, other populations.
+
+769
+00:32:12,400 --> 00:32:15,320
+So we're, we're just, we're kind of trying to figure, figure that out, but
+
+770
+00:32:15,360 --> 00:32:19,440
+we're still, like, trying to even get, getting through the shaved head and getting
+
+771
+00:32:19,480 --> 00:32:22,800
+everything to work right is still, like, its own challenge.
+
+772
+00:32:22,900 --> 00:32:25,240
+So, um, I think that's going pretty well.
+
+773
+00:32:25,300 --> 00:32:26,580
+But yeah, that's where we are with it.
+
+774
+00:32:26,680 --> 00:32:31,980
+Um, but I am very curious, um, whether we will be able-- the degree--
+
+775
+00:32:32,060 --> 00:32:34,580
+But 'cause our clinicians want the small focus.
+
+776
+00:32:34,660 --> 00:32:36,320
+Mm-hmm. I think that's what it comes to, and they wanna know where it
+
+777
+00:32:36,400 --> 00:32:41,420
+is. And so i- it's very tough to, that, to that balance.
+
+778
+00:32:41,520 --> 00:32:45,280
+You don't get anything for free [laughs] on when you shrink your aperture- Yeah
+
+779
+00:32:45,280 --> 00:32:46,880
+... and start going through the smaller windows.
+
+780
+00:32:47,100 --> 00:32:48,920
+You, the focus grows. That's just it.
+
+781
+00:32:49,280 --> 00:32:49,780
+Yeah.
+
+782
+00:32:49,980 --> 00:32:53,280
+Elly Martin: But I, I think there is an appreciation of, yeah, like I think there
+
+783
+00:32:53,300 --> 00:32:56,480
+are some people who would like to do studies with our system, but then
+
+784
+00:32:56,520 --> 00:32:58,700
+they just think they won't be able to recruit anyone.
+
+785
+00:32:59,660 --> 00:33:01,360
+Um, you know, or they worry about the numbers.
+
+786
+00:33:01,660 --> 00:33:04,580
+Um, and then if, yeah, I guess when you even start thinking about patient
+
+787
+00:33:04,640 --> 00:33:07,940
+populations, the, the sort of current design of it, then that, that might be
+
+788
+00:33:07,980 --> 00:33:11,480
+difficult for some, uh, people just to, to get into anyway.
+
+789
+00:33:12,380 --> 00:33:14,360
+Um- Yeah ... just is a challenge.
+
+790
+00:33:16,100 --> 00:33:19,340
+Charles Caskey: Yeah. I look forward to a future whenever we have this figured out, and
+
+791
+00:33:19,380 --> 00:33:23,960
+like people with any kind of hair can get this grain of rice size
+
+792
+00:33:24,020 --> 00:33:27,940
+focus anywhere in the brain. I, I just, i- but it's still, we're just--
+
+793
+00:33:28,240 --> 00:33:30,060
+I just feel like we're not there as a field yet.
+
+794
+00:33:30,440 --> 00:33:30,940
+Um- Yeah
+
+795
+00:33:30,800 --> 00:33:35,500
+Keith Murphy: ... but- I think people have overestimated how small they really want the focus.
+
+796
+00:33:35,640 --> 00:33:38,640
+I, I'd be surprised if anyone really needed a grain of rice.
+
+797
+00:33:38,720 --> 00:33:41,080
+I mean, what brain area is that small?
+
+798
+00:33:41,320 --> 00:33:43,420
+And do we have the precision to even do that right now?
+
+799
+00:33:43,720 --> 00:33:45,400
+Elly Martin: Uh, yeah, I think that's a great point.
+
+800
+00:33:45,940 --> 00:33:49,180
+Um, I mean, I think the, the size of our focus was a, you
+
+801
+00:33:49,220 --> 00:33:52,460
+know, it's still, it's a sub-region of that tiny nucleus.
+
+802
+00:33:53,020 --> 00:33:54,920
+So it's, yeah, I guess that's a question.
+
+803
+00:33:55,100 --> 00:33:57,580
+Is that the best or would it, would we have got a stronger response
+
+804
+00:33:57,660 --> 00:33:59,660
+if it was, if it was bigger and then-
+
+805
+00:34:00,520 --> 00:34:01,540
+Keith Murphy: You would have, definitely. Okay.
+
+806
+00:34:01,660 --> 00:34:02,880
+Elly Martin: So yeah. So maybe that's it.
+
+807
+00:34:03,160 --> 00:34:05,080
+Charles Caskey: Yeah. [laughs] Well, hang on, hang on, hang on.
+
+808
+00:34:05,120 --> 00:34:06,980
+Is that true, though? That, that-- We don't know that.
+
+809
+00:34:06,980 --> 00:34:07,840
+[laughs]
+
+810
+00:34:08,060 --> 00:34:10,500
+Keith Murphy: I, I would think so. I think so.
+
+811
+00:34:10,660 --> 00:34:11,840
+I mean, more cell bodies, more...
+
+812
+00:34:12,300 --> 00:34:17,260
+The, the reason people, physicians particularly wanna keep it small, and this is, in
+
+813
+00:34:17,320 --> 00:34:19,920
+my opinion, not quite true, although I respect the question.
+
+814
+00:34:20,280 --> 00:34:25,160
+They're trying to limit off-target effects, but they don't appreciate the volume of brain
+
+815
+00:34:25,200 --> 00:34:26,880
+that they affect with the drug- Mm-hmm ...
+
+816
+00:34:26,900 --> 00:34:30,040
+which I often quote is like 200,000 times more brain tissue.
+
+817
+00:34:30,540 --> 00:34:34,760
+So, like, are we really worried about the focus creeping into the nucleus that's
+
+818
+00:34:34,800 --> 00:34:37,680
+nearby? Like, I don't think we should be too worried about it.
+
+819
+00:34:38,240 --> 00:34:41,840
+Charles Caskey: Yeah. And, and I think a lot of the clinical knowledge that we had
+
+820
+00:34:41,880 --> 00:34:45,640
+based, like, a lot of our early designs and decisions on were, came really
+
+821
+00:34:45,660 --> 00:34:48,420
+from functional neurosurgery. And they- Yeah ...
+
+822
+00:34:48,440 --> 00:34:52,040
+they really do think on the order of these tiny millimeters when they're like,
+
+823
+00:34:52,120 --> 00:34:53,900
+say, putting a DBS probe in.
+
+824
+00:34:54,180 --> 00:34:56,620
+I think they place the probe, and then they'd go, you know, they move
+
+825
+00:34:56,640 --> 00:35:00,060
+it by millimeters and get pretty dramatically different responses.
+
+826
+00:35:00,080 --> 00:35:03,400
+Mm-hmm. And I think that's where, like, the, the mentality...
+
+827
+00:35:03,460 --> 00:35:06,760
+But it's, it's this false equivalency that I think a lo- that we deal
+
+828
+00:35:06,800 --> 00:35:11,200
+with in ultrasound neuromodulation, where people take one technology and they're like, "Oh, well,
+
+829
+00:35:11,300 --> 00:35:15,400
+DBS, you know, affects the brain in this way, so ultrasound must affect it
+
+830
+00:35:15,440 --> 00:35:18,000
+the same way, so we're gonna need to have the same small focus."
+
+831
+00:35:18,080 --> 00:35:22,060
+But the, the physics is different, the mechanism's different, just the, the way that
+
+832
+00:35:22,220 --> 00:35:22,720
+it interacts with the cell. And I think-
+
+833
+00:35:22,680 --> 00:35:24,040
+Keith Murphy: Well, the risk for sure, right?
+
+834
+00:35:24,400 --> 00:35:25,260
+The risk is so low-
+
+835
+00:35:25,380 --> 00:35:25,880
+Charles Caskey: Yeah, sure
+
+836
+00:35:25,380 --> 00:35:27,920
+Keith Murphy: ... with what we do. So why do we need to be perfect first
+
+837
+00:35:27,940 --> 00:35:29,240
+shot? We can move the focus.
+
+838
+00:35:29,580 --> 00:35:33,080
+We can titrate it. Yeah. In DBS, it's like you're really committed once you
+
+839
+00:35:33,120 --> 00:35:36,600
+put that lead down. It's gonna be locked into your brain for the rest
+
+840
+00:35:36,660 --> 00:35:40,280
+of your life. Yeah. So I think that's probably also that they're not taking
+
+841
+00:35:40,320 --> 00:35:41,320
+into consideration, right?
+
+842
+00:35:42,240 --> 00:35:44,640
+Charles Caskey: Yeah. Or, or at least it's, it, it's a new technology.
+
+843
+00:35:44,700 --> 00:35:47,740
+Yeah. So it's just, you just apply it differently.
+
+844
+00:35:47,820 --> 00:35:51,480
+Absolutely. Yeah. You can, you have a lot more reversibility, um, in this situation.
+
+845
+00:35:53,080 --> 00:35:57,300
+Keith Murphy: Um, nevertheless, Elly, you've given them-- I mean, you've given-- I don't think you
+
+846
+00:35:57,340 --> 00:35:59,460
+actually gave it out. Did you open source this stuff?
+
+847
+00:35:59,540 --> 00:36:03,140
+No, right? No. No. So you didn't give it out, but you've developed the
+
+848
+00:36:03,180 --> 00:36:05,820
+world's greatest research tool- [laughs] ...
+
+849
+00:36:05,880 --> 00:36:08,080
+at the moment. It's for you guys.
+
+850
+00:36:08,460 --> 00:36:11,520
+You've, you've shown that you can perturb this visual circuit.
+
+851
+00:36:12,220 --> 00:36:16,800
+What's next on the agenda? I mean, Elly, we had a cool conversation pretty
+
+852
+00:36:16,840 --> 00:36:21,840
+recently, if you don't mind me saying, um, where you were kind of wondering
+
+853
+00:36:22,740 --> 00:36:26,960
+if neuroscience was getting too crowded and, like, I, I think it is just
+
+854
+00:36:27,020 --> 00:36:32,300
+such an infinite, vast unknown, and to have physicists coming into that space is
+
+855
+00:36:32,360 --> 00:36:38,320
+such a, an amazing thing. Have you Made any headway in thinking what-- are
+
+856
+00:36:38,360 --> 00:36:39,560
+you even wanting to share it?
+
+857
+00:36:40,100 --> 00:36:40,600
+You don't have to
+
+858
+00:36:40,640 --> 00:36:44,920
+Elly Martin: Um, yeah, I don't know. I think-- I, I feel like my-- Yeah, uh,
+
+859
+00:36:44,960 --> 00:36:48,280
+maybe what I was thinking more in that conversation was that the, maybe that
+
+860
+00:36:48,320 --> 00:36:53,000
+not the neuroscience is too crowded, but the, the kind of what's the future
+
+861
+00:36:53,040 --> 00:36:56,920
+of where this technology gets developed, and is that for me or is that
+
+862
+00:36:56,960 --> 00:37:00,880
+for, you know, other people, um, you know, perhaps in-
+
+863
+00:37:01,220 --> 00:37:01,720
+Keith Murphy: Is it for you?
+
+864
+00:37:01,540 --> 00:37:04,040
+Elly Martin: ... some of these companies. Well, I'm still, I'm still not sure.
+
+865
+00:37:04,960 --> 00:37:07,300
+Um, [chuckles] I don't know what I'm doing.
+
+866
+00:37:07,780 --> 00:37:08,280
+Uh-
+
+867
+00:37:07,900 --> 00:37:10,640
+Charles Caskey: So you say you don't know what you're doing on neuro- on the neuroscience
+
+868
+00:37:10,660 --> 00:37:13,920
+side, and you're kind of like, have, have you given what you can to
+
+869
+00:37:13,960 --> 00:37:16,500
+this field? And I think, I think that we're s-- I think you're always
+
+870
+00:37:16,520 --> 00:37:22,620
+gonna need physicists. Uh, I mean, you do so much with standard safety rep-replicability.
+
+871
+00:37:23,200 --> 00:37:25,940
+I just, I, I don't know that it, that we can ever get to
+
+872
+00:37:25,980 --> 00:37:30,080
+a place-- I think it's just multidisciplinary cross-functional teams from here on out.
+
+873
+00:37:30,200 --> 00:37:30,700
+Elly Martin: Yeah.
+
+874
+00:37:30,400 --> 00:37:31,000
+Charles Caskey: I mean, I don't-- Yeah.
+
+875
+00:37:31,040 --> 00:37:32,500
+Elly Martin: Yeah. I mean, no, no, I completely agree with that.
+
+876
+00:37:32,560 --> 00:37:35,160
+I think what I was thinking of, you know, like, I guess what we've
+
+877
+00:37:35,200 --> 00:37:37,780
+done so far is develop a system.
+
+878
+00:37:38,580 --> 00:37:41,940
+Um, and I definitely agree that we need multidisciplinary teams, and I do wanna
+
+879
+00:37:42,000 --> 00:37:46,380
+carry on working on, on that and, you know, increasing the precision and the,
+
+880
+00:37:46,840 --> 00:37:49,240
+you know, our knowledge of what the actual pressure is and our ability to
+
+881
+00:37:49,260 --> 00:37:52,860
+predict it accurately and, and those kind of things, which are interesting puzzles to
+
+882
+00:37:52,900 --> 00:37:57,400
+me. Um, but yeah, I guess it's kind of-- Yeah.
+
+883
+00:37:57,680 --> 00:38:00,620
+Are we gonna carry on making different versions of this helmet system, or is
+
+884
+00:38:00,660 --> 00:38:03,180
+that really for someone else to do who's not sitting in a lab in
+
+885
+00:38:03,200 --> 00:38:07,120
+a university? I guess that was my, um, that was my point.
+
+886
+00:38:07,140 --> 00:38:11,640
+Keith Murphy: I'm gonna pitch an oddity, but the-- like, uh, Elly is the queen of
+
+887
+00:38:11,680 --> 00:38:13,740
+metrology, if you know what I'm saying.
+
+888
+00:38:13,820 --> 00:38:14,340
+[chuckles]
+
+889
+00:38:14,400 --> 00:38:14,920
+Elly Martin: Um, I'm sorry-
+
+890
+00:38:14,980 --> 00:38:15,480
+Keith Murphy: Can, can we-
+
+891
+00:38:15,080 --> 00:38:17,940
+Elly Martin: ... I'm really hot. I just need to-- This hat is, like, baking my
+
+892
+00:38:17,960 --> 00:38:21,000
+head. Sorry to interrupt, but I just really need to take my jumper off
+
+893
+00:38:21,140 --> 00:38:21,820
+'cause I'm boiling.
+
+894
+00:38:21,840 --> 00:38:23,360
+Keith Murphy: The sun might show up on your head.
+
+895
+00:38:23,580 --> 00:38:24,760
+Elly Martin: Hold on one, one second.
+
+896
+00:38:24,780 --> 00:38:25,280
+Keith Murphy: Um.
+
+897
+00:38:24,840 --> 00:38:26,720
+Elly Martin: Sorry. [chuckles]
+
+898
+00:38:26,760 --> 00:38:27,260
+Keith Murphy: Yeah.
+
+899
+00:38:27,200 --> 00:38:28,140
+Elly Martin: I can't get it off now.
+
+900
+00:38:28,140 --> 00:38:29,440
+[chuckles]
+
+901
+00:38:29,560 --> 00:38:30,160
+Keith Murphy: Oh, no.
+
+902
+00:38:30,520 --> 00:38:31,020
+Elly Martin: No.
+
+903
+00:38:30,540 --> 00:38:31,660
+Keith Murphy: Let's see if sucking her hair.
+
+904
+00:38:31,800 --> 00:38:32,480
+You can't see it.
+
+905
+00:38:33,020 --> 00:38:35,300
+Elly Martin: All right. [chuckles]
+
+906
+00:38:35,340 --> 00:38:37,300
+Keith Murphy: Oh, you're- That's funny ... you're taping it back on, so not too hot.
+
+907
+00:38:37,360 --> 00:38:39,740
+Elly Martin: Yeah. No. Well, I just-- I've, I've taken a, a layer off.
+
+908
+00:38:39,800 --> 00:38:41,840
+I've made sure the heating's turned off in this office.
+
+909
+00:38:42,100 --> 00:38:44,460
+Um, so, you know, [chuckles] I'll give it another go.
+
+910
+00:38:44,480 --> 00:38:45,260
+Keith Murphy: Adjusted. Yeah, yeah.
+
+911
+00:38:45,900 --> 00:38:47,000
+Elly Martin: Yeah. Well, now I can't, I can't take it off- Um, so- ...
+
+912
+00:38:47,020 --> 00:38:48,420
+'cause it's ruined my hair. So, you know.
+
+913
+00:38:49,580 --> 00:38:54,300
+Keith Murphy: So I, I think there's a growing interest in somehow thinking of ways for
+
+914
+00:38:54,340 --> 00:38:58,340
+the brain itself to measure-- You're gonna hate this, Elly.
+
+915
+00:38:59,100 --> 00:39:03,500
+I mean, really hate it. [chuckles] But how do we, how do we think
+
+916
+00:39:03,580 --> 00:39:07,160
+about the brain itself as a biological hydrophone?
+
+917
+00:39:07,320 --> 00:39:07,820
+Elly Martin: Mm-hmm.
+
+918
+00:39:07,340 --> 00:39:10,180
+Keith Murphy: Are there circuits that are so-- Yeah, spicy, right?
+
+919
+00:39:10,240 --> 00:39:13,740
+There's-- If they're so well defined what goes in and what should come out,
+
+920
+00:39:14,440 --> 00:39:18,500
+can we use source points in the brain to estimate what kind of pressure
+
+921
+00:39:18,520 --> 00:39:24,980
+we're getting in? Because this whole, like, measuring pressure using MRI, it's, it's
+
+922
+00:39:25,020 --> 00:39:29,200
+not really scalable. I don't think there's, uh, necessarily a future for that, to
+
+923
+00:39:29,240 --> 00:39:32,160
+be honest. I think it's a good place to start, but I think the
+
+924
+00:39:32,200 --> 00:39:36,600
+future is the brain as our, as our metrologist.
+
+925
+00:39:36,860 --> 00:39:39,960
+Agree or disagree? Any, either one of you.
+
+926
+00:39:40,940 --> 00:39:43,140
+Either one of you doofuses with your hats.
+
+927
+00:39:43,160 --> 00:39:45,020
+[laughs]
+
+928
+00:39:45,080 --> 00:39:48,700
+Elly Martin: You can't-- How can-- Nobody can take anything seriously that we're saying anyway, so
+
+929
+00:39:48,720 --> 00:39:49,640
+it doesn't matter what we say.
+
+930
+00:39:49,660 --> 00:39:52,860
+[laughs]
+
+931
+00:39:52,920 --> 00:39:53,780
+Keith Murphy: What's it you gonna say?
+
+932
+00:39:54,700 --> 00:39:57,260
+Elly Martin: Um, I mean, I guess I have the question of what-- well, how do
+
+933
+00:39:57,360 --> 00:40:00,760
+you, how do you know how that scales to a certain person's brain?
+
+934
+00:40:00,820 --> 00:40:04,500
+I mean, are we, are we all different and if you put the same-
+
+935
+00:40:04,700 --> 00:40:06,780
+Charles Caskey: Right. Like, you're gonna have different sensitivities-
+
+936
+00:40:06,920 --> 00:40:07,420
+Elly Martin: Mm
+
+937
+00:40:06,940 --> 00:40:09,300
+Charles Caskey: ... even if, even if this, even if you get the same pressure.
+
+938
+00:40:09,400 --> 00:40:15,640
+That's-- Yeah. Um, yeah. Like, I mean, this is-- I don't-- I, I
+
+939
+00:40:15,680 --> 00:40:17,240
+think these are separate topics in a way.
+
+940
+00:40:17,380 --> 00:40:21,780
+All, all the-- Like, the metrology has to happen even if we-- I mean,
+
+941
+00:40:21,900 --> 00:40:24,020
+yeah, we may-- I don't know that we ever-- I don't know that we're
+
+942
+00:40:24,040 --> 00:40:30,000
+gonna need to know the pressure of an individual, um, I don't know, of
+
+943
+00:40:30,040 --> 00:40:33,160
+an individual ultrasound neuromodulation study. I don't know that we need to know the
+
+944
+00:40:33,200 --> 00:40:35,780
+pressure in the brain, but we need to know it's safe.
+
+945
+00:40:36,000 --> 00:40:38,960
+We need to know-- I think it's important to know more or less where
+
+946
+00:40:39,020 --> 00:40:41,840
+it is. Um, these things seem very important.
+
+947
+00:40:42,100 --> 00:40:42,600
+Um-
+
+948
+00:40:42,120 --> 00:40:44,900
+Elly Martin: But, but I think to know that it's safe, then we-- You know, if
+
+949
+00:40:44,940 --> 00:40:46,720
+you want, if you want to know that it's safe, then we do need
+
+950
+00:40:46,780 --> 00:40:49,700
+a, a good idea of what the pressure is so that we know that
+
+951
+00:40:49,720 --> 00:40:50,220
+we're sure.
+
+952
+00:40:50,900 --> 00:40:51,400
+Charles Caskey: Yeah.
+
+953
+00:40:50,920 --> 00:40:54,120
+Elly Martin: And then I, I think for optimizing and knowing, I guess at the moment
+
+954
+00:40:54,140 --> 00:40:57,980
+we don't know what the threshold for effect is, and having more information about
+
+955
+00:40:58,020 --> 00:41:00,120
+that is only gonna help in, in my eyes.
+
+956
+00:41:00,180 --> 00:41:01,020
+So if we have better- Mm ...
+
+957
+00:41:01,040 --> 00:41:07,200
+information about what the exposure was in each person's brain, then surely that's useful.
+
+958
+00:41:07,620 --> 00:41:08,120
+Charles Caskey: Yeah.
+
+959
+00:41:07,840 --> 00:41:08,340
+Elly Martin: Um...
+
+960
+00:41:10,100 --> 00:41:13,880
+Charles Caskey: Yeah. So there's the safety argument, then there's the-- And then even the prec--
+
+961
+00:41:14,000 --> 00:41:17,040
+There's a component of the precision comes in here to me, 'cause if you
+
+962
+00:41:17,120 --> 00:41:22,940
+have a large focus, let's say you're, you're hitting five brain regions, um, all
+
+963
+00:41:22,980 --> 00:41:26,580
+at once, and though you may be able to elicit an effect, how will
+
+964
+00:41:26,620 --> 00:41:27,700
+you ever know, like, which one of- Mm-hmm ...
+
+965
+00:41:27,720 --> 00:41:31,200
+those brain regions was the, was the important one if you never, if you
+
+966
+00:41:31,220 --> 00:41:33,320
+weren't able to test them individually?
+
+967
+00:41:33,360 --> 00:41:36,140
+And you may not need to do that in order to have a successful
+
+968
+00:41:36,160 --> 00:41:41,240
+therapy. But I think it w- it, it bolsters your ability to, to, um,
+
+969
+00:41:41,380 --> 00:41:47,580
+either sell or justify, uh, a specific neuromodulation protocol if you have
+
+970
+00:41:47,640 --> 00:41:51,220
+some sort of mechanism and a clear, clear node of a brain network that
+
+971
+00:41:51,240 --> 00:41:55,880
+you're sonicating. And I think it helps with refining hypotheses and stuff.
+
+972
+00:41:56,160 --> 00:42:00,200
+Um, but I, I do-- You know, it does seem like the, yeah, the,
+
+973
+00:42:00,480 --> 00:42:04,820
+the use of MR for routine, uh, I just, uh, yeah, it's, it's such
+
+974
+00:42:04,880 --> 00:42:09,220
+a, such a barrier to get over, um, that, you know, just in the,
+
+975
+00:42:09,360 --> 00:42:12,480
+the deployment of the tool that it's, it is-- I tend to agree, even
+
+976
+00:42:12,500 --> 00:42:15,120
+though I, I love what the MR-- It's-- I mean, is it true?
+
+977
+00:42:15,420 --> 00:42:17,040
+I mean, do, do-- What do people think of this statement?
+
+978
+00:42:17,820 --> 00:42:23,680
+The only way we can estimate the pressure inside of a human brain is
+
+979
+00:42:23,720 --> 00:42:25,360
+with MR. Is that the only way we can do it?
+
+980
+00:42:25,420 --> 00:42:27,360
+Keith Murphy: No. I think it's gonna be solved acoustically.
+
+981
+00:42:27,540 --> 00:42:29,440
+I just thought Elly would do that by now.
+
+982
+00:42:29,640 --> 00:42:30,140
+So, Elly-
+
+983
+00:42:30,180 --> 00:42:31,800
+Elly Martin: I'm sorry. Sorry. [chuckles]
+
+984
+00:42:31,840 --> 00:42:33,200
+Keith Murphy: Can you speed it up a little bit?
+
+985
+00:42:33,240 --> 00:42:33,740
+We're waiting.
+
+986
+00:42:33,780 --> 00:42:34,280
+Elly Martin: Okay.
+
+987
+00:42:34,180 --> 00:42:37,740
+Keith Murphy: Do you think we can do it acoustically, measuring one side, what comes out?
+
+988
+00:42:38,280 --> 00:42:38,780
+Elly Martin: Oh.
+
+989
+00:42:38,320 --> 00:42:44,270
+Keith Murphy: I mean, Jan, Jan Kubanek claims the- You know, I think the math doesn't
+
+990
+00:42:44,490 --> 00:42:46,910
+fully shake out if you look really close.
+
+991
+00:42:46,990 --> 00:42:50,090
+But, you know, his, his patent and his work says that if you transmit
+
+992
+00:42:50,110 --> 00:42:53,010
+on one side and listen on the other, you can back out how much
+
+993
+00:42:53,130 --> 00:42:55,770
+loss happened and then estimate what happened at the focus.
+
+994
+00:42:56,390 --> 00:42:58,530
+I don't know that that's been validated by him yet.
+
+995
+00:42:58,710 --> 00:43:00,190
+It's just more of a hypothetical.
+
+996
+00:43:01,670 --> 00:43:02,410
+Elly Martin: I mean, I, I guess-
+
+997
+00:43:02,570 --> 00:43:04,110
+Keith Murphy: You guys have seen that paper, of course.
+
+998
+00:43:04,290 --> 00:43:04,790
+Yeah.
+
+999
+00:43:04,950 --> 00:43:05,450
+Elly Martin: Yeah.
+
+1000
+00:43:05,410 --> 00:43:06,570
+Keith Murphy: You guys both look like you don't know what I'm talking about.
+
+1001
+00:43:06,590 --> 00:43:08,010
+Elly Martin: Yeah. No, no, no, I know, I know what you're talking about.
+
+1002
+00:43:08,070 --> 00:43:09,590
+I'm, I'm-- That was my thinking face.
+
+1003
+00:43:09,690 --> 00:43:10,190
+[laughs]
+
+1004
+00:43:10,050 --> 00:43:11,750
+Charles Caskey: I'm just debating what to say.
+
+1005
+00:43:11,830 --> 00:43:12,590
+I don't, I don't... [laughs]
+
+1006
+00:43:12,750 --> 00:43:16,210
+Keith Murphy: Oh, okay. No, Jan would be okay with us debating his tech.
+
+1007
+00:43:16,330 --> 00:43:19,090
+I think it's really amazing. I just don't know if-- I can't remember if
+
+1008
+00:43:19,130 --> 00:43:19,730
+it's validated.
+
+1009
+00:43:19,950 --> 00:43:22,510
+Elly Martin: But I, I think if you had all the information, it should work.
+
+1010
+00:43:22,830 --> 00:43:26,270
+Charles Caskey: It's, it's how determined is that system, and it, it's quite underdetermined.
+
+1011
+00:43:26,530 --> 00:43:30,630
+Um, but it-- Yeah. As far as I can tell, I'll, I'll share-- Yeah,
+
+1012
+00:43:30,690 --> 00:43:32,690
+I mean, this is, this is in review, I think.
+
+1013
+00:43:32,770 --> 00:43:36,770
+So the, we-- Yeah, we, we looked at that closely, um, and, or used,
+
+1014
+00:43:36,850 --> 00:43:42,390
+used k-Wave, and it, it seems to-- There-- It definitely can help.
+
+1015
+00:43:42,430 --> 00:43:45,990
+I mean, there's-- I think the acoustic solution is, is, uh, definitely a potential,
+
+1016
+00:43:46,690 --> 00:43:51,490
+uh, good direction. Um, it seems like you can restore-- You can get a
+
+1017
+00:43:51,530 --> 00:43:55,490
+good sense of the attenuation. The location of the focus seems to be harder,
+
+1018
+00:43:55,830 --> 00:43:56,330
+uh, to-
+
+1019
+00:43:56,350 --> 00:43:56,850
+Elly Martin: Mm.
+
+1020
+00:43:56,430 --> 00:44:00,890
+Charles Caskey: ... to determine with, uh, at least with how we simulated it and did
+
+1021
+00:44:00,950 --> 00:44:02,210
+a few things in a water bath.
+
+1022
+00:44:02,770 --> 00:44:03,270
+Um-
+
+1023
+00:44:03,010 --> 00:44:03,510
+Keith Murphy: Mm-hmm.
+
+1024
+00:44:03,470 --> 00:44:05,750
+Charles Caskey: So that's a little, little preview to something.
+
+1025
+00:44:05,810 --> 00:44:06,910
+Maybe it'll never get published-
+
+1026
+00:44:06,910 --> 00:44:07,410
+Keith Murphy: Nice
+
+1027
+00:44:06,950 --> 00:44:08,050
+Charles Caskey: ... because the reviewers won't like it.
+
+1028
+00:44:08,070 --> 00:44:09,310
+But they didn't like it. [laughs]
+
+1029
+00:44:09,350 --> 00:44:12,750
+Keith Murphy: God, those reviewers. [laughs]
+
+1030
+00:44:12,810 --> 00:44:13,310
+Charles Caskey: I mean-
+
+1031
+00:44:12,990 --> 00:44:13,810
+Keith Murphy: You know what's funny about reviewers?
+
+1032
+00:44:13,810 --> 00:44:14,310
+Like-
+
+1033
+00:44:13,830 --> 00:44:15,910
+Charles Caskey: ... they're just, they're just trying to get us to do things at quality.
+
+1034
+00:44:15,950 --> 00:44:17,750
+You know, there, there's nothing... [laughs]
+
+1035
+00:44:17,790 --> 00:44:21,030
+Keith Murphy: We, we've all like-- We've all been reviewers at some point, and somebody has
+
+1036
+00:44:21,070 --> 00:44:25,030
+been angry at us. But there's still this sort of funny community vibe that
+
+1037
+00:44:25,150 --> 00:44:29,510
+everyone, including those who have reviewed, can complain about reviewers.
+
+1038
+00:44:29,990 --> 00:44:32,410
+It's open, [chuckles] you know, it's open season on reviewers.
+
+1039
+00:44:32,450 --> 00:44:33,950
+Elly Martin: We're all just complaining about each other basically.
+
+1040
+00:44:33,950 --> 00:44:36,410
+Charles Caskey: We're all complaining about reviewers. [laughs]
+
+1041
+00:44:36,450 --> 00:44:38,470
+Keith Murphy: Yeah, it's a cycle. It's the cycle of life.
+
+1042
+00:44:38,470 --> 00:44:39,490
+[laughs]
+
+1043
+00:44:39,570 --> 00:44:43,270
+Charles Caskey: Yeah, yeah. Yeah, yeah, some- s- it's, it's the idea-- It's-- Was it Lucinda
+
+1044
+00:44:43,310 --> 00:44:44,610
+Williams? I can't even remember the song.
+
+1045
+00:44:44,630 --> 00:44:46,930
+Like, sometimes you're the bug, sometimes you're the windshield.
+
+1046
+00:44:47,470 --> 00:44:50,150
+Uh, that's how I feel like with the, with reviewers sometimes.
+
+1047
+00:44:50,290 --> 00:44:50,790
+[laughs]
+
+1048
+00:44:50,510 --> 00:44:51,410
+Keith Murphy: Oh, that is a good metaphor.
+
+1049
+00:44:51,570 --> 00:44:52,070
+Elly Martin: It really is.
+
+1050
+00:44:52,250 --> 00:44:53,650
+Charles Caskey: Yeah. I mean, I didn't make the metaphor.
+
+1051
+00:44:53,990 --> 00:44:54,990
+It's just this comes from classic country music.
+
+1052
+00:44:54,990 --> 00:44:56,770
+Keith Murphy: I play the bug more often than the windshield.
+
+1053
+00:44:56,770 --> 00:44:57,270
+[laughs]
+
+1054
+00:44:57,290 --> 00:45:00,690
+Charles Caskey: Uh, yeah, I mean, you, you feel-- you remember the, the bug experience a
+
+1055
+00:45:00,730 --> 00:45:02,150
+lot more [laughs] than you think.
+
+1056
+00:45:02,230 --> 00:45:08,410
+Keith Murphy: For sure. Um, Elly, I, I always appreciated and referred people to your work
+
+1057
+00:45:08,630 --> 00:45:13,490
+on-- Actually, okay, so young, young folks who don't have access to laboratories and
+
+1058
+00:45:13,530 --> 00:45:15,530
+ultrasound equipment, they say, "Well, what can I do?
+
+1059
+00:45:15,630 --> 00:45:19,790
+How can I get involved?" And I say, "Well, read Elly Martin's work," where
+
+1060
+00:45:20,570 --> 00:45:26,170
+she-- She's laughing. Where, um, she sort of exhaustively goes through the features of
+
+1061
+00:45:26,210 --> 00:45:30,630
+an acoustic simulation and changes them and asks the question: How does this affect
+
+1062
+00:45:30,670 --> 00:45:36,930
+the accuracy of my prediction? And if people were given open source data,
+
+1063
+00:45:37,130 --> 00:45:42,350
+so what are the properties and what are the, uh, measurements that were made
+
+1064
+00:45:42,450 --> 00:45:46,790
+through a skull, then they can go and explore how simulation parameters affect this
+
+1065
+00:45:46,850 --> 00:45:51,070
+outcome. Can you talk a little bit about parameters that you've worked on and
+
+1066
+00:45:51,130 --> 00:45:53,330
+how they affect the accuracy of simulation?
+
+1067
+00:45:53,870 --> 00:45:57,150
+And then if you can make general recommendations, I'm asking a lot here, give
+
+1068
+00:45:57,190 --> 00:46:01,530
+it-- give it your best shot, recommendations about what people should do in practice,
+
+1069
+00:46:01,630 --> 00:46:06,010
+to your knowledge, and then how people could get involved and try to work
+
+1070
+00:46:06,070 --> 00:46:06,810
+on this problem.
+
+1071
+00:46:07,310 --> 00:46:07,810
+Elly Martin: Um-
+
+1072
+00:46:08,110 --> 00:46:08,610
+Keith Murphy: Go.
+
+1073
+00:46:08,250 --> 00:46:09,570
+Elly Martin: Yeah. Okay. That's a lot of things.
+
+1074
+00:46:09,590 --> 00:46:10,290
+You might have to remind me.
+
+1075
+00:46:10,290 --> 00:46:14,110
+[laughs] Um, but yeah, I think, I think the, the important thing is first,
+
+1076
+00:46:14,270 --> 00:46:16,890
+like the first thing to do when you're setting up a simulation is to,
+
+1077
+00:46:17,150 --> 00:46:19,650
+to basically do some convergence testing.
+
+1078
+00:46:20,150 --> 00:46:22,610
+So you need to check that the, the way that you set up your
+
+1079
+00:46:22,650 --> 00:46:25,170
+simulation doesn't affect the output of your simulation.
+
+1080
+00:46:25,750 --> 00:46:28,930
+And you could, um-- I think it's best to do that under the kind
+
+1081
+00:46:28,990 --> 00:46:32,450
+of conditions that are as demanding as the final thing that you want to
+
+1082
+00:46:32,790 --> 00:46:37,390
+simulate. So you-- maybe you start off by just simulating a bowl source in
+
+1083
+00:46:37,410 --> 00:46:40,090
+water, for example. So you make sure that your- Yeah ...
+
+1084
+00:46:40,110 --> 00:46:43,350
+the spatial step size and the temporal step size is small enough, and you
+
+1085
+00:46:43,390 --> 00:46:46,710
+keep making it smaller, and then you run the simulation again until there's no
+
+1086
+00:46:46,750 --> 00:46:50,230
+change in the output, so in like the peak pressure or its location or
+
+1087
+00:46:50,290 --> 00:46:51,010
+something like that.
+
+1088
+00:46:51,370 --> 00:46:53,370
+Keith Murphy: They call that convergence, simulation convergence-
+
+1089
+00:46:53,490 --> 00:46:53,990
+Elly Martin: Yeah
+
+1090
+00:46:53,590 --> 00:46:54,090
+Keith Murphy: ... or something?
+
+1091
+00:46:54,190 --> 00:46:58,570
+Elly Martin: Yeah. So con-convergence testing, basically. And you, you can actually do the same thing.
+
+1092
+00:46:58,630 --> 00:47:00,750
+I-- We do it sometimes in our experimental work.
+
+1093
+00:47:00,930 --> 00:47:04,050
+So you kind of do a kind of experimental convergence test as well, and
+
+1094
+00:47:04,090 --> 00:47:07,050
+make sure that if you change something about the experiment, that doesn't change the
+
+1095
+00:47:07,090 --> 00:47:10,750
+result that you get. Um, so I think this is really the, uh, a
+
+1096
+00:47:10,790 --> 00:47:12,630
+really important thing to start with.
+
+1097
+00:47:13,310 --> 00:47:15,670
+And then that's kind of-- I guess you could choose a set of parameters,
+
+1098
+00:47:15,710 --> 00:47:17,890
+and you just keep running that without changing anything else.
+
+1099
+00:47:18,310 --> 00:47:21,810
+And then that tells you whether your, yeah, your simulation is sort of set
+
+1100
+00:47:21,870 --> 00:47:25,430
+up correctly. But then you kind of wanna compare to something.
+
+1101
+00:47:26,490 --> 00:47:28,750
+Um, sorry, Charles, were you gonna say something?
+
+1102
+00:47:29,950 --> 00:47:33,830
+Charles Caskey: Oh, no. I was just trying to [clears throat] make sure, so the, that I
+
+1103
+00:47:33,850 --> 00:47:40,050
+understood and that the-- and just maybe explain, um, convergence testing is like
+
+1104
+00:47:40,090 --> 00:47:43,590
+the idea of changing the grid size of your simulation, but-- or at least
+
+1105
+00:47:43,630 --> 00:47:47,670
+that's one version of it. Um, you mentioned experimental convergence testing.
+
+1106
+00:47:47,950 --> 00:47:51,150
+Would this be like changing the skull if you were to, say, transmitting through
+
+1107
+00:47:51,170 --> 00:47:53,470
+the skull? Or would this be-- What would this be?
+
+1108
+00:47:53,550 --> 00:47:57,510
+You're changing- Um- ... the size of your elements on a, a transducer once
+
+1109
+00:47:57,550 --> 00:47:59,290
+you've converged in the simulation space?
+
+1110
+00:47:59,330 --> 00:47:59,830
+Is it-
+
+1111
+00:47:59,430 --> 00:48:00,490
+Elly Martin: I, I guess less in that-
+
+1112
+00:48:00,670 --> 00:48:01,170
+Charles Caskey: Yeah. I'm curious what a-
+
+1113
+00:48:00,770 --> 00:48:02,610
+Elly Martin: ... respect. Yeah. Sorry for throwing that in there.
+
+1114
+00:48:03,190 --> 00:48:06,350
+Um, I, I guess there is some experiment-- Maybe not so much when you're
+
+1115
+00:48:06,390 --> 00:48:09,630
+making a measurement of a, you know, you have one transducer and you have
+
+1116
+00:48:09,650 --> 00:48:15,250
+one skull perhaps. Um, but then perhaps thinking about how big your measurement is,
+
+1117
+00:48:15,290 --> 00:48:19,110
+like how many points you measure and the, the step size and what it
+
+1118
+00:48:19,170 --> 00:48:22,030
+is exactly you capture in the waveform and all of those things is important.
+
+1119
+00:48:22,290 --> 00:48:25,130
+Um, but I think this is also really important when you're measuring the properties
+
+1120
+00:48:25,170 --> 00:48:27,510
+of materials, and that's kind of why it's in my head a bit, 'cause
+
+1121
+00:48:27,970 --> 00:48:31,070
+we've been doing that, and it's sort of, you know, what was the output
+
+1122
+00:48:31,110 --> 00:48:34,850
+of your transducer? Where did you put the sensor to make the measurement?
+
+1123
+00:48:35,090 --> 00:48:36,810
+How did you make your sample?
+
+1124
+00:48:36,950 --> 00:48:37,690
+You know, these kind of things.
+
+1125
+00:48:37,750 --> 00:48:40,210
+Can you do it in multiple slightly different ways and check that you still
+
+1126
+00:48:40,250 --> 00:48:41,050
+get the same answer?
+
+1127
+00:48:41,670 --> 00:48:42,810
+Charles Caskey: And do you get the same answer?
+
+1128
+00:48:42,870 --> 00:48:44,790
+Like if you-- Did you get the same speed of sound- Yeah ...
+
+1129
+00:48:44,810 --> 00:48:47,830
+or do, or, or is the speed of sound dependent on like how far
+
+1130
+00:48:47,890 --> 00:48:48,970
+away you were? 'Cause that's not good.
+
+1131
+00:48:49,010 --> 00:48:51,330
+Elly Martin: Yeah, exactly. Like all- [laughs] Yeah, all of those kind of things.
+
+1132
+00:48:51,350 --> 00:48:51,850
+Charles Caskey: Got it.
+
+1133
+00:48:51,370 --> 00:48:53,850
+Elly Martin: And then you might, yeah, you might pick up some effects where you've got
+
+1134
+00:48:53,910 --> 00:48:59,770
+some unintended effect of non-linearity or waveform distortion, which is clouding your ability to
+
+1135
+00:48:59,810 --> 00:49:03,210
+be able to extract the parameter that you wanted and, um, those kind of
+
+1136
+00:49:03,250 --> 00:49:07,370
+things. Um, so yes, I think that's really important in both of those contexts.
+
+1137
+00:49:07,430 --> 00:49:11,870
+But yeah, definitely for, for modeling, convergence testing is really important.
+
+1138
+00:49:11,930 --> 00:49:15,370
+And then I think also kind of benchmarking against something else.
+
+1139
+00:49:15,430 --> 00:49:19,710
+So even if it's a simple kind of focused bowl transducer, there are analytical
+
+1140
+00:49:19,790 --> 00:49:22,830
+solutions that you can compare against to make sure, you know, you're getting the
+
+1141
+00:49:22,890 --> 00:49:24,610
+same thing. Um-
+
+1142
+00:49:25,130 --> 00:49:28,270
+Charles Caskey: Yeah. I always like that in y'all's papers where, yeah, you'll have a, you'll
+
+1143
+00:49:28,330 --> 00:49:31,790
+have, like, the, the physics solution, and then it'll be, then it, then it'll
+
+1144
+00:49:31,810 --> 00:49:34,250
+be the, the simulated solution, and then it's the measurement.
+
+1145
+00:49:34,310 --> 00:49:37,730
+It's, it, it leaves me with, like, a sense of completeness, like, [chuckles] when
+
+1146
+00:49:37,790 --> 00:49:40,530
+I read those. Like, like no stone's left unturned.
+
+1147
+00:49:40,570 --> 00:49:42,410
+Keith Murphy: Like a hot chocolate in front of a fire.
+
+1148
+00:49:42,530 --> 00:49:43,070
+[laughs]
+
+1149
+00:49:43,210 --> 00:49:44,330
+Charles Caskey: Yeah, yeah, yeah, yeah. Exactly.
+
+1150
+00:49:44,330 --> 00:49:44,830
+Elly Martin: It's, like, comforting.
+
+1151
+00:49:44,690 --> 00:49:45,750
+Charles Caskey: Exactly. In the middle of winter.
+
+1152
+00:49:45,770 --> 00:49:48,670
+[laughs] It's very comforting. Yeah, yeah.
+
+1153
+00:49:48,710 --> 00:49:52,650
+It's like you think, yeah, you think that, like, standards and stuff is, like,
+
+1154
+00:49:52,810 --> 00:49:55,910
+cold and, uh, but for me, it gives me, like, comfort.
+
+1155
+00:49:55,930 --> 00:49:56,750
+[laughs] It's like-
+
+1156
+00:49:56,970 --> 00:49:59,790
+Keith Murphy: Yeah. Whenever I read a Martin paper, I crack open a cocoa.
+
+1157
+00:49:59,790 --> 00:50:00,550
+[laughs]
+
+1158
+00:50:00,610 --> 00:50:03,130
+Charles Caskey: Yeah, yeah. That's it. [laughs]
+
+1159
+00:50:03,190 --> 00:50:05,370
+Keith Murphy: Can't, can't read a Martin paper without a cocoa.
+
+1160
+00:50:06,270 --> 00:50:11,810
+Um, Elly, Elly, what, uh... Well, I just wanted to comment that standing waves
+
+1161
+00:50:11,830 --> 00:50:14,270
+are a son of a bitch when it comes to these measurements.
+
+1162
+00:50:14,590 --> 00:50:17,150
+I don't know if you've been fighting those things in your journey.
+
+1163
+00:50:17,610 --> 00:50:22,750
+Elly Martin: Yeah. I mean, this is actually, yeah, this kind of huge extra challenge of
+
+1164
+00:50:22,790 --> 00:50:26,670
+making measurements at the kind of frequencies that we want to use for neuromodulation.
+
+1165
+00:50:27,650 --> 00:50:31,250
+Um, so I guess earlier in, yeah, before, before we started doing all this
+
+1166
+00:50:31,290 --> 00:50:35,810
+stuff, then I, I made a lot of measurements on kind of other therapy
+
+1167
+00:50:35,870 --> 00:50:40,230
+ultrasound sources or, you know, just lab-focused ultrasound sources, which were a megahertz or
+
+1168
+00:50:40,270 --> 00:50:43,950
+above. Um, and then, you know, as you go higher in frequency, you start
+
+1169
+00:50:43,970 --> 00:50:46,550
+to get more of the challenge of, like, oh, you have to s- have
+
+1170
+00:50:46,690 --> 00:50:49,690
+really small step sizes and your hydrophone is too big and all these kind
+
+1171
+00:50:49,710 --> 00:50:53,870
+of things. And then when you go to the other extreme, you're kind of
+
+1172
+00:50:53,930 --> 00:50:58,190
+fighting with the fact that your hydrophone still behaves like it's too big because
+
+1173
+00:50:58,230 --> 00:51:02,150
+it behaves like something that's much larger than its actual size at those low
+
+1174
+00:51:02,190 --> 00:51:05,930
+frequencies. And then you're kind of trying to find where do I make this
+
+1175
+00:51:05,970 --> 00:51:09,950
+measurement where I'm not-- Because the, the, the wave period is so long that
+
+1176
+00:51:09,990 --> 00:51:12,730
+even if you only have a few cycles, it's a really long pulse, but
+
+1177
+00:51:12,770 --> 00:51:16,510
+the, the distances that you're making the measurement at are still the same as
+
+1178
+00:51:16,570 --> 00:51:18,450
+if you had a higher frequency transducer often.
+
+1179
+00:51:19,050 --> 00:51:23,790
+So you're getting, you know, there's a lot of time acoustically for waves to
+
+1180
+00:51:23,810 --> 00:51:26,890
+propagate and start reflecting from transducer and hydrophone.
+
+1181
+00:51:27,570 --> 00:51:31,230
+And then even if you have only a few cycles of ring up, um,
+
+1182
+00:51:31,410 --> 00:51:35,130
+at the beginning of your pulse, that's still quite a long time at low
+
+1183
+00:51:35,190 --> 00:51:38,710
+frequency, so it starts to overlap with, you know, what would be the ideal
+
+1184
+00:51:38,770 --> 00:51:39,530
+measurement region.
+
+1185
+00:51:39,890 --> 00:51:40,390
+Charles Caskey: Mm-hmm.
+
+1186
+00:51:40,370 --> 00:51:44,030
+Keith Murphy: Yeah. I'll boil that down really quick, but, um, what you're saying is you
+
+1187
+00:51:44,070 --> 00:51:48,050
+really wanna measure one wave going from the transducer to the hydrophone, but what
+
+1188
+00:51:48,110 --> 00:51:53,150
+you end up potentially measuring is waves superimposing as they back- bounce back and
+
+1189
+00:51:53,190 --> 00:51:54,530
+forth between the two.
+
+1190
+00:51:54,650 --> 00:51:55,570
+Elly Martin: Yeah, exactly.
+
+1191
+00:51:55,830 --> 00:51:56,330
+Keith Murphy: All right.
+
+1192
+00:51:55,870 --> 00:51:59,950
+Elly Martin: Yeah, that's exactly it. So when we're just interested in how a source behaves
+
+1193
+00:52:00,050 --> 00:52:04,230
+and characterizing what comes out of it, then we try to make the measurement
+
+1194
+00:52:04,490 --> 00:52:09,850
+in free field, which means the transducer should just be radiating into water, um,
+
+1195
+00:52:10,110 --> 00:52:11,190
+with nothing in front of it.
+
+1196
+00:52:11,250 --> 00:52:12,690
+So it's not the same situation-
+
+1197
+00:52:12,730 --> 00:52:13,230
+Keith Murphy: Mm-hmm
+
+1198
+00:52:12,750 --> 00:52:13,890
+Elly Martin: ... as when you put it on a skull.
+
+1199
+00:52:14,650 --> 00:52:17,830
+Um, but the idea is we're just characterizing the behavior of the transducer, so
+
+1200
+00:52:17,870 --> 00:52:21,870
+we can use this as our baseline [clears throat] to then predict what comes next.
+
+1201
+00:52:22,170 --> 00:52:23,290
+Um, so yeah.
+
+1202
+00:52:23,430 --> 00:52:26,010
+Keith Murphy: This, this reminds me of, uh, what is it?
+
+1203
+00:52:26,110 --> 00:52:28,390
+Schlieren's cats. Who's the cat in the box?
+
+1204
+00:52:28,450 --> 00:52:28,950
+Elly Martin: True, true.
+
+1205
+00:52:28,790 --> 00:52:30,450
+Keith Murphy: The measurement itself changes.
+
+1206
+00:52:30,930 --> 00:52:31,550
+Elly Martin: You've given that-
+
+1207
+00:52:31,550 --> 00:52:32,050
+Charles Caskey: Schlieren's cat. [laughs]
+
+1208
+00:52:31,610 --> 00:52:35,630
+Elly Martin: ... you've given that, like, an ultrasound twist by throwing Schlieren in there instead.
+
+1209
+00:52:35,630 --> 00:52:37,670
+Charles Caskey: I like that. Yeah, yeah. It's the Schlieren cat.
+
+1210
+00:52:37,770 --> 00:52:38,610
+Keith Murphy: Oh, the Schlieren cat.
+
+1211
+00:52:39,470 --> 00:52:41,410
+Charles Caskey: It's to- yeah. You, you ne- Yeah.
+
+1212
+00:52:41,470 --> 00:52:45,150
+Is the waveform the same with the reflections or without it?
+
+1213
+00:52:45,150 --> 00:52:45,650
+[laughs]
+
+1214
+00:52:45,210 --> 00:52:45,710
+Elly Martin: Yeah.
+
+1215
+00:52:45,590 --> 00:52:47,070
+Charles Caskey: You'll never know 'cause you can never get rid of the reflection.
+
+1216
+00:52:47,090 --> 00:52:47,950
+Keith Murphy: There is a good point.
+
+1217
+00:52:48,010 --> 00:52:48,610
+Elly Martin: It's the same. It's the same.
+
+1218
+00:52:48,630 --> 00:52:49,490
+Keith Murphy: drawn in. Good point.
+
+1219
+00:52:49,810 --> 00:52:53,690
+Elly Martin: But this is the principle that we're working with, this, yeah, the uncertainty principle.
+
+1220
+00:52:53,830 --> 00:52:56,510
+It's like it's there. Yeah. Um-
+
+1221
+00:52:56,890 --> 00:52:57,670
+Keith Murphy: Yeah. It's a beast.
+
+1222
+00:52:57,710 --> 00:52:58,210
+Charles Caskey: Yeah.
+
+1223
+00:52:57,750 --> 00:53:01,370
+Keith Murphy: It's a beast. Thank, thank God you're, uh, you're around in the field, Elly,
+
+1224
+00:53:01,410 --> 00:53:04,530
+and don't ever leave it. You sometimes freak us out saying that stuff.
+
+1225
+00:53:05,730 --> 00:53:06,230
+Um-
+
+1226
+00:53:05,870 --> 00:53:07,310
+Charles Caskey: Oh, gosh. What would we do?
+
+1227
+00:53:07,550 --> 00:53:08,110
+[laughs]
+
+1228
+00:53:08,190 --> 00:53:08,690
+Keith Murphy: I have no idea.
+
+1229
+00:53:08,630 --> 00:53:10,710
+Elly Martin: Well, I'm not going anywhere. I think it was your idea that I become
+
+1230
+00:53:10,730 --> 00:53:13,790
+a neuroscientist, not mine. Or, Brett, what, what was it that you were telling
+
+1231
+00:53:13,810 --> 00:53:15,510
+me? Yeah, that I should try s- s- Oh, uh-
+
+1232
+00:53:15,510 --> 00:53:17,610
+Keith Murphy: ... something. I guess you were not saying you were gonna, like, move out
+
+1233
+00:53:17,650 --> 00:53:20,350
+of neuromod. You were just saying, "How much do I go in on the
+
+1234
+00:53:20,390 --> 00:53:22,350
+neuroscience?" And I say all the way in.
+
+1235
+00:53:22,390 --> 00:53:22,890
+Elly Martin: Okay.
+
+1236
+00:53:23,150 --> 00:53:23,650
+Charles Caskey: All the way.
+
+1237
+00:53:23,910 --> 00:53:24,950
+Elly Martin: Well, I'm reading that book now-
+
+1238
+00:53:25,270 --> 00:53:25,770
+Charles Caskey: Oh
+
+1239
+00:53:25,370 --> 00:53:26,450
+Elly Martin: ... that you recommended, so.
+
+1240
+00:53:26,850 --> 00:53:27,350
+Charles Caskey: Oh.
+
+1241
+00:53:27,050 --> 00:53:27,550
+Elly Martin: About the-
+
+1242
+00:53:27,510 --> 00:53:28,010
+Keith Murphy: Oh, yeah? How's it going?
+
+1243
+00:53:27,930 --> 00:53:31,690
+Elly Martin: ... the discovery of genetics and, um, behavior and all these kind of things.
+
+1244
+00:53:31,830 --> 00:53:32,370
+Really interesting.
+
+1245
+00:53:33,290 --> 00:53:36,210
+Charles Caskey: Oh, man. Maybe I need to add this to my Christmas list.
+
+1246
+00:53:36,210 --> 00:53:39,530
+Keith Murphy: There's this guy, Charles... Yeah. I have actually some of his old test tube
+
+1247
+00:53:39,610 --> 00:53:44,150
+racks 'cause I was in his, uh, I guess, like, scientific grandson's lab.
+
+1248
+00:53:44,170 --> 00:53:44,710
+But there was this guy-
+
+1249
+00:53:44,750 --> 00:53:45,250
+Charles Caskey: Oh, cool
+
+1250
+00:53:44,790 --> 00:53:49,370
+Keith Murphy: ... Seymour Benzer at Caltech, and he started out as, like, a-- Well, actually,
+
+1251
+00:53:49,470 --> 00:53:52,650
+Elly, now you know, he was, like, a radiology physicist, right?
+
+1252
+00:53:52,830 --> 00:53:55,090
+Elly Martin: Yeah. Now I'm gonna be like, "Oh, God, I read the book, but I've
+
+1253
+00:53:55,130 --> 00:53:57,130
+already forgotten what it said." Um-
+
+1254
+00:53:57,330 --> 00:53:58,030
+Keith Murphy: Ah, it happens
+
+1255
+00:53:58,050 --> 00:54:00,190
+Elly Martin: ... yeah. So yeah. Well, I think around that time, there were a lot
+
+1256
+00:54:00,230 --> 00:54:04,130
+of physicists, um, you know, working on things, and then I think they st-
+
+1257
+00:54:04,270 --> 00:54:06,350
+they started to get to a time where more and more things were being
+
+1258
+00:54:06,390 --> 00:54:08,950
+discovered, and some of them started to think, "Oh, we've solved physics.
+
+1259
+00:54:09,230 --> 00:54:10,230
+Um, what else can we do?"
+
+1260
+00:54:10,630 --> 00:54:13,270
+Uh, which obviously wasn't true. [laughs] Uh, but I guess there'd been a lot
+
+1261
+00:54:13,310 --> 00:54:16,690
+of big things. This is kind of going, I guess, spanning over quite a
+
+1262
+00:54:16,730 --> 00:54:19,530
+long time with different people at different points.
+
+1263
+00:54:20,270 --> 00:54:22,590
+Um, but yeah, I guess if you put it in the context of, like,
+
+1264
+00:54:22,650 --> 00:54:25,530
+the Manhattan Project and things like that, and then people were thinking, "What can
+
+1265
+00:54:25,590 --> 00:54:30,410
+I do?" Um, and then, yeah, so, so it's quite a few physicists started
+
+1266
+00:54:30,450 --> 00:54:36,130
+to, to get interested in, uh, genetics and, like, how you map the structure
+
+1267
+00:54:36,170 --> 00:54:39,950
+of, yeah, genes and things like that, um, and saw that it was a
+
+1268
+00:54:39,990 --> 00:54:42,390
+kind of similar problem that you could unpick like that.
+
+1269
+00:54:42,790 --> 00:54:43,290
+Um.
+
+1270
+00:54:44,190 --> 00:54:49,050
+Keith Murphy: Yeah. He used, um, originally, he used, I guess, DNA to, like, ionize the
+
+1271
+00:54:49,110 --> 00:54:50,310
+radiation to mutate-
+
+1272
+00:54:50,710 --> 00:54:51,210
+Elly Martin: Hmm
+
+1273
+00:54:50,970 --> 00:54:55,070
+Keith Murphy: ... you know, at random. If you expose fruit flies to this ionizing radiation,
+
+1274
+00:54:55,150 --> 00:54:57,490
+you'll get single gene mutations occasionally.
+
+1275
+00:54:57,970 --> 00:55:00,210
+And he would do mass screen experiments.
+
+1276
+00:55:00,230 --> 00:55:03,050
+He inspired a lot of my work when I was a grad student.
+
+1277
+00:55:03,170 --> 00:55:08,810
+But these mass screening experiments looking for disruption in simple behaviors, like attraction to
+
+1278
+00:55:08,910 --> 00:55:14,300
+light A, a fruit fly will walk towards light and, and that's a behavior.
+
+1279
+00:55:14,340 --> 00:55:19,420
+And the question at the time was, are there genes that underlie behavior?
+
+1280
+00:55:19,560 --> 00:55:23,840
+And actually, this sounds ridiculous. At the time, people often said, "No, you know,
+
+1281
+00:55:23,940 --> 00:55:26,340
+behavior is a learned thing. It has nothing to do with genes."
+
+1282
+00:55:26,840 --> 00:55:30,620
+So he was the first person to show that, and he used light attraction
+
+1283
+00:55:30,640 --> 00:55:35,140
+and circadian rhythm, the period gene, he knocked it out, and animals no longer
+
+1284
+00:55:35,720 --> 00:55:38,140
+sort of had this daily oscillation in their activity.
+
+1285
+00:55:38,860 --> 00:55:41,860
+So it just reminded me of Elly a lot.
+
+1286
+00:55:42,300 --> 00:55:44,540
+I mean, just so brilliant. Yeah.
+
+1287
+00:55:44,660 --> 00:55:45,980
+I mean, you're laughing, but it's true.
+
+1288
+00:55:46,040 --> 00:55:49,600
+Like, brilliant physicist and sort of so careful about measurement.
+
+1289
+00:55:49,720 --> 00:55:53,820
+And in neuroscience, we just have a lot of kookadillas like myself, and I
+
+1290
+00:55:53,840 --> 00:55:58,480
+think we need more s- more genius like you to come in and think
+
+1291
+00:55:58,520 --> 00:56:02,180
+about the problem from a, I don't know, more of a first principles like
+
+1292
+00:56:02,420 --> 00:56:05,900
+stance. And, and I-- that's what he did for genetics and behavior, so.
+
+1293
+00:56:06,160 --> 00:56:07,000
+Elly Martin: I think it, it's super f-
+
+1294
+00:56:07,120 --> 00:56:09,880
+Keith Murphy: You feel, do you feel closer to him now or after reading the book,
+
+1295
+00:56:09,960 --> 00:56:10,620
+you feel more like-
+
+1296
+00:56:10,640 --> 00:56:11,540
+Elly Martin: I feel like, I mean, I'm still only-
+
+1297
+00:56:11,540 --> 00:56:12,040
+Keith Murphy: ...more like him now?
+
+1298
+00:56:11,720 --> 00:56:12,880
+Elly Martin: ... like a third of the way through.
+
+1299
+00:56:12,940 --> 00:56:17,800
+I'm trying. But, um, yeah, no, I, I think it really made me think
+
+1300
+00:56:17,880 --> 00:56:21,820
+actually, because a lot of the time, like I have previously worked on, um,
+
+1301
+00:56:22,300 --> 00:56:26,820
+some research that involved tissues and cells and, um, you know, and we've come
+
+1302
+00:56:26,860 --> 00:56:30,300
+back around to doing that again now with the, the cryo warming stuff.
+
+1303
+00:56:30,640 --> 00:56:33,780
+Um, but in, you know, in, in this sort of iteration of it, we've
+
+1304
+00:56:33,800 --> 00:56:36,720
+really worked with collaborators who've just taken care of that because it's what they
+
+1305
+00:56:36,760 --> 00:56:42,120
+do. Um, and it-- I, I think some of those experiences when you don't
+
+1306
+00:56:42,160 --> 00:56:44,600
+have the right team around you made me think, I don't-- this is very
+
+1307
+00:56:44,640 --> 00:56:46,140
+uncertain, and I don't really like it.
+
+1308
+00:56:46,220 --> 00:56:48,420
+I like-- It's why I like doing measurements- [laughs] ...
+
+1309
+00:56:48,440 --> 00:56:51,460
+that I can, you know, there's still uncertainty, obviously, but you can go in
+
+1310
+00:56:51,480 --> 00:56:54,240
+the lab and you can measure something and it will be the same, um,
+
+1311
+00:56:54,500 --> 00:56:56,800
+you know, more or less every time you do it, and it's a well-controlled
+
+1312
+00:56:56,880 --> 00:57:00,620
+system. And that's something that I like about that, is sort of understanding the
+
+1313
+00:57:00,640 --> 00:57:04,600
+details of how those things work and being able to quantify them in a,
+
+1314
+00:57:05,020 --> 00:57:09,340
+you know, when they're controlled. Um, but yeah, I think it's made me think,
+
+1315
+00:57:09,660 --> 00:57:14,800
+oh, but you can still apply that to, to other, yeah, concepts perhaps which
+
+1316
+00:57:14,820 --> 00:57:18,460
+are less, I don't know, seem a bit more diffuse or a bit more
+
+1317
+00:57:18,500 --> 00:57:21,580
+variable or less kind of intuitive to understand.
+
+1318
+00:57:21,680 --> 00:57:25,500
+So yeah, maybe it's a useful thing to think about, like what other types
+
+1319
+00:57:25,560 --> 00:57:31,400
+of scientific questions would be, um, interesting to ask and to get involved in.
+
+1320
+00:57:33,380 --> 00:57:37,520
+Charles Caskey: I feel like it's like a nice privilege of being a, uh, engineering or
+
+1321
+00:57:37,600 --> 00:57:43,860
+physicist type of researcher in a medical space and, or in the biological space
+
+1322
+00:57:43,920 --> 00:57:47,740
+like this is, is you get this privilege of kind of dabbling in multiple
+
+1323
+00:57:47,820 --> 00:57:51,680
+things and, and still applying-- I mean, that's the, that's like the s- the,
+
+1324
+00:57:51,780 --> 00:57:56,000
+the way they sold biomedical engineer as a, biomedical engineering as a, as a,
+
+1325
+00:57:56,400 --> 00:58:01,220
+you know, direction is sort of apply engineering, uh, you know, principles to these
+
+1326
+00:58:01,280 --> 00:58:04,960
+other problems. And, and it, and I think it can bring, yeah, it can
+
+1327
+00:58:04,980 --> 00:58:06,440
+bring like a fr- fresh perspective.
+
+1328
+00:58:06,480 --> 00:58:09,700
+It can bring a level of rigor sometimes where you wanna break things down
+
+1329
+00:58:09,740 --> 00:58:12,520
+to the-- I think it's in our nature, uh, by having kind of this
+
+1330
+00:58:12,560 --> 00:58:16,180
+background to like want to understand each little component and then how do they
+
+1331
+00:58:16,220 --> 00:58:16,880
+feed together.
+
+1332
+00:58:16,980 --> 00:58:17,480
+Elly Martin: Mm.
+
+1333
+00:58:17,580 --> 00:58:21,580
+Charles Caskey: Um, and so yeah, it's kind of-- And then it, yeah, gives us, I
+
+1334
+00:58:21,600 --> 00:58:25,320
+don't know, I guess it gives us, keeps us like giving new, new directions
+
+1335
+00:58:25,360 --> 00:58:30,420
+in career [chuckles] to kind of continue to reinvent ourselves or meet new people
+
+1336
+00:58:30,460 --> 00:58:32,280
+to collaborate with, learn new things.
+
+1337
+00:58:32,720 --> 00:58:33,360
+It's good, good.
+
+1338
+00:58:33,540 --> 00:58:35,560
+Elly Martin: Yeah. I think they, I mean, both of you guys do that.
+
+1339
+00:58:35,980 --> 00:58:39,060
+Like you, you know, you have this very fundamental strand to what you're doing,
+
+1340
+00:58:39,100 --> 00:58:40,840
+and then you go all the way up to the end of doing the
+
+1341
+00:58:40,900 --> 00:58:44,460
+studies with people and animals and things like that, um, which is really cool.
+
+1342
+00:58:45,880 --> 00:58:50,620
+Charles Caskey: What's one detail you wish every transcranial ultrasound paper would include?
+
+1343
+00:58:51,120 --> 00:58:52,860
+No exceptions. [chuckles]
+
+1344
+00:58:52,900 --> 00:58:53,400
+Elly Martin: Mm. Okay.
+
+1345
+00:58:53,360 --> 00:58:54,560
+Keith Murphy: Mm. Minus Charles Burness.
+
+1346
+00:58:55,100 --> 00:58:58,020
+Elly Martin: Oh, that's a really hard question to answer, but can I, can I have
+
+1347
+00:58:58,060 --> 00:58:58,560
+more than one? [laughs]
+
+1348
+00:58:58,520 --> 00:58:59,200
+Charles Caskey: It's more than one.
+
+1349
+00:58:59,460 --> 00:59:02,240
+Elly Martin: Can it just be the list of parameters that we put in that paper?
+
+1350
+00:59:02,440 --> 00:59:04,060
+Just the whole list. That's one thing, right?
+
+1351
+00:59:04,120 --> 00:59:04,620
+The list.
+
+1352
+00:59:04,660 --> 00:59:06,320
+Charles Caskey: Yeah. Yeah, yeah, yeah. That's one thing.
+
+1353
+00:59:06,340 --> 00:59:06,840
+Keith Murphy: That counts.
+
+1354
+00:59:06,560 --> 00:59:10,540
+Charles Caskey: So yeah. I wish they read the standards paper and report all of that.
+
+1355
+00:59:10,600 --> 00:59:12,940
+Elly Martin: Yeah, and please be really clear, like when you say w- this is the
+
+1356
+00:59:12,980 --> 00:59:14,460
+pressure, be like, what pressure? Where?
+
+1357
+00:59:14,700 --> 00:59:15,300
+How did you get it?
+
+1358
+00:59:15,540 --> 00:59:17,160
+Charles Caskey: Oh, yeah. Is it through the skull?
+
+1359
+00:59:17,340 --> 00:59:18,840
+Is it in a water tank?
+
+1360
+00:59:18,840 --> 00:59:19,400
+[laughs] Is it-
+
+1361
+00:59:19,480 --> 00:59:21,040
+Keith Murphy: I know. It's hard to read that stuff.
+
+1362
+00:59:21,840 --> 00:59:22,980
+Elly Martin: Yeah. Yeah, yeah. That would be it.
+
+1363
+00:59:23,480 --> 00:59:28,820
+Charles Caskey: Um, okay. So [laughs] okay, so just what, what is the source of your--
+
+1364
+00:59:28,920 --> 00:59:30,740
+Yeah, yeah. Okay. How did you take your measurement?
+
+1365
+00:59:30,860 --> 00:59:31,800
+What are you even reporting? [laughs]
+
+1366
+00:59:31,820 --> 00:59:34,500
+Elly Martin: Yeah. Yeah. 'Cause I mean, yeah, I don't wanna be, you know, I'm not
+
+1367
+00:59:34,540 --> 00:59:36,760
+being down on people. Like a lot of people do this really well, but
+
+1368
+00:59:36,780 --> 00:59:41,120
+there's still a lot of papers where, um, yeah, it's not, it's not reported
+
+1369
+00:59:41,160 --> 00:59:43,360
+really well. And it-- sometimes you don't know what you don't know, I guess.
+
+1370
+00:59:43,480 --> 00:59:45,300
+But that's, I guess that's what we're trying to do-
+
+1371
+00:59:45,360 --> 00:59:45,860
+Charles Caskey: Yeah
+
+1372
+00:59:45,420 --> 00:59:48,400
+Elly Martin: ... in the ITRUSST Consortium is, is help people get past that too.
+
+1373
+00:59:49,580 --> 00:59:51,140
+Charles Caskey: Y- yeah, I think you make a good point.
+
+1374
+00:59:51,180 --> 00:59:55,220
+It's not ever meant to be like, uh, you know, some sort of p-
+
+1375
+00:59:55,480 --> 00:59:59,120
+uh, punitive, uh, thing or like punishment or be like, "You have to do
+
+1376
+00:59:59,180 --> 01:00:01,700
+this." It's more like, it's like you read a paper and you see something
+
+1377
+01:00:01,740 --> 01:00:03,460
+cool, and you're like, "Man, I wish I knew what they did."
+
+1378
+01:00:03,480 --> 01:00:03,980
+Elly Martin: Yeah.
+
+1379
+01:00:03,520 --> 01:00:05,060
+Charles Caskey: "Was this heat? Was this what?
+
+1380
+01:00:05,100 --> 01:00:05,760
+Was it like-"
+
+1381
+01:00:05,800 --> 01:00:06,620
+Elly Martin: Yeah. [laughs]
+
+1382
+01:00:06,700 --> 01:00:08,200
+Charles Caskey: "Where was the focus? What was this?"
+
+1383
+01:00:08,320 --> 01:00:12,560
+Yeah. It's, it's more just you're like, it's like probably that same, uh, drive
+
+1384
+01:00:12,580 --> 01:00:15,120
+that we're like, we're like, "I just wanna understand the parts," and this is
+
+1385
+01:00:15,180 --> 01:00:18,100
+like, seems to be a, an omission that-- And, and like you said, it's
+
+1386
+01:00:18,140 --> 01:00:19,980
+not on purpose, uh, or anything.
+
+1387
+01:00:20,020 --> 01:00:23,080
+It's just like it makes it hard to draw the conclusions you want from
+
+1388
+01:00:23,140 --> 01:00:23,640
+a study.
+
+1389
+01:00:23,440 --> 01:00:26,500
+Elly Martin: Yeah. And sometimes it, you know, it's not on purpose, but it can be
+
+1390
+01:00:26,540 --> 01:00:30,400
+misleading when people say, "Oh, this was the, the number," and then people interpret
+
+1391
+01:00:30,440 --> 01:00:32,540
+that to be something else and think, "Oh, somebody did this-
+
+1392
+01:00:32,600 --> 01:00:33,100
+Charles Caskey: Yeah
+
+1393
+01:00:32,680 --> 01:00:33,720
+Elly Martin: ... and it looks like it's safe."
+
+1394
+01:00:33,740 --> 01:00:35,040
+And you're like, "Oh, that's not what they did."
+
+1395
+01:00:35,140 --> 01:00:35,640
+So.
+
+1396
+01:00:35,340 --> 01:00:39,040
+Charles Caskey: Yeah. When, when things propagate from one paper to another or to another group
+
+1397
+01:00:39,120 --> 01:00:44,320
+and, and things are interpreted, uh, because differently because they're maybe not fully defined
+
+1398
+01:00:44,360 --> 01:00:44,960
+in one place.
+
+1399
+01:00:45,140 --> 01:00:45,640
+Elly Martin: Yeah.
+
+1400
+01:00:45,200 --> 01:00:47,160
+Charles Caskey: Yeah. It can, it can then become a safety issue.
+
+1401
+01:00:47,300 --> 01:00:47,800
+Elly Martin: Yeah.
+
+1402
+01:00:47,360 --> 01:00:49,340
+Charles Caskey: And that's something we all want to avoid.
+
+1403
+01:00:49,440 --> 01:00:50,100
+Elly Martin: Yeah, definitely.
+
+1404
+01:00:50,280 --> 01:00:50,780
+Charles Caskey: So.
+
+1405
+01:00:50,440 --> 01:00:50,940
+Elly Martin: Yeah.
+
+1406
+01:00:52,280 --> 01:00:53,600
+Charles Caskey: Yeah. So that was the only, yeah-
+
+1407
+01:00:53,700 --> 01:00:54,480
+Keith Murphy: We're doing, we're doing a good job.
+
+1408
+01:00:54,680 --> 01:00:57,580
+The field's doing a good job kind of picking, picking up the pieces.
+
+1409
+01:00:57,680 --> 01:01:01,180
+It could've gone on a long time without really good measurements and all that
+
+1410
+01:01:01,300 --> 01:01:01,800
+stuff.
+
+1411
+01:01:01,560 --> 01:01:05,470
+Charles Caskey: Y- yeah I, I, I was, those early ITRUSST meetings, I was like, "I,
+
+1412
+01:01:05,810 --> 01:01:07,630
+I'm worried that this is a waste of time."
+
+1413
+01:01:07,670 --> 01:01:09,950
+[laughs] But now I look back and I'm kind of like- Yeah ...
+
+1414
+01:01:09,970 --> 01:01:10,690
+I'm like, "Oh my gosh."
+
+1415
+01:01:10,890 --> 01:01:11,390
+Keith Murphy: There you go.
+
+1416
+01:01:11,090 --> 01:01:13,930
+Charles Caskey: I'm so, I, I became more and more interested with every meeting.
+
+1417
+01:01:14,410 --> 01:01:17,690
+Um, and but I was, at the beginning, I was like, "Oh no, this
+
+1418
+01:01:17,750 --> 01:01:20,690
+is, like, a totally intractable problem, and we're just all gonna look at each
+
+1419
+01:01:20,750 --> 01:01:22,170
+other on a Zoom call once a month."
+
+1420
+01:01:22,230 --> 01:01:22,950
+[laughs] [laughs]
+
+1421
+01:01:23,070 --> 01:01:23,570
+Elly Martin: Get nowhere.
+
+1422
+01:01:24,850 --> 01:01:25,350
+Keith Murphy: Right, right.
+
+1423
+01:01:25,250 --> 01:01:28,550
+Charles Caskey: Yeah, yeah. So now that there's some things established, I's like, I'm like, "Oh,
+
+1424
+01:01:28,750 --> 01:01:30,570
+so glad," like, that we spent time with it.
+
+1425
+01:01:30,590 --> 01:01:31,090
+Elly Martin: Yeah.
+
+1426
+01:01:30,670 --> 01:01:34,150
+Charles Caskey: And, um, and it's been, it's been getting better, and I've just gotten more
+
+1427
+01:01:34,170 --> 01:01:37,650
+and more excited as, as we [laughs] as things go, and I'm like, "I'm
+
+1428
+01:01:37,710 --> 01:01:39,650
+excited about s- standards and safety."
+
+1429
+01:01:39,850 --> 01:01:40,350
+Um-
+
+1430
+01:01:39,890 --> 01:01:42,150
+Elly Martin: Yeah. I mean, who thought you'd, anybody would ever say that?
+
+1431
+01:01:42,170 --> 01:01:43,250
+[laughs]
+
+1432
+01:01:43,270 --> 01:01:48,410
+Charles Caskey: Yeah, right? That's right. [laughs] I thought there was just Elly out there.
+
+1433
+01:01:48,410 --> 01:01:49,470
+Elly Martin: I thought, yeah, it was just me.
+
+1434
+01:01:49,810 --> 01:01:50,310
+Keith Murphy: Yeah.
+
+1435
+01:01:49,850 --> 01:01:53,750
+Elly Martin: And, and the amazing, you know, all the IEC working groups are full of
+
+1436
+01:01:53,810 --> 01:01:55,230
+people who get excited about this stuff.
+
+1437
+01:01:55,230 --> 01:01:55,730
+Charles Caskey: Yeah. [laughs]
+
+1438
+01:01:55,730 --> 01:01:56,230
+Elly Martin: But yeah.
+
+1439
+01:01:56,730 --> 01:01:58,050
+Charles Caskey: I'm like, "Am I one of these people?"
+
+1440
+01:01:58,210 --> 01:01:59,130
+Like [laughs]
+
+1441
+01:01:59,190 --> 01:02:03,530
+Keith Murphy: There's a really nice photo of Elly in the, in the Ultrasound Practical Guide,
+
+1442
+01:02:03,790 --> 01:02:06,550
+and, uh, she was really pissed off that we put it in there.
+
+1443
+01:02:06,590 --> 01:02:10,250
+[laughs] But I felt it's, I felt it was important symbolically that you be
+
+1444
+01:02:10,310 --> 01:02:12,810
+the person ima- imagined when doing a measurement.
+
+1445
+01:02:12,830 --> 01:02:15,950
+Elly Martin: Was standing operating my robot tank by hand, that one?
+
+1446
+01:02:16,130 --> 01:02:16,790
+Yeah. [laughs]
+
+1447
+01:02:16,830 --> 01:02:18,130
+Keith Murphy: Such a good picture. [laughs]
+
+1448
+01:02:18,190 --> 01:02:19,250
+Charles Caskey: Oh, yeah. I, I love it.
+
+1449
+01:02:19,330 --> 01:02:21,550
+I love it. Yeah. If you do, like, what I was, like, doing some
+
+1450
+01:02:21,610 --> 01:02:25,130
+searches for Elly before this, you know, to prepare, and like, yeah, yeah, like,
+
+1451
+01:02:25,170 --> 01:02:27,590
+the Google image searches, it's like Elly at a water tank.
+
+1452
+01:02:27,610 --> 01:02:29,290
+I'm like, "This is exactly how I imagined her."
+
+1453
+01:02:29,290 --> 01:02:29,790
+[laughs]
+
+1454
+01:02:29,810 --> 01:02:31,090
+Keith Murphy: She's just like, yeah. Yeah. Elly at a tank.
+
+1455
+01:02:31,090 --> 01:02:33,270
+Elly Martin: That's my office, yeah. If I turn the camera around, then it would be
+
+1456
+01:02:33,310 --> 01:02:34,510
+right there. Yeah.
+
+1457
+01:02:34,530 --> 01:02:35,550
+Charles Caskey: That's, that's all great.
+
+1458
+01:02:35,830 --> 01:02:37,150
+Keith Murphy: Oh, really?
+
+1459
+01:02:37,530 --> 01:02:40,170
+Charles Caskey: Okay, yeah. [laughs] [laughs]
+
+1460
+01:02:40,290 --> 01:02:40,790
+Keith Murphy: Uh.
+
+1461
+01:02:41,010 --> 01:02:44,670
+Charles Caskey: Um, yeah. So, uh, we've, we've reached, uh, sadly the end of our episode,
+
+1462
+01:02:44,790 --> 01:02:49,750
+but, uh, happily because it is the time that we, uh, we review FUS
+
+1463
+01:02:49,910 --> 01:02:52,610
+wins, so focused ultrasound wins in the community.
+
+1464
+01:02:53,050 --> 01:02:56,470
+And, uh, a- as usual, we have, uh, solicited for people to send their
+
+1465
+01:02:56,530 --> 01:02:59,170
+wins to us. We have received zero submissions again.
+
+1466
+01:02:59,170 --> 01:03:00,810
+[laughs] Um, but that's okay.
+
+1467
+01:03:00,910 --> 01:03:01,410
+Keith Murphy: Chat got pretty quiet.
+
+1468
+01:03:00,950 --> 01:03:01,930
+Charles Caskey: It's not for lack of ...
+
+1469
+01:03:02,790 --> 01:03:06,010
+Yeah, yeah. [laughs] So, um, but s- but, um, I think, I think Elly
+
+1470
+01:03:06,050 --> 01:03:07,410
+may have one for us for this week-
+
+1471
+01:03:07,510 --> 01:03:08,010
+Elly Martin: Yeah
+
+1472
+01:03:07,690 --> 01:03:08,190
+Charles Caskey: ... if I'm not mistaken.
+
+1473
+01:03:07,770 --> 01:03:11,910
+Elly Martin: I think, um, just the, yeah, Jørgen Kool von Anden Caskey, who donated his
+
+1474
+01:03:11,950 --> 01:03:14,930
+body to medical science. I think that's the big win- [laughs] ...
+
+1475
+01:03:15,050 --> 01:03:16,370
+this week. You know, we're gonna-
+
+1476
+01:03:16,390 --> 01:03:16,910
+Keith Murphy: Yeah, can't pass von Duben.
+
+1477
+01:03:16,970 --> 01:03:18,190
+Elly Martin: Yeah, we're gonna get him there.
+
+1478
+01:03:18,230 --> 01:03:21,110
+Charles Caskey: Thank, thank you. [laughs] Yeah. No, no, thank you.
+
+1479
+01:03:21,210 --> 01:03:24,270
+Thank you. It, it's not, you know, we don't think enough about the subjects
+
+1480
+01:03:24,430 --> 01:03:27,490
+that, that go into our, [laughs] into the work that we do, and von
+
+1481
+01:03:27,530 --> 01:03:30,150
+Duben Caskey, thank you. Thank you for that.
+
+1482
+01:03:30,210 --> 01:03:30,850
+I, it means a lot.
+
+1483
+01:03:31,010 --> 01:03:33,310
+Elly Martin: Yeah. I, I mean, and all the donors of the skulls that we're all
+
+1484
+01:03:33,430 --> 01:03:35,310
+using, thank you to all those people, really.
+
+1485
+01:03:35,690 --> 01:03:36,190
+Um-
+
+1486
+01:03:35,710 --> 01:03:36,510
+Keith Murphy: Charles, do you miss him?
+
+1487
+01:03:37,970 --> 01:03:39,330
+Charles Caskey: Uh, oh, yeah, yeah. I miss all of it.
+
+1488
+01:03:39,390 --> 01:03:42,130
+I mean, I kind of feel like my ancestors are looking through my eyes,
+
+1489
+01:03:42,230 --> 01:03:44,190
+though. I'm kind of like, believe it that way.
+
+1490
+01:03:44,250 --> 01:03:47,510
+Yeah. So I kind of feel von Duben Caskey, like, with me now.
+
+1491
+01:03:47,570 --> 01:03:50,710
+So I, I do miss him, but, like, and I, I mean, if y'all
+
+1492
+01:03:50,750 --> 01:03:52,190
+can get him back, I'll take it.
+
+1493
+01:03:52,410 --> 01:03:54,590
+I would love to go grab a beer with von Duben Caskey.
+
+1494
+01:03:54,610 --> 01:03:55,770
+[laughs] But, um-
+
+1495
+01:03:56,130 --> 01:03:58,870
+Keith Murphy: I think we'd all love a beer with von Duben Caskey.
+
+1496
+01:03:58,930 --> 01:04:01,110
+Charles Caskey: Yeah, yeah. [laughs]
+
+1497
+01:04:01,170 --> 01:04:02,670
+Elly Martin: Yeah, it'd be great. It'd be great.
+
+1498
+01:04:02,730 --> 01:04:05,470
+Keith Murphy: Thank you all for coming. Thank you, Elly, for joining.
+
+1499
+01:04:06,030 --> 01:04:07,130
+FUS Forward.
+
+1500
+01:04:08,330 --> 01:04:11,190
+Charles Caskey: FUS Forward. [laughs]
+
+1501
+01:04:11,350 --> 01:04:12,830
+Keith Murphy: You said it wrong. You said FUS Forward.
+
+1502
+01:04:12,850 --> 01:04:15,130
+Elly Martin: I'm sorry. FUS Forward. Thank you for having me.
+
+1503
+01:04:15,130 --> 01:04:19,650
+[laughs] [laughs]
+
+1504
+01:04:19,710 --> 01:04:20,210
+Keith Murphy: That was, uh-
+
+1505
+01:04:20,190 --> 01:04:26,450
+Elly Martin: I'm so sorry. [upbeat music]

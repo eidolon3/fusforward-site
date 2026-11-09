@@ -1,0 +1,4825 @@
+WEBVTT
+
+1
+00:00:00.300 --> 00:00:03.220
+<v Charles Caskey>So are we gonna do like a formal introduction to the episode, and we're
+
+2
+00:00:03.260 --> 00:00:05.320
+<v Charles Caskey>gonna be like, "Hey, welcome to FUS Forward.
+
+3
+00:00:05.840 --> 00:00:08.300
+<v Charles Caskey>It's with Keith and Charles. We're gonna talk about..."
+
+4
+00:00:08.400 --> 00:00:09.540
+<v Charles Caskey>[laughs] [laughs]
+
+5
+00:00:09.540 --> 00:00:13.080
+<v Keith Murphy>I like that a lot. [laughs] [laughs]
+
+6
+00:00:13.280 --> 00:00:15.920
+<v Intro narrator>Follow Charles Caskey and Keith Murphy-
+
+7
+00:00:15.960 --> 00:00:16.460
+<v Keith Murphy>I think that's great
+
+8
+00:00:16.560 --> 00:00:22.500
+<v Intro narrator>... as they explore the next frontier of ultrasound neuromodulation with FUS Forward.
+
+9
+00:00:22.900 --> 00:00:25.020
+<v Sam Pichardo>Yes, definitely. [laughs]
+
+10
+00:00:25.120 --> 00:00:25.760
+<v Charles Caskey>Sweet, sweet.
+
+11
+00:00:25.840 --> 00:00:27.560
+<v Sam Pichardo>I have my cat on my feet, actually.
+
+12
+00:00:27.600 --> 00:00:29.580
+<v Sam Pichardo>My, my, my cat is sleeping on my feet.
+
+13
+00:00:29.580 --> 00:00:32.820
+<v Charles Caskey>Ah, lucky. [laughs] Yeah. W- our, our cats hate each other so much.
+
+14
+00:00:32.860 --> 00:00:36.400
+<v Charles Caskey>The one that I really like, uh, doesn't really come around my room very
+
+15
+00:00:36.440 --> 00:00:39.540
+<v Charles Caskey>much during the day because he's, he's worried the other cat's gonna invade him.
+
+16
+00:00:39.920 --> 00:00:40.420
+<v Charles Caskey>So [laughs]
+
+17
+00:00:40.100 --> 00:00:44.180
+<v Sam Pichardo>Yeah. I remember some, uh, I remember the stories you told several times, and
+
+18
+00:00:44.360 --> 00:00:48.560
+<v Sam Pichardo>they got in a big fight, and one of them bite you b- badly.
+
+19
+00:00:48.720 --> 00:00:49.220
+<v Charles Caskey>Yes. Yes. [laughs]
+
+20
+00:00:49.100 --> 00:00:50.640
+<v Sam Pichardo>Yeah, exactly. Yeah, I remember those times.
+
+21
+00:00:50.640 --> 00:00:52.520
+<v Keith Murphy>Did you know that you're going around telling cat stories to people?
+
+22
+00:00:52.520 --> 00:00:53.320
+<v Keith Murphy>[laughs]
+
+23
+00:00:53.540 --> 00:00:55.220
+<v Charles Caskey>Well, it's really, it's really what got-
+
+24
+00:00:55.220 --> 00:00:55.720
+<v Sam Pichardo>Oh, is it me?
+
+25
+00:00:56.680 --> 00:01:01.760
+<v Charles Caskey>Yeah. [laughs] It's-- Yeah. Sa- Sam's been the recipient of many of my cat
+
+26
+00:01:01.860 --> 00:01:03.460
+<v Charles Caskey>stories, I think, at this point.
+
+27
+00:01:03.560 --> 00:01:09.620
+<v Charles Caskey>[laughs] Um, all right. Today with us we have the one and only Samuel
+
+28
+00:01:09.700 --> 00:01:13.740
+<v Charles Caskey>Pichardo. Uh, he's up at, at Calgary, uh, coming to us from Calgary.
+
+29
+00:01:13.800 --> 00:01:18.300
+<v Charles Caskey>He's one of the engineers who actually makes these things work with ultrasound neuromodulation,
+
+30
+00:01:18.360 --> 00:01:21.620
+<v Charles Caskey>makes the studies possible. He builds computational tools.
+
+31
+00:01:21.660 --> 00:01:26.000
+<v Charles Caskey>He does transducer physics. He helps clinicians get the tools into the clinic.
+
+32
+00:01:26.460 --> 00:01:30.020
+<v Charles Caskey>Uh, so everybody welcome the one and only Samuel Pichardo.
+
+33
+00:01:30.420 --> 00:01:31.980
+<v Sam Pichardo>And thanks, guys. So I, I, I love...
+
+34
+00:01:32.280 --> 00:01:35.060
+<v Sam Pichardo>You know I have been big fan of the series since right from the,
+
+35
+00:01:35.500 --> 00:01:38.380
+<v Sam Pichardo>from the very start. I, I even-- I was sending you emails right away
+
+36
+00:01:38.640 --> 00:01:41.060
+<v Sam Pichardo>minutes after. [laughs] You were-
+
+37
+00:01:41.120 --> 00:01:42.180
+<v Charles Caskey>Sam, we're a big fan of you.
+
+38
+00:01:42.200 --> 00:01:42.700
+<v Sam Pichardo>Yeah.
+
+39
+00:01:42.480 --> 00:01:43.200
+<v Charles Caskey>We're a big fan of you.
+
+40
+00:01:43.200 --> 00:01:45.960
+<v Charles Caskey>[laughs] Yeah. We're, we're a big fan of you, and we were flattered that
+
+41
+00:01:46.000 --> 00:01:49.180
+<v Charles Caskey>you were a fan of the-- that you followed the pod so, so early,
+
+42
+00:01:49.280 --> 00:01:51.880
+<v Charles Caskey>one of the earliest adopters, if not the, the original, uh-
+
+43
+00:01:51.880 --> 00:01:56.400
+<v Sam Pichardo>Oh, yeah. No, no, absolutely. I think it's a fantastic idea, defin- definitely.
+
+44
+00:01:56.520 --> 00:02:00.180
+<v Sam Pichardo>These conversations, and I think it's, it's makes it tremendously educational.
+
+45
+00:02:00.740 --> 00:02:05.520
+<v Sam Pichardo>Also, to discover those, those little secrets sometimes the studies people don't report.
+
+46
+00:02:05.560 --> 00:02:09.520
+<v Sam Pichardo>That's, that's probably things maybe I, I have been appreciating the most because sometimes
+
+47
+00:02:10.060 --> 00:02:13.820
+<v Sam Pichardo>even the format of the paper's communication, they don't allow like an easy way
+
+48
+00:02:13.880 --> 00:02:14.380
+<v Sam Pichardo>to-
+
+49
+00:02:14.000 --> 00:02:14.660
+<v Charles Caskey>So bland.
+
+50
+00:02:15.060 --> 00:02:15.560
+<v Sam Pichardo>Yeah, exact-
+
+51
+00:02:15.300 --> 00:02:16.100
+<v Charles Caskey>None of the secrets
+
+52
+00:02:16.100 --> 00:02:21.060
+<v Sam Pichardo>... exactly. So I think that's it has a very in, um, some, um,
+
+53
+00:02:21.340 --> 00:02:24.780
+<v Sam Pichardo>a very humble and honest way where we have been screwing.
+
+54
+00:02:24.820 --> 00:02:25.500
+<v Sam Pichardo>[laughs]
+
+55
+00:02:25.600 --> 00:02:26.100
+<v Charles Caskey>Yeah.
+
+56
+00:02:25.720 --> 00:02:27.880
+<v Sam Pichardo>Where are our fears. [laughs]
+
+57
+00:02:27.940 --> 00:02:30.660
+<v Charles Caskey>Yeah. [laughs] Yeah. Well, that's why it's good to have you h- you here
+
+58
+00:02:30.720 --> 00:02:34.860
+<v Charles Caskey>because, like, you're on so many papers, and now we get to peel back
+
+59
+00:02:34.900 --> 00:02:37.940
+<v Charles Caskey>the layers and, [laughs] you know, examine all this like-
+
+60
+00:02:38.200 --> 00:02:38.700
+<v Sam Pichardo>Yeah.
+
+61
+00:02:38.500 --> 00:02:39.040
+<v Charles Caskey>Yeah. [laughs]
+
+62
+00:02:39.120 --> 00:02:39.680
+<v Sam Pichardo>Oh, no, no. That's-
+
+63
+00:02:39.800 --> 00:02:40.760
+<v Keith Murphy>Sam's dirty laundry
+
+64
+00:02:40.760 --> 00:02:42.540
+<v Sam Pichardo>... oh, gosh. That's, that's a long one.
+
+65
+00:02:42.700 --> 00:02:45.460
+<v Sam Pichardo>[laughs] [laughs]
+
+66
+00:02:45.580 --> 00:02:47.340
+<v Charles Caskey>I don't believe it. I don't believe it.
+
+67
+00:02:48.000 --> 00:02:51.700
+<v Charles Caskey>Um, since we did the intro, do you, you do pronounce the C-H in
+
+68
+00:02:51.740 --> 00:02:53.320
+<v Charles Caskey>your name with a C, like cha, right?
+
+69
+00:02:53.420 --> 00:02:53.920
+<v Charles Caskey>Not... Is it hard?
+
+70
+00:02:53.680 --> 00:02:54.740
+<v Sam Pichardo>Yeah, you pronounce it perfectly.
+
+71
+00:02:54.800 --> 00:02:55.300
+<v Charles Caskey>Okay.
+
+72
+00:02:54.820 --> 00:02:55.660
+<v Sam Pichardo>You pronounce it perfectly.
+
+73
+00:02:55.680 --> 00:02:56.180
+<v Charles Caskey>Okay.
+
+74
+00:02:56.120 --> 00:02:57.000
+<v Sam Pichardo>Many people pronounce-
+
+75
+00:02:57.000 --> 00:02:58.580
+<v Keith Murphy>I've been, I've been messing it up all these years.
+
+76
+00:02:58.660 --> 00:02:59.600
+<v Keith Murphy>[laughs] [laughs]
+
+77
+00:02:59.680 --> 00:03:00.180
+<v Charles Caskey>I never got that.
+
+78
+00:03:00.040 --> 00:03:02.000
+<v Sam Pichardo>Oh, no. At some point you give up.
+
+79
+00:03:02.220 --> 00:03:03.560
+<v Sam Pichardo>So don't, don't do-
+
+80
+00:03:03.640 --> 00:03:04.460
+<v Charles Caskey>Good. I gave up on it
+
+81
+00:03:04.480 --> 00:03:07.940
+<v Sam Pichardo>... you're doing it right. But probably Charles not because he, he, he's from
+
+82
+00:03:08.040 --> 00:03:09.840
+<v Sam Pichardo>Texas, so Charles, so he's-
+
+83
+00:03:09.840 --> 00:03:10.400
+<v Charles Caskey>Ah, it's a Texas thing
+
+84
+00:03:10.400 --> 00:03:14.840
+<v Sam Pichardo>... probably more closer to Latino community, so they know the C-H is pronounced
+
+85
+00:03:14.880 --> 00:03:17.400
+<v Sam Pichardo>like that. So, so it's probably he has an advantage.
+
+86
+00:03:17.400 --> 00:03:18.180
+<v Sam Pichardo>[laughs]
+
+87
+00:03:18.260 --> 00:03:18.760
+<v Charles Caskey>You--
+
+88
+00:03:18.320 --> 00:03:18.820
+<v Sam Pichardo>Yeah. You forget me. [laughs]
+
+89
+00:03:18.840 --> 00:03:21.780
+<v Charles Caskey>It took me a while, though, to even realize you were Mexican.
+
+90
+00:03:21.880 --> 00:03:27.180
+<v Charles Caskey>I gotta say [laughs] it took me a while because you-- because of your,
+
+91
+00:03:27.300 --> 00:03:30.320
+<v Charles Caskey>your history. If you look at your papers, you, you have, you have this
+
+92
+00:03:30.380 --> 00:03:34.380
+<v Charles Caskey>unique history where you've been-- you've trained at, in France, I think, and then
+
+93
+00:03:34.440 --> 00:03:37.780
+<v Charles Caskey>in, in Toronto. So, uh, so, uh, when I first met you, I was
+
+94
+00:03:37.840 --> 00:03:40.980
+<v Charles Caskey>like, "French accent," and I was like, "That's not a French accent."
+
+95
+00:03:41.000 --> 00:03:41.880
+<v Charles Caskey>[laughs] [laughs]
+
+96
+00:03:41.940 --> 00:03:43.440
+<v Keith Murphy>I th- I thought Sam was Italian.
+
+97
+00:03:43.700 --> 00:03:45.900
+<v Keith Murphy>[laughs] He's always been kind of an Italian to me.
+
+98
+00:03:46.660 --> 00:03:50.120
+<v Sam Pichardo>Last name with me a few, a few years still that we are asking
+
+99
+00:03:50.220 --> 00:03:54.320
+<v Sam Pichardo>some, uh, some of them people had trouble to re- some, uh, to, some,
+
+100
+00:03:54.360 --> 00:03:56.560
+<v Sam Pichardo>uh, to read the position. It was kind of strange, yeah.
+
+101
+00:03:56.580 --> 00:03:57.700
+<v Sam Pichardo>[laughs]
+
+102
+00:03:57.740 --> 00:04:00.260
+<v Charles Caskey>I love it. Um, so what-- Who are the, who are the big names
+
+103
+00:04:00.300 --> 00:04:02.980
+<v Charles Caskey>you've, you've worked with? Uh, were you with Kullervo Hynynen?
+
+104
+00:04:03.220 --> 00:04:04.220
+<v Sam Pichardo>Yeah, I worked with Kullervo, yes.
+
+105
+00:04:04.760 --> 00:04:05.400
+<v Sam Pichardo>And then I w-
+
+106
+00:04:05.540 --> 00:04:06.040
+<v Charles Caskey>Yeah
+
+107
+00:04:05.560 --> 00:04:08.400
+<v Sam Pichardo>... I mean, some, um, and right now I work, I work very closely
+
+108
+00:04:08.420 --> 00:04:10.420
+<v Sam Pichardo>with Bruce Pike, some of which people-
+
+109
+00:04:10.420 --> 00:04:10.920
+<v Charles Caskey>Bruce Pike?
+
+110
+00:04:10.740 --> 00:04:14.300
+<v Sam Pichardo>Yeah ... who are in the MRI world, they know that's one of the
+
+111
+00:04:14.520 --> 00:04:17.120
+<v Sam Pichardo>heavy, some, uh, names in brain imaging.
+
+112
+00:04:17.660 --> 00:04:19.400
+<v Sam Pichardo>So def- definitely has been a pleasure.
+
+113
+00:04:19.460 --> 00:04:23.940
+<v Sam Pichardo>Some actually he, he was in the committee for, for the, for the selection
+
+114
+00:04:24.000 --> 00:04:25.620
+<v Sam Pichardo>from, uh, for the position I'm now.
+
+115
+00:04:26.080 --> 00:04:30.220
+<v Sam Pichardo>He moved f- he was the director of the Montreal Neuro Institute back in
+
+116
+00:04:30.280 --> 00:04:34.360
+<v Sam Pichardo>the day, and he moved from Montreal to Calgary, and he wanted to create
+
+117
+00:04:34.400 --> 00:04:38.940
+<v Sam Pichardo>a focused ultrasound program. So cr- he created this, like, a physics engineering position
+
+118
+00:04:39.440 --> 00:04:41.020
+<v Sam Pichardo>to kind of to, to help the program.
+
+119
+00:04:41.540 --> 00:04:46.200
+<v Sam Pichardo>So, and, and to connect it to Kullervo, Kullervo learn about this.
+
+120
+00:04:46.660 --> 00:04:51.180
+<v Sam Pichardo>He forward me some of the, the, the, the ad with one single word:
+
+121
+00:04:51.480 --> 00:04:55.140
+<v Sam Pichardo>apply. [laughs] Very Kullervo.
+
+122
+00:04:55.180 --> 00:04:55.680
+<v Charles Caskey>Very cool.
+
+123
+00:04:55.480 --> 00:04:57.600
+<v Sam Pichardo>Very Kullervo. So yeah. So yeah.
+
+124
+00:04:57.960 --> 00:05:01.900
+<v Sam Pichardo>And yeah, and, and, and, and was exactly what he wanted 'cause I'm keeping
+
+125
+00:05:02.180 --> 00:05:06.780
+<v Sam Pichardo>tabs on, on the neuromodulation. Eight, ten years ago, it was something that was
+
+126
+00:05:06.840 --> 00:05:10.580
+<v Sam Pichardo>very exciting, but that's something I could not easily see, uh, able to do
+
+127
+00:05:10.680 --> 00:05:15.420
+<v Sam Pichardo>in, in, in the space. I was really mostly involved with, on the, um,
+
+128
+00:05:15.900 --> 00:05:22.340
+<v Sam Pichardo>um, mapping acoustic properties between CTs, some, uh, some, um, numerical models, um,
+
+129
+00:05:22.580 --> 00:05:26.800
+<v Sam Pichardo>shear wave propagation. That was something we have been working, uh, for many years,
+
+130
+00:05:26.860 --> 00:05:31.220
+<v Sam Pichardo>and, uh, um, I was even in, in To- in Thunder Bay still working
+
+131
+00:05:31.260 --> 00:05:34.380
+<v Sam Pichardo>with him. I was going back and forth between Toronto and Thunder Bay, just
+
+132
+00:05:34.440 --> 00:05:39.860
+<v Sam Pichardo>keep working on that project, which actually became the foundation of this tool, BabelViscoFDTD,
+
+133
+00:05:40.240 --> 00:05:43.660
+<v Sam Pichardo>that later became the cornerstone for Babel- for BabelBrain.
+
+134
+00:05:44.040 --> 00:05:45.180
+<v Sam Pichardo>So it has a lot of stories-
+
+135
+00:05:45.240 --> 00:05:45.740
+<v Charles Caskey>Cool
+
+136
+00:05:45.360 --> 00:05:48.740
+<v Sam Pichardo>... coming from there. So you can trace actually for the, the time I,
+
+137
+00:05:48.840 --> 00:05:51.000
+<v Sam Pichardo>uh, I was working some, uh, in Kullervo.
+
+138
+00:05:51.080 --> 00:05:54.440
+<v Sam Pichardo>Even in that work, I was a really independent scientist in Thunder Bay, but
+
+139
+00:05:54.580 --> 00:05:56.720
+<v Sam Pichardo>I still was working very closely with Kullervo.
+
+140
+00:05:56.840 --> 00:05:57.340
+<v Sam Pichardo>Hmm.
+
+141
+00:05:57.880 --> 00:06:01.700
+<v Charles Caskey>Yeah. It's always great to maintain those relationships with your, with your mentors like
+
+142
+00:06:01.760 --> 00:06:03.560
+<v Charles Caskey>that, particularly with the ultrasound community.
+
+143
+00:06:03.620 --> 00:06:06.260
+<v Charles Caskey>I guess I don't know what it's like in other communities, but I always
+
+144
+00:06:06.300 --> 00:06:09.140
+<v Charles Caskey>feel like it's kind of like, you know, got a, got a good family
+
+145
+00:06:09.180 --> 00:06:12.720
+<v Charles Caskey>thing going in a way, um, i- in that respect, staying in touch for
+
+146
+00:06:12.760 --> 00:06:15.640
+<v Charles Caskey>long periods of time and, and communicating.
+
+147
+00:06:16.260 --> 00:06:19.440
+<v Charles Caskey>Uh, since you're, you're kind-- Your background is like y- you're such a good
+
+148
+00:06:19.560 --> 00:06:25.560
+<v Charles Caskey>physicist and, and programmer that I think my first interaction with
+
+149
+00:06:25.620 --> 00:06:28.880
+<v Charles Caskey>you was with stuff you had done with, um, was it called-- What was
+
+150
+00:06:28.900 --> 00:06:30.460
+<v Charles Caskey>it called? MatMRI? Was it, is that the-
+
+151
+00:06:30.520 --> 00:06:32.400
+<v Sam Pichardo>Many decades. Yeah, no, exactly. Yeah.
+
+152
+00:06:32.640 --> 00:06:33.260
+<v Sam Pichardo>Yeah. Yeah, you're right. So-
+
+153
+00:06:33.320 --> 00:06:37.800
+<v Charles Caskey>Yeah. So, so I guess I'm just c- like, do you view yourself more
+
+154
+00:06:37.840 --> 00:06:42.720
+<v Charles Caskey>like as a tool builder, a problem solver, or like an engineer embedded in
+
+155
+00:06:42.780 --> 00:06:44.000
+<v Charles Caskey>like a bio-
+
+156
+00:06:44.060 --> 00:06:44.580
+<v Sam Pichardo>Yeah, no, you're right
+
+157
+00:06:44.580 --> 00:06:46.920
+<v Charles Caskey>... or a scientific setting? Where, where are you-- What do you c-- How
+
+158
+00:06:46.960 --> 00:06:47.700
+<v Charles Caskey>do you view yourself?
+
+159
+00:06:47.780 --> 00:06:49.180
+<v Sam Pichardo>Depends on the career stage, no?
+
+160
+00:06:49.540 --> 00:06:52.300
+<v Sam Pichardo>On the, on the early years, I, I've, I want, I love it to
+
+161
+00:06:52.340 --> 00:06:54.040
+<v Sam Pichardo>be like a tool, tool builder.
+
+162
+00:06:54.140 --> 00:06:58.040
+<v Sam Pichardo>Maybe my en- engineering kind of mantra was one on top of me.
+
+163
+00:06:58.500 --> 00:07:01.900
+<v Sam Pichardo>But I really want to be now closer to more integrator.
+
+164
+00:07:02.380 --> 00:07:03.040
+<v Sam Pichardo>Once I still-
+
+165
+00:07:03.120 --> 00:07:03.620
+<v Charles Caskey>Yeah
+
+166
+00:07:03.200 --> 00:07:06.920
+<v Sam Pichardo>... am moving some engineering. So now I think we still have the tool,
+
+167
+00:07:07.080 --> 00:07:10.720
+<v Sam Pichardo>the tool development aspect, but now we're moving more to in-integrate with like a
+
+168
+00:07:10.780 --> 00:07:15.880
+<v Sam Pichardo>full solution, so m- uh, with a clear m- um, uh, clinical mandate, with
+
+169
+00:07:15.900 --> 00:07:16.980
+<v Sam Pichardo>a clinical objective.
+
+170
+00:07:17.040 --> 00:07:17.540
+<v Charles Caskey>Yeah.
+
+171
+00:07:17.080 --> 00:07:20.980
+<v Sam Pichardo>No, so maybe we have Calgary, we are at a movement disorder site by
+
+172
+00:07:21.060 --> 00:07:23.860
+<v Sam Pichardo>a long shot. So, and Robert Chen, he knows.
+
+173
+00:07:23.940 --> 00:07:25.820
+<v Sam Pichardo>Even by example, I worked very closely with Robert Chen.
+
+174
+00:07:26.180 --> 00:07:30.620
+<v Sam Pichardo>He knows Calgary is bringing some very tough competition to Toronto Western [chuckles] somewhere
+
+175
+00:07:30.680 --> 00:07:33.880
+<v Sam Pichardo>on the movement disorders. But I've seen a very, very friendly, so my things,
+
+176
+00:07:33.980 --> 00:07:37.060
+<v Sam Pichardo>as I mentioned, we have-- I still have very active collaboration with Robert.
+
+177
+00:07:37.240 --> 00:07:40.920
+<v Sam Pichardo>And probably we still have many collaborations with him down, down the path.
+
+178
+00:07:41.000 --> 00:07:45.560
+<v Sam Pichardo>So definitely on that one. So that's kind of probably can define the last
+
+179
+00:07:45.600 --> 00:07:47.380
+<v Sam Pichardo>two, three years somehow, somehow-
+
+180
+00:07:47.500 --> 00:07:48.000
+<v Charles Caskey>Yeah
+
+181
+00:07:47.780 --> 00:07:49.420
+<v Sam Pichardo>... on, on, on that direction.
+
+182
+00:07:49.500 --> 00:07:52.380
+<v Sam Pichardo>It maybe helps the answer to-- hopefully that answers the question.
+
+183
+00:07:52.600 --> 00:07:53.100
+<v Charles Caskey>Yeah.
+
+184
+00:07:53.040 --> 00:07:53.540
+<v Sam Pichardo>Yeah.
+
+185
+00:07:53.080 --> 00:07:55.640
+<v Charles Caskey>Well, yeah. So you kind of evolved over, over time, and I guess we
+
+186
+00:07:55.720 --> 00:07:58.620
+<v Charles Caskey>all do. And I think it's cool that you kept this core of be-
+
+187
+00:07:58.780 --> 00:08:00.660
+<v Charles Caskey>of contributing tools to the community.
+
+188
+00:08:00.780 --> 00:08:05.860
+<v Charles Caskey>So with Babel-- Yeah, so Matt, MatMRI and MatHIFU, uh, were two tools for
+
+189
+00:08:05.900 --> 00:08:09.340
+<v Charles Caskey>the Sonalleve system. This was an ablation system for ultrasound- Mm-hmm ...
+
+190
+00:08:09.360 --> 00:08:13.300
+<v Charles Caskey>that Sam made a tool to interface with a, with a, a commercial product.
+
+191
+00:08:13.780 --> 00:08:17.300
+<v Charles Caskey>Um, and I think, yeah, in your more recent work with, with BabelBrain, I
+
+192
+00:08:17.320 --> 00:08:20.580
+<v Charles Caskey>think it's cool that you were able to maintain that thread of being like
+
+193
+00:08:20.620 --> 00:08:25.380
+<v Charles Caskey>somebody that develops tools, but also you've clearly gotten more-- you're more into a
+
+194
+00:08:25.400 --> 00:08:29.260
+<v Charles Caskey>position where you're really integrating things around one specific direction- Yes ...
+
+195
+00:08:29.300 --> 00:08:31.960
+<v Charles Caskey>in the medical, you know, for the medical needs of the center that you
+
+196
+00:08:31.980 --> 00:08:35.420
+<v Charles Caskey>work in. I think a lot of times as we, as people progress in
+
+197
+00:08:35.460 --> 00:08:37.340
+<v Charles Caskey>their careers, you kind of have to put something down.
+
+198
+00:08:37.400 --> 00:08:39.880
+<v Charles Caskey>Like I, I, I barely program now, and I-- It's like-
+
+199
+00:08:40.040 --> 00:08:40.540
+<v Sam Pichardo>Yeah, no
+
+200
+00:08:40.320 --> 00:08:41.100
+<v Charles Caskey>... it bums me out. [chuckles]
+
+201
+00:08:41.140 --> 00:08:45.080
+<v Sam Pichardo>Charles, this, this is my mental sanity, and you keep doing that to keep
+
+202
+00:08:45.140 --> 00:08:46.700
+<v Sam Pichardo>my sanity alive. [laughing]
+
+203
+00:08:46.720 --> 00:08:48.880
+<v Charles Caskey>Hmm. Yeah. Fair. That's fair. Yeah, yeah, yeah.
+
+204
+00:08:48.880 --> 00:08:49.780
+<v Keith Murphy>It's like, uh, therapeutic for you.
+
+205
+00:08:50.220 --> 00:08:50.720
+<v Sam Pichardo>Yeah.
+
+206
+00:08:50.320 --> 00:08:50.820
+<v Keith Murphy>It's good.
+
+207
+00:08:50.480 --> 00:08:53.440
+<v Sam Pichardo>Exactly. There's some-- Uh, this, it saves me a lot of money with, with
+
+208
+00:08:53.580 --> 00:08:55.120
+<v Sam Pichardo>some, with, with, with the counselors, okay?
+
+209
+00:08:55.260 --> 00:08:56.080
+<v Sam Pichardo>[laughing]
+
+210
+00:08:56.120 --> 00:08:59.080
+<v Keith Murphy>Yeah. [laughing]
+
+211
+00:08:59.540 --> 00:09:00.040
+<v Sam Pichardo>Sometimes-
+
+212
+00:08:59.900 --> 00:09:01.400
+<v Charles Caskey>Yeah, yeah. They're not cheap. They're not cheap.
+
+213
+00:09:01.440 --> 00:09:02.020
+<v Charles Caskey>We were talking about this-
+
+214
+00:09:02.020 --> 00:09:02.520
+<v Sam Pichardo>Exactly
+
+215
+00:09:02.380 --> 00:09:02.880
+<v Charles Caskey>... recently.
+
+216
+00:09:02.440 --> 00:09:03.080
+<v Sam Pichardo>This is cheaper.
+
+217
+00:09:03.140 --> 00:09:03.640
+<v Charles Caskey>Yeah, yeah.
+
+218
+00:09:03.680 --> 00:09:05.560
+<v Sam Pichardo>It's, it's more rewarding to be honest.
+
+219
+00:09:05.640 --> 00:09:07.200
+<v Sam Pichardo>But yeah. A- a- and yeah.
+
+220
+00:09:07.240 --> 00:09:11.580
+<v Sam Pichardo>And the BabelBrain experience has been phenomenal, uh, especially for, to create a, a
+
+221
+00:09:11.620 --> 00:09:13.400
+<v Sam Pichardo>lot of new links colla- Yeah ...
+
+222
+00:09:13.440 --> 00:09:18.660
+<v Sam Pichardo>and collaborations. So, uh, I, I'm very pleased with how the thing has m-
+
+223
+00:09:18.920 --> 00:09:20.900
+<v Sam Pichardo>been moving and, and being tested.
+
+224
+00:09:21.060 --> 00:09:21.560
+<v Charles Caskey>I just-
+
+225
+00:09:21.180 --> 00:09:21.680
+<v Sam Pichardo>Yeah.
+
+226
+00:09:21.200 --> 00:09:21.700
+<v Charles Caskey>Yeah.
+
+227
+00:09:21.940 --> 00:09:22.440
+<v Sam Pichardo>So, uh-
+
+228
+00:09:22.320 --> 00:09:24.780
+<v Charles Caskey>I just sent some new collaborators your direction from Rice.
+
+229
+00:09:25.000 --> 00:09:27.940
+<v Charles Caskey>Uh, and so, uh, I don't know if they've emailed you yet, but-
+
+230
+00:09:28.040 --> 00:09:28.760
+<v Sam Pichardo>Ah. Fantastic
+
+231
+00:09:28.780 --> 00:09:29.720
+<v Charles Caskey>... if they have. Yeah, yeah.
+
+232
+00:09:29.820 --> 00:09:31.020
+<v Charles Caskey>Look, be on the lookout for that.
+
+233
+00:09:31.080 --> 00:09:31.580
+<v Charles Caskey>I, I've got-
+
+234
+00:09:31.540 --> 00:09:32.040
+<v Sam Pichardo>Oh, yeah. Look
+
+235
+00:09:32.060 --> 00:09:32.560
+<v Charles Caskey>... there's a cool, cool project.
+
+236
+00:09:32.200 --> 00:09:36.440
+<v Sam Pichardo>No, no, exactly. Yeah, it has, it has been an, an excellent, some, uh,
+
+237
+00:09:37.100 --> 00:09:40.860
+<v Sam Pichardo>um, um, um, tool, some, I mean, it had like a tool, two edges,
+
+238
+00:09:40.940 --> 00:09:44.420
+<v Sam Pichardo>no? A tool to help people, some how to do the research, provide us
+
+239
+00:09:44.520 --> 00:09:47.940
+<v Sam Pichardo>a tool to create some, uh, new, uh, new collaborations, no?
+
+240
+00:09:48.040 --> 00:09:50.840
+<v Sam Pichardo>And, and that's probably the most rewarding thing.
+
+241
+00:09:50.900 --> 00:09:54.060
+<v Sam Pichardo>So it also helps to keep in check what we're doing somehow.
+
+242
+00:09:54.100 --> 00:09:58.000
+<v Sam Pichardo>It's, it's-- At some points, if you feel a lot of responsibility, say, "Geez,
+
+243
+00:09:58.440 --> 00:10:01.440
+<v Sam Pichardo>what we're predicting is, is driving people's studies," no?
+
+244
+00:10:01.680 --> 00:10:04.500
+<v Sam Pichardo>And I mean, driving our own studies for starting-
+
+245
+00:10:04.560 --> 00:10:05.060
+<v Charles Caskey>Yeah
+
+246
+00:10:04.580 --> 00:10:07.880
+<v Sam Pichardo>... some as, in terms of the safety and efficacy, but also now it's
+
+247
+00:10:07.900 --> 00:10:11.880
+<v Sam Pichardo>driving other, other people. So yeah, that's something that always keeps me awake.
+
+248
+00:10:11.940 --> 00:10:13.620
+<v Sam Pichardo>[laughing] So yeah.
+
+249
+00:10:14.860 --> 00:10:17.580
+<v Charles Caskey>Uh, well, yeah, and you have done a good job as far as the
+
+250
+00:10:17.640 --> 00:10:21.460
+<v Charles Caskey>models go to put tool-- to valid-- to cross-validate tools.
+
+251
+00:10:21.500 --> 00:10:23.600
+<v Charles Caskey>I mean, I think, yeah, I, I get it.
+
+252
+00:10:23.780 --> 00:10:27.800
+<v Charles Caskey>I, I hear what you're saying, like as you go into human studies, you
+
+253
+00:10:27.860 --> 00:10:31.660
+<v Charles Caskey>just want that it-- dosimetry. So for those who aren't aware, we basically will
+
+254
+00:10:31.700 --> 00:10:36.040
+<v Charles Caskey>run these commu- uh, simulations, uh, where sound is propagated through the skull.
+
+255
+00:10:36.480 --> 00:10:39.920
+<v Charles Caskey>It ultimately ends up determining how much sound you think is getting in, and
+
+256
+00:10:39.960 --> 00:10:43.820
+<v Charles Caskey>this could be that, and that amount is what determines how safe this is.
+
+257
+00:10:43.860 --> 00:10:46.480
+<v Charles Caskey>And that's what Sam's alluding to, is like he's made this tool that now
+
+258
+00:10:47.020 --> 00:10:51.780
+<v Charles Caskey>other people can use, and, uh, yeah, you wanna make sure it's done right.
+
+259
+00:10:51.880 --> 00:10:54.480
+<v Charles Caskey>Um, but there's been such good community buy-in with that.
+
+260
+00:10:54.600 --> 00:10:55.800
+<v Charles Caskey>I think it's helped out a lot-
+
+261
+00:10:56.460 --> 00:10:56.960
+<v Sam Pichardo>Yeah
+
+262
+00:10:56.480 --> 00:10:59.360
+<v Charles Caskey>... um, with other tools, cross-validating.
+
+263
+00:11:00.060 --> 00:11:00.600
+<v Charles Caskey>Um, yeah.
+
+264
+00:11:01.080 --> 00:11:04.720
+<v Keith Murphy>What, what features do you guys feel like need to be worked out further?
+
+265
+00:11:05.000 --> 00:11:09.560
+<v Keith Murphy>So, um, Sam, Charles, there's, there's tools people are using, and they're relying on
+
+266
+00:11:09.620 --> 00:11:13.320
+<v Keith Murphy>you all to decide what is the most correct, but we know that there
+
+267
+00:11:13.460 --> 00:11:15.280
+<v Keith Murphy>are inaccuracies that we're working towards.
+
+268
+00:11:16.040 --> 00:11:18.820
+<v Keith Murphy>What, what are the, some of the key points in these simulations that need
+
+269
+00:11:18.860 --> 00:11:19.540
+<v Keith Murphy>to be worked out?
+
+270
+00:11:20.640 --> 00:11:22.160
+<v Sam Pichardo>Oh my gosh, it's long. [laughs]
+
+271
+00:11:22.340 --> 00:11:22.840
+<v Charles Caskey>I know.
+
+272
+00:11:22.480 --> 00:11:22.980
+<v Sam Pichardo>What's your favorite?
+
+273
+00:11:22.940 --> 00:11:24.940
+<v Charles Caskey>I wanna wait for Sam's answer on this one.
+
+274
+00:11:24.940 --> 00:11:25.440
+<v Charles Caskey>[laughs]
+
+275
+00:11:25.040 --> 00:11:26.780
+<v Sam Pichardo>Yeah, that's a long list for Anna.
+
+276
+00:11:26.780 --> 00:11:29.260
+<v Sam Pichardo>It's really long. I would say it, uh, it's interesting, I have a conversation
+
+277
+00:11:29.320 --> 00:11:34.360
+<v Sam Pichardo>this morning on, with Robert Chen's team precisely, it kind of connects with this,
+
+278
+00:11:34.460 --> 00:11:40.160
+<v Sam Pichardo>is I think we're still not connecting perfectly well neuronavigation, for example, to compensate
+
+279
+00:11:40.200 --> 00:11:44.320
+<v Sam Pichardo>for the skull, you need to know very precisely the, the transducer positioning system.
+
+280
+00:11:44.680 --> 00:11:49.780
+<v Keith Murphy>And so these simulations that Sam's software BabelBrain runs, they can take tens of
+
+281
+00:11:49.820 --> 00:11:51.980
+<v Keith Murphy>minutes, they can probably take hours in some cases.
+
+282
+00:11:52.060 --> 00:11:52.560
+<v Keith Murphy>So-
+
+283
+00:11:52.740 --> 00:11:53.240
+<v Sam Pichardo>Yeah, maybe
+
+284
+00:11:52.800 --> 00:11:54.980
+<v Keith Murphy>... you need to pre-decide. [laughs]
+
+285
+00:11:55.220 --> 00:11:55.720
+<v Charles Caskey>Maybe-
+
+286
+00:11:55.600 --> 00:11:56.100
+<v Sam Pichardo>Among the producers-
+
+287
+00:11:56.000 --> 00:11:57.520
+<v Keith Murphy>It's on the, it's on the Apple now, it's faster
+
+288
+00:11:57.520 --> 00:11:58.060
+<v Sam Pichardo>... give me some credit, okay?
+
+289
+00:11:58.160 --> 00:12:00.280
+<v Sam Pichardo>Give me some credit. [laughs]
+
+290
+00:12:00.340 --> 00:12:01.760
+<v Keith Murphy>Two minutes. Two minutes. Oh, hang on.
+
+291
+00:12:01.840 --> 00:12:03.840
+<v Keith Murphy>Yeah. Wait. So Sam, why not run it on the fly then?
+
+292
+00:12:04.140 --> 00:12:05.280
+<v Keith Murphy>Why not run it right when you...
+
+293
+00:12:05.700 --> 00:12:10.340
+<v Keith Murphy>So imagine you have your neuronavigation, you detect the position of the arrays.
+
+294
+00:12:10.760 --> 00:12:12.280
+<v Keith Murphy>How quick can your software run it?
+
+295
+00:12:12.440 --> 00:12:14.540
+<v Sam Pichardo>That's the long-term vision. You are neuronavigating-
+
+296
+00:12:14.620 --> 00:12:15.120
+<v Charles Caskey>Yeah
+
+297
+00:12:14.700 --> 00:12:18.340
+<v Sam Pichardo>... and you're updating in real time some of the, some of the acoustic
+
+298
+00:12:18.420 --> 00:12:22.240
+<v Sam Pichardo>fields. That's, that's really the, the end goal somehow from this.
+
+299
+00:12:22.400 --> 00:12:26.700
+<v Sam Pichardo>And definitely there's not too much secret to say we need to explore machine
+
+300
+00:12:26.740 --> 00:12:30.780
+<v Sam Pichardo>learning, and there's definitely very good course from Korea who has start to show
+
+301
+00:12:30.980 --> 00:12:33.480
+<v Sam Pichardo>this is start, this is start to become now feasible.
+
+302
+00:12:33.740 --> 00:12:36.640
+<v Sam Pichardo>That's the end goal. Somehow that's, it has to be the end goal.
+
+303
+00:12:37.080 --> 00:12:40.940
+<v Sam Pichardo>So, uh, instead of doing prospective planning, you are doing real time planning on
+
+304
+00:12:41.000 --> 00:12:44.800
+<v Sam Pichardo>the spot. You need, you are moving your transducer, you're applying your steering, somehow
+
+305
+00:12:44.840 --> 00:12:47.860
+<v Sam Pichardo>knowing to hit your target. I will, I will, I will call it release
+
+306
+00:12:48.020 --> 00:12:53.960
+<v Sam Pichardo>1.0. Before it's going to release, release, uh, 0.811, 0.822, [laughs] or something like
+
+307
+00:12:54.020 --> 00:12:55.200
+<v Sam Pichardo>that. [laughs]
+
+308
+00:12:55.260 --> 00:12:58.200
+<v Charles Caskey>Wait, wait, what are these, what are the numbers that you're throwing around there?
+
+309
+00:12:58.460 --> 00:12:58.960
+<v Charles Caskey>I, or it's real-
+
+310
+00:12:58.720 --> 00:12:59.980
+<v Keith Murphy>I actually don't know what the numbers were either.
+
+311
+00:13:00.000 --> 00:13:00.500
+<v Keith Murphy>[laughs]
+
+312
+00:13:00.040 --> 00:13:01.480
+<v Charles Caskey>What is it, what is 0.8?
+
+313
+00:13:01.640 --> 00:13:03.180
+<v Charles Caskey>What is that? The number of milliseconds-
+
+314
+00:13:03.200 --> 00:13:03.700
+<v Keith Murphy>Yeah, what is that?
+
+315
+00:13:03.380 --> 00:13:03.980
+<v Charles Caskey>... that it's gonna, or the second?
+
+316
+00:13:04.020 --> 00:13:05.460
+<v Sam Pichardo>No, that's, no, that's the numbers of the release.
+
+317
+00:13:05.500 --> 00:13:06.820
+<v Sam Pichardo>Sorry. The nu- the release number.
+
+318
+00:13:06.940 --> 00:13:07.440
+<v Sam Pichardo>Just the release.
+
+319
+00:13:07.580 --> 00:13:08.080
+<v Charles Caskey>Oh. Yeah, right.
+
+320
+00:13:08.120 --> 00:13:08.620
+<v Sam Pichardo>Oh, yeah.
+
+321
+00:13:08.520 --> 00:13:11.800
+<v Charles Caskey>Oh, yeah. This is a perfect time, 'cause you guys just released the newest
+
+322
+00:13:11.840 --> 00:13:12.660
+<v Charles Caskey>version, a new version-
+
+323
+00:13:12.700 --> 00:13:13.200
+<v Sam Pichardo>Yeah. Yes, yesterday
+
+324
+00:13:13.200 --> 00:13:14.160
+<v Charles Caskey>... of BabelBrain. Just, yeah. Okay.
+
+325
+00:13:14.180 --> 00:13:15.840
+<v Sam Pichardo>Yeah, I did it on purpose just before the podcast.
+
+326
+00:13:15.880 --> 00:13:16.820
+<v Sam Pichardo>[laughs]
+
+327
+00:13:16.900 --> 00:13:19.520
+<v Charles Caskey>So what was the, uh, so you feel like that's gonna be the thing
+
+328
+00:13:19.560 --> 00:13:23.720
+<v Charles Caskey>that makes you, moves you from subversion 0.8 to version 1.0?
+
+329
+00:13:24.160 --> 00:13:24.660
+<v Charles Caskey>Is-
+
+330
+00:13:24.300 --> 00:13:24.800
+<v Sam Pichardo>Yeah, exactly
+
+331
+00:13:24.440 --> 00:13:25.820
+<v Charles Caskey>... is that, that's what you feel like will be-
+
+332
+00:13:25.940 --> 00:13:26.440
+<v Sam Pichardo>Yeah, exactly.
+
+333
+00:13:25.980 --> 00:13:26.740
+<v Charles Caskey>Yeah ... when you can do-
+
+334
+00:13:27.280 --> 00:13:27.780
+<v Sam Pichardo>Yeah
+
+335
+00:13:27.300 --> 00:13:28.650
+<v Charles Caskey>... semi real time, uh-
+
+336
+00:13:28.740 --> 00:13:29.360
+<v Sam Pichardo>Semi. I mean-
+
+337
+00:13:29.520 --> 00:13:30.020
+<v Charles Caskey>Yeah
+
+338
+00:13:30.140 --> 00:13:33.880
+<v Sam Pichardo>... if we mention only 100 milliseconds, people will be more than happy.
+
+339
+00:13:33.920 --> 00:13:34.420
+<v Sam Pichardo>Do you know what I mean?
+
+340
+00:13:34.320 --> 00:13:34.820
+<v Sam Pichardo>Some-
+
+341
+00:13:34.800 --> 00:13:35.300
+<v Charles Caskey>Oh, I would,
+
+342
+00:13:35.020 --> 00:13:37.440
+<v Sam Pichardo>I would be- Even half second, people will be okay.
+
+343
+00:13:38.100 --> 00:13:38.820
+<v Sam Pichardo>Enough. That's-
+
+344
+00:13:39.440 --> 00:13:39.940
+<v Charles Caskey>Yeah, yeah
+
+345
+00:13:39.780 --> 00:13:42.660
+<v Sam Pichardo>... way, way more enough. [laughs]
+
+346
+00:13:42.740 --> 00:13:45.540
+<v Charles Caskey>For the listeners, I just wanna put this, give, put this in perspective.
+
+347
+00:13:45.580 --> 00:13:49.620
+<v Charles Caskey>Like, so when we s- if you just run this on a CPU, like
+
+348
+00:13:49.740 --> 00:13:53.600
+<v Charles Caskey>with just RAM, it could take t- a simulation of an ultrasound transducer, maybe
+
+349
+00:13:53.620 --> 00:13:57.540
+<v Charles Caskey>like a, you know, spherical cap array like you see in, uh, some of
+
+350
+00:13:57.580 --> 00:14:02.200
+<v Charles Caskey>Sam's papers. It'll take, that could take 20 hours on a regular just hardware
+
+351
+00:14:02.260 --> 00:14:04.480
+<v Charles Caskey>with no, no acceleration, no optimization.
+
+352
+00:14:04.980 --> 00:14:07.400
+<v Charles Caskey>And in our lab, we use a lot of k-Wave, and so we'll dump
+
+353
+00:14:07.420 --> 00:14:13.100
+<v Charles Caskey>it over onto like some massive memory, uh, GPU, and it still takes d-
+
+354
+00:14:13.220 --> 00:14:15.240
+<v Charles Caskey>you know, 30 minutes or something.
+
+355
+00:14:15.360 --> 00:14:18.260
+<v Charles Caskey>Sam, I'm rooting for you. I would love to see this get down to
+
+356
+00:14:18.360 --> 00:14:20.400
+<v Charles Caskey>100 milliseconds because, yeah, it's, it's so...
+
+357
+00:14:21.020 --> 00:14:24.680
+<v Charles Caskey>What people, I think they don't appreciate is like, is exactly that point.
+
+358
+00:14:24.740 --> 00:14:28.640
+<v Charles Caskey>You, you simulate it, and then you try to like duplicate that in reality,
+
+359
+00:14:28.700 --> 00:14:31.900
+<v Charles Caskey>but reality never matches that. And so then you wanna tune, you want kind
+
+360
+00:14:31.920 --> 00:14:34.460
+<v Charles Caskey>of to tune your simulation on the fly, but like-
+
+361
+00:14:34.560 --> 00:14:36.020
+<v Sam Pichardo>Oh, absolutely. Yeah, no
+
+362
+00:14:36.040 --> 00:14:37.840
+<v Charles Caskey>... 10 minutes is still not enough for that.
+
+363
+00:14:37.940 --> 00:14:39.740
+<v Keith Murphy>Can you introduce what BabelBrain is?
+
+364
+00:14:39.840 --> 00:14:41.180
+<v Keith Murphy>That never happened in the beginning.
+
+365
+00:14:41.220 --> 00:14:42.120
+<v Keith Murphy>[laughs]
+
+366
+00:14:42.140 --> 00:14:42.640
+<v Sam Pichardo>Yeah, it's, it's gonna-
+
+367
+00:14:42.780 --> 00:14:44.300
+<v Keith Murphy>It's gonna be hard for people to figure that out.
+
+368
+00:14:44.540 --> 00:14:46.460
+<v Sam Pichardo>It's also a good point. It's, uh, yeah.
+
+369
+00:14:46.860 --> 00:14:52.920
+<v Sam Pichardo>Yeah, BabelBrain is, um, is a, is a tool to, to calculate the transcranial
+
+370
+00:14:53.000 --> 00:14:57.880
+<v Sam Pichardo>ultrasound, some, uh, um, energy, uh, and that you can achieve with a particular
+
+371
+00:14:57.960 --> 00:15:00.880
+<v Sam Pichardo>transducer in a given positional orientation.
+
+372
+00:15:01.480 --> 00:15:07.740
+<v Sam Pichardo>Um, the purpose is to s- inform experimenters of some, of the attainable intensity
+
+373
+00:15:07.840 --> 00:15:11.320
+<v Sam Pichardo>some, some of they, they could achieve to reach a particular target, like a
+
+374
+00:15:11.500 --> 00:15:16.080
+<v Sam Pichardo>subthalamic nucleus, the GPi, the Vim, motor cortex, et cetera.
+
+375
+00:15:16.660 --> 00:15:21.660
+<v Sam Pichardo>Um, it's connected with n- uh, with, uh, few tools for neuronavigation.
+
+376
+00:15:22.180 --> 00:15:24.460
+<v Sam Pichardo>One tool is a Canadian company called Rogue Research.
+
+377
+00:15:24.580 --> 00:15:28.180
+<v Sam Pichardo>We work close with them. We can call the tool directly from the neuronavigation,
+
+378
+00:15:28.580 --> 00:15:30.480
+<v Sam Pichardo>so kind of simplify the, the workflows.
+
+379
+00:15:30.540 --> 00:15:33.420
+<v Sam Pichardo>You can call BabelBrain directly from Brainsight.
+
+380
+00:15:33.700 --> 00:15:37.080
+<v Sam Pichardo>But we also make, we k- keep tabs, but to be sure people using
+
+381
+00:15:37.120 --> 00:15:41.340
+<v Sam Pichardo>tools like a 3D Slicer can also be able to use the tool.
+
+382
+00:15:41.910 --> 00:15:45.860
+<v Sam Pichardo>So, um, and people are using two type of scenarios, like a prospectively to
+
+383
+00:15:45.920 --> 00:15:50.380
+<v Sam Pichardo>help design and, and see how to, how to approach, you know, the, the,
+
+384
+00:15:50.740 --> 00:15:54.620
+<v Sam Pichardo>um, the, the ex- the, the experiments for transcranial ultrasound stimulation.
+
+385
+00:15:55.220 --> 00:15:58.440
+<v Sam Pichardo>And, and other people also use them retrospectively because, because why not?
+
+386
+00:15:58.500 --> 00:16:00.080
+<v Sam Pichardo>Somehow they have people who are doing experiments.
+
+387
+00:16:00.500 --> 00:16:04.920
+<v Sam Pichardo>They are using like, like a line-of-sight targeting with NeuroNav or in the scanners,
+
+388
+00:16:05.340 --> 00:16:08.540
+<v Sam Pichardo>and then later they run simulations to kind of inform themselves.
+
+389
+00:16:08.880 --> 00:16:12.860
+<v Sam Pichardo>Well, what was the variance in, of intensities they were, they were using?
+
+390
+00:16:12.920 --> 00:16:17.380
+<v Sam Pichardo>So that's kind-- We try to make it as, as approachable as possible, especially
+
+391
+00:16:17.420 --> 00:16:19.980
+<v Sam Pichardo>for experimenters who don't have background.
+
+392
+00:16:20.060 --> 00:16:22.920
+<v Sam Pichardo>You're running and you double-click in a, in a, in a executable-
+
+393
+00:16:22.960 --> 00:16:26.060
+<v Keith Murphy>So your goal is not, not to make it open source-ish.
+
+394
+00:16:26.120 --> 00:16:28.000
+<v Keith Murphy>It's more to say, "Here's the GUI.
+
+395
+00:16:28.140 --> 00:16:30.300
+<v Keith Murphy>Please provide feedback, and I will make it better."
+
+396
+00:16:30.680 --> 00:16:31.420
+<v Keith Murphy>Is that the way you approach-
+
+397
+00:16:31.440 --> 00:16:31.940
+<v Sam Pichardo>That has been-
+
+398
+00:16:31.840 --> 00:16:32.340
+<v Keith Murphy>... BabelBrain?
+
+399
+00:16:32.280 --> 00:16:34.880
+<v Sam Pichardo>That has been actually... So I mean, the whole code is fully open source.
+
+400
+00:16:34.920 --> 00:16:35.760
+<v Sam Pichardo>I mean, it has been always-
+
+401
+00:16:35.760 --> 00:16:36.640
+<v Charles Caskey>It is op- Yeah, I was gonna say it is open source, right?
+
+402
+00:16:36.660 --> 00:16:38.320
+<v Sam Pichardo>Yeah. It's fully open source. I mean, also my, my-
+
+403
+00:16:38.360 --> 00:16:40.440
+<v Keith Murphy>It goes, it goes way under the hood, though.
+
+404
+00:16:40.580 --> 00:16:43.640
+<v Keith Murphy>That code goes deep. So I don't think you-- It's not really your intent
+
+405
+00:16:43.660 --> 00:16:46.340
+<v Keith Murphy>for people to go create forks and branches.
+
+406
+00:16:46.400 --> 00:16:48.920
+<v Keith Murphy>It's, it's more of an intent to build something for them, right?
+
+407
+00:16:49.120 --> 00:16:52.700
+<v Charles Caskey>I think I'm in a unique place to really let people know that this
+
+408
+00:16:52.760 --> 00:16:55.540
+<v Charles Caskey>is, that you don't wanna build this tool yourself.
+
+409
+00:16:55.620 --> 00:16:58.400
+<v Charles Caskey>I, I think, [laughs] you know, I'm in the unique position to know how
+
+410
+00:16:58.440 --> 00:17:01.920
+<v Charles Caskey>much work goes into... And we didn't even build, you know, we still were
+
+411
+00:17:01.980 --> 00:17:04.380
+<v Charles Caskey>assembling parts, right? We were getting an optical tracker.
+
+412
+00:17:04.520 --> 00:17:09.720
+<v Charles Caskey>We were getting k-Wave. But even getting that just to work together was, to
+
+413
+00:17:09.760 --> 00:17:11.440
+<v Charles Caskey>me, felt like such a huge lift.
+
+414
+00:17:11.540 --> 00:17:15.340
+<v Charles Caskey>I think it's been super enabling and, and such a service task that you've
+
+415
+00:17:15.380 --> 00:17:19.180
+<v Charles Caskey>taken on to, um, to give this to the community.
+
+416
+00:17:19.540 --> 00:17:22.490
+<v Charles Caskey>So while we're on this topic, how, how ...
+
+417
+00:17:22.550 --> 00:17:27.050
+<v Charles Caskey>comfortable do you think we are with, like, the uncertainty of the targeting?
+
+418
+00:17:27.250 --> 00:17:30.030
+<v Charles Caskey>Do you think we're getting-- Do you think we've gotten better at it from,
+
+419
+00:17:30.090 --> 00:17:34.310
+<v Charles Caskey>like, say five years ago or six year- yeah, five to 10 years ago?
+
+420
+00:17:34.450 --> 00:17:35.330
+<v Charles Caskey>Have, have we gotten better?
+
+421
+00:17:35.450 --> 00:17:39.070
+<v Sam Pichardo>Well, you are, you are the l- the leader expert in characterizing the, the
+
+422
+00:17:39.150 --> 00:17:41.150
+<v Sam Pichardo>tracking error of, um, of- [chuckles]
+
+423
+00:17:41.150 --> 00:17:41.650
+<v Charles Caskey>Thanks
+
+424
+00:17:41.270 --> 00:17:43.690
+<v Sam Pichardo>... so my-- you know this way better than me.
+
+425
+00:17:43.950 --> 00:17:48.970
+<v Sam Pichardo>And actually, I have used your papers to justify to neurosurgeons we don't know
+
+426
+00:17:48.990 --> 00:17:50.130
+<v Sam Pichardo>if in Jon is no, okay?
+
+427
+00:17:50.150 --> 00:17:51.530
+<v Sam Pichardo>[laughs]
+
+428
+00:17:51.630 --> 00:17:52.990
+<v Charles Caskey>Thank you. That means the world to me.
+
+429
+00:17:53.070 --> 00:17:57.390
+<v Charles Caskey>The-- I think this was an under, underappreciated issue when I started writing those.
+
+430
+00:17:57.550 --> 00:18:01.570
+<v Sam Pichardo>That's one of the most important areas we need to keep improving.
+
+431
+00:18:02.050 --> 00:18:06.850
+<v Sam Pichardo>And I know some companies are working hard for people are jumping on this.
+
+432
+00:18:06.910 --> 00:18:10.450
+<v Sam Pichardo>They can narrow down better the tracking error with different approaches.
+
+433
+00:18:10.710 --> 00:18:13.410
+<v Sam Pichardo>What we did with the multi-focus was a dirty solution.
+
+434
+00:18:13.490 --> 00:18:16.990
+<v Sam Pichardo>Honestly, that's, that's not a-- I don't want to sugarcoat it a different way
+
+435
+00:18:17.050 --> 00:18:20.710
+<v Sam Pichardo>somehow because we went for having a small focus spot, and we're having seven
+
+436
+00:18:20.770 --> 00:18:22.530
+<v Sam Pichardo>focus spot and knowing not to miss- Yeah ...
+
+437
+00:18:22.730 --> 00:18:27.430
+<v Sam Pichardo>the targets. So we should actually somehow put-- opens the door to potential confounding
+
+438
+00:18:27.510 --> 00:18:32.270
+<v Sam Pichardo>factors. Other-- We, we may have other regions to be modulated, and we may
+
+439
+00:18:32.330 --> 00:18:36.850
+<v Sam Pichardo>have like a contradictory modulation. So it start to become a Pandora box there
+
+440
+00:18:36.930 --> 00:18:37.430
+<v Sam Pichardo>that can be-
+
+441
+00:18:37.510 --> 00:18:38.010
+<v Keith Murphy>Yeah
+
+442
+00:18:37.610 --> 00:18:39.430
+<v Sam Pichardo>... can be difficult to m- to move.
+
+443
+00:18:39.470 --> 00:18:42.250
+<v Sam Pichardo>But we need to go back to say, "This is my target.
+
+444
+00:18:42.530 --> 00:18:44.970
+<v Sam Pichardo>I only have one single focus spot, and this is what I want to
+
+445
+00:18:45.010 --> 00:18:45.510
+<v Sam Pichardo>do."
+
+446
+00:18:45.290 --> 00:18:46.810
+<v Keith Murphy>How many teams are doing the mask now?
+
+447
+00:18:46.950 --> 00:18:49.330
+<v Keith Murphy>So a lot of-- I think I keep seeing a lot of people just
+
+448
+00:18:50.230 --> 00:18:54.690
+<v Keith Murphy>taking the MRI and creating almost like a 3D print that lives on top
+
+449
+00:18:54.750 --> 00:18:58.370
+<v Keith Murphy>as a surface interference mesh. So then you have something that fits the person
+
+450
+00:18:58.410 --> 00:19:00.970
+<v Keith Murphy>like a mask, and then you put a hole in it, plug in the
+
+451
+00:19:01.010 --> 00:19:03.990
+<v Keith Murphy>transducer. I've seen that at least five or six times now.
+
+452
+00:19:04.050 --> 00:19:04.550
+<v Keith Murphy>It's coming up.
+
+453
+00:19:04.830 --> 00:19:05.330
+<v Sam Pichardo>Yeah.
+
+454
+00:19:05.110 --> 00:19:06.010
+<v Keith Murphy>What do you guys think about that?
+
+455
+00:19:06.250 --> 00:19:06.750
+<v Keith Murphy>Is it working?
+
+456
+00:19:06.750 --> 00:19:09.930
+<v Sam Pichardo>We kind of do something similar to one of the experiments we're doing here
+
+457
+00:19:10.270 --> 00:19:14.650
+<v Sam Pichardo>because exactly as, as what kind of helps to mitigate this, these, the, these
+
+458
+00:19:14.750 --> 00:19:18.070
+<v Sam Pichardo>problems. But, but it does still needs to pass through the MRIs.
+
+459
+00:19:18.150 --> 00:19:23.050
+<v Keith Murphy>MRI continuity is brutal too. I mean, GE, they really won't even allow you
+
+460
+00:19:23.090 --> 00:19:24.970
+<v Keith Murphy>to sort of transfer scan parameters.
+
+461
+00:19:25.010 --> 00:19:26.330
+<v Keith Murphy>They just don't want people to do it.
+
+462
+00:19:26.770 --> 00:19:29.870
+<v Keith Murphy>But even with Siemens, where they give you all the knobs and a printout,
+
+463
+00:19:30.330 --> 00:19:33.010
+<v Keith Murphy>you know, they're like, "Oh, take this and bring it to that Siemens scanner,"
+
+464
+00:19:33.650 --> 00:19:35.570
+<v Keith Murphy>often the scans don't really look the same.
+
+465
+00:19:35.790 --> 00:19:37.030
+<v Sam Pichardo>Oh, no, my God. Don't, don't, don't-
+
+466
+00:19:37.130 --> 00:19:37.630
+<v Keith Murphy>Right? It's-
+
+467
+00:19:37.670 --> 00:19:38.570
+<v Sam Pichardo>I can go hours-
+
+468
+00:19:38.630 --> 00:19:40.510
+<v Keith Murphy>We said we were gonna talk about the dirt sometime.
+
+469
+00:19:40.530 --> 00:19:41.210
+<v Sam Pichardo>Oh my gosh.
+
+470
+00:19:41.330 --> 00:19:41.830
+<v Keith Murphy>Yeah, yeah.
+
+471
+00:19:41.670 --> 00:19:42.370
+<v Sam Pichardo>That's the, that's the-
+
+472
+00:19:42.590 --> 00:19:43.090
+<v Keith Murphy>Oh, God.
+
+473
+00:19:43.230 --> 00:19:44.530
+<v Sam Pichardo>That's one of the dirtiest things.
+
+474
+00:19:44.570 --> 00:19:46.830
+<v Sam Pichardo>So PETRA scans. PETRA scans-
+
+475
+00:19:46.870 --> 00:19:47.370
+<v Keith Murphy>PETRA
+
+476
+00:19:47.330 --> 00:19:47.910
+<v Sam Pichardo>... has been-
+
+477
+00:19:48.090 --> 00:19:48.590
+<v Keith Murphy>Ultra-short echo time
+
+478
+00:19:48.530 --> 00:19:51.790
+<v Sam Pichardo>... has been-- PETRA scan is, is, um, for people who are not familiar,
+
+479
+00:19:52.070 --> 00:19:56.670
+<v Sam Pichardo>um, is, um, is a short, very short echo time sequence, and, um, that
+
+480
+00:19:56.830 --> 00:19:59.390
+<v Sam Pichardo>helps to get bone signal. Um, from- Yeah ...
+
+481
+00:19:59.450 --> 00:20:01.290
+<v Sam Pichardo>getting bone signal opens the door.
+
+482
+00:20:01.330 --> 00:20:03.670
+<v Sam Pichardo>Oh, can we do acoustic mapping properties from there?
+
+483
+00:20:03.790 --> 00:20:08.830
+<v Sam Pichardo>Um, and, and I haven't seen the Wild West people e-even taking exactly as
+
+484
+00:20:08.850 --> 00:20:13.750
+<v Sam Pichardo>you describe it. This-- The same PETRA scan, for example, from, from one-- recommended
+
+485
+00:20:13.790 --> 00:20:18.110
+<v Sam Pichardo>with one group in a different scanner, and the signal looks completely differently.
+
+486
+00:20:18.250 --> 00:20:23.050
+<v Sam Pichardo>So when you try to convert to pseudo CTs, the, the-- You have Hounsfield
+
+487
+00:20:23.150 --> 00:20:24.910
+<v Sam Pichardo>units of photos and Hounsfield units of...
+
+488
+00:20:24.950 --> 00:20:28.530
+<v Sam Pichardo>So you realize that actually is even worse for the simulation.
+
+489
+00:20:28.990 --> 00:20:32.310
+<v Sam Pichardo>I prefer you keeping a simple dummy mask from the sc- from the-
+
+490
+00:20:32.790 --> 00:20:33.290
+<v Charles Caskey>Yeah
+
+491
+00:20:32.870 --> 00:20:36.590
+<v Sam Pichardo>... from the T1 scan, which we, we can control, we can visualize.
+
+492
+00:20:37.130 --> 00:20:43.010
+<v Sam Pichardo>Uh, um, instead, instead injecting pseudo CTs with three photos and five Hounsfield units,
+
+493
+00:20:43.390 --> 00:20:46.390
+<v Sam Pichardo>that actually is going to, it's going to, it's going to affect badly the
+
+494
+00:20:46.450 --> 00:20:51.110
+<v Sam Pichardo>simulation because that, that has been one, the mo- one of the most painful
+
+495
+00:20:51.190 --> 00:20:53.070
+<v Sam Pichardo>things to see site after site.
+
+496
+00:20:53.390 --> 00:20:56.170
+<v Charles Caskey>I remember we wrote a paper where we were, like, really excited 'cause we
+
+497
+00:20:56.210 --> 00:21:01.350
+<v Charles Caskey>had this big, um, pool of, uh, of skull data, the NC-- uh, in
+
+498
+00:21:01.470 --> 00:21:06.110
+<v Charles Caskey>CT and MRI. We wrote a machine learning algorithm that could derive these values
+
+499
+00:21:06.170 --> 00:21:09.410
+<v Charles Caskey>from the MRI. So we were like, "This is cool because now we've got-"
+
+500
+00:21:09.430 --> 00:21:09.930
+<v Sam Pichardo>That's so nice.
+
+501
+00:21:09.910 --> 00:21:12.870
+<v Charles Caskey>"... the ab- we can derive this, and we don't have to use ionizing
+
+502
+00:21:12.950 --> 00:21:15.410
+<v Charles Caskey>radiation, and it's-- we're already taking an MRI."
+
+503
+00:21:15.490 --> 00:21:20.570
+<v Charles Caskey>We're like, "Awesome." And-- But the domain generalization of that, like, just completely failed.
+
+504
+00:21:20.630 --> 00:21:23.070
+<v Charles Caskey>Then, like, we would-- When we tried it on a different scanner, it was,
+
+505
+00:21:23.130 --> 00:21:26.330
+<v Charles Caskey>like, producing these wacky-looking skulls that weren't correct.
+
+506
+00:21:26.370 --> 00:21:29.390
+<v Charles Caskey>And, and exactly what-- I think what you were saying, Sam, like sometimes we
+
+507
+00:21:29.430 --> 00:21:31.530
+<v Charles Caskey>do-- you know, we need to train it more in order to get our
+
+508
+00:21:31.590 --> 00:21:32.390
+<v Charles Caskey>model more to do that-
+
+509
+00:21:32.430 --> 00:21:32.930
+<v Sam Pichardo>Yeah
+
+510
+00:21:32.710 --> 00:21:33.730
+<v Charles Caskey>... to generalize. And-
+
+511
+00:21:35.430 --> 00:21:35.930
+<v Sam Pichardo>To-
+
+512
+00:21:35.470 --> 00:21:38.790
+<v Keith Murphy>I think it's Maria Miscouridou from Brad Treeby's lab.
+
+513
+00:21:39.190 --> 00:21:39.690
+<v Sam Pichardo>Yeah. So-
+
+514
+00:21:39.610 --> 00:21:44.570
+<v Keith Murphy>She, she, she generated the mapping between CT and pseudo CT for speed of
+
+515
+00:21:44.610 --> 00:21:46.490
+<v Keith Murphy>sound and density that we're all using right now.
+
+516
+00:21:46.490 --> 00:21:47.450
+<v Sam Pichardo>Yeah. Actually, in BabelBrain-
+
+517
+00:21:47.450 --> 00:21:48.270
+<v Keith Murphy>And it's pretty good, right?
+
+518
+00:21:48.610 --> 00:21:50.550
+<v Sam Pichardo>Actually, in BabelBrain, we're using Maria's, Maria's papers.
+
+519
+00:21:50.590 --> 00:21:51.530
+<v Keith Murphy>You're using it? Yeah.
+
+520
+00:21:51.570 --> 00:21:54.550
+<v Sam Pichardo>Yeah. We're using direct and straightforward the methodology.
+
+521
+00:21:54.990 --> 00:21:59.710
+<v Sam Pichardo>So really some, uh-- we, we shamelessly [chuckles] adapt this, um, some, some, some
+
+522
+00:21:59.850 --> 00:22:04.770
+<v Sam Pichardo>Ma- Maria's, some, uh, implementation to, to convert for the two modalities, pseudo- Yeah
+
+523
+00:22:04.770 --> 00:22:08.330
+<v Sam Pichardo>... pseudo, uh, zero echo time from GE and PETRA from...
+
+524
+00:22:08.730 --> 00:22:12.310
+<v Sam Pichardo>But she has a few paper published, uh, a few years ago on the,
+
+525
+00:22:12.470 --> 00:22:16.510
+<v Sam Pichardo>on the GE, on the CT, some, uh, conversion, which I can tell you
+
+526
+00:22:16.570 --> 00:22:21.210
+<v Sam Pichardo>from a correct-- paradoxically coming to the point, say, GE is a little more
+
+527
+00:22:21.270 --> 00:22:23.370
+<v Sam Pichardo>difficult to transpose sequence between sites.
+
+528
+00:22:23.890 --> 00:22:27.470
+<v Sam Pichardo>People who are implementing the GE sequence we have been using, they have been
+
+529
+00:22:27.510 --> 00:22:31.710
+<v Sam Pichardo>more consistent to produce more reasonable pseudo CTs than, than, than PETRA.
+
+530
+00:22:31.850 --> 00:22:32.350
+<v Keith Murphy>Oh, than GE? [laughs]
+
+531
+00:22:32.010 --> 00:22:35.350
+<v Sam Pichardo>That has been my experience. Very b- It's, it's, it's a paradox on this.
+
+532
+00:22:35.390 --> 00:22:37.130
+<v Sam Pichardo>It's a, it's a very weird paradox.
+
+533
+00:22:37.430 --> 00:22:41.630
+<v Sam Pichardo>It's-- Actually, in BabelBrain, we added some, in one of the, uh, options we
+
+534
+00:22:41.670 --> 00:22:43.270
+<v Sam Pichardo>added where you can modify the equation.
+
+535
+00:22:43.470 --> 00:22:49.090
+<v Sam Pichardo>It's a linear equation. So you can go modify the parameters directly as it
+
+536
+00:22:49.170 --> 00:22:53.010
+<v Sam Pichardo>stand. But the problem is, um, really some, uh-- this will be, be, will
+
+537
+00:22:53.090 --> 00:22:55.110
+<v Sam Pichardo>become some, uh, site dependent. No?
+
+538
+00:22:55.190 --> 00:22:56.190
+<v Sam Pichardo>Which is, this is the problem.
+
+539
+00:22:56.230 --> 00:22:56.730
+<v Keith Murphy>Yeah.
+
+540
+00:22:56.730 --> 00:23:00.630
+<v Sam Pichardo>But the other effort was machine learning method, um, uh, the, the-- It's been
+
+541
+00:23:00.730 --> 00:23:04.290
+<v Sam Pichardo>working co- in, in a, in a very good collaboration we have, we have
+
+542
+00:23:04.350 --> 00:23:09.370
+<v Sam Pichardo>thanks to Marvel and Rain. Uh, again, touching wood, hopefully next quarter, next month,
+
+543
+00:23:09.470 --> 00:23:13.530
+<v Sam Pichardo>we can make an announcement some, um, people will, uh, we would like people
+
+544
+00:23:13.570 --> 00:23:14.850
+<v Sam Pichardo>start to use it and test it.
+
+545
+00:23:15.210 --> 00:23:15.730
+<v Keith Murphy>So cool.
+
+546
+00:23:16.750 --> 00:23:19.950
+<v Charles Caskey>Um, and Keith, did you have a, a, any, a next topic?
+
+547
+00:23:20.030 --> 00:23:22.470
+<v Charles Caskey>I kind of had some other areas, but I wa- I wanna make sure
+
+548
+00:23:22.510 --> 00:23:24.470
+<v Charles Caskey>you get, get your q- get your questions in.
+
+549
+00:23:24.470 --> 00:23:24.970
+<v Charles Caskey>[laughs]
+
+550
+00:23:24.950 --> 00:23:28.590
+<v Keith Murphy>I-- Well, do you guys wanna talk about tremor or the single element?
+
+551
+00:23:28.710 --> 00:23:30.310
+<v Charles Caskey>Let's talk a little bit about tremor.
+
+552
+00:23:30.370 --> 00:23:34.190
+<v Charles Caskey>It's been a-- That was a really, uh, kind of flagship study from Sam's
+
+553
+00:23:34.250 --> 00:23:38.950
+<v Charles Caskey>group this past year. Um, so this would, would-- This was modulation of essential--
+
+554
+00:23:39.170 --> 00:23:42.150
+<v Charles Caskey>patients suffering from essential tremor. Do you wanna give a brief overview of the
+
+555
+00:23:42.210 --> 00:23:42.710
+<v Charles Caskey>study, Sam?
+
+556
+00:23:42.650 --> 00:23:48.250
+<v Sam Pichardo>Yeah, exactly. Um, um, as we mentioned, we are, from the, from the day
+
+557
+00:23:48.330 --> 00:23:51.610
+<v Sam Pichardo>I arrived to Calgary, was kind of we need to go in that direction,
+
+558
+00:23:51.670 --> 00:23:54.490
+<v Sam Pichardo>no? So, and we work as someone in order to create a platform that
+
+559
+00:23:54.530 --> 00:23:57.910
+<v Sam Pichardo>can do neuromodulation in deep targets and et cetera, blah, blah.
+
+560
+00:23:58.130 --> 00:24:02.630
+<v Sam Pichardo>And that was... Uh, so these patients, uh, are, um, uh, exhibit this high,
+
+561
+00:24:02.790 --> 00:24:04.670
+<v Sam Pichardo>uh, high degree of, of tremor.
+
+562
+00:24:04.870 --> 00:24:09.110
+<v Sam Pichardo>Um, and the way we s- we s- we, we start to design the
+
+563
+00:24:09.150 --> 00:24:14.370
+<v Sam Pichardo>first, this study, there's patients, for example, who either are going to have a
+
+564
+00:24:14.410 --> 00:24:19.670
+<v Sam Pichardo>pres-, uh, are prescribed to receive a surgery, so tremors are really significant, or
+
+565
+00:24:19.790 --> 00:24:23.610
+<v Sam Pichardo>patient who got already a surgery but were treated in the contralateral side.
+
+566
+00:24:23.930 --> 00:24:28.210
+<v Sam Pichardo>The, the side was not treated, which often has also very, very strong tremor.
+
+567
+00:24:28.890 --> 00:24:29.390
+<v Sam Pichardo>So, um-
+
+568
+00:24:29.210 --> 00:24:31.690
+<v Keith Murphy>And the surgery would've been ablation of the ventromedial thalamus.
+
+569
+00:24:31.690 --> 00:24:33.810
+<v Sam Pichardo>Ablation using the focused ultrasound, some surgery.
+
+570
+00:24:33.850 --> 00:24:36.770
+<v Sam Pichardo>So we have a very good setting, like I have a good pool list
+
+571
+00:24:36.930 --> 00:24:39.250
+<v Sam Pichardo>of patients exactly can, can feed that.
+
+572
+00:24:39.770 --> 00:24:43.430
+<v Sam Pichardo>And the idea was trying to reproduce what other people were doing, by example.
+
+573
+00:24:43.470 --> 00:24:47.570
+<v Sam Pichardo>And we have managed to establish some parameters that produce a significant inhibitory response
+
+574
+00:24:48.290 --> 00:24:49.370
+<v Sam Pichardo>of at the first certain part.
+
+575
+00:24:49.910 --> 00:24:53.410
+<v Sam Pichardo>Can we take this inhibitory protocol to suppress tremor?
+
+576
+00:24:53.490 --> 00:24:54.810
+<v Sam Pichardo>That was the, the, the hypothesis.
+
+577
+00:24:55.350 --> 00:24:55.850
+<v Sam Pichardo>Um-
+
+578
+00:24:55.370 --> 00:24:57.310
+<v Keith Murphy>Can we, uh, can we motivate the problem too?
+
+579
+00:24:57.470 --> 00:25:02.470
+<v Keith Murphy>So there are surgeries available. There's DBS, but why neuromodulation?
+
+580
+00:25:02.770 --> 00:25:03.850
+<v Keith Murphy>Um, I have an answer, but-
+
+581
+00:25:04.510 --> 00:25:05.010
+<v Sam Pichardo>Well-
+
+582
+00:25:04.570 --> 00:25:05.070
+<v Keith Murphy>... I'm interested.
+
+583
+00:25:04.610 --> 00:25:06.270
+<v Sam Pichardo>The, the, the neu- No, it's a good point.
+
+584
+00:25:06.310 --> 00:25:08.010
+<v Sam Pichardo>So the neuromod- the neuromodulation-
+
+585
+00:25:08.150 --> 00:25:08.650
+<v Keith Murphy>Yeah.
+
+586
+00:25:08.450 --> 00:25:11.370
+<v Sam Pichardo>Why? Yeah ... although this, uh, is, is, um, and opens a, a, a
+
+587
+00:25:11.470 --> 00:25:17.450
+<v Sam Pichardo>couple, uh, opportunities. One is, well, can we, can, can we produce clinical, um,
+
+588
+00:25:17.830 --> 00:25:22.670
+<v Sam Pichardo>observable modification? Which can also say, okay, if we are able to suppress tremor,
+
+589
+00:25:22.730 --> 00:25:27.410
+<v Sam Pichardo>by example, one single session, c- that can potentially m- become maybe some, an
+
+590
+00:25:27.470 --> 00:25:30.950
+<v Sam Pichardo>alternative to surgery or something can happen before surgery, by example.
+
+591
+00:25:31.330 --> 00:25:33.330
+<v Sam Pichardo>Some of that, that right there opens that kind of door.
+
+592
+00:25:33.610 --> 00:25:37.890
+<v Sam Pichardo>But even the fact you can produce something is modulating a pheno- a, a
+
+593
+00:25:37.930 --> 00:25:43.290
+<v Sam Pichardo>very strong phenotype associated to a, to a disease, that still helps to justify
+
+594
+00:25:43.350 --> 00:25:46.690
+<v Sam Pichardo>to go, by example, okay, well, why do we go to Parkinson's, which are
+
+595
+00:25:46.750 --> 00:25:50.490
+<v Sam Pichardo>more, way more complicated? Some, uh, some has much more complex, some, uh, some,
+
+596
+00:25:50.670 --> 00:25:52.230
+<v Sam Pichardo>uh, some, uh, uh, series of phenotypes.
+
+597
+00:25:52.630 --> 00:25:57.050
+<v Sam Pichardo>But, but it is still some, uh, essential tremor is, um, it's a nice...
+
+598
+00:25:57.430 --> 00:25:59.250
+<v Sam Pichardo>Well, no, probably that's not reliable.
+
+599
+00:25:59.950 --> 00:26:00.450
+<v Sam Pichardo>It's-
+
+600
+00:26:00.050 --> 00:26:01.230
+<v Keith Murphy>It is nice model. Yeah.
+
+601
+00:26:01.270 --> 00:26:01.770
+<v Sam Pichardo>It's a nice-
+
+602
+00:26:01.870 --> 00:26:02.370
+<v Keith Murphy>It's a nice model.
+
+603
+00:26:02.110 --> 00:26:04.050
+<v Sam Pichardo>But I don't want, yeah, I don't want to put pictures and put in
+
+604
+00:26:04.090 --> 00:26:05.230
+<v Sam Pichardo>the work like a nice model.
+
+605
+00:26:05.390 --> 00:26:06.270
+<v Sam Pichardo>I don't think this is, this is-
+
+606
+00:26:06.370 --> 00:26:07.250
+<v Keith Murphy>Yeah. Well, you made it look good
+
+607
+00:26:07.250 --> 00:26:08.110
+<v Sam Pichardo>... I think that's really adequate.
+
+608
+00:26:08.470 --> 00:26:10.910
+<v Keith Murphy>Can I, can I make a statement that may or may not be wrong?
+
+609
+00:26:11.110 --> 00:26:14.710
+<v Keith Murphy>I think a lot of teams who don't feel like we have a grip
+
+610
+00:26:14.750 --> 00:26:19.590
+<v Keith Murphy>in ultrasound neuromodulation, they're probably right, start in essential tremor because they consider it
+
+611
+00:26:19.770 --> 00:26:22.410
+<v Keith Murphy>so robust. It just happens or it doesn't.
+
+612
+00:26:22.810 --> 00:26:23.310
+<v Keith Murphy>Which-
+
+613
+00:26:23.110 --> 00:26:23.610
+<v Sam Pichardo>It's-
+
+614
+00:26:23.410 --> 00:26:24.030
+<v Keith Murphy>... I would push back-
+
+615
+00:26:24.050 --> 00:26:24.550
+<v Sam Pichardo>It can be measured
+
+616
+00:26:24.550 --> 00:26:25.650
+<v Keith Murphy>... it's not entirely true, though.
+
+617
+00:26:26.530 --> 00:26:27.030
+<v Keith Murphy>Um, I-
+
+618
+00:26:26.970 --> 00:26:27.470
+<v Sam Pichardo>Yeah
+
+619
+00:26:27.190 --> 00:26:29.130
+<v Keith Murphy>... I, and Sam, we'll get into this with yours.
+
+620
+00:26:29.330 --> 00:26:32.250
+<v Keith Murphy>I love your data, but I do want to know how much you think
+
+621
+00:26:32.310 --> 00:26:35.510
+<v Keith Murphy>it's from relaxation or mind over matter.
+
+622
+00:26:35.610 --> 00:26:39.530
+<v Keith Murphy>When, in Parkinson's, for instance, if you ask the person to pay attention to
+
+623
+00:26:39.550 --> 00:26:43.510
+<v Keith Murphy>their tremor, it will, it will very often just freeze for a moment.
+
+624
+00:26:43.950 --> 00:26:44.450
+<v Keith Murphy>So there's-
+
+625
+00:26:44.250 --> 00:26:44.750
+<v Sam Pichardo>It-
+
+626
+00:26:44.330 --> 00:26:45.870
+<v Keith Murphy>... a lot of sort of top-down control.
+
+627
+00:26:45.970 --> 00:26:46.490
+<v Sam Pichardo>Th- That's-
+
+628
+00:26:46.510 --> 00:26:47.010
+<v Charles Caskey>Oh, yeah
+
+629
+00:26:46.590 --> 00:26:50.730
+<v Sam Pichardo>... the reason we are doing now a fully double-blind, well-controlled studies.
+
+630
+00:26:50.790 --> 00:26:51.290
+<v Keith Murphy>Nice.
+
+631
+00:26:50.810 --> 00:26:51.310
+<v Sam Pichardo>You know, that's the-
+
+632
+00:26:51.330 --> 00:26:53.570
+<v Keith Murphy>Well, actually, t-tell them about your data first, though.
+
+633
+00:26:53.670 --> 00:26:55.450
+<v Keith Murphy>Let's get back into how, how did it go?
+
+634
+00:26:55.890 --> 00:26:57.350
+<v Keith Murphy>The paper looked, looked awesome to me.
+
+635
+00:26:57.350 --> 00:27:00.390
+<v Sam Pichardo>I mean, the, the, the pa- the paper, although this-- I mean, the, the
+
+636
+00:27:00.490 --> 00:27:04.790
+<v Sam Pichardo>paper, we, we had to change it to logarithmic scale how dramatic was the
+
+637
+00:27:04.830 --> 00:27:07.630
+<v Sam Pichardo>tremor reduction. I mean, in your scale, you can even appreciate it, but like,
+
+638
+00:27:07.770 --> 00:27:11.710
+<v Sam Pichardo>but like a really small. We need to transform it to log scale how,
+
+639
+00:27:12.310 --> 00:27:15.250
+<v Sam Pichardo>between two, two orders of magnitude on the tremor, tremor amplitude.
+
+640
+00:27:15.550 --> 00:27:16.290
+<v Sam Pichardo>So it went from-
+
+641
+00:27:16.310 --> 00:27:19.110
+<v Charles Caskey>So the-- And just to make sure, for those who hadn't read the paper,
+
+642
+00:27:19.370 --> 00:27:23.810
+<v Charles Caskey>you are measuring with an accelerometer the magnitude of the tremor, is that correct?
+
+643
+00:27:24.450 --> 00:27:24.950
+<v Sam Pichardo>Yes.
+
+644
+00:27:24.470 --> 00:27:28.810
+<v Charles Caskey>And then you're saying that, that the ma- the change in magnitude when you
+
+645
+00:27:28.850 --> 00:27:32.390
+<v Charles Caskey>turned ultrasound on was so great you needed to have a logarithmic scale.
+
+646
+00:27:32.570 --> 00:27:33.870
+<v Charles Caskey>Uh, is that what you're, you're saying there?
+
+647
+00:27:33.990 --> 00:27:38.850
+<v Sam Pichardo>Oh, yeah, exactly. So my, the interesting aspect, it was consistent where our, our
+
+648
+00:27:38.910 --> 00:27:41.850
+<v Sam Pichardo>motor cortex experiments actually doesn't happen instantaneously.
+
+649
+00:27:41.870 --> 00:27:44.190
+<v Sam Pichardo>It takes like a f- 10, 15 minutes to, to drop.
+
+650
+00:27:44.450 --> 00:27:50.010
+<v Sam Pichardo>Many other studies has reported that you have the strongest effect actually occurring some,
+
+651
+00:27:50.110 --> 00:27:52.930
+<v Sam Pichardo>uh, 10, 15 minutes after the exposure.
+
+652
+00:27:53.410 --> 00:27:56.330
+<v Sam Pichardo>And that was also kind of go- kind of, okay, that's kind of a
+
+653
+00:27:56.390 --> 00:28:00.630
+<v Sam Pichardo>little consequence from what we're observing with our motor cortex experiments.
+
+654
+00:28:00.850 --> 00:28:04.010
+<v Sam Pichardo>That means it's not necessarily instantaneous modulation happening.
+
+655
+00:28:04.390 --> 00:28:09.170
+<v Sam Pichardo>If something is happening in microenvironment, in the ion channels environment, that it takes
+
+656
+00:28:09.330 --> 00:28:14.250
+<v Sam Pichardo>times to settle and reconfigure itself in order somehow to, to show that change.
+
+657
+00:28:14.470 --> 00:28:15.870
+<v Charles Caskey>Sam's given us fuel.
+
+658
+00:28:15.890 --> 00:28:16.390
+<v Keith Murphy>Did you feel like it was needed?
+
+659
+00:28:16.470 --> 00:28:19.730
+<v Sam Pichardo>The, the, the intensity, I don't remember, it was five or 10.
+
+660
+00:28:19.850 --> 00:28:22.510
+<v Sam Pichardo>I think we, no, I think we went to 10 watts per square centimeter,
+
+661
+00:28:22.570 --> 00:28:23.430
+<v Sam Pichardo>so I need to double-check.
+
+662
+00:28:23.790 --> 00:28:26.870
+<v Keith Murphy>500 kilopascals, something like that? 400, 500.
+
+663
+00:28:27.250 --> 00:28:29.750
+<v Sam Pichardo>400, 500, well, this actually around, around those range.
+
+664
+00:28:29.950 --> 00:28:30.630
+<v Sam Pichardo>Probably even, even more.
+
+665
+00:28:30.650 --> 00:28:33.910
+<v Keith Murphy>That, that seems to be... If, if, you know, there's a lot of reviews
+
+666
+00:28:33.930 --> 00:28:38.970
+<v Keith Murphy>and stuff, but it seems from, to me from literature that exceeding 300 kilopascals,
+
+667
+00:28:39.150 --> 00:28:42.770
+<v Keith Murphy>0.3 megapascals, that seems to be where things start to really kick in.
+
+668
+00:28:43.370 --> 00:28:46.730
+<v Keith Murphy>And I feel like your level of precision and simulation is just excellent, so
+
+669
+00:28:46.770 --> 00:28:48.090
+<v Keith Murphy>we can really trust that you got that.
+
+670
+00:28:48.490 --> 00:28:52.510
+<v Sam Pichardo>I think we can maybe go in, it's, it's something around those, those lines.
+
+671
+00:28:52.570 --> 00:28:54.310
+<v Sam Pichardo>I mean, I like the 15 watts, honestly.
+
+672
+00:28:54.790 --> 00:28:57.990
+<v Sam Pichardo>The 15 watts, uh, uh, in 10 ISPPAs.
+
+673
+00:28:58.170 --> 00:28:58.910
+<v Sam Pichardo>We don't need to go higher.
+
+674
+00:28:59.370 --> 00:29:00.390
+<v Sam Pichardo>Let's focus on targeting-
+
+675
+00:29:00.490 --> 00:29:01.950
+<v Keith Murphy>I think we're good. [laughs]
+
+676
+00:29:02.150 --> 00:29:02.650
+<v Sam Pichardo>And let's-
+
+677
+00:29:02.270 --> 00:29:02.770
+<v Keith Murphy>That's wise. Yeah
+
+678
+00:29:02.710 --> 00:29:06.810
+<v Sam Pichardo>... I mean, maybe targeting and duration go to three minutes, maybe 10 minutes
+
+679
+00:29:06.870 --> 00:29:09.390
+<v Sam Pichardo>exposure to see if the effect lasts longer, blah, blah, blah.
+
+680
+00:29:09.670 --> 00:29:12.590
+<v Sam Pichardo>But at the beginnings, we said we're going to get some quick data.
+
+681
+00:29:13.210 --> 00:29:16.550
+<v Sam Pichardo>It's an open pilot, which I know sometimes, but now we are free.
+
+682
+00:29:16.890 --> 00:29:19.410
+<v Sam Pichardo>We are not doing any more and more pilot, pilot on stu- studies.
+
+683
+00:29:19.530 --> 00:29:22.990
+<v Sam Pichardo>Maybe by the c- by the conference of FUN, um, in Pa- in Paris,
+
+684
+00:29:23.070 --> 00:29:27.610
+<v Sam Pichardo>in FUN '26, maybe hopefully we have some data, some, some, some preliminary data
+
+685
+00:29:27.930 --> 00:29:28.870
+<v Sam Pichardo>to share, but I think
+
+686
+00:29:30.450 --> 00:29:33.110
+<v Charles Caskey>Well, y- yeah, you have to start somewhere, and you see a lot of--
+
+687
+00:29:33.370 --> 00:29:36.230
+<v Charles Caskey>Uh, I think when technologies are new, I think you see a lot of
+
+688
+00:29:36.270 --> 00:29:39.750
+<v Charles Caskey>crossover study designs instead of a completely blinded control.
+
+689
+00:29:39.890 --> 00:29:44.510
+<v Charles Caskey>If you haven't done it before in animal studies, for instance, it's pretty rare
+
+690
+00:29:44.570 --> 00:29:47.830
+<v Charles Caskey>that you're fully blinded to things, uh, in a, in a lot of c-
+
+691
+00:29:47.990 --> 00:29:52.610
+<v Charles Caskey>you know, small like N of 10 studies, which is a vast majority of
+
+692
+00:29:52.630 --> 00:29:55.430
+<v Charles Caskey>what we read, and, and like grad students and other things.
+
+693
+00:29:55.470 --> 00:29:58.810
+<v Charles Caskey>Well, what they work on, they aren't typically in a, at least in a
+
+694
+00:29:58.830 --> 00:30:03.770
+<v Charles Caskey>preclinical laboratory done that way. And so it's, it's seeing these-- the level of
+
+695
+00:30:03.810 --> 00:30:07.430
+<v Charles Caskey>rigor just kind of ratchet up as you move closer to humans and get,
+
+696
+00:30:07.630 --> 00:30:08.670
+<v Charles Caskey>get further down the road-
+
+697
+00:30:08.690 --> 00:30:09.430
+<v Sam Pichardo>But, yeah, you took me-
+
+698
+00:30:09.430 --> 00:30:10.650
+<v Charles Caskey>... it's exciting, but it's tough.
+
+699
+00:30:11.050 --> 00:30:13.790
+<v Sam Pichardo>Yeah, touching a good point, but especially behavioral analysis.
+
+700
+00:30:14.290 --> 00:30:17.430
+<v Sam Pichardo>Well, make some-- I took over the whole files.
+
+701
+00:30:17.750 --> 00:30:21.830
+<v Sam Pichardo>I really rename it, reshuffle, and then they send them back to the, to,
+
+702
+00:30:22.030 --> 00:30:25.110
+<v Sam Pichardo>to the, to the main person doing the experiments, so I can cover.
+
+703
+00:30:25.990 --> 00:30:29.930
+<v Sam Pichardo>That's still-- This is still a door that people can still recognize the mice
+
+704
+00:30:29.950 --> 00:30:31.910
+<v Sam Pichardo>and say, "Ah, no, I remember these mice was the ones."
+
+705
+00:30:31.990 --> 00:30:33.170
+<v Sam Pichardo>[laughs]
+
+706
+00:30:33.250 --> 00:30:33.750
+<v Charles Caskey>Uh-huh. Yeah, yeah, yeah.
+
+707
+00:30:33.770 --> 00:30:36.450
+<v Sam Pichardo>That one. This, this, this is still the room, pro- but at least we're
+
+708
+00:30:36.510 --> 00:30:40.190
+<v Sam Pichardo>still making an effort somehow to, to, to blind somehow, because-
+
+709
+00:30:40.350 --> 00:30:40.850
+<v Charles Caskey>Yeah, and that-
+
+710
+00:30:40.810 --> 00:30:42.750
+<v Keith Murphy>Guys, I missed what the sham was for the new study.
+
+711
+00:30:42.950 --> 00:30:45.110
+<v Keith Murphy>Is it off target or is it unfocused?
+
+712
+00:30:45.190 --> 00:30:48.830
+<v Keith Murphy>'Cause you're using an array that you can diffuse the ultrasound.
+
+713
+00:30:49.930 --> 00:30:51.050
+<v Keith Murphy>Did you say? Did I miss it?
+
+714
+00:30:51.050 --> 00:30:51.550
+<v Keith Murphy>Oh, okay.
+
+715
+00:30:51.070 --> 00:30:53.690
+<v Sam Pichardo>In the published, in the published paper, uh, there was no sham control.
+
+716
+00:30:53.830 --> 00:30:55.250
+<v Keith Murphy>No, no, in the new one that you're doing.
+
+717
+00:30:55.310 --> 00:30:55.810
+<v Sam Pichardo>Ah, yeah.
+
+718
+00:30:55.590 --> 00:30:56.090
+<v Keith Murphy>You're doing the-
+
+719
+00:30:55.670 --> 00:30:56.170
+<v Sam Pichardo>We are-
+
+720
+00:30:56.130 --> 00:30:56.630
+<v Keith Murphy>Yeah
+
+721
+00:30:56.210 --> 00:30:58.630
+<v Sam Pichardo>... we are defocusing. We are, we are defocusing, you know.
+
+722
+00:30:58.710 --> 00:30:59.210
+<v Keith Murphy>Oh, nice. Very nice. Yeah.
+
+723
+00:30:59.230 --> 00:31:03.530
+<v Sam Pichardo>So exactly. So we actually, we, we will have the bone conduction phenomenon, so
+
+724
+00:31:03.570 --> 00:31:04.470
+<v Sam Pichardo>when the auditory confound-
+
+725
+00:31:04.510 --> 00:31:08.910
+<v Keith Murphy>Yeah. Do you guys remember at the Chen Institute when, uh, I'll just tell
+
+726
+00:31:08.950 --> 00:31:12.130
+<v Keith Murphy>this story super quick, but there was this fellow on stage who will go
+
+727
+00:31:12.190 --> 00:31:16.610
+<v Keith Murphy>unnamed, and, uh, I don't think he's really an expert in ultrasound neuromodulation, but
+
+728
+00:31:16.630 --> 00:31:20.630
+<v Keith Murphy>he made it to the meeting, and, uh, he said on stage, we were
+
+729
+00:31:20.670 --> 00:31:23.850
+<v Keith Murphy>like: "Well, what's the control?" "Oh, I kept, I kept the device off."
+
+730
+00:31:24.270 --> 00:31:26.730
+<v Keith Murphy>And it's like: "Well, what about the auditory confound?"
+
+731
+00:31:27.090 --> 00:31:28.570
+<v Keith Murphy>And he said: "Well, there is none."
+
+732
+00:31:28.790 --> 00:31:30.530
+<v Keith Murphy>And before anyone could do anything-
+
+733
+00:31:30.650 --> 00:31:31.150
+<v Sam Pichardo>Mm
+
+734
+00:31:30.770 --> 00:31:34.670
+<v Keith Murphy>... Sam, Sam goes, "No!" And everybody jumped on, including myself.
+
+735
+00:31:34.710 --> 00:31:36.990
+<v Keith Murphy>We were like: "No!" [laughs]
+
+736
+00:31:37.030 --> 00:31:38.050
+<v Sam Pichardo>Yeah, no, no, that's-
+
+737
+00:31:38.090 --> 00:31:40.490
+<v Keith Murphy>You remember that, Sam? [laughs] You started this all.
+
+738
+00:31:40.710 --> 00:31:41.210
+<v Sam Pichardo>Yeah, yeah. That, that's how-
+
+739
+00:31:41.050 --> 00:31:41.730
+<v Keith Murphy>We all attacked
+
+740
+00:31:41.850 --> 00:31:42.990
+<v Sam Pichardo>... that's how we do boundary.
+
+741
+00:31:42.990 --> 00:31:43.550
+<v Sam Pichardo>[laughs]
+
+742
+00:31:43.590 --> 00:31:45.350
+<v Keith Murphy>There, there was blood in the water.
+
+743
+00:31:45.470 --> 00:31:45.970
+<v Keith Murphy>[laughs]
+
+744
+00:31:45.970 --> 00:31:47.790
+<v Charles Caskey>Yeah, yeah, I was gonna say, I feel like the, the FUS-
+
+745
+00:31:47.830 --> 00:31:48.390
+<v Keith Murphy>Sam, sorry about that
+
+746
+00:31:48.390 --> 00:31:53.150
+<v Charles Caskey>... neuromodulation community d- though they are very supportive, we're, we, we, we're, we're
+
+747
+00:31:53.210 --> 00:31:55.590
+<v Charles Caskey>sensitive about some things. [laughs]
+
+748
+00:31:57.950 --> 00:31:59.750
+<v Sam Pichardo>Exactly. My, my political correctness is-
+
+749
+00:31:59.770 --> 00:32:00.270
+<v Keith Murphy>That was funny
+
+750
+00:31:59.950 --> 00:32:02.110
+<v Sam Pichardo>... is very low. [laughs] [laughs]
+
+751
+00:32:02.170 --> 00:32:05.990
+<v Keith Murphy>But we all, we all jumped on that bandwagon so fast that you wouldn't
+
+752
+00:32:06.030 --> 00:32:10.310
+<v Keith Murphy>have known who started it, but I'm 100% sure [laughs] it's you, Sam.
+
+753
+00:32:11.030 --> 00:32:12.590
+<v Keith Murphy>I heard it. You were sitting right next to me.
+
+754
+00:32:12.610 --> 00:32:14.690
+<v Keith Murphy>[laughs] Oh, it was great.
+
+755
+00:32:14.730 --> 00:32:15.610
+<v Sam Pichardo>Yeah, no, it's-
+
+756
+00:32:15.690 --> 00:32:16.510
+<v Keith Murphy>That was hilarious
+
+757
+00:32:16.510 --> 00:32:19.550
+<v Sam Pichardo>... my, my-- Yeah, and they started-- But, but I think, yeah, pro- probably
+
+758
+00:32:19.610 --> 00:32:25.450
+<v Sam Pichardo>because somebody-- I mean, by then, um, it's mostly, uh, uh, uh, it kinda
+
+759
+00:32:25.510 --> 00:32:28.430
+<v Sam Pichardo>annoyed you when people, "Have you, have you not read a single paper in
+
+760
+00:32:28.470 --> 00:32:29.450
+<v Sam Pichardo>the last five years?" [laughs]
+
+761
+00:32:29.450 --> 00:32:29.950
+<v Keith Murphy>Yeah.
+
+762
+00:32:29.470 --> 00:32:31.850
+<v Sam Pichardo>Or at least has come, has come on-
+
+763
+00:32:31.870 --> 00:32:32.370
+<v Keith Murphy>I know
+
+764
+00:32:31.930 --> 00:32:33.690
+<v Sam Pichardo>... in my position. Come on, give us a-
+
+765
+00:32:33.770 --> 00:32:34.270
+<v Charles Caskey>I think that's-
+
+766
+00:32:34.030 --> 00:32:36.190
+<v Sam Pichardo>... give us a break. [laughs]
+
+767
+00:32:36.190 --> 00:32:39.130
+<v Charles Caskey>No, I-- Yeah, I think, I think everybody understands that it can be hard
+
+768
+00:32:39.190 --> 00:32:42.710
+<v Charles Caskey>to account for. Um, and, and you need to at least, like, be aware.
+
+769
+00:32:42.790 --> 00:32:45.010
+<v Charles Caskey>But to, yeah, to not be aware of that, that-
+
+770
+00:32:45.070 --> 00:32:45.570
+<v Keith Murphy>Oh, boy
+
+771
+00:32:45.270 --> 00:32:49.650
+<v Charles Caskey>... an auditory confound exists in the year twen- in the year 2025, 2026.
+
+772
+00:32:49.730 --> 00:32:50.510
+<v Sam Pichardo>Exactly.
+
+773
+00:32:50.510 --> 00:32:51.010
+<v Charles Caskey>It's-
+
+774
+00:32:50.770 --> 00:32:55.630
+<v Sam Pichardo>It was, was a little-- I re- I remember, and actually, well, I, I
+
+775
+00:32:55.690 --> 00:33:01.970
+<v Sam Pichardo>think it was exactly in, in Vanderbilt somewhere in ISTU with, uh, uh, Sato
+
+776
+00:33:02.090 --> 00:33:03.070
+<v Sam Pichardo>was presenting.
+
+777
+00:33:03.430 --> 00:33:03.930
+<v Charles Caskey>Oh, yeah.
+
+778
+00:33:03.710 --> 00:33:04.210
+<v Sam Pichardo>Remember?
+
+779
+00:33:04.250 --> 00:33:04.750
+<v Charles Caskey>Mm-hmm.
+
+780
+00:33:04.550 --> 00:33:06.730
+<v Sam Pichardo>And it was a big commotion because it was one-
+
+781
+00:33:06.770 --> 00:33:07.270
+<v Charles Caskey>Yeah
+
+782
+00:33:06.850 --> 00:33:10.570
+<v Sam Pichardo>... of the first papers actually showing, "Hey, guys, we have an answer.
+
+783
+00:33:11.070 --> 00:33:12.050
+<v Sam Pichardo>We, we, we- Yeah ... have an answer."
+
+784
+00:33:12.470 --> 00:33:13.790
+<v Sam Pichardo>And even the guy left the country.
+
+785
+00:33:13.830 --> 00:33:15.490
+<v Sam Pichardo>It was me who published this, by the way.
+
+786
+00:33:15.490 --> 00:33:17.350
+<v Sam Pichardo>[laughs] [laughs]
+
+787
+00:33:17.390 --> 00:33:18.270
+<v Charles Caskey>Yeah. Yeah.
+
+788
+00:33:18.350 --> 00:33:21.630
+<v Sam Pichardo>I remember that so well in ISTU, in, in, in my, in, in my
+
+789
+00:33:21.750 --> 00:33:22.250
+<v Sam Pichardo>journey.
+
+790
+00:33:21.830 --> 00:33:25.530
+<v Charles Caskey>So controversial. Yeah, yeah. Well, I, I mean, it's a tough-- Yeah, it's tough.
+
+791
+00:33:25.570 --> 00:33:28.390
+<v Charles Caskey>And I think we're gonna, we're gonna tr-- We've got a future episode planned,
+
+792
+00:33:28.450 --> 00:33:30.090
+<v Charles Caskey>but we, we kinda need a study for it.
+
+793
+00:33:30.450 --> 00:33:34.490
+<v Charles Caskey>We've just become very curious, like, how much does the startle effect, what role
+
+794
+00:33:34.530 --> 00:33:37.950
+<v Charles Caskey>does it play? Like, in all the data that's, was published before we realized
+
+795
+00:33:37.990 --> 00:33:42.550
+<v Charles Caskey>it existed, uh, how, how is-- And is there a way to suss it
+
+796
+00:33:42.630 --> 00:33:46.090
+<v Charles Caskey>out in the literature? Like, uh, is-- I think that's a, it's a big
+
+797
+00:33:46.150 --> 00:33:47.950
+<v Charles Caskey>question for us. It's so controversial.
+
+798
+00:33:48.470 --> 00:33:52.350
+<v Charles Caskey>Um, and so now FUS, uh, forward listeners, you no longer have an excuse
+
+799
+00:33:52.390 --> 00:33:54.170
+<v Charles Caskey>to say, you know, uh, to- [laughs] ...
+
+800
+00:33:54.190 --> 00:33:55.590
+<v Charles Caskey>that you didn't know that there was-
+
+801
+00:33:55.650 --> 00:33:56.150
+<v Sam Pichardo>Exactly
+
+802
+00:33:55.950 --> 00:33:57.370
+<v Charles Caskey>... that there was an auditory confound.
+
+803
+00:33:57.370 --> 00:33:57.870
+<v Charles Caskey>[laughs]
+
+804
+00:33:57.470 --> 00:34:00.090
+<v Sam Pichardo>You won't have an excuse. You need to account for it.
+
+805
+00:34:00.230 --> 00:34:00.830
+<v Charles Caskey>You have no excuse. Yeah, yeah.
+
+806
+00:34:00.970 --> 00:34:03.990
+<v Charles Caskey>Tell us-- Yeah, at least tell us what, what you tried or what you,
+
+807
+00:34:04.110 --> 00:34:07.190
+<v Charles Caskey>what you measured, uh, w- and we'll review your papers better.
+
+808
+00:34:07.250 --> 00:34:09.570
+<v Charles Caskey>But if you say you weren't aware of it, we're gonna come down on
+
+809
+00:34:09.610 --> 00:34:11.010
+<v Charles Caskey>you hard. [laughs]
+
+810
+00:34:11.070 --> 00:34:14.750
+<v Keith Murphy>There's sort of a high-nose, like, sophisticated version of this debate now, like we
+
+811
+00:34:14.790 --> 00:34:17.970
+<v Keith Murphy>did it with Raag, where it's like: "Oh, well, I like my control region
+
+812
+00:34:18.010 --> 00:34:19.850
+<v Keith Murphy>to be just a few millimeters off."
+
+813
+00:34:19.870 --> 00:34:20.370
+<v Keith Murphy>[laughs]
+
+814
+00:34:20.010 --> 00:34:20.510
+<v Charles Caskey>Yeah.
+
+815
+00:34:20.030 --> 00:34:22.930
+<v Keith Murphy>Or like: "I like it to be in the ventricles," which is very cool.
+
+816
+00:34:23.110 --> 00:34:24.550
+<v Keith Murphy>I think I, [laughs] I think I prefer it.
+
+817
+00:34:24.670 --> 00:34:25.510
+<v Charles Caskey>All right, all right, all right.
+
+818
+00:34:25.570 --> 00:34:28.110
+<v Charles Caskey>I'm gonna push back on the ventricles while we're talking about this.
+
+819
+00:34:28.530 --> 00:34:29.030
+<v Charles Caskey>All right, all right.
+
+820
+00:34:28.890 --> 00:34:29.990
+<v Keith Murphy>What do you think about the ventricles?
+
+821
+00:34:30.570 --> 00:34:32.030
+<v Charles Caskey>So what-- Well, uh, I've heard about the ventricles.
+
+822
+00:34:32.130 --> 00:34:35.690
+<v Charles Caskey>I just-- What, uh, but then I also read this growing, uh, well, the
+
+823
+00:34:35.790 --> 00:34:40.350
+<v Charles Caskey>growing literature of people sonicating near that region and causing, um, what are they
+
+824
+00:34:40.390 --> 00:34:43.710
+<v Charles Caskey>causing? The, uh, glymphatic system to be activated, so.
+
+825
+00:34:43.830 --> 00:34:44.330
+<v Keith Murphy>Yeah.
+
+826
+00:34:44.710 --> 00:34:45.210
+<v Sam Pichardo>Yeah.
+
+827
+00:34:44.810 --> 00:34:47.470
+<v Keith Murphy>I think it's not a great control for that reason, Charles.
+
+828
+00:34:47.590 --> 00:34:51.050
+<v Keith Murphy>I'm with you. Um, I think when it came out, though, and we can
+
+829
+00:34:51.110 --> 00:34:55.150
+<v Keith Murphy>credit, it's Marcus Kaiser and Cyril Atkinson-Clement, I think, came up with it.
+
+830
+00:34:55.590 --> 00:34:56.090
+<v Charles Caskey>Yeah.
+
+831
+00:34:55.610 --> 00:35:00.230
+<v Keith Murphy>They called it gold standard because it has the nice ability to say there's
+
+832
+00:35:00.270 --> 00:35:02.550
+<v Keith Murphy>not neural tissue causing some network effect.
+
+833
+00:35:02.830 --> 00:35:03.330
+<v Charles Caskey>Yeah.
+
+834
+00:35:02.850 --> 00:35:03.630
+<v Keith Murphy>But I agree with you.
+
+835
+00:35:03.730 --> 00:35:04.230
+<v Charles Caskey>Yeah.
+
+836
+00:35:03.770 --> 00:35:06.230
+<v Keith Murphy>Moving fluid could have really profound effects.
+
+837
+00:35:06.710 --> 00:35:07.210
+<v Sam Pichardo>Uh- Yeah.
+
+838
+00:35:06.850 --> 00:35:07.350
+<v Charles Caskey>Yeah, yeah
+
+839
+00:35:06.950 --> 00:35:09.030
+<v Sam Pichardo>... you have a lot, a lot of micro streaming-
+
+840
+00:35:09.070 --> 00:35:09.570
+<v Keith Murphy>Yeah
+
+841
+00:35:09.290 --> 00:35:10.110
+<v Sam Pichardo>... in there somewhere.
+
+842
+00:35:10.130 --> 00:35:10.630
+<v Keith Murphy>Yeah.
+
+843
+00:35:11.010 --> 00:35:11.510
+<v Charles Caskey>And-
+
+844
+00:35:11.030 --> 00:35:12.450
+<v Keith Murphy>I like unfocused the best right now.
+
+845
+00:35:12.470 --> 00:35:13.530
+<v Keith Murphy>I'm glad you picked it, Sam.
+
+846
+00:35:13.750 --> 00:35:14.250
+<v Charles Caskey>Unfocused.
+
+847
+00:35:13.990 --> 00:35:14.490
+<v Keith Murphy>Good on you.
+
+848
+00:35:14.350 --> 00:35:16.910
+<v Charles Caskey>Yeah, so un-- All right. I'm, I'm gonna think about this with our study
+
+849
+00:35:16.950 --> 00:35:19.910
+<v Charles Caskey>design. We left it vague, like there's a sham, and we, we put, we
+
+850
+00:35:19.950 --> 00:35:23.130
+<v Charles Caskey>put them all as options, like whether it was gonna be focused nearby or,
+
+851
+00:35:23.250 --> 00:35:24.930
+<v Charles Caskey>uh, and so stuff like that.
+
+852
+00:35:25.030 --> 00:35:25.670
+<v Charles Caskey>But yeah, yeah.
+
+853
+00:35:25.770 --> 00:35:26.270
+<v Keith Murphy>Nice.
+
+854
+00:35:25.870 --> 00:35:27.930
+<v Charles Caskey>It is true, like, that it, it is a good idea.
+
+855
+00:35:27.950 --> 00:35:31.290
+<v Charles Caskey>And even neurosurgeons have, like, you know, kind of, uh, that I've talked to,
+
+856
+00:35:31.370 --> 00:35:34.110
+<v Charles Caskey>they're like, they're like: "Oh, we do, like, all kinds of stuff in the
+
+857
+00:35:34.170 --> 00:35:36.670
+<v Charles Caskey>ventricles." And they're like: "It's not a safety concern.
+
+858
+00:35:37.010 --> 00:35:40.950
+<v Charles Caskey>It's not neural tissue." It's like, um, but, but I did-- Yeah, as I
+
+859
+00:35:41.030 --> 00:35:44.490
+<v Charles Caskey>start to see this stuff with the glymphatic system, I'm like: "What, what, what
+
+860
+00:35:44.570 --> 00:35:45.950
+<v Charles Caskey>is it doing?" [laughs] Like it-
+
+861
+00:35:46.170 --> 00:35:46.670
+<v Keith Murphy>Yeah.
+
+862
+00:35:46.310 --> 00:35:50.130
+<v Sam Pichardo>Yeah. At the end, at the end of the day, and every single cell
+
+863
+00:35:50.270 --> 00:35:52.570
+<v Sam Pichardo>in the body has mechanosensors. Yeah.
+
+864
+00:35:52.770 --> 00:35:53.470
+<v Keith Murphy>Every one of them.
+
+865
+00:35:53.910 --> 00:35:54.410
+<v Charles Caskey>Yeah.
+
+866
+00:35:54.010 --> 00:35:58.500
+<v Sam Pichardo>Every single of them. ... so ma- so that, so that's something, um, we
+
+867
+00:35:58.520 --> 00:36:04.420
+<v Sam Pichardo>are, we are producing. And that might be still, I mean, as much as
+
+868
+00:36:04.540 --> 00:36:08.320
+<v Sam Pichardo>characterize what's happening is when we maybe, okay, I'm shooting the ventricles.
+
+869
+00:36:08.680 --> 00:36:14.140
+<v Sam Pichardo>Let's study some, uh, things that can, can happen, and definitely it's differentiating enough
+
+870
+00:36:14.200 --> 00:36:15.380
+<v Sam Pichardo>for your ta- for your trial.
+
+871
+00:36:16.060 --> 00:36:16.560
+<v Keith Murphy>Yeah.
+
+872
+00:36:16.100 --> 00:36:20.780
+<v Sam Pichardo>That might still be acceptable. At le- at least you don't claim 100% nothing's
+
+873
+00:36:20.820 --> 00:36:22.120
+<v Sam Pichardo>happening. No. Probably something's-
+
+874
+00:36:22.140 --> 00:36:22.640
+<v Keith Murphy>Yeah.
+
+875
+00:36:22.220 --> 00:36:25.780
+<v Sam Pichardo>... happening, but likely not any degrees.
+
+876
+00:36:25.920 --> 00:36:29.400
+<v Charles Caskey>This gets me on my second soapbox related to auditory confounds.
+
+877
+00:36:29.920 --> 00:36:31.220
+<v Charles Caskey>We shouldn't only focus on-
+
+878
+00:36:31.220 --> 00:36:31.720
+<v Sam Pichardo>We cannot go, Charles. [laughs]
+
+879
+00:36:31.760 --> 00:36:34.380
+<v Charles Caskey>confounds. It's like there, there, there comes a point-
+
+880
+00:36:34.380 --> 00:36:34.880
+<v Sam Pichardo>I know. It's almost-
+
+881
+00:36:34.620 --> 00:36:37.200
+<v Charles Caskey>... where people, I feel like they lose the script, and they're like, they're
+
+882
+00:36:37.220 --> 00:36:38.840
+<v Charles Caskey>like, "Well, what about this? But what about this?
+
+883
+00:36:38.920 --> 00:36:39.660
+<v Charles Caskey>But what about this?"
+
+884
+00:36:39.740 --> 00:36:40.240
+<v Sam Pichardo>I know.
+
+885
+00:36:39.980 --> 00:36:40.480
+<v Charles Caskey>I know. And then I'm like-
+
+886
+00:36:40.560 --> 00:36:41.060
+<v Sam Pichardo>Good point.
+
+887
+00:36:40.580 --> 00:36:43.420
+<v Charles Caskey>I'm like, "Oh, shut up. Please."
+
+888
+00:36:43.440 --> 00:36:43.940
+<v Charles Caskey>[laughs]
+
+889
+00:36:43.460 --> 00:36:44.480
+<v Sam Pichardo>No, no, it's a very, it's a very, it's a very cool.
+
+890
+00:36:44.740 --> 00:36:45.540
+<v Keith Murphy>I like that, Charles.
+
+891
+00:36:45.540 --> 00:36:48.160
+<v Sam Pichardo>It's something very cool. [laughs]
+
+892
+00:36:48.280 --> 00:36:53.160
+<v Keith Murphy>Um, guys, let's... All right, wait, let's talk about something that's not confounds.
+
+893
+00:36:53.240 --> 00:36:54.280
+<v Keith Murphy>Charles- [laughs] ... I'm with you.
+
+894
+00:36:54.720 --> 00:36:58.200
+<v Keith Murphy>I'm with you, bud. Um, hey guys, effect size here.
+
+895
+00:36:58.420 --> 00:37:01.780
+<v Keith Murphy>I wanna, I wanna talk about a company called Cala Health for a second.
+
+896
+00:37:01.820 --> 00:37:02.340
+<v Sam Pichardo>Cala Health?
+
+897
+00:37:02.380 --> 00:37:04.740
+<v Keith Murphy>So Cala Health is... Yeah, you guys have never heard of it.
+
+898
+00:37:04.780 --> 00:37:09.040
+<v Keith Murphy>It's okay. Cala Health is an essential tremor company that came out of Silicon
+
+899
+00:37:09.080 --> 00:37:11.280
+<v Keith Murphy>Valley. The-- I think they're headquartered in Mountain View.
+
+900
+00:37:11.880 --> 00:37:14.700
+<v Keith Murphy>It's a transcutaneous electrical nerve stimulation device.
+
+901
+00:37:14.760 --> 00:37:16.100
+<v Keith Murphy>You wear it like a wristwatch.
+
+902
+00:37:16.280 --> 00:37:16.780
+<v Sam Pichardo>Yeah.
+
+903
+00:37:16.600 --> 00:37:18.780
+<v Keith Murphy>And it stimulates the medial, median nerve?
+
+904
+00:37:18.880 --> 00:37:23.340
+<v Keith Murphy>Median nerve for an hour. So you have to sit, the prescription or the
+
+905
+00:37:23.400 --> 00:37:27.660
+<v Keith Murphy>labeling says you have to sit still for an hour, and you get about
+
+906
+00:37:27.740 --> 00:37:31.660
+<v Keith Murphy>two to three hours of a 40% to 60% reduction in tremor.
+
+907
+00:37:32.380 --> 00:37:37.520
+<v Keith Murphy>Sam, the way you described your results tells me that 10 minutes can produce
+
+908
+00:37:37.580 --> 00:37:41.920
+<v Keith Murphy>much more profound effects. You didn't say how long you think it would last.
+
+909
+00:37:42.420 --> 00:37:42.920
+<v Sam Pichardo>No, we not-
+
+910
+00:37:42.480 --> 00:37:45.720
+<v Keith Murphy>Can you, can you beat Cala Health with your technology, with your thing?
+
+911
+00:37:45.760 --> 00:37:48.040
+<v Sam Pichardo>So no, I, I think we are in the fact that yes, we can,
+
+912
+00:37:48.100 --> 00:37:50.840
+<v Sam Pichardo>we should able to, to beat that.
+
+913
+00:37:50.940 --> 00:37:52.720
+<v Sam Pichardo>Some, uh, and I mean, the, the only...
+
+914
+00:37:53.140 --> 00:37:58.540
+<v Sam Pichardo>Unfortunately, we only have anecdotical reporting as patients reported, for example, some, uh, we
+
+915
+00:37:58.580 --> 00:38:00.520
+<v Sam Pichardo>couldn't publish that one because it was kind of self-reported.
+
+916
+00:38:00.560 --> 00:38:02.100
+<v Sam Pichardo>Not so much it will be-- I, I don't know if it will be
+
+917
+00:38:02.140 --> 00:38:02.640
+<v Sam Pichardo>adding, adding to-
+
+918
+00:38:02.620 --> 00:38:03.200
+<v Keith Murphy>What did they say?
+
+919
+00:38:03.600 --> 00:38:06.800
+<v Sam Pichardo>So, uh, some patients reported it lasted until the end of the day, in
+
+920
+00:38:06.840 --> 00:38:07.340
+<v Sam Pichardo>terms of coming back-
+
+921
+00:38:07.180 --> 00:38:07.840
+<v Keith Murphy>End of the day? Okay
+
+922
+00:38:07.840 --> 00:38:09.380
+<v Sam Pichardo>... on, on, on until, until the next day.
+
+923
+00:38:09.820 --> 00:38:10.320
+<v Keith Murphy>Nice.
+
+924
+00:38:09.860 --> 00:38:12.480
+<v Sam Pichardo>Some patients reported it lasted more than one day.
+
+925
+00:38:12.980 --> 00:38:15.580
+<v Sam Pichardo>One patient reported extremely long duration.
+
+926
+00:38:15.620 --> 00:38:18.440
+<v Sam Pichardo>We-- I don't even want to mention the numbers of days because it seems
+
+927
+00:38:18.480 --> 00:38:22.740
+<v Sam Pichardo>to be unlikely, honestly. Now, we would like to bring, bring the patients to
+
+928
+00:38:23.200 --> 00:38:26.980
+<v Sam Pichardo>come back to the, to the settings to do some, um, um, to do
+
+929
+00:38:27.020 --> 00:38:28.120
+<v Sam Pichardo>the measurements ourself.
+
+930
+00:38:28.240 --> 00:38:30.580
+<v Keith Murphy>Well, you could send them home with a watch and just have them do--
+
+931
+00:38:30.740 --> 00:38:34.860
+<v Keith Murphy>You're doing this, the typical poses of, I forget what scale it's called, but
+
+932
+00:38:34.880 --> 00:38:35.400
+<v Keith Murphy>the holding pose here.
+
+933
+00:38:35.420 --> 00:38:37.540
+<v Sam Pichardo>Yeah, the wing position, rest position- Yeah ...
+
+934
+00:38:37.580 --> 00:38:40.440
+<v Sam Pichardo>are the most, the two most common, uh, uh, positions.
+
+935
+00:38:40.460 --> 00:38:42.340
+<v Keith Murphy>Can you have them mark it on a watch and just do it at
+
+936
+00:38:42.380 --> 00:38:42.880
+<v Keith Murphy>home to generate later?
+
+937
+00:38:42.900 --> 00:38:47.480
+<v Sam Pichardo>Yeah, it's imp- but even they use a cer-cer-certain things, for example, yeah, you
+
+938
+00:38:47.540 --> 00:38:49.860
+<v Sam Pichardo>can, you can argue, "Oh, use this app."
+
+939
+00:38:50.040 --> 00:38:50.540
+<v Sam Pichardo>No.
+
+940
+00:38:50.240 --> 00:38:50.740
+<v Keith Murphy>Yeah.
+
+941
+00:38:50.940 --> 00:38:54.260
+<v Sam Pichardo>And collect data, but then you need to deal with transfer of data.
+
+942
+00:38:54.560 --> 00:38:59.040
+<v Sam Pichardo>I would say this might be something more a rich opportunity for a company.
+
+943
+00:38:59.220 --> 00:39:02.620
+<v Keith Murphy>Tremor power is between three and 15 hertz pretty reliably, right?
+
+944
+00:39:02.840 --> 00:39:06.840
+<v Keith Murphy>It's got a very characteristic... So you could, you could pull that out besides
+
+945
+00:39:06.900 --> 00:39:07.400
+<v Keith Murphy>motion.
+
+946
+00:39:07.460 --> 00:39:07.960
+<v Sam Pichardo>Yeah.
+
+947
+00:39:07.940 --> 00:39:08.440
+<v Keith Murphy>Yeah.
+
+948
+00:39:08.220 --> 00:39:10.940
+<v Sam Pichardo>Very common, seven hertz, really strong.
+
+949
+00:39:11.100 --> 00:39:14.600
+<v Sam Pichardo>And you can also complement that with questionnaires we call it of life.
+
+950
+00:39:15.320 --> 00:39:15.820
+<v Keith Murphy>Yeah.
+
+951
+00:39:15.340 --> 00:39:20.220
+<v Sam Pichardo>Would you able to do some tasks during those hours, like, uh, drinking coffee?
+
+952
+00:39:20.280 --> 00:39:21.380
+<v Sam Pichardo>Like, uh, be able to eat?
+
+953
+00:39:21.780 --> 00:39:22.280
+<v Keith Murphy>Yeah.
+
+954
+00:39:22.160 --> 00:39:22.660
+<v Sam Pichardo>Absolutely.
+
+955
+00:39:23.820 --> 00:39:24.700
+<v Keith Murphy>Guys, I have a cool segue.
+
+956
+00:39:25.000 --> 00:39:28.540
+<v Keith Murphy>You're reminding me of something. So with Cala Health, I sort of framed it
+
+957
+00:39:28.600 --> 00:39:31.880
+<v Keith Murphy>as if, "Oh, we're gonna beat them," but really what I'm trying to say
+
+958
+00:39:31.940 --> 00:39:37.340
+<v Keith Murphy>is this device, which I believe costs insurance $7,000 or $8,000- [laughs] ...
+
+959
+00:39:37.380 --> 00:39:39.620
+<v Keith Murphy>has, has two to three hours of effect.
+
+960
+00:39:39.740 --> 00:39:41.900
+<v Keith Murphy>Not much. People really like it.
+
+961
+00:39:42.040 --> 00:39:44.320
+<v Keith Murphy>I think it's getting traction. It has insurance.
+
+962
+00:39:45.000 --> 00:39:50.060
+<v Keith Murphy>To me, that, that's a huge gateway to say, oh my God, ultrasound can
+
+963
+00:39:50.100 --> 00:39:51.880
+<v Keith Murphy>be important. It can get there.
+
+964
+00:39:52.360 --> 00:39:56.240
+<v Keith Murphy>And as it relates to you, Sam, the big delta here is that is
+
+965
+00:39:56.300 --> 00:39:58.220
+<v Keith Murphy>a wristwatch with a little bit of current.
+
+966
+00:39:58.360 --> 00:39:59.920
+<v Keith Murphy>That's very easy to manufacture.
+
+967
+00:39:59.960 --> 00:40:00.460
+<v Sam Pichardo>Right.
+
+968
+00:40:00.040 --> 00:40:05.240
+<v Keith Murphy>It's very easy to build. But something that I've tracked of Sam's for a
+
+969
+00:40:05.280 --> 00:40:09.560
+<v Keith Murphy>long time, and I think it's really exciting, he's probably the fir- Yeah, good
+
+970
+00:40:09.600 --> 00:40:13.600
+<v Keith Murphy>segue, right, Charles? He's, he's the first person to start to say that even
+
+971
+00:40:13.660 --> 00:40:17.820
+<v Keith Murphy>if you have a single brick of piezo, so this is the material where
+
+972
+00:40:18.280 --> 00:40:21.760
+<v Keith Murphy>if you put a voltage across it, it flexes, and it creates these propagating
+
+973
+00:40:21.800 --> 00:40:28.360
+<v Keith Murphy>waves. If that gradient of that charge is not uniform, the element
+
+974
+00:40:28.400 --> 00:40:31.920
+<v Keith Murphy>can bend in weird ways, and you can actually change that electrical field on
+
+975
+00:40:31.960 --> 00:40:34.240
+<v Keith Murphy>a single element to steer a focus.
+
+976
+00:40:34.320 --> 00:40:37.660
+<v Keith Murphy>So Sam, how did you even get involved in that?
+
+977
+00:40:37.820 --> 00:40:38.320
+<v Keith Murphy>And that's-
+
+978
+00:40:38.240 --> 00:40:38.740
+<v Sam Pichardo>Oh.
+
+979
+00:40:38.580 --> 00:40:39.600
+<v Keith Murphy>You just published that, right?
+
+980
+00:40:39.940 --> 00:40:41.580
+<v Sam Pichardo>Yeah, we just published a paper on that one.
+
+981
+00:40:41.600 --> 00:40:42.260
+<v Sam Pichardo>So we have introduced-
+
+982
+00:40:42.340 --> 00:40:42.880
+<v Keith Murphy>Congrats. [laughs]
+
+983
+00:40:42.900 --> 00:40:44.680
+<v Sam Pichardo>... multiple, multiple papers on, uh, on this one.
+
+984
+00:40:44.740 --> 00:40:49.040
+<v Sam Pichardo>But yeah, this was a very interesting, some, uh, uh, good collision with material
+
+985
+00:40:49.160 --> 00:40:51.120
+<v Sam Pichardo>science scientist back in Thunder Bay.
+
+986
+00:40:51.180 --> 00:40:56.180
+<v Sam Pichardo>His name's Oleg Rubel, and he was like a hardcore atomic level modeler.
+
+987
+00:40:56.640 --> 00:41:00.600
+<v Sam Pichardo>So more like a really, so like, uh, uh, like a first principle modeling
+
+988
+00:41:00.700 --> 00:41:03.400
+<v Sam Pichardo>person. Oh, really as low as you can go.
+
+989
+00:41:04.240 --> 00:41:06.140
+<v Sam Pichardo>So, um, and, and he wanted to, uh...
+
+990
+00:41:06.240 --> 00:41:10.100
+<v Sam Pichardo>He was mostly working in optic- optical materials, but he wanted to say, "Guys,
+
+991
+00:41:10.120 --> 00:41:13.120
+<v Sam Pichardo>do you have something very interesting to explore on piezo?"
+
+992
+00:41:13.640 --> 00:41:17.300
+<v Sam Pichardo>Sure, why not? Especially this kind of like a super cool fundamental thing.
+
+993
+00:41:17.380 --> 00:41:21.600
+<v Sam Pichardo>So, so and we did a first study, some, uh, we call, um, um...
+
+994
+00:41:21.640 --> 00:41:25.000
+<v Sam Pichardo>And then actually got two, three studies, and the one is that word, hysteresis,
+
+995
+00:41:25.560 --> 00:41:27.440
+<v Sam Pichardo>that helps to drive the first conversation.
+
+996
+00:41:27.500 --> 00:41:28.800
+<v Sam Pichardo>He came with one of the first res- um-
+
+997
+00:41:28.840 --> 00:41:29.760
+<v Keith Murphy>Hys- hysteresis?
+
+998
+00:41:30.060 --> 00:41:30.560
+<v Sam Pichardo>... molecular-
+
+999
+00:41:30.340 --> 00:41:31.500
+<v Charles Caskey>Are you, are you saying hysteresis?
+
+1000
+00:41:32.020 --> 00:41:33.760
+<v Sam Pichardo>Yeah, I think so. Yeah. That's what...
+
+1001
+00:41:33.820 --> 00:41:35.700
+<v Sam Pichardo>Is it, this is my Spanish and French probably-
+
+1002
+00:41:35.740 --> 00:41:36.240
+<v Keith Murphy>Oh, no, we love it
+
+1003
+00:41:36.140 --> 00:41:37.360
+<v Sam Pichardo>... meeting different. Right.
+
+1004
+00:41:37.400 --> 00:41:38.960
+<v Keith Murphy>All good. All good. We're, we're translators for you.
+
+1005
+00:41:39.080 --> 00:41:40.220
+<v Keith Murphy>[laughs]
+
+1006
+00:41:40.260 --> 00:41:41.220
+<v Sam Pichardo>Thank you. Uh-
+
+1007
+00:41:41.540 --> 00:41:42.700
+<v Keith Murphy>So what does hysteresis mean?
+
+1008
+00:41:45.340 --> 00:41:48.540
+<v Sam Pichardo>In a, in a piece of material, pretty much is, uh, it, it helps
+
+1009
+00:41:48.600 --> 00:41:51.860
+<v Sam Pichardo>to, uh, to, uh, to describe the efficiency of a material when you apply
+
+1010
+00:41:51.900 --> 00:41:53.920
+<v Sam Pichardo>electric field to convert to mechanical energy.
+
+1011
+00:41:54.420 --> 00:41:58.200
+<v Sam Pichardo>There's some losses pretty much in, in when you are oscillating electric field.
+
+1012
+00:41:58.680 --> 00:41:59.180
+<v Keith Murphy>Okay.
+
+1013
+00:41:58.740 --> 00:42:00.520
+<v Sam Pichardo>Some, um, that help, does that...
+
+1014
+00:42:00.560 --> 00:42:04.280
+<v Sam Pichardo>And, and we call this an hysteresis, hysteresis curve that helps pretty m- that
+
+1015
+00:42:04.320 --> 00:42:08.380
+<v Sam Pichardo>it helps to describe when you're oscillating the electric field, the mechanical response.
+
+1016
+00:42:08.440 --> 00:42:11.720
+<v Sam Pichardo>It is, uh, in a perfectly linear system, you will have like a back
+
+1017
+00:42:11.740 --> 00:42:15.140
+<v Sam Pichardo>and, back and forth linear, linear di- like a diagonal.
+
+1018
+00:42:15.520 --> 00:42:20.320
+<v Sam Pichardo>But, but in, in no, in, in actual materials, it's like a little ellipsoid,
+
+1019
+00:42:20.420 --> 00:42:23.900
+<v Sam Pichardo>kind of, well, sigmoid, like a sigmoid kind of ...
+
+1020
+00:42:24.040 --> 00:42:26.940
+<v Sam Pichardo>mm, area when, when, when you are rotating the electric field.
+
+1021
+00:42:27.480 --> 00:42:31.320
+<v Sam Pichardo>What he discovered, to his credit, was say, "Guys, why you apply one single
+
+1022
+00:42:31.360 --> 00:42:33.780
+<v Sam Pichardo>electric field?" "What do you mean we apply one single electric field?"
+
+1023
+00:42:33.780 --> 00:42:38.160
+<v Sam Pichardo>[laughs] If you apply, you apply two electric fields, some, uh, some, uh, the
+
+1024
+00:42:38.220 --> 00:42:42.400
+<v Sam Pichardo>coercivity, uh, and this is hysteresis, um, a model can get reduced
+
+1025
+00:42:42.600 --> 00:42:47.260
+<v Keith Murphy>You attaching many different wires, many different pulled wires to different parts of a
+
+1026
+00:42:47.360 --> 00:42:47.860
+<v Keith Murphy>single element?
+
+1027
+00:42:47.820 --> 00:42:48.620
+<v Sam Pichardo>There's like a only-
+
+1028
+00:42:48.640 --> 00:42:49.180
+<v Keith Murphy>That's how you're doing it
+
+1029
+00:42:49.200 --> 00:42:51.400
+<v Sam Pichardo>... only two more, two more wires, some, uh, some, uh, two more wires.
+
+1030
+00:42:51.400 --> 00:42:53.940
+<v Sam Pichardo>[laughs] Some, uh, we have in some, uh, we have one, one pair of
+
+1031
+00:42:53.980 --> 00:42:55.100
+<v Sam Pichardo>wires, some traditional-
+
+1032
+00:42:55.260 --> 00:42:55.760
+<v Keith Murphy>Yeah
+
+1033
+00:42:55.380 --> 00:42:56.780
+<v Sam Pichardo>... and then, and then laterally.
+
+1034
+00:42:57.200 --> 00:43:00.580
+<v Sam Pichardo>Some, uh, so we have, we have like a, uh, like, like a-
+
+1035
+00:43:00.640 --> 00:43:03.920
+<v Keith Murphy>So you're pulling the piezo in the lateral mode and the longitudinal.
+
+1036
+00:43:04.040 --> 00:43:04.640
+<v Sam Pichardo>Exactly.
+
+1037
+00:43:04.660 --> 00:43:05.160
+<v Keith Murphy>Yeah. Ah.
+
+1038
+00:43:04.680 --> 00:43:07.200
+<v Sam Pichardo>That's we are placing. So yeah, so we are, we are, we, we are--
+
+1039
+00:43:07.440 --> 00:43:11.400
+<v Sam Pichardo>And these people have actually has been driving transducer in the lateral mode, some,
+
+1040
+00:43:11.440 --> 00:43:12.960
+<v Sam Pichardo>uh, some, uh, e-especially in-
+
+1041
+00:43:13.300 --> 00:43:14.960
+<v Charles Caskey>Yeah, they try to, but they don't do it both ways usually.
+
+1042
+00:43:14.960 --> 00:43:15.460
+<v Charles Caskey>[laughs]
+
+1043
+00:43:15.200 --> 00:43:15.840
+<v Sam Pichardo>No both ways.
+
+1044
+00:43:15.860 --> 00:43:16.360
+<v Charles Caskey>That's, that both ways. Yeah.
+
+1045
+00:43:16.400 --> 00:43:18.240
+<v Sam Pichardo>That was the, that was the unique, that wa- that was actually the-
+
+1046
+00:43:18.600 --> 00:43:19.100
+<v Charles Caskey>Yeah
+
+1047
+00:43:18.700 --> 00:43:19.940
+<v Sam Pichardo>... the, the, the unique reason.
+
+1048
+00:43:19.960 --> 00:43:22.820
+<v Sam Pichardo>And we discovered that one some, uh, so we had this kind one like,
+
+1049
+00:43:22.900 --> 00:43:27.420
+<v Sam Pichardo>um, um, um, um, um, oscillation mode that the, the crystal was really moving
+
+1050
+00:43:27.500 --> 00:43:32.560
+<v Sam Pichardo>one direction as a function of, of the, of the, of the, the phase
+
+1051
+00:43:32.620 --> 00:43:34.100
+<v Sam Pichardo>of the signals. So-
+
+1052
+00:43:34.560 --> 00:43:40.180
+<v Charles Caskey>It's cool, and it's also, like, underappreciated, I feel like, this, uh, this level
+
+1053
+00:43:40.240 --> 00:43:44.040
+<v Charles Caskey>of first principle research. 'Cause I think in the modern world, we take so
+
+1054
+00:43:44.080 --> 00:43:47.720
+<v Charles Caskey>much for granted, like, that there's gonna be some solution out there like, "Oh,
+
+1055
+00:43:47.820 --> 00:43:49.780
+<v Charles Caskey>we can-- I'll plug it into ChatGPT.
+
+1056
+00:43:49.840 --> 00:43:51.640
+<v Charles Caskey>This knowledge probably already exists." [laughs]
+
+1057
+00:43:51.640 --> 00:43:52.140
+<v Keith Murphy>Mm-hmm.
+
+1058
+00:43:51.840 --> 00:43:54.220
+<v Charles Caskey>You know? Like, "Oh, how do I wire up a transducer?"
+
+1059
+00:43:54.240 --> 00:43:57.420
+<v Charles Caskey>And it's not gonna tell you to put four wires on one thing [laughs]
+
+1060
+00:43:57.540 --> 00:43:58.040
+<v Charles Caskey>and-
+
+1061
+00:43:57.680 --> 00:43:58.180
+<v Sam Pichardo>No, it just will be-
+
+1062
+00:43:58.000 --> 00:43:58.900
+<v Charles Caskey>... and think about the different-
+
+1063
+00:43:58.900 --> 00:44:00.320
+<v Keith Murphy>It could never. It's never heard of that before
+
+1064
+00:44:00.320 --> 00:44:01.780
+<v Charles Caskey>... and it's, it's never gonna-- Yeah, exactly.
+
+1065
+00:44:01.820 --> 00:44:05.260
+<v Charles Caskey>And, and it's just like, I feel like the-- And then when we work
+
+1066
+00:44:05.420 --> 00:44:10.800
+<v Charles Caskey>in healthcare or in biomedical spaces or wellness space, like we're always-- We-- It's
+
+1067
+00:44:10.820 --> 00:44:13.460
+<v Charles Caskey>pretty-- You're trying to paint the picture of, "Well, how could this help people?"
+
+1068
+00:44:13.520 --> 00:44:16.700
+<v Charles Caskey>And I think most people can understand if you're alleviating a disease state.
+
+1069
+00:44:17.240 --> 00:44:21.300
+<v Charles Caskey>It is not straightforward to say, "Oh, let's take the, the, you know, the
+
+1070
+00:44:21.340 --> 00:44:25.600
+<v Charles Caskey>crystalline structure of a piezo and start to really brainstorm about how that could
+
+1071
+00:44:25.640 --> 00:44:30.460
+<v Charles Caskey>be, you know, manipulated." And we don't even know what potential applications there could
+
+1072
+00:44:30.500 --> 00:44:34.260
+<v Charles Caskey>be. And even the one that you mentioned is still pretty subtle, um, to
+
+1073
+00:44:34.340 --> 00:44:38.640
+<v Charles Caskey>say like, "Oh, we could start thinking about the directionality of sounds, it being
+
+1074
+00:44:38.700 --> 00:44:41.140
+<v Charles Caskey>incident on, on this piezo crystal."
+
+1075
+00:44:41.560 --> 00:44:45.140
+<v Charles Caskey>And, and becau- 'cause you really have to know why that's even important.
+
+1076
+00:44:45.180 --> 00:44:47.860
+<v Charles Caskey>Like, oh, that could impact like sonar.
+
+1077
+00:44:48.040 --> 00:44:49.220
+<v Charles Caskey>That could impact medical technology.
+
+1078
+00:44:49.220 --> 00:44:50.400
+<v Keith Murphy>So don't use chat, people. Don't use chat.
+
+1079
+00:44:50.420 --> 00:44:54.500
+<v Sam Pichardo>In, in coming back exactly to, to the, the application for a medical application
+
+1080
+00:44:54.600 --> 00:44:59.660
+<v Sam Pichardo>for u-ultrasound computed tomography, 'cause now we can use some, uh, the, some, uh,
+
+1081
+00:44:59.740 --> 00:45:02.780
+<v Sam Pichardo>directivity to, to reconstruct by using ray tracing.
+
+1082
+00:45:03.380 --> 00:45:06.640
+<v Sam Pichardo>The, in the, in the old days, we kind of use only time-of-flight information,
+
+1083
+00:45:07.020 --> 00:45:10.960
+<v Sam Pichardo>but I guess now we can do image reconstruction only by using-- 'Cause if
+
+1084
+00:45:11.000 --> 00:45:15.820
+<v Sam Pichardo>you know which, which, uh, which direction the, the signal arrive to detectors, you
+
+1085
+00:45:15.860 --> 00:45:16.960
+<v Sam Pichardo>can inverse the pro-- Oh, sorry.
+
+1086
+00:45:17.260 --> 00:45:20.920
+<v Sam Pichardo>You can inverse the problem some, uh, in some, uh, in, in, in knowing
+
+1087
+00:45:20.980 --> 00:45:25.320
+<v Sam Pichardo>some, in knowing to find which ma-mate- uh, speed of the sound in your
+
+1088
+00:45:25.380 --> 00:45:29.700
+<v Sam Pichardo>sample produced that bending. And actually, he's, he's making a new company.
+
+1089
+00:45:29.840 --> 00:45:34.120
+<v Sam Pichardo>He's making a new company, and he's going to-- He's jumping on-- He's jumping
+
+1090
+00:45:34.160 --> 00:45:35.940
+<v Sam Pichardo>in the crazy waves of commercialization.
+
+1091
+00:45:36.460 --> 00:45:39.660
+<v Sam Pichardo>Uh, and this technology, I'm still thinking we're still scratching the surface.
+
+1092
+00:45:39.720 --> 00:45:40.220
+<v Sam Pichardo>We still-
+
+1093
+00:45:40.060 --> 00:45:40.780
+<v Charles Caskey>Yeah. Oh, it's so new
+
+1094
+00:45:40.780 --> 00:45:41.340
+<v Sam Pichardo>... it's m- Yeah.
+
+1095
+00:45:41.540 --> 00:45:42.040
+<v Charles Caskey>Yeah.
+
+1096
+00:45:41.780 --> 00:45:42.280
+<v Sam Pichardo>Yeah. [laughs]
+
+1097
+00:45:42.080 --> 00:45:43.440
+<v Charles Caskey>You can't know. You can't know- Yeah ...
+
+1098
+00:45:43.460 --> 00:45:47.320
+<v Charles Caskey>what impact it's gonna have. And I think, I think that in a kinda
+
+1099
+00:45:47.600 --> 00:45:53.620
+<v Charles Caskey>results-oriented or outcome-oriented society and world that we live in, that this type
+
+1100
+00:45:53.700 --> 00:45:56.700
+<v Charles Caskey>of new knowledge just i- it's hard to get it funded.
+
+1101
+00:45:56.740 --> 00:45:58.540
+<v Charles Caskey>It's hard to, it's hard to spend- Mm ...
+
+1102
+00:45:58.560 --> 00:46:00.340
+<v Charles Caskey>the time on it, but it's so important.
+
+1103
+00:46:00.600 --> 00:46:01.340
+<v Charles Caskey>Um, so it's cool that-
+
+1104
+00:46:01.340 --> 00:46:02.160
+<v Sam Pichardo>Yeah. Yeah, it's a good point.
+
+1105
+00:46:02.220 --> 00:46:05.160
+<v Sam Pichardo>And actually, I need to give credit to my, to my wife, Laura Curiel,
+
+1106
+00:46:05.240 --> 00:46:07.100
+<v Sam Pichardo>some, uh, who actually needs two PIs.
+
+1107
+00:46:07.100 --> 00:46:09.940
+<v Sam Pichardo>[laughs] He needs the grants and two PIs to make this happen.
+
+1108
+00:46:09.940 --> 00:46:10.440
+<v Sam Pichardo>[laughs]
+
+1109
+00:46:10.660 --> 00:46:12.900
+<v Charles Caskey>Oh, yeah. Yeah, we, we can, we can put that at the beginning, Sam,
+
+1110
+00:46:13.000 --> 00:46:13.500
+<v Charles Caskey>so you don't have to-
+
+1111
+00:46:13.500 --> 00:46:14.000
+<v Sam Pichardo>Yeah
+
+1112
+00:46:13.520 --> 00:46:14.920
+<v Charles Caskey>... like sleep outside [laughs] -
+
+1113
+00:46:14.960 --> 00:46:15.860
+<v Sam Pichardo>Yeah, exactly
+
+1114
+00:46:15.880 --> 00:46:16.760
+<v Charles Caskey>... in Calgary in the cold.
+
+1115
+00:46:16.780 --> 00:46:17.280
+<v Charles Caskey>[laughs]
+
+1116
+00:46:17.260 --> 00:46:21.620
+<v Sam Pichardo>Espe-especially in this, in this transducer technology prowess, um, that's a prowess, um, has--
+
+1117
+00:46:22.140 --> 00:46:25.320
+<v Sam Pichardo>Laura and I has been working actually from, from the time we went on-
+
+1118
+00:46:25.320 --> 00:46:25.820
+<v Charles Caskey>That's-
+
+1119
+00:46:25.360 --> 00:46:29.540
+<v Sam Pichardo>... there is we, we talk about, uh, 15, 16 years now, some, uh-
+
+1120
+00:46:29.540 --> 00:46:30.040
+<v Charles Caskey>Yeah
+
+1121
+00:46:29.640 --> 00:46:33.000
+<v Sam Pichardo>... having working together on this, um, so, so, and I, and actually, and
+
+1122
+00:46:33.040 --> 00:46:37.400
+<v Sam Pichardo>she has actually the capabilities to build new trans- this new transducer we are
+
+1123
+00:46:37.580 --> 00:46:39.720
+<v Sam Pichardo>doing now actually in her, in her lab.
+
+1124
+00:46:39.760 --> 00:46:43.080
+<v Sam Pichardo>And, and actually she, she's kind of taking a big lead especially on the
+
+1125
+00:46:43.140 --> 00:46:44.860
+<v Sam Pichardo>therapy side. So I kind of-
+
+1126
+00:46:45.050 --> 00:46:45.550
+<v Charles Caskey>Mm-hmm
+
+1127
+00:46:45.200 --> 00:46:49.400
+<v Sam Pichardo>... going, going back more in the imaging, imaging application technology, while she's kind
+
+1128
+00:46:49.440 --> 00:46:52.440
+<v Sam Pichardo>of taking the lead on the, on the dr- on the, on the transducer,
+
+1129
+00:46:52.640 --> 00:46:54.380
+<v Sam Pichardo>um, transducer side. So that's very good.
+
+1130
+00:46:54.420 --> 00:46:56.300
+<v Keith Murphy>The cost should drop really markedly too.
+
+1131
+00:46:56.360 --> 00:47:01.140
+<v Keith Murphy>I mean, now you're only buying one piezo, and you're only generating two channels
+
+1132
+00:47:01.200 --> 00:47:04.540
+<v Keith Murphy>of control. I mean, this could drop the price of these systems by an
+
+1133
+00:47:04.580 --> 00:47:05.180
+<v Keith Murphy>order of magnitude.
+
+1134
+00:47:05.220 --> 00:47:07.820
+<v Sam Pichardo>In certain, in certain, in certain system mo- we simplify.
+
+1135
+00:47:07.860 --> 00:47:11.460
+<v Sam Pichardo>In other words, not so much, but certain systems might open the door to
+
+1136
+00:47:11.520 --> 00:47:12.960
+<v Sam Pichardo>have like only a few transducers.
+
+1137
+00:47:13.040 --> 00:47:16.840
+<v Sam Pichardo>You can do, by example, passive acoustic imaging now with two, with two, only
+
+1138
+00:47:16.880 --> 00:47:20.860
+<v Sam Pichardo>with two, two transducers. As, uh, uh, once you do beamforming one transducer, then
+
+1139
+00:47:20.900 --> 00:47:24.120
+<v Sam Pichardo>that opens the door to do on, uh, two transducers, and you do 2D
+
+1140
+00:47:24.180 --> 00:47:28.120
+<v Sam Pichardo>imaging, uh, ba-based on that. So that's, that was kind of the next, next
+
+1141
+00:47:28.160 --> 00:47:31.080
+<v Sam Pichardo>thing. That was a very, very, um, next step.
+
+1142
+00:47:31.360 --> 00:47:35.440
+<v Sam Pichardo>Uh, uh, and, and this was demonstrated, um, both numerically and experimentally.
+
+1143
+00:47:35.440 --> 00:47:38.020
+<v Sam Pichardo>[laughs]
+
+1144
+00:47:38.080 --> 00:47:39.740
+<v Keith Murphy>Nice. Guys, we're at an hour and a half.
+
+1145
+00:47:39.780 --> 00:47:40.280
+<v Sam Pichardo>Oh, sure, sure.
+
+1146
+00:47:40.120 --> 00:47:43.260
+<v Keith Murphy>Do you guys want to, um, do you wanna do a FUS win, or
+
+1147
+00:47:43.300 --> 00:47:46.420
+<v Keith Murphy>do you wanna do-- Do you wanna just wrap it up or what do
+
+1148
+00:47:46.460 --> 00:47:46.960
+<v Keith Murphy>you guys-
+
+1149
+00:47:46.580 --> 00:47:47.080
+<v Sam Pichardo>I don't-
+
+1150
+00:47:46.680 --> 00:47:47.540
+<v Keith Murphy>Or do you have one, Sam?
+
+1151
+00:47:48.120 --> 00:47:50.460
+<v Sam Pichardo>That was my last part of the homework, to see if it can be
+
+1152
+00:47:50.460 --> 00:47:52.000
+<v Sam Pichardo>a good shout-out. [laughs]
+
+1153
+00:47:52.120 --> 00:47:53.580
+<v Keith Murphy>It is supposed to be part of the homework.
+
+1154
+00:47:53.900 --> 00:47:56.420
+<v Charles Caskey>What about your wife, Sam? Oh, is it-- Oh, we can start, we can
+
+1155
+00:47:56.460 --> 00:47:58.720
+<v Charles Caskey>start offlo- offloading this on the guests.
+
+1156
+00:47:58.840 --> 00:47:59.340
+<v Charles Caskey>I love it.
+
+1157
+00:47:59.180 --> 00:47:59.740
+<v Keith Murphy>It is the guests.
+
+1158
+00:47:59.840 --> 00:48:00.340
+<v Charles Caskey>Actually-
+
+1159
+00:48:00.100 --> 00:48:00.680
+<v Keith Murphy>It's always their job.
+
+1160
+00:48:00.740 --> 00:48:01.240
+<v Charles Caskey>Yeah. [laughs]
+
+1161
+00:48:01.040 --> 00:48:03.740
+<v Sam Pichardo>Go ahead. Only, uh, uh- [laughs]
+
+1162
+00:48:03.800 --> 00:48:04.380
+<v Keith Murphy>Sam, no, this is on you, Sam.
+
+1163
+00:48:04.420 --> 00:48:06.980
+<v Charles Caskey>I, I was, I was gonna b- I, I actually had been thinking about
+
+1164
+00:48:07.020 --> 00:48:08.700
+<v Charles Caskey>this one a, a little bit, and so for the-
+
+1165
+00:48:08.760 --> 00:48:09.260
+<v Sam Pichardo>You have one?
+
+1166
+00:48:09.040 --> 00:48:10.360
+<v Charles Caskey>... FUS win this week, y- yeah.
+
+1167
+00:48:10.440 --> 00:48:11.600
+<v Charles Caskey>Well, I, I think it's Sam.
+
+1168
+00:48:11.880 --> 00:48:13.920
+<v Charles Caskey>Sam has the new transducer paper.
+
+1169
+00:48:14.360 --> 00:48:19.540
+<v Charles Caskey>He's got the, the thalamus paper, BabelBrain 0.8 released in the last week.
+
+1170
+00:48:19.580 --> 00:48:21.160
+<v Charles Caskey>How is it not Sam? [laughs]
+
+1171
+00:48:21.220 --> 00:48:23.740
+<v Keith Murphy>Sam, unbelievable. Jesus Christ.
+
+1172
+00:48:23.760 --> 00:48:24.260
+<v Charles Caskey>Unbelievable.
+
+1173
+00:48:24.100 --> 00:48:26.460
+<v Keith Murphy>When you say it like that, Charles, how could it not be?
+
+1174
+00:48:26.980 --> 00:48:27.640
+<v Keith Murphy>Sam, way to go, man.
+
+1175
+00:48:27.640 --> 00:48:28.380
+<v Charles Caskey>I, I was, yeah, I was thinking about it.
+
+1176
+00:48:28.460 --> 00:48:30.800
+<v Charles Caskey>I was like, "Oh, man, like my, my Google alerts-
+
+1177
+00:48:30.800 --> 00:48:31.300
+<v Keith Murphy>He's got a lot of good stuff
+
+1178
+00:48:30.980 --> 00:48:33.360
+<v Charles Caskey>... and my LinkedIn's just like Sam Pichardo, like...
+
+1179
+00:48:33.560 --> 00:48:34.060
+<v Charles Caskey>[laughs]
+
+1180
+00:48:33.900 --> 00:48:36.800
+<v Keith Murphy>Giving BabelBrain to the people. He never stops giving.
+
+1181
+00:48:37.260 --> 00:48:37.760
+<v Charles Caskey>Yeah. Yeah, yeah.
+
+1182
+00:48:37.500 --> 00:48:38.180
+<v Keith Murphy>Sam, you're our guy.
+
+1183
+00:48:38.280 --> 00:48:41.580
+<v Charles Caskey>I think s- I think we have the FUS win here with us today.
+
+1184
+00:48:41.820 --> 00:48:42.320
+<v Keith Murphy>Oh, yeah.
+
+1185
+00:48:42.220 --> 00:48:43.180
+<v Charles Caskey>That's it. Uh-
+
+1186
+00:48:43.240 --> 00:48:47.260
+<v Sam Pichardo>Thanks, guys. Um, that's very gentle, some, uh, of, of the-- Uh, it means
+
+1187
+00:48:47.320 --> 00:48:49.940
+<v Sam Pichardo>a lot, some, uh, I mean, uh, both of you know I, I, I
+
+1188
+00:48:50.000 --> 00:48:51.480
+<v Sam Pichardo>love you guys, and I respect a lot.
+
+1189
+00:48:51.800 --> 00:48:55.500
+<v Sam Pichardo>And, uh, and thank you so for accepting our, our costumes to wear.
+
+1190
+00:48:55.500 --> 00:48:56.000
+<v Sam Pichardo>[laughs]
+
+1191
+00:48:55.860 --> 00:48:57.160
+<v Charles Caskey>Oh, love the-- Yeah, love the-
+
+1192
+00:48:57.200 --> 00:48:57.700
+<v Sam Pichardo>They're really good.
+
+1193
+00:48:57.860 --> 00:49:00.820
+<v Charles Caskey>Yeah. For those who aren't watching the videos, we're all in cat ears or
+
+1194
+00:49:00.880 --> 00:49:06.920
+<v Charles Caskey>other animal ears, [laughs] which... [laughs] So thank, thanks so much for joining
+
+1195
+00:49:06.960 --> 00:49:09.980
+<v Charles Caskey>us and for the kind words about our, our labs, and, and thanks for
+
+1196
+00:49:10.020 --> 00:49:11.680
+<v Charles Caskey>everything you do for the ultrasound community.
+
+1197
+00:49:11.740 --> 00:49:14.140
+<v Charles Caskey>It's, yeah, right? It, it moves us all forward.
+
+1198
+00:49:14.480 --> 00:49:15.160
+<v Charles Caskey>And that's what we are.
+
+1199
+00:49:15.200 --> 00:49:15.700
+<v Sam Pichardo>Thank you, sir.
+
+1200
+00:49:15.480 --> 00:49:16.260
+<v Charles Caskey>FUS Forward.
+
+1201
+00:49:16.840 --> 00:49:17.860
+<v Keith Murphy>FUS Forward.
+
+1202
+00:49:18.580 --> 00:49:19.080
+<v Charles Caskey>Bam.
+
+1203
+00:49:18.880 --> 00:49:19.680
+<v Keith Murphy>Sam, how did you wanna sign?
+
+1204
+00:49:19.700 --> 00:49:20.200
+<v Keith Murphy>[laughs]
+
+1205
+00:49:20.360 --> 00:49:22.140
+<v Sam Pichardo>Yeah, sure. [laughs]
+
+1206
+00:49:22.300 --> 00:49:22.800
+<v Keith Murphy>Awesome

@@ -1,0 +1,6559 @@
+1
+00:00:00,300 --> 00:00:03,220
+Charles Caskey: So are we gonna do like a formal introduction to the episode, and we're
+
+2
+00:00:03,260 --> 00:00:05,320
+gonna be like, "Hey, welcome to FUS Forward.
+
+3
+00:00:05,840 --> 00:00:08,300
+It's with Keith and Charles. We're gonna talk about..."
+
+4
+00:00:08,400 --> 00:00:09,540
+[laughs] [laughs]
+
+5
+00:00:09,540 --> 00:00:13,080
+Keith Murphy: I like that a lot. [laughs] [laughs]
+
+6
+00:00:13,280 --> 00:00:15,920
+Intro narrator: Follow Charles Caskey and Keith Murphy-
+
+7
+00:00:15,960 --> 00:00:16,460
+Keith Murphy: I think that's great
+
+8
+00:00:16,560 --> 00:00:22,500
+Intro narrator: ... as they explore the next frontier of ultrasound neuromodulation with FUS Forward.
+
+9
+00:00:23,400 --> 00:00:26,000
+Keith Murphy: We've gone through a series of very unfortunate events.
+
+10
+00:00:26,780 --> 00:00:30,680
+Raag did not bring his microphone for the first round.
+
+11
+00:00:31,560 --> 00:00:34,040
+And if guests coming on in the future think they're gonna get away with
+
+12
+00:00:34,100 --> 00:00:37,520
+no microphone, they're gonna show up with their AirPods, you guessed wrong.
+
+13
+00:00:38,380 --> 00:00:39,260
+Raag, tell them.
+
+14
+00:00:39,360 --> 00:00:42,000
+Raag Airan: 'Cause, well, I mean, on, on, uh, uh, on this, you know, on this
+
+15
+00:00:42,040 --> 00:00:44,780
+podcast we are very into acoustics- [laughs] ...
+
+16
+00:00:44,800 --> 00:00:47,140
+and sound and fidelity and quality.
+
+17
+00:00:47,720 --> 00:00:50,100
+Charles Caskey: I, I like that. [laughs] And it's true.
+
+18
+00:00:50,160 --> 00:00:54,040
+It's true. We, we, we really, you know, prioritize the ears of our listeners,
+
+19
+00:00:54,100 --> 00:00:56,700
+and we want them to have a high fidelity experience.
+
+20
+00:00:56,760 --> 00:00:58,500
+[laughs]
+
+21
+00:00:58,540 --> 00:00:59,940
+Raag Airan: At, at, at the appropriate frequencies.
+
+22
+00:01:00,260 --> 00:01:01,320
+Not too high, not too low.
+
+23
+00:01:01,340 --> 00:01:02,300
+[laughs]
+
+24
+00:01:02,340 --> 00:01:02,840
+Charles Caskey: Yeah.
+
+25
+00:01:02,880 --> 00:01:06,240
+Keith Murphy: Let me, let me put on night mode so that my screen's not so
+
+26
+00:01:06,300 --> 00:01:09,040
+white. Ah, that's a nice yellow.
+
+27
+00:01:09,940 --> 00:01:14,540
+Um, hey, Raag, before we talk about any of your incredible achievements, by the
+
+28
+00:01:14,580 --> 00:01:19,400
+way, if you didn't already know, Raag is an associate professor at Stanford University,
+
+29
+00:01:19,520 --> 00:01:23,360
+but also born and raised at Stanford University- [laughs] ...
+
+30
+00:01:23,380 --> 00:01:28,960
+with the legendary Karl Deisseroth. Can you explain that history with Karl?
+
+31
+00:01:30,360 --> 00:01:35,860
+Raag Airan: Um, yeah. Uh, so I mean, I came here for med school, grad school
+
+32
+00:01:35,880 --> 00:01:37,820
+as part of the MD-PhD program.
+
+33
+00:01:38,520 --> 00:01:42,540
+I honestly had no idea what I necessarily wanted to do for grad school.
+
+34
+00:01:42,800 --> 00:01:48,480
+Uh, I, I, I went, I, I applied to MD-PhD programs on little more
+
+35
+00:01:48,500 --> 00:01:53,300
+than a whim and, um, you know, to be honest, it wasn't the most
+
+36
+00:01:53,380 --> 00:01:56,340
+well-thought-out decision, but it seemed like a good thing to do for the next
+
+37
+00:01:56,420 --> 00:02:00,000
+10 years of my life. Um, anyway, so I was in grad school.
+
+38
+00:02:00,080 --> 00:02:04,920
+I bounced around, um, to, I think Karl's was the fifth lab that I
+
+39
+00:02:04,940 --> 00:02:05,860
+did a rotation in.
+
+40
+00:02:05,880 --> 00:02:08,140
+Keith Murphy: Oh my God. So it's okay to cycle a lot.
+
+41
+00:02:08,240 --> 00:02:08,740
+You could still-
+
+42
+00:02:08,700 --> 00:02:09,200
+Raag Airan: Yeah
+
+43
+00:02:08,900 --> 00:02:10,780
+Keith Murphy: ... be okay in life. [laughs]
+
+44
+00:02:10,840 --> 00:02:11,800
+Raag Airan: I mean, I'm glad I did 'cause-
+
+45
+00:02:11,800 --> 00:02:13,000
+Charles Caskey: I got follow-up questions about this.
+
+46
+00:02:13,020 --> 00:02:14,720
+[laughs]
+
+47
+00:02:14,780 --> 00:02:15,340
+Raag Airan: Yeah.
+
+48
+00:02:15,360 --> 00:02:16,660
+Charles Caskey: But we can, we can save those.
+
+49
+00:02:17,200 --> 00:02:20,620
+Raag Airan: The, the MD-PhD program was certainly like, "Dude, uh, you need to pick a
+
+50
+00:02:20,680 --> 00:02:22,340
+lab." Like, you, you know, so-
+
+51
+00:02:22,760 --> 00:02:24,560
+Keith Murphy: How long till you hit the fifth lab?
+
+52
+00:02:25,100 --> 00:02:25,600
+Years?
+
+53
+00:02:25,780 --> 00:02:27,920
+Raag Airan: Uh, in, in my second year, you know, uh, 'cause I-
+
+54
+00:02:27,940 --> 00:02:28,440
+Keith Murphy: Wow
+
+55
+00:02:28,440 --> 00:02:31,000
+Raag Airan: ... went down the whole, you know, I did not know what I wanted
+
+56
+00:02:31,040 --> 00:02:32,460
+to do and nothing really fit.
+
+57
+00:02:33,060 --> 00:02:36,280
+And- Yeah ... so they're like, "Hey, you know, talk to this guy.
+
+58
+00:02:36,340 --> 00:02:37,680
+He's a graduate of our program.
+
+59
+00:02:37,740 --> 00:02:41,560
+He's just starting his lab. You know, maybe, you know, y- you guys maybe
+
+60
+00:02:41,620 --> 00:02:45,420
+seem a little bit more phenotypically similar, so go talk to him."
+
+61
+00:02:45,620 --> 00:02:46,740
+And I talked to him and I was like...
+
+62
+00:02:47,080 --> 00:02:49,400
+He's like, "Well, I'm doing all this stuff," and he, you know, at that
+
+63
+00:02:49,440 --> 00:02:51,600
+point, you know, it was just like empty room after empty room.
+
+64
+00:02:52,320 --> 00:02:53,600
+And he didn't, you know-
+
+65
+00:02:53,660 --> 00:02:57,120
+Keith Murphy: Oh, you were, you were like early in Karl's lab right after he left
+
+66
+00:02:57,200 --> 00:02:58,940
+Rob Malenka's lab, so it's like a-
+
+67
+00:02:59,200 --> 00:03:02,500
+Raag Airan: Yes. I, I'm still, you know, a manager on Mailman, you know, for, for
+
+68
+00:03:02,740 --> 00:03:04,760
+the, for the labs. [laughs] Uh, and-
+
+69
+00:03:04,780 --> 00:03:07,100
+Keith Murphy: Charles, you, you know who Malenka is as a physicist?
+
+70
+00:03:07,140 --> 00:03:08,620
+Charles Caskey: I, I don't know Malenka. No, no.
+
+71
+00:03:08,680 --> 00:03:09,180
+I, uh, yeah.
+
+72
+00:03:09,260 --> 00:03:10,020
+Keith Murphy: Raag, Raag.
+
+73
+00:03:10,320 --> 00:03:10,820
+Raag Airan: Yeah.
+
+74
+00:03:10,420 --> 00:03:11,840
+Keith Murphy: Just one sentence on Rob. Go.
+
+75
+00:03:12,980 --> 00:03:18,120
+Raag Airan: Um, like all the stuff about dopamine and the nucleus accumbens and its rewarding
+
+76
+00:03:18,160 --> 00:03:23,200
+properties and like all that stuff, especially now drugs of abuse and how they
+
+77
+00:03:23,260 --> 00:03:27,800
+interact, like a lot of that is literally based off Rob's, like his work.
+
+78
+00:03:28,500 --> 00:03:31,060
+Keith Murphy: Yeah. When I, when I was in grad school, they used to make us
+
+79
+00:03:31,160 --> 00:03:35,420
+read like his papers as, uh, journal clubs, and I was like, "Man, if
+
+80
+00:03:35,480 --> 00:03:37,520
+only ever I could meet this guy someday."
+
+81
+00:03:37,600 --> 00:03:38,100
+[laughs]
+
+82
+00:03:38,180 --> 00:03:38,680
+Charles Caskey: Oh.
+
+83
+00:03:38,240 --> 00:03:40,460
+Raag Airan: And he's a character. He, he would, he would, he would like this scene
+
+84
+00:03:40,500 --> 00:03:41,460
+that we have going on here.
+
+85
+00:03:42,060 --> 00:03:43,080
+Charles Caskey: Oh, absolutely.
+
+86
+00:03:43,120 --> 00:03:43,920
+Raag Airan: Yeah. Yeah, yeah. He, oh-
+
+87
+00:03:44,000 --> 00:03:44,500
+Charles Caskey: Oh, cool
+
+88
+00:03:44,460 --> 00:03:48,460
+Raag Airan: ... so Rob's like a, a kind of, I mean, almost like surrogate advisor
+
+89
+00:03:48,500 --> 00:03:51,960
+'cause I, you know, amazing, amazing scientist and mentor.
+
+90
+00:03:52,020 --> 00:03:55,360
+Like, he actually takes mentorship, I think, very to heart, you know?
+
+91
+00:03:55,680 --> 00:03:56,180
+Keith Murphy: Yeah.
+
+92
+00:03:55,780 --> 00:03:56,800
+Raag Airan: And honestly, I mean, Karl's great.
+
+93
+00:03:56,940 --> 00:03:58,860
+You know, I would definitely... [laughs] I'm not like saying anything like-
+
+94
+00:03:59,280 --> 00:03:59,780
+Charles Caskey: No, no, no. It's, it's a-
+
+95
+00:03:59,520 --> 00:04:00,020
+Raag Airan: But it's like-
+
+96
+00:03:59,740 --> 00:04:02,040
+Charles Caskey: ... it's a different archetype of a PI that, yeah, I know what you're
+
+97
+00:04:02,080 --> 00:04:05,080
+talking about. Yeah. Like a, one that you're like they're mentorship first or they're
+
+98
+00:04:05,120 --> 00:04:05,620
+like really-
+
+99
+00:04:05,620 --> 00:04:06,120
+Keith Murphy: Mm-hmm
+
+100
+00:04:05,660 --> 00:04:07,180
+Charles Caskey: ... that's in their top three, you know?
+
+101
+00:04:07,220 --> 00:04:07,880
+[laughs]
+
+102
+00:04:07,920 --> 00:04:11,060
+Raag Airan: Yeah. I mean, so, you know, a lot of the guys that we know,
+
+103
+00:04:11,180 --> 00:04:16,400
+um, you know, this, so, uh, so Boris, um, uh, Casey Halpern, I don't
+
+104
+00:04:16,420 --> 00:04:19,560
+know if, you know. I mean, there's like so many folks who came through
+
+105
+00:04:19,620 --> 00:04:22,920
+Rob's lab, and Rob really, uh, takes pride in their success kind of thing.
+
+106
+00:04:22,980 --> 00:04:23,480
+Charles Caskey: Yeah.
+
+107
+00:04:23,260 --> 00:04:23,760
+Keith Murphy: Yeah.
+
+108
+00:04:23,760 --> 00:04:24,260
+Raag Airan: Yeah.
+
+109
+00:04:24,000 --> 00:04:28,300
+Keith Murphy: Scientific grandchildren, not a comment on age, just on, uh, lineage.
+
+110
+00:04:28,300 --> 00:04:28,800
+[laughs]
+
+111
+00:04:28,740 --> 00:04:29,240
+Raag Airan: Yeah, yeah. I-
+
+112
+00:04:29,240 --> 00:04:30,960
+Keith Murphy: All right. So Raag, y- you're with Karl-
+
+113
+00:04:31,300 --> 00:04:31,800
+Raag Airan: Yeah
+
+114
+00:04:31,360 --> 00:04:34,280
+Keith Murphy: ... and you're finally like, "Oh, this guy's got it going on."
+
+115
+00:04:34,820 --> 00:04:36,220
+Mm-hmm. "I'm gonna do something awesome."
+
+116
+00:04:36,520 --> 00:04:40,660
+And you invent-- I don't know if you invent it, but you created new
+
+117
+00:04:40,720 --> 00:04:43,700
+ground on releasing nanoparticles with ultrasound.
+
+118
+00:04:43,900 --> 00:04:47,340
+Raag Airan: Oh. Well, that came later. Uh, so I mean, in Karl's lab, I mean,
+
+119
+00:04:47,380 --> 00:04:51,860
+worked on optogenetics. Um, the specific thing I worked on, uh, which, you know,
+
+120
+00:04:52,040 --> 00:04:54,160
+in retrospect, you know, it does kind of link in with what I'm doing
+
+121
+00:04:54,200 --> 00:04:58,400
+now. So we made optogenetic analogs of the G protein-coupled receptors.
+
+122
+00:04:58,700 --> 00:04:59,200
+So the-
+
+123
+00:04:58,720 --> 00:05:00,480
+Keith Murphy: Oh, wait. You didn't do particles with Raag?
+
+124
+00:05:00,840 --> 00:05:02,020
+I mean, with, uh, with Karl?
+
+125
+00:05:02,040 --> 00:05:04,120
+Raag Airan: With Karl. No, no, no. Um, that was all later.
+
+126
+00:05:04,820 --> 00:05:06,520
+Keith Murphy: Oh. All right. Well, we gotta...
+
+127
+00:05:06,560 --> 00:05:07,120
+What? [laughs]
+
+128
+00:05:07,160 --> 00:05:07,960
+Raag Airan: Okay, yeah. Yeah.
+
+129
+00:05:08,020 --> 00:05:09,420
+Keith Murphy: I think you've gotta stay on your optimists.
+
+130
+00:05:09,460 --> 00:05:10,540
+What am I even asking you about?
+
+131
+00:05:10,560 --> 00:05:11,320
+[laughs] [laughs]
+
+132
+00:05:11,380 --> 00:05:12,080
+Raag Airan: I don't know where to start.
+
+133
+00:05:12,100 --> 00:05:13,980
+[laughs]
+
+134
+00:05:14,040 --> 00:05:15,840
+Keith Murphy: All right. Go ahead and tell us in brief-
+
+135
+00:05:16,460 --> 00:05:16,960
+Raag Airan: Yeah, sure
+
+136
+00:05:17,140 --> 00:05:20,380
+Keith Murphy: ... what you did with Karl, because it's not relevant for this podcast, but
+
+137
+00:05:20,420 --> 00:05:21,800
+we love Karl. We'd love to hear about it.
+
+138
+00:05:21,860 --> 00:05:25,420
+Raag Airan: I mean, it... So I'll, I'll bring in the re- relevance, but briefly I
+
+139
+00:05:25,440 --> 00:05:25,940
+worked on-
+
+140
+00:05:25,800 --> 00:05:26,300
+Keith Murphy: Okay
+
+141
+00:05:26,000 --> 00:05:30,700
+Raag Airan: ... two systems, voltage-sensitive dye imaging, um, so optical imaging of neural activity.
+
+142
+00:05:31,140 --> 00:05:34,000
+But, you know, what became more, you know, the, the second part of my
+
+143
+00:05:34,040 --> 00:05:38,960
+thesis was we made optogenetic analogs of G protein-coupled receptors, which are the main
+
+144
+00:05:39,020 --> 00:05:41,280
+drug targets for a, a wide variety of drugs.
+
+145
+00:05:41,880 --> 00:05:46,960
+Um, and so you can have like, if you will, an optogenetic analog of
+
+146
+00:05:47,020 --> 00:05:51,860
+a dopamine stimulus or a serotonin stimulus or what have you by creating, you
+
+147
+00:05:51,900 --> 00:05:55,240
+know, the, what we did is made a chimera from rhodopsin, the usual light,
+
+148
+00:05:55,700 --> 00:06:00,920
+um, opsin, and the, a target GPCR so that we could activate using light,
+
+149
+00:06:01,040 --> 00:06:05,400
+but then have the intracellular action be whatever that G protein-coupled receptor would do.
+
+150
+00:06:06,040 --> 00:06:07,380
+Keith Murphy: People, people using it or what?
+
+151
+00:06:08,400 --> 00:06:10,560
+Raag Airan: I don't know that people are using it so much later, 'cause I mean,
+
+152
+00:06:10,600 --> 00:06:12,660
+to be honest, I think DREADDs, uh-
+
+153
+00:06:13,060 --> 00:06:13,560
+Keith Murphy: DREADDs are great
+
+154
+00:06:13,160 --> 00:06:15,920
+Raag Airan: ... DREADDs kind of get, you know, to a similar endpoint, you know, but
+
+155
+00:06:15,960 --> 00:06:21,080
+different time scales, et cetera. Um, I of course like the optoXRs, but, um,
+
+156
+00:06:21,880 --> 00:06:25,080
+it, I mean, I basically, you know, that paper came out, and then I
+
+157
+00:06:25,140 --> 00:06:28,600
+graduated, and, you know, I guess there was, there wasn't as many folks to
+
+158
+00:06:28,660 --> 00:06:29,240
+really push it.
+
+159
+00:06:29,800 --> 00:06:30,300
+Keith Murphy: Yeah.
+
+160
+00:06:29,820 --> 00:06:33,580
+Raag Airan: But what it did show is like, it was a really powerful thing, like,
+
+161
+00:06:33,620 --> 00:06:35,600
+you know, in terms of dri- you know, the, the kind of proof of
+
+162
+00:06:35,640 --> 00:06:38,440
+concept thing we showed in the paper was a conditioned place preference.
+
+163
+00:06:38,800 --> 00:06:39,300
+Keith Murphy: Mm-hmm.
+
+164
+00:06:38,820 --> 00:06:42,280
+Raag Airan: And it was literally like every single animal [chuckles] got, you know-
+
+165
+00:06:42,640 --> 00:06:43,140
+Keith Murphy: Oh, wow
+
+166
+00:06:42,940 --> 00:06:45,180
+Raag Airan: ... uh, uh, shifted their preference to the side that they got the, the
+
+167
+00:06:45,220 --> 00:06:45,720
+stimulus.
+
+168
+00:06:45,680 --> 00:06:46,300
+Keith Murphy: 100%.
+
+169
+00:06:46,420 --> 00:06:46,920
+Raag Airan: Um-
+
+170
+00:06:46,620 --> 00:06:47,320
+Keith Murphy: The rare Hundo.
+
+171
+00:06:48,540 --> 00:06:51,320
+Raag Airan: Yeah, yeah, yeah. It was just like, it was just like I, I, I
+
+172
+00:06:51,360 --> 00:06:54,380
+mean, to the point that, you know, Karl had a, I think, an undergrad
+
+173
+00:06:54,400 --> 00:06:58,320
+in the lab kind of like check me on the, uh, uh, analysis.
+
+174
+00:06:58,360 --> 00:07:00,020
+You know, I was, yeah, uh- [laughs] ...
+
+175
+00:07:00,080 --> 00:07:02,240
+we were blinded when we did it, but she's like, he's like, "Let me
+
+176
+00:07:02,360 --> 00:07:03,600
+just have somebody else do this."
+
+177
+00:07:03,840 --> 00:07:04,520
+[laughs] [laughs]
+
+178
+00:07:04,720 --> 00:07:05,440
+Keith Murphy: Provide verification.
+
+179
+00:07:05,480 --> 00:07:06,720
+Raag Airan: I know, which is literally important, right?
+
+180
+00:07:06,760 --> 00:07:08,020
+I was like, you know, by all means, right?
+
+181
+00:07:08,060 --> 00:07:08,600
+You know, I, I, I-
+
+182
+00:07:08,680 --> 00:07:09,700
+Keith Murphy: Yeah. [laughs]
+
+183
+00:07:09,740 --> 00:07:11,620
+Raag Airan: All right. So but they also confirmed the result.
+
+184
+00:07:11,820 --> 00:07:14,480
+Keith Murphy: Charles, you ever hit, you ever hit the rare Hundo in your lab?
+
+185
+00:07:14,880 --> 00:07:17,120
+Charles Caskey: Uh, no, not on anything. Uh, no.
+
+186
+00:07:17,140 --> 00:07:21,220
+[laughs] No. I, I, we make transducers, and I rarely get 100% of the
+
+187
+00:07:21,280 --> 00:07:24,680
+elements to work correctly. [laughs]
+
+188
+00:07:24,720 --> 00:07:28,900
+Raag Airan: So I think it's fair to say that the, you know, translational aspects of
+
+189
+00:07:28,960 --> 00:07:34,880
+optogenetics can be limited because of the optic, you know, the reliance on, on,
+
+190
+00:07:35,220 --> 00:07:35,900
+on light delivery.
+
+191
+00:07:36,580 --> 00:07:40,000
+Charles Caskey: Nice. I'd say I, I, I like how you're, you're treading, you're treading lightly
+
+192
+00:07:40,080 --> 00:07:42,680
+through this territory because you know the, like of, of the-
+
+193
+00:07:42,700 --> 00:07:43,200
+Keith Murphy: Yeah
+
+194
+00:07:42,800 --> 00:07:45,500
+Charles Caskey: ... the ways that people are, are, are, you know, trying to figure out
+
+195
+00:07:45,540 --> 00:07:46,640
+how to get that light in there.
+
+196
+00:07:47,120 --> 00:07:52,840
+Uh, all right. So you, so it's, so you got optogenetics running light, but
+
+197
+00:07:52,900 --> 00:07:55,440
+no transducers. What, what, what, what's, what gives?
+
+198
+00:07:55,640 --> 00:07:57,100
+[laughs]
+
+199
+00:07:57,160 --> 00:08:00,120
+Raag Airan: Well, you know, it's a bit, it's a bit hard to get light through
+
+200
+00:08:00,460 --> 00:08:01,400
+our, our, our body here.
+
+201
+00:08:02,080 --> 00:08:02,580
+Charles Caskey: Yeah.
+
+202
+00:08:02,260 --> 00:08:02,760
+Keith Murphy: Yeah.
+
+203
+00:08:02,380 --> 00:08:05,600
+Raag Airan: Right? You know? But as we've, you know, come to understand, it's, it's not
+
+204
+00:08:05,620 --> 00:08:09,820
+so hard, uh, to get ultrasound to get through our head, our body, you
+
+205
+00:08:09,840 --> 00:08:14,200
+know, different parts. Um, and kind of ser- you know, somewhat serendipitously, around this
+
+206
+00:08:14,220 --> 00:08:15,080
+time is when I met Kim.
+
+207
+00:08:15,960 --> 00:08:16,460
+So-
+
+208
+00:08:16,560 --> 00:08:17,060
+Charles Caskey: Okay.
+
+209
+00:08:16,820 --> 00:08:19,740
+Raag Airan: Yeah ... I was a grad student here, you know, at Stanford, and literally,
+
+210
+00:08:19,800 --> 00:08:22,560
+like, heard a talk by Kim at that time when she was kind of
+
+211
+00:08:22,860 --> 00:08:25,220
+really getting into ultrasound, focused ultrasound.
+
+212
+00:08:25,720 --> 00:08:27,660
+And then I was just like, "Ah."
+
+213
+00:08:28,260 --> 00:08:28,840
+[laughs]
+
+214
+00:08:28,900 --> 00:08:31,920
+Charles Caskey: Yeah, 'cause there, there's kind of like a A plus B equals C thing
+
+215
+00:08:31,980 --> 00:08:32,920
+there, I, I would guess.
+
+216
+00:08:32,960 --> 00:08:36,340
+Raag Airan: Yeah, yeah, yeah. So, you know, if we could do this kind of a
+
+217
+00:08:36,400 --> 00:08:39,560
+similar endpoint, but with ultrasound, that's okay.
+
+218
+00:08:39,680 --> 00:08:40,440
+That's what I wanted to do.
+
+219
+00:08:41,120 --> 00:08:41,620
+Charles Caskey: Right.
+
+220
+00:08:41,180 --> 00:08:44,980
+Raag Airan: And I mean, I guess I've always been interested in the, uh, more like
+
+221
+00:08:45,000 --> 00:08:50,520
+pharmacology type of thing. And so the idea from there really morphed into, um,
+
+222
+00:08:51,720 --> 00:08:56,140
+uh, ultrasound to enable targeted drug delivery, with the drug then doing the modulatory
+
+223
+00:08:56,260 --> 00:09:00,620
+action. So instead of like optogenetics, it's ultrasound and pharmacology.
+
+224
+00:09:00,880 --> 00:09:01,380
+Yeah.
+
+225
+00:09:01,540 --> 00:09:04,940
+Charles Caskey: I think you were an early person I met, like, I think we got
+
+226
+00:09:05,020 --> 00:09:08,800
+into focused ultrasound neuromodulation around the same time, and it was around the time
+
+227
+00:09:08,980 --> 00:09:13,080
+where the mechanisms were still like very, very unknown.
+
+228
+00:09:13,140 --> 00:09:14,520
+Like, we feel like they're unknown now.
+
+229
+00:09:14,560 --> 00:09:16,380
+They were really, like, less-
+
+230
+00:09:16,420 --> 00:09:16,920
+Raag Airan: Yeah
+
+231
+00:09:16,520 --> 00:09:22,040
+Charles Caskey: ... appreciated then. And I feel like, like your thinking, uh, I adopted part
+
+232
+00:09:22,080 --> 00:09:24,480
+of it 'cause I was like, man, how are we ever gonna get ju-
+
+233
+00:09:24,800 --> 00:09:28,760
+only ultrasound to do something, uh, uh, specific to the brain?
+
+234
+00:09:29,060 --> 00:09:31,960
+I was like, I was like, "Raag has the answer to this."
+
+235
+00:09:31,960 --> 00:09:35,340
+[laughs] We are going to do-- We need to get the far- the pharmacological
+
+236
+00:09:35,460 --> 00:09:39,120
+part of this going. And it, it like, in a way, it just, yeah,
+
+237
+00:09:39,140 --> 00:09:41,600
+it occupied a portion of my brain, and we were, you know, we were
+
+238
+00:09:41,640 --> 00:09:44,440
+fortunate to have a, a grant where we worked on, on it a bit
+
+239
+00:09:44,480 --> 00:09:46,040
+together as well. Um-
+
+240
+00:09:46,560 --> 00:09:47,840
+Keith Murphy: You two worked on a grant together?
+
+241
+00:09:48,260 --> 00:09:48,760
+Raag Airan: Uh-huh.
+
+242
+00:09:48,460 --> 00:09:49,220
+Charles Caskey: We did, yeah.
+
+243
+00:09:49,640 --> 00:09:50,260
+Keith Murphy: Oh, hell yeah.
+
+244
+00:09:50,820 --> 00:09:51,420
+Raag Airan: Yeah, yeah.
+
+245
+00:09:51,520 --> 00:09:53,700
+Charles Caskey: We're, we're still trying to get this stuff going.
+
+246
+00:09:53,700 --> 00:09:54,300
+[laughs]
+
+247
+00:09:54,320 --> 00:09:57,860
+Raag Airan: Hey, hey, dude, we got, we got like however many ML of particles ready
+
+248
+00:09:57,900 --> 00:09:58,460
+to ship to y'all.
+
+249
+00:09:58,920 --> 00:10:01,980
+Charles Caskey: I can't wait. Yeah. I'm, I'm very excited for the current generation.
+
+250
+00:10:02,000 --> 00:10:02,940
+Keith Murphy: Don't you want those particles?
+
+251
+00:10:03,120 --> 00:10:05,760
+Raag Airan: Yeah, yeah, yeah. The current, the current generation are a little bit better than
+
+252
+00:10:05,780 --> 00:10:07,220
+the previous generation. I'll, I'll-
+
+253
+00:10:07,360 --> 00:10:08,720
+Keith Murphy: You guys wanna know a fun fact?
+
+254
+00:10:09,200 --> 00:10:09,700
+Raag Airan: Yeah.
+
+255
+00:10:09,740 --> 00:10:10,240
+Charles Caskey: Always.
+
+256
+00:10:10,140 --> 00:10:14,820
+Keith Murphy: First time I ever heard about focused ultrasound at all was from Raag and
+
+257
+00:10:14,880 --> 00:10:15,500
+Tommaso.
+
+258
+00:10:16,100 --> 00:10:16,600
+Raag Airan: Oh. Oh, really?
+
+259
+00:10:16,880 --> 00:10:17,380
+Charles Caskey: Oh. Yeah, yeah.
+
+260
+00:10:17,480 --> 00:10:20,160
+Keith Murphy: I didn't, I didn't learn it from you guys, but you guys were the
+
+261
+00:10:20,220 --> 00:10:22,860
+first people to plant it in my head where it was like, whoa.
+
+262
+00:10:23,060 --> 00:10:23,560
+Raag Airan: Oh.
+
+263
+00:10:23,100 --> 00:10:27,240
+Keith Murphy: And then I read your hearing out ultrasound neuromodulation paper, which-
+
+264
+00:10:27,320 --> 00:10:27,820
+Raag Airan: Oh
+
+265
+00:10:27,400 --> 00:10:31,660
+Keith Murphy: ... the title is, the title's deceitful because they're not hearing anything out.
+
+266
+00:10:32,060 --> 00:10:33,460
+They're just saying, "This is BS.
+
+267
+00:10:33,540 --> 00:10:36,300
+None of this works." [laughs] I think that was kind of the gist of
+
+268
+00:10:36,360 --> 00:10:36,860
+that.
+
+269
+00:10:36,740 --> 00:10:39,880
+Raag Airan: So, so in, in my defense, that was me and Kim who wrote that.
+
+270
+00:10:39,880 --> 00:10:40,420
+[laughs]
+
+271
+00:10:40,520 --> 00:10:41,020
+Charles Caskey: Yeah.
+
+272
+00:10:40,740 --> 00:10:41,760
+Raag Airan: Okay? Like, it wasn't all-
+
+273
+00:10:41,940 --> 00:10:42,840
+Charles Caskey: He underwrote it. The-
+
+274
+00:10:43,440 --> 00:10:43,940
+Raag Airan: Yeah.
+
+275
+00:10:43,460 --> 00:10:47,220
+Keith Murphy: But, but it, but it also points to like-- So Charles's point was good.
+
+276
+00:10:47,400 --> 00:10:52,000
+When I got into ultrasound neuromodulation, everything I did, which was on soft ground,
+
+277
+00:10:52,100 --> 00:10:53,660
+I mean, eroding beneath my feet.
+
+278
+00:10:54,220 --> 00:10:57,180
+I would say, "Well, it doesn't matter because if I fail, look at what
+
+279
+00:10:57,240 --> 00:11:01,260
+Raag does. He uses particles." So the energy is there, and now you just,
+
+280
+00:11:01,800 --> 00:11:04,200
+you know, you re-leverage the tool for something else.
+
+281
+00:11:04,260 --> 00:11:08,220
+So Raag, you've been, you've been a backstop for the whole community, Charles and
+
+282
+00:11:08,400 --> 00:11:09,420
+I for sure. [laughs]
+
+283
+00:11:09,460 --> 00:11:11,480
+Charles Caskey: The-- I, I was, yeah, it was like totally like that.
+
+284
+00:11:11,540 --> 00:11:14,520
+I was like, "Well, if I'm gonna spend all this time figuring out how
+
+285
+00:11:14,540 --> 00:11:15,900
+to get sound out of nowhere-"
+
+286
+00:11:16,020 --> 00:11:16,620
+Keith Murphy: You're
+
+287
+00:11:16,620 --> 00:11:19,100
+Charles Caskey: better than a backstop. Yeah. Like, then I at least like if Raag can
+
+288
+00:11:19,140 --> 00:11:22,360
+get this part to work, even if the ultrasound part doesn't work, I will,
+
+289
+00:11:22,680 --> 00:11:24,100
+like, have a path forward. Yeah.
+
+290
+00:11:24,240 --> 00:11:25,060
+So thank you for that.
+
+291
+00:11:25,160 --> 00:11:25,760
+Keith Murphy: Saint Raag.
+
+292
+00:11:26,200 --> 00:11:27,520
+Raag Airan: Very good. Yeah. Hey, cheers.
+
+293
+00:11:27,760 --> 00:11:30,580
+Keith Murphy: In his, in his white, in his white linens walking along the beach.
+
+294
+00:11:31,000 --> 00:11:32,340
+He appears when we need him most.
+
+295
+00:11:32,460 --> 00:11:36,100
+Charles Caskey: Yeah, yeah, yeah, yeah. [laughs] There's only one set of footprints.
+
+296
+00:11:36,140 --> 00:11:36,640
+Keith Murphy: Something like that.
+
+297
+00:11:36,520 --> 00:11:37,840
+Charles Caskey: But that's when I was carrying you.
+
+298
+00:11:37,840 --> 00:11:38,660
+[laughs]
+
+299
+00:11:38,700 --> 00:11:39,200
+Raag Airan: Yeah.
+
+300
+00:11:41,340 --> 00:11:45,960
+Keith Murphy: Raag, tell us about, tell us about your favorite, um, I guess, inventions with
+
+301
+00:11:46,020 --> 00:11:47,240
+particles and what you've shown.
+
+302
+00:11:48,420 --> 00:11:51,060
+Raag Airan: I mean, so there are definitely cool things that, I mean, I've seen, uh,
+
+303
+00:11:51,440 --> 00:11:55,060
+uh, from other groups. I mean, from the stuff that we're-- I mean, we're
+
+304
+00:11:55,840 --> 00:12:02,080
+on the precipice of enabling targeted delivery of ketamine, um, to the
+
+305
+00:12:02,180 --> 00:12:03,960
+anterior cingulate of patients with chronic pain.
+
+306
+00:12:04,920 --> 00:12:08,620
+Um, and you know, what we're seeing in the rats, you know, in respo-
+
+307
+00:12:08,700 --> 00:12:12,940
+or mice, you know, in response to this is some kind of, like, very
+
+308
+00:12:14,330 --> 00:12:17,110
+... crazy stuff that I so, I don't know what the humans are gonna
+
+309
+00:12:17,130 --> 00:12:19,870
+experience when we do this. Like-
+
+310
+00:12:19,910 --> 00:12:20,590
+Keith Murphy: F- flesh that out.
+
+311
+00:12:20,670 --> 00:12:21,170
+Raag Airan: Um-
+
+312
+00:12:20,690 --> 00:12:22,870
+Keith Murphy: What's the particle? What's... The drug is ketamine.
+
+313
+00:12:23,010 --> 00:12:23,510
+Raag Airan: Yeah.
+
+314
+00:12:23,130 --> 00:12:24,430
+Keith Murphy: You have a particle wrapped around it.
+
+315
+00:12:24,610 --> 00:12:25,750
+How'd you figure out that particle?
+
+316
+00:12:26,550 --> 00:12:29,870
+Raag Airan: Yeah. So, okay. So the particle is a, it's a liposome, so it's a
+
+317
+00:12:30,050 --> 00:12:34,830
+lipid bilayer, you know, very similar to lipids in our cells, and- Mm-hmm ...
+
+318
+00:12:34,930 --> 00:12:39,030
+um, you know, wrapped around a medium that contains the, uh, ketamine.
+
+319
+00:12:39,630 --> 00:12:40,130
+And-
+
+320
+00:12:39,650 --> 00:12:41,690
+Keith Murphy: Where'd you get the lipids? How, how'd you wrap 'em up?
+
+321
+00:12:42,790 --> 00:12:47,430
+Raag Airan: Um, uh, not s- so, so, uh, I should say that liposomes themselves are
+
+322
+00:12:47,470 --> 00:12:51,230
+like, they're decades-old tech, been around for quite a while.
+
+323
+00:12:51,290 --> 00:12:56,050
+They're already used as drug delivery vehicles and other aspects for more just controlled
+
+324
+00:12:56,110 --> 00:13:01,370
+release of these drugs. Um, and so I d- you know, I didn't, like,
+
+325
+00:13:01,570 --> 00:13:03,010
+we didn't invent them or anything like that.
+
+326
+00:13:03,570 --> 00:13:06,490
+Um, what we actually asked is, so we had an earlier version of the
+
+327
+00:13:06,530 --> 00:13:10,650
+particles which worked in a lab setting, and they still work, you know, in
+
+328
+00:13:10,690 --> 00:13:14,550
+everything in a lab setting, but getting them into people was challenging, I should
+
+329
+00:13:14,590 --> 00:13:15,710
+say. Uh, for reasons that-
+
+330
+00:13:15,710 --> 00:13:17,490
+Charles Caskey: Would these have been the droplet-based particles?
+
+331
+00:13:17,970 --> 00:13:18,470
+Raag Airan: Mm-hmm.
+
+332
+00:13:18,590 --> 00:13:19,090
+Charles Caskey: Yeah.
+
+333
+00:13:18,650 --> 00:13:21,850
+Raag Airan: So these are nano droplets similar to, like, what Charles has used in the
+
+334
+00:13:21,890 --> 00:13:25,770
+past and what others have used, but the main thing is to keep the
+
+335
+00:13:25,850 --> 00:13:32,030
+drug held onto the particle stably through production and storage for a long time,
+
+336
+00:13:32,070 --> 00:13:35,350
+and then injection into a human, and doing all that up to, like, the
+
+337
+00:13:35,390 --> 00:13:37,090
+standard that we would need- Mm-hmm ...
+
+338
+00:13:37,130 --> 00:13:39,730
+was very challenging. And I'm not gonna say impossible, but it was, like, a
+
+339
+00:13:39,790 --> 00:13:41,450
+big, it would be a big hill to climb.
+
+340
+00:13:41,990 --> 00:13:42,490
+And that's what we-
+
+341
+00:13:42,310 --> 00:13:45,210
+Keith Murphy: So you're an operation, like an operational scientist, so to speak.
+
+342
+00:13:45,270 --> 00:13:49,130
+You took something maybe unusable and turned it into something that could scale to
+
+343
+00:13:49,170 --> 00:13:49,670
+humans.
+
+344
+00:13:50,270 --> 00:13:52,710
+Raag Airan: That's, you know, that's kind-- That, that ended up being the challenge that we
+
+345
+00:13:52,890 --> 00:13:53,390
+had when we were-
+
+346
+00:13:53,330 --> 00:13:53,830
+Keith Murphy: Yeah
+
+347
+00:13:53,370 --> 00:13:54,750
+Raag Airan: ... trying to get to, you know, uh-
+
+348
+00:13:54,850 --> 00:13:59,050
+Keith Murphy: Not un- not unlike Father Karl, who really operationalized optogenetics.
+
+349
+00:13:59,210 --> 00:14:00,190
+I mean, he wasn't the first.
+
+350
+00:14:00,230 --> 00:14:01,330
+He just made it usable, right?
+
+351
+00:14:01,830 --> 00:14:03,130
+Raag Airan: Yeah. Or yeah, I mean, uh, yeah.
+
+352
+00:14:03,190 --> 00:14:06,810
+I mean, I think he, it was, uh, seeing that happen as a grad
+
+353
+00:14:06,870 --> 00:14:07,530
+student, you know-
+
+354
+00:14:08,010 --> 00:14:08,510
+Keith Murphy: Mm-hmm
+
+355
+00:14:08,130 --> 00:14:10,570
+Raag Airan: ... uh, I guess, I mean, I did take a lot of, um-
+
+356
+00:14:10,790 --> 00:14:11,290
+Keith Murphy: Yeah
+
+357
+00:14:10,910 --> 00:14:13,010
+Raag Airan: ... teachings or whatever from that thing to try to apply it to this
+
+358
+00:14:13,030 --> 00:14:13,750
+scenario, right?
+
+359
+00:14:14,110 --> 00:14:14,610
+Keith Murphy: Mm-hmm.
+
+360
+00:14:14,550 --> 00:14:17,770
+Raag Airan: Um, so yeah. So people have been working on ultrasound, you know, uh, media
+
+361
+00:14:17,810 --> 00:14:20,110
+drug delivery, even, you know, drug release from liposomes.
+
+362
+00:14:20,870 --> 00:14:23,890
+Um, but we asked the question of: How can we make this, you know,
+
+363
+00:14:24,150 --> 00:14:27,190
+something that could get into a human at least once in our lifetime, [chuckles]
+
+364
+00:14:27,210 --> 00:14:28,750
+you know, in, in a- [laughs] ...
+
+365
+00:14:28,790 --> 00:14:30,350
+in, like, you know, short order, right?
+
+366
+00:14:30,470 --> 00:14:30,970
+Not waiting-
+
+367
+00:14:30,910 --> 00:14:31,410
+Keith Murphy: Yeah
+
+368
+00:14:30,950 --> 00:14:35,690
+Raag Airan: ... for, like, decades, you know, plural of development, but something that we can
+
+369
+00:14:35,730 --> 00:14:37,070
+do in a relatively short time.
+
+370
+00:14:37,670 --> 00:14:42,770
+So that's why, you know, while we had the previous particles working, in parallel,
+
+371
+00:14:42,990 --> 00:14:45,750
+started to ask the question: Well, like, can we maybe start with something that
+
+372
+00:14:45,810 --> 00:14:50,310
+was, like, already in people and just make it ultrasound sensitive, as opposed to,
+
+373
+00:14:50,590 --> 00:14:53,930
+you know, concocting this thing that we figure should be ultrasound sensitive and then
+
+374
+00:14:53,970 --> 00:14:54,710
+trying to get into people.
+
+375
+00:14:55,270 --> 00:14:56,050
+Charles Caskey: Right. Yeah.
+
+376
+00:14:56,670 --> 00:14:59,930
+Raag Airan: And so that's why, you know, took these liposomes, and what we found was
+
+377
+00:14:59,970 --> 00:15:02,930
+that, you know, if you blasted at the liposomes, you can get drug release
+
+378
+00:15:02,970 --> 00:15:04,950
+to happen with them, but you really had to blast at them.
+
+379
+00:15:05,590 --> 00:15:06,090
+Charles Caskey: Yeah.
+
+380
+00:15:05,830 --> 00:15:06,330
+Keith Murphy: Mm-hmm.
+
+381
+00:15:06,730 --> 00:15:09,270
+Charles Caskey: Was that documented? Uh, so I know that thermally-
+
+382
+00:15:09,350 --> 00:15:09,850
+Raag Airan: Mm-hmm
+
+383
+00:15:09,370 --> 00:15:13,990
+Charles Caskey: ... sensitive liposomes, uh, I can't remember whi-whichever one, like, that had maybe cisplatin
+
+384
+00:15:14,050 --> 00:15:15,030
+in it, um-
+
+385
+00:15:15,110 --> 00:15:16,370
+Raag Airan: Uh, doxorubicin is probably the one-
+
+386
+00:15:16,410 --> 00:15:17,530
+Charles Caskey: Oh, doxo- Yeah, that's right
+
+387
+00:15:17,530 --> 00:15:18,030
+Raag Airan: ... yeah.
+
+388
+00:15:17,690 --> 00:15:19,770
+Charles Caskey: It was a doxorubicin, uh, thermal liposome.
+
+389
+00:15:19,790 --> 00:15:20,830
+Keith Murphy: That's a cancer drug, right?
+
+390
+00:15:21,250 --> 00:15:21,750
+Raag Airan: Yeah, yeah.
+
+391
+00:15:21,350 --> 00:15:25,430
+Charles Caskey: That's a cancer drug, and that's the, that's the motif that this builds on.
+
+392
+00:15:25,490 --> 00:15:27,630
+But that was a thermal delivery, and the mechanism-
+
+393
+00:15:27,730 --> 00:15:28,230
+Raag Airan: Mm-hmm
+
+394
+00:15:27,750 --> 00:15:32,290
+Charles Caskey: ... for releasing thermal, uh, thermally from a liposome is pretty well defined.
+
+395
+00:15:32,350 --> 00:15:33,790
+I think you change some of the lipids.
+
+396
+00:15:33,830 --> 00:15:34,950
+You make it a little looser.
+
+397
+00:15:35,450 --> 00:15:36,910
+Yeah. They heat up quicker and easier.
+
+398
+00:15:37,510 --> 00:15:41,090
+This idea, I, I was unaware until your paper, and I, and it may
+
+399
+00:15:41,190 --> 00:15:45,470
+just be my own ignorance. Maybe you can shed some light about was there,
+
+400
+00:15:45,950 --> 00:15:50,430
+yeah, was there a precedent for just shaking drugs loose from liposomes without temperature?
+
+401
+00:15:50,430 --> 00:15:50,930
+[chuckles]
+
+402
+00:15:51,050 --> 00:15:54,010
+Raag Airan: So if you go back to the papers, like, from the '70s that describe
+
+403
+00:15:54,050 --> 00:15:55,230
+these, like, thermally sensitive liposomes-
+
+404
+00:15:55,230 --> 00:15:57,050
+Keith Murphy: '70s? Oh, this has been around.
+
+405
+00:15:57,350 --> 00:15:57,850
+Okay.
+
+406
+00:15:57,650 --> 00:15:59,930
+Raag Airan: These, these things have been around, and people have been thinking about this for
+
+407
+00:15:59,970 --> 00:16:00,470
+a while. Mm-hmm.
+
+408
+00:16:00,510 --> 00:16:04,130
+Keith Murphy: That's, that's why you said in our lifetime, because another 30 years and, uh,
+
+409
+00:16:04,910 --> 00:16:05,910
+we're, we're all washed up. [chuckles]
+
+410
+00:16:05,930 --> 00:16:10,030
+Charles Caskey: So there w- O- Old Uncle Charles with all his leftover plastic surgery and
+
+411
+00:16:10,070 --> 00:16:12,110
+his nice new hair. He's looking good.
+
+412
+00:16:12,230 --> 00:16:12,770
+[laughs]
+
+413
+00:16:12,790 --> 00:16:13,750
+Keith Murphy: He got a new wig.
+
+414
+00:16:13,950 --> 00:16:17,350
+Raag Airan: Taking and that's fun. [laughs] Taking in different ways, but yeah.
+
+415
+00:16:17,570 --> 00:16:19,430
+[laughs]
+
+416
+00:16:19,470 --> 00:16:23,170
+Charles Caskey: He always looks like he's smiling since he got that surgery.
+
+417
+00:16:23,170 --> 00:16:25,110
+[laughs]
+
+418
+00:16:25,210 --> 00:16:26,810
+Raag Airan: You, you, you gotta get that plastic surgery, man.
+
+419
+00:16:26,850 --> 00:16:28,230
+You're looking good. You're looking good for-
+
+420
+00:16:28,850 --> 00:16:31,290
+Charles Caskey: Thank you. I'm trying, trying to take care of myself.
+
+421
+00:16:31,350 --> 00:16:33,870
+Keith Murphy: We all, we all get plastic surgery when we're old, I guess so.
+
+422
+00:16:35,090 --> 00:16:35,810
+Raag Airan: I guess so. It's the trend.
+
+423
+00:16:35,850 --> 00:16:37,190
+Charles Caskey: It's the, it's the modern way.
+
+424
+00:16:37,650 --> 00:16:39,030
+Raag Airan: No. So I mean, I grew up in Miami.
+
+425
+00:16:39,090 --> 00:16:41,230
+I mean, I've definitely seen a lot of plastic surgery going around.
+
+426
+00:16:41,270 --> 00:16:43,050
+It's, uh, it, it's all for, for every-
+
+427
+00:16:43,050 --> 00:16:44,090
+Keith Murphy: What do you think?
+
+428
+00:16:44,130 --> 00:16:44,630
+Raag Airan: Yeah.
+
+429
+00:16:44,270 --> 00:16:44,770
+Keith Murphy: Looking better?
+
+430
+00:16:44,570 --> 00:16:46,570
+Charles Caskey: Yeah. I mean, yeah, I've been s- I've been surprised I see people that
+
+431
+00:16:46,590 --> 00:16:48,590
+are in their 20s getting Botox, and I'm like-
+
+432
+00:16:48,650 --> 00:16:49,150
+Raag Airan: Oh, yeah
+
+433
+00:16:48,970 --> 00:16:50,810
+Charles Caskey: ... "Huh." I was like, "How did...
+
+434
+00:16:50,890 --> 00:16:53,070
+Should I?" I'm, like, behind. [laughs]
+
+435
+00:16:53,130 --> 00:16:54,810
+Keith Murphy: I, I want big, juicy lips.
+
+436
+00:16:54,810 --> 00:16:55,310
+[laughs]
+
+437
+00:16:55,130 --> 00:16:57,430
+Charles Caskey: Yeah. Yeah. Well, you got nice lips.
+
+438
+00:16:57,430 --> 00:16:58,010
+[laughs]
+
+439
+00:16:58,070 --> 00:17:00,850
+Raag Airan: There, there, there are definitely some communities in Mi- like, at least in Miami
+
+440
+00:17:00,910 --> 00:17:03,710
+or, you know, folks who grew up with, like, plastic surgery is treated like
+
+441
+00:17:03,790 --> 00:17:05,370
+akin to just, like, going to get your hair done.
+
+442
+00:17:05,590 --> 00:17:06,970
+Charles Caskey: Yeah, yeah. It's just cosmetic.
+
+443
+00:17:07,090 --> 00:17:08,370
+Raag Airan: Get a little, get a little ping on here.
+
+444
+00:17:08,410 --> 00:17:08,910
+Yeah.
+
+445
+00:17:08,950 --> 00:17:09,450
+Charles Caskey: Yeah.
+
+446
+00:17:09,090 --> 00:17:12,190
+Keith Murphy: All right. So listeners, it's okay to get plastic surgery.
+
+447
+00:17:12,370 --> 00:17:13,790
+Charles Caskey: Oh, yeah. Yeah. Do, do what you want.
+
+448
+00:17:13,830 --> 00:17:15,690
+Look how you want. We're, yeah, we're not here to judge.
+
+449
+00:17:16,150 --> 00:17:16,990
+Keith Murphy: Raag, what about those liposomes?
+
+450
+00:17:17,030 --> 00:17:17,930
+Raag Airan: Okay, back.
+
+451
+00:17:17,950 --> 00:17:20,170
+Keith Murphy: Where were we? [laughs]
+
+452
+00:17:20,290 --> 00:17:22,770
+Raag Airan: Um, okay. Yeah. So, well, yeah.
+
+453
+00:17:22,850 --> 00:17:27,410
+So there's, uh, so there's the, the precedent really of the, the heat-sensitive liposomes,
+
+454
+00:17:27,630 --> 00:17:29,630
+which, you know, had made it into people and all that.
+
+455
+00:17:30,030 --> 00:17:34,830
+But we wanted something that would, you know, respond more mechanically, um, because it's,
+
+456
+00:17:35,050 --> 00:17:37,130
+you know, a technical challenge to heat up in the brain.
+
+457
+00:17:37,170 --> 00:17:39,130
+We don't necessarily want to cook the brain, you know?
+
+458
+00:17:39,270 --> 00:17:40,290
+Keith Murphy: No. No heat in there.
+
+459
+00:17:40,390 --> 00:17:42,370
+Raag Airan: Um, for the app- for the applications we were thinking about.
+
+460
+00:17:43,530 --> 00:17:49,170
+Um, and so there were other folks who've done, like, more mechanically sensitive liposomes,
+
+461
+00:17:49,230 --> 00:17:53,790
+where they would really try to incorporate, like, air in or gas phase in
+
+462
+00:17:53,810 --> 00:17:58,270
+there, uh, to basically, you know, as a bubble, um, to, to mediate that
+
+463
+00:17:58,330 --> 00:18:02,230
+thing. And while that could work, it's also hard to control.
+
+464
+00:18:02,330 --> 00:18:03,630
+I, I also wanted to avoid that.
+
+465
+00:18:04,570 --> 00:18:08,290
+Um, and so we then asked, well, and we, we played with two different
+
+466
+00:18:08,850 --> 00:18:13,210
+sets of, uh, strategies. One was messing around with the shell of the liposome,
+
+467
+00:18:13,630 --> 00:18:15,330
+which is kind of similar to that thermal approach.
+
+468
+00:18:16,070 --> 00:18:19,230
+Um, but every single thing we did, uh, just made it less stable.
+
+469
+00:18:19,250 --> 00:18:21,230
+[chuckles] And so it was like every single thing we messed with, it was
+
+470
+00:18:21,250 --> 00:18:23,270
+just like, okay, you know, yeah, we can get the drug release, but it's,
+
+471
+00:18:23,390 --> 00:18:25,970
+like, releasing on its own at a baseline, so we didn't want that, right?
+
+472
+00:18:26,550 --> 00:18:29,870
+Keith Murphy: Which, which is like I mean, if you think about it, Raag, that's just
+
+473
+00:18:30,010 --> 00:18:31,810
+every single drug we've ever used.
+
+474
+00:18:31,890 --> 00:18:34,830
+So maybe the balance wasn't that much of a tightrope.
+
+475
+00:18:35,950 --> 00:18:38,130
+You know, like you were looking for perfection, but did you need it?
+
+476
+00:18:38,330 --> 00:18:41,570
+Raag Airan: No, no, no. Or I guess when, uh, like, you know, talking like, you
+
+477
+00:18:41,590 --> 00:18:44,250
+know, it was just like falling apart just like in storage.
+
+478
+00:18:44,290 --> 00:18:45,010
+You know, we just, we-
+
+479
+00:18:45,110 --> 00:18:45,610
+Keith Murphy: Oh
+
+480
+00:18:45,290 --> 00:18:46,610
+Raag Airan: ... we didn't have any kind of real-
+
+481
+00:18:46,690 --> 00:18:47,190
+Keith Murphy: Like manufacturing
+
+482
+00:18:46,790 --> 00:18:47,970
+Raag Airan: ... stability. Yeah, yeah.
+
+483
+00:18:48,030 --> 00:18:48,590
+Keith Murphy: Yeah, yeah.
+
+484
+00:18:49,230 --> 00:18:53,750
+Raag Airan: Um, okay. So that was, you know, so that we were working on that,
+
+485
+00:18:53,810 --> 00:18:56,770
+but then we, you know, in parallel we're asking, okay, well maybe can we
+
+486
+00:18:56,870 --> 00:19:01,450
+add stuff inside the liposome into that aqueous core, um, the, uh, where the
+
+487
+00:19:01,490 --> 00:19:05,890
+drug is, um, and shift the ultrasound sensitivity that way.
+
+488
+00:19:06,470 --> 00:19:06,970
+Charles Caskey: Cool.
+
+489
+00:19:07,570 --> 00:19:08,070
+Raag Airan: Okay.
+
+490
+00:19:08,230 --> 00:19:12,010
+Charles Caskey: So this is like working inside of the liposome opposed to either changing the
+
+491
+00:19:12,050 --> 00:19:16,270
+lipids themselves or trying to do something to the outside or, and-
+
+492
+00:19:16,490 --> 00:19:20,650
+Raag Airan: Yeah. So basically put stuff inside it, and maybe, you know, by putting in
+
+493
+00:19:20,730 --> 00:19:25,750
+extra stuff inside there, we can shift the acoustic response or the acoustic properties
+
+494
+00:19:26,250 --> 00:19:28,130
+sufficiently to then induce-
+
+495
+00:19:28,650 --> 00:19:29,150
+Keith Murphy: Yeah.
+
+496
+00:19:28,710 --> 00:19:30,830
+Raag Airan: Or what, you know, I, you know, and two things with that is like
+
+497
+00:19:30,870 --> 00:19:35,810
+one we found is like, like this liposome construct is just like primed to
+
+498
+00:19:35,850 --> 00:19:37,790
+release drug. It's actually kind of like not-
+
+499
+00:19:37,950 --> 00:19:38,450
+Keith Murphy: Yeah
+
+500
+00:19:38,110 --> 00:19:42,030
+Raag Airan: ... it's, it's not easy to make it stable, and which means that it's
+
+501
+00:19:42,070 --> 00:19:43,670
+actually relatively easy to make it unstable.
+
+502
+00:19:43,710 --> 00:19:44,210
+[chuckles]
+
+503
+00:19:43,970 --> 00:19:44,470
+Charles Caskey: Mm. Yeah.
+
+504
+00:19:44,490 --> 00:19:45,810
+Raag Airan: So I feel like we just have to do like a little-
+
+505
+00:19:45,830 --> 00:19:50,270
+Keith Murphy: So it's just like, uh, it's like same old candy shell, different chocolate center.
+
+506
+00:19:50,270 --> 00:19:51,270
+[laughs]
+
+507
+00:19:51,350 --> 00:19:53,070
+Raag Airan: Exactly. That's the, yeah, that's the-
+
+508
+00:19:53,090 --> 00:19:54,630
+Keith Murphy: What's the owl with the lollipop or something?
+
+509
+00:19:54,710 --> 00:19:56,190
+Charles, what's a better metaphor for this?
+
+510
+00:19:56,270 --> 00:20:00,270
+Charles Caskey: Uh, I don't know a better metaphor, but that owl is Tootsie Roll Pops.
+
+511
+00:20:00,870 --> 00:20:01,730
+Keith Murphy: Oh, yeah, yeah, yeah.
+
+512
+00:20:01,730 --> 00:20:02,230
+Charles Caskey: Yeah.
+
+513
+00:20:01,750 --> 00:20:03,330
+Keith Murphy: It's not, is it like that, Raag?
+
+514
+00:20:03,590 --> 00:20:04,090
+The Tootsie-
+
+515
+00:20:04,010 --> 00:20:05,710
+Raag Airan: Yeah, I, I, yeah, exactly. That's, that's-
+
+516
+00:20:06,010 --> 00:20:06,510
+Keith Murphy: Owl
+
+517
+00:20:06,030 --> 00:20:06,730
+Raag Airan: ... I think it's pretty good.
+
+518
+00:20:06,790 --> 00:20:08,690
+We, you know, at the same, you know.
+
+519
+00:20:08,810 --> 00:20:10,530
+[laughs] That's, uh-
+
+520
+00:20:10,530 --> 00:20:11,410
+Keith Murphy: Actually, I don't think that's-
+
+521
+00:20:11,670 --> 00:20:13,870
+Raag Airan: I'm not sure. I need to think through that a little bit.
+
+522
+00:20:13,870 --> 00:20:15,290
+[laughs] Okay.
+
+523
+00:20:15,350 --> 00:20:17,110
+Keith Murphy: You had to lick a lot to get to the core.
+
+524
+00:20:17,230 --> 00:20:18,290
+You just, you just want it to fall apart.
+
+525
+00:20:18,330 --> 00:20:22,530
+Charles Caskey: Nobody knows the number, Keith. [laughs] [laughs]
+
+526
+00:20:22,750 --> 00:20:23,250
+Raag Airan: I know.
+
+527
+00:20:22,790 --> 00:20:28,410
+Keith Murphy: Well, do you know the number on your perfluorocarbon nanoparticles in that drug?
+
+528
+00:20:28,410 --> 00:20:30,950
+Charles Caskey: No, he know-- Oh, well, the, not the perfluorocarbon ones.
+
+529
+00:20:31,010 --> 00:20:32,670
+Those are, those are challenging. I-
+
+530
+00:20:32,690 --> 00:20:33,190
+Raag Airan: Yeah, yeah, yeah.
+
+531
+00:20:33,090 --> 00:20:35,390
+Keith Murphy: Are we getting to the perf- Did you talk about the perfluorocarbon ones?
+
+532
+00:20:35,430 --> 00:20:38,430
+Raag Airan: No, that, that was the, that was the first, that was the first system.
+
+533
+00:20:38,610 --> 00:20:39,110
+Yeah.
+
+534
+00:20:38,730 --> 00:20:39,230
+Charles Caskey: Yeah.
+
+535
+00:20:38,810 --> 00:20:40,050
+Raag Airan: That was the first system that, you know-
+
+536
+00:20:40,090 --> 00:20:40,850
+Keith Murphy: Oh, failed. Okay
+
+537
+00:20:40,850 --> 00:20:44,030
+Raag Airan: ... well, not failed, but just it's gonna be hard to translate.
+
+538
+00:20:44,630 --> 00:20:45,130
+Yeah.
+
+539
+00:20:45,330 --> 00:20:47,330
+Charles Caskey: Well, pe- people are doing good work with these.
+
+540
+00:20:47,710 --> 00:20:48,210
+Raag Airan: Yeah.
+
+541
+00:20:47,970 --> 00:20:50,850
+Charles Caskey: Uh, I know that Harriet Lea-Banks is-
+
+542
+00:20:50,930 --> 00:20:51,430
+Raag Airan: Mm-hmm
+
+543
+00:20:51,010 --> 00:20:54,470
+Charles Caskey: ... and, and some other labs, and they, they g- they get, they've, they've
+
+544
+00:20:54,470 --> 00:20:57,710
+been able to optimize both of these things, the drug release and the stability.
+
+545
+00:20:57,770 --> 00:20:58,270
+Raag Airan: Mm-hmm.
+
+546
+00:20:57,810 --> 00:21:00,390
+Charles Caskey: Really are the two that, in my experience, pull against each other.
+
+547
+00:21:00,490 --> 00:21:04,390
+But they're, but i- if you can sidestep that, and, and I, which I,
+
+548
+00:21:04,510 --> 00:21:07,910
+I think Raag maybe had enough trying to get these things to be stable.
+
+549
+00:21:08,550 --> 00:21:09,090
+Keith Murphy: Done with this.
+
+550
+00:21:09,310 --> 00:21:12,770
+Charles Caskey: And much less the ability to ship them, the ability to- Yeah ...
+
+551
+00:21:13,110 --> 00:21:18,290
+you know, keep them. 'Cause having a validated manufacturing process and handling component of
+
+552
+00:21:18,330 --> 00:21:18,830
+something that-
+
+553
+00:21:18,670 --> 00:21:19,170
+Raag Airan: Yeah
+
+554
+00:21:18,710 --> 00:21:22,930
+Charles Caskey: ... you're already doing a device plus drug approval on.
+
+555
+00:21:22,930 --> 00:21:23,430
+[laughs]
+
+556
+00:21:23,290 --> 00:21:23,790
+Keith Murphy: I know.
+
+557
+00:21:23,510 --> 00:21:26,870
+Charles Caskey: It's like the more you can simplify either end of that-
+
+558
+00:21:27,670 --> 00:21:28,170
+Raag Airan: Mm-hmm
+
+559
+00:21:27,810 --> 00:21:30,230
+Charles Caskey: ... the, the greater your chances of success are, and I think that's what
+
+560
+00:21:30,290 --> 00:21:32,370
+Raag really, what sent him down this path.
+
+561
+00:21:32,830 --> 00:21:35,930
+Raag Airan: Yeah. I mean, you know, that first system, we were happy that we were
+
+562
+00:21:36,010 --> 00:21:40,410
+able to get like freeze-thaw stability so that, you know, if you fro- froze
+
+563
+00:21:40,430 --> 00:21:43,850
+it down and then thawed it, that it looked basically the same and seemed
+
+564
+00:21:43,910 --> 00:21:47,050
+like not, wasn't going to cause damage to somebody if you were to inject
+
+565
+00:21:47,090 --> 00:21:49,750
+them, right? We were like very happy about that.
+
+566
+00:21:49,810 --> 00:21:55,090
+But even like enabling that at scale, like, you know, you know, that's fine.
+
+567
+00:21:55,230 --> 00:21:58,630
+We could do that for like milliliters, but enabling that with the production process
+
+568
+00:21:59,070 --> 00:22:00,730
+that would scale to liters- Yeah ...
+
+569
+00:22:00,750 --> 00:22:05,130
+which is what we would need for humans, that was like looking like we
+
+570
+00:22:05,170 --> 00:22:06,990
+could do it, but oh my God, it would, it would take like a
+
+571
+00:22:07,050 --> 00:22:07,850
+significant effort.
+
+572
+00:22:08,370 --> 00:22:08,870
+Charles Caskey: Yeah.
+
+573
+00:22:08,490 --> 00:22:09,430
+Raag Airan: Right? It was just like-
+
+574
+00:22:09,490 --> 00:22:10,250
+Keith Murphy: Take all in the pivot.
+
+575
+00:22:10,970 --> 00:22:13,170
+Raag Airan: Right. It was just like, uh, ooh.
+
+576
+00:22:13,350 --> 00:22:15,590
+And like, and, and not just the stability of like the size of the
+
+577
+00:22:15,610 --> 00:22:18,430
+particle, but that it would hold onto the drug, right?
+
+578
+00:22:18,490 --> 00:22:18,990
+Charles Caskey: Yeah.
+
+579
+00:22:18,530 --> 00:22:20,110
+Raag Airan: So it's like there's like multiple-
+
+580
+00:22:20,130 --> 00:22:21,730
+Keith Murphy: You don't want a leaky drug flying around.
+
+581
+00:22:22,150 --> 00:22:24,850
+It's cool, Raag. I, you know, I never thought of you as like, ah,
+
+582
+00:22:24,990 --> 00:22:29,670
+just like being a scientist, you're sort of expected to just answer questions, and
+
+583
+00:22:29,790 --> 00:22:32,010
+you build a tool, a cool tool to answer the question.
+
+584
+00:22:32,070 --> 00:22:35,290
+But as a physician scientist, you look so far beyond that.
+
+585
+00:22:35,730 --> 00:22:38,310
+You're like- Mm-hmm ... "I won't do anything unless it's something I can translate
+
+586
+00:22:38,370 --> 00:22:41,110
+into human application." I think that's really cool.
+
+587
+00:22:41,670 --> 00:22:43,130
+Raag Airan: That's at least my bailiwick.
+
+588
+00:22:43,170 --> 00:22:43,670
+Keith Murphy: Yeah.
+
+589
+00:22:43,230 --> 00:22:47,430
+Raag Airan: I mean, that's what I'm trying to do, uh, you know, stay focused on.
+
+590
+00:22:47,470 --> 00:22:50,930
+'Cause I, I mean, I don't, you know, wanna just have the stuff just
+
+591
+00:22:50,970 --> 00:22:53,690
+in a lab or treating some mice and rats and crank that wheel.
+
+592
+00:22:53,790 --> 00:22:56,930
+You know, I guess could do that, but that's just not, I don't know,
+
+593
+00:22:57,130 --> 00:22:57,710
+that's not why I'm here.
+
+594
+00:22:57,890 --> 00:23:00,870
+Charles Caskey: It's not, yeah, it's not what-- I, I find that people are just, have
+
+595
+00:23:00,890 --> 00:23:04,250
+different motivations and, and I, I also tend to be like really on the
+
+596
+00:23:04,350 --> 00:23:05,470
+healthcare side of it.
+
+597
+00:23:06,050 --> 00:23:06,550
+Raag Airan: Mm-hmm.
+
+598
+00:23:06,370 --> 00:23:10,930
+Charles Caskey: Um, but, uh, clearly there's a lot of value to understanding, uh, more about
+
+599
+00:23:11,050 --> 00:23:13,650
+neural s- fundamental knowledge about certain things.
+
+600
+00:23:13,710 --> 00:23:15,550
+But yeah, it's not... For me the same.
+
+601
+00:23:15,650 --> 00:23:19,370
+I, I, I'm not as driven by that as I am like, "Can this
+
+602
+00:23:19,410 --> 00:23:20,970
+get to humans, and can it help them?"
+
+603
+00:23:21,590 --> 00:23:24,170
+Um, but I think people may, yeah, it's like, uh, almost I've come to
+
+604
+00:23:24,210 --> 00:23:27,210
+decide it's not like a right or wrong [chuckles] direction.
+
+605
+00:23:27,270 --> 00:23:30,510
+Raag Airan: Yeah, yeah, yeah. I mean, you know, obviously like how we choose to do,
+
+606
+00:23:30,910 --> 00:23:34,030
+you know, each component of what we do is based on however much literature
+
+607
+00:23:34,090 --> 00:23:37,670
+from folks that are more interested in like the more basic questions or validating
+
+608
+00:23:37,730 --> 00:23:41,490
+them in X, Y, Z animal model or that, um-
+
+609
+00:23:41,590 --> 00:23:42,270
+Keith Murphy: Let's g- let's move on.
+
+610
+00:23:42,450 --> 00:23:45,790
+Charles Caskey: Yeah. Anyway. [laughs] Jeez.
+
+611
+00:23:47,110 --> 00:23:50,570
+Raag Airan: So yeah. So the, the goal is human, and yeah.
+
+612
+00:23:50,830 --> 00:23:53,310
+And, and so what we're seeing, I mean, with the, at least with the
+
+613
+00:23:53,350 --> 00:23:57,730
+ketamine particles, like what's weird, I mean, I don't know how to explain this
+
+614
+00:23:57,790 --> 00:24:02,270
+entirely, but I have some thoughts, is that, um, when we do the targeted
+
+615
+00:24:02,590 --> 00:24:06,750
+delivery of ketamine, whatever the effect of that is seems to be just more
+
+616
+00:24:06,810 --> 00:24:09,170
+than like dose matched to just regular ketamine infusion.
+
+617
+00:24:10,090 --> 00:24:10,590
+Um-
+
+618
+00:24:10,270 --> 00:24:10,770
+Charles Caskey: Oh
+
+619
+00:24:10,310 --> 00:24:15,010
+Raag Airan: ... free ketamine infusion. And not sure like what, but I actually wonder, I
+
+620
+00:24:15,050 --> 00:24:17,530
+mean, and have, we have a little bit of data towards this effect that
+
+621
+00:24:17,550 --> 00:24:19,870
+we're now trying to flesh out, is that there's actually at least like a,
+
+622
+00:24:20,090 --> 00:24:21,930
+you know, we're basically doing ultrasound neuromodulation-
+
+623
+00:24:22,590 --> 00:24:23,090
+Keith Murphy: Mm-hmm
+
+624
+00:24:22,810 --> 00:24:25,910
+Raag Airan: ... and the ketamine delivery, you know, at the same time, and those things
+
+625
+00:24:25,950 --> 00:24:27,890
+are combining in a interesting way.
+
+626
+00:24:28,430 --> 00:24:28,930
+So-
+
+627
+00:24:28,550 --> 00:24:31,070
+Keith Murphy: How about some ultrasound neuromodulation? What's your pressure, Raag?
+
+628
+00:24:31,110 --> 00:24:31,610
+Where you at?
+
+629
+00:24:32,300 --> 00:24:33,920
+Raag Airan: Oh, um, so we're at decent pressure here.
+
+630
+00:24:33,960 --> 00:24:36,120
+We're about, you know, a megapascal at 250 kilohertz.
+
+631
+00:24:36,180 --> 00:24:36,680
+So I mean-
+
+632
+00:24:36,640 --> 00:24:37,140
+Keith Murphy: Nice
+
+633
+00:24:36,720 --> 00:24:39,200
+Raag Airan: ... like it's a good, it's a good, you know, uh-
+
+634
+00:24:39,400 --> 00:24:39,900
+Keith Murphy: Mm-hmm
+
+635
+00:24:39,460 --> 00:24:43,100
+Raag Airan: ... intensity. We're not, you know, we're not in any kind of unsafe regime.
+
+636
+00:24:43,140 --> 00:24:46,060
+We have, you know, the animal data and everything to support that it's not
+
+637
+00:24:46,140 --> 00:24:47,860
+unsafe, but it's a good amount of pressure.
+
+638
+00:24:48,400 --> 00:24:53,460
+Um, but with that, like, you know, we see that the electrophysiologic effect and,
+
+639
+00:24:53,580 --> 00:24:59,460
+um, uh, that, the response to the targeted, uh, ketamine delivery is like folds
+
+640
+00:24:59,740 --> 00:25:02,100
+higher at peak, and then just like lasts-
+
+641
+00:25:02,200 --> 00:25:02,700
+Keith Murphy: Wow
+
+642
+00:25:02,220 --> 00:25:04,340
+Raag Airan: ... for like an hour. So-
+
+643
+00:25:04,540 --> 00:25:08,320
+Keith Murphy: Cool. Is the dose, is the dose higher when you uncage it locally versus
+
+644
+00:25:08,440 --> 00:25:10,420
+the whole body IP injection?
+
+645
+00:25:10,440 --> 00:25:14,180
+Raag Airan: So, so it's, uh, so we give the same mg per kg, you know,
+
+646
+00:25:14,760 --> 00:25:16,140
+amount of ketamine to the animal.
+
+647
+00:25:16,840 --> 00:25:17,340
+Keith Murphy: Mm-hmm.
+
+648
+00:25:17,060 --> 00:25:20,840
+Raag Airan: Um, but when we uncage, we, we see like maybe a little bit higher
+
+649
+00:25:21,200 --> 00:25:22,360
+target site concentration.
+
+650
+00:25:22,980 --> 00:25:23,480
+Keith Murphy: Yeah.
+
+651
+00:25:23,000 --> 00:25:23,620
+Raag Airan: But not like-
+
+652
+00:25:24,280 --> 00:25:24,780
+Keith Murphy: Not whole
+
+653
+00:25:24,400 --> 00:25:26,820
+Raag Airan: ... five times higher. It's like, you know, 1.3X.
+
+654
+00:25:27,420 --> 00:25:32,860
+Keith Murphy: So another plausible explanation could be that you have other circuits outside of the
+
+655
+00:25:32,900 --> 00:25:36,580
+target that are suppressing the effect, but your guess is that maybe- Mm-hmm ...
+
+656
+00:25:36,620 --> 00:25:39,880
+ultrasound neuromodulation, which we prefer. Charles, do we prefer that?
+
+657
+00:25:40,220 --> 00:25:40,720
+Charles Caskey: Hmm?
+
+658
+00:25:40,560 --> 00:25:41,600
+Keith Murphy: FUS, FUS gang all the way?
+
+659
+00:25:42,080 --> 00:25:46,840
+Charles Caskey: F- well, I mean, I, I consider particles plus FUS still part of the
+
+660
+00:25:46,960 --> 00:25:49,960
+FUS. [laughing]
+
+661
+00:25:49,980 --> 00:25:51,200
+Raag Airan: It's all, it's all FUS inclusive.
+
+662
+00:25:51,260 --> 00:25:51,760
+Charles Caskey: It's all, it's all FUSy.
+
+663
+00:25:51,520 --> 00:25:52,960
+Keith Murphy: Hey, Raag has neuro bio work.
+
+664
+00:25:53,000 --> 00:25:55,340
+We're gonna get to it. We're gonna get to all the good stuff.
+
+665
+00:25:55,840 --> 00:25:56,340
+All right.
+
+666
+00:25:55,940 --> 00:25:58,180
+Charles Caskey: But no, yeah, this is a, it's an interesting question.
+
+667
+00:25:58,240 --> 00:25:58,840
+Like how much-
+
+668
+00:25:58,900 --> 00:25:59,400
+Raag Airan: Yeah
+
+669
+00:25:58,920 --> 00:26:02,140
+Charles Caskey: ... of the effect is from the drug versus the mechanical effects of ultrasound,
+
+670
+00:26:02,260 --> 00:26:03,500
+and how do they then interact?
+
+671
+00:26:03,500 --> 00:26:04,200
+'Cause-
+
+672
+00:26:04,300 --> 00:26:06,460
+Raag Airan: And, and, and I mean, I mean, to Keith's point, like how much is
+
+673
+00:26:06,520 --> 00:26:09,480
+just because we don't have the drug in the rest, you know, as much
+
+674
+00:26:09,520 --> 00:26:10,140
+in the rest of the brain.
+
+675
+00:26:10,420 --> 00:26:10,920
+Charles Caskey: Oh, yeah.
+
+676
+00:26:10,460 --> 00:26:13,080
+Raag Airan: So is there like competing effects from the rest of the brain that's holding
+
+677
+00:26:13,120 --> 00:26:16,460
+down what this would be? But since we're targeting it here, then we're seeing
+
+678
+00:26:16,500 --> 00:26:17,320
+more of that happen.
+
+679
+00:26:17,520 --> 00:26:21,080
+Charles Caskey: Oh, 'cause you just basically, you don't get this situation at all.
+
+680
+00:26:21,280 --> 00:26:25,020
+You get, i- if you have systemic use of, uh, injection of the drug,
+
+681
+00:26:25,060 --> 00:26:29,220
+'cause you have the whole rest of the brain that, that is now responding
+
+682
+00:26:29,260 --> 00:26:31,280
+without drug. Yeah, totally. Totally.
+
+683
+00:26:31,340 --> 00:26:34,240
+Raag Airan: Or, or I don't know, I mean, uh, is ketamine acting on the gut-brain
+
+684
+00:26:34,320 --> 00:26:35,040
+axis in some way? [chuckles]
+
+685
+00:26:35,060 --> 00:26:35,560
+Charles Caskey: Right.
+
+686
+00:26:35,360 --> 00:26:36,060
+Raag Airan: I don't even know. Like-
+
+687
+00:26:36,380 --> 00:26:38,800
+Charles Caskey: Oh, right. Yeah. You add even the whole body, not even just the brain.
+
+688
+00:26:38,840 --> 00:26:39,340
+Raag Airan: Yeah. Yeah.
+
+689
+00:26:39,240 --> 00:26:39,740
+Charles Caskey: Yeah, yeah.
+
+690
+00:26:39,940 --> 00:26:40,640
+Keith Murphy: Wait, wait, Raag.
+
+691
+00:26:40,900 --> 00:26:41,400
+Charles Caskey: So-
+
+692
+00:26:40,920 --> 00:26:42,380
+Keith Murphy: Does it interact with the gut?
+
+693
+00:26:43,000 --> 00:26:47,160
+Raag Airan: I mean, there's gut neurons and whatever gut, you know, what- whatever receptors there
+
+694
+00:26:47,220 --> 00:26:48,500
+are in the, in the brain.
+
+695
+00:26:48,620 --> 00:26:51,320
+You know? Yeah. You, isn't it you have more nerve endings in the gut
+
+696
+00:26:51,340 --> 00:26:52,020
+than you do in the brain?
+
+697
+00:26:52,140 --> 00:26:53,080
+No. [chuckles] Is it?
+
+698
+00:26:53,120 --> 00:26:53,820
+Keith Murphy: I think that's right.
+
+699
+00:26:55,220 --> 00:26:56,320
+Charles Caskey: I, I don't know whether that's right.
+
+700
+00:26:56,400 --> 00:26:56,900
+Keith Murphy: I'm not sure.
+
+701
+00:26:56,520 --> 00:26:57,440
+Charles Caskey: But I, but I, I-
+
+702
+00:26:57,560 --> 00:26:58,440
+Raag Airan: My health is actually pretty fine
+
+703
+00:26:58,440 --> 00:27:00,520
+Charles Caskey: ... if I was gonna believe anybody at face value, it'd be Raag.
+
+704
+00:27:00,520 --> 00:27:03,260
+[laughing]
+
+705
+00:27:03,320 --> 00:27:04,560
+Raag Airan: Pretty sure that's not exactly right.
+
+706
+00:27:04,580 --> 00:27:06,280
+Keith Murphy: It was cool though. It was cool when you said it, the way that
+
+707
+00:27:06,340 --> 00:27:06,840
+you said it.
+
+708
+00:27:06,900 --> 00:27:09,800
+Raag Airan: But, but literally every like, I mean, every neurotransmitter we have in the brain,
+
+709
+00:27:09,860 --> 00:27:11,400
+we have in the gut nervous system too.
+
+710
+00:27:12,280 --> 00:27:15,620
+Keith Murphy: It's a big play against dr- against systemic drugs, which is why what you're
+
+711
+00:27:15,660 --> 00:27:18,720
+doing is so awesome. I mean, a, a lot, a lot of like o-
+
+712
+00:27:18,860 --> 00:27:23,340
+like opioids, for instance, right? Like, I mean, during opioid use, people get backed
+
+713
+00:27:23,420 --> 00:27:23,920
+up.
+
+714
+00:27:24,100 --> 00:27:24,600
+Raag Airan: Yeah, yeah. No, no, I-
+
+715
+00:27:24,380 --> 00:27:26,720
+Keith Murphy: You've heard about the stories of the San Francisco streets.
+
+716
+00:27:26,840 --> 00:27:29,840
+They're ultimately not true. [chuckles] But there are some big-
+
+717
+00:27:30,320 --> 00:27:30,820
+Raag Airan: Yeah. Yeah
+
+718
+00:27:30,680 --> 00:27:31,180
+Keith Murphy: ... you know.
+
+719
+00:27:31,920 --> 00:27:32,860
+Raag Airan: Well, the, I mean, every single-
+
+720
+00:27:32,860 --> 00:27:33,360
+Keith Murphy: People pooping on the sidewalk
+
+721
+00:27:32,940 --> 00:27:35,180
+Raag Airan: ... psychiatric med you pretty much...
+
+722
+00:27:36,080 --> 00:27:37,080
+Yeah, so e- every single-
+
+723
+00:27:37,120 --> 00:27:37,620
+Keith Murphy: It's all covered
+
+724
+00:27:37,300 --> 00:27:39,220
+Raag Airan: ... psychiatric med has GI side effects.
+
+725
+00:27:39,480 --> 00:27:39,980
+Like-
+
+726
+00:27:39,840 --> 00:27:40,340
+Charles Caskey: Yeah
+
+727
+00:27:40,280 --> 00:27:43,740
+Raag Airan: ... for, I'm pretty sure that's i- I'm pretty, you know, like definitely all
+
+728
+00:27:43,760 --> 00:27:46,660
+the amphetamines, definitely all the opiates, definitely all the benzos.
+
+729
+00:27:46,780 --> 00:27:47,280
+Charles Caskey: Yeah.
+
+730
+00:27:46,800 --> 00:27:49,260
+Raag Airan: Like there's some level of GI side effect to all of them.
+
+731
+00:27:49,280 --> 00:27:54,060
+Charles Caskey: I guess I always assumed that that was due to like dehydration or other,
+
+732
+00:27:54,740 --> 00:27:56,600
+uh, secondary things that would happen.
+
+733
+00:27:56,940 --> 00:27:57,860
+But I get what you're saying.
+
+734
+00:27:57,900 --> 00:28:02,500
+It could be that it's, it's directly interacting with this tissue and causing different
+
+735
+00:28:02,540 --> 00:28:04,240
+signaling to occur. Um-
+
+736
+00:28:04,300 --> 00:28:07,460
+Raag Airan: Well, well, like all the GI motility agents are dopaminergic.
+
+737
+00:28:08,340 --> 00:28:08,840
+Charles Caskey: Yeah. Totally.
+
+738
+00:28:08,640 --> 00:28:09,140
+Keith Murphy: Oh, is that right?
+
+739
+00:28:09,140 --> 00:28:09,640
+Raag Airan: Yeah, yeah.
+
+740
+00:28:09,580 --> 00:28:11,060
+Keith Murphy: I thought they were serotonergic. Wow.
+
+741
+00:28:11,520 --> 00:28:12,080
+Charles Caskey: Um...
+
+742
+00:28:12,760 --> 00:28:13,640
+Keith Murphy: Well, some of them anyway.
+
+743
+00:28:14,140 --> 00:28:16,780
+Raag Airan: Yeah, maybe some of them are serotonergic, but like, yeah, I mean, a, a
+
+744
+00:28:16,880 --> 00:28:17,620
+dopamine agonist-
+
+745
+00:28:17,680 --> 00:28:18,420
+Keith Murphy: Definitely dopamine then
+
+746
+00:28:18,420 --> 00:28:20,000
+Raag Airan: ... can drive the gut. Um-
+
+747
+00:28:20,080 --> 00:28:20,580
+Keith Murphy: Wow
+
+748
+00:28:20,240 --> 00:28:22,420
+Raag Airan: ... opiates can back you up, right?
+
+749
+00:28:22,520 --> 00:28:23,020
+Charles Caskey: Yeah.
+
+750
+00:28:22,740 --> 00:28:23,240
+Keith Murphy: Yeah.
+
+751
+00:28:23,220 --> 00:28:23,720
+Raag Airan: Like it's-
+
+752
+00:28:23,360 --> 00:28:25,520
+Charles Caskey: Well, and this is, yeah. This is, this is the type of thing that
+
+753
+00:28:25,580 --> 00:28:30,960
+like I would love to, in my time on Earth, um, see, learn more
+
+754
+00:28:31,040 --> 00:28:32,000
+of. This is like the type of thing-
+
+755
+00:28:32,120 --> 00:28:32,980
+Keith Murphy: A San Francisco dirty bomb?
+
+756
+00:28:32,980 --> 00:28:33,740
+Charles Caskey: I'm not gonna, I'm not gonna discover.
+
+757
+00:28:33,760 --> 00:28:35,580
+Raag Airan: Not with primary experimentation though, right?
+
+758
+00:28:35,600 --> 00:28:36,100
+[chuckles]
+
+759
+00:28:35,820 --> 00:28:38,480
+Charles Caskey: No, no, no, no. Exactly. That's the whole thing is like I'm not, I'm
+
+760
+00:28:38,520 --> 00:28:40,080
+not gonna primarily experiment on it.
+
+761
+00:28:40,120 --> 00:28:40,620
+Keith Murphy: Back me up.
+
+762
+00:28:40,440 --> 00:28:41,000
+Charles Caskey: Of course not.
+
+763
+00:28:41,060 --> 00:28:42,400
+Keith Murphy: Back Charles up. [laughing]
+
+764
+00:28:42,480 --> 00:28:44,360
+Charles Caskey: Yeah. Yeah. No, no. Yeah, I got...
+
+765
+00:28:44,640 --> 00:28:45,280
+Like I said, I gotta-
+
+766
+00:28:45,540 --> 00:28:46,040
+Keith Murphy: Back him up
+
+767
+00:28:45,600 --> 00:28:48,980
+Charles Caskey: ... I gotta stay healthy so that later my plastic surgery takes.
+
+768
+00:28:49,080 --> 00:28:50,360
+Raag Airan: Right. [laughing]
+
+769
+00:28:50,440 --> 00:28:51,980
+Charles Caskey: I can't show up all ragged.
+
+770
+00:28:52,020 --> 00:28:54,160
+I gotta keep, I gotta keep a stable life together to-
+
+771
+00:28:54,300 --> 00:28:56,200
+Keith Murphy: Charles, Charles with a big mop.
+
+772
+00:28:56,640 --> 00:28:57,140
+Charles Caskey: Yeah.
+
+773
+00:28:56,800 --> 00:28:57,420
+Keith Murphy: Like tired, custom or something.
+
+774
+00:28:57,440 --> 00:28:58,480
+Charles Caskey: Yeah, it's gonna be sweet, y'all.
+
+775
+00:28:58,600 --> 00:29:03,740
+Y'all just wait. [laughing] Um, but the, yeah, that, I, this is, that's a
+
+776
+00:29:03,780 --> 00:29:08,180
+very interesting aspect of it, um, for, for this, so.
+
+777
+00:29:08,560 --> 00:29:12,100
+Raag Airan: Yeah. Yeah. So anyway, uh, uh, yeah, so, so just really curious on what
+
+778
+00:29:12,140 --> 00:29:14,740
+the, the, these humans are gonna be reporting, right?
+
+779
+00:29:14,820 --> 00:29:15,880
+'Cause like, are they gonna be like...
+
+780
+00:29:17,200 --> 00:29:18,820
+I mean, are they gonna be hyper dissociating?
+
+781
+00:29:18,900 --> 00:29:21,280
+Are they gonna be, you know, really happy?
+
+782
+00:29:21,360 --> 00:29:22,660
+Are they just gonna feel nothing?
+
+783
+00:29:22,740 --> 00:29:25,820
+I can't imagine that it's gonna be nothing, but like just what are they
+
+784
+00:29:25,840 --> 00:29:27,140
+gonna, you know, experience?
+
+785
+00:29:27,560 --> 00:29:31,600
+Charles Caskey: It's a completely new, new way of, of, of perturbing the brain.
+
+786
+00:29:32,240 --> 00:29:37,460
+Um, and, but what we're talking about ketamine, I, I, what, uh, these particles
+
+787
+00:29:37,500 --> 00:29:40,200
+though, I think one thing that's really cool about your, the particles that you've
+
+788
+00:29:40,240 --> 00:29:44,820
+created is you've encapsulated, uh, ketamine, ropivacaine.
+
+789
+00:29:44,920 --> 00:29:47,000
+Raag Airan: I mean, there's certain chemical features of drugs that would work-
+
+790
+00:29:47,460 --> 00:29:47,960
+Charles Caskey: Mm-hmm
+
+791
+00:29:47,480 --> 00:29:52,380
+Raag Airan: ... in the particular system we have, um, that luckily encompasses quite a lot
+
+792
+00:29:52,420 --> 00:29:56,100
+of different drugs of interest. Um, so yeah, so with the ropivacaine, we can,
+
+793
+00:29:56,140 --> 00:29:58,780
+you know, shut off parts of the nervous system at a time and see
+
+794
+00:29:58,820 --> 00:29:59,320
+what happens.
+
+795
+00:29:59,640 --> 00:30:00,140
+Charles Caskey: Yeah.
+
+796
+00:29:59,700 --> 00:30:02,960
+Raag Airan: Uh, we can do that. Um, earlier we were working with propofol, um, and
+
+797
+00:30:03,000 --> 00:30:06,860
+propofol worked, but it's very short acting, so like it lasts for seconds.
+
+798
+00:30:07,080 --> 00:30:07,580
+Charles Caskey: Mm-hmm.
+
+799
+00:30:07,260 --> 00:30:08,300
+Raag Airan: So it's kinda hard to like...
+
+800
+00:30:08,580 --> 00:30:10,560
+I think that's, it, it ended up being good for like a proof of
+
+801
+00:30:10,620 --> 00:30:13,220
+concept kind of thing, but hard to use that.
+
+802
+00:30:13,580 --> 00:30:14,080
+Charles Caskey: Yeah.
+
+803
+00:30:13,800 --> 00:30:16,080
+Raag Airan: The ropivacaine one, we get like tens of minutes.
+
+804
+00:30:16,720 --> 00:30:17,260
+Charles Caskey: Oh, nice.
+
+805
+00:30:17,280 --> 00:30:20,040
+Raag Airan: Um, and we can, we, it seems like we can tune how much it's
+
+806
+00:30:20,080 --> 00:30:22,800
+gonna ha- the, the length of action by like how hard, you know, how
+
+807
+00:30:22,820 --> 00:30:25,720
+much dose we give and both on the ultrasound side and the drug side.
+
+808
+00:30:26,300 --> 00:30:28,680
+Um, so we can, we can have control over that.
+
+809
+00:30:29,380 --> 00:30:33,950
+Um, you know, so there's Adrenergic drugs we can put in there, dopaminergic drugs.
+
+810
+00:30:33,990 --> 00:30:35,770
+I mean, there's a wide variety
+
+811
+00:30:36,270 --> 00:30:38,750
+Keith Murphy: What's, what's the, uh, most sci-fi future?
+
+812
+00:30:38,910 --> 00:30:43,050
+So you've, you've used all these different particles to do things that make a
+
+813
+00:30:43,090 --> 00:30:47,610
+lot of sense, like shutting down a, an arousal or consciousness region for surgery
+
+814
+00:30:47,810 --> 00:30:48,550
+or something like that.
+
+815
+00:30:49,150 --> 00:30:49,650
+Raag Airan: Mm-hmm.
+
+816
+00:30:49,170 --> 00:30:53,010
+Keith Murphy: What's the most sci-fi oddity that you've dreamt up or that somebody asked you
+
+817
+00:30:53,070 --> 00:30:53,570
+about?
+
+818
+00:30:53,810 --> 00:30:56,750
+Raag Airan: I'm curious, what, what do we do if we shut down somebody's amygdala?
+
+819
+00:30:57,630 --> 00:30:58,130
+Like-
+
+820
+00:30:57,790 --> 00:30:58,290
+Charles Caskey: Okay.
+
+821
+00:30:58,130 --> 00:30:59,110
+Keith Murphy: Yeah. What happens?
+
+822
+00:30:59,170 --> 00:31:03,610
+Charles Caskey: So that's mostly known as the fear-inducing, uh, component.
+
+823
+00:31:03,670 --> 00:31:06,750
+So we all turn into like Alex Honnold, uh, the, the Free- [laughs] ...
+
+824
+00:31:06,770 --> 00:31:08,490
+Free Solo rock climber.
+
+825
+00:31:09,190 --> 00:31:09,690
+Keith Murphy: Yeah.
+
+826
+00:31:09,410 --> 00:31:10,490
+Charles Caskey: Yeah. I, I'd like to know.
+
+827
+00:31:10,490 --> 00:31:11,410
+[laughs]
+
+828
+00:31:11,510 --> 00:31:12,010
+Raag Airan: Right. Or I mean-
+
+829
+00:31:11,870 --> 00:31:12,770
+Charles Caskey: Like, I'm scared of everything.
+
+830
+00:31:13,050 --> 00:31:15,550
+Raag Airan: Or are they just gonna be like kinda functionally lobotomized?
+
+831
+00:31:15,590 --> 00:31:17,870
+Like, is that the area that like drives emotional valence?
+
+832
+00:31:17,910 --> 00:31:18,670
+Like, are they just gonna be like-
+
+833
+00:31:18,990 --> 00:31:19,490
+Keith Murphy: Yeah
+
+834
+00:31:19,290 --> 00:31:21,230
+Raag Airan: ... or data from Star Trek, like are they just gonna be like an
+
+835
+00:31:21,270 --> 00:31:22,010
+atom line kind of-
+
+836
+00:31:22,010 --> 00:31:23,470
+Keith Murphy: But Alex Honnold, he's a little odd.
+
+837
+00:31:23,590 --> 00:31:24,610
+He might not-- I don't know.
+
+838
+00:31:24,810 --> 00:31:26,970
+His emotional range might be kinda low also.
+
+839
+00:31:27,610 --> 00:31:28,110
+Raag Airan: Yeah.
+
+840
+00:31:28,130 --> 00:31:28,630
+Keith Murphy: Right?
+
+841
+00:31:28,350 --> 00:31:29,770
+Charles Caskey: He, he comes off as a little-- Yeah.
+
+842
+00:31:29,810 --> 00:31:33,770
+As, as, uh, he communicates a little different than, than probably the average person,
+
+843
+00:31:33,850 --> 00:31:35,030
+and yeah, you would wonder. Yeah.
+
+844
+00:31:35,110 --> 00:31:35,610
+Would this shift-
+
+845
+00:31:35,350 --> 00:31:36,970
+Keith Murphy: Well, he's also like, "I don't care about my girlfriend.
+
+846
+00:31:37,030 --> 00:31:38,850
+I'll leave her by the side of the road," you know?
+
+847
+00:31:39,550 --> 00:31:40,050
+Charles Caskey: What? [laughs]
+
+848
+00:31:40,030 --> 00:31:41,690
+Keith Murphy: Like, he, he's just like that.
+
+849
+00:31:42,190 --> 00:31:44,610
+Raag Airan: Are you calling, are you calling Alex Honnold a sociopath?
+
+850
+00:31:44,670 --> 00:31:45,550
+I mean, [laughs]
+
+851
+00:31:45,610 --> 00:31:47,070
+Charles Caskey: Yeah. No, no. He has a lovely wife.
+
+852
+00:31:47,110 --> 00:31:47,610
+Raag Airan: I think it's-
+
+853
+00:31:47,510 --> 00:31:48,550
+Charles Caskey: Sanni McCandless
+
+854
+00:31:48,570 --> 00:31:49,070
+Keith Murphy: ... in the documentary.
+
+855
+00:31:48,750 --> 00:31:51,410
+Charles Caskey: I mean, he's, yeah. And, and he has I think two kids now.
+
+856
+00:31:51,530 --> 00:31:52,590
+He's, and he's toned it down.
+
+857
+00:31:52,630 --> 00:31:55,530
+He only like free solos like 5.8s- A little ...
+
+858
+00:31:55,550 --> 00:31:57,890
+in Nevada now or something. [laughs]
+
+859
+00:31:57,950 --> 00:32:00,810
+Keith Murphy: He's developed an amygdala over that course of that documentary.
+
+860
+00:32:01,030 --> 00:32:01,530
+Raag Airan: But yeah-
+
+861
+00:32:01,130 --> 00:32:04,410
+Keith Murphy: Who knows? He said something about not caring about his girlfriend or whatever.
+
+862
+00:32:04,510 --> 00:32:05,010
+Uh, anyway.
+
+863
+00:32:05,030 --> 00:32:07,510
+Raag Airan: So, you know, my, my wife doesn't lo- you know, she doesn't like the
+
+864
+00:32:07,570 --> 00:32:10,790
+idea of me biking home in, in the dark from Stanford to my place
+
+865
+00:32:10,810 --> 00:32:12,110
+in Palo Alto. [laughs]
+
+866
+00:32:12,130 --> 00:32:12,830
+Keith Murphy: Well, it's dangerous.
+
+867
+00:32:13,350 --> 00:32:15,750
+Raag Airan: You know, it's like dangerous streets of Palo Alto.
+
+868
+00:32:16,110 --> 00:32:17,550
+[laughs]
+
+869
+00:32:17,630 --> 00:32:21,470
+Keith Murphy: Um, so Raag, if you don't mind, I-- So your, your work in, in
+
+870
+00:32:21,550 --> 00:32:24,770
+locally shutting down or changing the brain, of course, I think, and we won't
+
+871
+00:32:24,810 --> 00:32:29,670
+talk about this, but that has y- huge applications in cancer lesioning drugs, things
+
+872
+00:32:29,710 --> 00:32:34,470
+like that. But we're also super interested in talking about some of your latest
+
+873
+00:32:34,550 --> 00:32:35,050
+work.
+
+874
+00:32:35,350 --> 00:32:35,850
+Raag Airan: Oh, okay.
+
+875
+00:32:35,370 --> 00:32:40,670
+Keith Murphy: Particularly using ultrasound to sort of clear the brain and move fluids around.
+
+876
+00:32:41,210 --> 00:32:41,710
+Raag Airan: Mm-hmm.
+
+877
+00:32:41,530 --> 00:32:46,930
+Keith Murphy: Um, Charles, maybe a, a little basic physics on why ultrasound causes acoustic streaming.
+
+878
+00:32:47,330 --> 00:32:49,230
+Raag, you think that's appropriate to start us off?
+
+879
+00:32:49,670 --> 00:32:51,930
+Raag Airan: Yeah, it's appropriate, although I don't know that [chuckles] that's a mechanism.
+
+880
+00:32:52,630 --> 00:32:54,510
+Well, yeah. I mean, that, that is kinda where my head was.
+
+881
+00:32:54,610 --> 00:32:55,890
+[laughs]
+
+882
+00:32:56,190 --> 00:32:56,690
+Keith Murphy: Or it's not. Yeah. [laughs] All right.
+
+883
+00:32:56,410 --> 00:32:58,150
+Charles, try and explain that. Raag, what do you got?
+
+884
+00:32:58,150 --> 00:33:02,330
+Charles Caskey: Don't worry. I, I, I, [laughs] I've, I've been try-- You know, that's-- It's
+
+885
+00:33:02,370 --> 00:33:05,670
+a complica- I mean, you, the hand wave-y explanation's easy.
+
+886
+00:33:05,810 --> 00:33:08,890
+Uh, molecules are moving around. It's focused in one area.
+
+887
+00:33:09,590 --> 00:33:11,350
+The, it creates a force in one direction.
+
+888
+00:33:11,390 --> 00:33:13,370
+It can move the fluid. Acoustic streaming is-
+
+889
+00:33:13,370 --> 00:33:14,950
+Keith Murphy: No, no resistance to strain, right?
+
+890
+00:33:15,090 --> 00:33:18,030
+It just, it just, they're loose, so they will, when they are strained- Mm-hmm
+
+891
+00:33:18,030 --> 00:33:20,750
+... they will flow. No, not, not that simple.
+
+892
+00:33:22,230 --> 00:33:24,570
+Wait, Charles, why do you resist that, that explanation then?
+
+893
+00:33:24,790 --> 00:33:29,830
+Charles Caskey: Well, I mean, you're talking about strain in a non-viscous solution, I think is-
+
+894
+00:33:29,850 --> 00:33:30,350
+[laughs]
+
+895
+00:33:30,170 --> 00:33:30,670
+Keith Murphy: Yeah
+
+896
+00:33:30,290 --> 00:33:33,690
+Charles Caskey: ... like say how, so that's-- I, I think I just, I think it
+
+897
+00:33:33,770 --> 00:33:37,670
+is g- I think at a general high level, that's totally, it's totally accurate.
+
+898
+00:33:37,730 --> 00:33:40,470
+But I, I think at w- every time I've really tried to dig into
+
+899
+00:33:40,510 --> 00:33:44,750
+the acoustics of it and then done a handful of experiments, I'm like, "It's
+
+900
+00:33:44,810 --> 00:33:46,730
+never as intuitive as I expect."
+
+901
+00:33:46,830 --> 00:33:51,230
+Like, for instance, if you have an ultrasound transducer in water, as I, I
+
+902
+00:33:51,270 --> 00:33:56,650
+was like dealing with s- with acoustic radiation force and, and, and fluid questions
+
+903
+00:33:56,670 --> 00:33:58,570
+in the lab, and I was like, "Well, I wonder how much it's just
+
+904
+00:33:58,630 --> 00:34:02,250
+pushing the water." So I like put a transducer, and I dropped some dye
+
+905
+00:34:02,290 --> 00:34:05,430
+in the water, and I was cranking up the transducer in the duty cycle,
+
+906
+00:34:05,770 --> 00:34:07,450
+and it's like barely moving at all.
+
+907
+00:34:07,810 --> 00:34:08,310
+And then-
+
+908
+00:34:08,050 --> 00:34:08,830
+Raag Airan: Yeah. Like it's doing this.
+
+909
+00:34:08,910 --> 00:34:09,670
+Charles Caskey: Yeah. It's just like-
+
+910
+00:34:09,690 --> 00:34:10,190
+Raag Airan: At the most
+
+911
+00:34:09,750 --> 00:34:11,130
+Charles Caskey: ... the smallest amount. I'm like, "Well, that's not gonna-"
+
+912
+00:34:11,150 --> 00:34:11,870
+Raag Airan: Yeah. You know. Yeah.
+
+913
+00:34:11,870 --> 00:34:13,930
+Charles Caskey: "... like clear debris from the brain."
+
+914
+00:34:13,950 --> 00:34:14,670
+[laughs] Like what?
+
+915
+00:34:15,130 --> 00:34:17,690
+Keith Murphy: I have, I've had a very different experience with fluid.
+
+916
+00:34:17,870 --> 00:34:22,930
+I, at 500 kilohertz with a continuous wave, call it like even 10 milliseconds,
+
+917
+00:34:23,650 --> 00:34:25,390
+the, the dye will just stream.
+
+918
+00:34:26,010 --> 00:34:27,890
+I wonder why our experiences have been so different.
+
+919
+00:34:28,450 --> 00:34:31,690
+Raag Airan: Well, or, or you must have some viscosity in your medium then.
+
+920
+00:34:32,030 --> 00:34:33,170
+I mean, if it's just plain water.
+
+921
+00:34:33,170 --> 00:34:33,670
+Keith Murphy: Just water.
+
+922
+00:34:33,430 --> 00:34:33,930
+Raag Airan: Yeah.
+
+923
+00:34:33,570 --> 00:34:34,070
+Charles Caskey: Just water.
+
+924
+00:34:34,110 --> 00:34:36,310
+Keith Murphy: Like, well, I'm thinking, I'm thinking CSF, Raag.
+
+925
+00:34:36,450 --> 00:34:39,790
+I don't know where you're gonna go with what we ask you, but, but
+
+926
+00:34:39,970 --> 00:34:43,650
+I, you know, when I read your work on, on, like this new paper
+
+927
+00:34:43,730 --> 00:34:44,230
+on, you know-
+
+928
+00:34:44,170 --> 00:34:44,670
+Raag Airan: Mm-hmm
+
+929
+00:34:44,230 --> 00:34:48,770
+Keith Murphy: ... recovery after sort of stroke or TBI or, you know, something analogous, it
+
+930
+00:34:48,810 --> 00:34:51,730
+was more about moving CSF, which is a pretty- Mm-hmm ...
+
+931
+00:34:51,730 --> 00:34:53,290
+it's a pretty liquid fluid, right?
+
+932
+00:34:53,310 --> 00:34:53,810
+Raag Airan: Mm-hmm.
+
+933
+00:34:53,370 --> 00:34:55,230
+Keith Murphy: It's not too thick or is it thick?
+
+934
+00:34:55,230 --> 00:34:56,430
+Raag Airan: Yeah, yeah. No, no. I mean-
+
+935
+00:34:56,650 --> 00:34:57,150
+Keith Murphy: Oh
+
+936
+00:34:56,670 --> 00:34:57,570
+Raag Airan: ... it's basically like, you know-
+
+937
+00:34:57,570 --> 00:34:58,070
+Keith Murphy: Super thin
+
+938
+00:34:57,610 --> 00:35:01,210
+Raag Airan: ... very, uh, if you do a, um, if you do a spinal tap
+
+939
+00:35:01,290 --> 00:35:04,990
+well, um, you know, where it's like, you know, and it comes out, it,
+
+940
+00:35:05,350 --> 00:35:08,430
+it comes out like clear. I mean, we call it, I mean, a champagne
+
+941
+00:35:08,470 --> 00:35:10,430
+tap, 'cause I mean, there might be a little bit of straw color to
+
+942
+00:35:10,490 --> 00:35:11,970
+it, but it's like clear.
+
+943
+00:35:11,990 --> 00:35:12,490
+Keith Murphy: Clear.
+
+944
+00:35:12,530 --> 00:35:14,890
+Raag Airan: And it's, and it's just totally like water.
+
+945
+00:35:15,250 --> 00:35:18,390
+Um, I mean, it's basically just, it's meant to be just saltwater, maybe a
+
+946
+00:35:18,410 --> 00:35:19,430
+little bit of glucose in it.
+
+947
+00:35:19,910 --> 00:35:23,790
+And, um, there is some protein in, in CSF, but it's not necessarily meant
+
+948
+00:35:23,850 --> 00:35:25,690
+to have like a lot of protein.
+
+949
+00:35:25,970 --> 00:35:26,470
+Charles Caskey: Yeah.
+
+950
+00:35:26,590 --> 00:35:27,090
+Raag Airan: Yeah.
+
+951
+00:35:26,630 --> 00:35:30,410
+Keith Murphy: Can you explain CSF and the different fluids of the brain at a high
+
+952
+00:35:30,470 --> 00:35:33,990
+level, and then tell us what you learned with focused ultrasound and, and where
+
+953
+00:35:34,030 --> 00:35:34,530
+you're headed?
+
+954
+00:35:34,870 --> 00:35:40,390
+Raag Airan: Sure, sure. Um, okay. So CSF stands for cerebrospinal fluid, so it's the fluid
+
+955
+00:35:40,430 --> 00:35:44,450
+that surrounds our brain and spinal cord and is also in the fluid spaces
+
+956
+00:35:44,490 --> 00:35:46,150
+within each of the brain and spinal cord.
+
+957
+00:35:46,950 --> 00:35:49,510
+Um, so that's one large compartment.
+
+958
+00:35:49,850 --> 00:35:55,250
+Um, then there's the fluid of the, the meat of the brain itself.
+
+959
+00:35:55,270 --> 00:35:55,770
+[laughs]
+
+960
+00:35:55,790 --> 00:35:56,290
+Keith Murphy: The meat.
+
+961
+00:35:55,990 --> 00:35:58,070
+Raag Airan: Um, out, what's outside the cells.
+
+962
+00:35:58,130 --> 00:36:03,090
+The, you know, extracellular fluid, but it's like in the brain itself.
+
+963
+00:36:03,150 --> 00:36:08,870
+So that's interstitial fluid. Um, and there, uh, is also, you know, whether we
+
+964
+00:36:08,910 --> 00:36:11,690
+can call it a different compartment or not, you know, let's see.
+
+965
+00:36:11,730 --> 00:36:16,250
+But there's, so as the arteries, uh, uh, feed the brain and dive into
+
+966
+00:36:16,290 --> 00:36:19,650
+the brain, and then the veins kind of originate kind of from the capillaries
+
+967
+00:36:19,690 --> 00:36:23,650
+and come out of the brain, there are fluid spaces that surround each of
+
+968
+00:36:23,690 --> 00:36:28,850
+those, uh, vessels. And so those are called perivascular spaces.
+
+969
+00:36:29,490 --> 00:36:35,690
+And there is, you know, relative at least membranes between the CSF, the perivascular
+
+970
+00:36:35,750 --> 00:36:42,180
+spaces, the interstitial fluid And Maiken Nedergaard and others, um, um,
+
+971
+00:36:42,620 --> 00:36:46,720
+had like, I guess now a decade ago or so, they started, uh, I
+
+972
+00:36:46,740 --> 00:36:49,080
+forget when the terms were defined or whatever.
+
+973
+00:36:49,160 --> 00:36:51,340
+I mean, I think the-- people have known about this pathway, but the, I
+
+974
+00:36:51,380 --> 00:36:54,680
+think the term glymphatics only came out like about a decade ago.
+
+975
+00:36:56,020 --> 00:37:01,660
+And, uh, it's meant to describe how CSF goes through the perivascular spaces and
+
+976
+00:37:01,720 --> 00:37:06,400
+exchanges with the interstitial fluid. And then-- Oh, [chuckles] I hear some- uh, somebody's
+
+977
+00:37:06,460 --> 00:37:07,060
+cat is hungry.
+
+978
+00:37:07,080 --> 00:37:08,060
+Charles Caskey: I'm gonna go deal with that.
+
+979
+00:37:08,100 --> 00:37:10,300
+Y'all keep going. [laughing]
+
+980
+00:37:10,420 --> 00:37:15,500
+Raag Airan: Um, and so the, uh, interstitial fluid then, you know, eventually goes back out
+
+981
+00:37:15,540 --> 00:37:20,880
+those perivascular spaces and hooks up with the CSF again, but also eventually hooks
+
+982
+00:37:20,940 --> 00:37:22,920
+up with the lymphatic system of the body.
+
+983
+00:37:23,520 --> 00:37:24,020
+Charles Caskey: Mm-hmm.
+
+984
+00:37:24,060 --> 00:37:24,560
+Raag Airan: And that way-
+
+985
+00:37:24,560 --> 00:37:25,140
+Keith Murphy: What's it doing in the brain?
+
+986
+00:37:25,600 --> 00:37:26,820
+What's like the major function of it?
+
+987
+00:37:27,260 --> 00:37:30,400
+Raag Airan: Well, that's what they, you know-- So the, the central nervous system doesn't have
+
+988
+00:37:30,440 --> 00:37:33,960
+its own lymphatic system, at least, you know, classically.
+
+989
+00:37:34,240 --> 00:37:37,060
+And so in this way, it's thought that the CSF and interstitial fluid and
+
+990
+00:37:37,120 --> 00:37:41,480
+all these fluids act like the lymphatic system of the brain and spi- and
+
+991
+00:37:41,540 --> 00:37:45,800
+spinal cord. Okay, so it's like, you know, the lymphatic system is very important
+
+992
+00:37:45,840 --> 00:37:48,760
+for our body, and this system seems to be very important for our brain
+
+993
+00:37:48,780 --> 00:37:52,660
+'cause one thing is it helps to clear the junk from the brain.
+
+994
+00:37:53,420 --> 00:37:56,640
+And there's also an immune aspect to it 'cause this is where the immune
+
+995
+00:37:56,680 --> 00:38:01,480
+cells are surveilling, you know, the brain and, you know, uh, where stuff that
+
+996
+00:38:01,540 --> 00:38:05,400
+maybe, uh, is there or shouldn't be there is, like, presented to these immune
+
+997
+00:38:05,440 --> 00:38:05,940
+cells.
+
+998
+00:38:06,560 --> 00:38:07,060
+Charles Caskey: Mm-hmm.
+
+999
+00:38:06,620 --> 00:38:09,700
+Raag Airan: So there's both a, you know, like kind of a waste clearance aspect, but
+
+1000
+00:38:09,720 --> 00:38:11,700
+then also an immunologic aspect to the brain.
+
+1001
+00:38:11,760 --> 00:38:17,460
+Keith Murphy: So metabolites like dissolve into this interstitial fluid and, and this perivascular space out
+
+1002
+00:38:17,500 --> 00:38:20,640
+of the, out of the neural tissue, out of the astrocytes and glia.
+
+1003
+00:38:21,180 --> 00:38:24,200
+Raag Airan: Yeah. And, and it needs to be, you know, the exact right chemistry 'cause
+
+1004
+00:38:24,240 --> 00:38:28,340
+if stuff gets deranged or whatever on that end, that can actually, uh, in
+
+1005
+00:38:28,380 --> 00:38:32,120
+itself affect neural activity and, you know, the function of the brain.
+
+1006
+00:38:32,420 --> 00:38:35,120
+Keith Murphy: Mm-hmm. I feel like that's important to your work, right?
+
+1007
+00:38:35,280 --> 00:38:40,440
+Like if you leave this garbage behind, what happens to brain health and long-term
+
+1008
+00:38:40,500 --> 00:38:41,000
+outcomes?
+
+1009
+00:38:40,880 --> 00:38:43,240
+Raag Airan: Yeah. So a general thing is it seems like it's, uh, it, it ramps
+
+1010
+00:38:43,300 --> 00:38:44,680
+up the immune system not in a good way.
+
+1011
+00:38:45,460 --> 00:38:47,040
+Um- [chuckles] ... so leads to-- Yeah.
+
+1012
+00:38:47,040 --> 00:38:47,720
+[chuckles] I mean-
+
+1013
+00:38:47,880 --> 00:38:48,380
+Charles Caskey: Just not good
+
+1014
+00:38:48,040 --> 00:38:52,260
+Raag Airan: ... it makes, makes all those cells start attacking, you know, uh, putting them
+
+1015
+00:38:52,260 --> 00:38:54,820
+in a state that's so-called disease associated.
+
+1016
+00:38:55,040 --> 00:38:55,540
+So-
+
+1017
+00:38:55,580 --> 00:38:56,080
+Charles Caskey: Mm
+
+1018
+00:38:55,640 --> 00:39:00,820
+Raag Airan: ... these, uh, microglia that are the immune cells of the brain, um, they're,
+
+1019
+00:39:00,880 --> 00:39:05,760
+they have different states. There's the disease associated state, the homeostatic reparative state, and,
+
+1020
+00:39:05,800 --> 00:39:08,160
+you know, you want them to be in the homeostatic reparative state.
+
+1021
+00:39:08,160 --> 00:39:10,600
+[chuckles] It's like not great to have them in the disease associated state 'cause
+
+1022
+00:39:10,620 --> 00:39:11,620
+they're disease associated.
+
+1023
+00:39:12,080 --> 00:39:12,580
+Charles Caskey: Yep.
+
+1024
+00:39:12,580 --> 00:39:13,080
+Raag Airan: So, uh, yeah.
+
+1025
+00:39:13,520 --> 00:39:14,540
+Charles Caskey: All right. Hang on. All right.
+
+1026
+00:39:14,600 --> 00:39:17,000
+I need to connect-- I need some people to connect some dots for me
+
+1027
+00:39:17,040 --> 00:39:17,740
+here. [chuckles]
+
+1028
+00:39:17,800 --> 00:39:18,300
+Raag Airan: Yeah, yeah.
+
+1029
+00:39:18,460 --> 00:39:23,680
+Charles Caskey: We got glia, we got the, the trash service of the brain, uh, uh,
+
+1030
+00:39:24,000 --> 00:39:24,640
+happening. We talked about-
+
+1031
+00:39:24,660 --> 00:39:25,900
+Raag Airan: The sewers of the brain. There we go.
+
+1032
+00:39:26,180 --> 00:39:26,680
+Charles Caskey: The what?
+
+1033
+00:39:27,080 --> 00:39:27,580
+Raag Airan: The sewers.
+
+1034
+00:39:27,880 --> 00:39:29,620
+Charles Caskey: The sewer. Yeah, the sewers. Sewers of the brain.
+
+1035
+00:39:29,700 --> 00:39:30,200
+Um-
+
+1036
+00:39:29,720 --> 00:39:32,280
+Keith Murphy: Maybe that's what they were smelling in that, uh, that Twitter post.
+
+1037
+00:39:32,300 --> 00:39:34,420
+[laughing]
+
+1038
+00:39:34,560 --> 00:39:35,060
+Charles Caskey: Think-
+
+1039
+00:39:35,940 --> 00:39:37,240
+Raag Airan: I don't know which Twitter post you're talking about.
+
+1040
+00:39:37,280 --> 00:39:38,200
+I don't know if I wanna know.
+
+1041
+00:39:38,200 --> 00:39:38,700
+[laughing]
+
+1042
+00:39:38,760 --> 00:39:39,260
+Charles Caskey: I know.
+
+1043
+00:39:39,180 --> 00:39:39,900
+Keith Murphy: Yeah, you don't wanna know.
+
+1044
+00:39:39,960 --> 00:39:41,420
+Charles Caskey: I'm not gonna get him to elaborate on that.
+
+1045
+00:39:41,460 --> 00:39:42,780
+Don't worry, Raag. [laughing]
+
+1046
+00:39:42,820 --> 00:39:45,360
+Raag Airan: Oh, no, it's-- Excuse me, it's X.
+
+1047
+00:39:45,380 --> 00:39:46,300
+[laughing]
+
+1048
+00:39:46,340 --> 00:39:46,840
+Charles Caskey: Excuse me.
+
+1049
+00:39:46,520 --> 00:39:48,300
+Keith Murphy: Oh, yes, X. X, X, X.
+
+1050
+00:39:48,940 --> 00:39:50,920
+Charles, what were you saying about the trash?
+
+1051
+00:39:51,260 --> 00:39:52,980
+Charles Caskey: Well, all right. So we got, we got the glymphatics.
+
+1052
+00:39:53,040 --> 00:39:55,980
+We got the-- We've got the glymphatic system introduced.
+
+1053
+00:39:56,100 --> 00:39:57,580
+Uh, Raag has described it well.
+
+1054
+00:39:57,640 --> 00:39:59,760
+We've talked about radiation force and ultrasound.
+
+1055
+00:39:59,940 --> 00:40:00,440
+Raag Airan: Mm-hmm.
+
+1056
+00:40:00,440 --> 00:40:06,240
+Charles Caskey: Um, we also have described and talked about in other episodes that, uh, low-intensity
+
+1057
+00:40:06,360 --> 00:40:12,400
+focused ultrasound can change, uh, microglial phenotype, astro- you know, aquaporin
+
+1058
+00:40:12,460 --> 00:40:18,200
+localization. And so we're ta-- And then we were talking about streaming fluid.
+
+1059
+00:40:18,620 --> 00:40:21,700
+I'm just trying to-- Like, what's our working model here as to how this
+
+1060
+00:40:21,760 --> 00:40:25,880
+is helping us and, uh, uh, clear debris from the brain?
+
+1061
+00:40:26,380 --> 00:40:26,880
+Raag Airan: Mm-hmm.
+
+1062
+00:40:26,700 --> 00:40:28,120
+Charles Caskey: Uh, you know, which, which angle are we taking?
+
+1063
+00:40:28,160 --> 00:40:32,560
+Are we, are we acoustic radiation forcing things through the, through the filter?
+
+1064
+00:40:32,760 --> 00:40:35,360
+Are we, are we activating some uptake?
+
+1065
+00:40:35,420 --> 00:40:36,140
+What, what's going on?
+
+1066
+00:40:36,200 --> 00:40:42,360
+Raag Airan: So earlier on, we showed that, um, a low-intensity ultrasound, uh, protocol can
+
+1067
+00:40:42,440 --> 00:40:46,700
+upregulate that first part of the glymphatic system, which is where CSF exchanges with
+
+1068
+00:40:46,740 --> 00:40:49,100
+that interstitial fluid via those perivascular spaces.
+
+1069
+00:40:50,040 --> 00:40:53,620
+Okay. So we saw that before, and then we asked, well, can it also
+
+1070
+00:40:53,660 --> 00:40:56,620
+do that second part, which is the getting out of the brain and then,
+
+1071
+00:40:56,760 --> 00:41:00,300
+you know, ideally clearing junk, um- Okay ...
+
+1072
+00:41:00,320 --> 00:41:03,240
+with it. And that's what this last paper was about.
+
+1073
+00:41:03,860 --> 00:41:08,120
+And so as a-- So we, we could've-- We, we did that with tracers
+
+1074
+00:41:08,160 --> 00:41:11,680
+and, you know, in one preliminary kind of set of studies, but we wanted
+
+1075
+00:41:11,700 --> 00:41:14,620
+to do this in a more kind of, uh, in a model of an
+
+1076
+00:41:14,700 --> 00:41:17,320
+actual disease process, um, not just tracers.
+
+1077
+00:41:17,320 --> 00:41:20,020
+Keith Murphy: In the first one, Raag, you put like a, like a fluorophore in there,
+
+1078
+00:41:20,100 --> 00:41:21,440
+right? Or was it a PET tracer?
+
+1079
+00:41:21,760 --> 00:41:24,800
+Raag Airan: So we-- No. Yeah, we used, uh, uh, optical dyes as well as MR,
+
+1080
+00:41:25,180 --> 00:41:27,320
+uh, contrast agents, as well as drugs.
+
+1081
+00:41:27,820 --> 00:41:29,820
+Um, so an antibody-based drug. Um-
+
+1082
+00:41:29,840 --> 00:41:33,780
+Keith Murphy: So you injected some sort of optical fluorophore into the brain, and then you
+
+1083
+00:41:33,820 --> 00:41:35,680
+hit it with ultrasound or not, and you just-
+
+1084
+00:41:35,720 --> 00:41:36,600
+Raag Airan: Or into the CSF
+
+1085
+00:41:36,620 --> 00:41:38,420
+Keith Murphy: ... saw it from the... Into the CSF, right.
+
+1086
+00:41:38,540 --> 00:41:41,120
+Raag Airan: Into the CSF, and then we tracked where it went with this protocol.
+
+1087
+00:41:41,800 --> 00:41:45,080
+Keith Murphy: And, and what do you think was happening that was getting this, uh, tracer
+
+1088
+00:41:45,140 --> 00:41:47,500
+out of the brain or out of the CSF, sorry.
+
+1089
+00:41:47,540 --> 00:41:51,520
+Raag Airan: Yeah. So, so, well, that first part was-- It-- What we really showed was
+
+1090
+00:41:51,540 --> 00:41:54,260
+that it excha- into the first part would actually get into the brain.
+
+1091
+00:41:54,540 --> 00:41:58,300
+So it exchanged with the interstitial fluid of the brain, um, and then eventually
+
+1092
+00:41:58,340 --> 00:42:01,720
+got out. Um, but it seemed like it got out on a, you know,
+
+1093
+00:42:02,200 --> 00:42:06,060
+on its more, uh, on the usual timescales and the usual processes by which
+
+1094
+00:42:06,080 --> 00:42:08,700
+things clear. We turn over our whole-
+
+1095
+00:42:08,740 --> 00:42:10,960
+Keith Murphy: Are you in-- Are you, like, increasing the mixing in the brain, or what
+
+1096
+00:42:10,980 --> 00:42:12,460
+do you think is happening? To Charles- So- ...
+
+1097
+00:42:12,500 --> 00:42:14,400
+that's kinda Charles's question, just reiterating.
+
+1098
+00:42:14,420 --> 00:42:16,900
+Raag Airan: Yeah, yeah. So from that, the, that first study, I thought we were somehow
+
+1099
+00:42:16,960 --> 00:42:19,320
+increasing the mixing, essentially mechanically.
+
+1100
+00:42:19,740 --> 00:42:20,240
+Keith Murphy: Mm-hmm. Mm-hmm.
+
+1101
+00:42:20,180 --> 00:42:20,680
+Raag Airan: Um-
+
+1102
+00:42:20,360 --> 00:42:20,860
+Keith Murphy: Yeah
+
+1103
+00:42:20,660 --> 00:42:22,880
+Raag Airan: ... but, uh, what I'm getting at is that, you know, with our more
+
+1104
+00:42:22,900 --> 00:42:27,780
+recent data, I actually think we're driving more of a, a, a, a biological
+
+1105
+00:42:27,820 --> 00:42:30,980
+phenomena driven by activation of the mechanosensitive channels.
+
+1106
+00:42:31,880 --> 00:42:35,800
+Because we're able to block our effect by infusing a blocker of those channels.
+
+1107
+00:42:36,380 --> 00:42:36,880
+Charles Caskey: Oh.
+
+1108
+00:42:36,520 --> 00:42:37,880
+Keith Murphy: Wow. Wait, was that in the paper?
+
+1109
+00:42:38,040 --> 00:42:38,580
+I totally-
+
+1110
+00:42:38,600 --> 00:42:39,100
+Raag Airan: Yeah, yeah
+
+1111
+00:42:38,760 --> 00:42:39,380
+Keith Murphy: ... missed that. [laughs]
+
+1112
+00:42:39,460 --> 00:42:40,240
+Raag Airan: Uh, for your, um-
+
+1113
+00:42:40,280 --> 00:42:43,260
+Charles Caskey: I'm just the color guy on this one, so the-- and, you know, I'm
+
+1114
+00:42:43,300 --> 00:42:47,020
+just adding, adding flavor, so I di- I wasn't responsible for reading the paper,
+
+1115
+00:42:47,120 --> 00:42:47,820
+so, um-
+
+1116
+00:42:47,920 --> 00:42:49,200
+Keith Murphy: I sort of read it, I guess.
+
+1117
+00:42:49,240 --> 00:42:49,740
+Charles Caskey: Yeah.
+
+1118
+00:42:49,660 --> 00:42:50,960
+Keith Murphy: Charles didn't even look at it.
+
+1119
+00:42:50,980 --> 00:42:52,340
+Charles Caskey: What-- Where-- Did you block-
+
+1120
+00:42:52,420 --> 00:42:52,920
+Raag Airan: That's fine
+
+1121
+00:42:52,660 --> 00:42:57,280
+Charles Caskey: ... mechanosensitive channels, uh, with-- What did you use to systemically block those?
+
+1122
+00:42:57,760 --> 00:43:02,660
+Raag Airan: So, uh, we infused into the CSF, uh, GsMTx4, which is a-
+
+1123
+00:43:02,680 --> 00:43:03,320
+Charles Caskey: Okay. Yeah. Mm-hmm
+
+1124
+00:43:03,320 --> 00:43:06,480
+Raag Airan: ... which is a mouthful, but it's a, you know, general purpose blocker of
+
+1125
+00:43:06,520 --> 00:43:07,540
+mechanosensitive channels.
+
+1126
+00:43:07,980 --> 00:43:08,480
+Charles Caskey: Yeah.
+
+1127
+00:43:08,060 --> 00:43:10,720
+Raag Airan: And that blocked our effect. So we still had all the mechanics from the
+
+1128
+00:43:10,780 --> 00:43:14,400
+ultrasound acting there, but this clearance wasn't there.
+
+1129
+00:43:14,440 --> 00:43:17,700
+Keith Murphy: Whoa. What cell types are those blocking mostly, Raag?
+
+1130
+00:43:18,540 --> 00:43:23,440
+Raag Airan: Uh, well, it seems it's a general purpose blocker of the, of the mechanosensitive
+
+1131
+00:43:23,480 --> 00:43:24,080
+channels, so it seems to act-
+
+1132
+00:43:24,100 --> 00:43:26,600
+Charles Caskey: Yeah, hence Piezo, TRPs, all that get caught up.
+
+1133
+00:43:26,600 --> 00:43:28,840
+Raag Airan: Exactly. 'Cause it, it seems to act at the level of the lip- of
+
+1134
+00:43:28,900 --> 00:43:29,600
+the lipid rafts.
+
+1135
+00:43:30,500 --> 00:43:31,120
+Keith Murphy: Okay. Wow.
+
+1136
+00:43:31,140 --> 00:43:32,820
+Raag Airan: It actually stabilizes the lipid raft.
+
+1137
+00:43:32,840 --> 00:43:35,220
+Keith Murphy: So it could be any, it could be any cell type, except for maybe
+
+1138
+00:43:35,260 --> 00:43:36,600
+blood vessels and things like that.
+
+1139
+00:43:36,740 --> 00:43:37,900
+I feel like those aren't rich in...
+
+1140
+00:43:38,080 --> 00:43:38,600
+Or maybe they're-
+
+1141
+00:43:38,720 --> 00:43:40,940
+Charles Caskey: I mean, no, no, they're super rich in mechanosensitive- Yeah ...
+
+1142
+00:43:40,960 --> 00:43:44,520
+blood vessels 'cause they're, like, reacting all the time to strain or to-
+
+1143
+00:43:44,640 --> 00:43:45,140
+Raag Airan: Mm-hmm
+
+1144
+00:43:44,680 --> 00:43:45,720
+Charles Caskey: ... to shear. Yeah.
+
+1145
+00:43:45,860 --> 00:43:48,160
+Raag Airan: And, and, and so this is one thing, like, I can kinda get why
+
+1146
+00:43:48,400 --> 00:43:51,340
+it's on the blood vessels. I can kinda get maybe why it's on the
+
+1147
+00:43:51,380 --> 00:43:55,180
+meninges. But, like, these mechanosensitive channels, they're freaking everywhere.
+
+1148
+00:43:55,420 --> 00:43:55,920
+Like-
+
+1149
+00:43:55,860 --> 00:43:56,360
+Charles Caskey: Yeah
+
+1150
+00:43:56,000 --> 00:43:59,080
+Raag Airan: ... every cell type has these, throughout the body and the brain.
+
+1151
+00:43:59,560 --> 00:44:03,360
+And so, like, I, I feel like we don't understand something here, right?
+
+1152
+00:44:03,420 --> 00:44:06,980
+'Cause I, you know, uh, you-- there's no, like, ac- I don't know, accidental
+
+1153
+00:44:07,040 --> 00:44:10,620
+kind of overexpression of a given family of channels in biology.
+
+1154
+00:44:10,620 --> 00:44:12,420
+Keith Murphy: Only millions of years of evolution.
+
+1155
+00:44:12,920 --> 00:44:13,420
+Raag Airan: Right. Like-
+
+1156
+00:44:13,220 --> 00:44:13,720
+Charles Caskey: I mean-
+
+1157
+00:44:13,260 --> 00:44:16,500
+Raag Airan: ... they're, they're doing s- there's something going on here that I don't, I
+
+1158
+00:44:16,520 --> 00:44:20,280
+don't understand. I don't know if y'all understand, like, um, this, I think, is
+
+1159
+00:44:20,360 --> 00:44:23,500
+a, a, an opportunity here. I mean, 'cause we have, we ha- we have
+
+1160
+00:44:23,760 --> 00:44:25,860
+the, the pinger, you know, we have a thing that can do these things.
+
+1161
+00:44:26,460 --> 00:44:26,960
+Charles Caskey: Yeah.
+
+1162
+00:44:26,480 --> 00:44:29,500
+Raag Airan: But figuring out exactly what's going on, that's, I think, uh, there's a next
+
+1163
+00:44:29,780 --> 00:44:30,280
+avenue here.
+
+1164
+00:44:30,580 --> 00:44:34,720
+Charles Caskey: I wrote a paper last year with a collaborator in mechanobiology.
+
+1165
+00:44:35,180 --> 00:44:38,600
+And yeah, like all of these same-- Uh, so he really, he's in, uh,
+
+1166
+00:44:38,800 --> 00:44:43,280
+looking at, uh, cancer therapies. And, and 'cause this is a thing with cancer.
+
+1167
+00:44:43,380 --> 00:44:48,080
+Like, if you have a, uh, in metastasis, there's this idea that these, these
+
+1168
+00:44:48,140 --> 00:44:53,020
+certain cells that are metastasizing are able to overcome these crazy mechanical forces in
+
+1169
+00:44:53,060 --> 00:44:56,260
+the body, and that there's, and that this mechanotransduction is like...
+
+1170
+00:44:56,640 --> 00:44:59,740
+Yeah, I totally agree. There's something that we re- like, fundamental that we don't
+
+1171
+00:44:59,780 --> 00:45:02,580
+understand. Like, we see the game being played in front of us, but we
+
+1172
+00:45:02,600 --> 00:45:07,040
+don't know the rules. And yeah, ultrasound is a way to modulate that, and
+
+1173
+00:45:07,100 --> 00:45:10,480
+I, I bet you're right that there, somehow you're hitting on that here.
+
+1174
+00:45:10,500 --> 00:45:13,860
+Raag Airan: So, so, uh, I talked with, like, our neuro-oncology team about this, you know,
+
+1175
+00:45:13,960 --> 00:45:17,000
+last study and what we can maybe use this for in the neuro-oncology setting.
+
+1176
+00:45:17,040 --> 00:45:18,460
+In general, people are, you know, like, "Oh, cool.
+
+1177
+00:45:18,520 --> 00:45:19,340
+We should use it. We should do that."
+
+1178
+00:45:19,440 --> 00:45:23,000
+But somebody did bring it up, was like, "So could we, you know, could
+
+1179
+00:45:23,020 --> 00:45:24,340
+this be bad?" [laughs] You know?
+
+1180
+00:45:24,460 --> 00:45:27,720
+Right? 'Cause like- Yeah ... are we manipulating the, you know, these cells, you
+
+1181
+00:45:27,760 --> 00:45:32,440
+know, so that, like, could one, uh, effect be that we end up driving
+
+1182
+00:45:32,500 --> 00:45:33,640
+more spread, right?
+
+1183
+00:45:34,040 --> 00:45:35,460
+Charles Caskey: Yeah. I mean, that's always the concern, right?
+
+1184
+00:45:35,460 --> 00:45:35,960
+Yeah.
+
+1185
+00:45:35,480 --> 00:45:37,080
+Keith Murphy: You looked at, you looked at inflammation though too, right?
+
+1186
+00:45:37,180 --> 00:45:37,680
+Raag Airan: Yeah, yeah, yeah.
+
+1187
+00:45:37,460 --> 00:45:38,820
+Keith Murphy: You looked at inflammation, it was down?
+
+1188
+00:45:39,300 --> 00:45:42,220
+Raag Airan: Right. So and that's, and that was the thing, like, like, okay, so and
+
+1189
+00:45:42,340 --> 00:45:45,920
+I could even under- so I could understand why, like, vascular cells have these
+
+1190
+00:45:46,000 --> 00:45:47,900
+channels on them. I could understand, um, that.
+
+1191
+00:45:47,940 --> 00:45:50,960
+But like, why do, why do the astrocytes have them?
+
+1192
+00:45:51,660 --> 00:45:53,220
+And why do the microglia have them?
+
+1193
+00:45:53,500 --> 00:45:57,720
+And when we activate them on these, we see the, you know, that shift
+
+1194
+00:45:57,800 --> 00:46:01,680
+of the microglia from the disease-associated state to that homeostatic state that we want.
+
+1195
+00:46:02,060 --> 00:46:05,640
+We see them going from, you know, the, the aquaporins going up, you know,
+
+1196
+00:46:05,740 --> 00:46:06,400
+for the glymphatic-
+
+1197
+00:46:06,900 --> 00:46:07,400
+Charles Caskey: Yeah
+
+1198
+00:46:07,000 --> 00:46:09,960
+Raag Airan: ... uh, whole thing. Um, so that's like, great.
+
+1199
+00:46:10,000 --> 00:46:10,500
+That's like-
+
+1200
+00:46:10,460 --> 00:46:10,960
+Keith Murphy: That's amazing
+
+1201
+00:46:10,680 --> 00:46:11,840
+Raag Airan: ... it's super convenient. Like-
+
+1202
+00:46:11,880 --> 00:46:12,380
+Keith Murphy: Yeah.
+
+1203
+00:46:12,140 --> 00:46:13,380
+Raag Airan: ... fantastic. I love it. [laughs]
+
+1204
+00:46:13,400 --> 00:46:14,260
+Keith Murphy: That worked out.
+
+1205
+00:46:14,800 --> 00:46:15,300
+Raag Airan: Yeah, exactly.
+
+1206
+00:46:15,180 --> 00:46:16,360
+Charles Caskey: Hang on, hang on, hang on, hang on.
+
+1207
+00:46:16,400 --> 00:46:16,900
+All right.
+
+1208
+00:46:16,620 --> 00:46:17,120
+Raag Airan: Yeah, yeah.
+
+1209
+00:46:16,840 --> 00:46:17,840
+Charles Caskey: I, I, I got something for you.
+
+1210
+00:46:18,380 --> 00:46:19,940
+Hear me out here. Hear me out.
+
+1211
+00:46:19,960 --> 00:46:20,660
+[laughs]
+
+1212
+00:46:21,000 --> 00:46:21,500
+Keith Murphy: Indeed.
+
+1213
+00:46:21,360 --> 00:46:23,880
+Charles Caskey: Um, if you get hit in the head, all right?
+
+1214
+00:46:24,080 --> 00:46:24,580
+Raag Airan: Mm-hmm.
+
+1215
+00:46:24,860 --> 00:46:27,480
+Charles Caskey: You get an inflammatory response- Mm-hmm ...
+
+1216
+00:46:28,700 --> 00:46:33,580
+and you also start to feel nauseous, just to bring the gut axis back
+
+1217
+00:46:33,640 --> 00:46:34,140
+into this.
+
+1218
+00:46:34,260 --> 00:46:35,100
+Raag Airan: There we go. Yep, yep.
+
+1219
+00:46:35,560 --> 00:46:36,300
+Keith Murphy: Nice, nice full turn.
+
+1220
+00:46:36,340 --> 00:46:38,360
+Charles Caskey: I mean, may- maybe it's very obvious why they're there.
+
+1221
+00:46:38,360 --> 00:46:39,880
+[laughs]
+
+1222
+00:46:39,920 --> 00:46:40,780
+Raag Airan: But, but that's, uh, but that's an-
+
+1223
+00:46:40,800 --> 00:46:41,380
+Keith Murphy: But that, that takes inflammation
+
+1224
+00:46:41,380 --> 00:46:43,680
+Raag Airan: ... so, so I, I, I, so I get it, but like, so that's
+
+1225
+00:46:43,700 --> 00:46:45,420
+an acute thing. So like-
+
+1226
+00:46:45,440 --> 00:46:45,940
+Charles Caskey: That's an okay
+
+1227
+00:46:45,520 --> 00:46:47,120
+Raag Airan: ... you know, you get hit, like, once.
+
+1228
+00:46:47,440 --> 00:46:47,940
+But-
+
+1229
+00:46:47,700 --> 00:46:48,200
+Charles Caskey: Yeah
+
+1230
+00:46:47,780 --> 00:46:49,940
+Raag Airan: ... you know, with the ultrasound here and, and what we find is, like,
+
+1231
+00:46:49,960 --> 00:46:53,740
+the more you, the more ultrasound we apply, the more we activate these things.
+
+1232
+00:46:54,280 --> 00:46:54,780
+So, like-
+
+1233
+00:46:55,320 --> 00:46:55,820
+Keith Murphy: Wait guys, there's a-
+
+1234
+00:46:55,640 --> 00:46:56,840
+Raag Airan: Why is this system designed like that?
+
+1235
+00:46:56,920 --> 00:46:57,420
+Keith Murphy: Charles-
+
+1236
+00:46:57,580 --> 00:46:58,080
+Raag Airan: Yeah
+
+1237
+00:46:57,640 --> 00:47:00,580
+Keith Murphy: ... you're pointing to inflammation with getting hit in the head, which we know
+
+1238
+00:47:00,640 --> 00:47:01,940
+is true of football-
+
+1239
+00:47:01,980 --> 00:47:02,480
+Raag Airan: Mm-hmm
+
+1240
+00:47:02,100 --> 00:47:02,600
+Keith Murphy: ... and all these-
+
+1241
+00:47:02,720 --> 00:47:03,220
+Charles Caskey: Yeah
+
+1242
+00:47:02,860 --> 00:47:07,360
+Keith Murphy: ... high impact sports. And Raag, you're saying that low intensity ultrasound actually reduces
+
+1243
+00:47:07,400 --> 00:47:08,840
+inflammation. So how do we- Yeah ...
+
+1244
+00:47:08,860 --> 00:47:10,260
+reconcile these two findings?
+
+1245
+00:47:10,380 --> 00:47:13,320
+Raag Airan: It's a different, like, and it's a different, uh, I mean, so an acute
+
+1246
+00:47:13,380 --> 00:47:18,720
+impulse can drive, you know, the production into the disease-associated state, while a more
+
+1247
+00:47:18,780 --> 00:47:19,580
+tonic kind of-
+
+1248
+00:47:19,680 --> 00:47:20,180
+Charles Caskey: Yeah
+
+1249
+00:47:19,760 --> 00:47:23,240
+Raag Airan: ... low intensity maybe application can shift it the other way.
+
+1250
+00:47:23,720 --> 00:47:24,220
+And-
+
+1251
+00:47:23,860 --> 00:47:24,360
+Charles Caskey: Think about it this way
+
+1252
+00:47:24,140 --> 00:47:26,920
+Raag Airan: ... I mean, maybe to that-- Well, I, I guess with the nonlinear dose
+
+1253
+00:47:26,960 --> 00:47:30,520
+response thing, 'cause like, uh, uh, also in the paper, which we, um, we
+
+1254
+00:47:30,560 --> 00:47:34,400
+gave a pharmacologic agonist, so Yoda1, which activates Piezo1-
+
+1255
+00:47:34,780 --> 00:47:35,280
+Charles Caskey: Mm-hmm
+
+1256
+00:47:34,800 --> 00:47:39,600
+Raag Airan: ... um, and maybe Piezo2. And dude, that-- So this was in stroke models.
+
+1257
+00:47:40,100 --> 00:47:43,060
+Um, so we, so yeah, so, uh, forgot to mention, so we did all
+
+1258
+00:47:43,100 --> 00:47:48,900
+this in the context of, of hemorrhagic stroke models, where if anything, you know,
+
+1259
+00:47:49,300 --> 00:47:53,200
+there's two things. One, it's an actually disease model, but two, the blood from
+
+1260
+00:47:53,240 --> 00:47:56,280
+the hemorrhage model acts as our tracer.
+
+1261
+00:47:57,260 --> 00:48:00,140
+So we can see where the blood goes from the parenchymal compartment or the
+
+1262
+00:48:00,180 --> 00:48:04,120
+CSF around, and use that to define our clearance.
+
+1263
+00:48:04,420 --> 00:48:04,920
+Charles Caskey: Uh-huh.
+
+1264
+00:48:05,320 --> 00:48:08,820
+Raag Airan: Okay. So in those stroke models, when we gave the...
+
+1265
+00:48:09,000 --> 00:48:11,620
+So the, the ultrasound does all sorts of great things, and we're like, "Okay,
+
+1266
+00:48:11,680 --> 00:48:15,580
+well, we should be able to recapitulate that with a pharmacologic agonist of those
+
+1267
+00:48:15,620 --> 00:48:18,220
+channels, right?" Um, or at least as a comparator.
+
+1268
+00:48:18,300 --> 00:48:21,980
+Let's see how it compares. And what [chuckles] we actually found is that when
+
+1269
+00:48:22,000 --> 00:48:26,200
+we gave this drug that activates those channels, it literally killed them.
+
+1270
+00:48:26,780 --> 00:48:28,020
+Charles Caskey: Wait, so you're giving Yoda-
+
+1271
+00:48:28,160 --> 00:48:28,660
+Keith Murphy: Wow
+
+1272
+00:48:28,860 --> 00:48:29,360
+Raag Airan: Yeah
+
+1273
+00:48:28,980 --> 00:48:34,140
+Charles Caskey: ... 1, and you're activating Piezo channels, uh, and it's killing, uh, glymphatic cells?
+
+1274
+00:48:34,910 --> 00:48:37,370
+Raag Airan: Or no, it just killed the animals, not the son- [chuckles] Just killed the
+
+1275
+00:48:37,390 --> 00:48:37,890
+animals
+
+1276
+00:48:37,750 --> 00:48:39,030
+Charles Caskey: Oh. Oh, so she's-- Okay, very adverse
+
+1277
+00:48:39,250 --> 00:48:39,870
+Keith Murphy: Post head trauma.
+
+1278
+00:48:40,430 --> 00:48:42,650
+Raag Airan: Yeah. Post this, uh, hemorrhage, hemorrhage model.
+
+1279
+00:48:43,490 --> 00:48:43,990
+Keith Murphy: Wow.
+
+1280
+00:48:43,750 --> 00:48:44,370
+Charles Caskey: Interesting.
+
+1281
+00:48:44,670 --> 00:48:45,270
+Raag Airan: Yeah. No, I mean-
+
+1282
+00:48:45,290 --> 00:48:46,610
+Keith Murphy: Is that like you gave it too much, though?
+
+1283
+00:48:46,670 --> 00:48:48,370
+Did you dose that? You did the dose.
+
+1284
+00:48:48,410 --> 00:48:49,310
+You did the dose and response.
+
+1285
+00:48:49,670 --> 00:48:52,450
+Raag Airan: Well, like if, you know... I mean, now other people have shown that when
+
+1286
+00:48:52,490 --> 00:48:55,850
+you give this drug, you can actually decrease that inflammation.
+
+1287
+00:48:55,950 --> 00:48:58,770
+But maybe in this state when they're already like really ramped up and you
+
+1288
+00:48:59,270 --> 00:49:00,750
+give a little bit more- Yeah ...
+
+1289
+00:49:00,790 --> 00:49:04,050
+it ramps them up further. Now, I mean, they died, so when we did
+
+1290
+00:49:04,090 --> 00:49:06,330
+like, you know, analysis of it, they looked bad.
+
+1291
+00:49:06,570 --> 00:49:09,410
+So I mean, it's like it's a little, it's, it's, it's hard to like
+
+1292
+00:49:09,450 --> 00:49:11,470
+figure out why they died from that.
+
+1293
+00:49:11,530 --> 00:49:13,330
+Keith Murphy: Yeah. Can I pose a simple theory, guys?
+
+1294
+00:49:13,430 --> 00:49:16,510
+It's, I mean, to me it, it reminds me of exercise.
+
+1295
+00:49:16,870 --> 00:49:20,330
+If you push your body just a little bit and you have micro tears
+
+1296
+00:49:20,350 --> 00:49:20,870
+and fibers-
+
+1297
+00:49:20,910 --> 00:49:21,410
+Raag Airan: Mm.
+
+1298
+00:49:20,930 --> 00:49:22,510
+Keith Murphy: Mm-hmm ... you, you get stronger ultimately.
+
+1299
+00:49:23,070 --> 00:49:23,970
+If you put a 5,000-pound cart-
+
+1300
+00:49:23,970 --> 00:49:25,070
+Raag Airan: Maybe you. I mean, I don't know.
+
+1301
+00:49:25,070 --> 00:49:27,170
+I'm a little older, so like [laughing]
+
+1302
+00:49:27,270 --> 00:49:28,850
+Keith Murphy: I still get ripped. I get shredded.
+
+1303
+00:49:29,590 --> 00:49:30,150
+Raag Airan: You'll jack it. You, you-
+
+1304
+00:49:30,170 --> 00:49:31,730
+Keith Murphy: But if you put a, if you put a 5,000...
+
+1305
+00:49:31,790 --> 00:49:35,390
+[chuckles] Thanks, Raag. If you put a 5,000-pound, you know, weight attached to my
+
+1306
+00:49:35,430 --> 00:49:36,590
+arm, my arm's gonna rip off.
+
+1307
+00:49:36,650 --> 00:49:37,150
+Raag Airan: Yeah.
+
+1308
+00:49:36,670 --> 00:49:39,250
+Keith Murphy: So maybe it's just that if you push the system a little and w-
+
+1309
+00:49:39,610 --> 00:49:43,510
+when you put the Yoda and the head trauma together, you got Charles, Charles'
+
+1310
+00:49:43,730 --> 00:49:44,650
+football collision or-
+
+1311
+00:49:44,930 --> 00:49:45,430
+Raag Airan: Yeah, yeah, yeah
+
+1312
+00:49:45,370 --> 00:49:45,870
+Charles Caskey: Yeah, yeah
+
+1313
+00:49:45,710 --> 00:49:46,210
+Keith Murphy: ... whatever. Yeah.
+
+1314
+00:49:46,030 --> 00:49:50,490
+Charles Caskey: It's just, it's too much. Well, and the, y- this idea of like dosing
+
+1315
+00:49:51,090 --> 00:49:55,290
+came up recently because pe- I think a lot of people in the focused
+
+1316
+00:49:55,350 --> 00:49:59,810
+ultrasound community are like, "Well, we've been doing this thermal inhibition-
+
+1317
+00:50:00,130 --> 00:50:00,630
+Raag Airan: Mm-hmm, mm-hmm
+
+1318
+00:50:00,150 --> 00:50:01,830
+Charles Caskey: ... as part of our studies for a long time.
+
+1319
+00:50:01,970 --> 00:50:05,030
+So why, why weren't we seeing all the neuromodulation there?"
+
+1320
+00:50:05,470 --> 00:50:06,650
+And I think it's a similar question.
+
+1321
+00:50:06,710 --> 00:50:09,970
+It's just the orders of magnitude are so different, and I can't remember-
+
+1322
+00:50:09,970 --> 00:50:10,470
+Raag Airan: Right
+
+1323
+00:50:10,050 --> 00:50:11,790
+Charles Caskey: ... who brought it up, but I thought it was a really nice point.
+
+1324
+00:50:11,970 --> 00:50:16,270
+They said, "Well, think of the difference between like if you're just injecting a
+
+1325
+00:50:16,350 --> 00:50:20,030
+small amount of current with like a, a Hodgkin and Huxley axon-
+
+1326
+00:50:20,150 --> 00:50:20,650
+Raag Airan: Mm-hmm
+
+1327
+00:50:20,170 --> 00:50:22,710
+Charles Caskey: ... type of situation versus like RF ablation."
+
+1328
+00:50:22,810 --> 00:50:25,030
+I mean, it's just they're both electricity.
+
+1329
+00:50:25,610 --> 00:50:28,490
+Um- Right ... but one of them is like instant death of the tissue,
+
+1330
+00:50:28,550 --> 00:50:30,890
+and one of them is, is create action potentials.
+
+1331
+00:50:30,970 --> 00:50:31,990
+Mm-hmm. And like it's not-
+
+1332
+00:50:32,030 --> 00:50:33,130
+Raag Airan: Yeah, I think that's a great analogy.
+
+1333
+00:50:33,250 --> 00:50:33,750
+Yeah
+
+1334
+00:50:33,330 --> 00:50:36,230
+Charles Caskey: ... it's not foreign. This concept is not foreign to think that there's this
+
+1335
+00:50:36,290 --> 00:50:38,630
+graded response. Uh, yeah, absolutely normal.
+
+1336
+00:50:38,670 --> 00:50:42,230
+Raag Airan: Right. And, and, you know, and it could even be, you know, not monotonic,
+
+1337
+00:50:42,290 --> 00:50:43,030
+but like, you know- Yeah ...
+
+1338
+00:50:43,150 --> 00:50:45,350
+it's good here, but then a little too much, you know?
+
+1339
+00:50:45,370 --> 00:50:46,810
+Charles Caskey: Bimodal, trimodal.
+
+1340
+00:50:46,850 --> 00:50:47,350
+Raag Airan: Right.
+
+1341
+00:50:46,990 --> 00:50:47,490
+Charles Caskey: Yeah.
+
+1342
+00:50:47,590 --> 00:50:49,030
+Raag Airan: Yeah, yeah. So, so-
+
+1343
+00:50:49,270 --> 00:50:51,650
+Charles Caskey: So yeah, you could rip your arm off if you put too much weight.
+
+1344
+00:50:51,910 --> 00:50:52,890
+Absolutely. You can.
+
+1345
+00:50:52,930 --> 00:50:55,930
+Raag Airan: Exactly, exactly. Or, you know, uh, you know, or, or you're going, you know,
+
+1346
+00:50:55,930 --> 00:50:57,790
+if you, if you pitch a little, you know, you get better at it.
+
+1347
+00:50:57,850 --> 00:50:59,150
+If you pitch too much, that's Tommy John.
+
+1348
+00:50:59,410 --> 00:51:01,710
+Charles Caskey: Yeah. Right. Yeah. Then you, then you gotta go, yeah, you gotta get your-
+
+1349
+00:51:01,730 --> 00:51:02,230
+Keith Murphy: What's Tommy John?
+
+1350
+00:51:02,110 --> 00:51:03,870
+Charles Caskey: ... your elbow put back together or whatever.
+
+1351
+00:51:03,890 --> 00:51:04,390
+[laughs]
+
+1352
+00:51:03,990 --> 00:51:04,670
+Raag Airan: Yeah, exactly. Exactly.
+
+1353
+00:51:04,730 --> 00:51:05,710
+Keith Murphy: Tommy John got injured?
+
+1354
+00:51:06,510 --> 00:51:08,690
+Raag Airan: Oh, uh, yeah, Tommy John surgery for pitchers.
+
+1355
+00:51:08,930 --> 00:51:09,430
+Uh-
+
+1356
+00:51:09,570 --> 00:51:10,750
+Charles Caskey: Famous surgery. Been on the rise
+
+1357
+00:51:10,770 --> 00:51:12,470
+Raag Airan: ... it's a literally inside baseball kind of thing.
+
+1358
+00:51:12,470 --> 00:51:12,970
+[laughs]
+
+1359
+00:51:12,970 --> 00:51:15,070
+Keith Murphy: Oh. Well, God, God bless Thomas John.
+
+1360
+00:51:15,650 --> 00:51:17,870
+We hope you're doing okay. [laughs]
+
+1361
+00:51:17,910 --> 00:51:20,790
+Raag Airan: He's doing great. He's, uh, uh, apparently after you get Tommy John, you actually
+
+1362
+00:51:20,810 --> 00:51:21,770
+pitch faster 'cause it's like-
+
+1363
+00:51:21,810 --> 00:51:22,310
+Charles Caskey: Yeah, yeah
+
+1364
+00:51:22,130 --> 00:51:23,350
+Raag Airan: ... a little tauter, you know, that spring.
+
+1365
+00:51:23,630 --> 00:51:24,130
+Yeah.
+
+1366
+00:51:23,850 --> 00:51:25,710
+Charles Caskey: Is it, I mean, uh, do you watch baseball, Raag?
+
+1367
+00:51:25,770 --> 00:51:28,050
+I, I, I feel like surpri- I, I guess I, I guess you have
+
+1368
+00:51:28,090 --> 00:51:29,150
+the SF hat on, so.
+
+1369
+00:51:29,210 --> 00:51:32,970
+Raag Airan: Yeah, yeah, yeah. We go, uh, my, my, my kid is like really into
+
+1370
+00:51:33,010 --> 00:51:33,550
+baseball right now.
+
+1371
+00:51:33,590 --> 00:51:34,330
+Charles Caskey: Oh, cool, cool.
+
+1372
+00:51:34,330 --> 00:51:34,850
+Raag Airan: So we, we do-
+
+1373
+00:51:34,910 --> 00:51:35,410
+Keith Murphy: That's cool
+
+1374
+00:51:35,010 --> 00:51:37,290
+Raag Airan: ... we, we do, uh... It, it's actually nice.
+
+1375
+00:51:37,350 --> 00:51:39,390
+I mean, you know, the... Anyway, that's a side story.
+
+1376
+00:51:39,430 --> 00:51:41,690
+Charles Caskey: Oh, yeah. I'm a, I'm a, I'm a huge Guardians fan, so I, I
+
+1377
+00:51:41,730 --> 00:51:45,190
+watch baseball- Oh ... uh, religiously when, uh, during the season, so.
+
+1378
+00:51:45,530 --> 00:51:46,850
+Raag Airan: Didn't you grow up in H- Guard...
+
+1379
+00:51:46,890 --> 00:51:48,310
+Yeah, you guys are Cleveland Guardians, aren't you?
+
+1380
+00:51:48,350 --> 00:51:49,290
+Charles Caskey: I married into it. I married into it.
+
+1381
+00:51:49,450 --> 00:51:49,950
+Raag Airan: Oh,
+
+1382
+00:51:49,730 --> 00:51:51,950
+Charles Caskey: okay. Uh, yeah, yeah, wife, uh, got me into the Guardians.
+
+1383
+00:51:52,030 --> 00:51:55,070
+Uh, but yeah, they're, you know, loving a Cleveland team is, is a rough
+
+1384
+00:51:55,130 --> 00:51:55,970
+thing is what I'm learning.
+
+1385
+00:51:56,030 --> 00:51:59,710
+Raag Airan: Yeah, yeah. [laughs] Was this like part of the marital, like, you know, vows
+
+1386
+00:51:59,730 --> 00:52:01,450
+or whatever? Like you're gonna have to s- uh-
+
+1387
+00:52:01,530 --> 00:52:03,170
+Charles Caskey: Should, should've been. Should've been. And they...
+
+1388
+00:52:03,170 --> 00:52:06,450
+[laughs]
+
+1389
+00:52:06,470 --> 00:52:07,850
+Keith Murphy: It's real dad chat over here.
+
+1390
+00:52:08,010 --> 00:52:09,450
+Charles Caskey: Oh, yeah. Sorry. [laughs]
+
+1391
+00:52:09,470 --> 00:52:10,570
+Keith Murphy: All these dads. All these dads out here.
+
+1392
+00:52:11,870 --> 00:52:12,450
+Um, hey, listen dads-
+
+1393
+00:52:12,450 --> 00:52:14,390
+Charles Caskey: It, it happens even if you don't have kids, Keith.
+
+1394
+00:52:14,450 --> 00:52:15,270
+You just, you just-
+
+1395
+00:52:15,450 --> 00:52:15,950
+Raag Airan: Yeah, yeah
+
+1396
+00:52:15,810 --> 00:52:17,090
+Charles Caskey: ... get old and... [laughs]
+
+1397
+00:52:17,230 --> 00:52:18,070
+Keith Murphy: Listen baseball dads.
+
+1398
+00:52:18,130 --> 00:52:19,390
+Raag Airan: You at least start liking baseball.
+
+1399
+00:52:19,410 --> 00:52:19,910
+[laughs]
+
+1400
+00:52:19,610 --> 00:52:22,050
+Charles Caskey: Yeah. At least Raag has kids to have an excuse.
+
+1401
+00:52:22,070 --> 00:52:25,450
+Keith Murphy: Guys, I have two more, I have two more topics I wanna get to.
+
+1402
+00:52:25,470 --> 00:52:29,210
+[laughs] And while you guys are dadding off, let me-- So Raag, let's summarize,
+
+1403
+00:52:29,330 --> 00:52:31,310
+I wanna summarize some of your recent findings.
+
+1404
+00:52:31,570 --> 00:52:32,070
+Um-
+
+1405
+00:52:31,730 --> 00:52:32,230
+Raag Airan: Uh-huh
+
+1406
+00:52:31,810 --> 00:52:34,970
+Keith Murphy: ... you, you, and, and just correct me if I'm wrong, if you can,
+
+1407
+00:52:35,050 --> 00:52:40,750
+but first you found that focused ultrasound could improve the mixing of the brain
+
+1408
+00:52:40,770 --> 00:52:45,550
+and the cerebral spinal fluid, but it wasn't actually due to the fluid mechanics.
+
+1409
+00:52:45,650 --> 00:52:47,490
+It was really the cells reacting.
+
+1410
+00:52:48,030 --> 00:52:48,730
+And ultimately-
+
+1411
+00:52:49,050 --> 00:52:49,550
+Raag Airan: Yep
+
+1412
+00:52:49,110 --> 00:52:52,910
+Keith Murphy: ... whatever you find later, we do know that it has some sort of
+
+1413
+00:52:52,950 --> 00:52:56,170
+hormetic benefit for the brain, which is just incredible.
+
+1414
+00:52:56,530 --> 00:52:57,030
+Raag Airan: Yeah.
+
+1415
+00:52:56,550 --> 00:53:01,710
+Keith Murphy: Where do you see this applied to long-term dementia, Alzheimer's, stroke clearance?
+
+1416
+00:53:01,750 --> 00:53:03,630
+Like what, what's your favorite application here?
+
+1417
+00:53:04,090 --> 00:53:08,030
+Raag Airan: All right. So, uh, where we see going with it, um, I mean, this
+
+1418
+00:53:08,090 --> 00:53:12,310
+general action of clearing junk and like lowering the inflammation in the brain could
+
+1419
+00:53:12,350 --> 00:53:16,030
+be applied to a wide variety of, of diseases.
+
+1420
+00:53:16,630 --> 00:53:19,950
+Um, while we did the first, uh, while we did the mouse study in
+
+1421
+00:53:20,350 --> 00:53:24,970
+stroke, for a first in human application, we're going to mild cognitive impairment and,
+
+1422
+00:53:25,550 --> 00:53:29,650
+um, you know, kind of in the Alzheimer's spectrum because that general action, that
+
+1423
+00:53:29,690 --> 00:53:33,690
+general, um, principle, uh, can apply in that setting too.
+
+1424
+00:53:34,130 --> 00:53:37,990
+So that's... And, and the m- part of that, uh, idea is that, you
+
+1425
+00:53:38,030 --> 00:53:41,090
+know, in the stroke setting, I mean, those patients are fairly ill, and if
+
+1426
+00:53:41,130 --> 00:53:44,310
+what we wanna part, you know, evaluate first is the safety and, you know,
+
+1427
+00:53:44,410 --> 00:53:48,090
+tolerability of this protocol, we don't necessarily wanna do that in the acutely ill
+
+1428
+00:53:48,150 --> 00:53:52,830
+setting just yet. So we're gonna do patients who are generally healthy, except they
+
+1429
+00:53:52,870 --> 00:53:54,910
+have mild, you know, cognitive impairment.
+
+1430
+00:53:55,470 --> 00:53:57,430
+And we're gonna be, you know, looking at a bunch of measures to try
+
+1431
+00:53:57,470 --> 00:53:59,850
+to see if we see efficacy, but the real, real question will be the
+
+1432
+00:53:59,890 --> 00:54:01,370
+safety and tolerability of the protocol.
+
+1433
+00:54:01,610 --> 00:54:02,110
+Charles Caskey: Cool.
+
+1434
+00:54:01,730 --> 00:54:05,750
+Keith Murphy: Nice. Okay, my second question... Sorry, Charles, if you had some, but I assume
+
+1435
+00:54:05,810 --> 00:54:07,670
+you didn't 'cause you didn't read Raag's paper.
+
+1436
+00:54:07,790 --> 00:54:08,890
+So I'm gonna take this next one.
+
+1437
+00:54:09,650 --> 00:54:13,670
+Raag, this is a lesson for the viewers, but I find it fun when
+
+1438
+00:54:13,730 --> 00:54:14,770
+you and I talk about it.
+
+1439
+00:54:15,630 --> 00:54:20,170
+The field started with virtually no controls in humans, animals.
+
+1440
+00:54:20,190 --> 00:54:20,690
+Raag Airan: Mm-hmm.
+
+1441
+00:54:20,270 --> 00:54:23,210
+Keith Murphy: They just threw ultrasound in and they said, "Yeah, let's just not turn it
+
+1442
+00:54:23,290 --> 00:54:25,830
+on." But we know that's not good practice anymore.
+
+1443
+00:54:25,930 --> 00:54:26,890
+We're not gonna get into that.
+
+1444
+00:54:27,770 --> 00:54:33,170
+What I like about you, Raag, and whenever we chat is Raag loves control
+
+1445
+00:54:33,390 --> 00:54:38,150
+so much, he even cares about the quality of the focus being conserved.
+
+1446
+00:54:38,670 --> 00:54:43,250
+So Raag, I think, was the first paper ever to say, "Pick your brain
+
+1447
+00:54:43,350 --> 00:54:47,120
+target and Actually, Raag and Tommaso built a steerable array.
+
+1448
+00:54:47,600 --> 00:54:52,280
+So they're steering around in the brain, and to control for the focal target,
+
+1449
+00:54:52,880 --> 00:54:58,120
+they actually reflected that same focus across the orthogonal, so that's the straight projection.
+
+1450
+00:54:58,780 --> 00:55:01,720
+So that not only was it a different brain area, but that the quality
+
+1451
+00:55:01,760 --> 00:55:05,140
+of the focus was identical. That's a next level control, Raag.
+
+1452
+00:55:05,260 --> 00:55:06,560
+I'm just here to congratulate you.
+
+1453
+00:55:06,620 --> 00:55:08,620
+Raag Airan: Oh. [laughs] Thanks. I mean, yeah.
+
+1454
+00:55:08,680 --> 00:55:10,280
+I mean, so I think the, uh...
+
+1455
+00:55:10,560 --> 00:55:15,800
+I mean, definitely controls are very, are, are very important in all this work.
+
+1456
+00:55:15,880 --> 00:55:19,160
+I've, I've been fooled so many times about, "Oh, we see-
+
+1457
+00:55:19,200 --> 00:55:19,700
+Keith Murphy: Haven't we all?
+
+1458
+00:55:19,400 --> 00:55:20,260
+Raag Airan: ... we think we have an effect."
+
+1459
+00:55:20,980 --> 00:55:23,620
+Um, this actually, I mean, this go, does go back to the optogenetics days.
+
+1460
+00:55:23,660 --> 00:55:27,160
+I mean, we saw stuff with just turning on the light, you know?
+
+1461
+00:55:27,460 --> 00:55:28,260
+Keith Murphy: Mm-hmm. Yeah.
+
+1462
+00:55:28,260 --> 00:55:30,180
+Raag Airan: Um, and maybe we're, like, lightly heating the tissue.
+
+1463
+00:55:30,260 --> 00:55:31,940
+I don't know, maybe there's some intrinsic opsins.
+
+1464
+00:55:31,980 --> 00:55:34,420
+There aren't, there, there's melanopsin and stuff like that in the brain.
+
+1465
+00:55:34,980 --> 00:55:38,100
+Mm-hmm. Um, and so, like, uh, yeah.
+
+1466
+00:55:38,160 --> 00:55:41,280
+I mean, we, uh, I mean, in a lot of those papers now, especially
+
+1467
+00:55:41,320 --> 00:55:43,980
+now, you, you have, like, eight different controls for every single study.
+
+1468
+00:55:44,500 --> 00:55:45,000
+Maybe not eight-
+
+1469
+00:55:45,020 --> 00:55:45,520
+Keith Murphy: Wow
+
+1470
+00:55:45,060 --> 00:55:46,180
+Raag Airan: ... but, like, you know, something like that.
+
+1471
+00:55:46,200 --> 00:55:46,700
+Keith Murphy: Yeah, a lot, yeah.
+
+1472
+00:55:46,300 --> 00:55:50,280
+Raag Airan: And I think that's, we're gonna have to infuse the ultrasound community, you know,
+
+1473
+00:55:50,460 --> 00:55:52,660
+uh, with, with that kind of thing.
+
+1474
+00:55:52,700 --> 00:55:53,200
+Keith Murphy: Yeah.
+
+1475
+00:55:52,760 --> 00:55:55,420
+Raag Airan: 'Cause it's very, it's very easy to fool, fool somebody.
+
+1476
+00:55:55,440 --> 00:55:59,320
+Keith Murphy: Ch- Charles, is Raag, is that overkill on Raag's part, or is Raag the
+
+1477
+00:55:59,380 --> 00:56:00,700
+man on ice?
+
+1478
+00:56:00,780 --> 00:56:03,860
+Charles Caskey: No, no, Raag's the man, and, and it's a super important topic.
+
+1479
+00:56:03,920 --> 00:56:04,420
+Keith Murphy: On ice. [laughs]
+
+1480
+00:56:03,940 --> 00:56:10,040
+Charles Caskey: It's always tough to balance exploration with doing all of the controls, is
+
+1481
+00:56:10,160 --> 00:56:14,220
+the, is what I find. It's, it's-- And that's just a fundamental limit.
+
+1482
+00:56:14,300 --> 00:56:18,740
+If you have, uh, an R01 grant, you can only staff a finite number
+
+1483
+00:56:18,780 --> 00:56:22,640
+of people, do a finite number of experiments, and at some point you have
+
+1484
+00:56:22,680 --> 00:56:27,820
+to choose. And y- yeah, it, it, you don't wanna contribute to, to bad
+
+1485
+00:56:27,900 --> 00:56:33,020
+science, uh, in any way, but you also want to move things forward, and
+
+1486
+00:56:33,060 --> 00:56:37,220
+not spend all your time, you know, spinning your wheels on something that may
+
+1487
+00:56:37,280 --> 00:56:40,780
+not be an important control. But yeah, I mean, I, I, yeah, it's a,
+
+1488
+00:56:40,880 --> 00:56:42,840
+it's a, it's an important and tough question.
+
+1489
+00:56:43,620 --> 00:56:44,240
+Raag Airan: Um, and I think the-
+
+1490
+00:56:44,280 --> 00:56:47,300
+Keith Murphy: I'd like to offer, um, Raag, let me do this super quick, but, uh,
+
+1491
+00:56:47,580 --> 00:56:48,240
+and I'll cut this-
+
+1492
+00:56:48,380 --> 00:56:48,880
+Raag Airan: Mm-hmm
+
+1493
+00:56:48,520 --> 00:56:49,420
+Keith Murphy: ... where we overlap for a sec.
+
+1494
+00:56:50,080 --> 00:56:52,980
+Um, a quick piece of advice, you two should agree or disagree.
+
+1495
+00:56:53,260 --> 00:56:56,920
+I think it's good to find something that is a clear phenotype-
+
+1496
+00:56:57,380 --> 00:56:57,880
+Raag Airan: Mm-hmm
+
+1497
+00:56:57,540 --> 00:56:59,720
+Keith Murphy: ... and then go overboard on controls.
+
+1498
+00:56:59,840 --> 00:57:00,340
+Raag Airan: Yeah.
+
+1499
+00:56:59,860 --> 00:57:03,020
+Keith Murphy: I mean, definitely don't start right out the gate with 10 controls if you
+
+1500
+00:57:03,060 --> 00:57:05,020
+don't even know if you'll get an effect in the first place.
+
+1501
+00:57:05,460 --> 00:57:05,960
+Raag Airan: No, I, I think-
+
+1502
+00:57:05,980 --> 00:57:06,480
+Keith Murphy: Yeah
+
+1503
+00:57:06,040 --> 00:57:08,820
+Raag Airan: ... I mean, we could take a cue from, say, the drug literature where,
+
+1504
+00:57:09,200 --> 00:57:12,180
+you know, the phase one study, many of those are single arm, non, you
+
+1505
+00:57:12,200 --> 00:57:14,140
+know, that's not- Mm-hmm ... placebo controlled, et cetera.
+
+1506
+00:57:14,240 --> 00:57:17,400
+Because the point is to evaluate, like, the safety and get a sense of
+
+1507
+00:57:17,420 --> 00:57:18,560
+the efficacy, right?
+
+1508
+00:57:18,640 --> 00:57:19,140
+Charles Caskey: Yeah.
+
+1509
+00:57:18,900 --> 00:57:19,400
+Keith Murphy: Yeah.
+
+1510
+00:57:19,040 --> 00:57:21,640
+Raag Airan: Not necessarily establishing efficacy. You can't do that without a control.
+
+1511
+00:57:22,040 --> 00:57:22,540
+But, like-
+
+1512
+00:57:22,440 --> 00:57:22,940
+Keith Murphy: Mm-hmm
+
+1513
+00:57:22,580 --> 00:57:23,180
+Raag Airan: ... get a sense of it.
+
+1514
+00:57:23,280 --> 00:57:26,420
+You know, you can estimate your effect size so that in the phase two
+
+1515
+00:57:26,480 --> 00:57:28,460
+and in the phase three, you can more establish the...
+
+1516
+00:57:28,960 --> 00:57:29,460
+Yeah.
+
+1517
+00:57:28,980 --> 00:57:31,240
+Charles Caskey: Then you know the numbers you're gonna need for the...
+
+1518
+00:57:31,300 --> 00:57:31,800
+Yeah.
+
+1519
+00:57:31,520 --> 00:57:32,020
+Raag Airan: Yeah.
+
+1520
+00:57:31,600 --> 00:57:32,780
+Charles Caskey: I see. Yeah. Do it-
+
+1521
+00:57:32,920 --> 00:57:33,540
+Raag Airan: 100%.
+
+1522
+00:57:33,740 --> 00:57:34,240
+Charles Caskey: Mm-hmm.
+
+1523
+00:57:33,860 --> 00:57:36,980
+Raag Airan: Yeah. So, you know, phase one, if you will, on the device side.
+
+1524
+00:57:37,020 --> 00:57:39,880
+But that's a... I mean, I have talked to, like, uh, some, like, FDA
+
+1525
+00:57:39,940 --> 00:57:45,300
+folks. I think there's gonna be an increasing, uh, transfer of kind of the
+
+1526
+00:57:45,360 --> 00:57:49,160
+rigor from the drug side to these evaluations on the device side too.
+
+1527
+00:57:49,800 --> 00:57:53,040
+Um, I think, you know, perhaps, uh, you know, not to comment on anything
+
+1528
+00:57:53,100 --> 00:57:56,560
+too specific, but, like, there's been stuff on the device side where they've gotten
+
+1529
+00:57:56,600 --> 00:58:01,120
+approvals, you know, for marketing approvals based off less than controlled data.
+
+1530
+00:58:01,300 --> 00:58:01,860
+[laughs]
+
+1531
+00:58:01,880 --> 00:58:02,380
+Keith Murphy: Mm-hmm.
+
+1532
+00:58:01,940 --> 00:58:04,400
+Raag Airan: And so, uh, [laughs] that, you know, uh...
+
+1533
+00:58:04,780 --> 00:58:07,880
+And I think there is a, uh, for, uh, FDA, we'll see, you know,
+
+1534
+00:58:08,200 --> 00:58:13,160
+how it pans out, where they're gonna be more getting, you know, uh, uh,
+
+1535
+00:58:13,380 --> 00:58:17,260
+bringing in kind of placebo or sham arms and all that stuff for a
+
+1536
+00:58:17,300 --> 00:58:19,240
+lot of these trials to, to do what we can.
+
+1537
+00:58:19,860 --> 00:58:20,360
+Charles Caskey: Yeah.
+
+1538
+00:58:19,900 --> 00:58:20,980
+Raag Airan: And that's gonna definitely be a ch-
+
+1539
+00:58:21,020 --> 00:58:21,520
+Charles Caskey: Well, so that's a cool thing.
+
+1540
+00:58:21,300 --> 00:58:23,980
+Raag Airan: Yeah. So something that we need to come up with, like, standards in ultrasound
+
+1541
+00:58:24,040 --> 00:58:26,260
+about how to do those shams, you know?
+
+1542
+00:58:26,880 --> 00:58:27,380
+Charles Caskey: Yeah.
+
+1543
+00:58:27,060 --> 00:58:27,860
+Raag Airan: Uh, well. Yeah.
+
+1544
+00:58:27,900 --> 00:58:30,860
+Charles Caskey: Can you, uh, may- maybe you can com- if you can comment specifically on
+
+1545
+00:58:30,900 --> 00:58:33,940
+your device, I'd be interested, or your, your work, I'd be interested to know.
+
+1546
+00:58:33,980 --> 00:58:34,480
+Raag Airan: Mm-hmm.
+
+1547
+00:58:34,020 --> 00:58:39,020
+Charles Caskey: But generally, do you consider, uh, and, and does the FDA consider you to
+
+1548
+00:58:39,080 --> 00:58:41,180
+be a device or a drug?
+
+1549
+00:58:41,200 --> 00:58:42,700
+[laughs]
+
+1550
+00:58:42,780 --> 00:58:44,960
+Raag Airan: Oh, man. Well, certainly for the, uh-
+
+1551
+00:58:45,000 --> 00:58:45,500
+Keith Murphy: Keep it brief, Raag. We're running out of time, man.
+
+1552
+00:58:45,400 --> 00:58:49,000
+Charles Caskey: You can, you can speak broadly if that's too much info specific to your
+
+1553
+00:58:49,680 --> 00:58:50,180
+project, but-
+
+1554
+00:58:49,700 --> 00:58:50,560
+Raag Airan: For, for the, the glymphatics and that, and-
+
+1555
+00:58:50,560 --> 00:58:51,680
+Keith Murphy: That's a deep question, Charles
+
+1556
+00:58:51,740 --> 00:58:54,060
+Raag Airan: ... yeah, yeah. For, for the glymphatics thing, I mean, you know, that's just
+
+1557
+00:58:54,080 --> 00:58:55,160
+the ultrasound, so that's a device.
+
+1558
+00:58:55,540 --> 00:58:56,040
+Charles Caskey: That's device.
+
+1559
+00:58:55,700 --> 00:58:56,200
+Raag Airan: That's a device.
+
+1560
+00:58:56,260 --> 00:58:56,920
+Charles Caskey: Yeah. That seems clear.
+
+1561
+00:58:56,940 --> 00:58:57,440
+Keith Murphy: Device.
+
+1562
+00:58:57,100 --> 00:58:57,600
+Charles Caskey: Okay.
+
+1563
+00:58:57,920 --> 00:58:59,480
+Raag Airan: Uh, for the, for the particles- Device ...
+
+1564
+00:58:59,520 --> 00:59:03,500
+and the, like, ketamine delivery and stuff like that, uh, we're being evaluated by
+
+1565
+00:59:03,760 --> 00:59:04,900
+CDER, the drug side.
+
+1566
+00:59:05,440 --> 00:59:05,940
+Charles Caskey: Okay.
+
+1567
+00:59:05,480 --> 00:59:09,120
+Raag Airan: And then, uh, for the device-related components of it, they're bringing in, like, a
+
+1568
+00:59:09,160 --> 00:59:10,620
+consult, if you will, from CDRH.
+
+1569
+00:59:10,760 --> 00:59:12,680
+I mean, you know, then that's, uh...
+
+1570
+00:59:12,780 --> 00:59:15,360
+So when we've had our pre- our pre-subs or whatever with, um-
+
+1571
+00:59:15,480 --> 00:59:15,980
+Charles Caskey: Mm-hmm
+
+1572
+00:59:15,580 --> 00:59:19,100
+Raag Airan: ... CDER, then there's, like, clearly a section that, like, is written by the
+
+1573
+00:59:19,140 --> 00:59:22,340
+CDRH guys, but it's put onto, like, CDER c- uh, CDER letterhead.
+
+1574
+00:59:22,340 --> 00:59:22,880
+[laughs]
+
+1575
+00:59:23,320 --> 00:59:23,820
+Charles Caskey: Mm-hmm.
+
+1576
+00:59:23,460 --> 00:59:23,960
+Keith Murphy: Mm-hmm.
+
+1577
+00:59:23,540 --> 00:59:25,320
+Raag Airan: You know, uh, so that's how that's being handled.
+
+1578
+00:59:25,700 --> 00:59:29,740
+Um, it, you know, the fundamental mechanism of action of our thing is drug.
+
+1579
+00:59:30,200 --> 00:59:31,000
+Charles Caskey: Yeah. Okay.
+
+1580
+00:59:31,120 --> 00:59:31,620
+Raag Airan: You know?
+
+1581
+00:59:31,160 --> 00:59:31,660
+Charles Caskey: So yeah.
+
+1582
+00:59:31,660 --> 00:59:32,160
+Raag Airan: You know? Yeah.
+
+1583
+00:59:32,060 --> 00:59:33,800
+Charles Caskey: Drug is, is a big component then.
+
+1584
+00:59:34,160 --> 00:59:38,340
+Raag Airan: The device is kinda, you know, part of the mechanism for application of the
+
+1585
+00:59:38,380 --> 00:59:42,540
+drug, but the thing, doing the thing to the biology of the human is-
+
+1586
+00:59:42,620 --> 00:59:43,120
+Charles Caskey: Yeah
+
+1587
+00:59:42,760 --> 00:59:43,780
+Raag Airan: ... the drug. Yeah.
+
+1588
+00:59:43,860 --> 00:59:47,000
+Charles Caskey: Yeah. In reading literature, it just seems like there's gonna be more and more
+
+1589
+00:59:47,040 --> 00:59:48,580
+of this, like, in the future.
+
+1590
+00:59:48,880 --> 00:59:49,380
+Raag Airan: Yeah.
+
+1591
+00:59:48,900 --> 00:59:49,400
+Charles Caskey: So-
+
+1592
+00:59:49,040 --> 00:59:49,620
+Raag Airan: Oh, yeah, yeah, yeah
+
+1593
+00:59:49,620 --> 00:59:52,480
+Charles Caskey: ... you unfortunately get to be the person that clears the way for us
+
+1594
+00:59:52,560 --> 00:59:54,060
+[laughs] for the next generation.
+
+1595
+00:59:54,700 --> 00:59:56,360
+Raag Airan: It, it, it, it's all about clearance.
+
+1596
+00:59:56,620 --> 00:59:57,120
+It's all about clearance.
+
+1597
+00:59:57,000 --> 00:59:59,660
+Charles Caskey: It's all about clearance. Clear... [laughs] Yeah, that's what you're doing.
+
+1598
+00:59:59,760 --> 01:00:03,940
+It's all about clear, clear the debris from the brain, clear the w- the
+
+1599
+01:00:03,980 --> 01:00:07,300
+regulatory pathway. [laughs] Yeah. Pave the way-
+
+1600
+01:00:07,340 --> 01:00:07,840
+Raag Airan: Oh, man
+
+1601
+01:00:07,460 --> 01:00:09,100
+Charles Caskey: ... for future researchers. I love it.
+
+1602
+01:00:09,180 --> 01:00:11,020
+This is, this is Raag Airan in a nutshell.
+
+1603
+01:00:11,040 --> 01:00:13,880
+[laughs] All about clearance. All right.
+
+1604
+01:00:14,540 --> 01:00:18,580
+Um, okay, everybody. This is the time of the episode where we tabulate the
+
+1605
+01:00:18,660 --> 01:00:22,660
+FUS wins. We have, uh, we have requested input from the community.
+
+1606
+01:00:22,700 --> 01:00:26,100
+We have received exactly zero submissions for FUS wins-
+
+1607
+01:00:26,600 --> 01:00:27,100
+Keith Murphy: Ah. See
+
+1608
+01:00:26,620 --> 01:00:28,340
+Charles Caskey: ... in the, in, in prior weeks.
+
+1609
+01:00:28,420 --> 01:00:30,720
+Uh, so we had to choose one ourselves.
+
+1610
+01:00:31,080 --> 01:00:35,640
+We, uh, got together, conferred. We placed the winner in an envelope and sent
+
+1611
+01:00:35,680 --> 01:00:39,700
+it to Raag's house, and Raag is gonna do us the honor of, of
+
+1612
+01:00:39,740 --> 01:00:42,600
+announcing our FUS win of the week of December 8th.
+
+1613
+01:00:43,000 --> 01:00:46,020
+Raag, please open the envelope and read us the FUS win.
+
+1614
+01:00:46,560 --> 01:00:50,460
+Raag Airan: Okay. All right, sure. Uh, okay, let me get this, uh, uh, envelope open.
+
+1615
+01:00:50,520 --> 01:00:53,140
+Geez, I mean, did you use some, like, crazy glue on this or something
+
+1616
+01:00:53,180 --> 01:00:54,960
+like that? [laughs] Oh my gosh.
+
+1617
+01:00:55,000 --> 01:00:55,500
+Okay.
+
+1618
+01:00:55,100 --> 01:00:57,040
+Keith Murphy: Charles licked it, licked the stamps himself.
+
+1619
+01:00:57,320 --> 01:01:00,420
+Raag Airan: Yeah. Okay, finally, finally got it open, and- [laughs] ...
+
+1620
+01:01:00,520 --> 01:01:03,460
+just says my, my paper that just came out.
+
+1621
+01:01:03,660 --> 01:01:04,600
+I don't know. Is that-
+
+1622
+01:01:04,880 --> 01:01:08,260
+Charles Caskey: All right, Raag. [clapping]
+
+1623
+01:01:08,300 --> 01:01:08,800
+Keith Murphy: Raag. [clapping]
+
+1624
+01:01:08,580 --> 01:01:09,080
+Charles Caskey: Yay.
+
+1625
+01:01:08,640 --> 01:01:09,440
+Keith Murphy: It was you all along.
+
+1626
+01:01:09,520 --> 01:01:10,080
+Charles Caskey: It was you.
+
+1627
+01:01:10,160 --> 01:01:10,660
+Raag Airan: Okay.
+
+1628
+01:01:10,440 --> 01:01:10,940
+Keith Murphy: It was you the whole time.
+
+1629
+01:01:10,820 --> 01:01:12,200
+Raag Airan: It was the friends we made along the way.
+
+1630
+01:01:12,260 --> 01:01:15,520
+There we go. [laughs]
+
+1631
+01:01:15,600 --> 01:01:16,860
+Keith Murphy: The FUS we made along the way?
+
+1632
+01:01:16,860 --> 01:01:18,520
+Charles Caskey: The paper you were publishing in Nature the whole-
+
+1633
+01:01:18,580 --> 01:01:19,900
+Raag Airan: I've been dying for someone to say it.
+
+1634
+01:01:19,900 --> 01:01:21,760
+[laughs]
+
+1635
+01:01:21,820 --> 01:01:24,540
+Charles Caskey: Thanks everybody for joining us this week on FUS Forward.
+
+1636
+01:01:24,800 --> 01:01:26,620
+We're looking ahead, and I hope you are too.
+
+1637
+01:01:26,680 --> 01:01:27,420
+FUS forward.
+
+1638
+01:01:28,500 --> 01:01:30,720
+Keith Murphy: FUS forward. Raag, I want my microphone back.
+
+1639
+01:01:30,780 --> 01:01:31,280
+I'm done.
+
+1640
+01:01:30,920 --> 01:01:39,360
+Raag Airan: Oh, yeah, absolutely. [laughs]

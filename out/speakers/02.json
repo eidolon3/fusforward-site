@@ -1,0 +1,7297 @@
+{
+ "raw": "02",
+ "label_names": {
+  "speaker_0": "Charles Caskey",
+  "speaker_1": "Keith Murphy"
+ },
+ "label_similarity": {
+  "speaker_0": {
+   "Charles Caskey": 0.8863905072212219,
+   "Intro narrator": 0.04692754149436951,
+   "Keith Murphy": 0.18560874462127686
+  },
+  "speaker_1": {
+   "Charles Caskey": 0.2805728316307068,
+   "Intro narrator": 0.06348765641450882,
+   "Keith Murphy": 0.8619070053100586
+  }
+ },
+ "turns_moved": {
+  "Keith Murphy -> Intro narrator": 2
+ },
+ "talk_min": {
+  "Charles Caskey": 18.7,
+  "Keith Murphy": 14.5,
+  "Intro narrator": 0.2
+ },
+ "low_turns": 23,
+ "turns": [
+  {
+   "start": 0.3,
+   "end": 5.28,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.71,
+   "alt": "Intro narrator",
+   "alt_sim": 0.06
+  },
+  {
+   "start": 5.84,
+   "end": 8.3,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.466,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.103
+  },
+  {
+   "start": 9.78,
+   "end": 10.76,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.158,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.194,
+   "low": 1
+  },
+  {
+   "start": 13.12,
+   "end": 16.56,
+   "label": "speaker_1",
+   "name": "Intro narrator",
+   "sim": 0.714,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.077,
+   "how": "voice"
+  },
+  {
+   "start": 16.6,
+   "end": 22.48,
+   "label": "speaker_1",
+   "name": "Intro narrator",
+   "sim": 0.909,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.079,
+   "how": "voice"
+  },
+  {
+   "start": 23.6,
+   "end": 25.84,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.531,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.145
+  },
+  {
+   "start": 25.94,
+   "end": 28.1,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.588,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.14
+  },
+  {
+   "start": 28.46,
+   "end": 30.56,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.576,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.14
+  },
+  {
+   "start": 31.2,
+   "end": 36.32,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.774,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.226
+  },
+  {
+   "start": 36.94,
+   "end": 39.1,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.722,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.246
+  },
+  {
+   "start": 39.72,
+   "end": 40.28,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 40.86,
+   "end": 43.76,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.731,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.102
+  },
+  {
+   "start": 44.4,
+   "end": 49.82,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.791,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.151
+  },
+  {
+   "start": 49.86,
+   "end": 52.26,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.616,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.182
+  },
+  {
+   "start": 52.34,
+   "end": 52.4,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 52.4,
+   "end": 53.82,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.282,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.174
+  },
+  {
+   "start": 54.56,
+   "end": 54.6,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 54.6,
+   "end": 55.2,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 55.9,
+   "end": 58.88,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.672,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.2
+  },
+  {
+   "start": 59.5,
+   "end": 64.36,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.697,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.153
+  },
+  {
+   "start": 64.98,
+   "end": 69.22,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.722,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.222
+  },
+  {
+   "start": 69.44,
+   "end": 69.74,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 70.28,
+   "end": 73.12,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.748,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.163
+  },
+  {
+   "start": 73.16,
+   "end": 79.9,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.717,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.189
+  },
+  {
+   "start": 80.56,
+   "end": 83.26,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.696,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.246
+  },
+  {
+   "start": 83.92,
+   "end": 90.44,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.758,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.241
+  },
+  {
+   "start": 90.9,
+   "end": 92.02,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.582,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.135
+  },
+  {
+   "start": 92.86,
+   "end": 93.92,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.313,
+   "alt": "Intro narrator",
+   "alt_sim": 0.091
+  },
+  {
+   "start": 94.0,
+   "end": 97.7,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.608,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.122
+  },
+  {
+   "start": 98.32,
+   "end": 99.16,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.345,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.175
+  },
+  {
+   "start": 99.66,
+   "end": 100.68,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.194,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.074,
+   "low": 1
+  },
+  {
+   "start": 100.8,
+   "end": 102.0,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.072,
+   "alt": "Intro narrator",
+   "alt_sim": 0.042,
+   "low": 1
+  },
+  {
+   "start": 102.56,
+   "end": 104.06,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.495,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.143
+  },
+  {
+   "start": 104.14,
+   "end": 107.32,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.689,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.165
+  },
+  {
+   "start": 107.78,
+   "end": 110.04,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.614,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.132
+  },
+  {
+   "start": 110.62,
+   "end": 114.22,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.803,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.244
+  },
+  {
+   "start": 114.96,
+   "end": 115.22,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 116.0,
+   "end": 117.78,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.469,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.179
+  },
+  {
+   "start": 118.26,
+   "end": 118.88,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 118.92,
+   "end": 119.2,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 119.2,
+   "end": 119.7,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 119.72,
+   "end": 120.34,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 120.5,
+   "end": 120.56,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 120.66,
+   "end": 122.84,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.522,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.114
+  },
+  {
+   "start": 123.72,
+   "end": 123.92,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 123.92,
+   "end": 124.22,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 124.74,
+   "end": 129.12,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.747,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.225
+  },
+  {
+   "start": 129.34,
+   "end": 131.96,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.729,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.249
+  },
+  {
+   "start": 132.26,
+   "end": 132.38,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 132.88,
+   "end": 137.16,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.699,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.262
+  },
+  {
+   "start": 137.6,
+   "end": 138.16,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 138.28,
+   "end": 145.46,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.759,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.205
+  },
+  {
+   "start": 146.12,
+   "end": 151.74,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.746,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.238
+  },
+  {
+   "start": 152.48,
+   "end": 156.84,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.694,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.29
+  },
+  {
+   "start": 157.4,
+   "end": 161.02,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.654,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.224
+  },
+  {
+   "start": 161.62,
+   "end": 163.82,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.668,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.194
+  },
+  {
+   "start": 164.44,
+   "end": 168.38,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.66,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.325
+  },
+  {
+   "start": 168.66,
+   "end": 170.44,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.721,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.185
+  },
+  {
+   "start": 171.6,
+   "end": 171.78,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 171.8,
+   "end": 172.02,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 173.1,
+   "end": 174.44,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.411,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.013
+  },
+  {
+   "start": 175.2,
+   "end": 175.52,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 176.36,
+   "end": 177.7,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.502,
+   "alt": "Keith Murphy",
+   "alt_sim": -0.006
+  },
+  {
+   "start": 177.78,
+   "end": 182.22,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.641,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.067
+  },
+  {
+   "start": 182.28,
+   "end": 185.76,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.681,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.098
+  },
+  {
+   "start": 185.82,
+   "end": 190.92,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.792,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.162
+  },
+  {
+   "start": 191.44,
+   "end": 192.82,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.711,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.139
+  },
+  {
+   "start": 193.32,
+   "end": 196.58,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.806,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.184
+  },
+  {
+   "start": 196.64,
+   "end": 198.16,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.621,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.057
+  },
+  {
+   "start": 199.26,
+   "end": 199.7,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 199.72,
+   "end": 201.32,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.557,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.052
+  },
+  {
+   "start": 201.36,
+   "end": 201.52,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 201.54,
+   "end": 202.38,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.245,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.078,
+   "low": 1
+  },
+  {
+   "start": 202.76,
+   "end": 205.56,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.649,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.101
+  },
+  {
+   "start": 206.7,
+   "end": 211.56,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.766,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.331
+  },
+  {
+   "start": 212.24,
+   "end": 216.2,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.684,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.263
+  },
+  {
+   "start": 216.7,
+   "end": 220.08,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.656,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.197
+  },
+  {
+   "start": 220.58,
+   "end": 224.68,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.673,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.253
+  },
+  {
+   "start": 224.76,
+   "end": 225.86,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.561,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.283
+  },
+  {
+   "start": 226.42,
+   "end": 228.52,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.625,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.178
+  },
+  {
+   "start": 229.0,
+   "end": 233.14,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.662,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.263
+  },
+  {
+   "start": 233.8,
+   "end": 236.6,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.678,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.271
+  },
+  {
+   "start": 237.16,
+   "end": 239.22,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.547,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.284
+  },
+  {
+   "start": 239.82,
+   "end": 242.48,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.516,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.161
+  },
+  {
+   "start": 242.74,
+   "end": 244.58,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.51,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.208
+  },
+  {
+   "start": 245.18,
+   "end": 247.76,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.715,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.244
+  },
+  {
+   "start": 249.06,
+   "end": 249.92,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.499,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.176
+  },
+  {
+   "start": 250.66,
+   "end": 251.02,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 251.06,
+   "end": 252.92,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.696,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.192
+  },
+  {
+   "start": 254.36,
+   "end": 259.899,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.618,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.182
+  },
+  {
+   "start": 260.079,
+   "end": 260.26,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 260.279,
+   "end": 261.019,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 261.06,
+   "end": 261.72,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 261.76,
+   "end": 263.18,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.262,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.231
+  },
+  {
+   "start": 263.18,
+   "end": 265.9,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.641,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.253
+  },
+  {
+   "start": 266.44,
+   "end": 268.8,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.646,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.13
+  },
+  {
+   "start": 268.84,
+   "end": 271.78,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.539,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.19
+  },
+  {
+   "start": 273.94,
+   "end": 278.58,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.739,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.19
+  },
+  {
+   "start": 279.12,
+   "end": 279.22,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 280.04,
+   "end": 285.24,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.768,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.1
+  },
+  {
+   "start": 285.8,
+   "end": 287.2,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.608,
+   "alt": "Keith Murphy",
+   "alt_sim": -0.005
+  },
+  {
+   "start": 287.72,
+   "end": 292.86,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.762,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.122
+  },
+  {
+   "start": 293.42,
+   "end": 293.68,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 294.26,
+   "end": 295.36,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.669,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.068
+  },
+  {
+   "start": 295.42,
+   "end": 297.66,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.716,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.138
+  },
+  {
+   "start": 298.1,
+   "end": 300.22,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.625,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.233
+  },
+  {
+   "start": 300.36,
+   "end": 303.56,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.772,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.107
+  },
+  {
+   "start": 303.94,
+   "end": 306.88,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.699,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.215
+  },
+  {
+   "start": 307.48,
+   "end": 314.82,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.811,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.153
+  },
+  {
+   "start": 315.44,
+   "end": 317.52,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.649,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.153
+  },
+  {
+   "start": 318.14,
+   "end": 321.9,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.6,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.182
+  },
+  {
+   "start": 322.88,
+   "end": 326.36,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.748,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.155
+  },
+  {
+   "start": 326.86,
+   "end": 328.9,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.564,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.129
+  },
+  {
+   "start": 328.96,
+   "end": 331.1,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.733,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.179
+  },
+  {
+   "start": 331.16,
+   "end": 333.7,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.784,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.185
+  },
+  {
+   "start": 334.36,
+   "end": 335.48,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.335,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.226
+  },
+  {
+   "start": 335.5,
+   "end": 338.18,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.697,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.105
+  },
+  {
+   "start": 338.54,
+   "end": 345.84,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.68,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.245
+  },
+  {
+   "start": 346.4,
+   "end": 348.74,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.595,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.146
+  },
+  {
+   "start": 349.76,
+   "end": 355.14,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.751,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.223
+  },
+  {
+   "start": 356.36,
+   "end": 359.12,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.595,
+   "alt": "Keith Murphy",
+   "alt_sim": -0.023
+  },
+  {
+   "start": 359.64,
+   "end": 359.82,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 359.82,
+   "end": 363.34,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.697,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.17
+  },
+  {
+   "start": 364.136,
+   "end": 368.736,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.683,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.273
+  },
+  {
+   "start": 369.276,
+   "end": 371.676,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.63,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.229
+  },
+  {
+   "start": 372.256,
+   "end": 376.316,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.563,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.126
+  },
+  {
+   "start": 377.776,
+   "end": 377.936,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 377.976,
+   "end": 380.155,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.45,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.194
+  },
+  {
+   "start": 380.176,
+   "end": 384.156,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.669,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.046
+  },
+  {
+   "start": 384.216,
+   "end": 384.656,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 384.776,
+   "end": 384.936,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 384.976,
+   "end": 385.296,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 385.336,
+   "end": 387.736,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.637,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.169
+  },
+  {
+   "start": 388.276,
+   "end": 389.476,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.519,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.224
+  },
+  {
+   "start": 389.596,
+   "end": 395.116,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.749,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.062
+  },
+  {
+   "start": 395.556,
+   "end": 403.456,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.803,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.115
+  },
+  {
+   "start": 404.316,
+   "end": 405.536,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.486,
+   "alt": "Keith Murphy",
+   "alt_sim": -0.013
+  },
+  {
+   "start": 407.056,
+   "end": 411.476,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.688,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.34
+  },
+  {
+   "start": 411.936,
+   "end": 411.936,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 411.956,
+   "end": 414.896,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.704,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.245
+  },
+  {
+   "start": 415.576,
+   "end": 423.256,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.627,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.269
+  },
+  {
+   "start": 424.016,
+   "end": 429.435,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.725,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.226
+  },
+  {
+   "start": 430.036,
+   "end": 434.036,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.7,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.184
+  },
+  {
+   "start": 435.096,
+   "end": 436.516,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.291,
+   "alt": "Keith Murphy",
+   "alt_sim": -0.01
+  },
+  {
+   "start": 437.016,
+   "end": 441.916,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.676,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.077
+  },
+  {
+   "start": 442.916,
+   "end": 446.116,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.582,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.065
+  },
+  {
+   "start": 446.696,
+   "end": 450.516,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.715,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.123
+  },
+  {
+   "start": 451.036,
+   "end": 455.236,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.73,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.049
+  },
+  {
+   "start": 455.816,
+   "end": 457.876,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.591,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.097
+  },
+  {
+   "start": 458.496,
+   "end": 458.956,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 459.516,
+   "end": 461.176,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.55,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.065
+  },
+  {
+   "start": 461.196,
+   "end": 464.916,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.722,
+   "alt": "Keith Murphy",
+   "alt_sim": -0.033
+  },
+  {
+   "start": 465.416,
+   "end": 466.496,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.306,
+   "alt": "Keith Murphy",
+   "alt_sim": -0.037
+  },
+  {
+   "start": 467.096,
+   "end": 468.476,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.614,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.193
+  },
+  {
+   "start": 468.916,
+   "end": 481.916,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.811,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.167
+  },
+  {
+   "start": 482.576,
+   "end": 483.196,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 484.076,
+   "end": 487.116,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.507,
+   "alt": "Keith Murphy",
+   "alt_sim": -0.007
+  },
+  {
+   "start": 487.656,
+   "end": 488.676,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.366,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.168
+  },
+  {
+   "start": 489.256,
+   "end": 496.736,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.696,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.117
+  },
+  {
+   "start": 497.396,
+   "end": 506.976,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.822,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.198
+  },
+  {
+   "start": 507.516,
+   "end": 508.516,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.531,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.127
+  },
+  {
+   "start": 509.276,
+   "end": 514.656,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.736,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.15
+  },
+  {
+   "start": 515.156,
+   "end": 515.656,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 516.356,
+   "end": 519.976,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.692,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.184
+  },
+  {
+   "start": 520.036,
+   "end": 524.376,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.74,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.219
+  },
+  {
+   "start": 524.736,
+   "end": 530.976,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.749,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.229
+  },
+  {
+   "start": 531.216,
+   "end": 533.716,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.614,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.107
+  },
+  {
+   "start": 534.736,
+   "end": 535.756,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.411,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.25
+  },
+  {
+   "start": 536.176,
+   "end": 536.336,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 536.396,
+   "end": 539.616,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.675,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.191
+  },
+  {
+   "start": 540.316,
+   "end": 544.256,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.689,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.3
+  },
+  {
+   "start": 544.976,
+   "end": 546.536,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.599,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.126
+  },
+  {
+   "start": 546.936,
+   "end": 549.116,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.541,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.256
+  },
+  {
+   "start": 549.456,
+   "end": 549.576,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 549.616,
+   "end": 554.876,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.705,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.181
+  },
+  {
+   "start": 554.896,
+   "end": 555.936,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.257,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.089
+  },
+  {
+   "start": 555.936,
+   "end": 556.336,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 556.336,
+   "end": 561.236,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.624,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.152
+  },
+  {
+   "start": 561.696,
+   "end": 562.676,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.632,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.176
+  },
+  {
+   "start": 563.416,
+   "end": 565.016,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.604,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.153
+  },
+  {
+   "start": 565.656,
+   "end": 569.296,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.583,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.061
+  },
+  {
+   "start": 569.956,
+   "end": 572.636,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.649,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.142
+  },
+  {
+   "start": 573.136,
+   "end": 577.296,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.704,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.136
+  },
+  {
+   "start": 577.756,
+   "end": 579.796,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.685,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.026
+  },
+  {
+   "start": 580.216,
+   "end": 581.876,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.622,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.055
+  },
+  {
+   "start": 582.176,
+   "end": 587.056,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.769,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.241
+  },
+  {
+   "start": 587.656,
+   "end": 589.336,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.611,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.092
+  },
+  {
+   "start": 589.996,
+   "end": 593.076,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.701,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.126
+  },
+  {
+   "start": 593.156,
+   "end": 596.056,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.721,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.134
+  },
+  {
+   "start": 596.636,
+   "end": 598.676,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.616,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.034
+  },
+  {
+   "start": 598.776,
+   "end": 602.016,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.669,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.063
+  },
+  {
+   "start": 602.476,
+   "end": 606.536,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.698,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.175
+  },
+  {
+   "start": 606.596,
+   "end": 611.996,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.753,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.17
+  },
+  {
+   "start": 612.076,
+   "end": 614.356,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.727,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.198
+  },
+  {
+   "start": 614.956,
+   "end": 618.516,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.713,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.081
+  },
+  {
+   "start": 619.016,
+   "end": 621.516,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.757,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.076
+  },
+  {
+   "start": 622.036,
+   "end": 623.875,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.52,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.146
+  },
+  {
+   "start": 624.495,
+   "end": 626.416,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.625,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.102
+  },
+  {
+   "start": 627.216,
+   "end": 633.376,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.768,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.189
+  },
+  {
+   "start": 633.776,
+   "end": 633.976,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 633.976,
+   "end": 634.216,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 634.716,
+   "end": 639.036,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.674,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.091
+  },
+  {
+   "start": 639.816,
+   "end": 642.816,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.669,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.217
+  },
+  {
+   "start": 643.356,
+   "end": 648.296,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.727,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.125
+  },
+  {
+   "start": 648.476,
+   "end": 650.576,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.656,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.149
+  },
+  {
+   "start": 651.176,
+   "end": 651.756,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 652.276,
+   "end": 654.296,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.678,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.071
+  },
+  {
+   "start": 655.056,
+   "end": 662.696,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.826,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.247
+  },
+  {
+   "start": 663.236,
+   "end": 668.036,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.694,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.053
+  },
+  {
+   "start": 668.616,
+   "end": 671.956,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.733,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.138
+  },
+  {
+   "start": 672.576,
+   "end": 675.036,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.559,
+   "alt": "Keith Murphy",
+   "alt_sim": -0.035
+  },
+  {
+   "start": 675.716,
+   "end": 679.816,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.797,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.198
+  },
+  {
+   "start": 680.436,
+   "end": 683.976,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.698,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.175
+  },
+  {
+   "start": 684.636,
+   "end": 687.916,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.763,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.254
+  },
+  {
+   "start": 688.956,
+   "end": 690.096,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.424,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.021
+  },
+  {
+   "start": 690.836,
+   "end": 694.576,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.589,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.095
+  },
+  {
+   "start": 695.316,
+   "end": 697.976,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.668,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.199
+  },
+  {
+   "start": 698.576,
+   "end": 701.056,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.708,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.274
+  },
+  {
+   "start": 701.876,
+   "end": 703.796,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.615,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.234
+  },
+  {
+   "start": 703.816,
+   "end": 704.096,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 706.556,
+   "end": 710.096,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.732,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.277
+  },
+  {
+   "start": 710.676,
+   "end": 715.416,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.677,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.244
+  },
+  {
+   "start": 715.936,
+   "end": 716.856,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.644,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.158
+  },
+  {
+   "start": 717.396,
+   "end": 721.796,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.699,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.288
+  },
+  {
+   "start": 722.236,
+   "end": 725.836,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.631,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.286
+  },
+  {
+   "start": 726.456,
+   "end": 729.076,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.601,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.24
+  },
+  {
+   "start": 729.596,
+   "end": 734.556,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.739,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.264
+  },
+  {
+   "start": 735.412,
+   "end": 742.012,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.756,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.294
+  },
+  {
+   "start": 742.172,
+   "end": 745.552,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.592,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.156
+  },
+  {
+   "start": 746.292,
+   "end": 746.392,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 746.452,
+   "end": 750.292,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.696,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.252
+  },
+  {
+   "start": 750.952,
+   "end": 753.252,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.651,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.279
+  },
+  {
+   "start": 753.772,
+   "end": 758.132,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.761,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.241
+  },
+  {
+   "start": 758.272,
+   "end": 759.272,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.565,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.087
+  },
+  {
+   "start": 759.892,
+   "end": 761.432,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.611,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.233
+  },
+  {
+   "start": 761.892,
+   "end": 763.832,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.397,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.056
+  },
+  {
+   "start": 764.712,
+   "end": 765.972,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.493,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.102
+  },
+  {
+   "start": 766.512,
+   "end": 767.012,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 768.652,
+   "end": 773.712,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.638,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.239
+  },
+  {
+   "start": 774.252,
+   "end": 777.692,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.762,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.235
+  },
+  {
+   "start": 778.672,
+   "end": 780.312,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.458,
+   "alt": "Charles Caskey",
+   "alt_sim": -0.056
+  },
+  {
+   "start": 781.332,
+   "end": 786.012,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.717,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.151
+  },
+  {
+   "start": 786.732,
+   "end": 789.252,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.711,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.146
+  },
+  {
+   "start": 789.352,
+   "end": 789.612,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 789.692,
+   "end": 789.932,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 790.492,
+   "end": 792.472,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.648,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.062
+  },
+  {
+   "start": 792.772,
+   "end": 795.292,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.729,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.123
+  },
+  {
+   "start": 795.692,
+   "end": 797.632,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.566,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.134
+  },
+  {
+   "start": 797.812,
+   "end": 799.552,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.43,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.164
+  },
+  {
+   "start": 799.591,
+   "end": 803.092,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.554,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.277
+  },
+  {
+   "start": 803.112,
+   "end": 803.612,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 803.652,
+   "end": 804.672,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.529,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.04
+  },
+  {
+   "start": 805.272,
+   "end": 805.432,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 805.532,
+   "end": 805.652,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 806.192,
+   "end": 809.832,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.738,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.098
+  },
+  {
+   "start": 809.932,
+   "end": 812.032,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.697,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.188
+  },
+  {
+   "start": 812.512,
+   "end": 814.072,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.679,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.138
+  },
+  {
+   "start": 814.452,
+   "end": 818.052,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.714,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.128
+  },
+  {
+   "start": 818.692,
+   "end": 826.432,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.802,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.233
+  },
+  {
+   "start": 827.192,
+   "end": 830.992,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.708,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.161
+  },
+  {
+   "start": 831.672,
+   "end": 832.172,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 833.172,
+   "end": 842.512,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.807,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.18
+  },
+  {
+   "start": 842.692,
+   "end": 843.052,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 843.092,
+   "end": 843.472,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 843.992,
+   "end": 844.752,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 845.452,
+   "end": 851.852,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.778,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.22
+  },
+  {
+   "start": 852.032,
+   "end": 852.212,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 852.292,
+   "end": 852.972,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 853.712,
+   "end": 857.112,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.826,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.232
+  },
+  {
+   "start": 857.672,
+   "end": 860.152,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.766,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.185
+  },
+  {
+   "start": 860.672,
+   "end": 863.672,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.744,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.193
+  },
+  {
+   "start": 864.332,
+   "end": 870.572,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.802,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.155
+  },
+  {
+   "start": 870.692,
+   "end": 871.532,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.212,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.124,
+   "low": 1
+  },
+  {
+   "start": 871.632,
+   "end": 871.632,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 871.652,
+   "end": 873.172,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.698,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.196
+  },
+  {
+   "start": 874.112,
+   "end": 874.672,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 874.692,
+   "end": 876.492,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.535,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.171
+  },
+  {
+   "start": 877.172,
+   "end": 879.672,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.66,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.261
+  },
+  {
+   "start": 880.612,
+   "end": 880.632,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 880.672,
+   "end": 883.232,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.657,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.156
+  },
+  {
+   "start": 884.012,
+   "end": 884.892,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.482,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.14
+  },
+  {
+   "start": 885.152,
+   "end": 885.152,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 885.972,
+   "end": 887.772,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.534,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.172
+  },
+  {
+   "start": 888.252,
+   "end": 890.452,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.715,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.208
+  },
+  {
+   "start": 890.612,
+   "end": 893.052,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.655,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.243
+  },
+  {
+   "start": 893.572,
+   "end": 896.152,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.566,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.364
+  },
+  {
+   "start": 896.732,
+   "end": 899.712,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.742,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.244
+  },
+  {
+   "start": 900.332,
+   "end": 900.692,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 900.692,
+   "end": 902.932,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.67,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.274
+  },
+  {
+   "start": 903.492,
+   "end": 903.712,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 903.752,
+   "end": 906.232,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.741,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.204
+  },
+  {
+   "start": 906.992,
+   "end": 909.132,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.581,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.273
+  },
+  {
+   "start": 909.772,
+   "end": 910.492,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 911.412,
+   "end": 911.912,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 912.572,
+   "end": 915.592,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.591,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.035
+  },
+  {
+   "start": 916.572,
+   "end": 917.412,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.374,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.001
+  },
+  {
+   "start": 917.912,
+   "end": 921.352,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.72,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.101
+  },
+  {
+   "start": 921.392,
+   "end": 926.232,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.797,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.258
+  },
+  {
+   "start": 926.312,
+   "end": 926.512,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 926.512,
+   "end": 926.512,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 927.012,
+   "end": 927.132,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 927.132,
+   "end": 928.892,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.467,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.05
+  },
+  {
+   "start": 928.972,
+   "end": 928.972,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 928.992,
+   "end": 929.812,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.324,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.029
+  },
+  {
+   "start": 930.332,
+   "end": 938.732,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.757,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.188
+  },
+  {
+   "start": 939.512,
+   "end": 940.372,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.357,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.188
+  },
+  {
+   "start": 940.452,
+   "end": 940.872,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 942.032,
+   "end": 943.112,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.353,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.228
+  },
+  {
+   "start": 943.272,
+   "end": 944.932,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.49,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.277
+  },
+  {
+   "start": 945.592,
+   "end": 946.012,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 946.112,
+   "end": 946.772,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 946.812,
+   "end": 948.192,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.677,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.163
+  },
+  {
+   "start": 948.232,
+   "end": 948.612,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 948.612,
+   "end": 950.052,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.513,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.205
+  },
+  {
+   "start": 950.052,
+   "end": 952.892,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.691,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.132
+  },
+  {
+   "start": 953.772,
+   "end": 955.152,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.344,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.123
+  },
+  {
+   "start": 955.212,
+   "end": 956.532,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.417,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.07
+  },
+  {
+   "start": 956.672,
+   "end": 956.952,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 957.532,
+   "end": 957.592,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 957.612,
+   "end": 959.252,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.065,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.112,
+   "low": 1
+  },
+  {
+   "start": 959.292,
+   "end": 960.732,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.448,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.179
+  },
+  {
+   "start": 961.672,
+   "end": 961.752,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 961.792,
+   "end": 962.432,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 962.572,
+   "end": 964.432,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.555,
+   "alt": "Keith Murphy",
+   "alt_sim": -0.017
+  },
+  {
+   "start": 964.472,
+   "end": 965.432,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.302,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.108
+  },
+  {
+   "start": 965.492,
+   "end": 966.332,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.26,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.025
+  },
+  {
+   "start": 966.332,
+   "end": 968.872,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.763,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.093
+  },
+  {
+   "start": 969.032,
+   "end": 971.532,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.669,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.206
+  },
+  {
+   "start": 971.772,
+   "end": 973.952,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.74,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.235
+  },
+  {
+   "start": 974.572,
+   "end": 975.612,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.569,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.095
+  },
+  {
+   "start": 976.352,
+   "end": 982.232,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.796,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.184
+  },
+  {
+   "start": 982.812,
+   "end": 987.372,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.671,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.245
+  },
+  {
+   "start": 988.052,
+   "end": 992.032,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.751,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.203
+  },
+  {
+   "start": 992.592,
+   "end": 994.152,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.597,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.274
+  },
+  {
+   "start": 994.912,
+   "end": 994.992,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 995.272,
+   "end": 995.291,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 995.312,
+   "end": 998.912,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.795,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.181
+  },
+  {
+   "start": 1000.312,
+   "end": 1001.512,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.496,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.304
+  },
+  {
+   "start": 1001.832,
+   "end": 1001.932,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1002.452,
+   "end": 1002.652,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1003.272,
+   "end": 1005.272,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.546,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.125
+  },
+  {
+   "start": 1007.352,
+   "end": 1007.772,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1008.292,
+   "end": 1009.432,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.322,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.024
+  },
+  {
+   "start": 1009.452,
+   "end": 1009.592,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1009.592,
+   "end": 1011.212,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.441,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.01
+  },
+  {
+   "start": 1011.572,
+   "end": 1013.852,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.557,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.322
+  },
+  {
+   "start": 1014.392,
+   "end": 1015.552,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.205,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.252,
+   "low": 1
+  },
+  {
+   "start": 1015.552,
+   "end": 1017.072,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.176,
+   "alt": "Charles Caskey",
+   "alt_sim": -0.047,
+   "low": 1
+  },
+  {
+   "start": 1017.392,
+   "end": 1017.712,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1017.812,
+   "end": 1018.692,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.177,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.069,
+   "low": 1
+  },
+  {
+   "start": 1022.312,
+   "end": 1022.452,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1022.512,
+   "end": 1026.872,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.662,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.164
+  },
+  {
+   "start": 1027.272,
+   "end": 1027.652,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1027.772,
+   "end": 1027.912,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1027.912,
+   "end": 1033.012,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.717,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.154
+  },
+  {
+   "start": 1033.532,
+   "end": 1038.252,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.632,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.107
+  },
+  {
+   "start": 1038.752,
+   "end": 1040.252,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.664,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.183
+  },
+  {
+   "start": 1041.132,
+   "end": 1044.932,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.723,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.202
+  },
+  {
+   "start": 1045.512,
+   "end": 1045.672,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1045.692,
+   "end": 1048.992,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.623,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.195
+  },
+  {
+   "start": 1049.032,
+   "end": 1051.032,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.676,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.036
+  },
+  {
+   "start": 1051.052,
+   "end": 1057.292,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.761,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.228
+  },
+  {
+   "start": 1057.472,
+   "end": 1057.472,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1057.472,
+   "end": 1062.292,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.832,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.203
+  },
+  {
+   "start": 1062.352,
+   "end": 1062.352,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1062.352,
+   "end": 1063.772,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.623,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.058
+  },
+  {
+   "start": 1064.392,
+   "end": 1064.512,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1065.052,
+   "end": 1066.732,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.609,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.285
+  },
+  {
+   "start": 1067.192,
+   "end": 1070.112,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.62,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.161
+  },
+  {
+   "start": 1070.292,
+   "end": 1071.672,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.454,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.143
+  },
+  {
+   "start": 1072.132,
+   "end": 1073.272,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.594,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.138
+  },
+  {
+   "start": 1073.312,
+   "end": 1074.892,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.566,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.198
+  },
+  {
+   "start": 1074.912,
+   "end": 1075.472,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1076.132,
+   "end": 1076.732,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1077.252,
+   "end": 1078.832,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.599,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.17
+  },
+  {
+   "start": 1080.132,
+   "end": 1080.752,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1081.412,
+   "end": 1081.812,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1081.812,
+   "end": 1082.132,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1082.192,
+   "end": 1082.832,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1083.712,
+   "end": 1084.532,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.29,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.106
+  },
+  {
+   "start": 1085.052,
+   "end": 1087.252,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.767,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.147
+  },
+  {
+   "start": 1087.892,
+   "end": 1093.092,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.831,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.282
+  },
+  {
+   "start": 1093.692,
+   "end": 1093.892,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1094.452,
+   "end": 1097.612,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.736,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.123
+  },
+  {
+   "start": 1097.772,
+   "end": 1102.032,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.777,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.2
+  },
+  {
+   "start": 1102.112,
+   "end": 1102.912,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1103.788,
+   "end": 1104.528,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1105.108,
+   "end": 1105.528,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1105.628,
+   "end": 1106.428,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.192,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.051,
+   "low": 1
+  },
+  {
+   "start": 1106.448,
+   "end": 1110.568,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.649,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.197
+  },
+  {
+   "start": 1110.648,
+   "end": 1111.948,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.512,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.105
+  },
+  {
+   "start": 1112.508,
+   "end": 1117.928,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.68,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.172
+  },
+  {
+   "start": 1118.508,
+   "end": 1118.828,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1119.407,
+   "end": 1121.028,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.47,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.164
+  },
+  {
+   "start": 1121.748,
+   "end": 1125.048,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.701,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.163
+  },
+  {
+   "start": 1125.808,
+   "end": 1129.188,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.803,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.169
+  },
+  {
+   "start": 1129.268,
+   "end": 1131.768,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.714,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.084
+  },
+  {
+   "start": 1132.768,
+   "end": 1134.788,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.71,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.182
+  },
+  {
+   "start": 1135.528,
+   "end": 1137.668,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.669,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.194
+  },
+  {
+   "start": 1138.228,
+   "end": 1138.408,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1139.388,
+   "end": 1139.868,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1139.908,
+   "end": 1143.988,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.738,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.247
+  },
+  {
+   "start": 1144.848,
+   "end": 1144.848,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1144.888,
+   "end": 1148.828,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.685,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.264
+  },
+  {
+   "start": 1149.468,
+   "end": 1151.928,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.517,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.175
+  },
+  {
+   "start": 1152.148,
+   "end": 1152.468,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1152.468,
+   "end": 1153.268,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1153.888,
+   "end": 1159.948,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.703,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.177
+  },
+  {
+   "start": 1160.728,
+   "end": 1164.788,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.639,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.209
+  },
+  {
+   "start": 1165.288,
+   "end": 1165.888,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1166.688,
+   "end": 1169.708,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.747,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.223
+  },
+  {
+   "start": 1170.788,
+   "end": 1171.628,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.219,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.037,
+   "low": 1
+  },
+  {
+   "start": 1172.268,
+   "end": 1172.608,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1173.668,
+   "end": 1177.048,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.619,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.043
+  },
+  {
+   "start": 1177.108,
+   "end": 1177.188,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1177.228,
+   "end": 1178.228,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.481,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.094
+  },
+  {
+   "start": 1178.508,
+   "end": 1178.668,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1178.688,
+   "end": 1179.408,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1180.028,
+   "end": 1180.668,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1181.388,
+   "end": 1183.248,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.714,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.234
+  },
+  {
+   "start": 1183.768,
+   "end": 1184.348,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1184.948,
+   "end": 1190.048,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.723,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.274
+  },
+  {
+   "start": 1191.148,
+   "end": 1193.948,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.511,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.207
+  },
+  {
+   "start": 1194.048,
+   "end": 1194.048,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1194.068,
+   "end": 1194.468,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1194.708,
+   "end": 1195.228,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1195.528,
+   "end": 1195.528,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1195.548,
+   "end": 1195.548,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1195.548,
+   "end": 1199.008,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.746,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.182
+  },
+  {
+   "start": 1199.708,
+   "end": 1203.588,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.773,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.284
+  },
+  {
+   "start": 1204.168,
+   "end": 1205.068,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.413,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.103
+  },
+  {
+   "start": 1205.528,
+   "end": 1205.768,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1205.768,
+   "end": 1209.088,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.765,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.217
+  },
+  {
+   "start": 1209.748,
+   "end": 1210.068,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1210.588,
+   "end": 1213.388,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.686,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.078
+  },
+  {
+   "start": 1213.928,
+   "end": 1223.088,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.831,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.206
+  },
+  {
+   "start": 1223.748,
+   "end": 1224.028,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1224.888,
+   "end": 1224.948,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1224.948,
+   "end": 1227.248,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.678,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.253
+  },
+  {
+   "start": 1228.908,
+   "end": 1229.428,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1229.468,
+   "end": 1231.288,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.616,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.103
+  },
+  {
+   "start": 1231.748,
+   "end": 1231.808,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1231.827,
+   "end": 1235.268,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.724,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.341
+  },
+  {
+   "start": 1236.288,
+   "end": 1236.528,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1237.088,
+   "end": 1242.108,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.706,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.246
+  },
+  {
+   "start": 1242.888,
+   "end": 1244.308,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.56,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.286
+  },
+  {
+   "start": 1245.028,
+   "end": 1253.028,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.774,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.204
+  },
+  {
+   "start": 1253.528,
+   "end": 1256.228,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.612,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.161
+  },
+  {
+   "start": 1256.888,
+   "end": 1260.168,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.657,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.135
+  },
+  {
+   "start": 1260.768,
+   "end": 1264.728,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.71,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.148
+  },
+  {
+   "start": 1265.208,
+   "end": 1266.408,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.469,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.274
+  },
+  {
+   "start": 1266.888,
+   "end": 1270.848,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.719,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.258
+  },
+  {
+   "start": 1270.968,
+   "end": 1273.508,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.679,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.19
+  },
+  {
+   "start": 1273.808,
+   "end": 1276.888,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.723,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.249
+  },
+  {
+   "start": 1277.488,
+   "end": 1278.888,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.599,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.113
+  },
+  {
+   "start": 1279.068,
+   "end": 1281.568,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.662,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.23
+  },
+  {
+   "start": 1282.128,
+   "end": 1284.288,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.581,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.183
+  },
+  {
+   "start": 1284.888,
+   "end": 1288.208,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.742,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.217
+  },
+  {
+   "start": 1288.748,
+   "end": 1291.788,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.766,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.246
+  },
+  {
+   "start": 1292.288,
+   "end": 1295.948,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.689,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.227
+  },
+  {
+   "start": 1296.368,
+   "end": 1296.368,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1296.388,
+   "end": 1300.348,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.71,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.275
+  },
+  {
+   "start": 1301.208,
+   "end": 1304.788,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.725,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.271
+  },
+  {
+   "start": 1305.128,
+   "end": 1310.048,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.72,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.295
+  },
+  {
+   "start": 1310.708,
+   "end": 1314.548,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.488,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.098
+  },
+  {
+   "start": 1314.668,
+   "end": 1317.568,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.658,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.191
+  },
+  {
+   "start": 1318.248,
+   "end": 1321.508,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.671,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.023
+  },
+  {
+   "start": 1322.188,
+   "end": 1323.488,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.527,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.135
+  },
+  {
+   "start": 1324.128,
+   "end": 1329.848,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.747,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.082
+  },
+  {
+   "start": 1330.408,
+   "end": 1332.388,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.555,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.088
+  },
+  {
+   "start": 1333.228,
+   "end": 1334.528,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.561,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.201
+  },
+  {
+   "start": 1335.028,
+   "end": 1336.228,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.479,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.035
+  },
+  {
+   "start": 1336.788,
+   "end": 1336.908,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1337.148,
+   "end": 1337.168,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1337.228,
+   "end": 1339.928,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.684,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.195
+  },
+  {
+   "start": 1340.448,
+   "end": 1344.328,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.734,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.204
+  },
+  {
+   "start": 1344.948,
+   "end": 1345.128,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1345.728,
+   "end": 1347.248,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.687,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.103
+  },
+  {
+   "start": 1347.968,
+   "end": 1349.468,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.432,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.026
+  },
+  {
+   "start": 1349.508,
+   "end": 1354.288,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.7,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.14
+  },
+  {
+   "start": 1354.908,
+   "end": 1356.248,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.511,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.069
+  },
+  {
+   "start": 1357.188,
+   "end": 1361.267,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.663,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.199
+  },
+  {
+   "start": 1361.308,
+   "end": 1365.168,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.703,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.322
+  },
+  {
+   "start": 1365.688,
+   "end": 1369.448,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.696,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.18
+  },
+  {
+   "start": 1369.748,
+   "end": 1370.228,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1370.288,
+   "end": 1372.008,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.62,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.19
+  },
+  {
+   "start": 1372.568,
+   "end": 1374.168,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.489,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.028
+  },
+  {
+   "start": 1374.688,
+   "end": 1377.548,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.663,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.212
+  },
+  {
+   "start": 1378.108,
+   "end": 1381.788,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.649,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.16
+  },
+  {
+   "start": 1382.628,
+   "end": 1386.048,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.699,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.308
+  },
+  {
+   "start": 1386.688,
+   "end": 1388.988,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.608,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.254
+  },
+  {
+   "start": 1389.508,
+   "end": 1391.248,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.674,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.268
+  },
+  {
+   "start": 1391.848,
+   "end": 1393.388,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.654,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.227
+  },
+  {
+   "start": 1394.068,
+   "end": 1394.608,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1394.628,
+   "end": 1398.508,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.741,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.083
+  },
+  {
+   "start": 1399.108,
+   "end": 1399.368,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1400.268,
+   "end": 1403.568,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.572,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.06
+  },
+  {
+   "start": 1404.208,
+   "end": 1407.368,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.657,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.137
+  },
+  {
+   "start": 1408.148,
+   "end": 1418.028,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.801,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.144
+  },
+  {
+   "start": 1418.628,
+   "end": 1426.608,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.756,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.132
+  },
+  {
+   "start": 1427.108,
+   "end": 1427.848,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1428.468,
+   "end": 1433.248,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.721,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.115
+  },
+  {
+   "start": 1433.288,
+   "end": 1433.388,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1433.388,
+   "end": 1437.168,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.747,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.152
+  },
+  {
+   "start": 1438.328,
+   "end": 1443.508,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.772,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.196
+  },
+  {
+   "start": 1444.168,
+   "end": 1446.708,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.627,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.155
+  },
+  {
+   "start": 1447.428,
+   "end": 1452.888,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.762,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.109
+  },
+  {
+   "start": 1453.808,
+   "end": 1462.808,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.78,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.279
+  },
+  {
+   "start": 1463.348,
+   "end": 1469.648,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.798,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.232
+  },
+  {
+   "start": 1470.128,
+   "end": 1470.668,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1470.668,
+   "end": 1474.368,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.765,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.197
+  },
+  {
+   "start": 1474.988,
+   "end": 1478.028,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.732,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.17
+  },
+  {
+   "start": 1479.108,
+   "end": 1481.848,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.627,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.277
+  },
+  {
+   "start": 1481.868,
+   "end": 1481.868,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1481.888,
+   "end": 1482.628,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1483.448,
+   "end": 1487.528,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.663,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.111
+  },
+  {
+   "start": 1488.108,
+   "end": 1489.948,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.659,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.141
+  },
+  {
+   "start": 1490.048,
+   "end": 1490.228,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1490.228,
+   "end": 1490.408,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1491.028,
+   "end": 1496.408,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.727,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.288
+  },
+  {
+   "start": 1497.228,
+   "end": 1503.308,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.692,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.306
+  },
+  {
+   "start": 1503.908,
+   "end": 1504.828,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.605,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.067
+  },
+  {
+   "start": 1505.408,
+   "end": 1508.648,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.751,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.255
+  },
+  {
+   "start": 1509.328,
+   "end": 1521.088,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.829,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.231
+  },
+  {
+   "start": 1521.368,
+   "end": 1521.368,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1521.368,
+   "end": 1523.048,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.663,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.189
+  },
+  {
+   "start": 1523.708,
+   "end": 1527.168,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.755,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.127
+  },
+  {
+   "start": 1527.748,
+   "end": 1529.848,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.737,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.067
+  },
+  {
+   "start": 1529.948,
+   "end": 1538.788,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.808,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.15
+  },
+  {
+   "start": 1539.388,
+   "end": 1539.648,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1539.728,
+   "end": 1539.728,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1539.728,
+   "end": 1541.728,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.685,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.234
+  },
+  {
+   "start": 1542.508,
+   "end": 1542.748,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1543.388,
+   "end": 1546.648,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.755,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.165
+  },
+  {
+   "start": 1546.748,
+   "end": 1553.108,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.72,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.092
+  },
+  {
+   "start": 1553.748,
+   "end": 1559.788,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.768,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.183
+  },
+  {
+   "start": 1560.648,
+   "end": 1564.068,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.725,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.205
+  },
+  {
+   "start": 1564.708,
+   "end": 1569.688,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.754,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.18
+  },
+  {
+   "start": 1569.748,
+   "end": 1571.288,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.602,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.223
+  },
+  {
+   "start": 1571.688,
+   "end": 1574.888,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.708,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.146
+  },
+  {
+   "start": 1575.648,
+   "end": 1575.868,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1576.388,
+   "end": 1577.308,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.449,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.008
+  },
+  {
+   "start": 1578.008,
+   "end": 1578.408,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1579.028,
+   "end": 1580.288,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.418,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.068
+  },
+  {
+   "start": 1580.328,
+   "end": 1583.788,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.743,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.174
+  },
+  {
+   "start": 1583.828,
+   "end": 1583.868,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1583.868,
+   "end": 1584.548,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1585.048,
+   "end": 1588.848,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.729,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.159
+  },
+  {
+   "start": 1588.948,
+   "end": 1589.168,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1590.628,
+   "end": 1595.468,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.828,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.247
+  },
+  {
+   "start": 1595.968,
+   "end": 1599.628,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.804,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.19
+  },
+  {
+   "start": 1600.468,
+   "end": 1601.028,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1601.708,
+   "end": 1607.348,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.766,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.294
+  },
+  {
+   "start": 1607.848,
+   "end": 1615.028,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.753,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.225
+  },
+  {
+   "start": 1615.068,
+   "end": 1616.988,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.513,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.273
+  },
+  {
+   "start": 1617.768,
+   "end": 1624.948,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.734,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.177
+  },
+  {
+   "start": 1625.568,
+   "end": 1628.528,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.802,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.207
+  },
+  {
+   "start": 1629.468,
+   "end": 1633.268,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.756,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.11
+  },
+  {
+   "start": 1634.108,
+   "end": 1635.988,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.742,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.241
+  },
+  {
+   "start": 1636.048,
+   "end": 1640.948,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.809,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.243
+  },
+  {
+   "start": 1641.448,
+   "end": 1642.308,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.423,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.06
+  },
+  {
+   "start": 1643.208,
+   "end": 1644.168,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.528,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.187
+  },
+  {
+   "start": 1645.048,
+   "end": 1646.528,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.662,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.283
+  },
+  {
+   "start": 1647.328,
+   "end": 1651.088,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.711,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.153
+  },
+  {
+   "start": 1651.668,
+   "end": 1656.028,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.764,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.262
+  },
+  {
+   "start": 1656.468,
+   "end": 1659.168,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.665,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.142
+  },
+  {
+   "start": 1659.708,
+   "end": 1664.208,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.789,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.233
+  },
+  {
+   "start": 1664.808,
+   "end": 1665.808,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.667,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.267
+  },
+  {
+   "start": 1666.328,
+   "end": 1667.468,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.562,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.179
+  },
+  {
+   "start": 1668.008,
+   "end": 1673.228,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.709,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.214
+  },
+  {
+   "start": 1673.948,
+   "end": 1683.228,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.688,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.031
+  },
+  {
+   "start": 1683.268,
+   "end": 1686.868,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.774,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.156
+  },
+  {
+   "start": 1687.688,
+   "end": 1688.968,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.589,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.099
+  },
+  {
+   "start": 1689.008,
+   "end": 1692.908,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.741,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.179
+  },
+  {
+   "start": 1693.888,
+   "end": 1693.888,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1693.928,
+   "end": 1696.108,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.696,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.279
+  },
+  {
+   "start": 1696.548,
+   "end": 1700.308,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.57,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.049
+  },
+  {
+   "start": 1701.388,
+   "end": 1701.708,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1702.508,
+   "end": 1703.608,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.391,
+   "alt": "Keith Murphy",
+   "alt_sim": -0.023
+  },
+  {
+   "start": 1705.148,
+   "end": 1707.308,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.436,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.096
+  },
+  {
+   "start": 1707.468,
+   "end": 1709.348,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.671,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.229
+  },
+  {
+   "start": 1709.408,
+   "end": 1709.648,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1709.708,
+   "end": 1710.028,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1710.068,
+   "end": 1712.168,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.573,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.18
+  },
+  {
+   "start": 1712.228,
+   "end": 1713.728,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.571,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.067
+  },
+  {
+   "start": 1713.788,
+   "end": 1716.848,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.732,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.155
+  },
+  {
+   "start": 1717.328,
+   "end": 1722.128,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.797,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.226
+  },
+  {
+   "start": 1722.928,
+   "end": 1723.208,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1723.948,
+   "end": 1724.427,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1726.008,
+   "end": 1726.808,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1727.628,
+   "end": 1733.888,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.765,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.083
+  },
+  {
+   "start": 1734.488,
+   "end": 1738.868,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.672,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.146
+  },
+  {
+   "start": 1739.888,
+   "end": 1742.888,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.656,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.153
+  },
+  {
+   "start": 1743.508,
+   "end": 1745.268,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.594,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.01
+  },
+  {
+   "start": 1745.828,
+   "end": 1746.068,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1746.088,
+   "end": 1747.548,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.51,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.174
+  },
+  {
+   "start": 1748.408,
+   "end": 1748.808,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1749.068,
+   "end": 1749.628,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1749.688,
+   "end": 1749.688,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1749.708,
+   "end": 1752.868,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.725,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.052
+  },
+  {
+   "start": 1756.248,
+   "end": 1756.908,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1756.948,
+   "end": 1758.468,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.472,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.236
+  },
+  {
+   "start": 1759.068,
+   "end": 1759.388,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1759.628,
+   "end": 1759.828,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1760.228,
+   "end": 1762.688,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.587,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.207
+  },
+  {
+   "start": 1762.748,
+   "end": 1764.068,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.505,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.109
+  },
+  {
+   "start": 1764.108,
+   "end": 1764.748,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1764.868,
+   "end": 1765.008,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1765.848,
+   "end": 1765.868,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1765.928,
+   "end": 1769.368,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.748,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.126
+  },
+  {
+   "start": 1769.428,
+   "end": 1770.688,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.57,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.12
+  },
+  {
+   "start": 1771.148,
+   "end": 1772.328,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.041,
+   "alt": "Charles Caskey",
+   "alt_sim": -0.068,
+   "low": 1
+  },
+  {
+   "start": 1772.408,
+   "end": 1774.208,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.4,
+   "alt": "Keith Murphy",
+   "alt_sim": -0.074
+  },
+  {
+   "start": 1775.228,
+   "end": 1775.768,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1775.808,
+   "end": 1776.108,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1776.688,
+   "end": 1777.208,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1777.648,
+   "end": 1777.648,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1777.688,
+   "end": 1781.308,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.738,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.202
+  },
+  {
+   "start": 1781.928,
+   "end": 1783.688,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.34,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.205
+  },
+  {
+   "start": 1784.288,
+   "end": 1784.368,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1784.428,
+   "end": 1784.828,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1785.328,
+   "end": 1786.188,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.163,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.067,
+   "low": 1
+  },
+  {
+   "start": 1786.428,
+   "end": 1786.948,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1787.008,
+   "end": 1787.608,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1788.268,
+   "end": 1789.888,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.575,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.074
+  },
+  {
+   "start": 1789.888,
+   "end": 1789.988,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1790.048,
+   "end": 1790.808,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1790.828,
+   "end": 1791.588,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1791.748,
+   "end": 1792.548,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1792.608,
+   "end": 1792.928,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1793.208,
+   "end": 1795.488,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.649,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.018
+  },
+  {
+   "start": 1795.528,
+   "end": 1795.528,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1795.528,
+   "end": 1796.548,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.474,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.064
+  },
+  {
+   "start": 1796.588,
+   "end": 1799.248,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.728,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.225
+  },
+  {
+   "start": 1799.908,
+   "end": 1800.248,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1800.788,
+   "end": 1800.928,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1800.928,
+   "end": 1804.388,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.703,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.165
+  },
+  {
+   "start": 1805.368,
+   "end": 1805.368,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1805.388,
+   "end": 1806.808,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.613,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.169
+  },
+  {
+   "start": 1807.128,
+   "end": 1807.308,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1807.308,
+   "end": 1807.308,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1807.328,
+   "end": 1807.928,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1808.008,
+   "end": 1808.168,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1810.148,
+   "end": 1813.208,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.672,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.248
+  },
+  {
+   "start": 1813.288,
+   "end": 1816.768,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.56,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.119
+  },
+  {
+   "start": 1817.008,
+   "end": 1817.128,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1817.188,
+   "end": 1817.328,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1817.348,
+   "end": 1821.428,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.727,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.225
+  },
+  {
+   "start": 1822.048,
+   "end": 1822.128,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1822.188,
+   "end": 1822.768,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1822.968,
+   "end": 1823.448,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1824.048,
+   "end": 1826.608,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.52,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.026
+  },
+  {
+   "start": 1826.748,
+   "end": 1826.888,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1827.348,
+   "end": 1832.288,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.694,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.165
+  },
+  {
+   "start": 1833.792,
+   "end": 1835.112,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.341,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.226
+  },
+  {
+   "start": 1835.352,
+   "end": 1835.352,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1835.392,
+   "end": 1838.192,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.522,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.21
+  },
+  {
+   "start": 1838.272,
+   "end": 1838.412,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1838.612,
+   "end": 1840.672,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.572,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.164
+  },
+  {
+   "start": 1841.052,
+   "end": 1842.352,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.378,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.103
+  },
+  {
+   "start": 1842.372,
+   "end": 1842.512,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1843.872,
+   "end": 1844.852,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": -0.017,
+   "alt": "Charles Caskey",
+   "alt_sim": -0.037,
+   "low": 1
+  },
+  {
+   "start": 1845.132,
+   "end": 1846.452,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.186,
+   "alt": "Keith Murphy",
+   "alt_sim": -0.088,
+   "low": 1
+  },
+  {
+   "start": 1846.472,
+   "end": 1847.672,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.207,
+   "alt": "Charles Caskey",
+   "alt_sim": -0.064,
+   "low": 1
+  },
+  {
+   "start": 1848.032,
+   "end": 1848.172,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1848.832,
+   "end": 1852.932,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.766,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.136
+  },
+  {
+   "start": 1852.992,
+   "end": 1852.992,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1852.992,
+   "end": 1854.132,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.537,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.088
+  },
+  {
+   "start": 1855.352,
+   "end": 1856.272,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.365,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.051
+  },
+  {
+   "start": 1856.292,
+   "end": 1857.812,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.584,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.056
+  },
+  {
+   "start": 1858.312,
+   "end": 1858.972,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1860.252,
+   "end": 1860.472,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1860.932,
+   "end": 1861.652,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1861.652,
+   "end": 1862.052,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1862.052,
+   "end": 1866.992,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.765,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.14
+  },
+  {
+   "start": 1867.552,
+   "end": 1870.392,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.719,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.079
+  },
+  {
+   "start": 1871.732,
+   "end": 1880.252,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.828,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.146
+  },
+  {
+   "start": 1880.772,
+   "end": 1884.632,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.721,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.176
+  },
+  {
+   "start": 1884.952,
+   "end": 1889.412,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.714,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.169
+  },
+  {
+   "start": 1890.072,
+   "end": 1893.652,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.769,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.298
+  },
+  {
+   "start": 1893.712,
+   "end": 1893.712,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1893.712,
+   "end": 1895.312,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.588,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.244
+  },
+  {
+   "start": 1896.052,
+   "end": 1901.232,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.818,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.219
+  },
+  {
+   "start": 1901.592,
+   "end": 1902.172,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1902.232,
+   "end": 1902.312,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1902.332,
+   "end": 1906.052,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.688,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.078
+  },
+  {
+   "start": 1906.892,
+   "end": 1910.412,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.577,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.027
+  },
+  {
+   "start": 1911.692,
+   "end": 1913.872,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.563,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.181
+  },
+  {
+   "start": 1914.012,
+   "end": 1915.412,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.237,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.148,
+   "low": 1
+  },
+  {
+   "start": 1916.592,
+   "end": 1917.992,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.349,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.062
+  },
+  {
+   "start": 1918.612,
+   "end": 1920.292,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.296,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.08
+  },
+  {
+   "start": 1920.392,
+   "end": 1921.612,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.362,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.099
+  },
+  {
+   "start": 1922.292,
+   "end": 1925.172,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.571,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.175
+  },
+  {
+   "start": 1925.192,
+   "end": 1926.252,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.378,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.212
+  },
+  {
+   "start": 1926.532,
+   "end": 1926.732,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1926.832,
+   "end": 1927.952,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.497,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.186
+  },
+  {
+   "start": 1928.392,
+   "end": 1928.572,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1928.592,
+   "end": 1932.912,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.745,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.229
+  },
+  {
+   "start": 1933.272,
+   "end": 1938.972,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.737,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.205
+  },
+  {
+   "start": 1939.552,
+   "end": 1941.432,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.504,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.097
+  },
+  {
+   "start": 1941.732,
+   "end": 1945.872,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.797,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.236
+  },
+  {
+   "start": 1946.152,
+   "end": 1947.532,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.721,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.184
+  },
+  {
+   "start": 1948.112,
+   "end": 1951.232,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.736,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.236
+  },
+  {
+   "start": 1951.592,
+   "end": 1951.752,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1952.332,
+   "end": 1952.432,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1952.452,
+   "end": 1955.872,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.693,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.272
+  },
+  {
+   "start": 1956.372,
+   "end": 1957.472,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.441,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.147
+  },
+  {
+   "start": 1958.072,
+   "end": 1959.412,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.586,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.197
+  },
+  {
+   "start": 1960.392,
+   "end": 1963.712,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.714,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.228
+  },
+  {
+   "start": 1964.311,
+   "end": 1968.272,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.698,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.137
+  },
+  {
+   "start": 1968.792,
+   "end": 1971.432,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.706,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.159
+  },
+  {
+   "start": 1971.712,
+   "end": 1973.592,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.731,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.213
+  },
+  {
+   "start": 1974.152,
+   "end": 1980.252,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.678,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.231
+  },
+  {
+   "start": 1980.932,
+   "end": 1983.452,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.663,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.15
+  },
+  {
+   "start": 1983.952,
+   "end": 1986.772,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.64,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.056
+  },
+  {
+   "start": 1987.332,
+   "end": 1990.552,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.677,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.284
+  },
+  {
+   "start": 1990.792,
+   "end": 1991.232,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1991.272,
+   "end": 1992.432,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.398,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.142
+  },
+  {
+   "start": 1992.712,
+   "end": 1993.312,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1993.372,
+   "end": 1994.672,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.385,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.244
+  },
+  {
+   "start": 1994.712,
+   "end": 1995.352,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1995.852,
+   "end": 1997.792,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.532,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.052
+  },
+  {
+   "start": 1997.912,
+   "end": 1999.272,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.46,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.131
+  },
+  {
+   "start": 1999.332,
+   "end": 2000.352,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.531,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.129
+  },
+  {
+   "start": 2000.392,
+   "end": 2002.012,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.395,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.109
+  },
+  {
+   "start": 2002.492,
+   "end": 2005.252,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.605,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.102
+  },
+  {
+   "start": 2007.052,
+   "end": 2007.212,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2008.312,
+   "end": 2011.272,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.651,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.128
+  },
+  {
+   "start": 2011.372,
+   "end": 2011.632,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2012.652,
+   "end": 2013.072,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2014.832,
+   "end": 2015.952,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.307,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.034
+  },
+  {
+   "start": 2016.552,
+   "end": 2024.372,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.745,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.217
+  },
+  {
+   "start": 2024.472,
+   "end": 2024.472,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2024.492,
+   "end": 2024.992,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2025.632,
+   "end": 2027.212,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.59,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.061
+  },
+  {
+   "start": 2028.212,
+   "end": 2029.632,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.509,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.055
+  },
+  {
+   "start": 2030.192,
+   "end": 2037.292,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.743,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.2
+  },
+  {
+   "start": 2039.492,
+   "end": 2039.792,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2040.392,
+   "end": 2040.832,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2040.852,
+   "end": 2041.852,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.21,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.067,
+   "low": 1
+  },
+  {
+   "start": 2042.112,
+   "end": 2042.532,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2042.912,
+   "end": 2043.172,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2043.432,
+   "end": 2044.912,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.372,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.021
+  },
+  {
+   "start": 2045.192,
+   "end": 2045.512,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2045.532,
+   "end": 2046.592,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.397,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.102
+  },
+  {
+   "start": 2048.152,
+   "end": 2049.012,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.231,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.043,
+   "low": 1
+  },
+  {
+   "start": 2049.472,
+   "end": 2052.292,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.701,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.161
+  },
+  {
+   "start": 2053.252,
+   "end": 2055.952,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.551,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.067
+  },
+  {
+   "start": 2056.052,
+   "end": 2057.612,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.51,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.074
+  },
+  {
+   "start": 2057.692,
+   "end": 2058.852,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.585,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.17
+  },
+  {
+   "start": 2058.872,
+   "end": 2058.912,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2058.912,
+   "end": 2060.472,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.437,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.117
+  },
+  {
+   "start": 2060.992,
+   "end": 2061.412,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2061.432,
+   "end": 2067.812,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.727,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.236
+  },
+  {
+   "start": 2068.392,
+   "end": 2072.332,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.619,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.229
+  },
+  {
+   "start": 2073.012,
+   "end": 2076.572,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.569,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.263
+  },
+  {
+   "start": 2077.152,
+   "end": 2078.952,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.587,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.224
+  },
+  {
+   "start": 2079.512,
+   "end": 2080.392,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.396,
+   "alt": "Charles Caskey",
+   "alt_sim": -0.016
+  },
+  {
+   "start": 2080.952,
+   "end": 2081.092,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2081.252,
+   "end": 2082.332,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.514,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.181
+  },
+  {
+   "start": 2082.612,
+   "end": 2085.172,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.654,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.137
+  },
+  {
+   "start": 2085.792,
+   "end": 2085.932,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2086.692,
+   "end": 2086.832,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2087.832,
+   "end": 2088.912,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.49,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.044
+  },
+  {
+   "start": 2088.952,
+   "end": 2089.292,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2089.372,
+   "end": 2090.571,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.484,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.138
+  },
+  {
+   "start": 2090.571,
+   "end": 2092.152,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.415,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.042
+  },
+  {
+   "start": 2092.472,
+   "end": 2092.672,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2092.752,
+   "end": 2092.752,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2092.832,
+   "end": 2093.612,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2093.652,
+   "end": 2093.752,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2093.752,
+   "end": 2094.631,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.205,
+   "alt": "Charles Caskey",
+   "alt_sim": -0.058,
+   "low": 1
+  },
+  {
+   "start": 2095.232,
+   "end": 2099.972,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.749,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.215
+  },
+  {
+   "start": 2100.092,
+   "end": 2103.452,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.728,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.096
+  },
+  {
+   "start": 2103.512,
+   "end": 2104.692,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.608,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.235
+  },
+  {
+   "start": 2104.792,
+   "end": 2108.432,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.682,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.299
+  },
+  {
+   "start": 2108.512,
+   "end": 2109.052,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2109.052,
+   "end": 2109.592,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2109.632,
+   "end": 2111.932,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.583,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.097
+  },
+  {
+   "start": 2112.072,
+   "end": 2114.452,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.539,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.309
+  },
+  {
+   "start": 2114.672,
+   "end": 2115.892,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.495,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.315
+  },
+  {
+   "start": 2115.992,
+   "end": 2118.732,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.596,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.163
+  },
+  {
+   "start": 2118.732,
+   "end": 2124.752,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.769,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.17
+  },
+  {
+   "start": 2124.932,
+   "end": 2125.052,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2125.092,
+   "end": 2127.832,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.713,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.168
+  },
+  {
+   "start": 2128.052,
+   "end": 2131.172,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.7,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.143
+  },
+  {
+   "start": 2131.252,
+   "end": 2133.572,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.506,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.192
+  },
+  {
+   "start": 2133.692,
+   "end": 2136.172,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.65,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.199
+  },
+  {
+   "start": 2136.552,
+   "end": 2141.512,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.672,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.242
+  },
+  {
+   "start": 2141.632,
+   "end": 2143.892,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.565,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.085
+  },
+  {
+   "start": 2145.192,
+   "end": 2147.972,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.503,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.101
+  },
+  {
+   "start": 2148.072,
+   "end": 2148.192,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2148.232,
+   "end": 2152.612,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.674,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.105
+  },
+  {
+   "start": 2152.732,
+   "end": 2152.832,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2152.832,
+   "end": 2155.412,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.624,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.219
+  },
+  {
+   "start": 2155.972,
+   "end": 2156.152,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2156.792,
+   "end": 2157.872,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.478,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.123
+  },
+  {
+   "start": 2157.952,
+   "end": 2162.752,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.816,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.2
+  },
+  {
+   "start": 2163.512,
+   "end": 2167.192,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.723,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.174
+  },
+  {
+   "start": 2167.472,
+   "end": 2169.672,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.558,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.123
+  },
+  {
+   "start": 2170.052,
+   "end": 2170.792,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2170.872,
+   "end": 2171.812,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.17,
+   "alt": "Keith Murphy",
+   "alt_sim": -0.027,
+   "low": 1
+  },
+  {
+   "start": 2172.012,
+   "end": 2175.572,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.59,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.253
+  },
+  {
+   "start": 2176.072,
+   "end": 2177.572,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.676,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.265
+  },
+  {
+   "start": 2178.112,
+   "end": 2181.492,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.553,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.057
+  },
+  {
+   "start": 2184.152,
+   "end": 2184.392,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2185.132,
+   "end": 2187.232,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.438,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.074
+  },
+  {
+   "start": 2187.692,
+   "end": 2190.212,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.615,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.129
+  },
+  {
+   "start": 2190.252,
+   "end": 2190.612,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2190.732,
+   "end": 2192.252,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.527,
+   "alt": "Keith Murphy",
+   "alt_sim": -0.041
+  },
+  {
+   "start": 2192.812,
+   "end": 2197.152,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.671,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.211
+  },
+  {
+   "start": 2197.792,
+   "end": 2199.512,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.521,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.004
+  },
+  {
+   "start": 2199.652,
+   "end": 2202.332,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.672,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.259
+  },
+  {
+   "start": 2202.932,
+   "end": 2204.412,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.532,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.064
+  },
+  {
+   "start": 2204.632,
+   "end": 2206.292,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.49,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.164
+  },
+  {
+   "start": 2206.372,
+   "end": 2207.632,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.597,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.159
+  },
+  {
+   "start": 2208.156,
+   "end": 2208.356,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2208.356,
+   "end": 2208.736,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2209.356,
+   "end": 2209.616,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2209.656,
+   "end": 2211.656,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.499,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.052
+  },
+  {
+   "start": 2212.596,
+   "end": 2214.536,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.517,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.201
+  },
+  {
+   "start": 2214.756,
+   "end": 2216.716,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.553,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.191
+  },
+  {
+   "start": 2216.836,
+   "end": 2219.376,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.659,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.148
+  },
+  {
+   "start": 2220.296,
+   "end": 2221.036,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2221.076,
+   "end": 2221.716,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2221.716,
+   "end": 2224.376,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.671,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.212
+  },
+  {
+   "start": 2225.316,
+   "end": 2225.456,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2227.756,
+   "end": 2228.136,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2228.696,
+   "end": 2229.016,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2229.356,
+   "end": 2230.176,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.18,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.106,
+   "low": 1
+  },
+  {
+   "start": 2230.216,
+   "end": 2231.496,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.563,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.009
+  },
+  {
+   "start": 2231.556,
+   "end": 2236.616,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.727,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.171
+  },
+  {
+   "start": 2237.116,
+   "end": 2243.796,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.794,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.18
+  },
+  {
+   "start": 2244.296,
+   "end": 2244.516,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2244.656,
+   "end": 2244.856,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2244.856,
+   "end": 2246.636,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.539,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.208
+  },
+  {
+   "start": 2246.676,
+   "end": 2248.916,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.515,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.071
+  },
+  {
+   "start": 2248.976,
+   "end": 2250.796,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.752,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.182
+  },
+  {
+   "start": 2250.856,
+   "end": 2250.856,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2250.856,
+   "end": 2252.956,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.615,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.078
+  },
+  {
+   "start": 2253.036,
+   "end": 2256.876,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.737,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.256
+  },
+  {
+   "start": 2258.156,
+   "end": 2258.596,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2259.176,
+   "end": 2262.156,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.643,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.142
+  },
+  {
+   "start": 2263.136,
+   "end": 2263.816,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2264.516,
+   "end": 2268.056,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.649,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.172
+  },
+  {
+   "start": 2268.656,
+   "end": 2272.636,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.816,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.322
+  },
+  {
+   "start": 2273.256,
+   "end": 2280.516,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.658,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.17
+  },
+  {
+   "start": 2281.116,
+   "end": 2285.856,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.667,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.251
+  },
+  {
+   "start": 2286.416,
+   "end": 2290.916,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.688,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.238
+  },
+  {
+   "start": 2291.356,
+   "end": 2294.556,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.733,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.229
+  },
+  {
+   "start": 2294.976,
+   "end": 2299.096,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.568,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.093
+  },
+  {
+   "start": 2299.276,
+   "end": 2299.756,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2300.576,
+   "end": 2305.696,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.674,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.282
+  },
+  {
+   "start": 2305.736,
+   "end": 2307.136,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.45,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.005
+  },
+  {
+   "start": 2307.476,
+   "end": 2307.836,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2307.876,
+   "end": 2309.036,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.403,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.084
+  },
+  {
+   "start": 2309.076,
+   "end": 2311.756,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.673,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.129
+  },
+  {
+   "start": 2311.816,
+   "end": 2313.996,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.684,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.226
+  },
+  {
+   "start": 2314.476,
+   "end": 2319.536,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.714,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.274
+  },
+  {
+   "start": 2320.076,
+   "end": 2327.756,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.674,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.242
+  },
+  {
+   "start": 2328.396,
+   "end": 2332.636,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.652,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.198
+  },
+  {
+   "start": 2333.176,
+   "end": 2337.015,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.708,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.275
+  },
+  {
+   "start": 2337.656,
+   "end": 2339.156,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.515,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.201
+  },
+  {
+   "start": 2339.556,
+   "end": 2342.656,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.567,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.062
+  },
+  {
+   "start": 2342.996,
+   "end": 2347.016,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.675,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.146
+  },
+  {
+   "start": 2347.696,
+   "end": 2349.556,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.519,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.087
+  },
+  {
+   "start": 2350.156,
+   "end": 2353.476,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.64,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.029
+  },
+  {
+   "start": 2353.496,
+   "end": 2355.716,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.713,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.097
+  },
+  {
+   "start": 2356.396,
+   "end": 2359.376,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.736,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.202
+  },
+  {
+   "start": 2359.516,
+   "end": 2360.516,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.558,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.116
+  },
+  {
+   "start": 2360.556,
+   "end": 2361.816,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.471,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.093
+  },
+  {
+   "start": 2361.896,
+   "end": 2366.476,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.72,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.156
+  },
+  {
+   "start": 2366.796,
+   "end": 2373.016,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.773,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.255
+  },
+  {
+   "start": 2373.076,
+   "end": 2374.856,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.533,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.215
+  },
+  {
+   "start": 2374.996,
+   "end": 2375.316,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2375.496,
+   "end": 2375.856,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2375.856,
+   "end": 2377.416,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.558,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.026
+  },
+  {
+   "start": 2377.856,
+   "end": 2382.476,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.669,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.17
+  },
+  {
+   "start": 2383.016,
+   "end": 2384.436,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.499,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.006
+  },
+  {
+   "start": 2384.636,
+   "end": 2387.136,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.623,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.093
+  },
+  {
+   "start": 2387.576,
+   "end": 2388.896,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.519,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.058
+  },
+  {
+   "start": 2388.956,
+   "end": 2390.216,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.582,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.118
+  },
+  {
+   "start": 2390.576,
+   "end": 2391.776,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.477,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.066
+  },
+  {
+   "start": 2391.856,
+   "end": 2391.976,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2391.996,
+   "end": 2392.756,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2392.776,
+   "end": 2393.896,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.559,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.164
+  },
+  {
+   "start": 2393.896,
+   "end": 2393.896,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2393.956,
+   "end": 2394.956,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.236,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.048,
+   "low": 1
+  },
+  {
+   "start": 2394.996,
+   "end": 2395.296,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2395.336,
+   "end": 2396.876,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.641,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.152
+  },
+  {
+   "start": 2396.996,
+   "end": 2398.016,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.352,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.057
+  },
+  {
+   "start": 2398.036,
+   "end": 2398.736,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  }
+ ]
+}

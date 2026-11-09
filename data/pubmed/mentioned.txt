@@ -1,0 +1,3992 @@
+PMID- 41072763
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20251126
+LR  - 20261005
+IS  - 1876-4754 (Electronic)
+IS  - 1935-861X (Print)
+IS  - 1876-4754 (Linking)
+VI  - 18
+IP  - 6
+DP  - 2025 Nov-Dec
+TI  - ITRUSST consensus on biophysical safety for transcranial ultrasound stimulation.
+PG  - 1896-1905
+LID - S1935-861X(25)00353-5 [pii]
+LID - 10.1016/j.brs.2025.10.007 [doi]
+AB  - Transcranial ultrasound stimulation (TUS) is an emerging technology for 
+      non-invasive brain stimulation. The International Transcranial Ultrasonic 
+      Stimulation Safety and Standards consortium (ITRUSST) has established consensus 
+      on considerations for nonsignificant biophysical risk of TUS, drawing upon the 
+      literature and established regulations for biomedical devices. Here, we assume 
+      the application of TUS to individuals without contraindications, compromised 
+      thermoregulation, vascular vulnerabilities, or administered ultrasound contrast 
+      agents. In this context, we present a concise yet comprehensive set of levels for 
+      nonsignificant risks of TUS application. For mechanical effects, it is 
+      non-significant risk if the mechanical index (MI) or the mechanical index for 
+      transcranial application (MI(tc)) does not exceed 1.9. For thermal effects, it is 
+      non-significant risk if any of the following three levels are met: the peak 
+      temperature rise does not exceed 2  degrees C or the peak absolute temperature does not 
+      exceed 39  degrees C, assuming a baseline temperature of 37  degrees C, the thermal dose does not 
+      exceed 2 CEM43 in brain tissue, 16 CEM43 in bone tissue, and 21 CEM43 in skin 
+      tissue, or specific values of the thermal index (TI) for a given exposure time. 
+      This report reflects a consensus expert opinion and can inform, but not replace, 
+      regulatory guidelines or official international standards. Similarly, this 
+      consensus can inform, but not replace, ethical evaluation, which weighs the total 
+      burden, risks, and benefits of the proposed action. The stated levels are not 
+      safety limits per se, and further data is needed to establish the threshold for 
+      significant risk. We review literature relevant to our considerations and discuss 
+      limitations and future developments of our approach.
+CI  - Copyright (c) 2025 The Authors. Published by Elsevier Inc. All rights reserved.
+FAU - Aubry, Jean-Francois
+AU  - Aubry JF
+AD  - Physics for Medicine Paris, Inserm U1273, ESPCI Paris, CNRS UMR8063, PSL 
+      University, Paris, France. Electronic address: jean-francois.aubry@espci.fr.
+FAU - Attali, David
+AU  - Attali D
+AD  - Physics for Medicine Paris, Inserm U1273, ESPCI Paris, CNRS UMR8063, PSL 
+      University, Paris, France; GHU-Paris Psychiatrie et Neurosciences, Hopital Sainte 
+      Anne, Universite Paris Cite, 75014, Paris, France.
+FAU - Schafer, Mark E
+AU  - Schafer ME
+AD  - Rockefeller Neuroscience Institute, West Virginia University, Morgantown, WV, 
+      USA.
+FAU - Fouragnan, Elsa
+AU  - Fouragnan E
+AD  - Brain Research Imaging Center, 7 Derriford Rd, Plymouth PL6 8BU, UK; School of 
+      Psychology, Portland Square, Plymouth, PL4 8AA, UK.
+FAU - Caskey, Charles F
+AU  - Caskey CF
+AD  - Vanderbilt University Institute of Imaging Science, Vanderbilt University Medical 
+      School, Department of Radiology and Radiological Sciences, Nashville, TN, USA.
+FAU - Chen, Robert
+AU  - Chen R
+AD  - Division of Neurology, Department of Medicine, University of Toronto, Toronto, 
+      Ontario, Canada; Krembil Research Institute, University Health Network, Toronto, 
+      Ontario, Canada.
+FAU - Darmani, Ghazaleh
+AU  - Darmani G
+AD  - Krembil Research Institute, University Health Network, Toronto, Ontario, Canada.
+FAU - Bubrick, Ellen J
+AU  - Bubrick EJ
+AD  - Brigham and Women's Hospital, Harvard Medical School, Department of Neurology, 75 
+      Francis St., Boston, MA, USA.
+FAU - Sallet, Jerome
+AU  - Sallet J
+AD  - Univ Lyon, Universite Lyon 1, Inserm, Stem Cell and Brain Research Institute 
+      U1208, Bron, France; Oxford Centre for Integrative Neuroimaging (OxCIN), 
+      Department of Experimental Psychology, University of Oxford, Oxford, OX1 3EL, UK.
+FAU - Butler, Christopher R
+AU  - Butler CR
+AD  - Department of Brain Sciences, Imperial College London, London, W12 0BZ, UK; The 
+      George Institute for Global Health, Imperial College London, London, W12 7RZ, UK.
+FAU - Stagg, Charlotte J
+AU  - Stagg CJ
+AD  - Oxford Centre for Integrative Neuroimaging (OxCIN), FMRIB, Nuffield Department of 
+      Clinical Neurosciences, University of Oxford, FMRIB Building, John Radcliffe 
+      Hospital, Headington, Oxford, OX3, 9DU, UK; Medical Research Council Brain 
+      Network Dynamics Unit, Nuffield Department of Clinical Neurosciences, University 
+      of Oxford, Mansfield Road, Oxford, OX1 3TH, UKU, UK.
+FAU - Klein-Flugge, Miriam C
+AU  - Klein-Flugge MC
+AD  - Oxford Centre for Integrative Neuroimaging (OxCIN), Department of Experimental 
+      Psychology, University of Oxford, Oxford, OX1 3EL, UK; Department of Psychiatry, 
+      Warneford Hospital, University of Oxford, Oxford, OX3 7JX, UK.
+FAU - Yoo, Seung-Schik
+AU  - Yoo SS
+AD  - Brigham and Women's Hospital, Harvard Medical School, Department of Radiology, 75 
+      Francis St., Boston, MA, USA.
+FAU - Holland, Christy K
+AU  - Holland CK
+AD  - Division of Cardiovascular Health and Disease, Department of Internal Medicine, 
+      University of Cincinnati, Cincinnati, OH, USA; Department of Biomedical 
+      Engineering, University of Cincinnati, Cincinnati, OH, USA.
+FAU - Treeby, Bradley
+AU  - Treeby B
+AD  - Department of Medical Physics and Biomedical Engineering, University College 
+      London, London, UK; NeuroHarmonics LTD, 71-75 Shelton Street, Covent Garden, 
+      London, UK.
+FAU - Martin, Eleanor
+AU  - Martin E
+AD  - Department of Medical Physics and Biomedical Engineering, University College 
+      London, London, UK.
+FAU - Verhagen, Lennart
+AU  - Verhagen L
+AD  - Donders Institute for Brain, Cognition and Behaviour, Radboud University, 6525 
+      GD, Nijmegen, the Netherlands. Electronic address: 
+      lennart.verhagen@donders.ru.nl.
+FAU - Butts Pauly, Kim
+AU  - Butts Pauly K
+AD  - Stanford University, Department of Radiology, Stanford CA, 94305, USA. Electronic 
+      address: kimbutts@stanford.edu.
+LA  - eng
+GR  - UG3 NS135551/NS/NINDS NIH HHS/United States
+GR  - R01 MH131684/MH/NIMH NIH HHS/United States
+GR  - R01 NS112152/NS/NINDS NIH HHS/United States
+GR  - WT_/Wellcome Trust/United Kingdom
+GR  - R01 EB032743/EB/NIBIB NIH HHS/United States
+PT  - Consensus Statement
+PT  - Journal Article
+PT  - Review
+DEP - 20251008
+PL  - United States
+TA  - Brain Stimul
+JT  - Brain stimulation
+JID - 101465726
+SB  - IM
+UOF - ArXiv. 2025 Oct 9:arXiv:2311.05359v3. PMID: 41281204
+MH  - Humans
+MH  - *Brain/physiology
+MH  - *Ultrasonic Therapy/adverse effects/standards
+PMC - PMC12644226
+OTO - NOTNLM
+OT  - Biophysical effects
+OT  - Neuromodulation
+OT  - Non-invasive brain stimulation
+OT  - Regulations
+OT  - Safety
+OT  - Standards
+OT  - Transcranial ultrasound stimulation
+COIS- Declaration of competing interest Jean-Francois Aubry reports a relationship with 
+      InSightec that includes: funding grants. Jean-Francois Aubry reports a 
+      relationship with Sonomind that includes: equity or stocks and consulting or 
+      advisory. Mark E. Schafer reports a relationship with BrainSonix Corporation that 
+      includes: consulting or advisory. Elsa Fouragnan reports a relationship with 
+      Attune Neurosciences that includes: board membership and consulting or advisory. 
+      Robert Chen reports a relationship with Attune Neurosciences that includes: 
+      consulting or advisory. Robert Chen is the editor-in-chief of Clinical 
+      Neurophysiology and an editorial board member of Brain Stimulation. Ellen J. 
+      Bubrick serves on the Board for the International Society for Therapeutic 
+      Ultrasound 2025-2027. Charlotte J. Stagg is a Deputy Editor at Brain Stimulation. 
+      Christy K. Holland reports relationships with Lantheus and Boston Scientific 
+      Corp. which includes consulting and material transfer agreements. Bradley E. 
+      Treeby reports a relationship with NeuroHarmonics LTD that includes: board 
+      membership, employment, and equity or stocks. Eleanor Martin reports a 
+      relationship with Brainbox that includes: consulting or advisory. Eleanor Martin 
+      is a member of the Ultrasonics Technical Committee of the IEC. Lennart Verhagen 
+      reports a relationship with Brainbox that includes: non-financial support. 
+      Lennart Verhagen reports a relationship with Sonic Concepts that includes: 
+      non-financial support. Lennart Verhagen reports a relationship with Image Guided 
+      Therapy that includes: non-financial support. Lennart Verhagen reports a 
+      relationship with Nudge that includes: consulting or advisory. Kim Butts Pauly 
+      reports a relationship with Attune Neurosciences that includes: consulting or 
+      advisory and equity or stocks. Kim Butts Pauly reports a relationship with Surf 
+      Therapeutics that includes: consulting or advisory. Kim Butts Pauly reports a 
+      relationship with MR Instruments that includes: non-financial support. If there 
+      are other authors, they declare that they have no known competing financial 
+      interests or personal relationships that could have appeared to influence the 
+      work reported in this paper.
+EDAT- 2025/10/11 00:31
+MHDA- 2025/11/27 00:27
+PMCR- 2025/11/01
+CRDT- 2025/10/10 19:36
+PHST- 2025/05/06 00:00 [received]
+PHST- 2025/10/06 00:00 [revised]
+PHST- 2025/10/06 00:00 [accepted]
+PHST- 2025/11/27 00:27 [medline]
+PHST- 2025/10/11 00:31 [pubmed]
+PHST- 2025/10/10 19:36 [entrez]
+PHST- 2025/11/01 00:00 [pmc-release]
+AID - S1935-861X(25)00353-5 [pii]
+AID - 10.1016/j.brs.2025.10.007 [doi]
+PST - ppublish
+SO  - Brain Stimul. 2025 Nov-Dec;18(6):1896-1905. doi: 10.1016/j.brs.2025.10.007. Epub 
+      2025 Oct 8.
+
+PMID- 41309575
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20251127
+LR  - 20260925
+IS  - 2041-1723 (Electronic)
+IS  - 2041-1723 (Linking)
+VI  - 16
+IP  - 1
+DP  - 2025 Nov 27
+TI  - Non-invasive ultrasonic neuromodulation of the human nucleus accumbens impacts 
+      reward sensitivity.
+PG  - 10192
+LID - 10.1038/s41467-025-65080-9 [doi]
+LID - 10192
+AB  - Precisely neuromodulating deep brain regions could bring transformative 
+      advancements in both neuroscience and treatment. We demonstrate that non-invasive 
+      transcranial ultrasound stimulation (TUS) can selectively modulate deep brain 
+      activity and affect learning and decision making, comparable to deep brain 
+      stimulation (DBS). We tested whether TUS could causally influence neural and 
+      behavioural responses by targeting the nucleus accumbens (NAcc) using a 
+      reinforcement learning task. Twenty-six healthy adults completed a within-subject 
+      TUS-fMRI experiment with three conditions: TUS to the NAcc, dorsal anterior 
+      cingulate cortex (dACC), or Sham. After TUS, participants performed a 
+      probabilistic learning task during fMRI. TUS-NAcc altered BOLD responses to 
+      reward expectation in the NAcc and surrounding areas. It also affected 
+      reward-related behaviours, including win-stay strategy use, learning rate 
+      following rewards, learning curves, and repetition rates of rewarded choices. 
+      DBS-NAcc perturbed the same features, confirming target engagement. These 
+      findings establish TUS as a viable approach for non-invasive deep-brain 
+      neuromodulation.
+CI  - (c) 2025. The Author(s).
+FAU - Yaakub, Siti N
+AU  - Yaakub SN
+AUID- ORCID: 0000-0001-5084-1973
+AD  - School of Psychology, Faculty of Health, University of Plymouth, Plymouth, UK.
+AD  - Brain Research and Imaging Centre, Faculty of Health, University of Plymouth, 
+      Plymouth, UK.
+FAU - Eraifej, John
+AU  - Eraifej J
+AD  - Nuffield Department of Clinical Neurosciences, University of Oxford, Oxford, UK.
+AD  - Nuffield Department of Surgical Sciences, University of Oxford, Oxford, UK.
+AD  - Department of Neurosurgery, John Radcliffe Hospital, Oxford, UK.
+FAU - Bault, Nadege
+AU  - Bault N
+AUID- ORCID: 0000-0001-8244-6062
+AD  - School of Psychology, Faculty of Health, University of Plymouth, Plymouth, UK.
+AD  - Brain Research and Imaging Centre, Faculty of Health, University of Plymouth, 
+      Plymouth, UK.
+FAU - Lojkiewiez, Mathilde
+AU  - Lojkiewiez M
+AD  - School of Psychology, Faculty of Health, University of Plymouth, Plymouth, UK.
+AD  - Brain Research and Imaging Centre, Faculty of Health, University of Plymouth, 
+      Plymouth, UK.
+FAU - Bellec, Elouan
+AU  - Bellec E
+AD  - School of Psychology, Faculty of Health, University of Plymouth, Plymouth, UK.
+AD  - Brain Research and Imaging Centre, Faculty of Health, University of Plymouth, 
+      Plymouth, UK.
+FAU - Roberts, Jamie
+AU  - Roberts J
+AD  - Department of Clinical Measurement and Innovation, University Hospitals Plymouth 
+      NHS Trust, Plymouth, UK.
+FAU - Philip, Noah S
+AU  - Philip NS
+AUID- ORCID: 0000-0002-4889-8775
+AD  - Department of Psychiatry and Human Behaviour, Warren Alpert Medical School of 
+      Brown University, Providence, RI, USA.
+AD  - Center for Neurorestoration and Neurotechnology, VA Providence Healthcare System, 
+      Providence, RI, USA.
+FAU - Divanbeighi Zand, Amir Puyan
+AU  - Divanbeighi Zand AP
+AUID- ORCID: 0000-0003-3073-2619
+AD  - Nuffield Department of Surgical Sciences, University of Oxford, Oxford, UK.
+AD  - Department of Neurosurgery, John Radcliffe Hospital, Oxford, UK.
+FAU - Green, Alexander L
+AU  - Green AL
+AUID- ORCID: 0000-0002-7262-7297
+AD  - Nuffield Department of Clinical Neurosciences, University of Oxford, Oxford, UK.
+AD  - Nuffield Department of Surgical Sciences, University of Oxford, Oxford, UK.
+FAU - Rushworth, Matthew F S
+AU  - Rushworth MFS
+AUID- ORCID: 0000-0002-5578-9884
+AD  - Wellcome Centre for Integrative Neuroimaging, University of Oxford, Oxford, UK.
+AD  - Department of Experimental Psychology, University of Oxford, Oxford, UK.
+FAU - Fouragnan, Elsa F
+AU  - Fouragnan EF
+AUID- ORCID: 0000-0003-1485-0332
+AD  - School of Psychology, Faculty of Health, University of Plymouth, Plymouth, UK. 
+      elsa.fouragnan@plymouth.ac.uk.
+AD  - Brain Research and Imaging Centre, Faculty of Health, University of Plymouth, 
+      Plymouth, UK. elsa.fouragnan@plymouth.ac.uk.
+LA  - eng
+GR  - I50 RX002864/RX/RRD VA/United States
+GR  - MR/Y034368/1/RCUK | Medical Research Council (MRC)/
+GR  - EP/W035057/1/RCUK | Engineering and Physical Sciences Research Council (EPSRC)/
+GR  - BB/Y001494/1/RCUK | Biotechnology and Biological Sciences Research Council 
+      (BBSRC)/
+GR  - U01 MH123427/MH/NIMH NIH HHS/United States
+PT  - Journal Article
+DEP - 20251127
+PL  - England
+TA  - Nat Commun
+JT  - Nature communications
+JID - 101528555
+SB  - IM
+UOF - bioRxiv. 2025 Aug 06:2024.07.25.605068. doi: 10.1101/2024.07.25.605068. PMID: 
+      40799556
+MH  - Humans
+MH  - *Nucleus Accumbens/physiology/diagnostic imaging
+MH  - *Reward
+MH  - Male
+MH  - Magnetic Resonance Imaging
+MH  - Adult
+MH  - Female
+MH  - Deep Brain Stimulation/methods
+MH  - Young Adult
+MH  - Gyrus Cinguli/physiology/diagnostic imaging
+MH  - Decision Making/physiology
+MH  - Learning/physiology
+PMC - PMC12660320
+COIS- Competing interests: E.F.F. is a consultant for Attune Neuroscience. N.S.P. is on 
+      the scientific advisory boards of Pulvinar Neuro and Grey Matter Neurosciences, 
+      and consultant to Motif Neurotech. All the other authors declare no competing 
+      interests.
+EDAT- 2025/11/28 00:26
+MHDA- 2025/11/28 00:27
+PMCR- 2025/11/27
+CRDT- 2025/11/27 23:15
+PHST- 2025/02/07 00:00 [received]
+PHST- 2025/10/03 00:00 [accepted]
+PHST- 2025/11/28 00:27 [medline]
+PHST- 2025/11/28 00:26 [pubmed]
+PHST- 2025/11/27 23:15 [entrez]
+PHST- 2025/11/27 00:00 [pmc-release]
+AID - 10.1038/s41467-025-65080-9 [pii]
+AID - 65080 [pii]
+AID - 10.1038/s41467-025-65080-9 [doi]
+PST - epublish
+SO  - Nat Commun. 2025 Nov 27;16(1):10192. doi: 10.1038/s41467-025-65080-9.
+
+PMID- 42106337
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20260717
+LR  - 20260825
+IS  - 2041-1723 (Electronic)
+IS  - 2041-1723 (Linking)
+VI  - 17
+IP  - 1
+DP  - 2026 May 9
+TI  - Multi-focal ultrasound neuromodulation to the dorsal anterior cingulate cortex 
+      disrupts behavioural and neural pain processing.
+LID - 10.1038/s41467-026-72934-3 [doi]
+LID - 6269
+AB  - Transcranial ultrasound stimulation (TUS) is a promising non-invasive 
+      neuromodulation technique for pain-related deep brain regions. This study aimed 
+      to investigate neural mechanisms underlying TUS effects on pain processing using 
+      neuroimaging. Thirty-two healthy participants underwent two double-blind, 
+      randomised sessions (active or sham). A tonic cold stimulus was applied during 
+      multifocal TUS applied to the dorsal anterior cingulate cortex (dACC), and during 
+      functional magnetic resonance imaging (fMRI) and magnetic resonance spectroscopy 
+      (MRS). While no significant main effect on pain intensity was observed, active 
+      TUS showed a significantly greater reduction in pain ratings between 28- and 
+      55-minutes post-stimulation, suggesting a delayed analgesic effect. Active TUS 
+      altered sensory encoding, disrupting the relationship between temperature and 
+      pain intensity. There was increased functional connectivity between the dACC and 
+      the supplementary motor area, pre-motor cortex, mid-ACC and supramarginal gyrus, 
+      and altered salience network connectivity. Overall, these findings suggest 
+      dACC-TUS has multidimensional effects across behavioural and neural aspects of 
+      pain processing, supporting its potential therapeutic value.
+CI  - (c) 2026. The Author(s).
+FAU - Clarke, Sophie
+AU  - Clarke S
+AUID- ORCID: 0000-0001-6464-5578
+AD  - School of Psychology, Faculty of Health, University of Plymouth, Plymouth, UK. 
+      Sophie.clarke@plymouth.ac.uk.
+AD  - Brain Research and Imaging Centre, Faculty of Health, University of Plymouth, 
+      Plymouth, UK. Sophie.clarke@plymouth.ac.uk.
+AD  - Department of Clinical and Biomedical Sciences, Faculty of Health and Life 
+      Sciences, University of Exeter, Exeter, UK. Sophie.clarke@plymouth.ac.uk.
+FAU - Mugglestone, Samuel
+AU  - Mugglestone S
+AD  - School of Psychology, Faculty of Health, University of Plymouth, Plymouth, UK.
+AD  - Brain Research and Imaging Centre, Faculty of Health, University of Plymouth, 
+      Plymouth, UK.
+FAU - Lojkiewiez, Mathilde
+AU  - Lojkiewiez M
+AD  - School of Psychology, Faculty of Health, University of Plymouth, Plymouth, UK.
+AD  - Brain Research and Imaging Centre, Faculty of Health, University of Plymouth, 
+      Plymouth, UK.
+FAU - Marquez, Joshua
+AU  - Marquez J
+AD  - School of Psychology, Faculty of Health, University of Plymouth, Plymouth, UK.
+AD  - Brain Research and Imaging Centre, Faculty of Health, University of Plymouth, 
+      Plymouth, UK.
+FAU - Bault, Nadege
+AU  - Bault N
+AUID- ORCID: 0000-0001-8244-6062
+AD  - School of Psychology, Faculty of Health, University of Plymouth, Plymouth, UK.
+AD  - Brain Research and Imaging Centre, Faculty of Health, University of Plymouth, 
+      Plymouth, UK.
+FAU - Fouragnan, Elsa
+AU  - Fouragnan E
+AUID- ORCID: 0000-0003-1485-0332
+AD  - School of Psychology, Faculty of Health, University of Plymouth, Plymouth, UK.
+AD  - Brain Research and Imaging Centre, Faculty of Health, University of Plymouth, 
+      Plymouth, UK.
+FAU - Hughes, Sam
+AU  - Hughes S
+AUID- ORCID: 0000-0002-3769-3803
+AD  - Department of Clinical and Biomedical Sciences, Faculty of Health and Life 
+      Sciences, University of Exeter, Exeter, UK.
+LA  - eng
+GR  - BB/Y001494/1/RCUK | Biotechnology and Biological Sciences Research Council 
+      (BBSRC)/
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+DEP - 20260509
+PL  - England
+TA  - Nat Commun
+JT  - Nature communications
+JID - 101528555
+SB  - IM
+MH  - Humans
+MH  - *Gyrus Cinguli/diagnostic imaging/physiopathology/physiology/radiation effects
+MH  - Magnetic Resonance Imaging
+MH  - Adult
+MH  - Female
+MH  - Male
+MH  - Double-Blind Method
+MH  - Magnetic Resonance Spectroscopy
+MH  - Young Adult
+MH  - *Pain/physiopathology
+MH  - *Neuralgia/therapy/physiopathology/diagnostic imaging
+MH  - Pain Measurement
+MH  - Pain Management/methods
+PMC - PMC13376748
+COIS- Competing interests: Elsa Fouragnan is an advisor for Attune Neuroscience. The 
+      remaining authors declare no competing interests.
+EDAT- 2026/05/10 05:19
+MHDA- 2026/07/17 19:17
+PMCR- 2026/05/09
+CRDT- 2026/05/09 23:14
+PHST- 2025/08/22 00:00 [received]
+PHST- 2026/04/24 00:00 [accepted]
+PHST- 2026/07/17 19:17 [medline]
+PHST- 2026/05/10 05:19 [pubmed]
+PHST- 2026/05/09 23:14 [entrez]
+PHST- 2026/05/09 00:00 [pmc-release]
+AID - 10.1038/s41467-026-72934-3 [pii]
+AID - 72934 [pii]
+AID - 10.1038/s41467-026-72934-3 [doi]
+PST - epublish
+SO  - Nat Commun. 2026 May 9;17(1):6269. doi: 10.1038/s41467-026-72934-3.
+
+PMID- 39190585
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240827
+LR  - 20250212
+IS  - 2050-084X (Electronic)
+IS  - 2050-084X (Linking)
+VI  - 12
+DP  - 2024 Aug 27
+TI  - Auditory confounds can drive online effects of transcranial ultrasonic 
+      stimulation in humans.
+LID - 10.7554/eLife.88762 [doi]
+LID - RP88762
+AB  - Transcranial ultrasonic stimulation (TUS) is rapidly emerging as a promising 
+      non-invasive neuromodulation technique. TUS is already well-established in animal 
+      models, providing foundations to now optimize neuromodulatory efficacy for human 
+      applications. Across multiple studies, one promising protocol, pulsed at 1000 Hz, 
+      has consistently resulted in motor cortical inhibition in humans (Fomenko et al., 
+      2020). At the same time, a parallel research line has highlighted the potentially 
+      confounding influence of peripheral auditory stimulation arising from TUS pulsing 
+      at audible frequencies. In this study, we disentangle direct neuromodulatory and 
+      indirect auditory contributions to motor inhibitory effects of TUS. To this end, 
+      we include tightly matched control conditions across four experiments, one 
+      preregistered, conducted independently at three institutions. We employed a 
+      combined transcranial ultrasonic and magnetic stimulation paradigm, where 
+      TMS-elicited motor-evoked potentials (MEPs) served as an index of corticospinal 
+      excitability. First, we replicated motor inhibitory effects of TUS but showed 
+      through both tight controls and manipulation of stimulation intensity, duration, 
+      and auditory masking conditions that this inhibition was driven by peripheral 
+      auditory stimulation, not direct neuromodulation. Furthermore, we consider 
+      neuromodulation beyond driving overall excitation/inhibition and show preliminary 
+      evidence of how TUS might interact with ongoing neural dynamics instead. 
+      Primarily, this study highlights the substantial shortcomings in accounting for 
+      the auditory confound in prior TUS-TMS work where only a flip-over sham and no 
+      active control was used. The field must critically reevaluate previous findings 
+      given the demonstrated impact of peripheral confounds. Furthermore, rigorous 
+      experimental design via (in)active control conditions is required to make 
+      substantiated claims in future TUS studies. Only when direct effects are 
+      disentangled from those driven by peripheral confounds can TUS fully realize its 
+      potential for research and clinical applications.
+CI  - (c) 2023, Kop et al.
+FAU - Kop, Benjamin R
+AU  - Kop BR
+AUID- ORCID: 0000-0001-7817-5845
+AD  - Donders Institute for Brain, Cognition, and Behaviour; Radboud University 
+      Nijmegen, Nijmegen, Netherlands.
+FAU - Shamli Oghli, Yazan
+AU  - Shamli Oghli Y
+AD  - Krembil Research Institute, University Health Network; University of Toronto, 
+      Toronto, Canada.
+FAU - Grippe, Talyta C
+AU  - Grippe TC
+AD  - Krembil Research Institute, University Health Network; University of Toronto, 
+      Toronto, Canada.
+FAU - Nandi, Tulika
+AU  - Nandi T
+AD  - Neuroimaging Center; Johannes-Gutenberg University Medical Center Mainz, Mainz, 
+      Germany.
+FAU - Lefkes, Judith
+AU  - Lefkes J
+AD  - Donders Institute for Brain, Cognition, and Behaviour; Radboud University 
+      Nijmegen, Nijmegen, Netherlands.
+FAU - Meijer, Sjoerd W
+AU  - Meijer SW
+AD  - Donders Institute for Brain, Cognition, and Behaviour; Radboud University 
+      Nijmegen, Nijmegen, Netherlands.
+FAU - Farboud, Soha
+AU  - Farboud S
+AD  - Donders Institute for Brain, Cognition, and Behaviour; Radboud University 
+      Nijmegen, Nijmegen, Netherlands.
+FAU - Engels, Marwan
+AU  - Engels M
+AD  - Donders Institute for Brain, Cognition, and Behaviour; Radboud University 
+      Nijmegen, Nijmegen, Netherlands.
+FAU - Hamani, Michelle
+AU  - Hamani M
+AD  - Krembil Research Institute, University Health Network; University of Toronto, 
+      Toronto, Canada.
+FAU - Null, Melissa
+AU  - Null M
+AD  - Neuroimaging Center; Johannes-Gutenberg University Medical Center Mainz, Mainz, 
+      Germany.
+FAU - Radetz, Angela
+AU  - Radetz A
+AD  - Neuroimaging Center; Johannes-Gutenberg University Medical Center Mainz, Mainz, 
+      Germany.
+FAU - Hassan, Umair
+AU  - Hassan U
+AD  - Neuroimaging Center; Johannes-Gutenberg University Medical Center Mainz, Mainz, 
+      Germany.
+FAU - Darmani, Ghazaleh
+AU  - Darmani G
+AD  - Krembil Research Institute, University Health Network; University of Toronto, 
+      Toronto, Canada.
+FAU - Chetverikov, Andrey
+AU  - Chetverikov A
+AD  - Donders Institute for Brain, Cognition, and Behaviour; Radboud University 
+      Nijmegen, Nijmegen, Netherlands.
+AD  - Department of Psychosocial Science, Faculty of Psychology, University of Bergen, 
+      Bergen, Norway.
+FAU - den Ouden, Hanneke E M
+AU  - den Ouden HEM
+AUID- ORCID: 0000-0001-7039-5130
+AD  - Donders Institute for Brain, Cognition, and Behaviour; Radboud University 
+      Nijmegen, Nijmegen, Netherlands.
+FAU - Bergmann, Til Ole
+AU  - Bergmann TO
+AD  - Neuroimaging Center; Johannes-Gutenberg University Medical Center Mainz, Mainz, 
+      Germany.
+AD  - Leibniz Institute for Resilience Research Mainz, Mainz, Germany.
+FAU - Chen, Robert
+AU  - Chen R
+AD  - Krembil Research Institute, University Health Network; University of Toronto, 
+      Toronto, Canada.
+FAU - Verhagen, Lennart
+AU  - Verhagen L
+AUID- ORCID: 0000-0003-3207-7929
+AD  - Donders Institute for Brain, Cognition, and Behaviour; Radboud University 
+      Nijmegen, Nijmegen, Netherlands.
+LA  - eng
+GR  - 18919/Nederlandse Organisatie voor Wetenschappelijk Onderzoek/
+GR  - 452-17-016/Nederlandse Organisatie voor Wetenschappelijk Onderzoek/
+GR  - HiTMaT-38H3/Holland High Tech/
+GR  - FDN 154292/CAPMC/CIHR/Canada
+GR  - ENG 173742/CAPMC/CIHR/Canada
+GR  - RGPIN-2020-04176/Natural Sciences and Engineering Research Council of Canada/
+GR  - RTI-2020-0024/Natural Sciences and Engineering Research Council of Canada/
+PT  - Journal Article
+DEP - 20240827
+PL  - England
+TA  - Elife
+JT  - eLife
+JID - 101579614
+SB  - IM
+UOF - doi: 10.1101/2023.02.22.527901
+UOF - doi: 10.7554/eLife.88762.1
+UOF - doi: 10.7554/eLife.88762.2
+MH  - Humans
+MH  - Adult
+MH  - Female
+MH  - Male
+MH  - *Transcranial Magnetic Stimulation/methods
+MH  - *Evoked Potentials, Motor/physiology
+MH  - *Acoustic Stimulation
+MH  - *Motor Cortex/physiology
+MH  - Young Adult
+MH  - Ultrasonic Waves
+PMC - PMC11349300
+OTO - NOTNLM
+OT  - TMS
+OT  - TUS
+OT  - auditory confound
+OT  - design
+OT  - experimental control
+OT  - human
+OT  - neuromodulation
+OT  - neuroscience
+OT  - primary motor cortex
+OT  - transcranial magnetic stimulation
+OT  - transcranial ultrasound stimulation
+COIS- BK, YS, TG, TN, JL, SM, SF, ME, MH, MN, AR, GD, AC, TB, RC No competing interests 
+      declared, UH is the head of software development at sync2brain GmbH, where the 
+      bossdevice used in Experiment IV was developed, Hd, LV Reviewing editor, eLife
+EDAT- 2024/08/27 18:42
+MHDA- 2024/08/27 18:43
+PMCR- 2024/08/27
+CRDT- 2024/08/27 12:52
+PHST- 2024/08/27 18:43 [medline]
+PHST- 2024/08/27 18:42 [pubmed]
+PHST- 2024/08/27 12:52 [entrez]
+PHST- 2024/08/27 00:00 [pmc-release]
+AID - 88762 [pii]
+AID - 10.7554/eLife.88762 [doi]
+PST - epublish
+SO  - Elife. 2024 Aug 27;12:RP88762. doi: 10.7554/eLife.88762.
+
+PMID- 41338480
+OWN - NLM
+STAT- In-Process
+LR  - 20260201
+IS  - 1876-4754 (Electronic)
+IS  - 1876-4754 (Linking)
+VI  - 19
+IP  - 1
+DP  - 2026 Jan-Feb
+TI  - Response to: Brain injury during focused ultrasound neuromodulation for substance 
+      use disorder.
+PG  - 102989
+LID - S1935-861X(25)00391-2 [pii]
+LID - 10.1016/j.brs.2025.102989 [doi]
+FAU - Fouragnan, Elsa
+AU  - Fouragnan E
+AD  - University of Plymouth, United Kingdom. Electronic address: 
+      elsa.fouragnan@plymouth.ac.uk.
+LA  - eng
+PT  - Letter
+DEP - 20251201
+PL  - United States
+TA  - Brain Stimul
+JT  - Brain stimulation
+JID - 101465726
+SB  - IM
+COIS- Declaration of competing interest The authors declare the following financial 
+      interests/personal relationships which may be considered as potential competing 
+      interests: Elsa Fouragnan reports financial support was provided by UK Research 
+      and Innovation Medical Research Council. Elsa Fouragnan reports financial support 
+      was provided by Biotechnology and Biological Sciences Research Council. Elsa 
+      Fouragnan reports a relationship with Attune Neuroscience that includes: 
+      consulting or advisory. If there are other authors, they declare that they have 
+      no known competing financial interests or personal relationships that could have 
+      appeared to influence the work reported in this paper.
+EDAT- 2025/12/04 02:11
+MHDA- 2025/12/04 02:11
+CRDT- 2025/12/03 19:32
+PHST- 2025/10/21 00:00 [received]
+PHST- 2025/11/11 00:00 [revised]
+PHST- 2025/11/17 00:00 [accepted]
+PHST- 2025/12/04 02:11 [pubmed]
+PHST- 2025/12/04 02:11 [medline]
+PHST- 2025/12/03 19:32 [entrez]
+AID - S1935-861X(25)00391-2 [pii]
+AID - 10.1016/j.brs.2025.102989 [doi]
+PST - ppublish
+SO  - Brain Stimul. 2026 Jan-Feb;19(1):102989. doi: 10.1016/j.brs.2025.102989. Epub 
+      2025 Dec 1.
+
+PMID- 41317895
+OWN - NLM
+STAT- In-Process
+LR  - 20260201
+IS  - 1876-4754 (Electronic)
+IS  - 1876-4754 (Linking)
+VI  - 19
+IP  - 1
+DP  - 2026 Jan-Feb
+TI  - Open letter on intervention regimes and adverse events in focused ultrasound for 
+      neuromodulation.
+PG  - 102994
+LID - S1935-861X(25)00396-1 [pii]
+LID - 10.1016/j.brs.2025.102994 [doi]
+FAU - Klein-Flugge, Miriam C
+AU  - Klein-Flugge MC
+AD  - Oxford Centre for Integrative Neuroimaging, Department of Experimental 
+      Psychology, University of Oxford, Oxford, OX1 3EL, United Kingdom; Department of 
+      Psychiatry,Warneford Hospital, University of Oxford, Oxford, OX3 7JX, United 
+      Kingdom. Electronic address: miriam.klein-flugge@psy.ox.ac.uk.
+FAU - Airan, Raag D
+AU  - Airan RD
+AD  - Department of Radiology, Neuroimaging and Neurointervention, Stanford University, 
+      Palo Alto, CA, 94304, USA.
+FAU - Attali, David
+AU  - Attali D
+AD  - Unite de Neuropsychiatrie Interventionnelle, Hopital Sainte-Anne, GHU Paris 
+      Psychiatrie & Neurosciences, Universite Paris Cite, 75014, Paris, France; 
+      Institute Physics for Medicine Paris - INSERM, CNRS, ESPCI Paris-PSL, Paris, 
+      France.
+FAU - Aubry, Jean-Francois
+AU  - Aubry JF
+AD  - Institute Physics for Medicine Paris - INSERM, CNRS, ESPCI Paris-PSL, Paris, 
+      France.
+FAU - Bubrick, Ellen J
+AU  - Bubrick EJ
+AD  - Brigham and Women's Hospital, Department of Neurology, Harvard Medical School, 
+      USA.
+FAU - Caskey, Charles F
+AU  - Caskey CF
+AD  - Vanderbilt University Medical Center, USA.
+FAU - Cleveland, Robin O
+AU  - Cleveland RO
+AD  - Institute of Biomedical Engineering, University of Oxford, United Kingdom.
+FAU - Fouragnan, Elsa F
+AU  - Fouragnan EF
+AD  - School of Psychology, Faculty of Health, University of Plymouth, United Kingdom; 
+      Brain Research Imaging Center, Faculty of Health, University of Plymouth, United 
+      Kingdom.
+FAU - Jones, Ryan M
+AU  - Jones RM
+AD  - Physical Sciences Platform, Sunnybrook Research Institute, Toronto, ON, Canada.
+FAU - Khokhlova, Tatiana D
+AU  - Khokhlova TD
+AD  - Division of Gastroenterology, University of Washington School of Medicine, USA; 
+      Applied Physics Laboratory, University of Washington, USA.
+FAU - Kubanek, Jan
+AU  - Kubanek J
+AD  - Psychiatry, Radiology, Neurology, and Biomedical Engineering, Washington 
+      University, USA.
+FAU - Lea-Banks, Harriet
+AU  - Lea-Banks H
+AD  - Department of Medical Physics and Biomedical Engineering, University College 
+      London, London, United Kingdom; UCL Centre for Advanced Biomedical Imaging, 
+      Division of Medicine, University College London, London, United Kingdom.
+FAU - Legon, Wynn
+AU  - Legon W
+AD  - Fralin Biomedical Research Institute at Virginia Tech Carilion, USA.
+FAU - McDannold, Nathan
+AU  - McDannold N
+AD  - Brigham and Women's Hospital, Department of Neurology, Harvard Medical School, 
+      USA.
+FAU - Murphy, Keith R
+AU  - Murphy KR
+AD  - Attune Neurosciences, San Francisco, CA, USA.
+FAU - Osada, Takahiro
+AU  - Osada T
+AD  - Department of Neurophysiology, Juntendo University School of Medicine, Japan.
+FAU - Pauly, Kim Butts
+AU  - Pauly KB
+AD  - Department of Radiology, Neuroimaging and Neurointervention, Stanford University, 
+      Palo Alto, CA, 94304, USA.
+FAU - Pichardo, Samuel
+AU  - Pichardo S
+AD  - Radiology and Clinical Neurosciences, Hotchkiss Brain Institute, Cumming School 
+      of Medicine, University of Calgary, Canada.
+FAU - Sallet, Jerome
+AU  - Sallet J
+AD  - INSERM Lyon France, 1 University of Oxford, United Kingdom.
+FAU - Sun, Lei
+AU  - Sun L
+AD  - The Hong Kong Polytechnic University, China.
+FAU - Treeby, Bradley E
+AU  - Treeby BE
+AD  - NeuroHarmonics LTD, 71-75 Shelton Street, Covent Garden, London, United Kingdom.
+FAU - Zheng, Hairong
+AU  - Zheng H
+AD  - Shenzhen Institutes of Advanced Technology, United Kingdom.
+FAU - Martin, Eleanor
+AU  - Martin E
+AD  - Department of Medical Physics and Biomedical Engineering, University College 
+      London, London, United Kingdom. Electronic address: elly.martin@ucl.ac.uk.
+FAU - Verhagen, Lennart
+AU  - Verhagen L
+AD  - Donders Institute for Brain, Cognition and Behaviour, Radboud University, 6525 
+      GD, Nijmegen, the Netherlands. Electronic address: 
+      lennart.verhagen@donders.ru.nl.
+LA  - eng
+PT  - Letter
+DEP - 20251127
+PL  - United States
+TA  - Brain Stimul
+JT  - Brain stimulation
+JID - 101465726
+SB  - IM
+COIS- Declaration of competing interest Raag D Airan is on the advisory boards of 
+      Cordance Medical and Lumos Labs and has received grant funding from AbbVie. David 
+      Attali has been invited to scientific meetings, served as a speaker, and received 
+      compensation from Janssen. David Attali has been invited to scientific meetings 
+      by Neuraxpharm. Jean-Francois Aubry reports a relationship with InSightec that 
+      includes: funding grants. Jean-Francois Aubry reports a relationship with 
+      Sonomind that includes: equity or stocks and consulting or advisory. Elsa 
+      Fourgagnan: Advisor for Attune Neuroscience. Tatiana Khokhlova: Scientific 
+      advisor for Petal Surgical, Inc and Associate Editor for Ultrasonics. Jan 
+      Kubanek: Co-founder of SPIRE Therapeutics Inc. Keith R. Murphy. holds equity and 
+      is a salaried employee of Attune Neurosciences, Inc. Kim Butts Pauly reports a 
+      relationship with Attune Neurosciences that includes: consulting or advisory and 
+      equity or stocks. Kim Butts Pauly reports a relationship with Surf Therapeutics 
+      that includes: consulting or advisory. Kim Butts Pauly reports a relationship 
+      with MR Instruments that includes: non-financial support. Bradley E. Treeby 
+      reports a relationship with NeuroHarmonics LTD that includes: board membership, 
+      employment, and equity or stocks. Eleanor Martin reports a relationship with 
+      BrainBox Ltd that includes: consulting or advisory. Lennart Verhagen reports a 
+      relationship with Brainbox that includes: non-financial support. Lennart Verhagen 
+      reports a relationship with Sonic Concepts that includes: non-financial support. 
+      Lennart Verhagen reports a relationship with Image Guided Therapy that includes: 
+      non-financial support. Lennart Verhagen reports a relationship with Nudge that 
+      includes: consulting or advisory.
+EDAT- 2025/11/30 00:30
+MHDA- 2025/11/30 00:30
+CRDT- 2025/11/29 19:13
+PHST- 2025/11/18 00:00 [received]
+PHST- 2025/11/23 00:00 [accepted]
+PHST- 2025/11/30 00:30 [pubmed]
+PHST- 2025/11/30 00:30 [medline]
+PHST- 2025/11/29 19:13 [entrez]
+AID - S1935-861X(25)00396-1 [pii]
+AID - 10.1016/j.brs.2025.102994 [doi]
+PST - ppublish
+SO  - Brain Stimul. 2026 Jan-Feb;19(1):102994. doi: 10.1016/j.brs.2025.102994. Epub 
+      2025 Nov 27.
+
+PMID- 41214344
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20260812
+LR  - 20260814
+IS  - 1546-1696 (Electronic)
+IS  - 1087-0156 (Print)
+IS  - 1087-0156 (Linking)
+VI  - 44
+IP  - 8
+DP  - 2026 Aug
+TI  - Clearance of intracranial debris by ultrasound reduces inflammation and improves 
+      outcomes in hemorrhagic stroke models.
+PG  - 1317-1328
+LID - 10.1038/s41587-025-02866-8 [doi]
+AB  - Impaired clearance of neurotoxic debris in the brain exacerbates neurologic 
+      disease and presents a promising therapeutic target. Pharmacologic therapies can 
+      enhance meningeal lymphatic clearance in preclinical models but may be limited by 
+      systemic toxicities or invasive administration. Here we report a low-intensity, 
+      focused ultrasound protocol that noninvasively clears pathogenic substances from 
+      the cerebrospinal fluid and brain interstitium in mice. Using two models of 
+      hemorrhagic stroke, we demonstrate that this protocol clears the cerebrospinal 
+      fluid and interstitium of blood cells, which accumulate in the deep cervical 
+      lymph nodes via meningeal lymphatics. The protocol directly modulates molecular 
+      processes, including mechanosensitive channels, to shift microglial phenotypes 
+      and astrocytic aquaporin localization to reduce neuroinflammation and 
+      neurocytotoxicity. In the intracerebral hemorrhage model, it improves behavioral 
+      outcomes and increases survival with greater efficacy than a pharmacologic 
+      benchmark. The protocol satisfies Food and Drug Administration safety guidelines, 
+      supporting clinical translatability. If demonstrated effective clinically, it may 
+      provide therapeutic benefit not only in hemorrhagic stroke but also in other 
+      neurologic disorders that involve impaired debris clearance.
+CI  - (c) 2025. The Author(s).
+FAU - Azadian, Matine M
+AU  - Azadian MM
+AD  - Department of Radiology, Stanford University School of Medicine, Stanford, CA, 
+      USA.
+AD  - Department of Neurology, Stanford University School of Medicine, Stanford, CA, 
+      USA.
+AD  - Neurosciences Graduate Program, Stanford University School of Medicine, Stanford, 
+      CA, USA.
+FAU - Kiani Shabestari, Sepideh
+AU  - Kiani Shabestari S
+AD  - Department of Neurology, Stanford University School of Medicine, Stanford, CA, 
+      USA.
+FAU - Rajan, Arjun
+AU  - Rajan A
+AUID- ORCID: 0000-0001-7043-1031
+AD  - Department of Neurosurgery, Stanford University School of Medicine, Stanford, CA, 
+      USA.
+AD  - Developmental Biology Graduate Program, Stanford University School of Medicine, 
+      Stanford, CA, USA.
+FAU - Martinez, Payton J
+AU  - Martinez PJ
+AUID- ORCID: 0000-0003-2634-9502
+AD  - Department of Radiology, Stanford University School of Medicine, Stanford, CA, 
+      USA.
+FAU - Macedo, Nicholas
+AU  - Macedo N
+AD  - Department of Radiology, Stanford University School of Medicine, Stanford, CA, 
+      USA.
+FAU - Markarian, Eric
+AU  - Markarian E
+AUID- ORCID: 0000-0002-6462-6577
+AD  - Department of Radiology, Stanford University School of Medicine, Stanford, CA, 
+      USA.
+FAU - Xiang, Yun
+AU  - Xiang Y
+AUID- ORCID: 0000-0001-8601-9324
+AD  - Department of Radiology, Stanford University School of Medicine, Stanford, CA, 
+      USA.
+FAU - Yu, Brenda J
+AU  - Yu BJ
+AUID- ORCID: 0000-0001-8304-9851
+AD  - Department of Radiology, Stanford University School of Medicine, Stanford, CA, 
+      USA.
+AD  - Biophysics Graduate Program, Stanford University School of Medicine, Stanford, 
+      CA, USA.
+FAU - George, Paul M
+AU  - George PM
+AUID- ORCID: 0000-0002-1080-098X
+AD  - Department of Neurology, Stanford University School of Medicine, Stanford, CA, 
+      USA.
+FAU - Fame, Ryann M
+AU  - Fame RM
+AUID- ORCID: 0000-0002-8244-2624
+AD  - Department of Neurosurgery, Stanford University School of Medicine, Stanford, CA, 
+      USA.
+FAU - Airan, Raag D
+AU  - Airan RD
+AUID- ORCID: 0000-0001-5259-5606
+AD  - Department of Radiology, Stanford University School of Medicine, Stanford, CA, 
+      USA. rairan@stanford.edu.
+AD  - Department of Materials Science and Engineering, Stanford University School of 
+      Medicine, Stanford, CA, USA. rairan@stanford.edu.
+AD  - Department of Psychiatry and Behavioral Sciences, Stanford University School of 
+      Medicine, Stanford, CA, USA. rairan@stanford.edu.
+LA  - eng
+GR  - R01NS126761/U.S. Department of Health & Human Services | NIH | National Institute 
+      of Neurological Disorders and Stroke (NINDS)/
+GR  - UG3NS114438/U.S. Department of Health & Human Services | NIH | National Institute 
+      of Neurological Disorders and Stroke (NINDS)/
+GR  - UG3 NS115637/NS/NINDS NIH HHS/United States
+GR  - UG3 NS114438/NS/NINDS NIH HHS/United States
+GR  - Predoctoral Fellowship/Ford Foundation/
+GR  - Foundation Award/Shurl and Kay Curci Foundation (Shurl & Kay Curci Foundation)/
+GR  - UG3NS115637/U.S. Department of Health & Human Services | NIH | National Institute 
+      of Neurological Disorders and Stroke (NINDS)/
+GR  - Graduate Research Fellowship/NSF | Directorate for Education & Human Resources | 
+      Division of Graduate Education (DGE)/
+GR  - RF1MH114252/U.S. Department of Health & Human Services | NIH | National Institute 
+      of Mental Health (NIMH)/
+GR  - R01 NS126761/NS/NINDS NIH HHS/United States
+GR  - RF1 MH114252/MH/NIMH NIH HHS/United States
+GR  - T32 GM141828/GM/NIGMS NIH HHS/United States
+PT  - Journal Article
+DEP - 20251110
+PL  - United States
+TA  - Nat Biotechnol
+JT  - Nature biotechnology
+JID - 9604648
+SB  - IM
+MH  - Animals
+MH  - Disease Models, Animal
+MH  - Mice
+MH  - *Hemorrhagic Stroke/therapy/pathology
+MH  - *Inflammation/therapy
+MH  - *Brain/pathology/metabolism
+MH  - Male
+PMC - PMC12951864
+MID - NIHMS2141229
+COIS- Competing interests: R.D.A. has received consulting fees from Cordance Medical 
+      and Lumos Labs and grant funding from AbbVie. All other authors declare no 
+      conflicts of interest.
+EDAT- 2025/11/11 00:27
+MHDA- 2026/08/12 06:05
+PMCR- 2025/11/10
+CRDT- 2025/11/10 23:41
+PHST- 2024/09/18 00:00 [received]
+PHST- 2025/09/15 00:00 [accepted]
+PHST- 2026/08/12 06:05 [medline]
+PHST- 2025/11/11 00:27 [pubmed]
+PHST- 2025/11/10 23:41 [entrez]
+PHST- 2025/11/10 00:00 [pmc-release]
+AID - 10.1038/s41587-025-02866-8 [pii]
+AID - 2866 [pii]
+AID - 10.1038/s41587-025-02866-8 [doi]
+PST - ppublish
+SO  - Nat Biotechnol. 2026 Aug;44(8):1317-1328. doi: 10.1038/s41587-025-02866-8. Epub 
+      2025 Nov 10.
+
+PMID- 31230462
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200406
+LR  - 20201101
+IS  - 1535-7228 (Electronic)
+IS  - 0002-953X (Print)
+IS  - 0002-953X (Linking)
+VI  - 176
+IP  - 11
+DP  - 2019 Nov 1
+TI  - Theta-Burst Transcranial Magnetic Stimulation for Posttraumatic Stress Disorder.
+PG  - 939-948
+LID - 10.1176/appi.ajp.2019.18101160 [doi]
+AB  - OBJECTIVE: Posttraumatic stress disorder (PTSD) is a highly prevalent psychiatric 
+      disorder associated with disruption in social and occupational function. 
+      Transcranial magnetic stimulation (TMS) represents a novel approach to PTSD, and 
+      intermittent theta-burst stimulation (iTBS) is a new, more rapid administration 
+      protocol with data supporting efficacy in depression. The authors conducted a 
+      sham-controlled study of iTBS for PTSD. METHODS: Fifty veterans with PTSD 
+      received 10 days of sham-controlled iTBS (1,800 pulses/day), followed by 10 
+      unblinded sessions. Primary outcome measures included acceptability (retention 
+      rates), changes in PTSD symptoms (clinician- and self-rated), quality of life, 
+      social and occupational function, and depression, obtained at the end of 2 weeks; 
+      analysis of variance was used to compare active with sham stimulation. Secondary 
+      outcomes were evaluated 1 month after treatment, using mixed-model analyses. 
+      Resting-state functional MRI was acquired at pretreatment baseline on an eligible 
+      subset of participants (N=26) to identify response predictors. RESULTS: Retention 
+      was high, side effects were consistent with standard TMS, and blinding was 
+      successful. At 2 weeks, active iTBS was significantly associated with improved 
+      social and occupational function (Cohen's d=0.39); depression was improved with 
+      iTBS compared with the sham treatment (d=-0.45), but the difference fell short of 
+      significance, and moderate nonsignificant effect sizes were observed on 
+      self-reported PTSD symptoms (d=-0.34). One-month outcomes, which incorporated 
+      data from the unblinded phase of the study, indicated superiority of active iTBS 
+      on clinician- and self-rated PTSD symptoms (d=-0.74 and -0.63, respectively), 
+      depression (d=-0.47), and social and occupational function (d=0.93) (all 
+      significant). Neuroimaging indicated that clinical improvement was significantly 
+      predicted by stronger (greater positive) connectivity within the default mode 
+      network and by anticorrelated (greater negative) cross-network connectivity. 
+      CONCLUSIONS: iTBS appears to be a promising new treatment for PTSD. Most clinical 
+      improvements from stimulation occurred early, which suggests a need for further 
+      investigation of optimal iTBS time course and duration. Consistent with previous 
+      neuroimaging studies of TMS, default mode network connectivity played an 
+      important role in response prediction.
+FAU - Philip, Noah S
+AU  - Philip NS
+AD  - The Center for Neurorestoration and Neurotechnology, Providence VA Medical 
+      Center, and the Department of Psychiatry and Human Behavior, Alpert Medical 
+      School of Brown University, Providence, R.I.
+FAU - Barredo, Jennifer
+AU  - Barredo J
+AD  - The Center for Neurorestoration and Neurotechnology, Providence VA Medical 
+      Center, and the Department of Psychiatry and Human Behavior, Alpert Medical 
+      School of Brown University, Providence, R.I.
+FAU - Aiken, Emily
+AU  - Aiken E
+AD  - The Center for Neurorestoration and Neurotechnology, Providence VA Medical 
+      Center, and the Department of Psychiatry and Human Behavior, Alpert Medical 
+      School of Brown University, Providence, R.I.
+FAU - Larson, Victoria
+AU  - Larson V
+AD  - The Center for Neurorestoration and Neurotechnology, Providence VA Medical 
+      Center, and the Department of Psychiatry and Human Behavior, Alpert Medical 
+      School of Brown University, Providence, R.I.
+FAU - Jones, Richard N
+AU  - Jones RN
+AD  - The Center for Neurorestoration and Neurotechnology, Providence VA Medical 
+      Center, and the Department of Psychiatry and Human Behavior, Alpert Medical 
+      School of Brown University, Providence, R.I.
+FAU - Shea, M Tracie
+AU  - Shea MT
+AD  - The Center for Neurorestoration and Neurotechnology, Providence VA Medical 
+      Center, and the Department of Psychiatry and Human Behavior, Alpert Medical 
+      School of Brown University, Providence, R.I.
+FAU - Greenberg, Benjamin D
+AU  - Greenberg BD
+AD  - The Center for Neurorestoration and Neurotechnology, Providence VA Medical 
+      Center, and the Department of Psychiatry and Human Behavior, Alpert Medical 
+      School of Brown University, Providence, R.I.
+FAU - van 't Wout-Frank, Mascha
+AU  - van 't Wout-Frank M
+AD  - The Center for Neurorestoration and Neurotechnology, Providence VA Medical 
+      Center, and the Department of Psychiatry and Human Behavior, Alpert Medical 
+      School of Brown University, Providence, R.I.
+LA  - eng
+SI  - ClinicalTrials.gov/NCT02769312
+GR  - I21 RX002032/RX/RRD VA/United States
+GR  - IK2 CX000724/CX/CSRD VA/United States
+GR  - IK2 CX001824/CX/CSRD VA/United States
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+DEP - 20190624
+PL  - United States
+TA  - Am J Psychiatry
+JT  - The American journal of psychiatry
+JID - 0370512
+SB  - IM
+CIN - Am J Psychiatry. 2019 Nov 1;176(11):894-896. doi: 10.1176/appi.ajp.2019.19080895. 
+      PMID: 31672041
+CIN - Am J Psychiatry. 2020 May 1;177(5):465-466. doi: 10.1176/appi.ajp.2019.19101052. 
+      PMID: 32354268
+CIN - Am J Psychiatry. 2020 May 1;177(5):466-467. doi: 10.1176/appi.ajp.2019.19101052r. 
+      PMID: 32354271
+MH  - Depression/complications/therapy
+MH  - Double-Blind Method
+MH  - Female
+MH  - Humans
+MH  - Magnetic Resonance Imaging
+MH  - Male
+MH  - Middle Aged
+MH  - Patient Acceptance of Health Care/statistics & numerical data
+MH  - Quality of Life
+MH  - Social Behavior
+MH  - Stress Disorders, Post-Traumatic/complications/*therapy
+MH  - *Theta Rhythm
+MH  - Transcranial Magnetic Stimulation/adverse effects/*methods
+MH  - Treatment Outcome
+PMC - PMC6824981
+MID - NIHMS1531538
+OTO - NOTNLM
+OT  - Brain Imaging Techniques
+OT  - Posttraumatic Stress Disorder
+OT  - Theta Burst Stimulation
+OT  - Transcranial Magnetic Stimulation
+COIS- DISCLOSURES The authors report no biomedical conflicts of interest related to 
+      this work. Dr. Philip has received grant support from Neuronetics, Neosync and 
+      Janssen through clinical trial contracts, and has been an unpaid scientific 
+      advisory board member for Neuronetics. Other coauthors report no conflicts of 
+      interest.
+EDAT- 2019/06/25 06:00
+MHDA- 2020/04/09 06:00
+PMCR- 2020/11/01
+CRDT- 2019/06/25 06:00
+PHST- 2019/06/25 06:00 [pubmed]
+PHST- 2020/04/09 06:00 [medline]
+PHST- 2019/06/25 06:00 [entrez]
+PHST- 2020/11/01 00:00 [pmc-release]
+AID - 10.1176/appi.ajp.2019.18101160 [doi]
+PST - ppublish
+SO  - Am J Psychiatry. 2019 Nov 1;176(11):939-948. doi: 10.1176/appi.ajp.2019.18101160. 
+      Epub 2019 Jun 24.
+
+PMID- 42780377
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20260926
+LR  - 20260927
+DP  - 2026 Sep 20
+TI  - Low-Intensity Focused Ultrasound of the Amygdala in Depression and Anxiety: A 
+      First-in-Human Active-Controlled Trial.
+LID - 2026.09.18.26363360 [pii]
+LID - 10.64898/2026.09.18.26363360 [doi]
+AB  - BACKGROUND: Low-intensity focused ultrasound (FUS) offers a noninvasive method 
+      for directly modulating deep brain structures with millimeter-scale precision, 
+      potentially addressing a major limitation of existing noninvasive neuromodulation 
+      approaches. The amygdala is a key node in affective neurocircuitry and a 
+      compelling target for psychiatric intervention. We conducted a first-in-human 
+      active controlled trial (NCT05147142) of amygdala-targeted FUS in patients with 
+      major depressive disorder, examining safety and target engagement. METHODS: Ten 
+      participants with major depressive disorder completed a single-blind randomized 
+      crossover trial with blinded symptom ratings, comparing imaging-guided FUS 
+      targeting the right amygdala versus left primary somatosensory cortex as an 
+      active control. FUS comprised two 10-minute applications within diagnostic 
+      ultrasound safety limits. Primary outcomes were safety and target engagement 
+      assessed with BOLD-fMRI during sonication, post-sonication arterial spin labeling 
+      (ASL) and resting-state functional connectivity. Secondary and exploratory 
+      outcomes included symptom change and imaging-symptom relationships. RESULTS: Nine 
+      participants completed both sessions. No serious adverse events occurred; 
+      neurological, neuropsychological, and MRI safety assessments were unremarkable. 
+      Adverse events were more frequent after amygdala than control sonication 
+      (p=0.028); one participant experienced clinical worsening following amygdala 
+      sonication and required monitoring. Amygdala sonication produced greater 
+      perfusion change in the targeted amygdala compared to the control region 
+      (p<0.001), and ipsilateral hippocampus (p<0.001). BOLD-fMRI during sonication 
+      demonstrated engagement of ventromedial prefrontal and rostral anterior cingulate 
+      regions, while post-sonication resting-state connectivity decreased between 
+      basolateral amygdala and sensorimotor regions (corrected ps<0.05). Symptom 
+      improvement did not differ between conditions, but exploratory imaging-symptom 
+      relationships were significant. Spontaneous reports of calm, clarity, or 
+      lightness occurred after amygdala but not control sonication (p<0.001). 
+      CONCLUSIONS: Amygdala-targeted FUS produced anatomically specific, multimodal 
+      evidence of neuromodulation relative to active control, with a manageable safety 
+      profile. Convergent target and circuit-level signals support further development 
+      of FUS as a precision approach for modulating deep brain targets in psychiatric 
+      disorders.
+FAU - Arulpragasam, Amanda R
+AU  - Arulpragasam AR
+AUID- ORCID: 0000-0002-8027-2625
+AD  - Center for Neurorestoration and Neurotechnology, VA Providence Healthcare System, 
+      Providence, RI.
+AD  - Department of Psychiatry and Human Behavior, Warren Alpert Medical School of 
+      Brown University, Providence, RI.
+FAU - van 't Wout-Frank, Mascha
+AU  - van 't Wout-Frank M
+AD  - Center for Neurorestoration and Neurotechnology, VA Providence Healthcare System, 
+      Providence, RI.
+AD  - Department of Psychiatry and Human Behavior, Warren Alpert Medical School of 
+      Brown University, Providence, RI.
+AD  - Brown University Health, Providence, RI.
+FAU - Berlow, Yosef A
+AU  - Berlow YA
+AD  - Center for Neurorestoration and Neurotechnology, VA Providence Healthcare System, 
+      Providence, RI.
+AD  - Department of Psychiatry and Human Behavior, Warren Alpert Medical School of 
+      Brown University, Providence, RI.
+FAU - Aiken, Emily
+AU  - Aiken E
+AD  - Center for Neurorestoration and Neurotechnology, VA Providence Healthcare System, 
+      Providence, RI.
+FAU - Gorbatov, Alison
+AU  - Gorbatov A
+AD  - Center for Neurorestoration and Neurotechnology, VA Providence Healthcare System, 
+      Providence, RI.
+FAU - Van Patten, Ryan
+AU  - Van Patten R
+AD  - Center for Neurorestoration and Neurotechnology, VA Providence Healthcare System, 
+      Providence, RI.
+AD  - Department of Psychiatry and Human Behavior, Warren Alpert Medical School of 
+      Brown University, Providence, RI.
+FAU - Gillotti, Julia G
+AU  - Gillotti JG
+AD  - Center for Neurorestoration and Neurotechnology, VA Providence Healthcare System, 
+      Providence, RI.
+FAU - Swearingen, Hannah R
+AU  - Swearingen HR
+AD  - Center for Neurorestoration and Neurotechnology, VA Providence Healthcare System, 
+      Providence, RI.
+FAU - Faucher, Christiana R
+AU  - Faucher CR
+AD  - Center for Neurorestoration and Neurotechnology, VA Providence Healthcare System, 
+      Providence, RI.
+AD  - Department of Psychology, University of Minnesota-Twin Cities, Minneapolis, MN.
+FAU - Adams, Hannah
+AU  - Adams H
+AD  - Center for Neurorestoration and Neurotechnology, VA Providence Healthcare System, 
+      Providence, RI.
+FAU - McLaughlin, Nicole C R
+AU  - McLaughlin NCR
+AD  - Center for Neurorestoration and Neurotechnology, VA Providence Healthcare System, 
+      Providence, RI.
+AD  - Department of Psychiatry and Human Behavior, Warren Alpert Medical School of 
+      Brown University, Providence, RI.
+AD  - Butler Hospital, Providence, RI.
+FAU - Liberzon, Israel
+AU  - Liberzon I
+AD  - Texas A&M University Health Science Center, College Station, TX.
+FAU - Barredo, Jennifer
+AU  - Barredo J
+AD  - Center for Neurorestoration and Neurotechnology, VA Providence Healthcare System, 
+      Providence, RI.
+AD  - Department of Psychiatry and Human Behavior, Warren Alpert Medical School of 
+      Brown University, Providence, RI.
+FAU - Correia, Stephen
+AU  - Correia S
+AD  - Center for Neurorestoration and Neurotechnology, VA Providence Healthcare System, 
+      Providence, RI.
+AD  - Institute of Gerontology, University of Georgia, Athens, GA.
+FAU - Greenberg, Benjamin
+AU  - Greenberg B
+AD  - Center for Neurorestoration and Neurotechnology, VA Providence Healthcare System, 
+      Providence, RI.
+AD  - Department of Psychiatry and Human Behavior, Warren Alpert Medical School of 
+      Brown University, Providence, RI.
+AD  - Brown University Health, Providence, RI.
+FAU - Philip, Noah S
+AU  - Philip NS
+AD  - Center for Neurorestoration and Neurotechnology, VA Providence Healthcare System, 
+      Providence, RI.
+AD  - Department of Psychiatry and Human Behavior, Warren Alpert Medical School of 
+      Brown University, Providence, RI.
+LA  - eng
+GR  - I01 RX005299/RX/RRD VA/United States
+GR  - I50 RX002864/RX/RRD VA/United States
+GR  - IK2 CX002603/CX/CSRD VA/United States
+GR  - U01 MH123427/MH/NIMH NIH HHS/United States
+PT  - Journal Article
+PT  - Preprint
+DEP - 20260920
+PL  - United States
+TA  - medRxiv
+JT  - medRxiv : the preprint server for health sciences
+JID - 101767986
+PMC - PMC13596687
+OTO - NOTNLM
+OT  - amygdala
+OT  - anxiety
+OT  - depression
+OT  - low-intensity focused ultrasound
+OT  - neuroimaging
+EDAT- 2026/09/24 17:31
+MHDA- 2026/09/24 17:32
+PMCR- 2026/09/22
+CRDT- 2026/09/24 11:27
+PHST- 2026/09/24 17:31 [pubmed]
+PHST- 2026/09/24 17:32 [medline]
+PHST- 2026/09/24 11:27 [entrez]
+PHST- 2026/09/22 00:00 [pmc-release]
+AID - 2026.09.18.26363360 [pii]
+AID - 10.64898/2026.09.18.26363360 [doi]
+PST - epublish
+SO  - medRxiv [Preprint]. 2026 Sep 20:2026.09.18.26363360. doi: 
+      10.64898/2026.09.18.26363360.
+
+PMID- 38670224
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240621
+LR  - 20260925
+IS  - 1876-4754 (Electronic)
+IS  - 1935-861X (Print)
+IS  - 1876-4754 (Linking)
+VI  - 17
+IP  - 3
+DP  - 2024 May-Jun
+TI  - ITRUSST consensus on standardised reporting for transcranial ultrasound 
+      stimulation.
+PG  - 607-615
+LID - S1935-861X(24)00071-8 [pii]
+LID - 10.1016/j.brs.2024.04.013 [doi]
+AB  - As transcranial ultrasound stimulation (TUS) advances as a precise, non-invasive 
+      neuromodulatory method, there is a need for consistent reporting standards to 
+      enable comparison and reproducibility across studies. To this end, the 
+      International Transcranial Ultrasonic Stimulation Safety and Standards Consortium 
+      (ITRUSST) formed a subcommittee of experts across several domains to review and 
+      suggest standardised reporting parameters for low intensity TUS, resulting in the 
+      guide presented here. The scope of the guide is limited to reporting the 
+      ultrasound aspects of a study. The guide and supplementary material provide a 
+      simple checklist covering the reporting of: (1) the transducer and drive system, 
+      (2) the drive system settings, (3) the free field acoustic parameters, (4) the 
+      pulse timing parameters, (5) in situ estimates of exposure parameters in the 
+      brain, and (6) intensity parameters. Detailed explanations for each of the 
+      parameters, including discussions on assumptions, measurements, and calculations, 
+      are also provided.
+CI  - Copyright (c) 2024 The Author(s). Published by Elsevier Inc. All rights reserved.
+FAU - Martin, Eleanor
+AU  - Martin E
+AD  - Department of Medical Physics and Biomedical Engineering, University College 
+      London, London, UK; Wellcome/EPSRC Centre for Interventional and Surgical 
+      Sciences, University College London, London, UK.
+FAU - Aubry, Jean-Francois
+AU  - Aubry JF
+AD  - Physics for Medicine Paris, Inserm U1273, ESPCI Paris, CNRS UMR8063, PSL 
+      University, Paris, France.
+FAU - Schafer, Mark
+AU  - Schafer M
+AD  - School of Biomedical Engineering, Science and Health Systems, Drexel University, 
+      Philadelphia, PA, USA.
+FAU - Verhagen, Lennart
+AU  - Verhagen L
+AD  - Donders Institute for Brain, Cognition and Behaviour, Radboud University, 6525 GD 
+      Nijmegen, The Netherlands.
+FAU - Treeby, Bradley
+AU  - Treeby B
+AD  - Department of Medical Physics and Biomedical Engineering, University College 
+      London, London, UK.
+FAU - Pauly, Kim Butts
+AU  - Pauly KB
+AD  - Department of Radiology, Stanford University, Stanford, CA, USA. Electronic 
+      address: kimbutts@stanford.edu.
+LA  - eng
+GR  - WT_/Wellcome Trust/United Kingdom
+GR  - R01 MH131684/MH/NIMH NIH HHS/United States
+GR  - R01 NS112152/NS/NINDS NIH HHS/United States
+GR  - RF1 MH116977/MH/NIMH NIH HHS/United States
+PT  - Consensus Statement
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+DEP - 20240425
+PL  - United States
+TA  - Brain Stimul
+JT  - Brain stimulation
+JID - 101465726
+SB  - IM
+UOF - ArXiv. 2024 Feb 15:arXiv:2402.10027v1. PMID: 38410648
+MH  - Humans
+MH  - Brain/physiology/diagnostic imaging
+MH  - Ultrasonic Therapy/standards/methods
+PMC - PMC12436198
+MID - NIHMS2003995
+OTO - NOTNLM
+OT  - Standardised reporting
+OT  - TUS
+OT  - Transcranial ultrasound neuromodulation
+OT  - Transcranial ultrasound stimulation
+COIS- Declaration of competing interest The authors declare the following financial 
+      interests/personal relationships which may be considered as potential competing 
+      interests: EM has acted as a consultant for BrainBox Ltd. JFA holds 5 patents on 
+      transcranial ultrasound and had research support from Insightec within the last 3 
+      years. MS is a consultant to Brainsonix Corp., co-inventor on several patents in 
+      tFUS, and is a member of the US Technical Advisory Group to the IEC responsible 
+      for diagnostic ultrasound output regulation. BET is a developer of and holds a 
+      financial interest in the commercially available k-Plan treatment planning 
+      software. LV is a member of the scientific board of the Brainbox Initiative. KBP 
+      has acted as a consultant for Attune Neurosciences and has had research support 
+      from MR Instruments and General Electric within the last 3 years.
+EDAT- 2024/04/27 09:47
+MHDA- 2024/06/22 05:43
+PMCR- 2025/09/16
+CRDT- 2024/04/26 19:23
+PHST- 2024/02/07 00:00 [received]
+PHST- 2024/03/30 00:00 [revised]
+PHST- 2024/04/18 00:00 [accepted]
+PHST- 2024/06/22 05:43 [medline]
+PHST- 2024/04/27 09:47 [pubmed]
+PHST- 2024/04/26 19:23 [entrez]
+PHST- 2025/09/16 00:00 [pmc-release]
+AID - S1935-861X(24)00071-8 [pii]
+AID - 10.1016/j.brs.2024.04.013 [doi]
+PST - ppublish
+SO  - Brain Stimul. 2024 May-Jun;17(3):607-615. doi: 10.1016/j.brs.2024.04.013. Epub 
+      2024 Apr 25.
+
+PMID- 41207505
+OWN - NLM
+STAT- In-Process
+LR  - 20260201
+IS  - 1876-4754 (Electronic)
+IS  - 1876-4754 (Linking)
+VI  - 19
+IP  - 1
+DP  - 2026 Jan-Feb
+TI  - Tremor reduction using multi-focus transcranial ultrasound stimulation system 
+      targeting the thalamus.
+PG  - 102979
+LID - S1935-861X(25)00377-8 [pii]
+LID - 10.1016/j.brs.2025.11.006 [doi]
+FAU - Shrestha, Shirshak
+AU  - Shrestha S
+AD  - Department of Biomedical Engineering, University of Calgary, Calgary, Alberta, 
+      Canada.
+FAU - Coreas, Alan
+AU  - Coreas A
+AD  - Department of Radiology, Cumming School of Medicine, University of Calgary, 
+      Calgary, Alberta, Canada; Hotchkiss Brain Institute, Cumming School of Medicine, 
+      University of Calgary, Calgary, Alberta, Canada.
+FAU - Adeoti, Janet
+AU  - Adeoti J
+AD  - Department of Clinical Neurosciences, Cumming School of Medicine, University of 
+      Calgary, Calgary, Alberta, Canada.
+FAU - Peacock, Georgia
+AU  - Peacock G
+AD  - Faculty of Science, University of Calgary, Calgary, Alberta, Canada.
+FAU - Swytink-Binnema, Catherine A
+AU  - Swytink-Binnema CA
+AD  - Department of Biomedical Engineering, University of Calgary, Calgary, Alberta, 
+      Canada.
+FAU - Sheth, Nishaad
+AU  - Sheth N
+AD  - Faculty of Health Sciences, McMaster University, Hamilton, Ontario, Canada.
+FAU - Arantes, Ana
+AU  - Arantes A
+AD  - Department of Clinical Neurosciences, Cumming School of Medicine, University of 
+      Calgary, Calgary, Alberta, Canada.
+FAU - Rockel, Conrad P
+AU  - Rockel CP
+AD  - Department of Radiology, Cumming School of Medicine, University of Calgary, 
+      Calgary, Alberta, Canada; Hotchkiss Brain Institute, Cumming School of Medicine, 
+      University of Calgary, Calgary, Alberta, Canada.
+FAU - Martino, Davide
+AU  - Martino D
+AD  - Hotchkiss Brain Institute, Cumming School of Medicine, University of Calgary, 
+      Calgary, Alberta, Canada; Department of Clinical Neurosciences, Cumming School of 
+      Medicine, University of Calgary, Calgary, Alberta, Canada; Alberta Children's 
+      Hospital Research Institute, University of Calgary, Calgary, Alberta, Canada.
+FAU - Pike, G Bruce
+AU  - Pike GB
+AD  - Department of Biomedical Engineering, University of Calgary, Calgary, Alberta, 
+      Canada; Department of Radiology, Cumming School of Medicine, University of 
+      Calgary, Calgary, Alberta, Canada; Hotchkiss Brain Institute, Cumming School of 
+      Medicine, University of Calgary, Calgary, Alberta, Canada.
+FAU - Kiss, Zelma H T
+AU  - Kiss ZHT
+AD  - Hotchkiss Brain Institute, Cumming School of Medicine, University of Calgary, 
+      Calgary, Alberta, Canada; Department of Clinical Neurosciences, Cumming School of 
+      Medicine, University of Calgary, Calgary, Alberta, Canada.
+FAU - Pichardo, Samuel
+AU  - Pichardo S
+AD  - Hotchkiss Brain Institute, Cumming School of Medicine, University of Calgary, 
+      Calgary, Alberta, Canada; Department of Clinical Neurosciences, Cumming School of 
+      Medicine, University of Calgary, Calgary, Alberta, Canada. Electronic address: 
+      samuel.pichardo@ucalgary.ca.
+LA  - eng
+PT  - Letter
+DEP - 20251107
+PL  - United States
+TA  - Brain Stimul
+JT  - Brain stimulation
+JID - 101465726
+SB  - IM
+OTO - NOTNLM
+OT  - Essential tremor (ET)
+OT  - Optically tracked neuro-navigation
+OT  - Parkinson's disease (PD)
+OT  - Transcranial ultrasound stimulation (TUS)
+COIS- Declaration of competing interest Samuel Pichardo is co-founder of the company 
+      NovusTX Devices. Zelma H.T Kiss serves in the editorial board for Brain 
+      Stimulation. The other authors declare that they have no known competing 
+      financial interests or personal relationships that could have appeared to 
+      influence the work reported in this paper.
+EDAT- 2025/11/10 00:53
+MHDA- 2025/11/10 00:53
+CRDT- 2025/11/09 19:13
+PHST- 2025/10/29 00:00 [received]
+PHST- 2025/11/06 00:00 [revised]
+PHST- 2025/11/06 00:00 [accepted]
+PHST- 2025/11/10 00:53 [pubmed]
+PHST- 2025/11/10 00:53 [medline]
+PHST- 2025/11/09 19:13 [entrez]
+AID - S1935-861X(25)00377-8 [pii]
+AID - 10.1016/j.brs.2025.11.006 [doi]
+PST - ppublish
+SO  - Brain Stimul. 2026 Jan-Feb;19(1):102979. doi: 10.1016/j.brs.2025.11.006. Epub 
+      2025 Nov 7.
+
+PMID- 35984788
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220929
+LR  - 20241211
+IS  - 1525-8955 (Electronic)
+IS  - 0885-3010 (Print)
+IS  - 0885-3010 (Linking)
+VI  - 69
+IP  - 10
+DP  - 2022 Oct
+TI  - Classical and Learned MR to Pseudo-CT Mappings for Accurate Transcranial 
+      Ultrasound Simulation.
+PG  - 2896-2905
+LID - 10.1109/TUFFC.2022.3198522 [doi]
+AB  - Model-based treatment planning for transcranial ultrasound therapy typically 
+      involves mapping the acoustic properties of the skull from an X-ray computed 
+      tomography (CT) image of the head. Here, three methods for generating pseudo-CT 
+      (pCT) images from magnetic resonance (MR) images were compared as an alternative 
+      to CT. A convolutional neural network (U-Net) was trained on paired MR-CT images 
+      to generate pCT T images from either T1-weighted or zero-echo time (ZTE) MR 
+      images (denoted tCT and zCT, respectively). A direct mapping from ZTE to pCT was 
+      also implemented (denoted cCT). When comparing the pCT and ground-truth CT images 
+      for the test set, the mean absolute error was 133, 83, and 145 Hounsfield units 
+      (HU) across the whole head, and 398, 222, and 336 HU within the skull for the 
+      tCT, zCT, and cCT images, respectively. Ultrasound simulations were also 
+      performed using the generated pCT images and compared to simulations based on CT. 
+      An annular array transducer was used targeting the visual or motor cortex. The 
+      mean differences in the simulated focal pressure, focal position, and focal 
+      volume were 9.9%, 1.5 mm, and 15.1% for simulations based on the tCT images; 
+      5.7%, 0.6 mm, and 5.7% for the zCT; and 6.7%, 0.9 mm, and 12.1% for the cCT. The 
+      improved results for images mapped from ZTE highlight the advantage of using 
+      imaging sequences, which improves the contrast of the skull bone. Overall, these 
+      results demonstrate that acoustic simulations based on MR images can give 
+      comparable accuracy to those based on CT.
+FAU - Miscouridou, Maria
+AU  - Miscouridou M
+FAU - Pineda-Pardo, Jose A
+AU  - Pineda-Pardo JA
+FAU - Stagg, Charlotte J
+AU  - Stagg CJ
+FAU - Treeby, Bradley E
+AU  - Treeby BE
+FAU - Stanziola, Antonio
+AU  - Stanziola A
+LA  - eng
+GR  - 102584/WT_/Wellcome Trust/United Kingdom
+PT  - Journal Article
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+DEP - 20220927
+PL  - United States
+TA  - IEEE Trans Ultrason Ferroelectr Freq Control
+JT  - IEEE transactions on ultrasonics, ferroelectrics, and frequency control
+JID - 9882735
+SB  - IM
+MH  - *Image Processing, Computer-Assisted/methods
+MH  - Magnetic Resonance Imaging/methods
+MH  - Neural Networks, Computer
+MH  - *Tomography, X-Ray Computed
+MH  - Ultrasonography
+PMC - PMC7616982
+MID - EMS174473
+EDAT- 2022/08/20 06:00
+MHDA- 2022/09/30 06:00
+PMCR- 2024/12/08
+CRDT- 2022/08/19 13:33
+PHST- 2022/08/20 06:00 [pubmed]
+PHST- 2022/09/30 06:00 [medline]
+PHST- 2022/08/19 13:33 [entrez]
+PHST- 2024/12/08 00:00 [pmc-release]
+AID - 10.1109/TUFFC.2022.3198522 [doi]
+PST - ppublish
+SO  - IEEE Trans Ultrason Ferroelectr Freq Control. 2022 Oct;69(10):2896-2905. doi: 
+      10.1109/TUFFC.2022.3198522. Epub 2022 Sep 27.
+
+PMID- 20547127
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20100719
+LR  - 20220330
+IS  - 1097-4199 (Electronic)
+IS  - 0896-6273 (Linking)
+VI  - 66
+IP  - 5
+DP  - 2010 Jun 10
+TI  - Transcranial pulsed ultrasound stimulates intact brain circuits.
+PG  - 681-94
+LID - 10.1016/j.neuron.2010.05.008 [doi]
+AB  - Electromagnetic-based methods of stimulating brain activity require invasive 
+      procedures or have other limitations. Deep-brain stimulation requires surgically 
+      implanted electrodes. Transcranial magnetic stimulation does not require surgery, 
+      but suffers from low spatial resolution. Optogenetic-based approaches have 
+      unrivaled spatial precision, but require genetic manipulation. In search of a 
+      potential solution to these limitations, we began investigating the influence of 
+      transcranial pulsed ultrasound on neuronal activity in the intact mouse brain. In 
+      motor cortex, ultrasound-stimulated neuronal activity was sufficient to evoke 
+      motor behaviors. Deeper in subcortical circuits, we used targeted transcranial 
+      ultrasound to stimulate neuronal activity and synchronous oscillations in the 
+      intact hippocampus. We found that ultrasound triggers TTX-sensitive neuronal 
+      activity in the absence of a rise in brain temperature (<0.01 degrees C). Here, 
+      we also report that transcranial pulsed ultrasound for intact brain circuit 
+      stimulation has a lateral spatial resolution of approximately 2 mm and does not 
+      require exogenous factors or surgical invasion.
+CI  - Copyright 2010 Elsevier Inc. All rights reserved.
+FAU - Tufail, Yusuf
+AU  - Tufail Y
+AD  - School of Life Sciences, Arizona State University, Tempe, AZ 85287, USA.
+FAU - Matyushov, Alexei
+AU  - Matyushov A
+FAU - Baldwin, Nathan
+AU  - Baldwin N
+FAU - Tauchmann, Monica L
+AU  - Tauchmann ML
+FAU - Georges, Joseph
+AU  - Georges J
+FAU - Yoshihiro, Anna
+AU  - Yoshihiro A
+FAU - Tillery, Stephen I Helms
+AU  - Tillery SI
+FAU - Tyler, William J
+AU  - Tyler WJ
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+PL  - United States
+TA  - Neuron
+JT  - Neuron
+JID - 8809320
+SB  - IM
+MH  - Animals
+MH  - Brain/physiology
+MH  - Hippocampus/physiology
+MH  - Mice
+MH  - Nerve Net/*physiology
+MH  - Neurons/physiology
+MH  - *Ultrasonics
+MH  - Ultrasonography, Doppler, Transcranial/methods
+EDAT- 2010/06/16 06:00
+MHDA- 2010/07/20 06:00
+CRDT- 2010/06/16 06:00
+PHST- 2010/04/29 00:00 [accepted]
+PHST- 2010/06/16 06:00 [entrez]
+PHST- 2010/06/16 06:00 [pubmed]
+PHST- 2010/07/20 06:00 [medline]
+AID - S0896-6273(10)00376-4 [pii]
+AID - 10.1016/j.neuron.2010.05.008 [doi]
+PST - ppublish
+SO  - Neuron. 2010 Jun 10;66(5):681-94. doi: 10.1016/j.neuron.2010.05.008.
+
+PMID- 24413698
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20140324
+LR  - 20220409
+IS  - 1546-1726 (Electronic)
+IS  - 1097-6256 (Linking)
+VI  - 17
+IP  - 2
+DP  - 2014 Feb
+TI  - Transcranial focused ultrasound modulates the activity of primary somatosensory 
+      cortex in humans.
+PG  - 322-9
+LID - 10.1038/nn.3620 [doi]
+AB  - Improved methods of noninvasively modulating human brain function are needed. 
+      Here we probed the influence of transcranial focused ultrasound (tFUS) targeted 
+      to the human primary somatosensory cortex (S1) on sensory-evoked brain activity 
+      and sensory discrimination abilities. The lateral and axial spatial resolution of 
+      the tFUS beam implemented were 4.9 mm and 18 mm, respectively. 
+      Electroencephalographic recordings showed that tFUS significantly attenuated the 
+      amplitudes of somatosensory evoked potentials elicited by median nerve 
+      stimulation. We also found that tFUS significantly modulated the spectral content 
+      of sensory-evoked brain oscillations. The changes produced by tFUS on 
+      sensory-evoked brain activity were abolished when the acoustic beam was focused 1 
+      cm anterior or posterior to S1. Behavioral investigations showed that tFUS 
+      targeted to S1 enhanced performance on sensory discrimination tasks without 
+      affecting task attention or response bias. We conclude that tFUS can be used to 
+      focally modulate human cortical function.
+FAU - Legon, Wynn
+AU  - Legon W
+AD  - Virginia Tech Carilion Research Institute, Roanoke, Virginia, USA.
+FAU - Sato, Tomokazu F
+AU  - Sato TF
+AD  - Virginia Tech Carilion Research Institute, Roanoke, Virginia, USA.
+FAU - Opitz, Alexander
+AU  - Opitz A
+AD  - 1] Virginia Tech Carilion Research Institute, Roanoke, Virginia, USA. [2] 
+      Department of Clinical Neurophysiology, Georg-August-University, Gottingen, 
+      Germany.
+FAU - Mueller, Jerel
+AU  - Mueller J
+AD  - School of Biomedical Engineering and Sciences, Virginia Tech, Blacksburg, 
+      Virginia, USA.
+FAU - Barbour, Aaron
+AU  - Barbour A
+AD  - Virginia Tech Carilion Research Institute, Roanoke, Virginia, USA.
+FAU - Williams, Amanda
+AU  - Williams A
+AD  - Virginia Tech Carilion Research Institute, Roanoke, Virginia, USA.
+FAU - Tyler, William J
+AU  - Tyler WJ
+AD  - 1] Virginia Tech Carilion Research Institute, Roanoke, Virginia, USA. [2] School 
+      of Biomedical Engineering and Sciences, Virginia Tech, Blacksburg, Virginia, USA. 
+      [3] Department of Psychiatry and Behavioral Medicine, Virginia Tech Carilion 
+      School of Medicine, Roanoke, Virginia, USA.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20140112
+PL  - United States
+TA  - Nat Neurosci
+JT  - Nature neuroscience
+JID - 9809671
+RN  - 0 (Alkaloids)
+RN  - 0 (Wilcox compound)
+SB  - IM
+MH  - Acoustic Stimulation
+MH  - Alkaloids
+MH  - *Brain Mapping
+MH  - Discrimination, Psychological/physiology
+MH  - Electroencephalography
+MH  - Evoked Potentials, Somatosensory/*physiology
+MH  - Functional Laterality
+MH  - Humans
+MH  - Image Processing, Computer-Assisted
+MH  - Skull Base/diagnostic imaging
+MH  - Somatosensory Cortex/*diagnostic imaging/*physiology
+MH  - Ultrasonography, Doppler, Transcranial/*methods
+EDAT- 2014/01/15 06:00
+MHDA- 2014/03/25 06:00
+CRDT- 2014/01/14 06:00
+PHST- 2013/09/10 00:00 [received]
+PHST- 2013/12/04 00:00 [accepted]
+PHST- 2014/01/14 06:00 [entrez]
+PHST- 2014/01/15 06:00 [pubmed]
+PHST- 2014/03/25 06:00 [medline]
+AID - nn.3620 [pii]
+AID - 10.1038/nn.3620 [doi]
+PST - ppublish
+SO  - Nat Neurosci. 2014 Feb;17(2):322-9. doi: 10.1038/nn.3620. Epub 2014 Jan 12.
+
+PMID- 21886108
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20120209
+LR  - 20220409
+IS  - 1750-2799 (Electronic)
+IS  - 1750-2799 (Linking)
+VI  - 6
+IP  - 9
+DP  - 2011 Sep 1
+TI  - Ultrasonic neuromodulation by brain stimulation with transcranial ultrasound.
+PG  - 1453-70
+LID - 10.1038/nprot.2011.371 [doi]
+AB  - Brain stimulation methods are indispensable to the study of brain function. They 
+      have also proven effective for treating some neurological disorders. Historically 
+      used for medical imaging, ultrasound (US) has recently been shown to be capable 
+      of noninvasively stimulating brain activity. Here we provide a general protocol 
+      for the stimulation of intact mouse brain circuits using transcranial US, and, 
+      using a traditional mouse model of epilepsy, we describe how to use transcranial 
+      US to disrupt electrographic seizure activity. The advantages of US for brain 
+      stimulation are that it does not necessitate surgery or genetic alteration, but 
+      it confers spatial resolutions superior to other noninvasive methods such as 
+      transcranial magnetic stimulation. With a basic working knowledge of 
+      electrophysiology, and after an initial setup, ultrasonic neuromodulation (UNMOD) 
+      can be implemented in less than 1 h. Using the general protocol that we describe, 
+      UNMOD can be readily adapted to support a broad range of studies on brain circuit 
+      function and dysfunction.
+FAU - Tufail, Yusuf
+AU  - Tufail Y
+AD  - Arizona State University, School of Life Sciences, Tempe, Arizona, USA.
+FAU - Yoshihiro, Anna
+AU  - Yoshihiro A
+FAU - Pati, Sandipan
+AU  - Pati S
+FAU - Li, Monica M
+AU  - Li MM
+FAU - Tyler, William J
+AU  - Tyler WJ
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+DEP - 20110901
+PL  - England
+TA  - Nat Protoc
+JT  - Nature protocols
+JID - 101284307
+SB  - IM
+MH  - Animals
+MH  - Brain/physiology
+MH  - Brain Mapping/*methods
+MH  - Electrophysiology
+MH  - Female
+MH  - Male
+MH  - Mice
+MH  - Mice, Inbred C57BL
+MH  - Ultrasonography, Doppler, Transcranial/*methods
+EDAT- 2011/09/03 06:00
+MHDA- 2012/02/10 06:00
+CRDT- 2011/09/03 06:00
+PHST- 2011/09/03 06:00 [entrez]
+PHST- 2011/09/03 06:00 [pubmed]
+PHST- 2012/02/10 06:00 [medline]
+AID - nprot.2011.371 [pii]
+AID - 10.1038/nprot.2011.371 [doi]
+PST - epublish
+SO  - Nat Protoc. 2011 Sep 1;6(9):1453-70. doi: 10.1038/nprot.2011.371.
+
+PMID- 38253533
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240301
+LR  - 20260209
+IS  - 1529-2401 (Electronic)
+IS  - 0270-6474 (Print)
+IS  - 0270-6474 (Linking)
+VI  - 44
+IP  - 9
+DP  - 2024 Feb 28
+TI  - Super-Resolution Ultrasound Reveals Cerebrovascular Impairment in a Mouse Model 
+      of Alzheimer's Disease.
+LID - 10.1523/JNEUROSCI.1251-23.2024 [doi]
+LID - e1251232024
+AB  - Increasing evidence has suggested a link between cerebrovascular disease and the 
+      cognitive impairment associated with Alzheimer's disease. However, detailed 
+      descriptions of microvascular changes across brain regions and how they relate to 
+      other more traditional pathology have been lacking. Additionally, the efforts to 
+      elucidate the interplay between cerebral microvascular function and Alzheimer's 
+      disease progression are complicated by the necessity of probing deep-brain 
+      structures since early-stage Alzheimer's disease typically involves hippocampal 
+      pathology. The purpose of this study was to examine changes in microvascular 
+      dynamics in a mouse model of Alzheimer's disease using cohorts that were 
+      age-matched to wild-type controls. Data from both sexes were included in this 
+      study. Super-resolution ultrasound localization microscopy revealed microvascular 
+      functional and structural features throughout the whole brain depth to visualize 
+      and quantify. We found that functional decreases in hippocampal and entorhinal 
+      flow velocity preceded structural derangements in regional vascular density. 
+      Co-registered histological sectioning confirmed the regionalized perfusion 
+      deficits seen on ultrasound imaging, which were co-localized with amyloid beta 
+      plaque deposition. In addition to providing global vascular quantifications of 
+      deep brain structures with a high local resolution, this technology also 
+      permitted velocity-profile analysis of individual vessels and, in some cases, 
+      allowed for decoupling of arterial and venous flow contributions. These data 
+      suggest that microvascular pathology is an early and pervasive feature of 
+      Alzheimer's disease and may represent a novel therapeutic target for this 
+      disease.
+CI  - Copyright (c) 2024 Lowerison et al.
+FAU - Lowerison, Matthew R
+AU  - Lowerison MR
+AUID- ORCID: 0000-0002-1125-4554
+AD  - Beckman Institute for Advanced Science and Technology, University of Illinois at 
+      Urbana-Champaign, Urbana, Illinois 61801.
+AD  - Departments of Electrical and Computer Engineering, Urbana, Illinois 61801.
+FAU - Vaithiyalingam Chandra Sekaran, Nathiya
+AU  - Vaithiyalingam Chandra Sekaran N
+AD  - Beckman Institute for Advanced Science and Technology, University of Illinois at 
+      Urbana-Champaign, Urbana, Illinois 61801.
+AD  - Molecular and Integrative Physiology, Urbana, Illinois 61801.
+FAU - Dong, Zhijie
+AU  - Dong Z
+AUID- ORCID: 0000-0001-8098-7789
+AD  - Beckman Institute for Advanced Science and Technology, University of Illinois at 
+      Urbana-Champaign, Urbana, Illinois 61801.
+AD  - Departments of Electrical and Computer Engineering, Urbana, Illinois 61801.
+FAU - Chen, Xi
+AU  - Chen X
+AD  - Beckman Institute for Advanced Science and Technology, University of Illinois at 
+      Urbana-Champaign, Urbana, Illinois 61801.
+AD  - Departments of Electrical and Computer Engineering, Urbana, Illinois 61801.
+FAU - You, Qi
+AU  - You Q
+AD  - Beckman Institute for Advanced Science and Technology, University of Illinois at 
+      Urbana-Champaign, Urbana, Illinois 61801.
+AD  - Bioengineering, University of Illinois at Urbana-Champaign, Urbana, Illinois 
+      61801.
+FAU - Llano, Daniel A
+AU  - Llano DA
+AUID- ORCID: 0000-0003-0933-1837
+AD  - Beckman Institute for Advanced Science and Technology, University of Illinois at 
+      Urbana-Champaign, Urbana, Illinois 61801 d-llano@illinois.edu songp@illinois.edu.
+AD  - Molecular and Integrative Physiology, Urbana, Illinois 61801.
+AD  - Neuroscience Program, University of Illinois at Urbana-Champaign, Urbana, 
+      Illinois 61801.
+FAU - Song, Pengfei
+AU  - Song P
+AUID- ORCID: 0000-0002-9103-6345
+AD  - Beckman Institute for Advanced Science and Technology, University of Illinois at 
+      Urbana-Champaign, Urbana, Illinois 61801 d-llano@illinois.edu songp@illinois.edu.
+AD  - Departments of Electrical and Computer Engineering, Urbana, Illinois 61801.
+AD  - Neuroscience Program, University of Illinois at Urbana-Champaign, Urbana, 
+      Illinois 61801.
+LA  - eng
+GR  - R56 NS131516/NS/NINDS NIH HHS/United States
+GR  - R03 AG059103/AG/NIA NIH HHS/United States
+GR  - R21 DC019473/DC/NIDCD NIH HHS/United States
+GR  - R21 EB030072/EB/NIBIB NIH HHS/United States
+GR  - R21 AG077173/AG/NIA NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20240228
+PL  - United States
+TA  - J Neurosci
+JT  - The Journal of neuroscience : the official journal of the Society for 
+      Neuroscience
+JID - 8102140
+RN  - 0 (Amyloid beta-Peptides)
+SB  - IM
+MH  - Male
+MH  - Mice
+MH  - Female
+MH  - Animals
+MH  - *Alzheimer Disease/complications/diagnostic imaging/pathology
+MH  - Amyloid beta-Peptides/metabolism
+MH  - Brain/diagnostic imaging/metabolism
+MH  - *Cognitive Dysfunction
+MH  - Disease Models, Animal
+MH  - Ultrasonography
+PMC - PMC10904092
+OTO - NOTNLM
+OT  - Alzheimer's disease
+OT  - cerebral blood flow
+OT  - microbubble
+OT  - mouse
+OT  - super-resolution ultrasound
+EDAT- 2024/01/23 00:42
+MHDA- 2024/03/01 06:43
+PMCR- 2024/02/28
+CRDT- 2024/01/22 23:33
+PHST- 2023/07/06 00:00 [received]
+PHST- 2023/12/04 00:00 [revised]
+PHST- 2024/01/16 00:00 [accepted]
+PHST- 2024/03/01 06:43 [medline]
+PHST- 2024/01/23 00:42 [pubmed]
+PHST- 2024/01/22 23:33 [entrez]
+PHST- 2024/02/28 00:00 [pmc-release]
+AID - JNEUROSCI.1251-23.2024 [pii]
+AID - JN-RM-1251-23 [pii]
+AID - 10.1523/JNEUROSCI.1251-23.2024 [doi]
+PST - epublish
+SO  - J Neurosci. 2024 Feb 28;44(9):e1251232024. doi: 10.1523/JNEUROSCI.1251-23.2024.
+
+PMID- 36050189
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220908
+LR  - 20260928
+IS  - 1520-8524 (Electronic)
+IS  - 0001-4966 (Print)
+IS  - 0001-4966 (Linking)
+VI  - 152
+IP  - 2
+DP  - 2022 Aug
+TI  - Benchmark problems for transcranial ultrasound simulation: Intercomparison of 
+      compressional wave models.
+PG  - 1003
+LID - 10.1121/10.0013426 [doi]
+AB  - Computational models of acoustic wave propagation are frequently used in 
+      transcranial ultrasound therapy, for example, to calculate the intracranial 
+      pressure field or to calculate phase delays to correct for skull distortions. To 
+      allow intercomparison between the different modeling tools and techniques used by 
+      the community, an international working group was convened to formulate a set of 
+      numerical benchmarks. Here, these benchmarks are presented, along with 
+      intercomparison results. Nine different benchmarks of increasing geometric 
+      complexity are defined. These include a single-layer planar bone immersed in 
+      water, a multi-layer bone, and a whole skull. Two transducer configurations are 
+      considered (a focused bowl and a plane piston operating at 500 kHz), giving a 
+      total of 18 permutations of the benchmarks. Eleven different modeling tools are 
+      used to compute the benchmark results. The models span a wide range of numerical 
+      techniques, including the finite-difference time-domain method, angular spectrum 
+      method, pseudospectral method, boundary-element method, and spectral-element 
+      method. Good agreement is found between the models, particularly for the 
+      position, size, and magnitude of the acoustic focus within the skull. When 
+      comparing results for each model with every other model in a cross-comparison, 
+      the median values for each benchmark for the difference in focal pressure and 
+      position are less than 10% and 1 mm, respectively. The benchmark definitions, 
+      model results, and intercomparison codes are freely available to facilitate 
+      further comparisons.
+FAU - Aubry, Jean-Francois
+AU  - Aubry JF
+AD  - Physics for Medicine Paris, National Institute of Health and Medical Research 
+      (INSERM) U1273, ESPCI Paris, Paris Sciences and Lettres University, French 
+      National Centre for Scientific Research (CNRS) UMR 8063, Paris, France.
+FAU - Bates, Oscar
+AU  - Bates O
+AD  - Department of Bioengineering, Imperial College London, Exhibition Road, London 
+      SW7 2AZ, United Kingdom.
+FAU - Boehm, Christian
+AU  - Boehm C
+AD  - Institute of Geophysics, Swiss Federal Institute of Technology (ETH) Zurich, 
+      Sonneggstrasse 5, 8092 Zurich, Switzerland.
+FAU - Butts Pauly, Kim
+AU  - Butts Pauly K
+AD  - Department of Radiology, Stanford University, Stanford, California 94305, USA.
+FAU - Christensen, Douglas
+AU  - Christensen D
+AD  - Department of Biomedical Engineering and Department of Electrical and Computer 
+      Engineering, University of Utah, Salt Lake City, Utah 84112, USA.
+FAU - Cueto, Carlos
+AU  - Cueto C
+AD  - Department of Bioengineering, Imperial College London, Exhibition Road, London 
+      SW7 2AZ, United Kingdom.
+FAU - Gelat, Pierre
+AU  - Gelat P
+AD  - Department of Surgical Biotechnology, Division of Surgery and Interventional 
+      Science, University College London, London NW3 2PF, United Kingdom.
+FAU - Guasch, Lluis
+AU  - Guasch L
+AD  - Earth Science and Engineering Department, Imperial College London, London, United 
+      Kingdom.
+FAU - Jaros, Jiri
+AU  - Jaros J
+AUID- ORCID: 0000-0002-0087-8804
+AD  - Centre of Excellence IT4Innovations, Faculty of Information Technology, Brno 
+      University of Technology, Bozetechova 2, Brno 612 00, Czech Republic.
+FAU - Jing, Yun
+AU  - Jing Y
+AD  - Graduate Program in Acoustics, The Pennsylvania State University, University 
+      Park, Pennsylvania 16802, USA.
+FAU - Jones, Rebecca
+AU  - Jones R
+AD  - Joint Department of Biomedical Engineering, University of North Carolina at 
+      Chapel Hill, Chapel Hill, North Carolina 27599, USA and North Carolina State 
+      University, Raleigh, North Carolina 27695, USA.
+FAU - Li, Ningrui
+AU  - Li N
+AD  - Department of Electrical Engineering, Stanford University, Stanford, California 
+      94305, USA.
+FAU - Marty, Patrick
+AU  - Marty P
+AD  - Institute of Geophysics, Swiss Federal Institute of Technology (ETH) Zurich, 
+      Sonneggstrasse 5, 8092 Zurich, Switzerland.
+FAU - Montanaro, Hazael
+AU  - Montanaro H
+AD  - Foundation for Research on Information Technologies in Society (IT'IS), Zurich, 
+      Switzerland.
+FAU - Neufeld, Esra
+AU  - Neufeld E
+AD  - Foundation for Research on Information Technologies in Society (IT'IS), Zurich, 
+      Switzerland.
+FAU - Pichardo, Samuel
+AU  - Pichardo S
+AD  - Radiology and Clinical Neurosciences Departments, Cumming School of Medicine, 
+      University of Calgary, Calgary, Alberta, Canada.
+FAU - Pinton, Gianmarco
+AU  - Pinton G
+AD  - Joint Department of Biomedical Engineering, University of North Carolina at 
+      Chapel Hill, Chapel Hill, North Carolina 27599, USA and North Carolina State 
+      University, Raleigh, North Carolina 27695, USA.
+FAU - Pulkkinen, Aki
+AU  - Pulkkinen A
+AD  - Department of Applied Physics, University of Eastern Finland, 70211 Kuopio, 
+      Finland.
+FAU - Stanziola, Antonio
+AU  - Stanziola A
+AD  - Department of Medical Physics and Biomedical Engineering, University College 
+      London, Gower Street, London WC1E 6BT, United Kingdom.
+FAU - Thielscher, Axel
+AU  - Thielscher A
+AD  - Technical University of Denmark, Kongens Lyngby, Denmark.
+FAU - Treeby, Bradley
+AU  - Treeby B
+AUID- ORCID: 0000-0001-7782-011X
+AD  - Department of Medical Physics and Biomedical Engineering, University College 
+      London, Gower Street, London WC1E 6BT, United Kingdom.
+FAU - van 't Wout, Elwin
+AU  - van 't Wout E
+AD  - Institute for Mathematical and Computational Engineering, School of Engineering 
+      and Faculty of Mathematics, Pontificia Universidad Catolica de Chile, Santiago, 
+      Chile.
+LA  - eng
+GR  - R01 EB028316/EB/NIBIB NIH HHS/United States
+GR  - R37 CA224141/CA/NCI NIH HHS/United States
+GR  - R01 EB013433/EB/NIBIB NIH HHS/United States
+GR  - R01 EB025205/EB/NIBIB NIH HHS/United States
+GR  - T32 EB009653/EB/NIBIB NIH HHS/United States
+GR  - R01 CA227687/CA/NCI NIH HHS/United States
+GR  - R01 CA172787/CA/NCI NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+PL  - United States
+TA  - J Acoust Soc Am
+JT  - The Journal of the Acoustical Society of America
+JID - 7503051
+SB  - IM
+MH  - Computer Simulation
+MH  - Skull/diagnostic imaging
+MH  - *Transducers
+MH  - Ultrasonography/methods
+PMC - PMC9553291
+EDAT- 2022/09/02 06:00
+MHDA- 2022/09/09 06:00
+PMCR- 2022/08/16
+CRDT- 2022/09/01 22:05
+PHST- 2022/09/01 22:05 [entrez]
+PHST- 2022/09/02 06:00 [pubmed]
+PHST- 2022/09/09 06:00 [medline]
+PHST- 2022/08/16 00:00 [pmc-release]
+AID - 10.0013426 [pii]
+AID - 10.1121/10.0013426 [doi]
+PST - ppublish
+SO  - J Acoust Soc Am. 2022 Aug;152(2):1003. doi: 10.1121/10.0013426.
+
+PMID- 36549480
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230223
+LR  - 20250530
+IS  - 1876-4754 (Electronic)
+IS  - 1876-4754 (Linking)
+VI  - 16
+IP  - 1
+DP  - 2023 Jan-Feb
+TI  - Three-layer model with absorption for conservative estimation of the maximum 
+      acoustic transmission coefficient through the human skull for transcranial 
+      ultrasound stimulation.
+PG  - 48-55
+LID - S1935-861X(22)00249-2 [pii]
+LID - 10.1016/j.brs.2022.12.005 [doi]
+AB  - Transcranial ultrasound stimulation (TUS) has been shown to be a safe and 
+      effective technique for non-invasive superficial and deep brain stimulation. Safe 
+      and efficient translation to humans requires estimating the acoustic attenuation 
+      of the human skull. Nevertheless, there are no international guidelines for 
+      estimating the impact of the skull bone. A tissue independent, arbitrary derating 
+      was developed by the U.S. Food and Drug Administration to take into account 
+      tissue absorption (0.3 dB/cm-MHz) for diagnostic ultrasound. However, for the 
+      case of transcranial ultrasound imaging, the FDA model does not take into account 
+      the insertion loss induced by the skull bone, nor the absorption by brain tissue. 
+      Therefore, the estimated absorption is overly conservative which could 
+      potentially limit TUS applications if the same guidelines were to be adopted. 
+      Here we propose a three-layer model including bone absorption to calculate the 
+      maximum pressure transmission through the human skull for frequencies ranging 
+      between 100 kHz and 1.5 MHz. The calculated pressure transmission decreases with 
+      the frequency and the thickness of the bone, with peaks for each thickness 
+      corresponding to a multiple of half the wavelength. The 95th percentile maximum 
+      transmission was calculated over the accessible surface of 20 human skulls for 12 
+      typical diameters of the ultrasound beam on the skull surface, and varies between 
+      40% and 78%. To facilitate the safe adjustment of the acoustic pressure for short 
+      ultrasound pulses, such as transcranial imaging or transcranial ultrasound 
+      stimulation, a table summarizes the maximum pressure transmission for each 
+      ultrasound beam diameter and each frequency.
+CI  - Copyright (c) 2022. Published by Elsevier Inc.
+FAU - Attali, David
+AU  - Attali D
+AD  - Physics for Medicine Paris, Inserm U1273, ESPCI Paris, CNRS UMR8063, PSL 
+      University, Paris, France; Pole Paris 16 (Secteurs 17-18) et Pole Neuro 
+      Sainte-Anne, Centre Hospitalier Sainte-Anne, GHU Paris Psychiatrie & 
+      Neurosciences, Universite Paris Cite, Paris, France.
+FAU - Tiennot, Thomas
+AU  - Tiennot T
+AD  - Physics for Medicine Paris, Inserm U1273, ESPCI Paris, CNRS UMR8063, PSL 
+      University, Paris, France.
+FAU - Schafer, Mark
+AU  - Schafer M
+AD  - School of Biomedical Engineering, Science and Health Systems, Drexel University, 
+      Philadelphia, PA, USA.
+FAU - Fouragnan, Elsa
+AU  - Fouragnan E
+AD  - Brain Research Imaging Center and School of Psychology, University of Plymouth, 
+      Plymouth, UK; School of Psychology, Portland Square, Plymouth PL4 8AA, UK.
+FAU - Sallet, Jerome
+AU  - Sallet J
+AD  - Univ Lyon, Universite Lyon 1, Inserm, Stem Cell and Brain Research Institute 
+      U1208, Bron, France.
+FAU - Caskey, Charles F
+AU  - Caskey CF
+AD  - Vanderbilt University Institute of Imaging Sciences, VU Medical Center, 
+      Nashville, TN, United States.
+FAU - Chen, Robert
+AU  - Chen R
+AD  - Division of Neurology, Department of Medicine, University of Toronto, Canada; 
+      Krembil Research Institute, University Health Network, Toronto, Ontario, Canada.
+FAU - Darmani, Ghazaleh
+AU  - Darmani G
+AD  - Krembil Research Institute, University Health Network, Toronto, Ontario, Canada.
+FAU - Bubrick, Ellen J
+AU  - Bubrick EJ
+AD  - Brigham and Women's Hospital, Harvard Medical School, Department of Neurology, 75 
+      Francis St., Boston, MA, USA.
+FAU - Butler, Christopher
+AU  - Butler C
+AD  - Department of Brain Sciences, Imperial College London, 9th Floor, Sir Michael 
+      Uren Hub, 86 Wood Lane, London, W12 0BZ, UK.
+FAU - Stagg, Charlotte J
+AU  - Stagg CJ
+AD  - Wellcome Centre for Integrative Neuroimaging (WIN), Centre for Functional MRI of 
+      the Brain (FMRIB), University of Oxford, Nuffield Department of Clinical 
+      Neurosciences, Level 6, West Wing, John Radcliffe Hospital, Oxford OX3 9DU, UK.
+FAU - Klein-Flugge, Miriam
+AU  - Klein-Flugge M
+AD  - Wellcome Centre for Integrative Neuroimaging (WIN), Centre for Functional MRI of 
+      the Brain (FMRIB), University of Oxford, Nuffield Department of Clinical 
+      Neurosciences, Level 6, West Wing, John Radcliffe Hospital, Oxford OX3 9DU, UK; 
+      Wellcome Centre for Integrative Neuroimaging (WIN), Department of Experimental 
+      Psychology, University of Oxford, Tinsley Building, Mansfield Road, Oxford OX1 
+      3TA, UK.
+FAU - Verhagen, Lennart
+AU  - Verhagen L
+AD  - Donders Institute for Brain, Cognition and Behaviour, Radboud University, 6525 GD 
+      Nijmegen, the Netherlands.
+FAU - Yoo, Seung-Schik
+AU  - Yoo SS
+AD  - Brigham and Women's Hospital, Harvard Medical School, Department of Radiology, 75 
+      Francis St., Boston, MA, USA.
+FAU - Pauly, Kim Butts
+AU  - Pauly KB
+AD  - Stanford University, Department of Radiology, Stanford CA, 94305, USA.
+FAU - Aubry, Jean-Francois
+AU  - Aubry JF
+AD  - Physics for Medicine Paris, Inserm U1273, ESPCI Paris, CNRS UMR8063, PSL 
+      University, Paris, France. Electronic address: jean-francois.aubry@espci.fr.
+LA  - eng
+GR  - MR/K010395/1/MRC_/Medical Research Council/United Kingdom
+GR  - MR/T023007/1/MRC_/Medical Research Council/United Kingdom
+GR  - 203139/Z/16/Z/WT_/Wellcome Trust/United Kingdom
+GR  - 224430/Z/21/Z/WT_/Wellcome Trust/United Kingdom
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20221219
+PL  - United States
+TA  - Brain Stimul
+JT  - Brain stimulation
+JID - 101465726
+SB  - IM
+MH  - Humans
+MH  - *Skull/diagnostic imaging
+MH  - Ultrasonography
+MH  - *Brain
+MH  - Acoustics
+MH  - Head
+OTO - NOTNLM
+OT  - Focused ultrasound neuromodulation (FUN)
+OT  - Low-intensity focused ultrasound (LIFUS)
+OT  - Transcranial focused ultrasound (tFUS)
+OT  - Transcranial pulsed ultrasound (TPS)
+OT  - Transcranial ultrasound stimulation (TUS)
+OT  - Ultrasonic neuromodulation (UNMOD)
+COIS- Declaration of competing interest The authors declare that they have no known 
+      competing financial interests or personal relationships that could have appeared 
+      to influence the work reported in this paper.
+EDAT- 2022/12/23 06:00
+MHDA- 2023/02/25 06:00
+CRDT- 2022/12/22 19:15
+PHST- 2022/10/03 00:00 [received]
+PHST- 2022/12/05 00:00 [revised]
+PHST- 2022/12/12 00:00 [accepted]
+PHST- 2022/12/23 06:00 [pubmed]
+PHST- 2023/02/25 06:00 [medline]
+PHST- 2022/12/22 19:15 [entrez]
+AID - S1935-861X(22)00249-2 [pii]
+AID - 10.1016/j.brs.2022.12.005 [doi]
+PST - ppublish
+SO  - Brain Stimul. 2023 Jan-Feb;16(1):48-55. doi: 10.1016/j.brs.2022.12.005. Epub 2022 
+      Dec 19.
+
+PMID- 17139734
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20080429
+LR  - 20191210
+IS  - 0001-4966 (Print)
+IS  - 0001-4966 (Linking)
+VI  - 120
+IP  - 5 Pt 1
+DP  - 2006 Nov
+TI  - Adaptive focusing for transcranial ultrasound imaging using dual arrays.
+PG  - 2737-45
+AB  - Ultrasonic brain imaging remains difficult and limited because of the strong 
+      aberrating effects of the skull (absorption, diffusion and refraction of 
+      ultrasounds): high resolution transcranial imaging would require adaptive 
+      focusing techniques in order to correct the defocusing effect of the skull. In 
+      this paper, a noninvasive brain imaging device is presented. It is made of two 
+      identical linear arrays of 128 transducers located on each side of the skull. It 
+      is possible to separate the respective influence of the two bone windows on the 
+      path of an ultrasonic wave propagating from one array to the other, and thus 
+      estimate at each frequency the attenuation and phase shift locally induced by 
+      each bone window. The information obtained on attenuation and phase is used to 
+      correct the wave fronts that have to be sent through the skull in order to obtain 
+      a good focusing inside the skull. Compared to uncorrected wave fronts, the 
+      spatial shift of the focal spot is corrected, the width of the focal spot is 
+      reduced, and the sidelobes level is decreased up to 17 dB. Transcranial images of 
+      a phantom are presented and exhibit the improvement in image quality provided by 
+      this new noninvasive adaptive focusing method.
+FAU - Vignon, F
+AU  - Vignon F
+AD  - Laboratoire Ondes et Acoustique, ESPCI, Universite Paris VII, C.N.R.S U.M.R.7587, 
+      10 rue Vauquelin, 75231 Paris, France.
+FAU - Aubry, J F
+AU  - Aubry JF
+FAU - Tanter, M
+AU  - Tanter M
+FAU - Margoum, A
+AU  - Margoum A
+FAU - Fink, M
+AU  - Fink M
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Validation Study
+PL  - United States
+TA  - J Acoust Soc Am
+JT  - The Journal of the Acoustical Society of America
+JID - 7503051
+SB  - IM
+MH  - Adult
+MH  - Child
+MH  - Echoencephalography/instrumentation/*methods/standards
+MH  - Fourier Analysis
+MH  - Humans
+MH  - Image Enhancement/instrumentation/*methods
+MH  - Phantoms, Imaging
+MH  - Skull/*diagnostic imaging/physiology
+MH  - Transducers
+EDAT- 2006/12/02 09:00
+MHDA- 2008/04/30 09:00
+CRDT- 2006/12/02 09:00
+PHST- 2006/12/02 09:00 [pubmed]
+PHST- 2008/04/30 09:00 [medline]
+PHST- 2006/12/02 09:00 [entrez]
+AID - 10.1121/1.2354073 [doi]
+PST - ppublish
+SO  - J Acoust Soc Am. 2006 Nov;120(5 Pt 1):2737-45. doi: 10.1121/1.2354073.
+
+PMID- 41926919
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20260714
+LR  - 20260714
+IS  - 1097-4199 (Electronic)
+IS  - 0896-6273 (Linking)
+VI  - 114
+IP  - 7
+DP  - 2026 Apr 1
+TI  - Low-intensity focused ultrasound to human amygdala reveals a causal role in 
+      ambiguous emotion processing and alters local and network activity.
+PG  - 1269-1289.e8
+LID - S0896-6273(26)00172-8 [pii]
+LID - 10.1016/j.neuron.2026.03.009 [doi]
+AB  - The amygdala shows abnormal metabolism in depression, a disorder marked by 
+      altered emotion, motivation, and learning. Yet its causal role in these processes 
+      remains unclear because non-invasive, reversible perturbation in humans has not 
+      been possible. We used transcranial focused ultrasound stimulation (TUS) to 
+      modulate basolateral amygdala (BLA) activity. In separate sessions, healthy 
+      volunteers received offline TUS to bilateral BLA, mid-insula, or sham before 
+      completing a novel emotional learning task validated online. 7T-resting-state 
+      connectivity and metabolite measures confirmed target engagement: BLA-TUS reduced 
+      the BLA's connectivity fingerprint and lowered its excitation/inhibition balance. 
+      Behaviorally, BLA-TUS increased approach tendencies toward neutral, emotionally 
+      ambiguous faces in a stimulation-volume-dependent manner and slowed responses to 
+      neutral and happy faces. These effects were functionally and regionally specific 
+      and suggest a causal role for the amygdala in resolving emotional ambiguity. Our 
+      findings inform studies of mood disorders, where difficulty resolving ambiguity 
+      may contribute to emotional and learning biases.
+CI  - Copyright (c) 2026 The Authors. Published by Elsevier Inc. All rights reserved.
+FAU - Algermissen, Johannes
+AU  - Algermissen J
+AD  - Oxford Centre for Integrative Neuroimaging (OxCIN), Department of Experimental 
+      Psychology, University of Oxford, Oxford OX1 3EL, UK; Department of Psychiatry, 
+      University of Oxford, Oxford OX3 7JX, UK. Electronic address: 
+      johannes.algermissen@psy.ox.ac.uk.
+FAU - Rascu, Miruna
+AU  - Rascu M
+AD  - Oxford Centre for Integrative Neuroimaging (OxCIN), Department of Experimental 
+      Psychology, University of Oxford, Oxford OX1 3EL, UK; Department of Psychiatry, 
+      University of Oxford, Oxford OX3 7JX, UK.
+FAU - Weber, Lilian A
+AU  - Weber LA
+AD  - Oxford Centre for Integrative Neuroimaging (OxCIN), Department of Experimental 
+      Psychology, University of Oxford, Oxford OX1 3EL, UK; Department of Psychiatry, 
+      University of Oxford, Oxford OX3 7JX, UK.
+FAU - den Boer, Tim
+AU  - den Boer T
+AD  - Department of Psychiatry, University of Oxford, Oxford OX3 7JX, UK.
+FAU - Martin, Eleanor
+AU  - Martin E
+AD  - Department of Medical Physics and Biomedical Engineering, University College 
+      London, London, UK; Wellcome/EPSRC Centre for Interventional and Surgical 
+      Sciences, University College London, London, UK.
+FAU - Treeby, Bradley
+AU  - Treeby B
+AD  - Department of Medical Physics and Biomedical Engineering, University College 
+      London, London, UK.
+FAU - Gray, Michael D
+AU  - Gray MD
+AD  - Institute of Biomedical Engineering, Department of Engineering Science, 
+      University of Oxford, Oxford, UK.
+FAU - Cleveland, Robin O
+AU  - Cleveland RO
+AD  - Institute of Biomedical Engineering, Department of Engineering Science, 
+      University of Oxford, Oxford, UK.
+FAU - Wittmann, Marco K
+AU  - Wittmann MK
+AD  - Department of Experimental Psychology, University College London, London, UK; Max 
+      Planck UCL Centre for Computational Psychiatry and Ageing Research, University 
+      College London, London, UK.
+FAU - Clarke, William T
+AU  - Clarke WT
+AD  - Oxford Centre for Integrative Neuroimaging (OxCIN), Nuffield Department of 
+      Clinical Neurosciences, University of Oxford, Oxford, UK.
+FAU - Fouragnan, Elsa
+AU  - Fouragnan E
+AD  - Brain Research Imaging Centre (BRIC), Faculty of Health, University of Plymouth, 
+      Plymouth PL6 8BU, UK.
+FAU - Rushworth, Matthew F S
+AU  - Rushworth MFS
+AD  - Oxford Centre for Integrative Neuroimaging (OxCIN), Department of Experimental 
+      Psychology, University of Oxford, Oxford OX1 3EL, UK.
+FAU - Klein-Flugge, Miriam C
+AU  - Klein-Flugge MC
+AD  - Oxford Centre for Integrative Neuroimaging (OxCIN), Department of Experimental 
+      Psychology, University of Oxford, Oxford OX1 3EL, UK; Department of Psychiatry, 
+      University of Oxford, Oxford OX3 7JX, UK. Electronic address: 
+      miriam.klein-flugge@psy.ox.ac.uk.
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - Neuron
+JT  - Neuron
+JID - 8809320
+SB  - IM
+MH  - Humans
+MH  - *Emotions/physiology
+MH  - Male
+MH  - Female
+MH  - *Amygdala/physiology/diagnostic imaging
+MH  - Adult
+MH  - Magnetic Resonance Imaging
+MH  - Young Adult
+MH  - Facial Expression
+MH  - *Basolateral Nuclear Complex/physiology/diagnostic imaging
+MH  - Ultrasonic Waves
+MH  - *Nerve Net/physiology/diagnostic imaging
+MH  - Facial Recognition/physiology
+OTO - NOTNLM
+OT  - amygdala
+OT  - basolateral amygdala
+OT  - decision-making
+OT  - emotion
+OT  - magnetic resonance spectroscopy
+OT  - motivation
+OT  - non-invasive brain stimulation
+OT  - reinforcement learning
+OT  - resting-state functional magnetic resonance imaging
+OT  - transcranial focused ultrasound
+COIS- Declaration of interests B.T. and T.d.B. report a relationship with 
+      NeuroHarmonics LTD that includes board membership, employment, and equity or 
+      stocks. E.F. reports a relationship with Attune Neurosciences that includes board 
+      membership and consulting or advisory services. E.M. reports a relationship with 
+      Brainbox that includes consulting or advisory services.
+EDAT- 2026/04/03 00:31
+MHDA- 2026/04/03 00:32
+CRDT- 2026/04/02 18:16
+PHST- 2025/08/14 00:00 [received]
+PHST- 2025/12/09 00:00 [revised]
+PHST- 2026/03/04 00:00 [accepted]
+PHST- 2026/04/03 00:32 [medline]
+PHST- 2026/04/03 00:31 [pubmed]
+PHST- 2026/04/02 18:16 [entrez]
+AID - S0896-6273(26)00172-8 [pii]
+AID - 10.1016/j.neuron.2026.03.009 [doi]
+PST - ppublish
+SO  - Neuron. 2026 Apr 1;114(7):1269-1289.e8. doi: 10.1016/j.neuron.2026.03.009.
+
+PMID- 41720796
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20260708
+LR  - 20260813
+IS  - 2041-1723 (Electronic)
+IS  - 2041-1723 (Linking)
+VI  - 17
+IP  - 1
+DP  - 2026 Feb 20
+TI  - Rapid modulation of choice behavior by ultrasound on the human frontal eye 
+      fields.
+LID - 10.1038/s41467-026-69854-7 [doi]
+LID - 2966
+AB  - A fundamental challenge in neuroscience is establishing causal brain-function 
+      relationships with spatial and temporal precision. Transcranial ultrasonic 
+      stimulation offers a unique opportunity to modulate deep brain structures 
+      non-invasively with high spatial resolution, but temporally precise effects and 
+      their neurophysiological foundations have yet to be demonstrated in humans. Here, 
+      we develop a temporally precise ultrasound stimulation protocol targeting the 
+      frontal eye fields - a well-characterized circuit critical for saccadic eye 
+      movements. We demonstrate that ultrasonic stimulation induces robust excitatory 
+      behavioral effects. Importantly, individual differences in baseline GABAergic 
+      inhibitory tone predict response magnitude. These findings establish ultrasound 
+      stimulation as a reliable tool for chronometric circuit interrogation and 
+      highlight the importance of neurophysiological state in neuromodulation. This 
+      work bridges human and animal research, advancing targeted transcranial 
+      ultrasonic stimulation applications in neuroscience and clinical settings.
+CI  - (c) 2026. The Author(s).
+FAU - Farboud, S
+AU  - Farboud S
+AUID- ORCID: 0000-0003-2774-3907
+AD  - Donders Institute for Brain, Cognition and Behaviour, Radboud University, 
+      Nijmegen, The Netherlands. soha.farboud@donders.ru.nl.
+FAU - Kop, B R
+AU  - Kop BR
+AUID- ORCID: 0000-0001-7817-5845
+AD  - Donders Institute for Brain, Cognition and Behaviour, Radboud University, 
+      Nijmegen, The Netherlands.
+AD  - School of Medicine, Stanford University, Stanford, CA, USA.
+FAU - Koolschijn, R S
+AU  - Koolschijn RS
+AUID- ORCID: 0000-0001-9553-4213
+AD  - Donders Institute for Brain, Cognition and Behaviour, Radboud University, 
+      Nijmegen, The Netherlands.
+FAU - Walstra, S L Y
+AU  - Walstra SLY
+AD  - Donders Institute for Brain, Cognition and Behaviour, Radboud University, 
+      Nijmegen, The Netherlands.
+AD  - Integrative Model-Based Neuroscience Research Unit, University of Amsterdam, 
+      Amsterdam, The Netherlands.
+FAU - Marques, J P
+AU  - Marques JP
+AUID- ORCID: 0000-0001-8157-8864
+AD  - Donders Institute for Brain, Cognition and Behaviour, Radboud University, 
+      Nijmegen, The Netherlands.
+FAU - Chetverikov, A
+AU  - Chetverikov A
+AUID- ORCID: 0000-0003-2767-6310
+AD  - Donders Institute for Brain, Cognition and Behaviour, Radboud University, 
+      Nijmegen, The Netherlands.
+AD  - Department of Psychosocial Science, Faculty of Psychology, University of Bergen, 
+      Bergen, Norway.
+FAU - Medendorp, W P
+AU  - Medendorp WP
+AUID- ORCID: 0000-0001-9615-4220
+AD  - Donders Institute for Brain, Cognition and Behaviour, Radboud University, 
+      Nijmegen, The Netherlands.
+FAU - Verhagen, L
+AU  - Verhagen L
+AUID- ORCID: 0000-0003-3207-7929
+AD  - Donders Institute for Brain, Cognition and Behaviour, Radboud University, 
+      Nijmegen, The Netherlands.
+FAU - den Ouden, H E M
+AU  - den Ouden HEM
+AUID- ORCID: 0000-0001-7039-5130
+AD  - Donders Institute for Brain, Cognition and Behaviour, Radboud University, 
+      Nijmegen, The Netherlands. hanneke.denouden@donders.ru.nl.
+LA  - eng
+PT  - Journal Article
+DEP - 20260220
+PL  - England
+TA  - Nat Commun
+JT  - Nature communications
+JID - 101528555
+SB  - IM
+MH  - Humans
+MH  - Saccades/physiology/radiation effects
+MH  - Male
+MH  - Female
+MH  - *Choice Behavior/physiology/radiation effects
+MH  - Adult
+MH  - Young Adult
+MH  - *Ultrasonic Waves
+MH  - *Frontal Lobe/physiology
+PMC - PMC13035901
+COIS- Competing interests: L.V. declares no competing interests relevant to this study. 
+      L.V. is a board member of ITRUSST and the Brainbox Initiative. L.V. has received 
+      non-financial support from Image Guided Therapy SA (France), Sonic Concepts LLC 
+      (US), and Brainbox Ltd (UK), and consulting fees from Nudge LLC (US). All other 
+      authors declare no competing interests.
+EDAT- 2026/02/21 00:39
+MHDA- 2026/03/31 00:53
+PMCR- 2026/02/20
+CRDT- 2026/02/20 23:17
+PHST- 2025/04/10 00:00 [received]
+PHST- 2026/02/03 00:00 [accepted]
+PHST- 2026/03/31 00:53 [medline]
+PHST- 2026/02/21 00:39 [pubmed]
+PHST- 2026/02/20 23:17 [entrez]
+PHST- 2026/02/20 00:00 [pmc-release]
+AID - 10.1038/s41467-026-69854-7 [pii]
+AID - 69854 [pii]
+AID - 10.1038/s41467-026-69854-7 [doi]
+PST - epublish
+SO  - Nat Commun. 2026 Feb 20;17(1):2966. doi: 10.1038/s41467-026-69854-7.
+
+PMID- 41880511
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20260713
+LR  - 20260813
+IS  - 2375-2548 (Electronic)
+IS  - 2375-2548 (Linking)
+VI  - 12
+IP  - 13
+DP  - 2026 Mar 27
+TI  - The human amygdala in threat learning and extinction.
+PG  - eaea8233
+LID - 10.1126/sciadv.aea8233 [doi]
+LID - eaea8233
+AB  - Here, we resolve the long-standing but unconfirmed hypothesis that the human 
+      amygdala is essential for rapidly acquiring cued-conditioned threat responses. We 
+      provide causal evidence for the amygdala's contribution to forming threat 
+      memories that are resistant to extinction. Using transcranial ultrasound 
+      stimulation (TUS), a noninvasive technique that modulates deep brain structures 
+      with high spatial and temporal precision, we targeted the bilateral amygdala 
+      during Pavlovian threat conditioning in healthy adults. Linear mixed-effects 
+      models and computational modeling of trial-level skin conductance responses 
+      revealed that amygdala-TUS (experiment I, n = 25), but not hippocampus-TUS 
+      (experiment II, n = 25), selectively slowed initial threat acquisition, augmented 
+      subsequent extinction, and modulated declarative memory of retrospective threat 
+      probability. These findings demonstrate that the human amygdala drives an 
+      emotional learning state-learning fast, forgetting slow. Our study shows the 
+      potential of TUS for targeted neuromodulation of human deep brain structures 
+      implicated in conditions such as posttraumatic stress disorder, where 
+      pathological threat memories persist despite therapy.
+FAU - Meijer, Sjoerd
+AU  - Meijer S
+AUID- ORCID: 0000-0003-0698-4525
+AD  - Donders Institute for Brain, Cognition and Behavior, Radboud University, 
+      Nijmegen, Netherlands.
+FAU - Carpino, Eleonora
+AU  - Carpino E
+AD  - Donders Institute for Brain, Cognition and Behavior, Radboud University, 
+      Nijmegen, Netherlands.
+AD  - Department of Experimental Psychology, University of Oxford, Oxford, UK.
+AD  - Brain Research and Imaging Centre, Faculty of Health, University of Plymouth, 
+      Plymouth, UK.
+AD  - School of Psychology, Faculty of Health, University of Plymouth, Plymouth, UK.
+FAU - Kop, Benjamin R
+AU  - Kop BR
+AUID- ORCID: 0000-0001-7817-5845
+AD  - Donders Institute for Brain, Cognition and Behavior, Radboud University, 
+      Nijmegen, Netherlands.
+FAU - Lam, Jesse
+AU  - Lam J
+AUID- ORCID: 0009-0007-2766-4770
+AD  - Donders Institute for Brain, Cognition and Behavior, Radboud University, 
+      Nijmegen, Netherlands.
+FAU - de Voogd, Lycia D
+AU  - de Voogd LD
+AUID- ORCID: 0000-0001-5927-6819
+AD  - Donders Institute for Brain, Cognition and Behavior, Radboud University, 
+      Nijmegen, Netherlands.
+AD  - Institute of Psychology, Leiden University, Leiden, Netherlands.
+AD  - Leiden Institute for Brain and Cognition, Leiden University, Leiden, Netherlands.
+AD  - Behavioral Science Institute (BSI), Radboud University, Nijmegen, Netherlands.
+FAU - Roelofs, Karin
+AU  - Roelofs K
+AUID- ORCID: 0000-0002-8863-8978
+AD  - Donders Institute for Brain, Cognition and Behavior, Radboud University, 
+      Nijmegen, Netherlands.
+AD  - Behavioral Science Institute (BSI), Radboud University, Nijmegen, Netherlands.
+FAU - Verhagen, Lennart
+AU  - Verhagen L
+AUID- ORCID: 0000-0003-3207-7929
+AD  - Donders Institute for Brain, Cognition and Behavior, Radboud University, 
+      Nijmegen, Netherlands.
+LA  - eng
+PT  - Journal Article
+DEP - 20260325
+PL  - United States
+TA  - Sci Adv
+JT  - Science advances
+JID - 101653440
+SB  - IM
+MH  - Humans
+MH  - *Amygdala/physiology
+MH  - Female
+MH  - Male
+MH  - *Extinction, Psychological/physiology
+MH  - Adult
+MH  - *Learning/physiology
+MH  - *Fear/physiology
+MH  - Memory/physiology
+MH  - Galvanic Skin Response
+MH  - Conditioning, Classical/physiology
+MH  - Young Adult
+MH  - Hippocampus/physiology
+PMC - PMC13015908
+COIS- L.V. is a board member of ITRUSST and the Brainbox Initiative. L.V. has received 
+      nonfinancial support from Image Guided Therapy SA (France), Sonic Concepts LLC 
+      (US), and Brainbox Ltd. (UK). L.V. has received consulting fees from Nudge LLC 
+      (US). The other authors declare that they have no competing interests.
+EDAT- 2026/03/25 19:36
+MHDA- 2026/03/25 19:37
+PMCR- 2026/03/25
+CRDT- 2026/03/25 14:03
+PHST- 2026/03/25 19:37 [medline]
+PHST- 2026/03/25 19:36 [pubmed]
+PHST- 2026/03/25 14:03 [entrez]
+PHST- 2026/03/25 00:00 [pmc-release]
+AID - aea8233 [pii]
+AID - 10.1126/sciadv.aea8233 [doi]
+PST - ppublish
+SO  - Sci Adv. 2026 Mar 27;12(13):eaea8233. doi: 10.1126/sciadv.aea8233. Epub 2026 Mar 
+      25.
+
+PMID- 31707258
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20200928
+IS  - 2589-0042 (Electronic)
+IS  - 2589-0042 (Linking)
+VI  - 21
+DP  - 2019 Nov 22
+TI  - The Mechanosensitive Ion Channel Piezo1 Significantly Mediates In Vitro 
+      Ultrasonic Stimulation of Neurons.
+PG  - 448-457
+LID - S2589-0042(19)30417-1 [pii]
+LID - 10.1016/j.isci.2019.10.037 [doi]
+AB  - Ultrasound brain stimulation is a promising modality for probing brain function 
+      and treating brain disease non-invasively and with high spatiotemporal 
+      resolution. However, the mechanism underlying its effects remains unclear. Here, 
+      we examine the role that the mouse piezo-type mechanosensitive ion channel 
+      component 1 (Piezo1) plays in mediating the in vitro effects of ultrasound in 
+      mouse primary cortical neurons and a neuronal cell line. We show that ultrasound 
+      alone could activate heterologous and endogenous Piezo1, initiating calcium 
+      influx and increased nuclear c-Fos expression in primary neurons but not when 
+      pre-treated with a Piezo1 inhibitor. We also found that ultrasound significantly 
+      increased the expression of the important proteins phospho-CaMKII, phospho-CREB, 
+      and c-Fos in a neuronal cell line, but Piezo1 knockdown significantly reduced 
+      this effect. Our findings demonstrate that the activity of mechanosensitive ion 
+      channels such as Piezo1 stimulated by ultrasound is an important contributor to 
+      its ability to stimulate cells in vitro.
+CI  - Copyright (c) 2019 The Author(s). Published by Elsevier Inc. All rights reserved.
+FAU - Qiu, Zhihai
+AU  - Qiu Z
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hong 
+      Kong SAR 999077, P. R. China.
+FAU - Guo, Jinghui
+AU  - Guo J
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hong 
+      Kong SAR 999077, P. R. China; Department of Physiology, School of Medicine, Jinan 
+      University, Guangzhou, China.
+FAU - Kala, Shashwati
+AU  - Kala S
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hong 
+      Kong SAR 999077, P. R. China.
+FAU - Zhu, Jiejun
+AU  - Zhu J
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hong 
+      Kong SAR 999077, P. R. China.
+FAU - Xian, Quanxiang
+AU  - Xian Q
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hong 
+      Kong SAR 999077, P. R. China.
+FAU - Qiu, Weibao
+AU  - Qiu W
+AD  - Paul C. Lauterbur Research Center for Biomedical Imaging, Institute of Biomedical 
+      and Health Engineering, Shenzhen Institutes of Advanced Technology, Chinese 
+      Academy of Sciences, Shenzhen, P. R. China.
+FAU - Li, Guofeng
+AU  - Li G
+AD  - Paul C. Lauterbur Research Center for Biomedical Imaging, Institute of Biomedical 
+      and Health Engineering, Shenzhen Institutes of Advanced Technology, Chinese 
+      Academy of Sciences, Shenzhen, P. R. China.
+FAU - Zhu, Ting
+AU  - Zhu T
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hong 
+      Kong SAR 999077, P. R. China.
+FAU - Meng, Long
+AU  - Meng L
+AD  - Paul C. Lauterbur Research Center for Biomedical Imaging, Institute of Biomedical 
+      and Health Engineering, Shenzhen Institutes of Advanced Technology, Chinese 
+      Academy of Sciences, Shenzhen, P. R. China.
+FAU - Zhang, Rui
+AU  - Zhang R
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hong 
+      Kong SAR 999077, P. R. China.
+FAU - Chan, Hsiao Chang
+AU  - Chan HC
+AD  - Department of Physiology, School of Medicine, Jinan University, Guangzhou, China.
+FAU - Zheng, Hairong
+AU  - Zheng H
+AD  - Paul C. Lauterbur Research Center for Biomedical Imaging, Institute of Biomedical 
+      and Health Engineering, Shenzhen Institutes of Advanced Technology, Chinese 
+      Academy of Sciences, Shenzhen, P. R. China. Electronic address: 
+      hr.zheng@siat.ac.cn.
+FAU - Sun, Lei
+AU  - Sun L
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hong 
+      Kong SAR 999077, P. R. China. Electronic address: lei.sun@polyu.edu.hk.
+LA  - eng
+PT  - Journal Article
+DEP - 20191023
+PL  - United States
+TA  - iScience
+JT  - iScience
+JID - 101724038
+PMC - PMC6849147
+OTO - NOTNLM
+OT  - Cellular Neuroscience
+OT  - Molecular Neuroscience
+OT  - Neuroscience
+OT  - Sensory Neuroscience
+COIS- Z.Q., J.G., S.K., J. Z., Q. Z., and L.S. have submitted a patent application 
+      titled "A Non-invasive method for selective neural stimulation by ultrasound" 
+      with the USPTO dated April 10, 2018, assigned application number 15/949,991, 
+      which relates to the ultrasound setup used in all the experiments. The authors 
+      declare no further financial interests.
+EDAT- 2019/11/11 06:00
+MHDA- 2019/11/11 06:01
+PMCR- 2019/10/23
+CRDT- 2019/11/11 06:00
+PHST- 2019/05/03 00:00 [received]
+PHST- 2019/09/04 00:00 [revised]
+PHST- 2019/10/18 00:00 [accepted]
+PHST- 2019/11/11 06:00 [pubmed]
+PHST- 2019/11/11 06:01 [medline]
+PHST- 2019/11/11 06:00 [entrez]
+PHST- 2019/10/23 00:00 [pmc-release]
+AID - S2589-0042(19)30417-1 [pii]
+AID - 10.1016/j.isci.2019.10.037 [doi]
+PST - ppublish
+SO  - iScience. 2019 Nov 22;21:448-457. doi: 10.1016/j.isci.2019.10.037. Epub 2019 Oct 
+      23.
+
+PMID- 41853842
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20260711
+LR  - 20260813
+IS  - 2198-3844 (Electronic)
+IS  - 2198-3844 (Linking)
+VI  - 13
+IP  - 26
+DP  - 2026 May
+TI  - Ultrasound Modulation of Visual Circuits in Mice Independent of Auditory 
+      Confound.
+PG  - e15991
+LID - 10.1002/advs.202515991 [doi]
+LID - e15991
+AB  - Despite its growing potential as a noninvasive neuromodulation technology, the 
+      fundamental biophysical mechanism of focused ultrasound neuromodulation (FUN) 
+      remains elusive. Progress has been hampered by a persistent auditory confound, 
+      making it difficult to isolate the direct mechanical effects on neural circuits. 
+      To overcome this barrier, we employed two-photon calcium imaging (2PCI) in the 
+      primary visual cortex (V1) of deafened mice. Here, this study identifies a sparse 
+      (<1.5%) and spatially distributed population of neurons that is robustly and 
+      directly activated by ultrasound in a pressure-dependent manner. Crucially, this 
+      sparse, direct activation is sufficient to modulate the broader visual circuit, 
+      altering the response dynamics of neighboring neurons to visual stimuli. By 
+      unequivocally decoupling direct neuromodulation from auditory artifacts, the 
+      findings identify a key cellular substrate for FUN and establish a robust 
+      framework for future studies. This work paves the way for targeted investigations 
+      into the precise biophysical mechanisms governing the interaction between 
+      ultrasound and neurons.
+CI  - (c) 2026 The Author(s). Advanced Science published by Wiley-VCH GmbH.
+FAU - He, Jiaru
+AU  - He J
+AUID- ORCID: 0000-0002-0463-3740
+AD  - Guangdong Institute of Intelligence Science and Technology, Zhuhai, Guangdong, P. 
+      R. China.
+FAU - Zhu, Jiejun
+AU  - Zhu J
+AD  - Guangdong Institute of Intelligence Science and Technology, Zhuhai, Guangdong, P. 
+      R. China.
+FAU - Wang, Xinxin
+AU  - Wang X
+AD  - Faculty of Health Sciences/Centre For Cognitive and Brain Sciences, University of 
+      Macau, Macao, SAR, P. R. China.
+FAU - Chen, Zihao
+AU  - Chen Z
+AD  - Guangdong Institute of Intelligence Science and Technology, Zhuhai, Guangdong, P. 
+      R. China.
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hung 
+      Hom, Hong Kong SAR, P. R. China.
+FAU - Yang, Jin
+AU  - Yang J
+AD  - Guangdong Institute of Intelligence Science and Technology, Zhuhai, Guangdong, P. 
+      R. China.
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hung 
+      Hom, Hong Kong SAR, P. R. China.
+FAU - Yuan, Zhen
+AU  - Yuan Z
+AD  - Faculty of Health Sciences/Centre For Cognitive and Brain Sciences, University of 
+      Macau, Macao, SAR, P. R. China.
+FAU - Xu, Hongzhi
+AU  - Xu H
+AD  - Department of Neurosurgery, Huashan Hospital, Shanghai Medical College, National 
+      Center for Neurological Disorders, Shanghai Key Laboratory of Brain Function and 
+      Restoration and Neural Regeneration, Shanghai Clinical Medical Center of 
+      Neurosurgery, Fudan University, Neurosurgical Institute of Fudan University, 
+      Department of Neurosurgery & Neurocritical Care, Huashan Hospital, Shanghai 
+      Medical College, Fudan University, Shanghai, P. R. China.
+FAU - Sun, Lei
+AU  - Sun L
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hung 
+      Hom, Hong Kong SAR, P. R. China.
+FAU - Qiu, Zhihai
+AU  - Qiu Z
+AUID- ORCID: 0000-0003-1694-5706
+AD  - Guangdong Institute of Intelligence Science and Technology, Zhuhai, Guangdong, P. 
+      R. China.
+LA  - eng
+GR  - 32371151/National Natural Science Foundation of China/
+GR  - 2021B0909050004/Guangdong High Level Innovation Research Institute/
+GR  - C5053-22GF/Hong Kong Research Grants Council Collaborative Research Fund/
+GR  - 15224323/General Research Fund/
+GR  - 15104520/General Research Fund/
+GR  - 25ZR1401043/Shanghai Natural Science Foundation/
+GR  - MHP/014/19/Hong Kong Innovation Technology Fund/
+GR  - G-SACD/Hong Kong Polytechnic University/
+GR  - 1-CDJM/Hong Kong Polytechnic University/
+PT  - Journal Article
+DEP - 20260319
+PL  - Germany
+TA  - Adv Sci (Weinh)
+JT  - Advanced science (Weinheim, Baden-Wurttemberg, Germany)
+JID - 101664569
+SB  - IM
+MH  - Animals
+MH  - Mice
+MH  - *Visual Cortex/physiology
+MH  - *Neurons/physiology
+MH  - Photic Stimulation/methods
+MH  - *Primary Visual Cortex/physiology
+MH  - *Ultrasonic Waves
+PMC - PMC13159160
+OTO - NOTNLM
+OT  - auditory confound
+OT  - two-photon imaging
+OT  - ultrasound neuromodulation
+OT  - visual stimulation
+COIS- The authors declare no conflict of interest.
+EDAT- 2026/03/19 07:11
+MHDA- 2026/05/08 18:33
+PMCR- 2026/03/19
+CRDT- 2026/03/19 05:08
+PHST- 2026/02/06 00:00 [revised]
+PHST- 2025/08/20 00:00 [received]
+PHST- 2026/02/24 00:00 [accepted]
+PHST- 2026/05/08 18:33 [medline]
+PHST- 2026/03/19 07:11 [pubmed]
+PHST- 2026/03/19 05:08 [entrez]
+PHST- 2026/03/19 00:00 [pmc-release]
+AID - ADVS74666 [pii]
+AID - 10.1002/advs.202515991 [doi]
+PST - ppublish
+SO  - Adv Sci (Weinh). 2026 May;13(26):e15991. doi: 10.1002/advs.202515991. Epub 2026 
+      Mar 19.
+
+PMID- 39700626
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250115
+LR  - 20260924
+IS  - 1361-6560 (Electronic)
+IS  - 0031-9155 (Print)
+IS  - 0031-9155 (Linking)
+VI  - 70
+IP  - 2
+DP  - 2025 Jan 15
+TI  - A comparative study of experimental and simulated ultrasound beam propagation 
+      through cranial bones.
+LID - 10.1088/1361-6560/ada19d [doi]
+LID - 025007
+AB  - Objective.Transcranial ultrasound is used in a variety of treatments, including 
+      neuromodulation, opening the blood-brain barrier, and high intensity focused 
+      ultrasound therapies. To ensure safety and efficacy of these treatments, 
+      numerical simulations of the ultrasound field within the brain are used for 
+      treatment planning and evaluation. This study investigates the accuracy of 
+      numerical modelling of the propagation of focused ultrasound through cranial 
+      bones.Approach.Holograms of acoustic fields after propagation through four human 
+      skull specimens were measured for frequencies ranging from 270 kHz to 1 MHz, 
+      using both quasi-continuous and pulsed modes. The open-source k-Wave toolbox was 
+      employed for simulations, using an equivalent-source hologram and a uniform bowl 
+      source with parameters that best matched the measured free-field pressure 
+      distribution.Main results.The average absolute error in k-Wave simulations with 
+      sound speed and density derived from CT scans compared to measurements was 15% 
+      for the spatial-peak acoustic pressure amplitude, 2.7 mm for the position of the 
+      focus, and 35% for the focal volume. Optimised uniform bowl sources achieved 
+      calculation accuracy comparable to that of the hologram sources.Significance.This 
+      method is demonstrated as a suitable tool for prediction of focal position, size 
+      and overall distribution of transcranial ultrasound fields. The accuracy of the 
+      shape and position of the focal region demonstrate the suitability of the sound 
+      speed and density mapping used here. However, large errors in pressure amplitude 
+      and transmission loss in some individual cases show that alternative methods for 
+      mapping individual skull attenuation are needed and the possibility of 
+      considerable errors in pressure amplitude should be taken into account when 
+      planning focused ultrasound studies or interventions in the human brain, and 
+      appropriate safety margins should be used.
+CI  - Creative Commons Attribution license.
+FAU - Krokhmal, Alisa
+AU  - Krokhmal A
+AUID- ORCID: 0000-0003-0026-6653
+AD  - Department of Medical Physics and Biomedical Engineering, University College 
+      London, London WC1E 6BT, United Kingdom.
+FAU - Simcock, Ian C
+AU  - Simcock IC
+AUID- ORCID: 0000-0002-5619-0785
+AD  - Great Ormond Street Hospital for Children NHS Foundation Trust, Great Ormond 
+      Street, London WC1N 3JH, United Kingdom.
+AD  - UCL Great Ormond Street Institute of Child Health, 30 Guildford Street, London 
+      WC1N 3EH, United Kingdom.
+AD  - NIHR Great Ormond Street Hospital Biomedical Research Centre, 30 Guildford 
+      Street, London WC1N 3EH, United Kingdom.
+FAU - Treeby, Bradley E
+AU  - Treeby BE
+AUID- ORCID: 0000-0001-7782-011X
+AD  - Department of Medical Physics and Biomedical Engineering, University College 
+      London, London WC1E 6BT, United Kingdom.
+FAU - Martin, Eleanor
+AU  - Martin E
+AUID- ORCID: 0000-0001-8760-1180
+AD  - Department of Medical Physics and Biomedical Engineering, University College 
+      London, London WC1E 6BT, United Kingdom.
+AD  - Wellcome/EPSRC Centre for Interventional and Surgical Sciences, University 
+      College London, London WC1E 6BT, United Kingdom.
+LA  - eng
+GR  - WT_/Wellcome Trust/United Kingdom
+PT  - Comparative Study
+PT  - Journal Article
+DEP - 20250115
+PL  - England
+TA  - Phys Med Biol
+JT  - Physics in medicine and biology
+JID - 0401220
+SB  - IM
+MH  - *Skull/diagnostic imaging
+MH  - Humans
+MH  - *Ultrasonic Waves
+MH  - Holography
+PMC - PMC11734220
+OTO - NOTNLM
+OT  - experimental validation
+OT  - focused ultrasound
+OT  - k-Wave
+OT  - numerical modelling
+OT  - transcranial ultrasound
+EDAT- 2024/12/20 00:23
+MHDA- 2025/01/15 12:24
+PMCR- 2025/01/15
+CRDT- 2024/12/19 18:04
+PHST- 2024/08/31 00:00 [received]
+PHST- 2024/12/19 00:00 [accepted]
+PHST- 2025/01/15 12:24 [medline]
+PHST- 2024/12/20 00:23 [pubmed]
+PHST- 2024/12/19 18:04 [entrez]
+PHST- 2025/01/15 00:00 [pmc-release]
+AID - pmbada19d [pii]
+AID - 10.1088/1361-6560/ada19d [doi]
+PST - epublish
+SO  - Phys Med Biol. 2025 Jan 15;70(2):025007. doi: 10.1088/1361-6560/ada19d.
+
+PMID- 37256814
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20230703
+LR  - 20250530
+IS  - 1525-8955 (Electronic)
+IS  - 0885-3010 (Linking)
+VI  - 70
+IP  - 7
+DP  - 2023 Jul
+TI  - open-UST: An Open-Source Ultrasound Tomography Transducer Array System.
+PG  - 782-791
+LID - 10.1109/TUFFC.2023.3280635 [doi]
+AB  - Fast imaging methods are needed to promote clinical adoption of ultrasound 
+      tomography (UST), and more widely available UST hardware could support the 
+      experimental validation of new measurement configurations. In this work, an 
+      open-source 256-element transducer ring array was developed 
+      (morganjroberts.github. io/open-UST) and manufactured using rapid prototyping, 
+      for only  pound2k. Novel manufacturing techniques were used, resulting in a 1.17 degrees  mean 
+      beam axis skew angle, a [Formula: see text] mean element position error, and a 
+      [Formula: see text] deviation in matching layer thickness. The nominal acoustic 
+      performance was measured using hydrophone scans and watershot data, and the 61.2 
+      dB signal-to-noise ratio (SNR), 55.4 degrees  opening angle, 10.2 mm beamwidth, and 54% 
+      transmit-receive bandwidth (-12 dB) were found to be similar to existing systems 
+      and compatible with state-of-the-art full-waveform-inversion image reconstruction 
+      methods. The interelement variation in acoustic performance was typically < 10% 
+      without using normalization, meaning that the elements can be modeled identically 
+      during image reconstruction, removing the need for individual source definitions 
+      based on hydrophone measurements. Finally, data from a phantom experiment were 
+      successfully reconstructed. These results demonstrate that the open-UST system is 
+      accessible for users and is suitable for UST imaging research.
+FAU - Roberts, Morgan
+AU  - Roberts M
+FAU - Martin, Eleanor
+AU  - Martin E
+FAU - Brown, Michael D
+AU  - Brown MD
+FAU - Cox, Ben T
+AU  - Cox BT
+FAU - Treeby, Bradley E
+AU  - Treeby BE
+LA  - eng
+GR  - MR/T019166/1/MRC_/Medical Research Council/United Kingdom
+PT  - Journal Article
+DEP - 20230629
+PL  - United States
+TA  - IEEE Trans Ultrason Ferroelectr Freq Control
+JT  - IEEE transactions on ultrasonics, ferroelectrics, and frequency control
+JID - 9882735
+SB  - IM
+MH  - Ultrasonography/methods
+MH  - *Tomography
+MH  - *Tomography, X-Ray Computed
+MH  - Image Processing, Computer-Assisted
+MH  - Phantoms, Imaging
+MH  - Transducers
+EDAT- 2023/05/31 19:16
+MHDA- 2023/07/03 06:41
+CRDT- 2023/05/31 13:03
+PHST- 2023/07/03 06:41 [medline]
+PHST- 2023/05/31 19:16 [pubmed]
+PHST- 2023/05/31 13:03 [entrez]
+AID - 10.1109/TUFFC.2023.3280635 [doi]
+PST - ppublish
+SO  - IEEE Trans Ultrason Ferroelectr Freq Control. 2023 Jul;70(7):782-791. doi: 
+      10.1109/TUFFC.2023.3280635. Epub 2023 Jun 29.
+
+PMID- 41870476
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20260713
+LR  - 20260828
+IS  - 1520-8524 (Electronic)
+IS  - 0001-4966 (Print)
+IS  - 0001-4966 (Linking)
+VI  - 159
+IP  - 3
+DP  - 2026 Mar 1
+TI  - Performance of a through-transmit aberration correction method for transcranial 
+      focused ultrasound: Simulation and experimental evaluation.
+PG  - 2694-2705
+LID - 10.1121/10.0043031 [doi]
+AB  - Transcranial focused ultrasound is a promising neuromodulation tool, but 
+      skull-induced aberrations to the ultrasound beam require subject-specific 
+      correction. To predict and compensate for aberration, the standard in 
+      transcranial focused ultrasound is to perform acoustic simulations based on x-ray 
+      computed tomography images of the head. However, computed tomography-based 
+      methods face shortcomings due to imaging resolution and uncertainty in acoustic 
+      parameter estimates. Relativistic through-transmit (RTT) is a recently proposed 
+      imaging-independent method that corrects skull-induced aberrations by comparing 
+      through-skull acoustic transmission to free-field signals from two opposing 
+      transducer arrays. Although RTT has shown promise, its robustness across subjects 
+      and conditions has not been fully characterized. In this work, RTT performance 
+      was evaluated in simulation as a function of several parameters in four unique 
+      non-human primate subjects using commercial linear phased array transducers 
+      operating at 1 and 2 MHz. Simulated results were validated experimentally at 
+      2 MHz. In simulations, RTT restored pressure amplitudes to within 5% of the 
+      intended value for three skulls but achieved only 60% of the intended pressure in 
+      one, with focal shift ranging 0.4 to 5.5 mm. RTT performance depended on 
+      signal-to-noise ratio and physical uncertainties and was markedly impacted by 
+      steering. Modifications to RTT are proposed and characterized.
+CI  - (c) 2026 Author(s). All article content, except where otherwise noted, is licensed 
+      under a Creative Commons Attribution (CC BY) license 
+      (https://creativecommons.org/licenses/by/4.0/).
+FAU - Donovan, Cooper L
+AU  - Donovan CL
+AUID- ORCID: 0009-0002-7259-3581
+AD  - Vanderbilt University Institute of Imaging Science, Vanderbilt University Medical 
+      Center, Nashville, Tennessee 37232, USA.
+FAU - Caskey, Charles F
+AU  - Caskey CF
+AUID- ORCID: 0000-0003-4545-4842
+AD  - Vanderbilt University Institute of Imaging Science, Vanderbilt University Medical 
+      Center, Nashville, Tennessee 37232, USA.
+LA  - eng
+GR  - R01 NS126144/NS/NINDS NIH HHS/United States
+GR  - UG3 NS135551/NS/NINDS NIH HHS/United States
+PT  - Journal Article
+PL  - United States
+TA  - J Acoust Soc Am
+JT  - The Journal of the Acoustical Society of America
+JID - 7503051
+SB  - IM
+MH  - Animals
+MH  - *Skull/diagnostic imaging
+MH  - *Computer Simulation
+MH  - Transducers
+MH  - Pressure
+MH  - Signal Processing, Computer-Assisted
+PMC - PMC13520834
+MID - NIHMS2199434
+COIS- Conflict of Interest The authors have no conflicts of interest to disclose.
+EDAT- 2026/03/23 13:04
+MHDA- 2026/03/23 13:05
+PMCR- 2026/08/27
+CRDT- 2026/03/23 11:44
+PHST- 2025/10/27 00:00 [received]
+PHST- 2026/02/28 00:00 [accepted]
+PHST- 2026/03/23 13:05 [medline]
+PHST- 2026/03/23 13:04 [pubmed]
+PHST- 2026/03/23 11:44 [entrez]
+PHST- 2026/08/27 00:00 [pmc-release]
+AID - 3384524 [pii]
+AID - 10.1121/10.0043031 [doi]
+PST - ppublish
+SO  - J Acoust Soc Am. 2026 Mar 1;159(3):2694-2705. doi: 10.1121/10.0043031.
+
+PMID- 41177518
+OWN - NLM
+STAT- In-Process
+LR  - 20251201
+IS  - 1876-4754 (Electronic)
+IS  - 1876-4754 (Linking)
+VI  - 18
+IP  - 6
+DP  - 2025 Nov-Dec
+TI  - Brain injury during focused ultrasound neuromodulation for substance use 
+      disorder.
+PG  - 2050-2053
+LID - S1935-861X(25)00358-4 [pii]
+LID - 10.1016/j.brs.2025.10.012 [doi]
+FAU - Rezai, Ali
+AU  - Rezai A
+AD  - West Virginia University, Rockefeller Neuroscience Institute. Morgantown, West 
+      Virginia, USA. Electronic address: Ali.rezai@hsc.wvu.edu.
+FAU - Ranjan, Manish
+AU  - Ranjan M
+AD  - West Virginia University, Rockefeller Neuroscience Institute. Morgantown, West 
+      Virginia, USA.
+FAU - Bhagwat, Aniruddha
+AU  - Bhagwat A
+AD  - West Virginia University, Rockefeller Neuroscience Institute. Morgantown, West 
+      Virginia, USA.
+FAU - Arsiwala, Tasneem
+AU  - Arsiwala T
+AD  - West Virginia University, Rockefeller Neuroscience Institute. Morgantown, West 
+      Virginia, USA.
+FAU - Carpenter, Jeffrey
+AU  - Carpenter J
+AD  - West Virginia University, Rockefeller Neuroscience Institute. Morgantown, West 
+      Virginia, USA.
+FAU - Schafer, Mark
+AU  - Schafer M
+AD  - West Virginia University, Rockefeller Neuroscience Institute. Morgantown, West 
+      Virginia, USA.
+FAU - Adams, Geoffrey
+AU  - Adams G
+AD  - West Virginia University, Rockefeller Neuroscience Institute. Morgantown, West 
+      Virginia, USA.
+FAU - Marton, Jennifer
+AU  - Marton J
+AD  - West Virginia University, Rockefeller Neuroscience Institute. Morgantown, West 
+      Virginia, USA.
+FAU - Tirumalai, Padmashree
+AU  - Tirumalai P
+AD  - West Virginia University, Rockefeller Neuroscience Institute. Morgantown, West 
+      Virginia, USA.
+FAU - Farmer, Daniel
+AU  - Farmer D
+AD  - West Virginia University, Rockefeller Neuroscience Institute. Morgantown, West 
+      Virginia, USA.
+FAU - Mahoney, James
+AU  - Mahoney J
+AD  - West Virginia University, Rockefeller Neuroscience Institute. Morgantown, West 
+      Virginia, USA.
+FAU - Finomore, Victor
+AU  - Finomore V
+AD  - West Virginia University, Rockefeller Neuroscience Institute. Morgantown, West 
+      Virginia, USA.
+LA  - eng
+PT  - Letter
+DEP - 20251031
+PL  - United States
+TA  - Brain Stimul
+JT  - Brain stimulation
+JID - 101465726
+SB  - IM
+COIS- Declaration of competing interest The authors declare that they have no competing 
+      financial interests or personal relationships that could be perceived to have 
+      influenced the work reported in this paper.
+EDAT- 2025/11/03 00:26
+MHDA- 2025/11/03 00:26
+CRDT- 2025/11/02 19:16
+PHST- 2025/07/28 00:00 [received]
+PHST- 2025/09/18 00:00 [revised]
+PHST- 2025/10/15 00:00 [accepted]
+PHST- 2025/11/03 00:26 [pubmed]
+PHST- 2025/11/03 00:26 [medline]
+PHST- 2025/11/02 19:16 [entrez]
+AID - S1935-861X(25)00358-4 [pii]
+AID - 10.1016/j.brs.2025.10.012 [doi]
+PST - ppublish
+SO  - Brain Stimul. 2025 Nov-Dec;18(6):2050-2053. doi: 10.1016/j.brs.2025.10.012. Epub 
+      2025 Oct 31.
+
+PMID- 41205799
+OWN - NLM
+STAT- In-Process
+LR  - 20251201
+IS  - 1876-4754 (Electronic)
+IS  - 1876-4754 (Linking)
+VI  - 18
+IP  - 6
+DP  - 2025 Nov-Dec
+TI  - Letter to the Editor in response to "Brain injury during focused ultrasound 
+      neuromodulation for substance use disorder".
+PG  - 2075-2076
+LID - S1935-861X(25)00375-4 [pii]
+LID - 10.1016/j.brs.2025.11.004 [doi]
+FAU - Pauly, Kim Butts
+AU  - Pauly KB
+AD  - Department of Radiology Electrical Engineering, by Courtesy, Stanford University, 
+      United States. Electronic address: kimbutts@stanford.edu.
+LA  - eng
+PT  - Letter
+DEP - 20251106
+PL  - United States
+TA  - Brain Stimul
+JT  - Brain stimulation
+JID - 101465726
+SB  - IM
+COIS- Declaration of competing interest Kim Butts Pauly reports a relationship with 
+      Attune Neurosciences that includes: consulting or advisory and equity or stocks. 
+      Kim Butts Pauly reports a relationship with Surf Therapeutics that includes: 
+      consulting or advisory. Kim Butts Pauly reports a relationship with MR 
+      Instruments that includes: non-financial support.
+EDAT- 2025/11/09 00:32
+MHDA- 2025/11/09 00:32
+CRDT- 2025/11/08 19:14
+PHST- 2025/10/20 00:00 [received]
+PHST- 2025/11/04 00:00 [accepted]
+PHST- 2025/11/09 00:32 [pubmed]
+PHST- 2025/11/09 00:32 [medline]
+PHST- 2025/11/08 19:14 [entrez]
+AID - S1935-861X(25)00375-4 [pii]
+AID - 10.1016/j.brs.2025.11.004 [doi]
+PST - ppublish
+SO  - Brain Stimul. 2025 Nov-Dec;18(6):2075-2076. doi: 10.1016/j.brs.2025.11.004. Epub 
+      2025 Nov 6.
+
+PMID- 39471185
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20241029
+LR  - 20260923
+IS  - 1545-7885 (Electronic)
+IS  - 1544-9173 (Print)
+IS  - 1544-9173 (Linking)
+VI  - 22
+IP  - 10
+DP  - 2024 Oct
+TI  - The future of transcranial ultrasound as a precision brain interface.
+PG  - e3002884
+LID - 10.1371/journal.pbio.3002884 [doi]
+LID - e3002884
+AB  - Our understanding of brain circuit operations and disorders has rapidly outpaced 
+      our ability to intervene and restore them. Developing technologies that can 
+      precisely interface with any brain region and circuit may combine diagnostics 
+      with therapeutic intervention, expediting personalised brain medicine. 
+      Transcranial ultrasound stimulation (TUS) is a promising noninvasive solution to 
+      this challenge, offering focal precision and scalability. By exploiting the 
+      biomechanics of pressure waves on brain tissue, TUS enables multi-site targeted 
+      neuromodulation across distributed circuits in the cortex and deeper areas alike. 
+      In this Essay, we explore the emergent evidence that TUS can functionally test 
+      and modify dysfunctional regions, effectively serving as a search and rescue tool 
+      for the brain. We define the challenges and opportunities faced by TUS as it 
+      moves towards greater target precision and integration with advanced brain 
+      monitoring and interventional technology. Finally, we propose a roadmap for the 
+      evolution of TUS as it progresses from a research tool to a clinically validated 
+      therapeutic for brain disorders.
+CI  - Copyright: (c) 2024 Murphy, Fouragnan. This is an open access article distributed 
+      under the terms of the Creative Commons Attribution License, which permits 
+      unrestricted use, distribution, and reproduction in any medium, provided the 
+      original author and source are credited.
+FAU - Murphy, Keith
+AU  - Murphy K
+AD  - Department of Radiology, Stanford University, Stanford, California, United States 
+      of America.
+AD  - Attune Neurosciences, San Francisco, California, United States of America.
+FAU - Fouragnan, Elsa
+AU  - Fouragnan E
+AUID- ORCID: 0000-0003-1485-0332
+AD  - Brain Research and Imaging Centre, University of Plymouth, Plymouth, United 
+      Kingdom.
+AD  - School of psychology, Faculty of Health, University of Plymouth, Plymouth, United 
+      Kingdom.
+LA  - eng
+GR  - MR/T023007/1/MRC_/Medical Research Council/United Kingdom
+GR  - BB/Y001494/1/BBSRC/
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+DEP - 20241029
+PL  - United States
+TA  - PLoS Biol
+JT  - PLoS biology
+JID - 101183755
+SB  - IM
+MH  - Humans
+MH  - *Brain/diagnostic imaging/physiology
+MH  - Precision Medicine/methods/trends
+MH  - Brain Diseases/diagnostic imaging/therapy
+MH  - Animals
+PMC - PMC11521279
+COIS- We have read the journal's policy and the author K.M. of this manuscript has the 
+      following competing interests: K.M. is a co-founder and shareholder of Attune 
+      Neuroscience.
+EDAT- 2024/10/29 18:22
+MHDA- 2024/10/29 18:23
+PMCR- 2024/10/29
+CRDT- 2024/10/29 13:43
+PHST- 2024/10/29 18:23 [medline]
+PHST- 2024/10/29 18:22 [pubmed]
+PHST- 2024/10/29 13:43 [entrez]
+PHST- 2024/10/29 00:00 [pmc-release]
+AID - PBIOLOGY-D-24-01526 [pii]
+AID - 10.1371/journal.pbio.3002884 [doi]
+PST - epublish
+SO  - PLoS Biol. 2024 Oct 29;22(10):e3002884. doi: 10.1371/journal.pbio.3002884. 
+      eCollection 2024 Oct.
+
+PMID- 18958151
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20090223
+LR  - 20220330
+IS  - 1932-6203 (Electronic)
+IS  - 1932-6203 (Linking)
+VI  - 3
+IP  - 10
+DP  - 2008
+TI  - Remote excitation of neuronal circuits using low-intensity, low-frequency 
+      ultrasound.
+PG  - e3511
+LID - 10.1371/journal.pone.0003511 [doi]
+LID - e3511
+AB  - Possessing the ability to noninvasively elicit brain circuit activity yields 
+      immense experimental and therapeutic power. Most currently employed 
+      neurostimulation methods rely on the somewhat invasive use of stimulating 
+      electrodes or photon-emitting devices. Due to its ability to noninvasively 
+      propagate through bone and other tissues in a focused manner, the implementation 
+      of ultrasound (US) represents a compelling alternative approach to current 
+      neuromodulation strategies. Here, we investigated the influence of low-intensity, 
+      low-frequency ultrasound (LILFU) on neuronal activity. By transmitting US 
+      waveforms through hippocampal slice cultures and ex vivo mouse brains, we 
+      determined LILFU is capable of remotely and noninvasively exciting neurons and 
+      network activity. Our results illustrate that LILFU can stimulate electrical 
+      activity in neurons by activating voltage-gated sodium channels, as well as 
+      voltage-gated calcium channels. The LILFU-induced changes in neuronal activity 
+      were sufficient to trigger SNARE-mediated exocytosis and synaptic transmission in 
+      hippocampal circuits. Because LILFU can stimulate electrical activity and calcium 
+      signaling in neurons as well as central synaptic transmission we conclude US 
+      provides a powerful tool for remotely modulating brain circuit activity.
+FAU - Tyler, William J
+AU  - Tyler WJ
+AD  - School of Life Sciences, Arizona State University, Tempe, Arizona, USA. 
+      wtyler@asu.edu
+FAU - Tufail, Yusuf
+AU  - Tufail Y
+FAU - Finsterwald, Michael
+AU  - Finsterwald M
+FAU - Tauchmann, Monica L
+AU  - Tauchmann ML
+FAU - Olson, Emily J
+AU  - Olson EJ
+FAU - Majestic, Cassondra
+AU  - Majestic C
+LA  - eng
+PT  - Evaluation Study
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20081029
+PL  - United States
+TA  - PLoS One
+JT  - PloS one
+JID - 101285081
+RN  - 0 (Calcium Channels)
+RN  - 0 (SNARE Proteins)
+RN  - 0 (Sodium Channels)
+SB  - IM
+MH  - Animals
+MH  - Calcium Channels/physiology
+MH  - Cells, Cultured
+MH  - Electric Stimulation/instrumentation/methods
+MH  - Exocytosis/physiology
+MH  - Mice
+MH  - Models, Biological
+MH  - Nerve Net/diagnostic imaging/*physiology
+MH  - Neurons/metabolism/physiology
+MH  - Patch-Clamp Techniques/instrumentation/*methods
+MH  - SNARE Proteins/physiology
+MH  - Sodium Channels/metabolism/physiology
+MH  - *Ultrasonics
+MH  - Ultrasonography
+PMC - PMC2568804
+COIS- Competing Interests: The authors have declared that no competing interests exist.
+EDAT- 2008/10/30 09:00
+MHDA- 2009/02/24 09:00
+PMCR- 2008/10/29
+CRDT- 2008/10/30 09:00
+PHST- 2008/05/06 00:00 [received]
+PHST- 2008/10/03 00:00 [accepted]
+PHST- 2008/10/30 09:00 [pubmed]
+PHST- 2009/02/24 09:00 [medline]
+PHST- 2008/10/30 09:00 [entrez]
+PHST- 2008/10/29 00:00 [pmc-release]
+AID - 08-PONE-RA-04573R2 [pii]
+AID - 10.1371/journal.pone.0003511 [doi]
+PST - ppublish
+SO  - PLoS One. 2008;3(10):e3511. doi: 10.1371/journal.pone.0003511. Epub 2008 Oct 29.
+
+PMID- 29804920
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190805
+LR  - 20230426
+IS  - 1097-4199 (Electronic)
+IS  - 0896-6273 (Print)
+IS  - 0896-6273 (Linking)
+VI  - 98
+IP  - 5
+DP  - 2018 Jun 6
+TI  - Ultrasonic Neuromodulation Causes Widespread Cortical Activation via an Indirect 
+      Auditory Mechanism.
+PG  - 1031-1041.e5
+LID - S0896-6273(18)30381-7 [pii]
+LID - 10.1016/j.neuron.2018.05.009 [doi]
+AB  - Ultrasound has received widespread attention as an emerging technology for 
+      targeted, non-invasive neuromodulation based on its ability to evoke 
+      electrophysiological and motor responses in animals. However, little is known 
+      about the spatiotemporal pattern of ultrasound-induced brain activity that could 
+      drive these responses. Here, we address this question by combining focused 
+      ultrasound with wide-field optical imaging of calcium signals in transgenic mice. 
+      Surprisingly, we find cortical activity patterns consistent with indirect 
+      activation of auditory pathways rather than direct neuromodulation at the 
+      ultrasound focus. Ultrasound-induced activity is similar to that evoked by 
+      audible sound. Furthermore, both ultrasound and audible sound elicit motor 
+      responses consistent with a startle reflex, with both responses reduced by 
+      chemical deafening. These findings reveal an indirect auditory mechanism for 
+      ultrasound-induced cortical activity and movement requiring careful consideration 
+      in future development of ultrasonic neuromodulation as a tool in neuroscience 
+      research.
+CI  - Copyright (c) 2018 Elsevier Inc. All rights reserved.
+FAU - Sato, Tomokazu
+AU  - Sato T
+AD  - Division of Biology and Biological Engineering, California Institute of 
+      Technology, Pasadena, CA 91125, USA. Electronic address: tsato.fas@gmail.com.
+FAU - Shapiro, Mikhail G
+AU  - Shapiro MG
+AD  - Division of Chemistry and Chemical Engineering, California Institute of 
+      Technology, Pasadena, CA 91125, USA. Electronic address: mikhail@caltech.edu.
+FAU - Tsao, Doris Y
+AU  - Tsao DY
+AD  - Division of Biology and Biological Engineering, California Institute of 
+      Technology, Pasadena, CA 91125, USA; Howard Hughes Medical Institute, Pasadena, 
+      CA 91125, USA. Electronic address: dortsao@caltech.edu.
+LA  - eng
+GR  - R24 MH106107/MH/NIMH NIH HHS/United States
+GR  - RF1 MH117080/MH/NIMH NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20180524
+PL  - United States
+TA  - Neuron
+JT  - Neuron
+JID - 8809320
+CIN - Neuron. 2018 Jun 6;98(5):875-877. doi: 10.1016/j.neuron.2018.05.031. PMID: 
+      29879389
+MH  - Acoustic Stimulation
+MH  - Animals
+MH  - Auditory Cortex/diagnostic imaging/*radiation effects
+MH  - Auditory Pathways/diagnostic imaging/*radiation effects
+MH  - Brain/diagnostic imaging/radiation effects
+MH  - Calcium Signaling
+MH  - Cerebral Cortex/diagnostic imaging/radiation effects
+MH  - Electrophysiological Phenomena/radiation effects
+MH  - Mice
+MH  - Mice, Transgenic
+MH  - Motor Activity/radiation effects
+MH  - Optical Imaging
+MH  - Reflex, Startle/*radiation effects
+MH  - *Sound
+MH  - *Ultrasonic Waves
+PMC - PMC8127805
+MID - NIHMS1697629
+OTO - NOTNLM
+OT  - auditory cortex
+OT  - cortical calcium imaging
+OT  - cross modal sensory interactions
+OT  - neuromodulation
+OT  - ultrasound
+COIS- DECLARATION OF INTERESTS The authors declare no competing interests.
+EDAT- 2018/05/29 06:00
+MHDA- 2019/08/06 06:00
+PMCR- 2021/05/17
+CRDT- 2018/05/29 06:00
+PHST- 2017/12/13 00:00 [received]
+PHST- 2018/03/20 00:00 [revised]
+PHST- 2018/05/04 00:00 [accepted]
+PHST- 2018/05/29 06:00 [pubmed]
+PHST- 2019/08/06 06:00 [medline]
+PHST- 2018/05/29 06:00 [entrez]
+PHST- 2021/05/17 00:00 [pmc-release]
+AID - S0896-6273(18)30381-7 [pii]
+AID - 10.1016/j.neuron.2018.05.009 [doi]
+PST - ppublish
+SO  - Neuron. 2018 Jun 6;98(5):1031-1041.e5. doi: 10.1016/j.neuron.2018.05.009. Epub 
+      2018 May 24.
+
+PMID- 29804919
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190805
+LR  - 20190805
+IS  - 1097-4199 (Electronic)
+IS  - 0896-6273 (Linking)
+VI  - 98
+IP  - 5
+DP  - 2018 Jun 6
+TI  - Ultrasound Produces Extensive Brain Activation via a Cochlear Pathway.
+PG  - 1020-1030.e4
+LID - S0896-6273(18)30371-4 [pii]
+LID - 10.1016/j.neuron.2018.04.036 [doi]
+AB  - Ultrasound (US) can noninvasively activate intact brain circuits, making it a 
+      promising neuromodulation technique. However, little is known about the 
+      underlying mechanism. Here, we apply transcranial US and perform brain mapping 
+      studies in guinea pigs using extracellular electrophysiology. We find that US 
+      elicits extensive activation across cortical and subcortical brain regions. 
+      However, transection of the auditory nerves or removal of cochlear fluids 
+      eliminates the US-induced activity, revealing an indirect auditory mechanism for 
+      US neural activation. Our findings indicate that US activates the ascending 
+      auditory system through a cochlear pathway, which can activate other non-auditory 
+      regions through cross-modal projections. This cochlear pathway mechanism 
+      challenges the idea that US can directly activate neurons in the intact brain, 
+      suggesting that future US stimulation studies will need to control for this 
+      effect to reach reliable conclusions.
+CI  - Copyright (c) 2018 Elsevier Inc. All rights reserved.
+FAU - Guo, Hongsun
+AU  - Guo H
+AD  - Department of Biomedical Engineering, University of Minnesota, Minneapolis, MN 
+      55455, USA. Electronic address: guoxx691@umn.edu.
+FAU - Hamilton, Mark 2nd
+AU  - Hamilton M 2nd
+AD  - Department of Biomedical Engineering, University of Minnesota, Minneapolis, MN 
+      55455, USA.
+FAU - Offutt, Sarah J
+AU  - Offutt SJ
+AD  - Restorative Therapies Group, Medtronic, Inc., Minneapolis, MN 55432, USA.
+FAU - Gloeckner, Cory D
+AU  - Gloeckner CD
+AD  - Department of Biomedical Engineering, University of Minnesota, Minneapolis, MN 
+      55455, USA.
+FAU - Li, Tianqi
+AU  - Li T
+AD  - Department of Biomedical Engineering, University of Minnesota, Minneapolis, MN 
+      55455, USA.
+FAU - Kim, Yohan
+AU  - Kim Y
+AD  - Restorative Therapies Group, Medtronic, Inc., Minneapolis, MN 55432, USA.
+FAU - Legon, Wynn
+AU  - Legon W
+AD  - Department of Rehabilitation Medicine, Medical School, University of Minnesota, 
+      Minneapolis, MN 55455, USA; Department of Neurological Surgery, School of 
+      Medicine, University of Virginia, Charlottesville, VA 22908, USA.
+FAU - Alford, Jamu K
+AU  - Alford JK
+AD  - Restorative Therapies Group, Medtronic, Inc., Minneapolis, MN 55432, USA.
+FAU - Lim, Hubert H
+AU  - Lim HH
+AD  - Department of Biomedical Engineering, University of Minnesota, Minneapolis, MN 
+      55455, USA; Institute for Translational Neuroscience, University of Minnesota, 
+      Minneapolis, MN 55455, USA; Department of Otolaryngology, Head and Neck Surgery, 
+      University of Minnesota, Minneapolis, MN 55455, USA.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+DEP - 20180524
+PL  - United States
+TA  - Neuron
+JT  - Neuron
+JID - 8809320
+CIN - Neuron. 2018 Jun 6;98(5):875-877. doi: 10.1016/j.neuron.2018.05.031. PMID: 
+      29879389
+EIN - Neuron. 2018 Aug 22;99(4):866. doi: 10.1016/j.neuron.2018.07.049. PMID: 30138592
+MH  - Animals
+MH  - Auditory Cortex/*radiation effects
+MH  - Auditory Pathways/*radiation effects
+MH  - Brain/radiation effects
+MH  - Brain Mapping
+MH  - Cerebral Cortex/radiation effects
+MH  - Cochlea/*radiation effects
+MH  - Cochlear Nerve/*radiation effects
+MH  - Electrophysiological Phenomena/*radiation effects
+MH  - Guinea Pigs
+MH  - Neurons/*radiation effects
+MH  - *Ultrasonic Waves
+OTO - NOTNLM
+OT  - auditory
+OT  - deep brain stimulation
+OT  - hearing
+OT  - hearing aid
+OT  - neuromodulation
+OT  - neurostimulation
+OT  - noninvasive
+OT  - somatosensory
+OT  - transcranial
+OT  - ultrasound
+EDAT- 2018/05/29 06:00
+MHDA- 2019/08/06 06:00
+CRDT- 2018/05/29 06:00
+PHST- 2017/12/13 00:00 [received]
+PHST- 2018/03/21 00:00 [revised]
+PHST- 2018/04/27 00:00 [accepted]
+PHST- 2018/05/29 06:00 [pubmed]
+PHST- 2019/08/06 06:00 [medline]
+PHST- 2018/05/29 06:00 [entrez]
+AID - S0896-6273(18)30371-4 [pii]
+AID - 10.1016/j.neuron.2018.04.036 [doi]
+PST - ppublish
+SO  - Neuron. 2018 Jun 6;98(5):1020-1030.e4. doi: 10.1016/j.neuron.2018.04.036. Epub 
+      2018 May 24.
+
+PMID- 40624336
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20260122
+LR  - 20260124
+IS  - 2157-846X (Electronic)
+IS  - 2157-846X (Linking)
+VI  - 10
+IP  - 1
+DP  - 2026 Jan
+TI  - Holographic transcranial ultrasound neuromodulation enhances stimulation efficacy 
+      by cooperatively recruiting distributed brain circuits.
+PG  - 6-15
+LID - 10.1038/s41551-025-01449-x [doi]
+AB  - Precision-targeted ultrasonic neuromodulation offers immense potential for 
+      studying brain function and treating neurological diseases. Yet, its application 
+      has been limited by challenges in achieving precise spatio-temporal control and 
+      monitoring of ultrasound effects on brain circuits. Here we show that 
+      transcranial ultrasound elicits direct and highly focal responses, which can be 
+      dynamically steered at spatio-temporal scales relevant for neural function. 
+      Furthermore, holographic transcranial ultrasound stimulation allows direct 
+      control of the stimulated volume and actively modulates local and mid-range 
+      network projections, effectively lowering the activation threshold by an order of 
+      magnitude. To better understand this previously unexplored excitability regime 
+      not fully explained by the conventional pressure-frequency dyad, we developed a 
+      dual modelling framework, where both an empirical and a mechanistic model were 
+      constructed to capture the intricacies of holographic transcranial ultrasound 
+      stimulation. These models achieve qualitative agreement with our experimental 
+      results, suggesting that these findings are predominantly driven by putative 
+      network interactions. Our results bring insight on the complex interaction 
+      mechanisms of ultrasound with neural tissue and highlight its potential for the 
+      noninvasive interfacing of distributed brain networks.
+CI  - (c) 2025. The Author(s).
+FAU - Estrada, Hector
+AU  - Estrada H
+AUID- ORCID: 0000-0002-4345-6695
+AD  - Institute of Pharmacology and Toxicology and Institute for Biomedical 
+      Engineering, Faculty of Medicine, University of Zurich, Zurich, Switzerland.
+AD  - Institute for Biomedical Engineering, Department of Information Technology and 
+      Electrical Engineering, ETH Zurich, Zurich, Switzerland.
+FAU - Chen, Yiming
+AU  - Chen Y
+AUID- ORCID: 0000-0001-9681-142X
+AD  - Institute of Pharmacology and Toxicology and Institute for Biomedical 
+      Engineering, Faculty of Medicine, University of Zurich, Zurich, Switzerland.
+AD  - Institute for Biomedical Engineering, Department of Information Technology and 
+      Electrical Engineering, ETH Zurich, Zurich, Switzerland.
+AD  - School of Physics Science and Engineering, Tongji University, Shanghai, China.
+FAU - Lemaire, Theo
+AU  - Lemaire T
+AUID- ORCID: 0000-0002-0862-1309
+AD  - Neuroscience and Ophthalmology Departments, NYU Langone Health, New York, NY, 
+      USA.
+AD  - Tech4Health Institute, NYU Langone Health, New York, NY, USA.
+FAU - Davoudi, Neda
+AU  - Davoudi N
+AUID- ORCID: 0000-0002-0900-2251
+AD  - Institute of Pharmacology and Toxicology and Institute for Biomedical 
+      Engineering, Faculty of Medicine, University of Zurich, Zurich, Switzerland.
+AD  - Institute for Biomedical Engineering, Department of Information Technology and 
+      Electrical Engineering, ETH Zurich, Zurich, Switzerland.
+FAU - Ozbek, Ali
+AU  - Ozbek A
+AD  - Institute of Pharmacology and Toxicology and Institute for Biomedical 
+      Engineering, Faculty of Medicine, University of Zurich, Zurich, Switzerland.
+AD  - Institute for Biomedical Engineering, Department of Information Technology and 
+      Electrical Engineering, ETH Zurich, Zurich, Switzerland.
+FAU - Parduzi, Qendresa
+AU  - Parduzi Q
+AUID- ORCID: 0009-0007-2640-7246
+AD  - Institute of Pharmacology and Toxicology and Institute for Biomedical 
+      Engineering, Faculty of Medicine, University of Zurich, Zurich, Switzerland.
+AD  - Institute for Biomedical Engineering, Department of Information Technology and 
+      Electrical Engineering, ETH Zurich, Zurich, Switzerland.
+AD  - Department of Neurosurgery, Lucerne Cantonal Hospital, Lucerne, Switzerland.
+FAU - Shoham, Shy
+AU  - Shoham S
+AUID- ORCID: 0000-0003-0376-3495
+AD  - Neuroscience and Ophthalmology Departments, NYU Langone Health, New York, NY, 
+      USA. shoham@nyu.edu.
+AD  - Tech4Health Institute, NYU Langone Health, New York, NY, USA. shoham@nyu.edu.
+AD  - Department of Biomedical Engineering, New York University, New York, NY, USA. 
+      shoham@nyu.edu.
+FAU - Razansky, Daniel
+AU  - Razansky D
+AUID- ORCID: 0000-0001-8676-0964
+AD  - Institute of Pharmacology and Toxicology and Institute for Biomedical 
+      Engineering, Faculty of Medicine, University of Zurich, Zurich, Switzerland. 
+      daniel.razansky@uzh.ch.
+AD  - Institute for Biomedical Engineering, Department of Information Technology and 
+      Electrical Engineering, ETH Zurich, Zurich, Switzerland. daniel.razansky@uzh.ch.
+LA  - eng
+GR  - RF1 NS126102/NS/NINDS NIH HHS/United States
+GR  - R01 NS109885/NS/NINDS NIH HHS/United States
+GR  - R01-NS109885/U.S. Department of Health & Human Services | National Institutes of 
+      Health (NIH)/
+GR  - P500PB_211119/Schweizerischer Nationalfonds zur Forderung der Wissenschaftlichen 
+      Forschung (Swiss National Science Foundation)/
+GR  - 310030_192757/Schweizerischer Nationalfonds zur Forderung der Wissenschaftlichen 
+      Forschung (Swiss National Science Foundation)/
+GR  - RF1-NS126102/U.S. Department of Health & Human Services | National Institutes of 
+      Health (NIH)/
+PT  - Journal Article
+DEP - 20250707
+PL  - England
+TA  - Nat Biomed Eng
+JT  - Nature biomedical engineering
+JID - 101696896
+SB  - IM
+MH  - *Brain/physiology/diagnostic imaging
+MH  - Humans
+MH  - *Holography/methods
+MH  - Animals
+MH  - Male
+MH  - Models, Neurological
+MH  - Ultrasonic Waves
+MH  - *Nerve Net/physiology
+PMC - PMC12647959
+MID - NIHMS2114982
+COIS- Competing interests: The authors declare no competing interests.
+EDAT- 2025/07/08 00:27
+MHDA- 2026/01/22 07:43
+PMCR- 2025/07/07
+CRDT- 2025/07/07 23:38
+PHST- 2024/04/12 00:00 [received]
+PHST- 2025/06/04 00:00 [accepted]
+PHST- 2026/01/22 07:43 [medline]
+PHST- 2025/07/08 00:27 [pubmed]
+PHST- 2025/07/07 23:38 [entrez]
+PHST- 2025/07/07 00:00 [pmc-release]
+AID - 10.1038/s41551-025-01449-x [pii]
+AID - 1449 [pii]
+AID - 10.1038/s41551-025-01449-x [doi]
+PST - ppublish
+SO  - Nat Biomed Eng. 2026 Jan;10(1):6-15. doi: 10.1038/s41551-025-01449-x. Epub 2025 
+      Jul 7.
+
+PMID- 42243115
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20260624
+LR  - 20260813
+IS  - 2041-1723 (Electronic)
+IS  - 2041-1723 (Linking)
+VI  - 17
+IP  - 1
+DP  - 2026 Jun 4
+TI  - Skin-attached bioadhesive patch enabling ultrasound deep brain stimulation and 
+      real-time electrophysiological monitoring for REM sleep enhancement.
+LID - 10.1038/s41467-026-73787-6 [doi]
+LID - 5570
+AB  - Wearable bioelectronic interfaces capable of simultaneous neural sensing and 
+      targeted deep brain modulation remain limited by the lack of non-invasive 
+      technologies with sufficient spatial precision and mechanical stability for 
+      continuous operation. Here we report NEUSLeeP, a flexible skin-attached 
+      bioadhesive patch integrating electrophysiological sensing with transcranial 
+      focused ultrasound neuromodulation. The system incorporates a tunable 
+      concentric-ring ultrasound array, conformal hydrogel electrophysiological 
+      electrodes, and compliant interconnects within a soft substrate optimized for 
+      stable overnight operation. This integrated architecture enables spatially 
+      selective modulation and concurrent electrophysiological monitoring of deep brain 
+      structures, specifically the subthalamic nucleus during natural sleep. In a 
+      28-participant study, NEUSLeeP demonstrated robust monitoring of sleep 
+      performance with precise-targeted neuromodulation of STN resulting in an increase 
+      in REM duration by 4.6% and reducing REM latency by 24%. This work establishes an 
+      ultrasound bioelectronic platform for non-invasive, spatiotemporally precise 
+      modulation and monitoring of deep neural circuits for neuroscience and 
+      bioelectronic medicine. ClinicalTrials.gov identifier: NCT07190287.
+CI  - (c) 2026. The Author(s).
+FAU - Tang, Kai Wing Kevin
+AU  - Tang KWK
+AUID- ORCID: 0000-0003-0671-8702
+AD  - Department of Biomedical Engineering, Cockrell School of Engineering, The 
+      University of Texas at Austin, Austin, TX, USA.
+FAU - Baird, Benjamin
+AU  - Baird B
+AUID- ORCID: 0000-0001-8541-0508
+AD  - Department of Psychology, The University of Texas at Austin, Austin, TX, USA.
+FAU - Moscoso-Barrera, William D
+AU  - Moscoso-Barrera WD
+AD  - Department of Biomedical Engineering, Cockrell School of Engineering, The 
+      University of Texas at Austin, Austin, TX, USA.
+FAU - Yu, Mengxia
+AU  - Yu M
+AD  - Department of Biomedical Engineering, Cockrell School of Engineering, The 
+      University of Texas at Austin, Austin, TX, USA.
+FAU - Yao, Mengmeng
+AU  - Yao M
+AUID- ORCID: 0000-0003-2257-4526
+AD  - Department of Biomedical Engineering, Cockrell School of Engineering, The 
+      University of Texas at Austin, Austin, TX, USA.
+FAU - Jeong, Jinmo
+AU  - Jeong J
+AUID- ORCID: 0000-0002-6088-2856
+AD  - Department of Biomedical Engineering, Cockrell School of Engineering, The 
+      University of Texas at Austin, Austin, TX, USA.
+FAU - Pyatnitskiy, Ilya
+AU  - Pyatnitskiy I
+AD  - Department of Biomedical Engineering, Cockrell School of Engineering, The 
+      University of Texas at Austin, Austin, TX, USA.
+FAU - Romero Lozano, Anakaren
+AU  - Romero Lozano A
+AUID- ORCID: 0000-0001-5481-8527
+AD  - Department of Biomedical Engineering, Cockrell School of Engineering, The 
+      University of Texas at Austin, Austin, TX, USA.
+FAU - Wang, Jiachen
+AU  - Wang J
+AD  - Department of Biomedical Engineering, Cockrell School of Engineering, The 
+      University of Texas at Austin, Austin, TX, USA.
+FAU - Hsieh, Ju-Chun
+AU  - Hsieh JC
+AUID- ORCID: 0000-0001-5598-5917
+AD  - Department of Biomedical Engineering, Cockrell School of Engineering, The 
+      University of Texas at Austin, Austin, TX, USA.
+FAU - Chae, Tony Sungjin
+AU  - Chae TS
+AD  - Department of Biomedical Engineering, Cockrell School of Engineering, The 
+      University of Texas at Austin, Austin, TX, USA.
+FAU - Song, Daniel
+AU  - Song D
+AD  - Department of Biomedical Engineering, Cockrell School of Engineering, The 
+      University of Texas at Austin, Austin, TX, USA.
+FAU - Garcia, Julieta
+AU  - Garcia J
+AD  - Department of Biomedical Engineering, Cockrell School of Engineering, The 
+      University of Texas at Austin, Austin, TX, USA.
+FAU - Mittapalli, Rithvik
+AU  - Mittapalli R
+AD  - Department of Biomedical Engineering, Cockrell School of Engineering, The 
+      University of Texas at Austin, Austin, TX, USA.
+FAU - Bush, Adam
+AU  - Bush A
+AD  - Department of Biomedical Engineering, Cockrell School of Engineering, The 
+      University of Texas at Austin, Austin, TX, USA.
+FAU - Legon, Wynn
+AU  - Legon W
+AD  - Fralin Biomedical Research Institute, Virginia Polytechnic Institute, Blacksburg, 
+      VA, USA.
+FAU - Mysliwiec, Vincent
+AU  - Mysliwiec V
+AD  - Department of Psychiatry and Behavioral Sciences, The University of Texas Health 
+      Science at San Antonio, San Antonio, TX, USA. mysliwiec@uthscsa.edu.
+FAU - Fonzo, Gregory A
+AU  - Fonzo GA
+AUID- ORCID: 0000-0002-0213-1034
+AD  - Department of Psychiatry and Behavioral Sciences, Dell Medical School, The 
+      University of Texas at Austin, Austin, TX, USA. gfonzo@austin.utexas.edu.
+FAU - Wang, Huiliang
+AU  - Wang H
+AUID- ORCID: 0000-0003-4063-270X
+AD  - Department of Biomedical Engineering, Cockrell School of Engineering, The 
+      University of Texas at Austin, Austin, TX, USA. evanwang@utexas.edu.
+LA  - eng
+SI  - ClinicalTrials.gov/NCT07190287
+PT  - Clinical Trial
+PT  - Journal Article
+DEP - 20260604
+PL  - England
+TA  - Nat Commun
+JT  - Nature communications
+JID - 101528555
+SB  - IM
+MH  - Humans
+MH  - *Deep Brain Stimulation/methods/instrumentation
+MH  - Electrophysiological Phenomena
+MH  - Skin
+MH  - *Sleep, REM/physiology
+MH  - Wearable Electronic Devices
+PMC - PMC13294382
+COIS- Competing interests: The authors K.W.K.T., M.M.Y., J.J., and H.W. declare the 
+      following competing financial interest(s): A patent application relating to this 
+      work has been filed. The remaining authors declare no competing interests.
+EDAT- 2026/06/05 00:34
+MHDA- 2026/06/25 00:33
+PMCR- 2026/06/04
+CRDT- 2026/06/04 23:16
+PHST- 2026/03/05 00:00 [received]
+PHST- 2026/05/18 00:00 [accepted]
+PHST- 2026/06/25 00:33 [medline]
+PHST- 2026/06/05 00:34 [pubmed]
+PHST- 2026/06/04 23:16 [entrez]
+PHST- 2026/06/04 00:00 [pmc-release]
+AID - 10.1038/s41467-026-73787-6 [pii]
+AID - 73787 [pii]
+AID - 10.1038/s41467-026-73787-6 [doi]
+PST - epublish
+SO  - Nat Commun. 2026 Jun 4;17(1):5570. doi: 10.1038/s41467-026-73787-6.

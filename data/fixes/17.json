@@ -1,0 +1,202 @@
+{
+ "_note": "Claude's review of out/flags/17.json. 'fix' may only swap a flagged span for a listed term; 'uncertain' words are marked in the output, not changed (by raw word index 'i', or by text anchor 'near_s' + 'text'). Every other flag was checked and kept as transcribed. 'replace' (word corrections) and the text-anchored 'uncertain' entries come from a read-through audit of the transcripts; they are text-based, not checked against the audio: high-confidence corrections are applied, medium ones that need the audio are only marked uncertain. 'speaker' entries are reviewed speaker corrections from the same audit, applied after the voice naming.",
+ "fix": [],
+ "replace": [
+  {
+   "near_s": 316.12,
+   "from": "PET",
+   "to": "PETRA",
+   "why": "PETRA UTE skull MR sequence; a PET scan is not MR"
+  },
+  {
+   "near_s": 1529.88,
+   "from": "70",
+   "to": "7T",
+   "why": "7 tesla"
+  },
+  {
+   "near_s": 1534.48,
+   "from": "70",
+   "to": "7T",
+   "why": "7 tesla"
+  },
+  {
+   "near_s": 1536.33,
+   "from": "70",
+   "to": "7T",
+   "why": "7 tesla"
+  },
+  {
+   "near_s": 1559.11,
+   "from": "70",
+   "to": "7T",
+   "why": "7 tesla"
+  },
+  {
+   "near_s": 1174.3,
+   "from": "offline tasks",
+   "to": "offline TUS",
+   "why": "she says TUS throughout"
+  },
+  {
+   "near_s": 1303.64,
+   "from": "task",
+   "to": "TUS",
+   "why": "she corrects herself to FUS right after"
+  },
+  {
+   "near_s": 1375.3,
+   "from": "applied task",
+   "to": "applied TUS",
+   "why": "same pattern"
+  },
+  {
+   "near_s": 2364.11,
+   "from": "simulate",
+   "to": "stimulate",
+   "why": "80 s stimulation"
+  },
+  {
+   "near_s": 2367.23,
+   "from": "simulate",
+   "to": "stimulate",
+   "why": "80 s stimulation"
+  },
+  {
+   "near_s": 2622.97,
+   "from": "simulate",
+   "to": "stimulate",
+   "why": "stimulation parameters"
+  },
+  {
+   "near_s": 2773.47,
+   "from": "simulations",
+   "to": "stimulations",
+   "why": "follows 'if we stimulated longer'"
+  },
+  {
+   "near_s": 2637.37,
+   "from": "effective biases",
+   "to": "affective biases",
+   "why": "as she said at 16:30"
+  },
+  {
+   "near_s": 1038.44,
+   "from": "causal too.",
+   "to": "causal tools.",
+   "why": "ask this with causal tools (TUS)"
+  },
+  {
+   "near_s": 1572.79,
+   "from": "twisting",
+   "to": "twitching",
+   "why": "side effects: twitching, feeling sick"
+  },
+  {
+   "near_s": 2881.43,
+   "from": "Jerome",
+   "to": "Jérôme",
+   "why": "Jérôme Sallet"
+  },
+  {
+   "near_s": 1453.8,
+   "from": "tasks,",
+   "to": "TUS,",
+   "why": "'not online TUS' answering Keith's 'online effects' (medium; she says TUS throughout)"
+  }
+ ],
+ "uncertain": [
+  {
+   "i": 8681,
+   "why": "unclear ('whizz')"
+  },
+  {
+   "i": 803,
+   "why": "very low confidence"
+  },
+  {
+   "i": 219,
+   "why": "very low confidence"
+  },
+  {
+   "i": 4430,
+   "why": "very low confidence"
+  },
+  {
+   "i": 4527,
+   "why": "very low confidence"
+  },
+  {
+   "i": 5125,
+   "why": "very low confidence"
+  },
+  {
+   "i": 5135,
+   "why": "very low confidence"
+  },
+  {
+   "i": 8841,
+   "why": "very low confidence"
+  },
+  {
+   "near_s": 1311.72,
+   "text": "For",
+   "why": "probably 'FUS today'; medium"
+  },
+  {
+   "near_s": 2807.67,
+   "text": "Corina Cornelissen",
+   "why": "name not verified; medium"
+  }
+ ],
+ "speaker": [
+  {
+   "near_s": 210.12,
+   "text": "sweater.",
+   "who": "Keith Murphy",
+   "why": "Keith's 'I just love this sweater'"
+  },
+  {
+   "near_s": 243.94,
+   "text": "my research.",
+   "who": "Miriam Klein-Flügge",
+   "why": "end of Miriam's 'I love my research'"
+  },
+  {
+   "near_s": 294.9,
+   "text": "you?",
+   "who": "Keith Murphy",
+   "why": "Keith's 'How long were you?'"
+  },
+  {
+   "near_s": 827.82,
+   "text": "taker",
+   "who": "Keith Murphy",
+   "why": "Keith's 'You're a big risk taker'"
+  },
+  {
+   "near_s": 2158.6,
+   "text": "the angry faces.",
+   "who": "Miriam Klein-Flügge",
+   "why": "Miriam's 'no change after we contrasted the angry faces'"
+  },
+  {
+   "near_s": 2167.52,
+   "text": "change.",
+   "who": "Miriam Klein-Flügge",
+   "why": "Miriam's 'There was no change.'"
+  },
+  {
+   "near_s": 158.08,
+   "text": "Oxford-",
+   "who": "Miriam Klein-Flügge",
+   "why": "ends Miriam's 'No, I left / Oxford-'"
+  },
+  {
+   "near_s": 1989.9,
+   "text": "right.",
+   "who": "Miriam Klein-Flügge",
+   "why": "ends Miriam's 'No, that's / right.'"
+  }
+ ]
+}

@@ -1,0 +1,2647 @@
+1
+00:00:00,300 --> 00:00:03,220
+Charles Caskey: So are we gonna do like a formal introduction to the episode, and we're
+
+2
+00:00:03,260 --> 00:00:05,320
+gonna be like, "Hey, welcome to FUS Forward.
+
+3
+00:00:05,840 --> 00:00:08,300
+It's with Keith and Charles. We're gonna talk about..."
+
+4
+00:00:08,400 --> 00:00:09,540
+[laughs] [laughs]
+
+5
+00:00:09,540 --> 00:00:13,080
+Keith Murphy: I like that a lot. [laughs] [laughs]
+
+6
+00:00:13,280 --> 00:00:15,920
+Intro narrator: Follow Charles Caskey and Keith Murphy-
+
+7
+00:00:15,960 --> 00:00:16,460
+Keith Murphy: I think that's great
+
+8
+00:00:16,560 --> 00:00:22,500
+Intro narrator: ... as they explore the next frontier of ultrasound neuromodulation with FUS Forward.
+
+9
+00:00:24,560 --> 00:00:27,840
+Keith Murphy: Like we used to do intros like 10 times, and they still came out,
+
+10
+00:00:28,100 --> 00:00:30,100
+you know, a little funky, but they got better every time.
+
+11
+00:00:30,680 --> 00:00:32,120
+Charles Caskey: Yeah. That's just kinda how it goes.
+
+12
+00:00:32,440 --> 00:00:33,180
+All right, here we are.
+
+13
+00:00:33,760 --> 00:00:34,260
+Keith Murphy: Yeah.
+
+14
+00:00:33,840 --> 00:00:35,380
+Charles Caskey: Uh, so welcome to FUS Forward.
+
+15
+00:00:35,440 --> 00:00:40,480
+This is episode one. This is a podcast where Charles, me, and Keith talk
+
+16
+00:00:40,540 --> 00:00:44,320
+about focused ultrasound. And, uh, we don't know how many times we're gonna do
+
+17
+00:00:44,380 --> 00:00:46,560
+it, uh, but we know that there's a lot of cool stuff going on
+
+18
+00:00:46,600 --> 00:00:49,080
+in the field that we wanted to chat about and record.
+
+19
+00:00:49,600 --> 00:00:52,260
+Uh, so Keith, what are we here to talk about today?
+
+20
+00:00:53,840 --> 00:00:55,980
+Keith Murphy: All right, everybody, episode number one.
+
+21
+00:00:56,240 --> 00:00:59,800
+We're gonna start a little bit generic but highly relatable, and this is a
+
+22
+00:00:59,860 --> 00:01:03,800
+question probably our listeners have been asked many times, definitely us.
+
+23
+00:01:04,860 --> 00:01:08,640
+Why now for focused ultrasound neuromodulation?
+
+24
+00:01:09,180 --> 00:01:13,760
+It's been around forever. I think we'll talk about this, maybe hundreds of-- not,
+
+25
+00:01:14,540 --> 00:01:16,240
+not hundreds of years, [laughs] but-
+
+26
+00:01:16,900 --> 00:01:17,400
+Charles Caskey: Eons
+
+27
+00:01:17,120 --> 00:01:18,320
+Keith Murphy: ... 100. [laughs]
+
+28
+00:01:18,440 --> 00:01:18,940
+Charles Caskey: Eons.
+
+29
+00:01:19,040 --> 00:01:19,540
+Keith Murphy: Yes.
+
+30
+00:01:19,120 --> 00:01:20,880
+Charles Caskey: No, no. [laughs] The cavemen.
+
+31
+00:01:20,900 --> 00:01:22,280
+Keith Murphy: For as long as it's been along.
+
+32
+00:01:22,960 --> 00:01:26,580
+So it's been around. It's been around, but, but certainly it feels, at least
+
+33
+00:01:26,640 --> 00:01:29,780
+like for us, that we're really getting a lot of traction, a lot of
+
+34
+00:01:29,860 --> 00:01:33,880
+funding, a lot of interest from the public and, you know, hopefully some approved
+
+35
+00:01:33,900 --> 00:01:36,960
+devices soon. So Charles, you have some notes.
+
+36
+00:01:37,340 --> 00:01:38,980
+I- I'd love for you to start us off.
+
+37
+00:01:39,580 --> 00:01:40,820
+What's, what's your main theory here?
+
+38
+00:01:41,580 --> 00:01:45,100
+Charles Caskey: Yeah. So for me, I can speak from my personal experience.
+
+39
+00:01:45,240 --> 00:01:48,800
+Uh, I w- I was an ultrasound person before I was a focused ultrasound
+
+40
+00:01:48,860 --> 00:01:54,180
+neuromodulation person. And so for me, the only reason I'm here is really because
+
+41
+00:01:54,200 --> 00:01:59,060
+of the BRAIN Initiative. This was the NIH's effort starting in about 2013.
+
+42
+00:01:59,760 --> 00:02:04,600
+Uh, really started, you know, trying to expand technologies that would be used in
+
+43
+00:02:04,640 --> 00:02:10,480
+the brain, and that allowed me as an ultrasound person to enter this world
+
+44
+00:02:10,720 --> 00:02:15,820
+that was dominated by optogenetics, electrodes, and other, other methods.
+
+45
+00:02:16,040 --> 00:02:20,580
+And so it really-- that, that really catalyzed the field for me and, and,
+
+46
+00:02:20,700 --> 00:02:21,880
+and many others that I've seen.
+
+47
+00:02:21,920 --> 00:02:25,420
+There's been a big investment, you know, seeded a lot of grants, uh, through
+
+48
+00:02:25,440 --> 00:02:28,160
+the BRAIN Initiative. So, so that was, that was my path.
+
+49
+00:02:28,200 --> 00:02:31,760
+And I think there's, you know, when you've got good, good science and, and
+
+50
+00:02:31,800 --> 00:02:33,640
+the funding to back it, I mean, things happen.
+
+51
+00:02:33,800 --> 00:02:37,060
+So, uh, that had to, that has to play some role in why we're
+
+52
+00:02:37,100 --> 00:02:38,080
+seeing so much of it now.
+
+53
+00:02:38,740 --> 00:02:40,100
+Keith Murphy: What year was that? That was like-
+
+54
+00:02:40,440 --> 00:02:41,060
+Charles Caskey: Yeah. So it was two-
+
+55
+00:02:41,060 --> 00:02:41,560
+Keith Murphy: ... when did you say?
+
+56
+00:02:41,280 --> 00:02:44,600
+Charles Caskey: 2013 was when it started, and I think I got my first grant on
+
+57
+00:02:44,640 --> 00:02:47,860
+it in 2015 or '14. And ca-
+
+58
+00:02:48,120 --> 00:02:52,020
+Keith Murphy: So that was right after Jamie Tyler had his revival.
+
+59
+00:02:52,820 --> 00:02:55,760
+Cell culture, calcium imaging. Look at this.
+
+60
+00:02:55,880 --> 00:02:58,320
+Neurons are responding to ultrasound. They're lighting up.
+
+61
+00:02:58,840 --> 00:03:01,080
+And then one year later, BRAIN Initiative comes out.
+
+62
+00:03:01,620 --> 00:03:04,220
+Charles Caskey: Yeah. No, I mean, some of his work even predates that.
+
+63
+00:03:04,360 --> 00:03:08,260
+And, um, you know, so like goes back to 2007 or '08, I would
+
+64
+00:03:08,320 --> 00:03:13,100
+say even. Um, and, and you know, that did get a lot of interest
+
+65
+00:03:13,620 --> 00:03:17,900
+in the field of ultrasound, uh, specifically.
+
+66
+00:03:18,400 --> 00:03:21,140
+But I guess, you know, and I guess it's hard to know h-how much
+
+67
+00:03:21,220 --> 00:03:22,920
+outside of the ultrasound field for me.
+
+68
+00:03:23,060 --> 00:03:26,240
+I mean, I, I gotta guess just by the citations alone in those years
+
+69
+00:03:26,300 --> 00:03:29,760
+that, that a lot of people were pretty excited about seeing, seeing those early
+
+70
+00:03:29,800 --> 00:03:32,920
+results. And so, yeah, I can't-- So I guess that does take it a
+
+71
+00:03:32,940 --> 00:03:36,100
+little back, uh, further back than BRAIN Initiative if we g- if we start
+
+72
+00:03:36,140 --> 00:03:40,660
+talking about kind of this renaissance that, that Jamie Tyler and others started.
+
+73
+00:03:41,020 --> 00:03:44,540
+Keith Murphy: Okay. So there was this renaissance in 2000 whatever.
+
+74
+00:03:44,680 --> 00:03:47,080
+It started in '08 and '09, went for a few years.
+
+75
+00:03:47,940 --> 00:03:50,540
+Um, it kind of died a little bit right after that.
+
+76
+00:03:50,700 --> 00:03:53,220
+I don't know if like we've-- I don't know if the community talks about
+
+77
+00:03:53,260 --> 00:03:57,140
+it too much, but there were just like two papers in mouse.
+
+78
+00:03:57,440 --> 00:04:01,780
+One was mouse, one was, was like, not rabbits, it was, uh, guinea pigs.
+
+79
+00:04:02,580 --> 00:04:06,000
+And basically, they were measuring cortical activity, and when the ultrasound would come on,
+
+80
+00:04:06,080 --> 00:04:10,500
+the animals could hear it. So that was really ultimately responsible for a lot
+
+81
+00:04:10,540 --> 00:04:12,980
+of what people thought was like neuromodulation.
+
+82
+00:04:13,760 --> 00:04:18,200
+And it kind of iced, I think it iced the scientific community for sure.
+
+83
+00:04:18,200 --> 00:04:19,580
+Charles Caskey: Are, are we-- Yeah. So hang on.
+
+84
+00:04:19,600 --> 00:04:22,080
+Are we talking now about- [laughs] Are we talking about some of the k-
+
+85
+00:04:22,140 --> 00:04:23,960
+the papers out of Caltech or-
+
+86
+00:04:24,220 --> 00:04:25,760
+Keith Murphy: Yeah. Yeah. Well, one was Cal...
+
+87
+00:04:25,840 --> 00:04:27,620
+Were they both Caltech? Guinea pig and-
+
+88
+00:04:28,020 --> 00:04:28,520
+Charles Caskey: Well-
+
+89
+00:04:28,040 --> 00:04:29,820
+Keith Murphy: Mikhail Shapiro is one of them, right?
+
+90
+00:04:29,920 --> 00:04:33,240
+Charles Caskey: Yeah. So, so it was, yeah, there was Caltech, and then Minnesota had some
+
+91
+00:04:33,280 --> 00:04:34,180
+papers on this.
+
+92
+00:04:34,200 --> 00:04:34,700
+Keith Murphy: Mm-hmm.
+
+93
+00:04:34,300 --> 00:04:37,480
+Charles Caskey: And that was, so that was in like 2014, '15.
+
+94
+00:04:37,640 --> 00:04:40,840
+I think that work was BRAIN Initiative funded, interestingly.
+
+95
+00:04:41,240 --> 00:04:42,920
+And, um- [laughs]
+
+96
+00:04:42,960 --> 00:04:43,460
+Keith Murphy: Okay.
+
+97
+00:04:43,820 --> 00:04:46,440
+Charles Caskey: Yeah. Interesting. There, there was a lot of talk about it.
+
+98
+00:04:46,540 --> 00:04:51,420
+Um, so Kim, uh, Butts Pauly had, had gotten, uh, was also active on
+
+99
+00:04:51,460 --> 00:04:53,500
+BRAIN Initiative grants at that time.
+
+100
+00:04:53,520 --> 00:04:57,580
+And so I was fortunate to have conversations with her at the yearly meetings,
+
+101
+00:04:57,620 --> 00:05:00,900
+and, and these papers came up a lot, [laughs] you know, these, the, the
+
+102
+00:05:00,960 --> 00:05:03,380
+auditory confound. Um, and that-
+
+103
+00:05:03,580 --> 00:05:06,980
+Keith Murphy: Yeah. And it, and at the time it like, you know, there, there were
+
+104
+00:05:07,000 --> 00:05:10,980
+good papers. There were some papers, but like there, there was not a clear
+
+105
+00:05:11,060 --> 00:05:13,460
+landmark to say, "This is real.
+
+106
+00:05:13,520 --> 00:05:15,440
+Here's some features by which it works."
+
+107
+00:05:15,500 --> 00:05:18,340
+And like we just didn't understand it enough, so I think it, it had
+
+108
+00:05:18,940 --> 00:05:21,480
+a bigger hit, and it was real.
+
+109
+00:05:21,620 --> 00:05:23,320
+I mean, like that, that effect is certainly real.
+
+110
+00:05:23,360 --> 00:05:24,500
+Like we know that at this point.
+
+111
+00:05:24,980 --> 00:05:26,820
+Charles Caskey: Yeah. Yeah. Like you hear sound.
+
+112
+00:05:26,920 --> 00:05:27,560
+We kn- Yeah.
+
+113
+00:05:27,580 --> 00:05:28,080
+Keith Murphy: Yeah.
+
+114
+00:05:27,660 --> 00:05:32,120
+Charles Caskey: And, and, and sound is, and there are audit- you know, audible frequencies in
+
+115
+00:05:32,200 --> 00:05:34,100
+the modulation pulses that are used.
+
+116
+00:05:34,700 --> 00:05:37,160
+And you know, I mean, I guess that kind of begs the question to
+
+117
+00:05:37,200 --> 00:05:40,760
+the, you know, how much have we disentangled that, uh, you know, by today?
+
+118
+00:05:40,820 --> 00:05:45,180
+I mean, there's been a lot of good work to minimize that effect, but
+
+119
+00:05:45,480 --> 00:05:49,660
+end of the day, y- you're gonna hear these vibrations somehow.
+
+120
+00:05:49,980 --> 00:05:52,860
+Or y- at least we have cells in our body that are sensitive to
+
+121
+00:05:52,900 --> 00:05:55,000
+them and attached to the auditory circuits.
+
+122
+00:05:55,860 --> 00:05:56,360
+Um-
+
+123
+00:05:56,260 --> 00:05:59,420
+Keith Murphy: Yeah. Right. Right. Right. Okay. So the BRAIN Initiative comes in, pumps in a
+
+124
+00:05:59,460 --> 00:06:02,680
+bunch of cash The field is getting iced.
+
+125
+00:06:03,320 --> 00:06:05,980
+We're not, we're not gonna look back into the earlier stuff.
+
+126
+00:06:06,060 --> 00:06:09,460
+I think it's, you know, it's worth mentioning, like, uh, I mean, let's go
+
+127
+00:06:09,500 --> 00:06:12,000
+back to the very beginning really quick and just get us up to modern
+
+128
+00:06:12,040 --> 00:06:12,540
+day.
+
+129
+00:06:12,900 --> 00:06:13,400
+Charles Caskey: Yeah.
+
+130
+00:06:13,120 --> 00:06:19,960
+Keith Murphy: First ultrasound neuromodulation experiment ever. Fry brothers or who
+
+131
+00:06:20,000 --> 00:06:20,500
+was it?
+
+132
+00:06:20,560 --> 00:06:21,060
+Charles Caskey: It-
+
+133
+00:06:20,600 --> 00:06:21,100
+Keith Murphy: You know this
+
+134
+00:06:21,080 --> 00:06:24,080
+Charles Caskey: ... I think it, and if you t- I think it was Fry brothers,
+
+135
+00:06:24,100 --> 00:06:27,000
+and I think you can go-- Was that the work in, um...
+
+136
+00:06:27,300 --> 00:06:30,760
+There was some work even earlier than that in frogs, I think, and I
+
+137
+00:06:30,800 --> 00:06:32,540
+don't think that's central nervous system.
+
+138
+00:06:33,040 --> 00:06:37,160
+But there, there might be something even earlier than Fry brothers in frogs.
+
+139
+00:06:37,680 --> 00:06:41,400
+But either way, we're talking, we're talking 75 years ago at this point, you
+
+140
+00:06:41,440 --> 00:06:43,740
+know, from [chuckles] you know, from modern day.
+
+141
+00:06:44,180 --> 00:06:47,820
+Uh, so it's, it's far from a modern technology in that respect.
+
+142
+00:06:48,400 --> 00:06:48,900
+Um-
+
+143
+00:06:48,700 --> 00:06:51,700
+Keith Murphy: Yeah. Okay. So I, I'm gonna come up with a theory on the fly.
+
+144
+00:06:52,100 --> 00:06:52,600
+Maybe our view-
+
+145
+00:06:52,320 --> 00:06:52,820
+Charles Caskey: All right. Let's hear it
+
+146
+00:06:52,840 --> 00:06:55,820
+Keith Murphy: ... our, our reviewers, maybe our listeners will agree or not.
+
+147
+00:06:55,820 --> 00:06:58,120
+[chuckles] You see this stuff in frogs.
+
+148
+00:06:58,300 --> 00:07:00,520
+They're s- they're silencing nerves. They're using heating.
+
+149
+00:07:00,620 --> 00:07:04,880
+But then there's also some stuff, I think there's like EEG in rabbit brain.
+
+150
+00:07:05,060 --> 00:07:05,960
+I think it-- Or cat.
+
+151
+00:07:06,100 --> 00:07:06,600
+Charles Caskey: Cat.
+
+152
+00:07:06,260 --> 00:07:07,060
+Keith Murphy: Actually, it was cat.
+
+153
+00:07:07,280 --> 00:07:07,780
+Charles Caskey: Cats, yeah.
+
+154
+00:07:07,620 --> 00:07:10,140
+Keith Murphy: Velling, yeah. It might've been in Russia, wherever it was.
+
+155
+00:07:10,580 --> 00:07:11,080
+Charles Caskey: Yeah.
+
+156
+00:07:10,900 --> 00:07:14,120
+Keith Murphy: That's very in- that's very interesting, and you'd think it would be enough to
+
+157
+00:07:14,180 --> 00:07:20,440
+start to spur people to use ultrasound, except that at that time, people didn't
+
+158
+00:07:20,480 --> 00:07:24,380
+really think that you could get ultrasound meaningfully through the skull.
+
+159
+00:07:24,520 --> 00:07:26,880
+And I, and I want you to push back, but I think I-- The
+
+160
+00:07:26,920 --> 00:07:29,960
+reason I'm saying that is because even when the Fry brothers, and they were
+
+161
+00:07:30,000 --> 00:07:33,740
+doing these big surgical experiments, they would remove the skull.
+
+162
+00:07:33,820 --> 00:07:36,480
+So even they felt it was just this huge barrier.
+
+163
+00:07:37,160 --> 00:07:37,660
+Charles Caskey: Yeah.
+
+164
+00:07:37,360 --> 00:07:40,140
+Keith Murphy: Thoughts? You're the expert on physics, Charles.
+
+165
+00:07:40,180 --> 00:07:41,340
+You, like, push back on that.
+
+166
+00:07:41,840 --> 00:07:43,540
+Charles Caskey: So I, you know, you're right.
+
+167
+00:07:43,580 --> 00:07:49,160
+The, the proof of principle of getting, transmitting sound meaningfully through the skull didn't
+
+168
+00:07:49,200 --> 00:07:51,720
+happen till later. Um, we knew we, the-- You're right.
+
+169
+00:07:51,880 --> 00:07:56,620
+Fry brothers demonstrated that we could ablate the brain, but perhaps not through the
+
+170
+00:07:56,700 --> 00:08:00,900
+skull. And so that brings us to another important character in this story, which
+
+171
+00:08:00,940 --> 00:08:03,800
+is Kullervo Hynynen. [both laughing] Right? Like-
+
+172
+00:08:03,820 --> 00:08:04,640
+Keith Murphy: Kullervo
+
+173
+00:08:04,700 --> 00:08:06,140
+Charles Caskey: ... you can't, you can't, yeah, you can't talk about-
+
+174
+00:08:06,180 --> 00:08:07,660
+Keith Murphy: Hey, hey, Kullervo. I hope you're a listener.
+
+175
+00:08:07,800 --> 00:08:09,840
+Charles Caskey: Yeah. [both laughing] Yeah, me too. Yeah.
+
+176
+00:08:09,880 --> 00:08:11,580
+That'd be great. Maybe we can have him on someday.
+
+177
+00:08:11,600 --> 00:08:17,620
+[both laughing] Um, so yeah. I mean, so, so around, what, 1999, I
+
+178
+00:08:17,660 --> 00:08:21,560
+think, there's a paper by Jie Sun and, uh, from Kullervo's group where they
+
+179
+00:08:21,600 --> 00:08:24,780
+did the in- the basic physics of it, and they kind of modeled, you
+
+180
+00:08:24,820 --> 00:08:27,920
+know, an, an array that, this hemispherical array.
+
+181
+00:08:28,320 --> 00:08:32,140
+And, you know, this is back when computers had like, I don't know, 128
+
+182
+00:08:32,180 --> 00:08:36,680
+megabytes of RAM or something like that [both laughing] And so, you know, good job
+
+183
+00:08:36,760 --> 00:08:38,760
+on their part for getting that done at that time.
+
+184
+00:08:38,780 --> 00:08:39,280
+Keith Murphy: Mm-hmm.
+
+185
+00:08:38,820 --> 00:08:40,980
+Charles Caskey: It wouldn't be, um... And so, yeah.
+
+186
+00:08:41,040 --> 00:08:45,000
+So that's, so there's a confluence of, of, okay, proof of principle maybe in
+
+187
+00:08:45,020 --> 00:08:50,180
+the '50s, '60s, and then there's, there's technology to say, "Hey, we this-- You
+
+188
+00:08:50,200 --> 00:08:53,400
+know, we could actually do this through the skull."
+
+189
+00:08:53,700 --> 00:08:58,360
+And that, that non-invasiveness, I think, raises the meaning, you know, how meaningful and
+
+190
+00:08:58,400 --> 00:09:00,900
+impactful the technology can be a lot.
+
+191
+00:09:00,920 --> 00:09:04,840
+And so then, okay, so that brings us to like, you know, year 2000.
+
+192
+00:09:05,460 --> 00:09:07,380
+Uh, we can get s- energy through the skull.
+
+193
+00:09:08,040 --> 00:09:10,900
+We know that it can modulate neurons, and I guess that's probably really where
+
+194
+00:09:10,960 --> 00:09:14,880
+Jamie Tyler, you know, picked up on all these things, um, and, and wrote
+
+195
+00:09:14,920 --> 00:09:17,220
+some of their early papers. Like, "Hey, this can get through the skull."
+
+196
+00:09:17,280 --> 00:09:20,160
+'Cause there was a lot of doubt in the community there on, in the
+
+197
+00:09:20,220 --> 00:09:24,160
+ultrasound community. Some of the early, you know, transmitting that single element through the
+
+198
+00:09:24,220 --> 00:09:26,860
+skull. I think people were like, "Is the beam really gonna look like that
+
+199
+00:09:26,920 --> 00:09:28,080
+on the other side of that bone?"
+
+200
+00:09:28,680 --> 00:09:29,180
+Um-
+
+201
+00:09:28,880 --> 00:09:29,380
+Keith Murphy: Mm-hmm
+
+202
+00:09:29,080 --> 00:09:33,500
+Charles Caskey: ... and, you know, surprisingly it, it gets, you know, with low frequency, it
+
+203
+00:09:33,520 --> 00:09:34,160
+gets on through.
+
+204
+00:09:35,240 --> 00:09:38,220
+Keith Murphy: Yeah. I, all right. So I, I mean, just in my head, and I'm
+
+205
+00:09:38,280 --> 00:09:42,780
+like, folks that are listening, folks, we're crafting this in real time, so these
+
+206
+00:09:42,800 --> 00:09:44,820
+are all just raw thoughts. So bear with us.
+
+207
+00:09:44,960 --> 00:09:50,140
+Write comments. Give us feedback. [chuckles] I, I feel like at the time back
+
+208
+00:09:50,200 --> 00:09:54,140
+then, so let's assume like the, the ramp started with Jamie or around then,
+
+209
+00:09:54,320 --> 00:09:54,820
+you know, some-
+
+210
+00:09:54,660 --> 00:09:55,160
+Charles Caskey: Yeah
+
+211
+00:09:54,780 --> 00:09:57,380
+Keith Murphy: ... somewhere, and Jamie, Kullervo, that whole gang.
+
+212
+00:09:58,040 --> 00:10:01,760
+Before that, maybe they knew it was possible, but maybe it was like, "Well,
+
+213
+00:10:01,820 --> 00:10:03,860
+we just have so many things that are better.
+
+214
+00:10:04,040 --> 00:10:08,780
+Like, we have electrical wires. We have electromagnetic fields.
+
+215
+00:10:08,820 --> 00:10:10,400
+Like, we just have ways to do this."
+
+216
+00:10:11,080 --> 00:10:14,620
+And the attention was so heavy, there just wasn't an appetite for like science
+
+217
+00:10:14,680 --> 00:10:18,140
+fiction because, you know, those still felt early, I guess.
+
+218
+00:10:18,180 --> 00:10:18,900
+Charles Caskey: Yeah. Yeah.
+
+219
+00:10:20,040 --> 00:10:22,820
+Keith Murphy: A- and a theme that's gonna come up, Charles is a pro.
+
+220
+00:10:22,980 --> 00:10:25,320
+I think I, I like to think about and spend a lot of time
+
+221
+00:10:25,360 --> 00:10:31,060
+on this, and everybody should know that like the brain doesn't speak ultrasound as
+
+222
+00:10:31,120 --> 00:10:35,440
+well as it speaks with like electrical fields and electrical charge, right?
+
+223
+00:10:35,560 --> 00:10:36,060
+Like-
+
+224
+00:10:35,900 --> 00:10:36,400
+Charles Caskey: Yep.
+
+225
+00:10:36,100 --> 00:10:37,300
+Keith Murphy: Yep ... agree, Charles? Disagree?
+
+226
+00:10:38,000 --> 00:10:40,560
+Charles Caskey: Totally agree. I mean, that it's not the-- Yeah.
+
+227
+00:10:40,600 --> 00:10:43,860
+Our, our brain is like this electrochemical organ.
+
+228
+00:10:43,900 --> 00:10:48,320
+It's not, uh, it's not a sound organ usually [chuckles] first and foremost.
+
+229
+00:10:48,340 --> 00:10:48,840
+Keith Murphy: Mm-hmm. [chuckles]
+
+230
+00:10:48,500 --> 00:10:50,040
+Charles Caskey: And it's certainly not thought of that way.
+
+231
+00:10:50,620 --> 00:10:55,140
+Um, and even now, you know, like the energy input into the brain to
+
+232
+00:10:55,200 --> 00:10:59,240
+modulate it with ultrasound, if you just take it strictly, you know, on watts,
+
+233
+00:10:59,440 --> 00:11:01,480
+it's a lot more energy [chuckles] you know, to get-
+
+234
+00:11:01,820 --> 00:11:02,320
+Keith Murphy: Mm-hmm
+
+235
+00:11:01,940 --> 00:11:03,600
+Charles Caskey: ... to get a similar comparable thing.
+
+236
+00:11:03,660 --> 00:11:07,300
+So the brain still is not a sound [chuckles] receiving organ.
+
+237
+00:11:07,880 --> 00:11:09,460
+Um, and so yeah. I think you're right.
+
+238
+00:11:09,540 --> 00:11:12,720
+Like, that's a good point also, just that, I mean, there was a lot
+
+239
+00:11:12,780 --> 00:11:16,000
+going on in TMS and, you know, electrodes.
+
+240
+00:11:16,040 --> 00:11:18,700
+I mean, and there still is a lot of impactful work with that.
+
+241
+00:11:19,240 --> 00:11:21,340
+Um, and people are still d- diving deeper.
+
+242
+00:11:21,400 --> 00:11:26,340
+But yeah, maybe kind of the curiosity and the bandwidth of people doing no-
+
+243
+00:11:26,560 --> 00:11:33,120
+doing neuromodulation in general was kind of satiated with the, um, the, the technologies
+
+244
+00:11:33,160 --> 00:11:33,960
+that were available.
+
+245
+00:11:34,940 --> 00:11:39,540
+Keith Murphy: Mm-hmm. Okay. [clears throat] I'm gonna go to my next note here.
+
+246
+00:11:40,040 --> 00:11:40,540
+Charles Caskey: Yeah.
+
+247
+00:11:40,220 --> 00:11:42,240
+Keith Murphy: And we'll work through them, and then you go back to yours.
+
+248
+00:11:43,120 --> 00:11:48,280
+I have a theory. I think that you have sort of two classes in
+
+249
+00:11:48,340 --> 00:11:52,220
+ultrasound neuromod. You have the crazy scientists.
+
+250
+00:11:52,900 --> 00:11:56,780
+They know what they wanna do with the tool, but they don't necessarily know
+
+251
+00:11:56,820 --> 00:12:00,440
+how to build the tool, how to redesign it on the fly, et cetera,
+
+252
+00:12:00,480 --> 00:12:05,040
+et cetera. And then you have this other bucket who are like hardcore engineers
+
+253
+00:12:05,680 --> 00:12:07,620
+I mean, like one for instance is like Sam Pichardo.
+
+254
+00:12:07,680 --> 00:12:11,640
+He-- I know he's, he's much more biological now, but he like hardcore engineer,
+
+255
+00:12:11,680 --> 00:12:17,820
+right? Those people I think have traditionally been much more attracted to things
+
+256
+00:12:17,860 --> 00:12:20,140
+that are super-duper quantifiable.
+
+257
+00:12:20,540 --> 00:12:21,040
+Charles Caskey: Yeah.
+
+258
+00:12:20,560 --> 00:12:22,760
+Keith Murphy: And this goes with this whole like, what, what does the brain speak?
+
+259
+00:12:22,800 --> 00:12:26,880
+Does it speak in ultrasound? If you can't get the brain to spike immediately
+
+260
+00:12:26,940 --> 00:12:30,020
+every time when you apply ultrasound, it's, it's kind of challenging to measure.
+
+261
+00:12:30,540 --> 00:12:31,880
+Like wh- when do you see the effects?
+
+262
+00:12:31,920 --> 00:12:34,080
+What are the effects? Like do they have a behavioral readout?
+
+263
+00:12:34,640 --> 00:12:40,540
+If that, if that doesn't exist, engineers that love highly quantifiable things are, are
+
+264
+00:12:40,580 --> 00:12:42,600
+gonna like, you know, they're just not attracted to that.
+
+265
+00:12:43,120 --> 00:12:48,260
+And I think, stop me if I'm wrong, I think the best engineers have
+
+266
+00:12:48,320 --> 00:12:52,380
+been going towards things like ablation, 'cause you can burn tissue and you can
+
+267
+00:12:52,420 --> 00:12:55,720
+immediately see that it's burnt. Or like particle release.
+
+268
+00:12:55,900 --> 00:12:59,320
+You can see that there's chemicals there that were not there before.
+
+269
+00:12:59,400 --> 00:13:00,880
+You can look at them in the MRI.
+
+270
+00:13:01,740 --> 00:13:06,580
+Um, and I think it's just that, you know, like modern technology, you mentioned
+
+271
+00:13:06,660 --> 00:13:11,500
+even like how much processing power is on a computer, has bridged those people
+
+272
+00:13:11,580 --> 00:13:15,080
+for the first time really like just in the last 10 years.
+
+273
+00:13:15,240 --> 00:13:17,560
+Everybody was like, "Let's, let's put it together."
+
+274
+00:13:18,200 --> 00:13:18,700
+Charles Caskey: Yeah.
+
+275
+00:13:18,420 --> 00:13:21,480
+Keith Murphy: In science, I mean, collaborations are like all-time high, right?
+
+276
+00:13:21,940 --> 00:13:24,440
+How many papers do you see that don't have at least five authors?
+
+277
+00:13:24,500 --> 00:13:26,240
+Some have like 100, right?
+
+278
+00:13:26,260 --> 00:13:26,760
+Charles Caskey: Yeah.
+
+279
+00:13:26,300 --> 00:13:27,380
+Keith Murphy: It's like a different period.
+
+280
+00:13:28,000 --> 00:13:31,540
+Charles Caskey: Yeah. I, I, I think there's a lot in what you're saying that's like
+
+281
+00:13:31,880 --> 00:13:35,820
+really at the crux or at the core of why there's increased interest and
+
+282
+00:13:35,880 --> 00:13:36,960
+I, and I think you're totally right.
+
+283
+00:13:37,060 --> 00:13:39,240
+So the-- Jamie, uh, uh-
+
+284
+00:13:39,240 --> 00:13:40,820
+Keith Murphy: I, I heard crust. Right at the crust.
+
+285
+00:13:41,240 --> 00:13:42,100
+Charles Caskey: Right at the crust. The crux.
+
+286
+00:13:42,100 --> 00:13:45,000
+[laughs] The, the crux. The core.
+
+287
+00:13:45,520 --> 00:13:50,720
+The, the- Yeah ... it's like the [chuckles] so the [laughs] the, um, the,
+
+288
+00:13:51,100 --> 00:13:54,540
+yeah, Jamie characterized this. I think he gave an invited talk at the IEEE
+
+289
+00:13:54,620 --> 00:14:00,920
+Ultrasonics Symposium in 2017 or so, and he was basically
+
+290
+00:14:00,980 --> 00:14:05,500
+like, he's like, "You know, neuroscientists are not good ultrasound engineers."
+
+291
+00:14:05,540 --> 00:14:08,300
+And he's like, "And ultrasound engineers are not good neuroscientists."
+
+292
+00:14:08,400 --> 00:14:09,280
+[laughs] And [laughs]
+
+293
+00:14:09,340 --> 00:14:10,180
+Keith Murphy: It's, it's true.
+
+294
+00:14:10,720 --> 00:14:11,220
+Charles Caskey: Yeah, yeah, yeah. Right.
+
+295
+00:14:11,080 --> 00:14:11,680
+Keith Murphy: Seems so true.
+
+296
+00:14:12,060 --> 00:14:14,280
+Charles Caskey: It's true, and I think it goes back to exactly what you're saying.
+
+297
+00:14:14,320 --> 00:14:16,320
+It's like engineers, like we like certainty.
+
+298
+00:14:16,800 --> 00:14:19,060
+We wanna push a button and then see something happen.
+
+299
+00:14:19,520 --> 00:14:20,020
+Keith Murphy: Mm-hmm.
+
+300
+00:14:19,560 --> 00:14:23,560
+Charles Caskey: And I was pretty disappointed, uh, you know, early on in the field where
+
+301
+00:14:23,600 --> 00:14:26,500
+I was like, "Oh, we don't get this," you know, when we couldn't elicit
+
+302
+00:14:26,640 --> 00:14:30,500
+a saccade in a not, you know, in some of the animal models.
+
+303
+00:14:30,560 --> 00:14:34,380
+Like we're like, "Okay, well we can't do that, so how does this stack
+
+304
+00:14:34,480 --> 00:14:35,940
+up? I mean, what are we even doing here?"
+
+305
+00:14:35,960 --> 00:14:36,460
+Keith Murphy: Yeah.
+
+306
+00:14:36,520 --> 00:14:41,660
+Charles Caskey: Um, and then I, as I got to know more neuroscientists, the idea of
+
+307
+00:14:42,400 --> 00:14:45,000
+just modulation in general maybe being useful.
+
+308
+00:14:45,180 --> 00:14:49,560
+Like maybe you're not causing, you know, an action potential every time, but you're
+
+309
+00:14:49,620 --> 00:14:52,100
+changing the behavior and you're doing it in a predictable way.
+
+310
+00:14:52,900 --> 00:14:54,960
+Still useful. Um, and that-
+
+311
+00:14:55,160 --> 00:14:55,660
+Keith Murphy: Mm-hmm
+
+312
+00:14:55,180 --> 00:14:57,040
+Charles Caskey: ... you know, kinda opened my eyes and got me to be a little
+
+313
+00:14:57,080 --> 00:15:01,560
+bit more flexible on, well, if we can repeatedly, you know, cause a change
+
+314
+00:15:01,580 --> 00:15:08,080
+in the BOLD response with fMRI using ultrasound, um, that's still a meaningful
+
+315
+00:15:08,140 --> 00:15:11,120
+change. It doesn't necessarily need to have that link.
+
+316
+00:15:12,220 --> 00:15:16,560
+Keith Murphy: Yeah. Okay. So you're saying that it was like this sort of pushing engineers
+
+317
+00:15:16,600 --> 00:15:21,240
+to realize that you're not turning things on and off, you're really pushing the
+
+318
+00:15:21,280 --> 00:15:25,020
+probability that they would turn on and off, and that's something an engineering mind
+
+319
+00:15:25,060 --> 00:15:26,920
+can like really bite on and get behind that.
+
+320
+00:15:26,980 --> 00:15:30,260
+Charles Caskey: And even more so in the modern era, kinda to what you're saying about
+
+321
+00:15:30,300 --> 00:15:30,800
+the com-
+
+322
+00:15:30,580 --> 00:15:31,080
+Keith Murphy: Yeah
+
+323
+00:15:30,640 --> 00:15:36,800
+Charles Caskey: ... computational power. We've moved away from like this differential equation predicts this phenomenon
+
+324
+00:15:36,880 --> 00:15:41,140
+to like this statistical model gives us this information.
+
+325
+00:15:41,260 --> 00:15:41,760
+You know, like-
+
+326
+00:15:41,600 --> 00:15:42,100
+Keith Murphy: Mm-hmm
+
+327
+00:15:41,800 --> 00:15:45,600
+Charles Caskey: ... I mean, AI and, you know, large language models being like the, the
+
+328
+00:15:45,680 --> 00:15:48,480
+huge example. But I think it's just a general-- I think there's a little
+
+329
+00:15:48,520 --> 00:15:50,840
+bit more openness maybe in, in-
+
+330
+00:15:50,840 --> 00:15:51,340
+Keith Murphy: Mm-hmm
+
+331
+00:15:50,880 --> 00:15:53,940
+Charles Caskey: ... the engineering world. I still think we have like a lot of hesitation,
+
+332
+00:15:54,320 --> 00:15:56,960
+and I fight this... No, I wouldn't say fight it, but I find this
+
+333
+00:15:57,040 --> 00:15:59,240
+all the time in like recruiting students.
+
+334
+00:15:59,320 --> 00:16:03,680
+I can tell that some students don't wanna leave their computer and like don't
+
+335
+00:16:03,740 --> 00:16:06,000
+want to get beyond these uncertainties.
+
+336
+00:16:06,080 --> 00:16:09,560
+They wanna like tune a model that's gonna give a specific answer to something,
+
+337
+00:16:10,060 --> 00:16:11,620
+predict the skull, predict the outcome.
+
+338
+00:16:11,660 --> 00:16:15,140
+They don't wanna deal with like the, the heavy variability that you find in
+
+339
+00:16:15,600 --> 00:16:19,260
+literally all in vivo studies, um, from cells being involved.
+
+340
+00:16:19,260 --> 00:16:22,270
+Keith Murphy: Yeah. I wonder if-- Oh, man, you're attracting this thought.
+
+341
+00:16:22,380 --> 00:16:26,440
+I wonder, okay, so like assuming we've had this transition, I think we're, we're
+
+342
+00:16:26,480 --> 00:16:29,600
+landing on the last 10 years, something 10, 15 years.
+
+343
+00:16:30,540 --> 00:16:34,600
+Um, you know, maybe this slope is about to get really steep because of...
+
+344
+00:16:34,940 --> 00:16:36,880
+This is like lame. We're not an AI podcast.
+
+345
+00:16:36,920 --> 00:16:38,200
+We're gonna try to steer clear of AI.
+
+346
+00:16:38,460 --> 00:16:43,520
+[laughs] We are FUS Forward, but I like, I find it even mind-blowing, and
+
+347
+00:16:43,620 --> 00:16:46,620
+I can write software and I've built, you know, simple gadgets and so on
+
+348
+00:16:46,660 --> 00:16:50,660
+and so forth, but I find it mind-blowing how quickly like Claude AI, for
+
+349
+00:16:50,700 --> 00:16:57,280
+instance, integrated into your, your console can really run like crazy complicated
+
+350
+00:16:57,360 --> 00:17:02,660
+analyses and generate sort of looping programs that can interact with the outside world
+
+351
+00:17:02,700 --> 00:17:09,100
+and that really gives scientists who are a little bit less scared of, you
+
+352
+00:17:09,140 --> 00:17:12,280
+know, this soft middle ground. You know, that's, I guess that's like-
+
+353
+00:17:12,300 --> 00:17:12,800
+Charles Caskey: Yeah
+
+354
+00:17:12,360 --> 00:17:13,580
+Keith Murphy: ... what scientists are good at, right?
+
+355
+00:17:13,620 --> 00:17:17,580
+Like they're good at exploring the unknown and not needing something that's super hard.
+
+356
+00:17:17,920 --> 00:17:21,760
+You give them these tools that make everything very quantifiable, or you give the
+
+357
+00:17:21,820 --> 00:17:26,080
+engineers those tools, you know, that, that's really gonna expedite things.
+
+358
+00:17:26,480 --> 00:17:30,760
+Do you feel like that's-- Do you feel like the empowerment to scientists is
+
+359
+00:17:30,820 --> 00:17:34,320
+going to be unequivocal to the empowerment of engineers, or do you think there's
+
+360
+00:17:34,360 --> 00:17:37,920
+gonna be synergy between them for the field ultimately?
+
+361
+00:17:37,920 --> 00:17:42,500
+Charles Caskey: I think, I think we see synergy already, and I think it's gonna pull
+
+362
+00:17:42,560 --> 00:17:46,460
+people both ways. I think and, and kind of towards a, towards a middle
+
+363
+00:17:46,560 --> 00:17:51,860
+like 'cause there's just in kind of turning back to the early studies, say
+
+364
+00:17:51,920 --> 00:17:56,000
+like in the, you know, the early engineering studies of transmitting sound through the
+
+365
+00:17:56,100 --> 00:17:59,640
+skull. You had to be a pretty good computer programmer to get an acoustic
+
+366
+00:17:59,680 --> 00:18:04,900
+model running that would give you meaningful results at that time.
+
+367
+00:18:05,020 --> 00:18:09,550
+Just you, it's just- The computational power just in itself.
+
+368
+00:18:09,590 --> 00:18:10,090
+And so-
+
+369
+00:18:10,270 --> 00:18:10,770
+Keith Murphy: Yeah
+
+370
+00:18:10,390 --> 00:18:12,690
+Charles Caskey: ... yeah, I think that there, you know, so then you're gonna, you know,
+
+371
+00:18:12,790 --> 00:18:15,330
+just by the hours in your week, you're gonna spend so many hours like
+
+372
+00:18:15,990 --> 00:18:20,770
+learning how to program C, managing memory, doing all this stuff that's just, uh,
+
+373
+00:18:20,990 --> 00:18:23,770
+so far under the hood now with libraries.
+
+374
+00:18:23,810 --> 00:18:29,270
+And even 10 years ago, like just the number of, yeah, like downloadable Python
+
+375
+00:18:29,330 --> 00:18:33,790
+libraries and stuff, it just like, it just keeps growing, the accessibility of, of
+
+376
+00:18:33,830 --> 00:18:37,470
+really advanced tools for simulation, for analysis.
+
+377
+00:18:37,510 --> 00:18:38,310
+It's gotta help.
+
+378
+00:18:39,410 --> 00:18:43,450
+Keith Murphy: Yeah. And since, Charles, since this is our podcast, we can shout out to
+
+379
+00:18:43,510 --> 00:18:47,890
+friends. But I-- like for me even when I started, you know, Brad Treeby
+
+380
+00:18:47,930 --> 00:18:52,250
+built out k-Wave, among many others, and Sam Pichardo built BabelBrain.
+
+381
+00:18:52,290 --> 00:18:55,930
+Like these tools are mega easy to use.
+
+382
+00:18:56,090 --> 00:19:01,250
+It's really easy to just start experimenting, like what should the transducer look like?
+
+383
+00:19:01,290 --> 00:19:02,850
+How much gets lost in the brain?
+
+384
+00:19:03,510 --> 00:19:05,870
+All these things that I would've had no business touching-
+
+385
+00:19:06,570 --> 00:19:07,070
+Charles Caskey: Yep
+
+386
+00:19:06,590 --> 00:19:07,430
+Keith Murphy: ... you know, by myself.
+
+387
+00:19:08,330 --> 00:19:08,830
+Charles Caskey: Yep.
+
+388
+00:19:08,890 --> 00:19:11,650
+Keith Murphy: So yeah, maybe it's just like, you know, y- it's these simple tools that
+
+389
+00:19:11,690 --> 00:19:13,750
+are expanding. What about the hardware?
+
+390
+00:19:13,910 --> 00:19:17,130
+What do you feel like the hardware accessibility has done?
+
+391
+00:19:17,390 --> 00:19:19,230
+Has that changed in the last 10 years?
+
+392
+00:19:19,370 --> 00:19:22,670
+Is that kind of one of the reasons things are growing?
+
+393
+00:19:24,230 --> 00:19:25,870
+Charles Caskey: I-- The hardware's a tough one.
+
+394
+00:19:25,890 --> 00:19:26,390
+I mean-
+
+395
+00:19:26,010 --> 00:19:27,070
+Keith Murphy: Maybe not as much. Yeah.
+
+396
+00:19:27,350 --> 00:19:29,210
+Charles Caskey: Yeah. Maybe, you know, hardware's changed.
+
+397
+00:19:29,370 --> 00:19:34,390
+I mean, it, the, on a, you know, I guess if you cut across
+
+398
+00:19:34,450 --> 00:19:37,530
+a lot of topics, hardware's gotten, of course, a lot better.
+
+399
+00:19:37,970 --> 00:19:41,570
+More memory, more ability to put m- more things on a single chip, stuff
+
+400
+00:19:41,610 --> 00:19:46,990
+like that. But to the average user of focused ultrasound, I mean, I still
+
+401
+00:19:47,030 --> 00:19:52,530
+think we're at a place where getting a, an array-based system y- that is
+
+402
+00:19:52,590 --> 00:19:55,410
+programmable is still kind of a step function.
+
+403
+00:19:55,470 --> 00:19:56,890
+You know? There's, I mean, it's, it's-
+
+404
+00:19:57,110 --> 00:19:57,610
+Keith Murphy: Right
+
+405
+00:19:57,410 --> 00:20:01,470
+Charles Caskey: ... that, that is where I feel like a lot of the, you know,
+
+406
+00:20:02,630 --> 00:20:05,090
+or yeah, I feel like that's one of the barriers, at the very least.
+
+407
+00:20:05,130 --> 00:20:06,070
+That's one of the barriers-
+
+408
+00:20:07,110 --> 00:20:07,610
+Keith Murphy: Yeah. It,
+
+409
+00:20:07,350 --> 00:20:09,390
+Charles Caskey: I- ... that remains. [chuckles]
+
+410
+00:20:09,490 --> 00:20:11,070
+Keith Murphy: One thing I've noticed, this is interesting.
+
+411
+00:20:11,210 --> 00:20:13,270
+I'll s- I'll speak about Elsa for a second.
+
+412
+00:20:13,610 --> 00:20:14,110
+Charles Caskey: Sure.
+
+413
+00:20:13,750 --> 00:20:18,210
+Keith Murphy: The thing that's always been very impressive about Elsa is it like, it doesn't
+
+414
+00:20:18,250 --> 00:20:22,150
+matter what system you give her, she's gonna use it just to the best
+
+415
+00:20:22,210 --> 00:20:28,190
+of her ability. And, uh, [chuckles] no shade, NeuroFUS, BrainBox, amazing.
+
+416
+00:20:28,550 --> 00:20:31,450
+You know, they, they sell a package that's very easy to use because it's
+
+417
+00:20:31,470 --> 00:20:34,210
+like there's really one focus. Yeah, you can move it in and out, but
+
+418
+00:20:34,250 --> 00:20:35,890
+it's basically like, here's the focus.
+
+419
+00:20:36,430 --> 00:20:40,970
+Hold the transducer. And if you take someone with sort of that mind for
+
+420
+00:20:41,010 --> 00:20:42,190
+like, "Okay, here's what I have.
+
+421
+00:20:42,290 --> 00:20:44,250
+What's the most interesting thing I can do with it?"
+
+422
+00:20:44,890 --> 00:20:45,830
+They'll make it work.
+
+423
+00:20:46,530 --> 00:20:47,030
+Charles Caskey: Yeah.
+
+424
+00:20:46,690 --> 00:20:50,630
+Keith Murphy: And it's not that arrays are that easy to do now, but the moment
+
+425
+00:20:50,670 --> 00:20:55,670
+that that also sort of drops onto everybody's radar is going to be like
+
+426
+00:20:55,710 --> 00:20:57,550
+pretty amazing. But arrays, yeah, they're not there.
+
+427
+00:20:57,970 --> 00:21:00,650
+They're-- So we still have a lot of ground to cover.
+
+428
+00:21:01,070 --> 00:21:05,170
+I guess, Charles, for the, for the viewers, like hopefully someday we get people
+
+429
+00:21:05,210 --> 00:21:07,510
+that don't know ultrasound that well.
+
+430
+00:21:08,230 --> 00:21:11,010
+Arrays, single element, what are we talking about here?
+
+431
+00:21:11,930 --> 00:21:15,290
+Charles Caskey: How do you mean? Like, uh, like, like how long, what, how long until
+
+432
+00:21:15,330 --> 00:21:17,130
+we get there? [chuckles]
+
+433
+00:21:17,190 --> 00:21:18,910
+Keith Murphy: No, no. I mean like, uh, what is it?
+
+434
+00:21:20,470 --> 00:21:20,970
+Charles Caskey: What is-
+
+435
+00:21:20,610 --> 00:21:21,770
+Keith Murphy: You think everybody who listens will be-
+
+436
+00:21:21,930 --> 00:21:22,730
+Charles Caskey: Oh. Oh, like truly like what is it?
+
+437
+00:21:22,930 --> 00:21:23,710
+Oh. Oh, yeah, yeah.
+
+438
+00:21:23,730 --> 00:21:25,870
+Keith Murphy: Yeah. Should we intro- should we introduce these things as we-
+
+439
+00:21:25,910 --> 00:21:26,410
+Charles Caskey: I mean-
+
+440
+00:21:26,070 --> 00:21:26,570
+Keith Murphy: I don't know.
+
+441
+00:21:26,910 --> 00:21:28,670
+Charles Caskey: I mean, yeah. This is a good question.
+
+442
+00:21:28,750 --> 00:21:32,830
+So, um, yeah. So for anybody that doesn't know, single element just gives you
+
+443
+00:21:32,910 --> 00:21:35,890
+a single focus. It doesn't allow you to really do much correction for the
+
+444
+00:21:36,010 --> 00:21:39,850
+skull, which varies between individuals. Um, but it is simple.
+
+445
+00:21:39,930 --> 00:21:41,910
+It's one amplifier. It's one transmitter.
+
+446
+00:21:42,590 --> 00:21:47,130
+If you move to arrays, you've got probably at least 32, probably more like
+
+447
+00:21:47,350 --> 00:21:52,170
+64, 128, or 1,000 to get that nice focus and really correct for the
+
+448
+00:21:52,250 --> 00:21:54,850
+skull. And I think, I think you're totally right.
+
+449
+00:21:54,970 --> 00:21:59,610
+Just like the, the people that kind of took these things up, um, that
+
+450
+00:21:59,650 --> 00:22:04,290
+would be maybe relatively kind of s- simple tools.
+
+451
+00:22:04,330 --> 00:22:08,230
+They don't create the, you know, the most focused beam, but just, you know,
+
+452
+00:22:08,330 --> 00:22:11,750
+took it, ran with it, applied it in the context where it made sense.
+
+453
+00:22:12,330 --> 00:22:14,350
+Wynn Legon would be another person that's-
+
+454
+00:22:14,470 --> 00:22:14,970
+Keith Murphy: Yeah. Yeah
+
+455
+00:22:14,650 --> 00:22:20,370
+Charles Caskey: ... you know, utilized things, you know, available technology while still pushing things forward.
+
+456
+00:22:20,410 --> 00:22:20,950
+It's very cool.
+
+457
+00:22:20,990 --> 00:22:23,050
+Keith Murphy: Wynn, Wynn built his own stuff, right?
+
+458
+00:22:23,090 --> 00:22:26,290
+Like he just kinda str- [chuckles] I mean, in a very responsible way.
+
+459
+00:22:26,350 --> 00:22:30,090
+He strapped- Yeah ... together like his own transducer that he ordered from Sonic,
+
+460
+00:22:30,150 --> 00:22:32,070
+and he had his own amps and all this stuff.
+
+461
+00:22:32,570 --> 00:22:35,050
+He was like kinda one of the early-
+
+462
+00:22:35,170 --> 00:22:35,670
+Charles Caskey: He's early. Yeah
+
+463
+00:22:35,550 --> 00:22:37,350
+Keith Murphy: ... Is he the first guy to do a human neuromod?
+
+464
+00:22:37,410 --> 00:22:38,110
+He is, right?
+
+465
+00:22:38,210 --> 00:22:38,750
+Charles Caskey: I think so.
+
+466
+00:22:38,850 --> 00:22:41,450
+Keith Murphy: I, I often cite [chuckles] I think it was Wynn.
+
+467
+00:22:41,870 --> 00:22:43,850
+Wynn, good work, my man. [chuckles]
+
+468
+00:22:43,890 --> 00:22:45,790
+Charles Caskey: Good work, Wynn. And yeah. [laughs]
+
+469
+00:22:45,870 --> 00:22:47,230
+Keith Murphy: We, we love you, Wynn. Good job.
+
+470
+00:22:47,370 --> 00:22:50,090
+Charles Caskey: Yeah. [chuckles]
+
+471
+00:22:50,190 --> 00:22:52,870
+Keith Murphy: Um, okay. I'm gonna go to the f- I'm gonna go to the last
+
+472
+00:22:52,950 --> 00:22:55,610
+item on my list. You have any items you, before I go to this
+
+473
+00:22:55,650 --> 00:22:56,150
+last one?
+
+474
+00:22:56,730 --> 00:22:57,950
+Charles Caskey: Um, no, no. Let's jump into it.
+
+475
+00:22:57,950 --> 00:22:59,010
+Keith Murphy: This might be the same as mine.
+
+476
+00:22:59,070 --> 00:23:00,630
+All right. Here's, here's my last item.
+
+477
+00:23:01,190 --> 00:23:03,350
+Why I think now for ultrasound.
+
+478
+00:23:04,170 --> 00:23:09,250
+Um, I think people are, I think people are starting to, to become privy
+
+479
+00:23:09,350 --> 00:23:13,830
+to how bad psychiatric and neurological drugs really are.
+
+480
+00:23:14,710 --> 00:23:20,270
+I, I have been astonished. Uh, like my breath just right out of my
+
+481
+00:23:20,330 --> 00:23:24,170
+lungs every time this happens. Every study I've ever been involved with, this is
+
+482
+00:23:24,210 --> 00:23:29,650
+like we have depression, chronic pain, epilepsy, you name it, schizophrenia.
+
+483
+00:23:30,090 --> 00:23:33,870
+Almost every study we've ever been a part of, we say, "Well, what's, what's
+
+484
+00:23:33,870 --> 00:23:37,330
+the medication history? You're taking this Gabapentin all over the place."
+
+485
+00:23:38,050 --> 00:23:41,730
+That means that one drug is just soaking the whole brain and shutting off
+
+486
+00:23:41,810 --> 00:23:46,090
+so much stuff that, yeah, it probably works for all these different indications.
+
+487
+00:23:46,630 --> 00:23:50,370
+And to me, it's like, oh my God, what better, like what better use
+
+488
+00:23:50,450 --> 00:23:54,210
+case is every condition where you would've soaked the whole brain like a, just
+
+489
+00:23:54,270 --> 00:23:59,510
+a bag of [chuckles] whatever, and now you have this technology that can pinpoint
+
+490
+00:23:59,550 --> 00:24:02,070
+the exact location where something's going wrong.
+
+491
+00:24:02,110 --> 00:24:03,810
+Because it's certainly different, right, for every-
+
+492
+00:24:03,830 --> 00:24:04,330
+Charles Caskey: Yep
+
+493
+00:24:03,890 --> 00:24:04,510
+Keith Murphy: ... indication.
+
+494
+00:24:05,030 --> 00:24:05,530
+Charles Caskey: Yep.
+
+495
+00:24:05,550 --> 00:24:06,730
+Keith Murphy: Um, so there's, so there's that.
+
+496
+00:24:06,770 --> 00:24:09,450
+It's like, yeah, drugs. I think people are starting to be like, "Oh my
+
+497
+00:24:09,490 --> 00:24:11,750
+God, you're gonna give me that same drug that they use for that?"
+
+498
+00:24:12,500 --> 00:24:15,560
+And I feel really numb and crappy and you're just shutting my whole brain
+
+499
+00:24:15,600 --> 00:24:17,520
+off. Like, that's a lot of drugs that are out there.
+
+500
+00:24:17,820 --> 00:24:21,340
+I mean, they're, they're not, you know, they're really not very good.
+
+501
+00:24:22,060 --> 00:24:26,460
+And then the second one is, there's people who, like, take that a little
+
+502
+00:24:26,500 --> 00:24:28,660
+bit. I don't know if they take it too far, but there are certainly
+
+503
+00:24:28,720 --> 00:24:32,180
+people who are like, "No drugs, I reject that."
+
+504
+00:24:32,480 --> 00:24:35,400
+And they're like, they tend to be kind of also very spiritual people.
+
+505
+00:24:35,780 --> 00:24:36,280
+Charles Caskey: Hmm.
+
+506
+00:24:35,980 --> 00:24:41,800
+Keith Murphy: And I also hear very often, like, that the body has frequencies and that
+
+507
+00:24:41,840 --> 00:24:45,060
+they-- And for some reason, like ultrasound, they love it.
+
+508
+00:24:45,100 --> 00:24:47,280
+It just, it, like, no pun-
+
+509
+00:24:47,320 --> 00:24:47,820
+Charles Caskey: Are-
+
+510
+00:24:47,340 --> 00:24:48,440
+Keith Murphy: ... but it resonates with them
+
+511
+00:24:48,600 --> 00:24:49,100
+Charles Caskey: ... a little more receptive.
+
+512
+00:24:49,020 --> 00:24:49,840
+Keith Murphy: They're like, "Oh, yeah, well-"
+
+513
+00:24:49,880 --> 00:24:50,380
+Charles Caskey: Okay.
+
+514
+00:24:50,440 --> 00:24:54,660
+Keith Murphy: Yeah. Yeah. They're like, "My body is frequencies and you're putting more good frequencies
+
+515
+00:24:54,700 --> 00:24:56,960
+in my body, so I should be better."
+
+516
+00:24:57,080 --> 00:24:58,640
+And I'm like, "I don't know."
+
+517
+00:24:58,660 --> 00:24:59,520
+[chuckles]
+
+518
+00:24:59,580 --> 00:25:00,080
+Charles Caskey: Yeah.
+
+519
+00:24:59,940 --> 00:25:01,480
+Keith Murphy: But, you know.
+
+520
+00:25:01,900 --> 00:25:02,400
+Charles Caskey: No, I-
+
+521
+00:25:02,200 --> 00:25:05,580
+Keith Murphy: So anyway, thoughts on that whole, that whole rambling?
+
+522
+00:25:06,100 --> 00:25:09,940
+Charles Caskey: Yeah. Yeah, multiple. Um, I think the one that pairs with kind of this
+
+523
+00:25:10,040 --> 00:25:14,820
+idea of, like, non-specific drugs is just, I think that we're learning a lot
+
+524
+00:25:14,920 --> 00:25:21,160
+more about the brain, both in recognizing how crude some, some therapies are and
+
+525
+00:25:21,200 --> 00:25:23,540
+how maybe they're not even that effective sometimes.
+
+526
+00:25:24,060 --> 00:25:27,480
+You know, there's a recog- I think there's a recognition about that that's been
+
+527
+00:25:27,540 --> 00:25:32,260
+growing. And then the, and yeah, I just think that's real.
+
+528
+00:25:32,280 --> 00:25:38,100
+And then knowledge about neural circuits and realizing that circuits underlie disease, like there's
+
+529
+00:25:38,140 --> 00:25:39,680
+dysfunction in this part of the brain.
+
+530
+00:25:40,280 --> 00:25:43,840
+And I think that that knowledge is, has grown a lot in the last
+
+531
+00:25:44,020 --> 00:25:48,360
+20 years to appreciate it. And then, and if you look at the long,
+
+532
+00:25:48,660 --> 00:25:54,100
+you know, say like 50, 60 years of, of psychiatry and, you know, neuropsychiatry,
+
+533
+00:25:54,960 --> 00:25:57,920
+there's been, come a long way since, uh, so...
+
+534
+00:25:58,060 --> 00:26:00,060
+And I know that like, what is it called?
+
+535
+00:26:00,120 --> 00:26:05,160
+The lobotomy is, is, is not, was never really like a, a super, like,
+
+536
+00:26:05,480 --> 00:26:06,480
+you know- [chuckles]
+
+537
+00:26:06,720 --> 00:26:07,260
+Keith Murphy: Not loved
+
+538
+00:26:07,300 --> 00:26:11,980
+Charles Caskey: ... medical, medical [chuckles] procedure. But, but it was, you know, that wasn't that
+
+539
+00:26:12,020 --> 00:26:17,020
+long ago that, you know, people considered that to be a potential therapy, uh,
+
+540
+00:26:17,160 --> 00:26:17,860
+to now.
+
+541
+00:26:18,100 --> 00:26:18,600
+Keith Murphy: Right, right.
+
+542
+00:26:18,300 --> 00:26:21,380
+Charles Caskey: You know, so as, as much as we may dog on, you know, uh,
+
+543
+00:26:21,580 --> 00:26:26,280
+I don't know, gabapentin, uh, opioids or other things, it's, they, you know, it's
+
+544
+00:26:26,340 --> 00:26:28,360
+still an improvement. Uh, but there's still-
+
+545
+00:26:28,520 --> 00:26:29,260
+Keith Murphy: Yeah, it's a poor half
+
+546
+00:26:29,260 --> 00:26:32,900
+Charles Caskey: ... yeah, it's, it's, uh, there's still a lot of off target and, and
+
+547
+00:26:32,960 --> 00:26:37,040
+I think in general, people, I, I, you know, the adoption component you talk
+
+548
+00:26:37,080 --> 00:26:41,620
+about, like people feeling comfortable with something, uh, I, they do seem to be
+
+549
+00:26:42,420 --> 00:26:45,680
+more comfortable with this idea of putting an applicator on your head and having
+
+550
+00:26:45,700 --> 00:26:51,140
+it transmit energy, uh, than surgery being one of the alternatives that is effective,
+
+551
+00:26:51,220 --> 00:26:53,800
+but I can appreciate that a lot of people don't wanna get that.
+
+552
+00:26:54,460 --> 00:26:58,760
+Uh, and, and certainly drugs, there's either a, a stigma or there's other things
+
+553
+00:26:58,800 --> 00:27:03,180
+associated with that, uh, which, which I don't, uh, you know, and, and risk,
+
+554
+00:27:03,280 --> 00:27:06,360
+true risk, addiction and things li- things like that nature.
+
+555
+00:27:06,480 --> 00:27:11,200
+I mean, definitely there's legitimate reasons why people would be more enthusiastic to do
+
+556
+00:27:11,240 --> 00:27:14,120
+something that just kind of was on the outside of your head, and, and
+
+557
+00:27:14,320 --> 00:27:17,100
+TMS kind of paved the way for us to some degree with that.
+
+558
+00:27:18,840 --> 00:27:22,360
+Keith Murphy: Yeah, I think, I mean, we have, like, we brush up against these BCI
+
+559
+00:27:22,420 --> 00:27:25,580
+people a lot. Like it's, yeah, we're not a BCI if we're not reading,
+
+560
+00:27:25,680 --> 00:27:30,920
+but, um, I-- They're all kind of making this argument that, like, surgeries are
+
+561
+00:27:30,960 --> 00:27:36,320
+becoming faster and cleaner and, and more safe and, yeah, that's definitely true, like
+
+562
+00:27:36,460 --> 00:27:40,160
+100%. But I don't think people are any less scared of a surgery, even
+
+563
+00:27:40,220 --> 00:27:42,860
+if you just tell them, "Oh yeah, it's like in and out and we're
+
+564
+00:27:42,900 --> 00:27:44,520
+only removing a little piece of your skull."
+
+565
+00:27:44,620 --> 00:27:46,420
+I think it's still just a huge barrier.
+
+566
+00:27:47,300 --> 00:27:47,800
+Charles Caskey: It-
+
+567
+00:27:47,320 --> 00:27:50,980
+Keith Murphy: And having, you know, having, having no surgery is just huge for us.
+
+568
+00:27:51,180 --> 00:27:51,680
+And-
+
+569
+00:27:51,440 --> 00:27:52,820
+Charles Caskey: Yeah. Yeah.
+
+570
+00:27:52,840 --> 00:27:57,220
+Keith Murphy: And like DBS, for sure, I, I-- Does anyone disagree that DBS is like
+
+571
+00:27:57,280 --> 00:28:01,920
+just really, if you can get the leads-- By the way, everybody, deep brain
+
+572
+00:28:02,000 --> 00:28:03,700
+stimulation is like an electrical wire.
+
+573
+00:28:03,740 --> 00:28:07,040
+You drill a little hole, put it down, and, and you stimulate a different
+
+574
+00:28:07,100 --> 00:28:10,840
+sort of oscillating, you know, electrical, um, currents, I guess.
+
+575
+00:28:12,140 --> 00:28:15,280
+That, if you get the lead in the right place, that can be very
+
+576
+00:28:15,320 --> 00:28:18,660
+effective, can have very little, you know, in the way of side effects, and
+
+577
+00:28:18,740 --> 00:28:22,700
+that's really what we're trying to replicate, you know, I, I would say.
+
+578
+00:28:23,380 --> 00:28:24,000
+Charles Caskey: Yeah. I think-
+
+579
+00:28:24,020 --> 00:28:24,740
+Keith Murphy: Do you agree, Charles?
+
+580
+00:28:24,940 --> 00:28:30,720
+Charles Caskey: Yeah. So the, the murmurings I hear from places that do focused ultrasound ablation,
+
+581
+00:28:31,280 --> 00:28:35,820
+uh, so they're, yeah, so instead of neuromodulation, they're burning the tissue, and there's
+
+582
+00:28:36,020 --> 00:28:41,220
+FDA reimbursed since 2016, the thalamotomy for essential tremor.
+
+583
+00:28:41,760 --> 00:28:46,300
+The murmurings I hear from places that, that have these scanners, or that have
+
+584
+00:28:46,360 --> 00:28:50,860
+the Insightec system, are that a lot of times people are more willing to
+
+585
+00:28:50,900 --> 00:28:55,320
+even get through the door because they know there's a non-inbl- a non-invasive version
+
+586
+00:28:55,380 --> 00:28:59,440
+of the therapy. They may ultimately choose DBS when they learn about the outcomes.
+
+587
+00:28:59,980 --> 00:29:00,480
+And-
+
+588
+00:29:00,060 --> 00:29:01,100
+Keith Murphy: A gateway drug. Okay.
+
+589
+00:29:01,120 --> 00:29:03,980
+Charles Caskey: But it, yeah, it gets pe- [chuckles] People are like, "Oh, I'm willing to
+
+590
+00:29:04,020 --> 00:29:08,200
+try that." So this resistance and this hesitance towards getting a, a, an electrode
+
+591
+00:29:08,240 --> 00:29:14,340
+implanted is absolutely real, and it's, it's not even necessarily
+
+592
+00:29:14,420 --> 00:29:18,640
+based on outcomes. You know, sometimes, uh, from my understanding, people will come in,
+
+593
+00:29:18,700 --> 00:29:21,920
+they'll talk through the anonymous base and they, "Oh, well, the DBS sounds like
+
+594
+00:29:21,980 --> 00:29:24,820
+a more permanent..." Yeah, I don't know, I don't know the exact numbers, but,
+
+595
+00:29:24,920 --> 00:29:28,680
+you know, some people do choose it even though they were initially scared of
+
+596
+00:29:28,760 --> 00:29:32,460
+that, that procedure. And I'd be scared to get, uh, a burr hole in
+
+597
+00:29:32,500 --> 00:29:37,380
+my brain. Uh, you know, that's, that's pretty, pretty heavy, uh, medical procedure.
+
+598
+00:29:38,320 --> 00:29:41,480
+Keith Murphy: Yeah. It's, it's funny. I, the gateway idea, you know, you get them through
+
+599
+00:29:41,520 --> 00:29:44,620
+the door and then they're willing to take a little bit more risk because
+
+600
+00:29:44,640 --> 00:29:46,000
+they're comfortable, they're in the room.
+
+601
+00:29:46,580 --> 00:29:50,780
+We, we spent a lot of time talking to, like, Medtronic in Boston and,
+
+602
+00:29:51,700 --> 00:29:55,360
+you know, all these DBS companies, and there wasn't, like, a huge-- You'd be
+
+603
+00:29:55,400 --> 00:30:00,780
+surprised, there wasn't a huge consensus within the different companies of, like, why are
+
+604
+00:30:00,820 --> 00:30:02,540
+people not doing DBS more often?
+
+605
+00:30:02,700 --> 00:30:04,200
+Some people were like, "It's cost."
+
+606
+00:30:04,260 --> 00:30:05,500
+Some people are like, "It's time."
+
+607
+00:30:05,940 --> 00:30:07,780
+And then there's this other bucket where it's fear.
+
+608
+00:30:08,080 --> 00:30:14,020
+And whenever people anchored to fear, say a company, you know, they're, they're looking
+
+609
+00:30:14,060 --> 00:30:19,320
+at 10% uptake of, say, Parkinson's, 10% of people are willing to do DBS
+
+610
+00:30:19,360 --> 00:30:24,140
+that are eligible. How do you get them over that fear hump?
+
+611
+00:30:24,180 --> 00:30:27,200
+And we told them, it's exactly what you're saying, so I love it.
+
+612
+00:30:27,740 --> 00:30:31,040
+If you give them something that stimulates the deep brain, they come in, they
+
+613
+00:30:31,080 --> 00:30:34,720
+engage the physician, they're now more comfortable with odd technology.
+
+614
+00:30:34,860 --> 00:30:39,320
+And then, you know, what's, what's that little extra bit to, yeah, it's a
+
+615
+00:30:39,360 --> 00:30:40,560
+surgery, it's a hole in your head.
+
+616
+00:30:41,000 --> 00:30:44,060
+I mean, actually now that I'm saying it, it sounds [laughs] it sounds like
+
+617
+00:30:44,120 --> 00:30:47,700
+a big extra bit. But, uh, I guess I'm just reiterating.
+
+618
+00:30:47,860 --> 00:30:52,620
+I think that's all true. Why are we talking about this?
+
+619
+00:30:52,620 --> 00:30:53,720
+[laughs] This is-
+
+620
+00:30:54,800 --> 00:30:56,400
+Charles Caskey: Well, good question
+
+621
+00:30:56,440 --> 00:30:57,340
+Keith Murphy: I don't remember how we got here.
+
+622
+00:30:57,360 --> 00:30:58,380
+[laughs]
+
+623
+00:30:58,420 --> 00:31:00,760
+Charles Caskey: You had an original point about it as to-
+
+624
+00:31:00,900 --> 00:31:01,680
+Keith Murphy: I don't know. [laughs]
+
+625
+00:31:01,740 --> 00:31:03,920
+Charles Caskey: Yeah, yeah. Well, that's, that's about right.
+
+626
+00:31:04,540 --> 00:31:05,040
+Um-
+
+627
+00:31:04,900 --> 00:31:06,480
+Keith Murphy: Oh, yeah, yeah. Why, okay, why now?
+
+628
+00:31:06,580 --> 00:31:08,200
+Because people are, they hate drugs.
+
+629
+00:31:08,400 --> 00:31:11,140
+They're becoming more comfortable with neurotechnology.
+
+630
+00:31:11,800 --> 00:31:13,800
+Are the BCI people gaining ground?
+
+631
+00:31:14,500 --> 00:31:16,000
+I don't know. [laughs] I'm not sure.
+
+632
+00:31:16,320 --> 00:31:19,400
+I'm not sure more people wanna do brain surgery now, uh, you know, than
+
+633
+00:31:19,440 --> 00:31:22,720
+they did 10 years ago. Um, we should bring a guest on to talk
+
+634
+00:31:22,780 --> 00:31:24,380
+about that. That could be one of our episodes.
+
+635
+00:31:24,760 --> 00:31:28,840
+Charles Caskey: I would love to hear from some of the, the leading, you know, neuro,
+
+636
+00:31:29,200 --> 00:31:35,760
+functional neurosurgeons and people about, like, their perspective on, on kinda upcoming non-invasive technologies
+
+637
+00:31:35,820 --> 00:31:37,640
+versus surgery. Um-
+
+638
+00:31:37,940 --> 00:31:38,440
+Keith Murphy: Yeah
+
+639
+00:31:37,960 --> 00:31:39,100
+Charles Caskey: ... 'cause they, they would know.
+
+640
+00:31:39,180 --> 00:31:42,600
+You know, they would really know having done patients day in and day out,
+
+641
+00:31:42,680 --> 00:31:46,380
+and given, given therapies. Uh, I'd be super interested in that.
+
+642
+00:31:47,420 --> 00:31:48,000
+Um, so.
+
+643
+00:31:49,220 --> 00:31:52,460
+Keith Murphy: Yeah. All right. Well, with that, I think-- So Charles, the idea here for
+
+644
+00:31:52,520 --> 00:31:56,620
+anybody who listened, and we hope that we get at least a few, we're,
+
+645
+00:31:56,660 --> 00:31:58,920
+we're gonna try to also do a, a little segment at the end of
+
+646
+00:31:58,980 --> 00:32:03,460
+these. Uh, we'll call it, I don't know, FUS wins, ultrasound wins of the
+
+647
+00:32:03,520 --> 00:32:05,800
+week, of the month, however often we record.
+
+648
+00:32:06,400 --> 00:32:09,440
+Um, so please let us know if you have some big wins.
+
+649
+00:32:09,540 --> 00:32:13,400
+If you get a big grant, big paper, Charles and I are gonna read
+
+650
+00:32:13,420 --> 00:32:16,880
+through those, and we'll make announcements at the ev- end of every podcast.
+
+651
+00:32:17,280 --> 00:32:20,180
+Charles Caskey: Yeah. So the big FUS win for this, this- [laughs] ...
+
+652
+00:32:20,240 --> 00:32:25,140
+uh, podcast would be probably, I think, the acceptance of the ITRUSST consensus on
+
+653
+00:32:25,200 --> 00:32:28,320
+non-significant risk. It's now published in Brain Stimulation.
+
+654
+00:32:28,380 --> 00:32:32,740
+This was a, an effort among a lot of scientists to try to decide
+
+655
+00:32:32,780 --> 00:32:35,320
+what parameters are gonna be safe for, for people.
+
+656
+00:32:35,380 --> 00:32:38,260
+So we felt like that, having that out there and having the, the community
+
+657
+00:32:38,300 --> 00:32:39,680
+buy-in is a, is a big win.
+
+658
+00:32:40,760 --> 00:32:44,060
+Keith Murphy: That's fussing great news, Charles. We'll see you next week.
+
+659
+00:32:45,060 --> 00:32:45,560
+[laughs] [laughs]
+
+660
+00:32:45,400 --> 00:32:46,360
+Charles Caskey: Looking forward to it.
+
+661
+00:32:47,440 --> 00:32:50,080
+Keith Murphy: We'll see you next time on FUS Forward.
+
+662
+00:32:50,180 --> 00:32:56,780
+Charles Caskey: FUS Forward. [outro music]

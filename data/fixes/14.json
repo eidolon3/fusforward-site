@@ -1,0 +1,456 @@
+{
+ "_note": "Claude's review of out/flags/14.json. 'fix' may only swap a flagged span for a listed term; 'uncertain' words are marked in the output, not changed (by raw word index 'i', or by text anchor 'near_s' + 'text'). Every other flag was checked and kept as transcribed. 'replace' (word corrections) and the text-anchored 'uncertain' entries come from a read-through audit of the transcripts; they are text-based, not checked against the audio: high-confidence corrections are applied, medium ones that need the audio are only marked uncertain. 'speaker' entries are reviewed speaker corrections from the same audit, applied after the voice naming.",
+ "fix": [
+  {
+   "i": 3793,
+   "k": 1,
+   "from": "SciTech",
+   "to": "Insightec",
+   "why": "'essential tremor in Insightec surgeries'"
+  },
+  {
+   "i": 5490,
+   "k": 1,
+   "from": "iTrust",
+   "to": "ITRUSST",
+   "why": "the consortium, said as a word"
+  },
+  {
+   "i": 7350,
+   "k": 1,
+   "from": "Atalle",
+   "to": "Attali",
+   "why": "David Attali"
+  },
+  {
+   "i": 13166,
+   "k": 1,
+   "from": "neurofuss",
+   "to": "NeuroFUS",
+   "why": "the device"
+  },
+  {
+   "i": 14323,
+   "k": 2,
+   "from": "Noah Phillips",
+   "to": "Noah Philip",
+   "why": "the ep 6 guest"
+  }
+ ],
+ "replace": [
+  {
+   "near_s": 1076.92,
+   "from": "Yan",
+   "to": "Jan",
+   "why": "Ku- Jan (Jan Kubanek; series-wide S4)"
+  },
+  {
+   "near_s": 1274.6,
+   "from": "a central",
+   "to": "an essential",
+   "why": "essential tremor disease state"
+  },
+  {
+   "near_s": 2533.95,
+   "from": "laterogeniculate nucleus",
+   "to": "lateral geniculate nucleus",
+   "why": "run together; replaces the earlier fix that doubled 'nucleus'"
+  },
+  {
+   "near_s": 2533.95,
+   "from": "laterogeniculate",
+   "to": "lateral geniculate",
+   "why": "run together (missed by the earlier fix)"
+  },
+  {
+   "near_s": 2917.92,
+   "from": "70",
+   "to": "7T",
+   "why": "7-tesla preclinical scanner"
+  },
+  {
+   "near_s": 3767.44,
+   "from": "LGM",
+   "to": "LGN",
+   "why": "lateral geniculate nucleus"
+  },
+  {
+   "near_s": 3870.2,
+   "from": "LGM",
+   "to": "LGN",
+   "why": "lateral geniculate nucleus"
+  },
+  {
+   "near_s": 3908.32,
+   "from": "LGM",
+   "to": "LGN",
+   "why": "lateral geniculate nucleus"
+  },
+  {
+   "near_s": 3319.88,
+   "from": "Welcome Leap",
+   "to": "Wellcome Leap",
+   "why": "Untangling Addiction programme"
+  },
+  {
+   "near_s": 3180.92,
+   "from": "Peng Fei",
+   "to": "Pengfei",
+   "why": "ep 12 guest (series-wide S4)"
+  },
+  {
+   "near_s": 758.09,
+   "from": "Jeff",
+   "to": "JF",
+   "why": "JF Aubry; 2022 simulation benchmark (Aubry, Pichardo, Treeby)"
+  },
+  {
+   "near_s": 1164.62,
+   "from": "Jeff",
+   "to": "JF",
+   "why": "JF Aubry"
+  },
+  {
+   "near_s": 1218.18,
+   "from": "Jeff Aubry",
+   "to": "JF Aubry",
+   "why": "JF Aubry"
+  },
+  {
+   "near_s": null,
+   "from": "Flowavius",
+   "to": "FloWave.US",
+   "why": "Charles's FloWave.US Doppler software (said 5 times)",
+   "all": true
+  },
+  {
+   "near_s": 1759.18,
+   "from": "Tyler guy",
+   "to": "Taylor guy",
+   "why": "Taylor Webb"
+  },
+  {
+   "near_s": 3069.42,
+   "from": "REMIS",
+   "to": "Remus",
+   "why": "the Kubanek lab's Remus device"
+  },
+  {
+   "near_s": 3819.06,
+   "from": "diadem",
+   "to": "DIADEM",
+   "why": "the DIADEM device (as at 51:11)"
+  },
+  {
+   "near_s": 2599.3,
+   "from": "Fun 23,",
+   "to": "FUN '23,",
+   "why": "the FUN 2023 meeting"
+  },
+  {
+   "near_s": 2336.31,
+   "from": "undetermined",
+   "to": "underdetermined",
+   "why": "an underdetermined inverse problem"
+  },
+  {
+   "near_s": null,
+   "from": "L-STEM",
+   "to": "LS-STIM",
+   "why": "Lorentz-force stimulation; the guest's own name for it (LS-STIM, 2 of his 2 uses)",
+   "all": true
+  }
+ ],
+ "uncertain": [
+  {
+   "i": 9358,
+   "why": "unclear device name ('L-STEM')"
+  },
+  {
+   "i": 10576,
+   "why": "unclear device name ('LS-STIM')"
+  },
+  {
+   "i": 11059,
+   "why": "unclear device name ('REMIS')"
+  },
+  {
+   "i": 386,
+   "why": "very low confidence"
+  },
+  {
+   "i": 3356,
+   "why": "very low confidence"
+  },
+  {
+   "i": 9763,
+   "why": "very low confidence"
+  },
+  {
+   "i": 9860,
+   "why": "very low confidence"
+  },
+  {
+   "i": 12201,
+   "why": "very low confidence"
+  },
+  {
+   "i": 12202,
+   "why": "very low confidence"
+  },
+  {
+   "i": 14795,
+   "why": "very low confidence"
+  },
+  {
+   "near_s": 2711.32,
+   "text": "her and Sam",
+   "why": "probably 'Taylor and Sam'; medium"
+  },
+  {
+   "near_s": 3758.92,
+   "text": "Rima set",
+   "why": "probably 'Remus'; medium"
+  },
+  {
+   "near_s": 3820.76,
+   "text": "yon",
+   "why": "probably 'Jan's'; medium"
+  },
+  {
+   "near_s": 3944.34,
+   "text": "Jolene found",
+   "why": "nonsense as written; medium"
+  }
+ ],
+ "speaker": [
+  {
+   "near_s": 103.72,
+   "text": "Okay.",
+   "who": "Taylor Webb",
+   "why": "Taylor's reply inside his Stanford story"
+  },
+  {
+   "near_s": 104.64,
+   "text": "Yeah, so,",
+   "who": "Taylor Webb",
+   "why": "Taylor starting 'so I came to Stanford to do my PhD'"
+  },
+  {
+   "near_s": 113.26,
+   "text": "Um-",
+   "who": "Taylor Webb",
+   "why": "mid-sentence in Taylor's story"
+  },
+  {
+   "near_s": 144.88,
+   "text": "Um, but then",
+   "who": "Taylor Webb",
+   "why": "mid-sentence in Taylor's story ('but then kinda learned about neuromodulation in her lab') (voice agrees or is inconclusive: 0.57 to Taylor; best other Keith 0.15)"
+  },
+  {
+   "near_s": 174.48,
+   "text": "Yeah.",
+   "who": "Taylor Webb",
+   "why": "Taylor, after his own story"
+  },
+  {
+   "near_s": 1983.52,
+   "text": "Sam",
+   "who": "Keith Murphy",
+   "why": "ends Keith's 'I love that, Sam'"
+  },
+  {
+   "near_s": 2189.82,
+   "text": "Right. But, but the key-",
+   "who": "Taylor Webb",
+   "why": "middle of Taylor's sentence ('To Keith's question...') (voice agrees or is inconclusive: 0.26 to Taylor; best other Sam 0.03)"
+  },
+  {
+   "near_s": 2524.67,
+   "text": "... we, we didn't have enough-",
+   "who": "Taylor Webb",
+   "why": "continues Taylor's previous turn (voice agrees or is inconclusive: 0.28 to Taylor; best other Sam 0.09)"
+  },
+  {
+   "near_s": 2539.85,
+   "text": "... and, uh,",
+   "who": "Taylor Webb",
+   "why": "continues Taylor's 'none of the other targets gave an effect' (voice agrees or is inconclusive: 0.44 to Taylor; best other Sam 0.01)"
+  },
+  {
+   "near_s": 2545.91,
+   "text": "Um-",
+   "who": "Taylor Webb",
+   "why": "end of Taylor's sentence"
+  },
+  {
+   "near_s": 2564.76,
+   "text": "And so, um,",
+   "who": "Taylor Webb",
+   "why": "mid-sentence between Taylor turns about his grid (voice agrees or is inconclusive: 0.66 to Taylor; best other Charles 0.12)"
+  },
+  {
+   "near_s": 2806.86,
+   "text": "is, um,",
+   "who": "Taylor Webb",
+   "why": "mid-sentence in Taylor's Lorentz-force explanation"
+  },
+  {
+   "near_s": 2839.26,
+   "text": "Um, but",
+   "who": "Taylor Webb",
+   "why": "mid-sentence in Taylor's Lorentz-force explanation"
+  },
+  {
+   "near_s": 2862.64,
+   "text": "It's, it's a wacky-",
+   "who": "Taylor Webb",
+   "why": "Taylor's Lorentz-force explanation (thumb) (voice agrees or is inconclusive: 0.39 to Taylor; best other Keith 0.06)"
+  },
+  {
+   "near_s": 2864.28,
+   "text": "... like at least the-",
+   "who": "Taylor Webb",
+   "why": "Taylor's Lorentz-force explanation (thumb)"
+  },
+  {
+   "near_s": 2941.02,
+   "text": "Um, but, uh, yeah, it was a fun project.",
+   "who": "Taylor Webb",
+   "why": "Taylor on his own Lorentz-force project (voice agrees or is inconclusive: 0.67 to Taylor; best other Keith 0.13)"
+  },
+  {
+   "near_s": 2991.4,
+   "text": "... I was like, \"What on earth-",
+   "who": "Taylor Webb",
+   "why": "Taylor's own first-MRI PNS story"
+  },
+  {
+   "near_s": 2992.3,
+   "text": "... is going on here?\"",
+   "who": "Taylor Webb",
+   "why": "Taylor's own first-MRI PNS story"
+  },
+  {
+   "near_s": 3044.16,
+   "text": "Yeah.",
+   "who": "Taylor Webb",
+   "why": "continues Taylor on MRH PNS testing"
+  },
+  {
+   "near_s": 3094.42,
+   "text": "... maybe I didn't pick that up.",
+   "who": "Taylor Webb",
+   "why": "Taylor on his MRH name vs Jan's naming DNA (voice agrees or is inconclusive: 0.12 to Taylor; best other Charles 0.11)"
+  },
+  {
+   "near_s": 3099.14,
+   "text": "May- maybe we need a better name for that.",
+   "who": "Taylor Webb",
+   "why": "Taylor on his MRH name (voice agrees or is inconclusive: 0.29 to Taylor; best other Sam 0.28)"
+  },
+  {
+   "near_s": 3101.0,
+   "text": "No, that is, that is-",
+   "who": "Taylor Webb",
+   "why": "Taylor on his MRH name (voice agrees or is inconclusive: -0.15 to Taylor; best other Charles 0.29)"
+  },
+  {
+   "near_s": 3108.82,
+   "text": "You gotta help me out there",
+   "who": "Taylor Webb",
+   "why": "Taylor asking for a better name"
+  },
+  {
+   "near_s": 3112.0,
+   "text": "That's right, yeah. Yeah, that's",
+   "who": "Taylor Webb",
+   "why": "Taylor confirming 'MRH is magnetic resonance hydrophone?' (voice agrees or is inconclusive: 0.52 to Taylor; best other Sam 0.17)"
+  },
+  {
+   "near_s": 3171.98,
+   "text": "Man,",
+   "who": "Taylor Webb",
+   "why": "start of Taylor's 'Man, that's a loaded question, Charles'"
+  },
+  {
+   "near_s": 3213.66,
+   "text": "... so",
+   "who": "Taylor Webb",
+   "why": "Taylor's answer about his first years as PI (voice agrees or is inconclusive: 0.62 to Taylor; best other Keith 0.16)"
+  },
+  {
+   "near_s": 3252.68,
+   "text": "Um, which really makes work",
+   "who": "Taylor Webb",
+   "why": "Taylor's answer about his first years as PI (voice agrees or is inconclusive: 0.64 to Taylor; best other Sam 0.14)"
+  },
+  {
+   "near_s": 3267.56,
+   "text": "um,",
+   "who": "Taylor Webb",
+   "why": "Taylor's answer about his first years as PI"
+  },
+  {
+   "near_s": 3273.4,
+   "text": "and-",
+   "who": "Taylor Webb",
+   "why": "Taylor's answer about his first years as PI"
+  },
+  {
+   "near_s": 3273.7,
+   "text": "... uh,",
+   "who": "Taylor Webb",
+   "why": "Taylor's answer about his first years as PI"
+  },
+  {
+   "near_s": 3312.68,
+   "text": "uh-",
+   "who": "Taylor Webb",
+   "why": "Taylor listing his grants"
+  },
+  {
+   "near_s": 4063.61,
+   "text": "Well, well I'm glad we cleared that up. No, I, uh-",
+   "who": "Sam Clinard",
+   "why": "Sam replying to Charles's dance-floor apology (voice agrees or is inconclusive: 0.33 to Sam; best other Taylor 0.13)"
+  },
+  {
+   "near_s": 4090.19,
+   "text": "Yeah.",
+   "who": "Sam Clinard",
+   "why": "Sam in the dance-floor story"
+  },
+  {
+   "near_s": 4109.61,
+   "text": "Perfect. I'll look forward to it.",
+   "who": "Sam Clinard",
+   "why": "reply to Charles's 'I owe you a night out dancing' (voice agrees or is inconclusive: 0.41 to Sam; best other Taylor 0.27)"
+  },
+  {
+   "near_s": 4196.51,
+   "text": "Uh, you know.",
+   "who": "Sam Clinard",
+   "why": "Keith asked 'Sam, did you actually notice...?'"
+  },
+  {
+   "near_s": 929.0,
+   "text": "I talk about it all the time.",
+   "who": "Charles Caskey",
+   "why": "Charles on coupling ('the bane of my existence'); voice CC 0.33 vs TW 0.06"
+  },
+  {
+   "from_s": 928.5,
+   "to_s": 929.0,
+   "who": "Charles Caskey",
+   "why": "the 'Yeah. [laughs]' opening the same turn"
+  },
+  {
+   "near_s": 3101.0,
+   "text": "No, that is, that is-",
+   "who": "Charles Caskey",
+   "why": "Charles, continued '... an engineer's abbreviation is what that is'"
+  }
+ ]
+}

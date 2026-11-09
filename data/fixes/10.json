@@ -1,0 +1,351 @@
+{
+ "_note": "Claude's review of out/flags/10.json. 'fix' may only swap a flagged span for a listed term; 'uncertain' words are marked in the output, not changed (by raw word index 'i', or by text anchor 'near_s' + 'text'). Every other flag was checked and kept as transcribed. 'replace' (word corrections) and the text-anchored 'uncertain' entries come from a read-through audit of the transcripts; they are text-based, not checked against the audio: high-confidence corrections are applied, medium ones that need the audio are only marked uncertain. 'speaker' entries are reviewed speaker corrections from the same audit, applied after the voice naming.",
+ "fix": [
+  {
+   "i": 1106,
+   "k": 3,
+   "from": "BabelBiz care FDTD",
+   "to": "BabelViscoFDTD",
+   "why": "Pichardo's simulation library behind BabelBrain"
+  },
+  {
+   "i": 3160,
+   "k": 2,
+   "from": "Rose Research",
+   "to": "Rogue Research",
+   "why": "Canadian maker of Brainsight neuronavigation"
+  },
+  {
+   "i": 3189,
+   "k": 1,
+   "from": "BrainSite",
+   "to": "Brainsight",
+   "why": "Rogue Research's neuronavigation system"
+  },
+  {
+   "i": 4470,
+   "k": 2,
+   "from": "Maria Mascuridu",
+   "to": "Maria Miscouridou",
+   "why": "researcher in Treeby's lab"
+  }
+ ],
+ "replace": [
+  {
+   "near_s": 389.24,
+   "from": "Matt MRI",
+   "to": "MatMRI",
+   "why": "Pichardo's MATLAB toolbox for Sonalleve MR-HIFU"
+  },
+  {
+   "near_s": 482.16,
+   "from": "Matt MRI",
+   "to": "MatMRI",
+   "why": "Pichardo's MATLAB toolbox"
+  },
+  {
+   "near_s": 483.04,
+   "from": "Matt HIFU",
+   "to": "MatHIFU",
+   "why": "Pichardo's MATLAB toolbox"
+  },
+  {
+   "near_s": 486.04,
+   "from": "SonoLeave",
+   "to": "Sonalleve",
+   "why": "Philips Sonalleve MR-HIFU system"
+  },
+  {
+   "near_s": 443.04,
+   "from": "Robert Schenk",
+   "to": "Robert Chen",
+   "why": "Toronto Western movement-disorders neurologist"
+  },
+  {
+   "near_s": 445.38,
+   "from": "Robert Schenk",
+   "to": "Robert Chen",
+   "why": "Toronto Western movement-disorders neurologist"
+  },
+  {
+   "near_s": 690.64,
+   "from": "Robert Shin's",
+   "to": "Robert Chen's",
+   "why": "Toronto Western movement-disorders neurologist"
+  },
+  {
+   "near_s": 629.1,
+   "from": "dose symmetry",
+   "to": "dosimetry",
+   "why": "simulation determines dose"
+  },
+  {
+   "near_s": 912.86,
+   "from": "GPI",
+   "to": "GPi",
+   "why": "standard tremor/PD target list"
+  },
+  {
+   "near_s": 913.62,
+   "from": "PIN",
+   "to": "Vim",
+   "why": "ventral intermediate nucleus"
+  },
+  {
+   "near_s": 937.84,
+   "from": "3D slicer",
+   "to": "3D Slicer",
+   "why": "software name"
+  },
+  {
+   "near_s": 1325.61,
+   "from": "pseudo echo",
+   "to": "zero echo",
+   "why": "GE's bone sequence is ZTE (zero echo time)"
+  },
+  {
+   "near_s": 1500.13,
+   "from": "TBS",
+   "to": "DBS",
+   "why": "the surgery available for ET"
+  },
+  {
+   "near_s": 1697.45,
+   "from": "density",
+   "to": "intensity",
+   "why": "answer is an intensity, 10 W/cm2"
+  },
+  {
+   "near_s": 1851.09,
+   "from": "Polish",
+   "to": "published",
+   "why": "contrasting the published open-pilot paper"
+  },
+  {
+   "near_s": 1851.73,
+   "from": "Polish",
+   "to": "published",
+   "why": "contrasting the published open-pilot paper"
+  },
+  {
+   "near_s": 2091.65,
+   "from": "Markus Kaiser",
+   "to": "Marcus Kaiser",
+   "why": "Nottingham group"
+  },
+  {
+   "near_s": 2092.89,
+   "from": "Cyril Akeson",
+   "to": "Cyril Atkinson-Clement",
+   "why": "Nottingham group, ventricle active control"
+  },
+  {
+   "near_s": 439.22,
+   "from": "moving disorder",
+   "to": "movement disorder",
+   "why": "movement-disorder site (Calgary)"
+  },
+  {
+   "near_s": 2812.18,
+   "from": "trader",
+   "to": "transducer",
+   "why": "the transducer side of the project"
+  },
+  {
+   "near_s": 2812.88,
+   "from": "trader",
+   "to": "transducer",
+   "why": "the transducer side of the project"
+  },
+  {
+   "near_s": 2843.86,
+   "from": "two do",
+   "to": "2D",
+   "why": "2D imaging with two transducers"
+  },
+  {
+   "near_s": 2055.17,
+   "from": "ROG",
+   "to": "Raag",
+   "why": "Raag Airan (ep 5)"
+  },
+  {
+   "near_s": 1761.11,
+   "from": "FUM",
+   "to": "FUN",
+   "why": "the FUN 2026 meeting in Paris"
+  },
+  {
+   "near_s": 1763.19,
+   "from": "FUM",
+   "to": "FUN",
+   "why": "the FUN 2026 meeting in Paris"
+  },
+  {
+   "near_s": 1979.51,
+   "from": "East 2",
+   "to": "ISTU",
+   "why": "ISTU meeting (Vanderbilt hosted it)"
+  },
+  {
+   "near_s": 1999.87,
+   "from": "East 2",
+   "to": "ISTU",
+   "why": "ISTU meeting"
+  }
+ ],
+ "uncertain": [
+  {
+   "i": 6062,
+   "why": "unclear conference name ('FUM')"
+  },
+  {
+   "i": 6824,
+   "why": "very low confidence"
+  },
+  {
+   "i": 2136,
+   "why": "very low confidence"
+  },
+  {
+   "i": 2425,
+   "why": "very low confidence"
+  },
+  {
+   "i": 3674,
+   "why": "very low confidence"
+  },
+  {
+   "i": 3793,
+   "why": "very low confidence"
+  },
+  {
+   "i": 4927,
+   "why": "very low confidence"
+  },
+  {
+   "i": 5171,
+   "why": "very low confidence"
+  },
+  {
+   "i": 6571,
+   "why": "very low confidence"
+  },
+  {
+   "i": 8102,
+   "why": "very low confidence"
+  },
+  {
+   "i": 8634,
+   "why": "very low confidence"
+  },
+  {
+   "i": 8663,
+   "why": "very low confidence"
+  },
+  {
+   "i": 9792,
+   "why": "very low confidence"
+  },
+  {
+   "i": 10065,
+   "why": "very low confidence"
+  },
+  {
+   "near_s": 1471.43,
+   "text": "ventromedial",
+   "why": "ET ablation target is Vim; may be the speaker's slip; medium"
+  },
+  {
+   "near_s": 1695.89,
+   "text": "Did you feel like it was needed?",
+   "why": "seven words squeezed into 0.4 s with zero-length timings; possibly spurious; needs the audio"
+  }
+ ],
+ "speaker": [
+  {
+   "near_s": 712.82,
+   "text": "you need to pre-decide.",
+   "who": "Keith Murphy",
+   "why": "completes Keith's 'these simulations ... can take hours ... So- you need to pre-decide' (voice agrees or is inconclusive: 0.43 to Keith; best other Charles 0.20)"
+  },
+  {
+   "near_s": 783.2,
+   "text": "Yeah, what is that?",
+   "who": "Keith Murphy",
+   "why": "a host's reaction to Sam's release numbers; Sam answers 'No, that's the numbers of the release'"
+  },
+  {
+   "near_s": 1471.69,
+   "text": "thalamus.",
+   "who": "Keith Murphy",
+   "why": "finishes Keith's 'ablation of the ventromedial thalamus'"
+  },
+  {
+   "near_s": 1504.61,
+   "text": "interested.",
+   "who": "Keith Murphy",
+   "why": "finishes Keith's 'I'm interested'"
+  },
+  {
+   "near_s": 1617.35,
+   "text": "to me.",
+   "who": "Keith Murphy",
+   "why": "finishes Keith's 'The paper looked awesome to me'"
+  },
+  {
+   "near_s": 2495.74,
+   "text": "Oh, no, we love it",
+   "who": "Keith Murphy",
+   "why": "a host reassuring Sam about his accent ('this is my Spanish and French')"
+  },
+  {
+   "near_s": 2496.16,
+   "text": "meeting different.",
+   "who": "Sam Pichardo",
+   "why": "end of Sam's accent apology"
+  },
+  {
+   "near_s": 2500.26,
+   "text": "Thank you. Uh-",
+   "who": "Sam Pichardo",
+   "why": "Sam thanking the hosts, right before he explains hysteresis (voice agrees or is inconclusive: 0.51 to Sam; best other Charles 0.09)"
+  },
+  {
+   "near_s": 2689.22,
+   "text": "technology.",
+   "who": "Charles Caskey",
+   "why": "ends Charles's 'That could impact medical technology'"
+  },
+  {
+   "near_s": 2906.98,
+   "text": "Sam, way to go, man.",
+   "who": "Keith Murphy",
+   "why": "a host congratulating Sam in Sam's own FUS-win segment (continues Keith's 'how could it not be?')"
+  },
+  {
+   "near_s": 159.8,
+   "text": "Sam's dirty laundry",
+   "who": "Keith Murphy",
+   "why": "voice KM 0.60 vs CC 0.25"
+  },
+  {
+   "near_s": 806.0,
+   "text": "exactly.",
+   "who": "Sam Pichardo",
+   "why": "ends Sam's 'Yeah, exactly' while Charles talks"
+  },
+  {
+   "near_s": 2199.98,
+   "text": "I know. And then I'm like-",
+   "who": "Charles Caskey",
+   "why": "Charles's soapbox continues; Keith answers 'I like that, Charles'"
+  },
+  {
+   "near_s": 2200.58,
+   "text": "I'm like, \"Oh, shut up. Please.\"",
+   "who": "Charles Caskey",
+   "why": "same; voice weak but CC 0.16 > KM 0.08"
+  }
+ ]
+}

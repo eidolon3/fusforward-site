@@ -1,0 +1,54 @@
+{
+ "_note": "Claude's review of out/flags/11.json. 'fix' may only swap a flagged span for a listed term; 'uncertain' words are marked in the output, not changed (by raw word index 'i', or by text anchor 'near_s' + 'text'). Every other flag was checked and kept as transcribed. 'replace' (word corrections) and the text-anchored 'uncertain' entries come from a read-through audit of the transcripts; they are text-based, not checked against the audio: high-confidence corrections are applied, medium ones that need the audio are only marked uncertain. 'speaker' entries are reviewed speaker corrections from the same audit, applied after the voice naming.",
+ "fix": [],
+ "replace": [
+  {
+   "near_s": 323.98,
+   "from": "Branch Simulation",
+   "to": "Brain Stimulation",
+   "why": "journal of Mishra et al. 2023"
+  },
+  {
+   "near_s": 986.06,
+   "from": "Steve Backus",
+   "to": "Steve Baccus",
+   "why": "Stanford retina lab (series-wide S4)"
+  },
+  {
+   "near_s": 577.0,
+   "from": "cFOS",
+   "to": "c-Fos",
+   "why": "immediate-early gene marker (series-wide S4)"
+  },
+  {
+   "near_s": 735.58,
+   "from": "simulate",
+   "to": "stimulate",
+   "why": "stimulating left motor cortex moves the right leg"
+  },
+  {
+   "near_s": 657.7,
+   "from": "Nature Protocol",
+   "to": "Nature Protocols",
+   "why": "the journal"
+  },
+  {
+   "near_s": 1356.24,
+   "from": "TDCS",
+   "to": "tDCS",
+   "why": "standard spelling"
+  }
+ ],
+ "uncertain": [
+  {
+   "i": 2489,
+   "why": "very low confidence"
+  },
+  {
+   "near_s": 812.58,
+   "text": "HP",
+   "why": "unclear, possibly 'NIH'; medium"
+  }
+ ],
+ "speaker": []
+}

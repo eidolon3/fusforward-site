@@ -1,0 +1,134 @@
+{
+ "_note": "Claude's review of out/flags/13.json. 'fix' may only swap a flagged span for a listed term; 'uncertain' words are marked in the output, not changed (by raw word index 'i', or by text anchor 'near_s' + 'text'). Every other flag was checked and kept as transcribed. 'replace' (word corrections) and the text-anchored 'uncertain' entries come from a read-through audit of the transcripts; they are text-based, not checked against the audio: high-confidence corrections are applied, medium ones that need the audio are only marked uncertain. 'speaker' entries are reviewed speaker corrections from the same audit, applied after the voice naming.",
+ "fix": [],
+ "replace": [
+  {
+   "near_s": 1031.98,
+   "from": "DBS",
+   "to": "dB",
+   "why": "decibels; about a loud band"
+  },
+  {
+   "near_s": 3349.54,
+   "from": "fingerprint",
+   "to": "finger prick",
+   "why": "Theranos pitch"
+  },
+  {
+   "near_s": 2849.93,
+   "from": "wacky brand stuff",
+   "to": "wacky brain stuff",
+   "why": "Amy's neurotech"
+  },
+  {
+   "near_s": 1026.26,
+   "from": "Swan",
+   "to": "Swans",
+   "why": "the band Swans ('incredibly loud band')"
+  },
+  {
+   "near_s": 1113.6,
+   "from": "swan",
+   "to": "Swans",
+   "why": "the band Swans"
+  },
+  {
+   "near_s": 1884.28,
+   "from": "flow neuroscience",
+   "to": "Flow Neuroscience",
+   "why": "the company"
+  },
+  {
+   "near_s": 3697.35,
+   "from": "Neurosciences.",
+   "to": "Neuroscience.",
+   "why": "the company"
+  },
+  {
+   "near_s": 3204.18,
+   "from": "swear",
+   "to": "wear",
+   "why": "'take our cow skin rug and wear [it]'"
+  }
+ ],
+ "uncertain": [
+  {
+   "i": 2496,
+   "why": "very low confidence"
+  },
+  {
+   "i": 2804,
+   "why": "very low confidence"
+  },
+  {
+   "i": 12196,
+   "why": "very low confidence"
+  },
+  {
+   "near_s": 146.06,
+   "text": "Defenses",
+   "why": "probably 'Cubic Global Defense'; medium"
+  },
+  {
+   "near_s": 173.86,
+   "text": "Investment's",
+   "why": "probably 'Satori Capital's'; medium"
+  }
+ ],
+ "speaker": [
+  {
+   "near_s": 1589.2,
+   "text": "I am.",
+   "who": "Amy Kruse",
+   "why": "completes Amy's 'That's how old I am'"
+  },
+  {
+   "near_s": 3613.71,
+   "text": "Oh, yeah. That's-",
+   "who": "Charles Caskey",
+   "why": "the 'Unknown 1' label is a diarization leftover; voice: Charles (voice agrees or is inconclusive: 0.19 to Charles; best other Keith 0.10)"
+  },
+  {
+   "near_s": 3621.31,
+   "text": "Yeah, definitely putting that on my LinkedIn",
+   "who": "Amy Kruse",
+   "why": "the 'Unknown 1' label is a diarization leftover; echoes Amy's own 'Put that on my LinkedIn profile'; voice: closest to Amy (voice agrees or is inconclusive: 0.17 to Amy; best other Unknown 0.12)"
+  },
+  {
+   "near_s": 3711.25,
+   "text": "Oh, right. Oh, yeah",
+   "who": "Charles Caskey",
+   "why": "the 'Unknown 1' label is a diarization leftover; answers Keith's 'Noah gave it to himself' after Charles's claim; voice: closest to Charles (voice agrees or is inconclusive: 0.17 to Charles; best other Keith -0.02)"
+  },
+  {
+   "from_s": 3725.0,
+   "to_s": 99999.0,
+   "who": "Noah Philip",
+   "why": "post-outro clip ('I am definitely not a narwhal...'): voice matches Noah Philip's ep 6 voice (0.59-0.83), the ep 6 'Noah the narwhal' joke; not in guests.json"
+  },
+  {
+   "near_s": 3610.89,
+   "text": "The grandmother.",
+   "who": "Keith Murphy",
+   "why": "host echo; voice KM 0.37 (was 'Unknown 1', a label for the Noah clip)"
+  },
+  {
+   "near_s": 3698.39,
+   "text": "Flow Neuroscience.",
+   "who": "Charles Caskey",
+   "why": "host echo of Keith; voice CC 0.30 (was 'Unknown 1')"
+  },
+  {
+   "from_s": 3716.1,
+   "to_s": 3716.3,
+   "who": "Amy Kruse",
+   "why": "listener 'Yeah' while Keith answers Amy's question (was 'Unknown 1'; <0.1 s, by context)"
+  },
+  {
+   "near_s": 941.32,
+   "text": "to be doing this, right.",
+   "who": "Amy Kruse",
+   "why": "ends Amy's 'we kinda know we're supposed / to be doing this, right.'"
+  }
+ ]
+}

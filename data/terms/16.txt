@@ -1,0 +1,44 @@
+# Ep 16, Jean-François Aubry. From the show notes and his PubMed coauthors/topics.
+# (PubMed mixes in a radiotherapy J-F Aubry from Quebec; those coauthors are left out.)
+CNRS
+National Center for Scientific Research
+Physics for Medicine Paris
+ESPCI
+Institut Langevin
+INSERM
+Focused Ultrasound Foundation
+Center of Excellence
+SonoMind
+Insightec
+ExAblate
+SuperSonic Imagine
+shear wave elastography
+ultrafast imaging
+DORT
+transcostal
+adaptive focusing
+transcranial holography
+quadrifrequency transducer
+antisaccade
+oculomotor
+credit assignment
+Pitié-Salpêtrière
+Thomas Deffieux
+Mathieu Pernot
+Gabriel Montaldo
+Charlotte Constans
+David Attali
+Thomas Tiennot
+Davide Folloni
+Fabrice Marquet
+Arik Hananel
+Stéphane Lehéricy
+Thomas Bancel
+Mathieu Santin
+Alexandre Houdouin
+Ellen Bubrick
+Gianmarco Pinton
+Kobi Vortman
+# Added after the trial run: misheard names that were not listed.
+Jeremy Bercoff
+Oleg Sapozhnikov

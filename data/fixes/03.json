@@ -1,0 +1,270 @@
+{
+ "_note": "Claude's review of out/flags/03.json. 'fix' may only swap a flagged span for a listed term; 'uncertain' words are marked in the output, not changed (by raw word index 'i', or by text anchor 'near_s' + 'text'). Every other flag was checked and kept as transcribed. 'replace' (word corrections) and the text-anchored 'uncertain' entries come from a read-through audit of the transcripts; they are text-based, not checked against the audio: high-confidence corrections are applied, medium ones that need the audio are only marked uncertain. 'speaker' entries are reviewed speaker corrections from the same audit, applied after the voice naming.",
+ "fix": [
+  {
+   "i": 379,
+   "k": 2,
+   "from": "I trust",
+   "to": "ITRUSST",
+   "why": "'ITRUSST roundtable'"
+  },
+  {
+   "i": 9754,
+   "k": 1,
+   "from": "MODRAS",
+   "to": "MADRS",
+   "why": "the depression rating scale"
+  }
+ ],
+ "replace": [
+  {
+   "near_s": 324.34,
+   "from": "Russian",
+   "to": "Rushworth",
+   "why": "the Rushworth group, Oxford (then lists Lennart, Sallet, Miriam)"
+  },
+  {
+   "near_s": 328.5,
+   "from": "Russian groups",
+   "to": "Rushworth group",
+   "why": "the Rushworth group, Oxford"
+  },
+  {
+   "near_s": 614.79,
+   "from": "head pose",
+   "to": "head post",
+   "why": "macaque head-post fixation"
+  },
+  {
+   "near_s": 723.01,
+   "from": "Jeff Aubry's",
+   "to": "JF Aubry's",
+   "why": "Jean-François Aubry; Deffieux et al. 2013 saccade paper"
+  },
+  {
+   "near_s": 1980.96,
+   "from": "Kopp",
+   "to": "Kop",
+   "why": "Benjamin Kop, Donders"
+  },
+  {
+   "near_s": 2376.33,
+   "from": "Guillaume Secus",
+   "to": "Guillaume Sescousse",
+   "why": "Lyon; primary vs secondary reward fMRI"
+  },
+  {
+   "near_s": 2951.47,
+   "from": "Plant Biology",
+   "to": "PLOS Biology",
+   "why": "Murphy & Fouragnan 2024, PLOS Biol"
+  },
+  {
+   "near_s": 4483.36,
+   "from": "nauseous",
+   "to": "noxious",
+   "why": "noxious heat stimulus"
+  },
+  {
+   "near_s": 4743.6,
+   "from": "harp",
+   "to": "heart",
+   "why": "finger/hand heart gesture for the photo"
+  },
+  {
+   "near_s": 4744.34,
+   "from": "harp",
+   "to": "heart",
+   "why": "finger/hand heart gesture for the photo"
+  },
+  {
+   "near_s": 4746.78,
+   "from": "harp",
+   "to": "heart",
+   "why": "hand heart gesture"
+  },
+  {
+   "near_s": 4776.6,
+   "from": "Ben Skop a PhD",
+   "to": "Ben Kop's PhD",
+   "why": "examiner of Ben Kop's PhD (Kop et al., eLife 2024)"
+  },
+  {
+   "near_s": 1648.84,
+   "from": "brain side",
+   "to": "Brainsight",
+   "why": "Brainsight neuronavigation (Rogue Research)"
+  },
+  {
+   "near_s": 2148.88,
+   "from": "acoustic stimulation",
+   "to": "acoustic simulation",
+   "why": "simulating the beam through the skull ('the skull problem')"
+  },
+  {
+   "near_s": 4192.77,
+   "from": "basoganglia",
+   "to": "basal ganglia",
+   "why": "basal ganglia neurons"
+  },
+  {
+   "near_s": 2915.33,
+   "from": "Dad's a good reviewer",
+   "to": "That's a good reviewer",
+   "why": "medium; text decisive (Elsa thanking Charles's review)"
+  },
+  {
+   "near_s": 3064.27,
+   "from": "Marjan",
+   "to": "Mahjong",
+   "why": "phone game (Mahjong); medium, context decisive"
+  },
+  {
+   "near_s": 350.6,
+   "from": "Jerome",
+   "to": "Jérôme",
+   "why": "Jérôme Sallet (Oxford, with Miriam and Lennart)"
+  },
+  {
+   "near_s": 1864.2,
+   "from": "fun '22",
+   "to": "FUN '22",
+   "why": "the FUN 2022 meeting (as at 0:56)"
+  }
+ ],
+ "uncertain": [
+  {
+   "i": 3890,
+   "why": "very low confidence"
+  },
+  {
+   "i": 9769,
+   "why": "very low confidence"
+  },
+  {
+   "i": 9869,
+   "why": "low confidence; possibly 'Mahjong'"
+  },
+  {
+   "i": 13839,
+   "why": "very low confidence"
+  },
+  {
+   "i": 13850,
+   "why": "very low confidence"
+  },
+  {
+   "i": 14341,
+   "why": "very low confidence"
+  },
+  {
+   "i": 14649,
+   "why": "very low confidence"
+  },
+  {
+   "i": 15119,
+   "why": "very low confidence"
+  },
+  {
+   "i": 15147,
+   "why": "very low confidence"
+  },
+  {
+   "near_s": 922.99,
+   "text": "Matt",
+   "why": "nobody named Matt is present; garbled; medium"
+  }
+ ],
+ "speaker": [
+  {
+   "near_s": 161.66,
+   "text": "FUSI?",
+   "who": "Keith Murphy",
+   "why": "end of Keith's question 'What's FUSI?'"
+  },
+  {
+   "near_s": 636.71,
+   "text": "it into the-",
+   "who": "Elsa Fouragnan",
+   "why": "Elsa finishing 'You put it into the-'; Keith's question starts 'Are there other'"
+  },
+  {
+   "near_s": 1482.92,
+   "text": "sound",
+   "who": "Keith Murphy",
+   "why": "end of Keith's 'density and speed of sound'"
+  },
+  {
+   "near_s": 2247.83,
+   "text": "how does it relate to addiction?",
+   "who": "Keith Murphy",
+   "why": "ends Keith's question"
+  },
+  {
+   "near_s": 2267.87,
+   "text": "they're throwing cash on the table.",
+   "who": "Keith Murphy",
+   "why": "Keith's joke continuing 'they're rolling dice' (voice agrees or is inconclusive: 0.60 to Keith; best other Charles 0.13)"
+  },
+  {
+   "near_s": 2571.47,
+   "text": "Which one?",
+   "who": "Keith Murphy",
+   "why": "end of the host question 'Are we getting reward before ... or after we enjoy the juice? Which one?'"
+  },
+  {
+   "near_s": 2915.33,
+   "text": "Charles.",
+   "who": "Elsa Fouragnan",
+   "why": "Elsa's 'Thanks, Charles.'"
+  },
+  {
+   "near_s": 3635.27,
+   "text": "guys feel about it?",
+   "who": "Keith Murphy",
+   "why": "ends Keith's 'How do you guys feel about it?'"
+  },
+  {
+   "near_s": 3978.86,
+   "text": "read it.",
+   "who": "Keith Murphy",
+   "why": "Keith's 'Sorry I haven't read it.'"
+  },
+  {
+   "near_s": 4564.84,
+   "text": "parse that out.",
+   "who": "Keith Murphy",
+   "why": "Keith's 'Trying to parse that out.'"
+  },
+  {
+   "near_s": 2261.2,
+   "text": "I, I like gambling task",
+   "who": "Keith Murphy",
+   "why": "host aside after Elsa's 'probabilistic learning task'; voice host (KM 0.28 / CC 0.27, Elsa 0.08); Keith continues"
+  },
+  {
+   "near_s": 2263.1,
+   "text": "gambling task. So it's just a, a task where-",
+   "who": "Elsa Fouragnan",
+   "why": "Elsa resuming her explanation; voice EF 0.70 vs KM -0.03"
+  },
+  {
+   "near_s": 2398.0,
+   "text": "you will like juice.",
+   "who": "Elsa Fouragnan",
+   "why": "ends Elsa's 'if you're thirsty, I can tell you that you-'; voice EF 0.34 vs CC 0.06"
+  },
+  {
+   "near_s": 2401.9,
+   "text": "Please come to the session parched, bone dry.",
+   "who": "Keith Murphy",
+   "why": "voice KM 0.48 vs CC 0.28; Keith's joke"
+  },
+  {
+   "near_s": 1482.9,
+   "text": "Yeah.",
+   "who": "Elsa Fouragnan",
+   "why": "Elsa's acknowledgement before 'So CT scans are...' (medium; 0 s, text only)"
+  }
+ ]
+}

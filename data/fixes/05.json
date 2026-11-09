@@ -1,0 +1,126 @@
+{
+ "_note": "Claude's review of out/flags/05.json. 'fix' may only swap a flagged span for a listed term; 'uncertain' words are marked in the output, not changed (by raw word index 'i', or by text anchor 'near_s' + 'text'). Every other flag was checked and kept as transcribed. 'replace' (word corrections) and the text-anchored 'uncertain' entries come from a read-through audit of the transcripts; they are text-based, not checked against the audio: high-confidence corrections are applied, medium ones that need the audio are only marked uncertain. 'speaker' entries are reviewed speaker corrections from the same audit, applied after the voice naming.",
+ "fix": [
+  {
+   "i": 842,
+   "k": 2,
+   "from": "Casey Halperin",
+   "to": "Casey Halpern",
+   "why": "neurosurgeon, nucleus accumbens DBS"
+  }
+ ],
+ "replace": [
+  {
+   "near_s": 371.54,
+   "from": "dreads",
+   "to": "DREADDs",
+   "why": "chemogenetic receptors, compared with his optoXRs"
+  },
+  {
+   "near_s": 373.06,
+   "from": "Dreads",
+   "to": "DREADDs",
+   "why": "chemogenetic receptors"
+  },
+  {
+   "near_s": 373.2,
+   "from": "dreads",
+   "to": "DREADDs",
+   "why": "chemogenetic receptors"
+  },
+  {
+   "near_s": 379.8,
+   "from": "optox ours",
+   "to": "optoXRs",
+   "why": "Airan et al. 2009 Nature, optogenetic GPCR chimeras"
+  },
+  {
+   "near_s": 406.94,
+   "from": "Hunda",
+   "to": "Hundo",
+   "why": "Keith repeats 'the rare Hundo' (100%)"
+  },
+  {
+   "near_s": 2199.46,
+   "from": "Mike Nedergaard",
+   "to": "Maiken Nedergaard",
+   "why": "coined 'glymphatic'"
+  },
+  {
+   "near_s": 1249.33,
+   "from": "Harriet Leah Banks",
+   "to": "Harriet Lea-Banks",
+   "why": "Sunnybrook nanodroplets"
+  },
+  {
+   "near_s": 2604.1,
+   "from": "hints piezo, Terps, the all that got caught up",
+   "to": "hence Piezo, TRPs, all that get caught up",
+   "why": "GsMTx4 blocks Piezo and TRP channels"
+  },
+  {
+   "near_s": 2580.56,
+   "from": "GSMTX4",
+   "to": "GsMTx4",
+   "why": "the spider-venom peptide blocker GsMTx4"
+  },
+  {
+   "near_s": 2852.56,
+   "from": "Yoda 1",
+   "to": "Yoda1",
+   "why": "the Piezo1 agonist Yoda1"
+  }
+ ],
+ "uncertain": [
+  {
+   "i": 1034,
+   "why": "unclear ('optimists')"
+  },
+  {
+   "i": 435,
+   "why": "very low confidence"
+  },
+  {
+   "i": 2276,
+   "why": "very low confidence"
+  },
+  {
+   "i": 4650,
+   "why": "very low confidence"
+  },
+  {
+   "i": 6157,
+   "why": "very low confidence"
+  },
+  {
+   "i": 6158,
+   "why": "very low confidence"
+  },
+  {
+   "i": 6746,
+   "why": "very low confidence"
+  },
+  {
+   "i": 9147,
+   "why": "very low confidence"
+  },
+  {
+   "i": 10408,
+   "why": "very low confidence"
+  },
+  {
+   "i": 12600,
+   "why": "very low confidence"
+  },
+  {
+   "i": 13084,
+   "why": "very low confidence"
+  },
+  {
+   "near_s": 308.94,
+   "text": "optimists",
+   "why": "probably 'optoXRs'; medium"
+  }
+ ],
+ "speaker": []
+}

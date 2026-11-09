@@ -1,0 +1,118 @@
+{
+ "_note": "Claude's review of out/flags/02.json. 'fix' may only swap a flagged span for a listed term; 'uncertain' words are marked in the output, not changed (by raw word index 'i', or by text anchor 'near_s' + 'text'). Every other flag was checked and kept as transcribed. 'replace' (word corrections) and the text-anchored 'uncertain' entries come from a read-through audit of the transcripts; they are text-based, not checked against the audio: high-confidence corrections are applied, medium ones that need the audio are only marked uncertain. 'speaker' entries are reviewed speaker corrections from the same audit, applied after the voice naming.",
+ "fix": [
+  {
+   "i": 1507,
+   "k": 1,
+   "from": "Rayleigh-Poissett",
+   "to": "Rayleigh-Plesset",
+   "why": "the bubble-dynamics equation"
+  },
+  {
+   "i": 4350,
+   "k": 1,
+   "from": "k-plan",
+   "to": "k-Plan",
+   "why": "the simulation software"
+  },
+  {
+   "i": 7445,
+   "k": 2,
+   "from": "Marion Plaz",
+   "to": "Marion Plaze",
+   "why": "psychiatrist, coauthor with Attali and Aubry on the depression study"
+  }
+ ],
+ "replace": [
+  {
+   "near_s": 382.04,
+   "from": "Song Jin Yu",
+   "to": "Sangjin Yoo",
+   "why": "Yoo ... Shapiro, Nat Commun 2022, the paper described"
+  },
+  {
+   "near_s": 409.34,
+   "from": "Shai Shohem",
+   "to": "Shy Shoham",
+   "why": "NICE model, Shoham & Lemaire"
+  },
+  {
+   "near_s": 707.3,
+   "from": "Steve Backus",
+   "to": "Steve Baccus",
+   "why": "Stephen Baccus, Stanford retina (series-wide S4)"
+  },
+  {
+   "near_s": 164.72,
+   "from": "Saint trials",
+   "to": "SAINT trial",
+   "why": "Stanford SAINT accelerated TMS trial, halted early for efficacy"
+  },
+  {
+   "near_s": 1017.81,
+   "from": "Draw us some money",
+   "to": "Throw us some money",
+   "why": "'throw us some money' (asking a funder); medium, text decisive"
+  },
+  {
+   "near_s": 1294.57,
+   "from": "k-plan",
+   "to": "k-Plan",
+   "why": "k-Plan, the planning software from k-Wave's authors; spelt k-Plan at 23:17"
+  }
+ ],
+ "uncertain": [
+  {
+   "i": 1583,
+   "why": "low confidence on a name ('Maral')"
+  },
+  {
+   "i": 3634,
+   "why": "very low confidence"
+  },
+  {
+   "i": 4938,
+   "why": "very low confidence"
+  },
+  {
+   "i": 6800,
+   "why": "very low confidence"
+  },
+  {
+   "i": 7070,
+   "why": "very low confidence"
+  },
+  {
+   "i": 7072,
+   "why": "very low confidence"
+  },
+  {
+   "i": 7117,
+   "why": "very low confidence"
+  },
+  {
+   "near_s": 352.8,
+   "text": "name",
+   "why": "probably 'Shapiro's lab'; medium"
+  },
+  {
+   "near_s": 362.4,
+   "text": "name",
+   "why": "probably 'Shapiro's lab'; medium"
+  }
+ ],
+ "speaker": [
+  {
+   "near_s": 123.92,
+   "text": "four.",
+   "who": "Keith Murphy",
+   "why": "Keith finishing his own rating ('I will give it a, a four'); Charles only echoes 'A four.'"
+  },
+  {
+   "near_s": 1861.65,
+   "text": "two-",
+   "who": "Charles Caskey",
+   "why": "Charles finishing his rating (he said 'Two' at 30:38)"
+  }
+ ]
+}

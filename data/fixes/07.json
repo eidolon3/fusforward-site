@@ -1,0 +1,233 @@
+{
+ "_note": "Claude's review of out/flags/07.json. 'fix' may only swap a flagged span for a listed term; 'uncertain' words are marked in the output, not changed (by raw word index 'i', or by text anchor 'near_s' + 'text'). Every other flag was checked and kept as transcribed. 'replace' (word corrections) and the text-anchored 'uncertain' entries come from a read-through audit of the transcripts; they are text-based, not checked against the audio: high-confidence corrections are applied, medium ones that need the audio are only marked uncertain. 'speaker' entries are reviewed speaker corrections from the same audit, applied after the voice naming.",
+ "fix": [
+  {
+   "i": 3348,
+   "k": 2,
+   "from": "Ellie Martin",
+   "to": "Elly Martin",
+   "why": "the guest's name"
+  },
+  {
+   "i": 9471,
+   "k": 2,
+   "from": "Ellie Martin",
+   "to": "Elly Martin",
+   "why": "the guest's name"
+  },
+  {
+   "i": 12566,
+   "k": 1,
+   "from": "iTrust",
+   "to": "ITRUSST",
+   "why": "the consortium, said as a word"
+  },
+  {
+   "i": 12883,
+   "k": 1,
+   "from": "iTrust",
+   "to": "ITRUSST",
+   "why": "the consortium, said as a word"
+  }
+ ],
+ "replace": [
+  {
+   "near_s": 749.78,
+   "from": "Ellie",
+   "to": "Elly",
+   "why": "guest is Elly Martin; the earlier fix only covered 'Ellie Martin'"
+  },
+  {
+   "near_s": 952.4,
+   "from": "Ellie",
+   "to": "Elly",
+   "why": "guest is Elly Martin; the earlier fix only covered 'Ellie Martin'"
+  },
+  {
+   "near_s": 964.74,
+   "from": "Ellie",
+   "to": "Elly",
+   "why": "guest is Elly Martin; the earlier fix only covered 'Ellie Martin'"
+  },
+  {
+   "near_s": 1210.12,
+   "from": "Ellie",
+   "to": "Elly",
+   "why": "guest is Elly Martin; the earlier fix only covered 'Ellie Martin'"
+  },
+  {
+   "near_s": 2290.34,
+   "from": "Ellie",
+   "to": "Elly",
+   "why": "guest is Elly Martin; the earlier fix only covered 'Ellie Martin'"
+  },
+  {
+   "near_s": 2338.08,
+   "from": "Ellie",
+   "to": "Elly",
+   "why": "guest is Elly Martin; the earlier fix only covered 'Ellie Martin'"
+  },
+  {
+   "near_s": 2548.06,
+   "from": "Ellie",
+   "to": "Elly",
+   "why": "guest is Elly Martin; the earlier fix only covered 'Ellie Martin'"
+  },
+  {
+   "near_s": 2549.98,
+   "from": "Ellie",
+   "to": "Elly",
+   "why": "guest is Elly Martin; the earlier fix only covered 'Ellie Martin'"
+  },
+  {
+   "near_s": 2704.51,
+   "from": "Ellie",
+   "to": "Elly",
+   "why": "guest is Elly Martin; the earlier fix only covered 'Ellie Martin'"
+  },
+  {
+   "near_s": 3341.12,
+   "from": "Ellie",
+   "to": "Elly",
+   "why": "guest is Elly Martin; the earlier fix only covered 'Ellie Martin'"
+  },
+  {
+   "near_s": 940.46,
+   "from": "Jay Sun",
+   "to": "Jie Sun",
+   "why": "Jie Sun, the 1990s skull-modelling work with Hynynen (as in ep 1); medium"
+  }
+ ],
+ "uncertain": [
+  {
+   "i": 2039,
+   "why": "joke name"
+  },
+  {
+   "i": 4483,
+   "why": "low confidence on a name ('JSUN')"
+  },
+  {
+   "i": 4486,
+   "why": "low confidence on a name ('Claro')"
+  },
+  {
+   "i": 12345,
+   "why": "low confidence on a name ('Burness')"
+  },
+  {
+   "i": 13350,
+   "why": "joke name"
+  },
+  {
+   "i": 13351,
+   "why": "joke name"
+  },
+  {
+   "i": 13353,
+   "why": "joke name"
+  },
+  {
+   "i": 13379,
+   "why": "joke name"
+  },
+  {
+   "i": 124,
+   "why": "very low confidence"
+  },
+  {
+   "i": 4283,
+   "why": "very low confidence"
+  },
+  {
+   "i": 11055,
+   "why": "very low confidence"
+  },
+  {
+   "i": 12979,
+   "why": "very low confidence"
+  },
+  {
+   "i": 13308,
+   "why": "very low confidence"
+  },
+  {
+   "near_s": 3192.67,
+   "text": "Brett",
+   "why": "probably 'wait'; medium"
+  },
+  {
+   "near_s": 1297.78,
+   "text": "JSUN",
+   "why": "a hemispheric-array maker; probably not Jie Sun; needs the audio (medium)"
+  }
+ ],
+ "speaker": [
+  {
+   "near_s": 1905.26,
+   "text": "Um, but yeah, so our solution-",
+   "who": "Elly Martin",
+   "why": "Elly continuing her hair answer; she resumes 'Our solution was just please remove your hair' (voice agrees or is inconclusive: 0.60 to Elly; best other Charles 0.06)"
+  },
+  {
+   "near_s": 1918.52,
+   "text": "Yeah. We're, we're-",
+   "who": "Charles Caskey",
+   "why": "Charles answering Elly's 'what do you do, Charles?' (continues 'we're looking at populations')"
+  },
+  {
+   "near_s": 1919.18,
+   "text": "You don't ask them",
+   "who": "Keith Murphy",
+   "why": "Keith's monkey joke"
+  },
+  {
+   "near_s": 2179.46,
+   "text": "where you were kind of wondering",
+   "who": "Keith Murphy",
+   "why": "one Keith sentence chopped KM/CC ('Elly, we had a cool conversation ... where you were kind of wondering if neuroscience was getting too crowded') (voice agrees or is inconclusive: 0.60 to Keith; best other Charles 0.32)"
+  },
+  {
+   "near_s": 2194.92,
+   "text": "Have you",
+   "who": "Keith Murphy",
+   "why": "same Keith sentence ('Have you made any headway')"
+  },
+  {
+   "near_s": 993.0,
+   "text": "can-",
+   "who": "Charles Caskey",
+   "why": "ends Charles's '\"Hey, we can-\"' before Keith's question"
+  },
+  {
+   "near_s": 1355.8,
+   "text": "like all wrong.",
+   "who": "Charles Caskey",
+   "why": "ends Charles's 'you don't wanna like say something completely- ... like all wrong'"
+  },
+  {
+   "near_s": 1847.06,
+   "text": "So if the hair-",
+   "who": "Keith Murphy",
+   "why": "voice KM 0.37 vs CC 0.31; host aside before Charles's 'You can't characterize our listeners...'"
+  },
+  {
+   "near_s": 1852.1,
+   "text": "Oh, no. Yeah, they should sound more-",
+   "who": "Keith Murphy",
+   "why": "voice KM 0.27 vs CC 0.09; Charles answers 'Gruff, ape-like.'"
+  },
+  {
+   "near_s": 2122.68,
+   "text": "Well, the risk for sure, right? The risk is so low-",
+   "who": "Keith Murphy",
+   "why": "Keith cutting in after Charles's 'And I think-'; he resumes '... with what we do. So why do we need to be perfect first shot?' (voice ties CC 0.29 / KM 0.27)"
+  },
+  {
+   "near_s": 2125.4,
+   "text": "with what we do.",
+   "who": "Keith Murphy",
+   "why": "Keith's sentence resumed after Charles's 'Yeah, sure'"
+  }
+ ]
+}

@@ -1,0 +1,9832 @@
+{
+ "raw": "19",
+ "label_names": {
+  "speaker_2": "Charles Caskey",
+  "speaker_0": "Keith Murphy",
+  "speaker_1": "Lennart Verhagen"
+ },
+ "label_similarity": {
+  "speaker_0": {
+   "Charles Caskey": 0.5333315134048462,
+   "Intro narrator": 0.08288482576608658,
+   "Keith Murphy": 0.8662470579147339
+  },
+  "speaker_1": {
+   "Charles Caskey": 0.14889174699783325,
+   "Intro narrator": 0.0025199688971042633,
+   "Keith Murphy": 0.2994154691696167
+  },
+  "speaker_2": {
+   "Charles Caskey": 0.907126784324646,
+   "Intro narrator": 0.048095423728227615,
+   "Keith Murphy": 0.21305996179580688
+  }
+ },
+ "turns_moved": {
+  "Keith Murphy -> Charles Caskey": 43,
+  "Keith Murphy -> Intro narrator": 2,
+  "Lennart Verhagen -> Keith Murphy": 10,
+  "Lennart Verhagen -> Charles Caskey": 12,
+  "Charles Caskey -> Keith Murphy": 3
+ },
+ "talk_min": {
+  "Lennart Verhagen": 25.4,
+  "Keith Murphy": 8.2,
+  "Charles Caskey": 6.1,
+  "Intro narrator": 0.1
+ },
+ "low_turns": 18,
+ "turns": [
+  {
+   "start": 0.3,
+   "end": 5.28,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.714,
+   "alt": "Intro narrator",
+   "alt_sim": 0.051,
+   "how": "voice"
+  },
+  {
+   "start": 5.84,
+   "end": 8.3,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.483,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.092,
+   "how": "voice"
+  },
+  {
+   "start": 9.54,
+   "end": 10.76,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": -0.048,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.256,
+   "low": 1
+  },
+  {
+   "start": 13.1,
+   "end": 15.92,
+   "label": "speaker_0",
+   "name": "Intro narrator",
+   "sim": 0.722,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.069,
+   "how": "voice"
+  },
+  {
+   "start": 15.94,
+   "end": 16.44,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 16.56,
+   "end": 22.48,
+   "label": "speaker_0",
+   "name": "Intro narrator",
+   "sim": 0.91,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.076,
+   "how": "voice"
+  },
+  {
+   "start": 23.58,
+   "end": 25.24,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.607,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.199
+  },
+  {
+   "start": 26.06,
+   "end": 26.62,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 26.64,
+   "end": 27.78,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.551,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.258,
+   "how": "voice"
+  },
+  {
+   "start": 28.78,
+   "end": 28.98,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 30.72,
+   "end": 32.36,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.471,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.034,
+   "how": "voice"
+  },
+  {
+   "start": 33.6,
+   "end": 33.74,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 33.88,
+   "end": 34.66,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 34.94,
+   "end": 35.84,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": -0.093,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.263,
+   "low": 1
+  },
+  {
+   "start": 35.94,
+   "end": 35.94,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 35.94,
+   "end": 37.6,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.468,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.111,
+   "how": "voice"
+  },
+  {
+   "start": 37.78,
+   "end": 41.26,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.673,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.172
+  },
+  {
+   "start": 41.72,
+   "end": 41.8,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 42.68,
+   "end": 43.5,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.117,
+   "alt": "Intro narrator",
+   "alt_sim": 0.159,
+   "low": 1
+  },
+  {
+   "start": 45.26,
+   "end": 45.3,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 45.34,
+   "end": 49.32,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.517,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.243
+  },
+  {
+   "start": 49.54,
+   "end": 53.42,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.721,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.237,
+   "how": "voice"
+  },
+  {
+   "start": 53.84,
+   "end": 55.86,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.534,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.119
+  },
+  {
+   "start": 56.94,
+   "end": 57.04,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 57.12,
+   "end": 59.04,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.484,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.229,
+   "how": "voice"
+  },
+  {
+   "start": 59.7,
+   "end": 61.98,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.694,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.154,
+   "how": "voice"
+  },
+  {
+   "start": 62.42,
+   "end": 63.78,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.681,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.212,
+   "how": "voice"
+  },
+  {
+   "start": 63.88,
+   "end": 65.7,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.602,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.35,
+   "how": "voice"
+  },
+  {
+   "start": 65.76,
+   "end": 68.36,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.636,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.21,
+   "how": "voice (sentence)"
+  },
+  {
+   "start": 68.88,
+   "end": 71.62,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.702,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.174
+  },
+  {
+   "start": 72.16,
+   "end": 73.2,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.365,
+   "alt": "Intro narrator",
+   "alt_sim": 0.026,
+   "how": "voice (run)"
+  },
+  {
+   "start": 73.84,
+   "end": 74.86,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.365,
+   "alt": "Intro narrator",
+   "alt_sim": 0.026,
+   "how": "voice (run)"
+  },
+  {
+   "start": 74.9,
+   "end": 74.98,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 74.98,
+   "end": 76.28,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.518,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.148,
+   "how": "voice"
+  },
+  {
+   "start": 78.5,
+   "end": 80.16,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.304,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.048
+  },
+  {
+   "start": 81.12,
+   "end": 83.22,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.744,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.205
+  },
+  {
+   "start": 83.26,
+   "end": 87.04,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.661,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.192
+  },
+  {
+   "start": 87.16,
+   "end": 89.02,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.301,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.411
+  },
+  {
+   "start": 89.8,
+   "end": 91.22,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": -0.035,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.207,
+   "low": 1
+  },
+  {
+   "start": 92.7,
+   "end": 96.3,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.547,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.31
+  },
+  {
+   "start": 96.82,
+   "end": 97.6,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 98.22,
+   "end": 98.66,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 98.7,
+   "end": 98.78,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 99.62,
+   "end": 101.18,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.446,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.199,
+   "how": "voice"
+  },
+  {
+   "start": 101.2,
+   "end": 103.28,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.547,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.17,
+   "how": "voice"
+  },
+  {
+   "start": 103.78,
+   "end": 105.82,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.627,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.294,
+   "how": "voice"
+  },
+  {
+   "start": 106.78,
+   "end": 107.98,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.412,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.137,
+   "how": "voice"
+  },
+  {
+   "start": 108.14,
+   "end": 113.5,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.812,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.147,
+   "how": "voice"
+  },
+  {
+   "start": 114.04,
+   "end": 120.28,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.809,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.138,
+   "how": "voice"
+  },
+  {
+   "start": 120.38,
+   "end": 127.56,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.818,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.224,
+   "how": "voice"
+  },
+  {
+   "start": 127.64,
+   "end": 131.14,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.764,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.179,
+   "how": "voice"
+  },
+  {
+   "start": 132.0,
+   "end": 133.48,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.535,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.235
+  },
+  {
+   "start": 133.48,
+   "end": 134.96,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.643,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.277
+  },
+  {
+   "start": 135.72,
+   "end": 144.06,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.847,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.374
+  },
+  {
+   "start": 144.1,
+   "end": 145.3,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.567,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.267
+  },
+  {
+   "start": 146.24,
+   "end": 148.1,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.423,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.2
+  },
+  {
+   "start": 149.04,
+   "end": 153.7,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.749,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.294
+  },
+  {
+   "start": 154.24,
+   "end": 162.02,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.82,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.28
+  },
+  {
+   "start": 162.92,
+   "end": 163.5,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 163.54,
+   "end": 163.64,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 163.74,
+   "end": 164.12,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 164.26,
+   "end": 166.82,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.659,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.216
+  },
+  {
+   "start": 167.78,
+   "end": 169.34,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.451,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.205
+  },
+  {
+   "start": 170.3,
+   "end": 170.42,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 170.54,
+   "end": 170.76,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 170.76,
+   "end": 179.62,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.908,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.249
+  },
+  {
+   "start": 180.52,
+   "end": 183.54,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.828,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.225
+  },
+  {
+   "start": 184.0,
+   "end": 185.7,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.681,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.098
+  },
+  {
+   "start": 186.46,
+   "end": 187.96,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.583,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.285
+  },
+  {
+   "start": 188.52,
+   "end": 188.9,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 188.96,
+   "end": 189.2,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 189.2,
+   "end": 189.2,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 189.98,
+   "end": 191.74,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.531,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.134
+  },
+  {
+   "start": 192.88,
+   "end": 193.26,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 193.38,
+   "end": 193.42,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 193.44,
+   "end": 193.78,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 194.48,
+   "end": 195.78,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.641,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.254
+  },
+  {
+   "start": 195.84,
+   "end": 201.56,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.858,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.23
+  },
+  {
+   "start": 202.2,
+   "end": 205.44,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.836,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.258
+  },
+  {
+   "start": 206.28,
+   "end": 206.28,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 206.28,
+   "end": 208.28,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.678,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.155
+  },
+  {
+   "start": 209.46,
+   "end": 210.32,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.463,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.092
+  },
+  {
+   "start": 210.8,
+   "end": 213.9,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.666,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.086
+  },
+  {
+   "start": 214.78,
+   "end": 214.98,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 215.58,
+   "end": 219.18,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.821,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.279
+  },
+  {
+   "start": 220.02,
+   "end": 220.08,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 220.74,
+   "end": 221.76,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.449,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.147
+  },
+  {
+   "start": 221.8,
+   "end": 226.16,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.819,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.35
+  },
+  {
+   "start": 226.7,
+   "end": 226.92,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 226.98,
+   "end": 227.0,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 227.0,
+   "end": 227.88,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.481,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.068
+  },
+  {
+   "start": 228.66,
+   "end": 228.88,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 228.98,
+   "end": 232.0,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.81,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.25
+  },
+  {
+   "start": 232.62,
+   "end": 232.7,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 232.7,
+   "end": 235.96,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.748,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.205
+  },
+  {
+   "start": 236.84,
+   "end": 237.82,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.519,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.152
+  },
+  {
+   "start": 239.24,
+   "end": 239.74,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 239.9,
+   "end": 239.9,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 239.9,
+   "end": 243.54,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.809,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.189
+  },
+  {
+   "start": 244.06,
+   "end": 244.56,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 245.24,
+   "end": 246.24,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.494,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.189
+  },
+  {
+   "start": 246.88,
+   "end": 247.88,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.669,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.181
+  },
+  {
+   "start": 248.54,
+   "end": 249.76,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.66,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.124
+  },
+  {
+   "start": 250.06,
+   "end": 253.78,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.808,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.229
+  },
+  {
+   "start": 253.84,
+   "end": 254.92,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.667,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.196
+  },
+  {
+   "start": 255.54,
+   "end": 259.26,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.786,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.172
+  },
+  {
+   "start": 259.579,
+   "end": 259.579,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 259.6,
+   "end": 261.779,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.722,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.194
+  },
+  {
+   "start": 261.8,
+   "end": 261.82,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 261.82,
+   "end": 262.86,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.63,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.223
+  },
+  {
+   "start": 263.48,
+   "end": 265.5,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.662,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.189
+  },
+  {
+   "start": 265.52,
+   "end": 265.72,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 265.76,
+   "end": 268.68,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.726,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.182
+  },
+  {
+   "start": 269.48,
+   "end": 269.78,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 269.8,
+   "end": 270.02,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 270.08,
+   "end": 274.56,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.764,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.286
+  },
+  {
+   "start": 274.6,
+   "end": 274.88,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 274.96,
+   "end": 275.6,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 275.62,
+   "end": 275.8,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 275.8,
+   "end": 277.68,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.55,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.162,
+   "how": "voice"
+  },
+  {
+   "start": 277.9,
+   "end": 278.46,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 278.48,
+   "end": 278.6,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 279.0,
+   "end": 282.36,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.636,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.284,
+   "how": "voice (sentence)"
+  },
+  {
+   "start": 282.64,
+   "end": 283.8,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.439,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.233
+  },
+  {
+   "start": 283.9,
+   "end": 286.32,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.744,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.206
+  },
+  {
+   "start": 286.38,
+   "end": 287.44,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.647,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.236
+  },
+  {
+   "start": 287.46,
+   "end": 288.68,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.656,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.218
+  },
+  {
+   "start": 290.02,
+   "end": 290.22,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 290.72,
+   "end": 290.72,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 290.76,
+   "end": 291.98,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.585,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.29
+  },
+  {
+   "start": 293.82,
+   "end": 298.78,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.76,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.164,
+   "how": "voice"
+  },
+  {
+   "start": 298.84,
+   "end": 300.22,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.54,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.228,
+   "how": "voice"
+  },
+  {
+   "start": 300.4,
+   "end": 301.5,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.267,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.045,
+   "how": "voice"
+  },
+  {
+   "start": 301.74,
+   "end": 301.88,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 301.88,
+   "end": 303.22,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.139,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.284,
+   "low": 1
+  },
+  {
+   "start": 303.24,
+   "end": 308.2,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.651,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.28,
+   "how": "voice"
+  },
+  {
+   "start": 309.2,
+   "end": 310.5,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.041,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.255,
+   "low": 1
+  },
+  {
+   "start": 310.94,
+   "end": 310.94,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 310.96,
+   "end": 311.5,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 311.5,
+   "end": 311.64,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 311.64,
+   "end": 311.64,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 312.42,
+   "end": 315.5,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.697,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.164,
+   "how": "voice"
+  },
+  {
+   "start": 316.1,
+   "end": 323.072,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.718,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.176,
+   "how": "voice"
+  },
+  {
+   "start": 323.152,
+   "end": 327.272,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.792,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.106,
+   "how": "voice"
+  },
+  {
+   "start": 327.432,
+   "end": 327.432,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 327.432,
+   "end": 328.872,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.617,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.092,
+   "how": "voice"
+  },
+  {
+   "start": 328.892,
+   "end": 331.332,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.693,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.143,
+   "how": "voice"
+  },
+  {
+   "start": 331.392,
+   "end": 337.552,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.76,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.135,
+   "how": "voice"
+  },
+  {
+   "start": 338.052,
+   "end": 343.872,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.793,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.206,
+   "how": "voice"
+  },
+  {
+   "start": 343.892,
+   "end": 346.192,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.762,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.176
+  },
+  {
+   "start": 346.712,
+   "end": 352.632,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.872,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.145
+  },
+  {
+   "start": 353.412,
+   "end": 353.692,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 354.412,
+   "end": 358.572,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.691,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.222
+  },
+  {
+   "start": 358.972,
+   "end": 359.012,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 359.032,
+   "end": 362.212,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.782,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.283
+  },
+  {
+   "start": 362.932,
+   "end": 362.952,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 362.992,
+   "end": 364.732,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.656,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.112
+  },
+  {
+   "start": 365.052,
+   "end": 370.772,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.914,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.282
+  },
+  {
+   "start": 371.912,
+   "end": 374.512,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.631,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.274
+  },
+  {
+   "start": 375.172,
+   "end": 377.252,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.51,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.227
+  },
+  {
+   "start": 377.372,
+   "end": 378.512,
+   "label": "speaker_1",
+   "name": "Charles Caskey",
+   "sim": 0.376,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.137,
+   "how": "voice"
+  },
+  {
+   "start": 378.552,
+   "end": 379.152,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 380.532,
+   "end": 386.152,
+   "label": "speaker_1",
+   "name": "Charles Caskey",
+   "sim": 0.795,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.235,
+   "how": "voice"
+  },
+  {
+   "start": 386.212,
+   "end": 391.352,
+   "label": "speaker_1",
+   "name": "Charles Caskey",
+   "sim": 0.676,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.233,
+   "how": "voice"
+  },
+  {
+   "start": 391.852,
+   "end": 393.872,
+   "label": "speaker_1",
+   "name": "Charles Caskey",
+   "sim": 0.657,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.175,
+   "how": "voice"
+  },
+  {
+   "start": 393.932,
+   "end": 393.932,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 393.932,
+   "end": 394.492,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 394.532,
+   "end": 395.152,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 395.772,
+   "end": 405.412,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.866,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.273
+  },
+  {
+   "start": 405.912,
+   "end": 409.632,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.793,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.314
+  },
+  {
+   "start": 409.932,
+   "end": 409.932,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 409.972,
+   "end": 415.032,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.807,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.309
+  },
+  {
+   "start": 415.852,
+   "end": 417.292,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.708,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.093
+  },
+  {
+   "start": 417.352,
+   "end": 420.032,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.799,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.344
+  },
+  {
+   "start": 420.352,
+   "end": 420.472,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 420.532,
+   "end": 421.692,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.532,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.149
+  },
+  {
+   "start": 422.692,
+   "end": 428.132,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.901,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.22
+  },
+  {
+   "start": 428.712,
+   "end": 429.592,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.551,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.089
+  },
+  {
+   "start": 430.272,
+   "end": 430.272,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 430.352,
+   "end": 434.892,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.833,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.388
+  },
+  {
+   "start": 435.192,
+   "end": 439.592,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.858,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.283
+  },
+  {
+   "start": 440.232,
+   "end": 442.592,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.693,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.118
+  },
+  {
+   "start": 442.632,
+   "end": 442.712,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 442.752,
+   "end": 443.432,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 444.332,
+   "end": 444.372,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 444.432,
+   "end": 444.592,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 444.932,
+   "end": 445.132,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 445.392,
+   "end": 447.892,
+   "label": "speaker_1",
+   "name": "Charles Caskey",
+   "sim": 0.655,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.06,
+   "how": "voice"
+  },
+  {
+   "start": 447.972,
+   "end": 453.772,
+   "label": "speaker_1",
+   "name": "Charles Caskey",
+   "sim": 0.727,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.093,
+   "how": "voice"
+  },
+  {
+   "start": 454.352,
+   "end": 458.332,
+   "label": "speaker_1",
+   "name": "Charles Caskey",
+   "sim": 0.733,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.17,
+   "how": "voice"
+  },
+  {
+   "start": 459.052,
+   "end": 461.452,
+   "label": "speaker_1",
+   "name": "Charles Caskey",
+   "sim": 0.696,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.162,
+   "how": "voice"
+  },
+  {
+   "start": 461.692,
+   "end": 466.072,
+   "label": "speaker_1",
+   "name": "Charles Caskey",
+   "sim": 0.774,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.157,
+   "how": "voice"
+  },
+  {
+   "start": 466.152,
+   "end": 466.192,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 466.192,
+   "end": 467.132,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.032,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.377,
+   "low": 1
+  },
+  {
+   "start": 468.532,
+   "end": 470.252,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.698,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.239
+  },
+  {
+   "start": 470.392,
+   "end": 475.472,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.818,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.318
+  },
+  {
+   "start": 475.672,
+   "end": 475.752,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 475.752,
+   "end": 477.832,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.661,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.236
+  },
+  {
+   "start": 478.972,
+   "end": 479.452,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 479.492,
+   "end": 481.152,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.505,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.192
+  },
+  {
+   "start": 481.652,
+   "end": 483.632,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.73,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.238
+  },
+  {
+   "start": 483.672,
+   "end": 484.232,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 484.232,
+   "end": 486.332,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.668,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.218
+  },
+  {
+   "start": 487.512,
+   "end": 487.872,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 487.952,
+   "end": 488.112,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 488.832,
+   "end": 489.712,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.515,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.075
+  },
+  {
+   "start": 489.812,
+   "end": 490.192,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 490.192,
+   "end": 490.192,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 490.692,
+   "end": 492.472,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.627,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.341
+  },
+  {
+   "start": 492.612,
+   "end": 496.612,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.821,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.243
+  },
+  {
+   "start": 497.132,
+   "end": 499.552,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.748,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.148
+  },
+  {
+   "start": 499.612,
+   "end": 501.812,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.788,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.181
+  },
+  {
+   "start": 502.772,
+   "end": 503.012,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 503.752,
+   "end": 504.752,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.375,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.226
+  },
+  {
+   "start": 504.832,
+   "end": 510.692,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.876,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.261
+  },
+  {
+   "start": 511.312,
+   "end": 511.672,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 512.192,
+   "end": 512.932,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 513.552,
+   "end": 516.712,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.75,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.166
+  },
+  {
+   "start": 516.752,
+   "end": 516.952,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 516.952,
+   "end": 517.932,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.47,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.172
+  },
+  {
+   "start": 518.512,
+   "end": 521.472,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.724,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.167
+  },
+  {
+   "start": 521.992,
+   "end": 523.252,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.54,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.129
+  },
+  {
+   "start": 523.812,
+   "end": 523.972,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 524.052,
+   "end": 524.152,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 524.152,
+   "end": 524.152,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 524.952,
+   "end": 526.672,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.593,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.02
+  },
+  {
+   "start": 527.292,
+   "end": 529.252,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.789,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.181
+  },
+  {
+   "start": 529.832,
+   "end": 532.972,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.808,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.255
+  },
+  {
+   "start": 533.472,
+   "end": 536.952,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.797,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.21
+  },
+  {
+   "start": 537.172,
+   "end": 539.332,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.71,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.071
+  },
+  {
+   "start": 540.012,
+   "end": 542.912,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.755,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.117
+  },
+  {
+   "start": 543.652,
+   "end": 544.052,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 544.572,
+   "end": 546.112,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.67,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.169
+  },
+  {
+   "start": 546.672,
+   "end": 546.932,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 547.852,
+   "end": 549.652,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.67,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.081
+  },
+  {
+   "start": 550.312,
+   "end": 551.152,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.445,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.105
+  },
+  {
+   "start": 551.672,
+   "end": 554.812,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.816,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.255
+  },
+  {
+   "start": 554.832,
+   "end": 556.032,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.539,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.188
+  },
+  {
+   "start": 557.472,
+   "end": 560.452,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.824,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.236
+  },
+  {
+   "start": 561.232,
+   "end": 563.792,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.792,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.154
+  },
+  {
+   "start": 564.312,
+   "end": 567.472,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.745,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.298
+  },
+  {
+   "start": 568.292,
+   "end": 568.512,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 569.012,
+   "end": 572.592,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.803,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.104
+  },
+  {
+   "start": 572.752,
+   "end": 576.932,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.782,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.294
+  },
+  {
+   "start": 578.312,
+   "end": 581.292,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.795,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.305
+  },
+  {
+   "start": 582.272,
+   "end": 586.792,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.82,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.283
+  },
+  {
+   "start": 587.552,
+   "end": 590.312,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.799,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.284
+  },
+  {
+   "start": 590.932,
+   "end": 594.272,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.739,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.254
+  },
+  {
+   "start": 594.272,
+   "end": 594.272,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 594.292,
+   "end": 595.492,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.586,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.262
+  },
+  {
+   "start": 595.612,
+   "end": 595.732,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 595.732,
+   "end": 597.532,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.579,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.208
+  },
+  {
+   "start": 597.632,
+   "end": 597.632,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 597.652,
+   "end": 597.932,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 598.292,
+   "end": 598.352,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 598.352,
+   "end": 600.052,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.708,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.292
+  },
+  {
+   "start": 600.672,
+   "end": 601.072,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 601.152,
+   "end": 601.152,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 601.152,
+   "end": 604.852,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.761,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.275
+  },
+  {
+   "start": 604.972,
+   "end": 605.072,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 605.912,
+   "end": 610.472,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.83,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.208
+  },
+  {
+   "start": 611.112,
+   "end": 611.172,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 611.172,
+   "end": 613.952,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.686,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.204
+  },
+  {
+   "start": 613.972,
+   "end": 613.992,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 614.192,
+   "end": 615.992,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.544,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.143
+  },
+  {
+   "start": 616.592,
+   "end": 616.772,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 616.772,
+   "end": 616.892,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 616.932,
+   "end": 619.252,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.79,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.273
+  },
+  {
+   "start": 619.852,
+   "end": 619.972,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 621.012,
+   "end": 627.072,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.903,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.269
+  },
+  {
+   "start": 627.292,
+   "end": 627.532,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 627.612,
+   "end": 629.312,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.362,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.186
+  },
+  {
+   "start": 629.812,
+   "end": 630.872,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.357,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.238
+  },
+  {
+   "start": 630.872,
+   "end": 631.132,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 631.152,
+   "end": 635.592,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.751,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.229,
+   "how": "voice"
+  },
+  {
+   "start": 635.632,
+   "end": 638.152,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.711,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.294,
+   "how": "voice"
+  },
+  {
+   "start": 638.672,
+   "end": 644.652,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.837,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.145,
+   "how": "voice"
+  },
+  {
+   "start": 645.212,
+   "end": 651.752,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.82,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.165,
+   "how": "voice"
+  },
+  {
+   "start": 652.172,
+   "end": 652.172,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 652.172,
+   "end": 653.252,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.545,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.173,
+   "how": "voice"
+  },
+  {
+   "start": 653.352,
+   "end": 656.212,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.546,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.124,
+   "how": "voice"
+  },
+  {
+   "start": 656.332,
+   "end": 656.732,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 656.752,
+   "end": 665.692,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.833,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.277,
+   "how": "voice"
+  },
+  {
+   "start": 665.712,
+   "end": 670.812,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.712,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.29,
+   "how": "voice"
+  },
+  {
+   "start": 671.312,
+   "end": 671.312,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 671.332,
+   "end": 674.472,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.652,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.237,
+   "how": "voice"
+  },
+  {
+   "start": 675.012,
+   "end": 677.292,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.639,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.111
+  },
+  {
+   "start": 677.832,
+   "end": 680.152,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.76,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.205
+  },
+  {
+   "start": 680.892,
+   "end": 682.472,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.616,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.15
+  },
+  {
+   "start": 682.992,
+   "end": 684.512,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.611,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.13
+  },
+  {
+   "start": 685.096,
+   "end": 687.216,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.708,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.154
+  },
+  {
+   "start": 687.416,
+   "end": 687.516,
+   "label": "speaker_2",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 687.536,
+   "end": 687.956,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 688.036,
+   "end": 688.216,
+   "label": "speaker_2",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 688.216,
+   "end": 690.876,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.738,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.154
+  },
+  {
+   "start": 691.436,
+   "end": 692.156,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 692.716,
+   "end": 694.916,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.711,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.157
+  },
+  {
+   "start": 695.076,
+   "end": 699.176,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.772,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.203
+  },
+  {
+   "start": 699.676,
+   "end": 703.156,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.784,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.183
+  },
+  {
+   "start": 703.756,
+   "end": 705.296,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.613,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.112
+  },
+  {
+   "start": 705.416,
+   "end": 713.616,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.869,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.136
+  },
+  {
+   "start": 714.216,
+   "end": 714.216,
+   "label": "speaker_2",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 714.216,
+   "end": 716.816,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.763,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.211
+  },
+  {
+   "start": 717.036,
+   "end": 718.436,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.609,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.172
+  },
+  {
+   "start": 719.196,
+   "end": 720.616,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.695,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.202
+  },
+  {
+   "start": 721.296,
+   "end": 721.436,
+   "label": "speaker_2",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 721.536,
+   "end": 721.796,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 722.196,
+   "end": 724.256,
+   "label": "speaker_2",
+   "name": "Charles Caskey",
+   "sim": 0.616,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.143
+  },
+  {
+   "start": 724.896,
+   "end": 728.376,
+   "label": "speaker_2",
+   "name": "Charles Caskey",
+   "sim": 0.676,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.151
+  },
+  {
+   "start": 728.496,
+   "end": 733.836,
+   "label": "speaker_2",
+   "name": "Charles Caskey",
+   "sim": 0.783,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.196
+  },
+  {
+   "start": 733.896,
+   "end": 735.976,
+   "label": "speaker_2",
+   "name": "Charles Caskey",
+   "sim": 0.759,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.188
+  },
+  {
+   "start": 736.496,
+   "end": 737.096,
+   "label": "speaker_2",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 737.676,
+   "end": 743.436,
+   "label": "speaker_2",
+   "name": "Charles Caskey",
+   "sim": 0.86,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.19
+  },
+  {
+   "start": 743.536,
+   "end": 746.976,
+   "label": "speaker_2",
+   "name": "Charles Caskey",
+   "sim": 0.78,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.204
+  },
+  {
+   "start": 747.496,
+   "end": 752.416,
+   "label": "speaker_2",
+   "name": "Charles Caskey",
+   "sim": 0.858,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.188
+  },
+  {
+   "start": 752.516,
+   "end": 755.056,
+   "label": "speaker_2",
+   "name": "Charles Caskey",
+   "sim": 0.7,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.157
+  },
+  {
+   "start": 755.136,
+   "end": 756.536,
+   "label": "speaker_2",
+   "name": "Charles Caskey",
+   "sim": 0.641,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.114
+  },
+  {
+   "start": 757.216,
+   "end": 762.056,
+   "label": "speaker_2",
+   "name": "Charles Caskey",
+   "sim": 0.841,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.166
+  },
+  {
+   "start": 762.296,
+   "end": 762.356,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 762.456,
+   "end": 765.336,
+   "label": "speaker_2",
+   "name": "Charles Caskey",
+   "sim": 0.738,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.167
+  },
+  {
+   "start": 765.916,
+   "end": 768.196,
+   "label": "speaker_2",
+   "name": "Charles Caskey",
+   "sim": 0.814,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.179
+  },
+  {
+   "start": 768.856,
+   "end": 772.096,
+   "label": "speaker_2",
+   "name": "Charles Caskey",
+   "sim": 0.732,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.092
+  },
+  {
+   "start": 772.996,
+   "end": 775.256,
+   "label": "speaker_2",
+   "name": "Charles Caskey",
+   "sim": 0.651,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.019
+  },
+  {
+   "start": 775.416,
+   "end": 782.596,
+   "label": "speaker_2",
+   "name": "Charles Caskey",
+   "sim": 0.833,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.113
+  },
+  {
+   "start": 782.976,
+   "end": 783.056,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 783.996,
+   "end": 784.216,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 784.896,
+   "end": 787.096,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.541,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.098
+  },
+  {
+   "start": 787.116,
+   "end": 787.976,
+   "label": "speaker_2",
+   "name": "Charles Caskey",
+   "sim": 0.157,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.066,
+   "low": 1
+  },
+  {
+   "start": 788.576,
+   "end": 793.116,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.811,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.246
+  },
+  {
+   "start": 793.536,
+   "end": 793.536,
+   "label": "speaker_2",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 793.536,
+   "end": 796.716,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.793,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.155
+  },
+  {
+   "start": 796.856,
+   "end": 797.536,
+   "label": "speaker_2",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 798.276,
+   "end": 798.536,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 799.216,
+   "end": 799.676,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 800.356,
+   "end": 800.436,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 801.016,
+   "end": 807.096,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.827,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.219
+  },
+  {
+   "start": 807.776,
+   "end": 807.856,
+   "label": "speaker_2",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 808.676,
+   "end": 809.856,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.54,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.245
+  },
+  {
+   "start": 809.996,
+   "end": 810.036,
+   "label": "speaker_2",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 810.036,
+   "end": 810.636,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 811.196,
+   "end": 813.956,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.645,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.114
+  },
+  {
+   "start": 814.576,
+   "end": 816.176,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.628,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.2
+  },
+  {
+   "start": 816.236,
+   "end": 818.756,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.732,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.184
+  },
+  {
+   "start": 819.656,
+   "end": 823.916,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.808,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.289
+  },
+  {
+   "start": 824.496,
+   "end": 826.336,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.712,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.152
+  },
+  {
+   "start": 826.796,
+   "end": 831.456,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.788,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.213
+  },
+  {
+   "start": 831.956,
+   "end": 832.176,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 832.836,
+   "end": 833.316,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 834.196,
+   "end": 838.676,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.819,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.205
+  },
+  {
+   "start": 839.256,
+   "end": 841.716,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.703,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.086
+  },
+  {
+   "start": 842.456,
+   "end": 843.236,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 844.056,
+   "end": 844.316,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 844.876,
+   "end": 848.596,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.746,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.226
+  },
+  {
+   "start": 848.676,
+   "end": 850.536,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.665,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.112
+  },
+  {
+   "start": 851.356,
+   "end": 852.796,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.627,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.148
+  },
+  {
+   "start": 853.296,
+   "end": 855.036,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.67,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.151
+  },
+  {
+   "start": 855.096,
+   "end": 856.776,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.631,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.094
+  },
+  {
+   "start": 857.096,
+   "end": 858.796,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.631,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.083
+  },
+  {
+   "start": 859.076,
+   "end": 862.916,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.83,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.242
+  },
+  {
+   "start": 863.336,
+   "end": 865.136,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.734,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.183
+  },
+  {
+   "start": 865.936,
+   "end": 873.096,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.885,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.251
+  },
+  {
+   "start": 873.536,
+   "end": 873.596,
+   "label": "speaker_2",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 873.596,
+   "end": 877.936,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.822,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.21
+  },
+  {
+   "start": 878.536,
+   "end": 880.956,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.734,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.249
+  },
+  {
+   "start": 881.636,
+   "end": 886.056,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.805,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.187
+  },
+  {
+   "start": 886.156,
+   "end": 889.836,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.787,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.188
+  },
+  {
+   "start": 889.876,
+   "end": 891.216,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.54,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.066
+  },
+  {
+   "start": 891.856,
+   "end": 892.096,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 892.876,
+   "end": 896.396,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.824,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.29
+  },
+  {
+   "start": 896.476,
+   "end": 896.476,
+   "label": "speaker_2",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 896.476,
+   "end": 897.656,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.566,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.139
+  },
+  {
+   "start": 898.176,
+   "end": 899.396,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.609,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.162
+  },
+  {
+   "start": 900.136,
+   "end": 902.836,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.799,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.258
+  },
+  {
+   "start": 903.316,
+   "end": 904.696,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.504,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.18
+  },
+  {
+   "start": 904.736,
+   "end": 906.576,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.629,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.158
+  },
+  {
+   "start": 907.196,
+   "end": 911.256,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.877,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.23
+  },
+  {
+   "start": 911.956,
+   "end": 915.176,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.846,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.254
+  },
+  {
+   "start": 915.696,
+   "end": 916.116,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 916.176,
+   "end": 916.356,
+   "label": "speaker_2",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 916.776,
+   "end": 919.976,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.598,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.087
+  },
+  {
+   "start": 920.476,
+   "end": 923.916,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.839,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.307
+  },
+  {
+   "start": 924.616,
+   "end": 924.876,
+   "label": "speaker_2",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 924.896,
+   "end": 926.276,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.585,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.237
+  },
+  {
+   "start": 926.336,
+   "end": 929.856,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.799,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.208
+  },
+  {
+   "start": 930.496,
+   "end": 931.156,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 932.436,
+   "end": 932.616,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 932.636,
+   "end": 935.756,
+   "label": "speaker_2",
+   "name": "Keith Murphy",
+   "sim": 0.648,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.296,
+   "how": "voice"
+  },
+  {
+   "start": 935.856,
+   "end": 935.956,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 936.056,
+   "end": 938.036,
+   "label": "speaker_2",
+   "name": "Keith Murphy",
+   "sim": 0.652,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.357,
+   "how": "voice"
+  },
+  {
+   "start": 938.236,
+   "end": 938.456,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 939.036,
+   "end": 941.295,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.774,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.236
+  },
+  {
+   "start": 942.016,
+   "end": 944.276,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.763,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.171
+  },
+  {
+   "start": 945.035,
+   "end": 950.616,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.873,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.278
+  },
+  {
+   "start": 950.676,
+   "end": 952.136,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.708,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.285
+  },
+  {
+   "start": 952.916,
+   "end": 957.576,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.861,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.207
+  },
+  {
+   "start": 958.096,
+   "end": 962.036,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.833,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.247
+  },
+  {
+   "start": 962.556,
+   "end": 966.196,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.681,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.19
+  },
+  {
+   "start": 966.936,
+   "end": 968.816,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.523,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.22
+  },
+  {
+   "start": 968.876,
+   "end": 968.876,
+   "label": "speaker_2",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 968.896,
+   "end": 971.296,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.755,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.245
+  },
+  {
+   "start": 972.136,
+   "end": 974.836,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.665,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.161
+  },
+  {
+   "start": 975.436,
+   "end": 977.956,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.774,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.16
+  },
+  {
+   "start": 977.996,
+   "end": 980.756,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.802,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.258
+  },
+  {
+   "start": 981.416,
+   "end": 981.596,
+   "label": "speaker_2",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 981.756,
+   "end": 984.616,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.792,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.215
+  },
+  {
+   "start": 985.256,
+   "end": 986.476,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.657,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.079
+  },
+  {
+   "start": 987.276,
+   "end": 987.876,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 988.596,
+   "end": 989.396,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 989.516,
+   "end": 990.356,
+   "label": "speaker_2",
+   "name": "Charles Caskey",
+   "sim": 0.334,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.133
+  },
+  {
+   "start": 990.356,
+   "end": 990.636,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 990.636,
+   "end": 991.216,
+   "label": "speaker_2",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 991.236,
+   "end": 992.236,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.195,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.205,
+   "low": 1
+  },
+  {
+   "start": 992.616,
+   "end": 992.776,
+   "label": "speaker_2",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 992.876,
+   "end": 998.516,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.806,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.218
+  },
+  {
+   "start": 999.276,
+   "end": 1001.196,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.716,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.249
+  },
+  {
+   "start": 1001.856,
+   "end": 1005.416,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.829,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.24
+  },
+  {
+   "start": 1005.476,
+   "end": 1007.056,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.633,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.173
+  },
+  {
+   "start": 1008.016,
+   "end": 1011.756,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.791,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.21
+  },
+  {
+   "start": 1012.236,
+   "end": 1013.376,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.667,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.047
+  },
+  {
+   "start": 1014.136,
+   "end": 1014.216,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 1015.216,
+   "end": 1017.956,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.773,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.14
+  },
+  {
+   "start": 1018.216,
+   "end": 1020.436,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.692,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.232
+  },
+  {
+   "start": 1021.016,
+   "end": 1021.816,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.4,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.14
+  },
+  {
+   "start": 1021.896,
+   "end": 1021.996,
+   "label": "speaker_2",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1022.016,
+   "end": 1028.516,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.902,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.316
+  },
+  {
+   "start": 1029.256,
+   "end": 1029.436,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 1029.556,
+   "end": 1029.556,
+   "label": "speaker_2",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1029.556,
+   "end": 1034.616,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.847,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.254
+  },
+  {
+   "start": 1035.296,
+   "end": 1035.816,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 1036.356,
+   "end": 1036.716,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 1036.736,
+   "end": 1037.616,
+   "label": "speaker_2",
+   "name": "Keith Murphy",
+   "sim": 0.402,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.249,
+   "how": "voice"
+  },
+  {
+   "start": 1038.496,
+   "end": 1039.676,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.465,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.145
+  },
+  {
+   "start": 1039.996,
+   "end": 1041.636,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.653,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.175
+  },
+  {
+   "start": 1042.076,
+   "end": 1044.556,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.702,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.23
+  },
+  {
+   "start": 1045.096,
+   "end": 1047.356,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.743,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.273
+  },
+  {
+   "start": 1047.856,
+   "end": 1050.656,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.801,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.211
+  },
+  {
+   "start": 1050.696,
+   "end": 1056.136,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.881,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.269
+  },
+  {
+   "start": 1057.128,
+   "end": 1060.428,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.672,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.215
+  },
+  {
+   "start": 1061.488,
+   "end": 1064.008,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.671,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.199
+  },
+  {
+   "start": 1064.048,
+   "end": 1067.588,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.697,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.113
+  },
+  {
+   "start": 1069.448,
+   "end": 1075.068,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.757,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.188
+  },
+  {
+   "start": 1075.128,
+   "end": 1076.248,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.522,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.156
+  },
+  {
+   "start": 1076.308,
+   "end": 1080.388,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.837,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.268
+  },
+  {
+   "start": 1080.428,
+   "end": 1080.448,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1080.448,
+   "end": 1082.108,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.604,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.137
+  },
+  {
+   "start": 1082.708,
+   "end": 1084.108,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.602,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.162
+  },
+  {
+   "start": 1084.188,
+   "end": 1084.828,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1084.868,
+   "end": 1084.908,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 1084.948,
+   "end": 1088.448,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.746,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.3
+  },
+  {
+   "start": 1088.548,
+   "end": 1091.368,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.775,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.314
+  },
+  {
+   "start": 1091.908,
+   "end": 1094.348,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.808,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.349
+  },
+  {
+   "start": 1095.128,
+   "end": 1097.948,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.705,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.203
+  },
+  {
+   "start": 1098.028,
+   "end": 1098.208,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 1098.208,
+   "end": 1100.688,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.689,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.176
+  },
+  {
+   "start": 1101.048,
+   "end": 1101.248,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 1101.288,
+   "end": 1102.368,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.436,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.339
+  },
+  {
+   "start": 1103.148,
+   "end": 1106.588,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.67,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.216
+  },
+  {
+   "start": 1106.668,
+   "end": 1110.288,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.733,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.264
+  },
+  {
+   "start": 1110.428,
+   "end": 1110.668,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1111.128,
+   "end": 1112.208,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.352,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.224
+  },
+  {
+   "start": 1112.208,
+   "end": 1114.928,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.316,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.289
+  },
+  {
+   "start": 1115.028,
+   "end": 1115.808,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 1115.968,
+   "end": 1116.868,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.004,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.149,
+   "low": 1
+  },
+  {
+   "start": 1117.208,
+   "end": 1118.848,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.561,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.116
+  },
+  {
+   "start": 1119.248,
+   "end": 1121.388,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.767,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.198
+  },
+  {
+   "start": 1121.708,
+   "end": 1130.108,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.878,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.276
+  },
+  {
+   "start": 1130.848,
+   "end": 1131.028,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1131.308,
+   "end": 1134.508,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.779,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.167
+  },
+  {
+   "start": 1134.848,
+   "end": 1139.188,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.827,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.148
+  },
+  {
+   "start": 1139.248,
+   "end": 1140.468,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.673,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.091
+  },
+  {
+   "start": 1140.968,
+   "end": 1142.048,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.516,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.051
+  },
+  {
+   "start": 1142.588,
+   "end": 1144.248,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.269,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.32
+  },
+  {
+   "start": 1145.028,
+   "end": 1145.068,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 1145.068,
+   "end": 1145.128,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1145.628,
+   "end": 1149.288,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.784,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.201
+  },
+  {
+   "start": 1149.328,
+   "end": 1149.408,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1149.408,
+   "end": 1150.248,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.533,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.097
+  },
+  {
+   "start": 1150.988,
+   "end": 1153.268,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.723,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.233
+  },
+  {
+   "start": 1153.908,
+   "end": 1158.828,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.78,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.196
+  },
+  {
+   "start": 1158.908,
+   "end": 1161.228,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.678,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.199
+  },
+  {
+   "start": 1162.128,
+   "end": 1163.308,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.581,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.291
+  },
+  {
+   "start": 1163.868,
+   "end": 1165.108,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.675,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.163
+  },
+  {
+   "start": 1165.788,
+   "end": 1172.448,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.889,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.26
+  },
+  {
+   "start": 1172.528,
+   "end": 1180.768,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.896,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.214
+  },
+  {
+   "start": 1181.408,
+   "end": 1188.748,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.901,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.2
+  },
+  {
+   "start": 1189.228,
+   "end": 1190.568,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.667,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.12
+  },
+  {
+   "start": 1191.428,
+   "end": 1191.468,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1191.488,
+   "end": 1194.548,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.771,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.279
+  },
+  {
+   "start": 1195.328,
+   "end": 1196.388,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.483,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.15
+  },
+  {
+   "start": 1196.428,
+   "end": 1199.328,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.624,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.293
+  },
+  {
+   "start": 1199.328,
+   "end": 1203.448,
+   "label": "speaker_1",
+   "name": "Charles Caskey",
+   "sim": 0.634,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.102,
+   "how": "voice"
+  },
+  {
+   "start": 1203.508,
+   "end": 1203.668,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1203.668,
+   "end": 1209.888,
+   "label": "speaker_1",
+   "name": "Charles Caskey",
+   "sim": 0.712,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.073,
+   "how": "voice"
+  },
+  {
+   "start": 1210.488,
+   "end": 1214.048,
+   "label": "speaker_1",
+   "name": "Charles Caskey",
+   "sim": 0.671,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.158,
+   "how": "voice"
+  },
+  {
+   "start": 1214.708,
+   "end": 1215.248,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1215.268,
+   "end": 1220.748,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.773,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.257
+  },
+  {
+   "start": 1221.248,
+   "end": 1221.548,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 1221.608,
+   "end": 1221.868,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1222.608,
+   "end": 1225.248,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.752,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.236
+  },
+  {
+   "start": 1225.268,
+   "end": 1225.308,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1225.308,
+   "end": 1229.488,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.821,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.291
+  },
+  {
+   "start": 1229.528,
+   "end": 1229.748,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1230.508,
+   "end": 1233.068,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.747,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.183
+  },
+  {
+   "start": 1233.908,
+   "end": 1237.028,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.777,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.225
+  },
+  {
+   "start": 1237.948,
+   "end": 1238.068,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1239.128,
+   "end": 1242.468,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.806,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.13
+  },
+  {
+   "start": 1243.388,
+   "end": 1249.328,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.85,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.211
+  },
+  {
+   "start": 1249.368,
+   "end": 1249.388,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1249.388,
+   "end": 1250.408,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.601,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.289
+  },
+  {
+   "start": 1251.228,
+   "end": 1251.888,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 1252.928,
+   "end": 1257.868,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.806,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.272
+  },
+  {
+   "start": 1258.488,
+   "end": 1260.328,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.718,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.204
+  },
+  {
+   "start": 1260.468,
+   "end": 1260.488,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1260.488,
+   "end": 1265.148,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.849,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.281
+  },
+  {
+   "start": 1265.908,
+   "end": 1266.308,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1266.768,
+   "end": 1268.648,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.672,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.188
+  },
+  {
+   "start": 1269.448,
+   "end": 1272.528,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.757,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.145
+  },
+  {
+   "start": 1272.548,
+   "end": 1272.828,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1273.668,
+   "end": 1277.308,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.819,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.231
+  },
+  {
+   "start": 1277.448,
+   "end": 1279.328,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.601,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.188
+  },
+  {
+   "start": 1279.408,
+   "end": 1279.428,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1279.428,
+   "end": 1282.588,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.795,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.268
+  },
+  {
+   "start": 1283.448,
+   "end": 1290.008,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.841,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.262
+  },
+  {
+   "start": 1290.468,
+   "end": 1293.748,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.793,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.234
+  },
+  {
+   "start": 1293.808,
+   "end": 1293.808,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1293.828,
+   "end": 1294.988,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.667,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.139
+  },
+  {
+   "start": 1295.388,
+   "end": 1296.548,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.484,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.182,
+   "how": "voice"
+  },
+  {
+   "start": 1296.668,
+   "end": 1300.668,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.79,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.143
+  },
+  {
+   "start": 1301.168,
+   "end": 1304.568,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.704,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.223
+  },
+  {
+   "start": 1305.328,
+   "end": 1308.908,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.737,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.199
+  },
+  {
+   "start": 1309.668,
+   "end": 1311.568,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.535,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.209
+  },
+  {
+   "start": 1312.448,
+   "end": 1313.928,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.496,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.092
+  },
+  {
+   "start": 1313.988,
+   "end": 1314.048,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1314.088,
+   "end": 1318.068,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.847,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.308
+  },
+  {
+   "start": 1318.128,
+   "end": 1320.588,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.721,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.284
+  },
+  {
+   "start": 1320.688,
+   "end": 1325.768,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.828,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.126,
+   "how": "voice"
+  },
+  {
+   "start": 1326.388,
+   "end": 1327.508,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.539,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.221,
+   "how": "voice"
+  },
+  {
+   "start": 1328.348,
+   "end": 1333.628,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.815,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.176,
+   "how": "voice"
+  },
+  {
+   "start": 1334.148,
+   "end": 1341.048,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.796,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.133,
+   "how": "voice"
+  },
+  {
+   "start": 1341.408,
+   "end": 1341.508,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 1341.508,
+   "end": 1342.848,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.583,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.112,
+   "how": "voice"
+  },
+  {
+   "start": 1342.888,
+   "end": 1345.528,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.663,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.191,
+   "how": "voice"
+  },
+  {
+   "start": 1346.168,
+   "end": 1347.388,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.613,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.144,
+   "how": "voice"
+  },
+  {
+   "start": 1348.248,
+   "end": 1351.268,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.608,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.149
+  },
+  {
+   "start": 1351.308,
+   "end": 1355.048,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.761,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.328
+  },
+  {
+   "start": 1355.088,
+   "end": 1355.348,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1355.428,
+   "end": 1356.868,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.595,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.098
+  },
+  {
+   "start": 1356.988,
+   "end": 1358.688,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.671,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.132
+  },
+  {
+   "start": 1358.788,
+   "end": 1359.848,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.597,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.206
+  },
+  {
+   "start": 1360.428,
+   "end": 1360.748,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1360.888,
+   "end": 1363.288,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.756,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.342
+  },
+  {
+   "start": 1363.468,
+   "end": 1365.188,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.656,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.214
+  },
+  {
+   "start": 1365.288,
+   "end": 1367.608,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.785,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.214
+  },
+  {
+   "start": 1367.728,
+   "end": 1367.768,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1368.368,
+   "end": 1372.688,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.863,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.264
+  },
+  {
+   "start": 1373.568,
+   "end": 1375.788,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.713,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.237
+  },
+  {
+   "start": 1377.008,
+   "end": 1377.728,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 1378.508,
+   "end": 1381.388,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.772,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.33
+  },
+  {
+   "start": 1381.428,
+   "end": 1381.508,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1381.728,
+   "end": 1387.728,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.87,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.263
+  },
+  {
+   "start": 1387.788,
+   "end": 1389.048,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.492,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.116
+  },
+  {
+   "start": 1389.188,
+   "end": 1391.168,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.675,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.337
+  },
+  {
+   "start": 1391.588,
+   "end": 1393.708,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.709,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.142
+  },
+  {
+   "start": 1393.808,
+   "end": 1396.368,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.718,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.181
+  },
+  {
+   "start": 1397.528,
+   "end": 1398.048,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1398.048,
+   "end": 1402.408,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.827,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.25
+  },
+  {
+   "start": 1403.728,
+   "end": 1406.428,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.759,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.129
+  },
+  {
+   "start": 1407.268,
+   "end": 1408.188,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.514,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.073
+  },
+  {
+   "start": 1408.588,
+   "end": 1408.588,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1408.588,
+   "end": 1410.948,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.725,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.201
+  },
+  {
+   "start": 1411.028,
+   "end": 1413.468,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.781,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.106
+  },
+  {
+   "start": 1414.068,
+   "end": 1414.408,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 1414.428,
+   "end": 1414.648,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1414.648,
+   "end": 1416.708,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.694,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.256
+  },
+  {
+   "start": 1417.964,
+   "end": 1419.764,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.64,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.214
+  },
+  {
+   "start": 1419.804,
+   "end": 1420.904,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.655,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.21
+  },
+  {
+   "start": 1421.204,
+   "end": 1426.524,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.835,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.313
+  },
+  {
+   "start": 1427.464,
+   "end": 1428.184,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 1428.804,
+   "end": 1430.864,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.734,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.168
+  },
+  {
+   "start": 1431.104,
+   "end": 1432.744,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.657,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.184
+  },
+  {
+   "start": 1432.804,
+   "end": 1433.964,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.68,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.173
+  },
+  {
+   "start": 1434.004,
+   "end": 1435.424,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.751,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.192
+  },
+  {
+   "start": 1436.404,
+   "end": 1439.284,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.816,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.243
+  },
+  {
+   "start": 1439.404,
+   "end": 1441.924,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.82,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.288
+  },
+  {
+   "start": 1442.684,
+   "end": 1443.144,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 1443.904,
+   "end": 1443.984,
+   "label": "speaker_2",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1444.144,
+   "end": 1446.224,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.705,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.187
+  },
+  {
+   "start": 1446.944,
+   "end": 1450.044,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.775,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.251
+  },
+  {
+   "start": 1450.564,
+   "end": 1451.004,
+   "label": "speaker_2",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1451.004,
+   "end": 1453.044,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.542,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.314
+  },
+  {
+   "start": 1453.264,
+   "end": 1453.984,
+   "label": "speaker_2",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1454.884,
+   "end": 1455.024,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 1455.184,
+   "end": 1455.344,
+   "label": "speaker_2",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1455.404,
+   "end": 1457.944,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.779,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.315
+  },
+  {
+   "start": 1458.504,
+   "end": 1463.884,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.835,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.251
+  },
+  {
+   "start": 1464.004,
+   "end": 1465.184,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.536,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.064
+  },
+  {
+   "start": 1465.684,
+   "end": 1468.624,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.821,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.269
+  },
+  {
+   "start": 1469.684,
+   "end": 1470.184,
+   "label": "speaker_2",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1470.844,
+   "end": 1474.504,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.813,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.267
+  },
+  {
+   "start": 1475.104,
+   "end": 1478.604,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.745,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.33
+  },
+  {
+   "start": 1479.444,
+   "end": 1479.444,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 1479.484,
+   "end": 1481.384,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.774,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.367
+  },
+  {
+   "start": 1481.544,
+   "end": 1484.724,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.777,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.303
+  },
+  {
+   "start": 1484.804,
+   "end": 1486.464,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.671,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.249
+  },
+  {
+   "start": 1487.084,
+   "end": 1491.064,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.729,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.249
+  },
+  {
+   "start": 1491.584,
+   "end": 1497.424,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.838,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.393
+  },
+  {
+   "start": 1498.024,
+   "end": 1500.084,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.762,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.293
+  },
+  {
+   "start": 1500.504,
+   "end": 1506.924,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.798,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.316
+  },
+  {
+   "start": 1507.324,
+   "end": 1511.124,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.708,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.288
+  },
+  {
+   "start": 1511.184,
+   "end": 1511.264,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 1511.264,
+   "end": 1512.484,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.534,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.169
+  },
+  {
+   "start": 1513.264,
+   "end": 1515.624,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.663,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.334
+  },
+  {
+   "start": 1516.424,
+   "end": 1517.844,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.685,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.3
+  },
+  {
+   "start": 1518.504,
+   "end": 1519.644,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.662,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.327
+  },
+  {
+   "start": 1520.324,
+   "end": 1520.464,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 1520.464,
+   "end": 1522.884,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.637,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.291
+  },
+  {
+   "start": 1523.604,
+   "end": 1525.504,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.595,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.181
+  },
+  {
+   "start": 1526.064,
+   "end": 1526.704,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 1526.744,
+   "end": 1528.184,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.533,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.247
+  },
+  {
+   "start": 1528.184,
+   "end": 1529.584,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.448,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.026
+  },
+  {
+   "start": 1529.884,
+   "end": 1533.704,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.777,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.224
+  },
+  {
+   "start": 1534.484,
+   "end": 1535.224,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 1536.104,
+   "end": 1536.224,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1536.284,
+   "end": 1536.464,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 1536.704,
+   "end": 1538.384,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.409,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.171
+  },
+  {
+   "start": 1538.424,
+   "end": 1538.424,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 1538.544,
+   "end": 1540.584,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.729,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.274
+  },
+  {
+   "start": 1541.424,
+   "end": 1541.764,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 1542.744,
+   "end": 1543.444,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1543.824,
+   "end": 1544.564,
+   "label": "speaker_2",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1545.164,
+   "end": 1545.164,
+   "label": "speaker_2",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1545.444,
+   "end": 1546.404,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.41,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.463
+  },
+  {
+   "start": 1547.064,
+   "end": 1547.224,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 1547.863,
+   "end": 1548.044,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 1548.044,
+   "end": 1548.844,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1550.924,
+   "end": 1555.344,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.864,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.171
+  },
+  {
+   "start": 1556.544,
+   "end": 1559.044,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.666,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.174
+  },
+  {
+   "start": 1559.864,
+   "end": 1567.664,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.892,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.241
+  },
+  {
+   "start": 1567.704,
+   "end": 1569.084,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.691,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.193
+  },
+  {
+   "start": 1569.864,
+   "end": 1575.364,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.867,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.313
+  },
+  {
+   "start": 1575.924,
+   "end": 1582.624,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.871,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.206
+  },
+  {
+   "start": 1583.324,
+   "end": 1587.364,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.814,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.082
+  },
+  {
+   "start": 1587.464,
+   "end": 1589.104,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.366,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.164
+  },
+  {
+   "start": 1589.644,
+   "end": 1590.504,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.556,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.125
+  },
+  {
+   "start": 1591.104,
+   "end": 1594.124,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.834,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.229
+  },
+  {
+   "start": 1594.944,
+   "end": 1595.384,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 1595.424,
+   "end": 1595.504,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1595.504,
+   "end": 1599.244,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.813,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.234
+  },
+  {
+   "start": 1600.564,
+   "end": 1607.904,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.91,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.282
+  },
+  {
+   "start": 1608.404,
+   "end": 1608.664,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1608.904,
+   "end": 1614.424,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.847,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.219
+  },
+  {
+   "start": 1615.244,
+   "end": 1620.244,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.888,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.269
+  },
+  {
+   "start": 1620.684,
+   "end": 1620.904,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1621.024,
+   "end": 1624.424,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.808,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.33
+  },
+  {
+   "start": 1625.364,
+   "end": 1627.084,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.565,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.174
+  },
+  {
+   "start": 1627.164,
+   "end": 1633.304,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.868,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.315
+  },
+  {
+   "start": 1633.924,
+   "end": 1636.604,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.794,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.233
+  },
+  {
+   "start": 1636.684,
+   "end": 1638.124,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.589,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.15
+  },
+  {
+   "start": 1638.984,
+   "end": 1643.104,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.739,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.341
+  },
+  {
+   "start": 1643.664,
+   "end": 1647.224,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.821,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.343
+  },
+  {
+   "start": 1647.624,
+   "end": 1647.624,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 1647.644,
+   "end": 1649.884,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.754,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.33
+  },
+  {
+   "start": 1650.384,
+   "end": 1651.584,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.232,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.357,
+   "low": 1
+  },
+  {
+   "start": 1651.624,
+   "end": 1652.384,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 1652.464,
+   "end": 1654.064,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.651,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.253
+  },
+  {
+   "start": 1654.184,
+   "end": 1656.644,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.801,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.258
+  },
+  {
+   "start": 1656.984,
+   "end": 1657.044,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 1657.064,
+   "end": 1661.964,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.845,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.294
+  },
+  {
+   "start": 1662.524,
+   "end": 1664.184,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.651,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.176
+  },
+  {
+   "start": 1664.224,
+   "end": 1664.224,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 1664.264,
+   "end": 1666.244,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.737,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.167
+  },
+  {
+   "start": 1666.764,
+   "end": 1669.684,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.72,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.25
+  },
+  {
+   "start": 1669.764,
+   "end": 1669.804,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 1669.804,
+   "end": 1672.484,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.709,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.213
+  },
+  {
+   "start": 1673.084,
+   "end": 1678.264,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.829,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.233
+  },
+  {
+   "start": 1678.524,
+   "end": 1679.704,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.665,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.316
+  },
+  {
+   "start": 1679.804,
+   "end": 1681.704,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.646,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.268
+  },
+  {
+   "start": 1681.904,
+   "end": 1682.104,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 1682.664,
+   "end": 1685.444,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.719,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.152
+  },
+  {
+   "start": 1687.084,
+   "end": 1687.824,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1687.844,
+   "end": 1689.644,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.725,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.295
+  },
+  {
+   "start": 1690.184,
+   "end": 1693.584,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.697,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.327
+  },
+  {
+   "start": 1694.384,
+   "end": 1694.664,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1694.684,
+   "end": 1694.684,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 1694.724,
+   "end": 1697.644,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.791,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.28
+  },
+  {
+   "start": 1697.724,
+   "end": 1699.044,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.66,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.225
+  },
+  {
+   "start": 1699.504,
+   "end": 1700.684,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.57,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.121
+  },
+  {
+   "start": 1701.264,
+   "end": 1704.164,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.81,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.349
+  },
+  {
+   "start": 1704.204,
+   "end": 1705.244,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.583,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.251
+  },
+  {
+   "start": 1705.704,
+   "end": 1707.004,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.745,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.214
+  },
+  {
+   "start": 1707.444,
+   "end": 1711.264,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.816,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.324
+  },
+  {
+   "start": 1711.404,
+   "end": 1714.104,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.753,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.305
+  },
+  {
+   "start": 1714.124,
+   "end": 1714.384,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 1714.424,
+   "end": 1717.984,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.816,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.344
+  },
+  {
+   "start": 1718.524,
+   "end": 1719.184,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1719.264,
+   "end": 1719.264,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 1719.264,
+   "end": 1721.624,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.727,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.257
+  },
+  {
+   "start": 1721.944,
+   "end": 1721.984,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 1722.004,
+   "end": 1723.584,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.724,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.225
+  },
+  {
+   "start": 1723.624,
+   "end": 1723.684,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 1723.684,
+   "end": 1724.784,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.67,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.211
+  },
+  {
+   "start": 1725.744,
+   "end": 1726.744,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.437,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.163
+  },
+  {
+   "start": 1726.804,
+   "end": 1729.844,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.695,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.164
+  },
+  {
+   "start": 1730.324,
+   "end": 1731.964,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.519,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.057
+  },
+  {
+   "start": 1734.304,
+   "end": 1736.144,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.353,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.219
+  },
+  {
+   "start": 1737.144,
+   "end": 1737.704,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1737.744,
+   "end": 1739.004,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.572,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.142
+  },
+  {
+   "start": 1739.104,
+   "end": 1741.344,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.779,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.343
+  },
+  {
+   "start": 1741.364,
+   "end": 1743.644,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.65,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.244
+  },
+  {
+   "start": 1744.224,
+   "end": 1751.844,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.865,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.28
+  },
+  {
+   "start": 1751.844,
+   "end": 1752.084,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1752.524,
+   "end": 1752.724,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 1753.304,
+   "end": 1753.384,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 1753.984,
+   "end": 1755.684,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.672,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.092
+  },
+  {
+   "start": 1756.144,
+   "end": 1759.904,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.791,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.2
+  },
+  {
+   "start": 1759.924,
+   "end": 1765.264,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.821,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.228
+  },
+  {
+   "start": 1766.184,
+   "end": 1770.004,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.857,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.174
+  },
+  {
+   "start": 1770.944,
+   "end": 1774.044,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.727,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.18
+  },
+  {
+   "start": 1774.164,
+   "end": 1774.844,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1774.884,
+   "end": 1775.624,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 1776.164,
+   "end": 1777.344,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.228,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.225,
+   "low": 1
+  },
+  {
+   "start": 1777.364,
+   "end": 1781.724,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.801,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.16
+  },
+  {
+   "start": 1782.264,
+   "end": 1784.124,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.575,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.06
+  },
+  {
+   "start": 1784.804,
+   "end": 1788.372,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.799,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.219
+  },
+  {
+   "start": 1788.432,
+   "end": 1791.452,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.785,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.223
+  },
+  {
+   "start": 1791.512,
+   "end": 1793.312,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.717,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.206
+  },
+  {
+   "start": 1793.832,
+   "end": 1794.732,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.453,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.236
+  },
+  {
+   "start": 1795.652,
+   "end": 1798.712,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.751,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.131
+  },
+  {
+   "start": 1799.252,
+   "end": 1799.452,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 1799.452,
+   "end": 1799.492,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1799.492,
+   "end": 1801.792,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.814,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.171
+  },
+  {
+   "start": 1802.372,
+   "end": 1802.412,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1802.432,
+   "end": 1806.772,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.781,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.291
+  },
+  {
+   "start": 1806.932,
+   "end": 1807.112,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1807.252,
+   "end": 1807.372,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 1808.052,
+   "end": 1811.712,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.796,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.238
+  },
+  {
+   "start": 1812.132,
+   "end": 1813.512,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.621,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.236
+  },
+  {
+   "start": 1813.572,
+   "end": 1813.572,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1813.572,
+   "end": 1815.352,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.733,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.282
+  },
+  {
+   "start": 1815.432,
+   "end": 1816.732,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.593,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.068
+  },
+  {
+   "start": 1816.852,
+   "end": 1819.692,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.769,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.172
+  },
+  {
+   "start": 1820.792,
+   "end": 1824.312,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.814,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.201
+  },
+  {
+   "start": 1825.032,
+   "end": 1830.092,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.838,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.15
+  },
+  {
+   "start": 1830.152,
+   "end": 1830.152,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1830.152,
+   "end": 1831.512,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.623,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.19
+  },
+  {
+   "start": 1832.092,
+   "end": 1832.432,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1833.232,
+   "end": 1833.232,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1833.252,
+   "end": 1834.212,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.491,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.169
+  },
+  {
+   "start": 1834.732,
+   "end": 1837.032,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.579,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.221
+  },
+  {
+   "start": 1837.032,
+   "end": 1839.712,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.744,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.271
+  },
+  {
+   "start": 1839.952,
+   "end": 1839.952,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 1840.012,
+   "end": 1840.572,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1840.952,
+   "end": 1843.032,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.529,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.162
+  },
+  {
+   "start": 1843.332,
+   "end": 1845.432,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.734,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.181
+  },
+  {
+   "start": 1846.072,
+   "end": 1849.932,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.78,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.211
+  },
+  {
+   "start": 1850.472,
+   "end": 1850.472,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 1850.512,
+   "end": 1851.172,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1851.172,
+   "end": 1851.172,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 1851.952,
+   "end": 1854.652,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.76,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.334
+  },
+  {
+   "start": 1855.132,
+   "end": 1857.632,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.783,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.247
+  },
+  {
+   "start": 1858.472,
+   "end": 1858.492,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1858.612,
+   "end": 1861.192,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.74,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.178
+  },
+  {
+   "start": 1862.252,
+   "end": 1867.332,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.862,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.261
+  },
+  {
+   "start": 1867.652,
+   "end": 1867.812,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1868.432,
+   "end": 1869.172,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 1869.672,
+   "end": 1870.232,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 1870.912,
+   "end": 1875.492,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.836,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.284
+  },
+  {
+   "start": 1876.212,
+   "end": 1881.432,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.815,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.252
+  },
+  {
+   "start": 1881.552,
+   "end": 1881.552,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1881.552,
+   "end": 1883.412,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.744,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.26
+  },
+  {
+   "start": 1884.412,
+   "end": 1885.872,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.588,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.136
+  },
+  {
+   "start": 1886.272,
+   "end": 1886.612,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1886.672,
+   "end": 1889.052,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.768,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.24
+  },
+  {
+   "start": 1889.132,
+   "end": 1893.192,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.749,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.162
+  },
+  {
+   "start": 1893.232,
+   "end": 1895.492,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.743,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.236
+  },
+  {
+   "start": 1896.072,
+   "end": 1900.692,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.817,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.286
+  },
+  {
+   "start": 1900.912,
+   "end": 1904.932,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.758,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.34
+  },
+  {
+   "start": 1905.052,
+   "end": 1906.632,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.615,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.334
+  },
+  {
+   "start": 1907.172,
+   "end": 1907.772,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1908.572,
+   "end": 1911.752,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.766,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.242
+  },
+  {
+   "start": 1911.832,
+   "end": 1913.292,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.639,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.275
+  },
+  {
+   "start": 1913.912,
+   "end": 1915.252,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.723,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.231
+  },
+  {
+   "start": 1915.312,
+   "end": 1918.492,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.684,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.225
+  },
+  {
+   "start": 1919.212,
+   "end": 1921.612,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.8,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.308
+  },
+  {
+   "start": 1922.972,
+   "end": 1923.352,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 1923.892,
+   "end": 1924.112,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1924.112,
+   "end": 1926.572,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.748,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.182
+  },
+  {
+   "start": 1926.752,
+   "end": 1928.512,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.402,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.216
+  },
+  {
+   "start": 1929.052,
+   "end": 1929.852,
+   "label": "speaker_2",
+   "name": "Charles Caskey",
+   "sim": 0.002,
+   "alt": "Lennart Verhagen",
+   "alt_sim": -0.005,
+   "low": 1
+  },
+  {
+   "start": 1929.912,
+   "end": 1930.912,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.41,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.187
+  },
+  {
+   "start": 1931.512,
+   "end": 1932.052,
+   "label": "speaker_2",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1932.072,
+   "end": 1932.672,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1933.072,
+   "end": 1934.112,
+   "label": "speaker_2",
+   "name": "Charles Caskey",
+   "sim": 0.373,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.228
+  },
+  {
+   "start": 1934.172,
+   "end": 1938.492,
+   "label": "speaker_2",
+   "name": "Charles Caskey",
+   "sim": 0.724,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.085
+  },
+  {
+   "start": 1938.652,
+   "end": 1943.692,
+   "label": "speaker_2",
+   "name": "Charles Caskey",
+   "sim": 0.8,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.2
+  },
+  {
+   "start": 1943.752,
+   "end": 1945.512,
+   "label": "speaker_2",
+   "name": "Charles Caskey",
+   "sim": 0.679,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.221
+  },
+  {
+   "start": 1946.052,
+   "end": 1949.072,
+   "label": "speaker_2",
+   "name": "Charles Caskey",
+   "sim": 0.757,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.2
+  },
+  {
+   "start": 1949.612,
+   "end": 1953.092,
+   "label": "speaker_2",
+   "name": "Charles Caskey",
+   "sim": 0.616,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.063
+  },
+  {
+   "start": 1953.112,
+   "end": 1953.392,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 1953.412,
+   "end": 1957.912,
+   "label": "speaker_2",
+   "name": "Charles Caskey",
+   "sim": 0.799,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.167
+  },
+  {
+   "start": 1958.152,
+   "end": 1959.932,
+   "label": "speaker_2",
+   "name": "Charles Caskey",
+   "sim": 0.651,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.113
+  },
+  {
+   "start": 1960.112,
+   "end": 1960.172,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 1961.452,
+   "end": 1965.672,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.795,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.254
+  },
+  {
+   "start": 1965.752,
+   "end": 1969.172,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.791,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.25
+  },
+  {
+   "start": 1969.952,
+   "end": 1970.132,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1970.312,
+   "end": 1970.512,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 1971.572,
+   "end": 1971.572,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 1971.612,
+   "end": 1974.892,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.793,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.345
+  },
+  {
+   "start": 1974.932,
+   "end": 1975.432,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 1975.432,
+   "end": 1976.372,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.295,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.236
+  },
+  {
+   "start": 1976.772,
+   "end": 1978.512,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.595,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.214
+  },
+  {
+   "start": 1979.352,
+   "end": 1979.452,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1979.472,
+   "end": 1980.532,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.612,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.229
+  },
+  {
+   "start": 1981.072,
+   "end": 1981.812,
+   "label": "speaker_2",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1982.712,
+   "end": 1987.052,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.785,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.219
+  },
+  {
+   "start": 1987.532,
+   "end": 1990.612,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.767,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.221
+  },
+  {
+   "start": 1990.672,
+   "end": 1993.412,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.697,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.181
+  },
+  {
+   "start": 1993.912,
+   "end": 1993.992,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 1994.092,
+   "end": 1994.472,
+   "label": "speaker_2",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1994.472,
+   "end": 1997.452,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.729,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.21
+  },
+  {
+   "start": 1998.052,
+   "end": 1998.072,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 1998.152,
+   "end": 1998.272,
+   "label": "speaker_2",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1998.432,
+   "end": 2002.332,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.844,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.285
+  },
+  {
+   "start": 2002.952,
+   "end": 2005.952,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.832,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.175
+  },
+  {
+   "start": 2006.792,
+   "end": 2006.852,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 2006.892,
+   "end": 2008.952,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.536,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.195
+  },
+  {
+   "start": 2008.972,
+   "end": 2009.152,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 2009.152,
+   "end": 2010.652,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.583,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.283
+  },
+  {
+   "start": 2010.812,
+   "end": 2013.112,
+   "label": "speaker_2",
+   "name": "Charles Caskey",
+   "sim": 0.639,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.156
+  },
+  {
+   "start": 2013.172,
+   "end": 2015.692,
+   "label": "speaker_2",
+   "name": "Charles Caskey",
+   "sim": 0.651,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.131
+  },
+  {
+   "start": 2015.792,
+   "end": 2016.312,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2016.372,
+   "end": 2017.192,
+   "label": "speaker_2",
+   "name": "Charles Caskey",
+   "sim": 0.39,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.025
+  },
+  {
+   "start": 2017.632,
+   "end": 2017.992,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2018.072,
+   "end": 2018.272,
+   "label": "speaker_2",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2018.272,
+   "end": 2019.912,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.627,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.302
+  },
+  {
+   "start": 2020.492,
+   "end": 2022.552,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.546,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.338
+  },
+  {
+   "start": 2022.612,
+   "end": 2022.712,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 2022.712,
+   "end": 2022.892,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2022.912,
+   "end": 2025.952,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.759,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.166
+  },
+  {
+   "start": 2026.152,
+   "end": 2027.852,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.478,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.075
+  },
+  {
+   "start": 2027.992,
+   "end": 2029.832,
+   "label": "speaker_2",
+   "name": "Charles Caskey",
+   "sim": 0.663,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.323
+  },
+  {
+   "start": 2030.572,
+   "end": 2031.692,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.319,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.054
+  },
+  {
+   "start": 2031.752,
+   "end": 2031.832,
+   "label": "speaker_2",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2032.072,
+   "end": 2034.252,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.298,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.148
+  },
+  {
+   "start": 2036.052,
+   "end": 2040.112,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.809,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.284
+  },
+  {
+   "start": 2041.132,
+   "end": 2042.292,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.66,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.216
+  },
+  {
+   "start": 2042.792,
+   "end": 2042.872,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 2042.892,
+   "end": 2044.812,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.377,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.35
+  },
+  {
+   "start": 2044.831,
+   "end": 2046.172,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.634,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.247
+  },
+  {
+   "start": 2046.192,
+   "end": 2046.591,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2046.591,
+   "end": 2049.312,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.706,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.255
+  },
+  {
+   "start": 2049.672,
+   "end": 2049.872,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2049.872,
+   "end": 2051.892,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.725,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.234
+  },
+  {
+   "start": 2051.932,
+   "end": 2058.672,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.907,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.302
+  },
+  {
+   "start": 2059.452,
+   "end": 2059.572,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 2059.692,
+   "end": 2060.052,
+   "label": "speaker_2",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2060.052,
+   "end": 2066.792,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.896,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.307
+  },
+  {
+   "start": 2066.912,
+   "end": 2067.192,
+   "label": "speaker_2",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2067.192,
+   "end": 2067.192,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2067.612,
+   "end": 2069.472,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.681,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.181
+  },
+  {
+   "start": 2070.032,
+   "end": 2073.932,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.84,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.31
+  },
+  {
+   "start": 2074.612,
+   "end": 2076.912,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.741,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.325
+  },
+  {
+   "start": 2077.652,
+   "end": 2079.052,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.608,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.212
+  },
+  {
+   "start": 2079.832,
+   "end": 2079.872,
+   "label": "speaker_2",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2079.872,
+   "end": 2083.012,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.8,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.302
+  },
+  {
+   "start": 2083.072,
+   "end": 2087.772,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.844,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.355
+  },
+  {
+   "start": 2088.432,
+   "end": 2088.712,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 2088.712,
+   "end": 2089.572,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.171,
+   "alt": "Charles Caskey",
+   "alt_sim": -0.006,
+   "low": 1
+  },
+  {
+   "start": 2090.172,
+   "end": 2090.692,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2091.952,
+   "end": 2092.472,
+   "label": "speaker_2",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2092.472,
+   "end": 2094.852,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.486,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.213
+  },
+  {
+   "start": 2095.812,
+   "end": 2096.772,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.589,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.192
+  },
+  {
+   "start": 2097.692,
+   "end": 2100.972,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.768,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.29
+  },
+  {
+   "start": 2101.332,
+   "end": 2104.552,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.801,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.265
+  },
+  {
+   "start": 2104.612,
+   "end": 2106.112,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.632,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.221
+  },
+  {
+   "start": 2106.852,
+   "end": 2106.972,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 2107.112,
+   "end": 2107.672,
+   "label": "speaker_2",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2107.672,
+   "end": 2109.092,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.622,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.157
+  },
+  {
+   "start": 2110.012,
+   "end": 2110.852,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.487,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.219
+  },
+  {
+   "start": 2111.432,
+   "end": 2115.092,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.764,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.334
+  },
+  {
+   "start": 2115.152,
+   "end": 2116.232,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.567,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.112
+  },
+  {
+   "start": 2116.432,
+   "end": 2119.372,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.725,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.207
+  },
+  {
+   "start": 2119.492,
+   "end": 2120.072,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2120.072,
+   "end": 2121.012,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.146,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.185,
+   "low": 1
+  },
+  {
+   "start": 2121.752,
+   "end": 2128.792,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.869,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.285
+  },
+  {
+   "start": 2128.932,
+   "end": 2130.792,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.711,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.234
+  },
+  {
+   "start": 2131.252,
+   "end": 2131.792,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 2132.992,
+   "end": 2135.732,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.806,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.275
+  },
+  {
+   "start": 2136.392,
+   "end": 2137.412,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.549,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.153
+  },
+  {
+   "start": 2138.072,
+   "end": 2138.332,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 2138.892,
+   "end": 2144.632,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.917,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.258
+  },
+  {
+   "start": 2145.252,
+   "end": 2145.452,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2145.712,
+   "end": 2148.592,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.689,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.211
+  },
+  {
+   "start": 2149.152,
+   "end": 2151.872,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.734,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.289
+  },
+  {
+   "start": 2152.152,
+   "end": 2152.512,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2152.772,
+   "end": 2155.752,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.816,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.215
+  },
+  {
+   "start": 2156.532,
+   "end": 2156.952,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 2157.532,
+   "end": 2161.772,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.85,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.213
+  },
+  {
+   "start": 2162.472,
+   "end": 2165.792,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.826,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.286
+  },
+  {
+   "start": 2166.372,
+   "end": 2168.132,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.729,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.111
+  },
+  {
+   "start": 2168.752,
+   "end": 2170.752,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.715,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.185
+  },
+  {
+   "start": 2170.852,
+   "end": 2173.592,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.668,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.202
+  },
+  {
+   "start": 2173.972,
+   "end": 2173.972,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2173.972,
+   "end": 2175.092,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.637,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.208
+  },
+  {
+   "start": 2175.712,
+   "end": 2175.832,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2176.352,
+   "end": 2176.492,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2176.692,
+   "end": 2178.492,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.664,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.12
+  },
+  {
+   "start": 2178.532,
+   "end": 2182.032,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.807,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.252
+  },
+  {
+   "start": 2182.032,
+   "end": 2185.112,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.655,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.264
+  },
+  {
+   "start": 2185.592,
+   "end": 2187.092,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.744,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.312
+  },
+  {
+   "start": 2187.752,
+   "end": 2189.212,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.489,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.137
+  },
+  {
+   "start": 2189.932,
+   "end": 2192.092,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.509,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.076
+  },
+  {
+   "start": 2192.092,
+   "end": 2196.112,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.656,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.285
+  },
+  {
+   "start": 2196.212,
+   "end": 2196.852,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 2197.892,
+   "end": 2202.832,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.837,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.25
+  },
+  {
+   "start": 2203.432,
+   "end": 2203.492,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2203.572,
+   "end": 2204.012,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 2204.772,
+   "end": 2208.172,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.811,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.192
+  },
+  {
+   "start": 2208.572,
+   "end": 2211.532,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.742,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.212
+  },
+  {
+   "start": 2212.072,
+   "end": 2216.392,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.837,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.197
+  },
+  {
+   "start": 2216.472,
+   "end": 2218.492,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.678,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.156
+  },
+  {
+   "start": 2219.332,
+   "end": 2225.912,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.921,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.274
+  },
+  {
+   "start": 2226.572,
+   "end": 2230.992,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.829,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.166
+  },
+  {
+   "start": 2231.412,
+   "end": 2237.672,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.819,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.234
+  },
+  {
+   "start": 2238.392,
+   "end": 2238.612,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2238.792,
+   "end": 2241.612,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.822,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.187
+  },
+  {
+   "start": 2241.652,
+   "end": 2244.092,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.75,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.206
+  },
+  {
+   "start": 2244.592,
+   "end": 2248.952,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.764,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.197
+  },
+  {
+   "start": 2249.172,
+   "end": 2249.292,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2249.432,
+   "end": 2251.032,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.694,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.243
+  },
+  {
+   "start": 2251.992,
+   "end": 2252.232,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 2253.072,
+   "end": 2258.172,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.789,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.353
+  },
+  {
+   "start": 2259.212,
+   "end": 2264.232,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.738,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.289
+  },
+  {
+   "start": 2264.312,
+   "end": 2268.092,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.693,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.311
+  },
+  {
+   "start": 2268.432,
+   "end": 2270.172,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.586,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.338
+  },
+  {
+   "start": 2270.592,
+   "end": 2272.892,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.708,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.235
+  },
+  {
+   "start": 2272.932,
+   "end": 2272.992,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 2273.332,
+   "end": 2275.392,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.709,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.258
+  },
+  {
+   "start": 2275.592,
+   "end": 2277.412,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.699,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.306
+  },
+  {
+   "start": 2277.532,
+   "end": 2278.572,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.641,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.363
+  },
+  {
+   "start": 2278.732,
+   "end": 2279.912,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.713,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.264
+  },
+  {
+   "start": 2280.852,
+   "end": 2282.932,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.705,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.208
+  },
+  {
+   "start": 2284.052,
+   "end": 2286.892,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.739,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.204
+  },
+  {
+   "start": 2287.492,
+   "end": 2289.112,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.718,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.062
+  },
+  {
+   "start": 2289.732,
+   "end": 2289.912,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2290.092,
+   "end": 2290.392,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 2291.092,
+   "end": 2295.432,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.791,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.14
+  },
+  {
+   "start": 2295.492,
+   "end": 2300.112,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.872,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.24
+  },
+  {
+   "start": 2300.212,
+   "end": 2300.232,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2300.852,
+   "end": 2300.852,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2300.872,
+   "end": 2301.872,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.5,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.202
+  },
+  {
+   "start": 2302.452,
+   "end": 2302.792,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 2303.712,
+   "end": 2307.372,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.641,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.099
+  },
+  {
+   "start": 2308.072,
+   "end": 2309.032,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.6,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.132
+  },
+  {
+   "start": 2309.652,
+   "end": 2311.592,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.759,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.297
+  },
+  {
+   "start": 2311.992,
+   "end": 2315.112,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.799,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.243
+  },
+  {
+   "start": 2315.772,
+   "end": 2316.812,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.628,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.123
+  },
+  {
+   "start": 2317.712,
+   "end": 2317.972,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2318.432,
+   "end": 2320.492,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.749,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.114
+  },
+  {
+   "start": 2321.092,
+   "end": 2323.592,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.609,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.119
+  },
+  {
+   "start": 2323.612,
+   "end": 2329.112,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.818,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.075
+  },
+  {
+   "start": 2329.852,
+   "end": 2330.392,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 2330.392,
+   "end": 2332.412,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.565,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.259
+  },
+  {
+   "start": 2332.472,
+   "end": 2333.352,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.453,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.106
+  },
+  {
+   "start": 2333.672,
+   "end": 2333.672,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2333.692,
+   "end": 2338.052,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.801,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.216
+  },
+  {
+   "start": 2338.732,
+   "end": 2339.272,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2339.272,
+   "end": 2341.472,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.71,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.17
+  },
+  {
+   "start": 2342.252,
+   "end": 2343.852,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.698,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.148
+  },
+  {
+   "start": 2344.392,
+   "end": 2344.552,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2344.752,
+   "end": 2348.192,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.767,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.347
+  },
+  {
+   "start": 2348.192,
+   "end": 2353.652,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.742,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.328
+  },
+  {
+   "start": 2353.752,
+   "end": 2353.752,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 2353.772,
+   "end": 2355.232,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.606,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.209
+  },
+  {
+   "start": 2356.112,
+   "end": 2356.532,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 2357.252,
+   "end": 2367.772,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.895,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.249
+  },
+  {
+   "start": 2368.112,
+   "end": 2372.492,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.819,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.222
+  },
+  {
+   "start": 2372.832,
+   "end": 2373.132,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2373.212,
+   "end": 2373.292,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 2373.352,
+   "end": 2374.012,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2374.292,
+   "end": 2374.752,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 2374.772,
+   "end": 2375.292,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2375.372,
+   "end": 2375.432,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 2376.152,
+   "end": 2376.832,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 2377.892,
+   "end": 2379.092,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.483,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.122
+  },
+  {
+   "start": 2379.212,
+   "end": 2384.092,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.814,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.277
+  },
+  {
+   "start": 2384.852,
+   "end": 2387.392,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.661,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.134
+  },
+  {
+   "start": 2387.992,
+   "end": 2391.852,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.821,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.148
+  },
+  {
+   "start": 2392.552,
+   "end": 2393.332,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 2394.272,
+   "end": 2394.712,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 2395.212,
+   "end": 2397.292,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.756,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.139
+  },
+  {
+   "start": 2398.012,
+   "end": 2398.032,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2398.132,
+   "end": 2403.152,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.863,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.19
+  },
+  {
+   "start": 2403.872,
+   "end": 2406.291,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.71,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.268
+  },
+  {
+   "start": 2406.312,
+   "end": 2406.492,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2406.531,
+   "end": 2407.411,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.428,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.144
+  },
+  {
+   "start": 2408.471,
+   "end": 2408.632,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2409.192,
+   "end": 2410.752,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.385,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.188
+  },
+  {
+   "start": 2410.971,
+   "end": 2414.352,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.826,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.311
+  },
+  {
+   "start": 2414.452,
+   "end": 2414.532,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 2414.572,
+   "end": 2415.112,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2415.132,
+   "end": 2415.352,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 2415.552,
+   "end": 2415.792,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2415.792,
+   "end": 2416.372,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 2417.152,
+   "end": 2417.892,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2418.532,
+   "end": 2418.932,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 2418.972,
+   "end": 2423.692,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.783,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.182,
+   "how": "voice"
+  },
+  {
+   "start": 2424.412,
+   "end": 2425.592,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.533,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.265
+  },
+  {
+   "start": 2425.692,
+   "end": 2429.532,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.807,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.337
+  },
+  {
+   "start": 2429.612,
+   "end": 2430.872,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.716,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.262
+  },
+  {
+   "start": 2431.672,
+   "end": 2436.572,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.735,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.284
+  },
+  {
+   "start": 2437.092,
+   "end": 2438.932,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.493,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.108
+  },
+  {
+   "start": 2439.512,
+   "end": 2444.332,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.805,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.349
+  },
+  {
+   "start": 2444.992,
+   "end": 2446.332,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.594,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.299
+  },
+  {
+   "start": 2446.612,
+   "end": 2450.672,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.84,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.338
+  },
+  {
+   "start": 2450.992,
+   "end": 2453.392,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.711,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.295
+  },
+  {
+   "start": 2453.692,
+   "end": 2454.772,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.566,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.213
+  },
+  {
+   "start": 2454.812,
+   "end": 2454.832,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 2455.712,
+   "end": 2456.672,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.482,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.168
+  },
+  {
+   "start": 2456.672,
+   "end": 2457.872,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.662,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.318
+  },
+  {
+   "start": 2458.472,
+   "end": 2463.292,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.828,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.213
+  },
+  {
+   "start": 2463.892,
+   "end": 2466.672,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.67,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.165
+  },
+  {
+   "start": 2467.052,
+   "end": 2473.712,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.858,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.211
+  },
+  {
+   "start": 2474.092,
+   "end": 2474.232,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2474.572,
+   "end": 2476.632,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.697,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.154
+  },
+  {
+   "start": 2477.212,
+   "end": 2480.352,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.851,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.247
+  },
+  {
+   "start": 2481.172,
+   "end": 2482.572,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.733,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.169
+  },
+  {
+   "start": 2483.272,
+   "end": 2487.732,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.856,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.285
+  },
+  {
+   "start": 2488.292,
+   "end": 2489.312,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.496,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.092
+  },
+  {
+   "start": 2490.432,
+   "end": 2500.812,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.884,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.207
+  },
+  {
+   "start": 2501.492,
+   "end": 2501.632,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2501.912,
+   "end": 2507.532,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.852,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.309
+  },
+  {
+   "start": 2508.232,
+   "end": 2508.292,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2508.372,
+   "end": 2510.652,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.737,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.212
+  },
+  {
+   "start": 2511.292,
+   "end": 2513.332,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.698,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.088
+  },
+  {
+   "start": 2514.428,
+   "end": 2519.448,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.874,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.281
+  },
+  {
+   "start": 2519.508,
+   "end": 2522.588,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.769,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.158
+  },
+  {
+   "start": 2523.388,
+   "end": 2525.028,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.716,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.184
+  },
+  {
+   "start": 2525.888,
+   "end": 2527.568,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.647,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.29
+  },
+  {
+   "start": 2527.868,
+   "end": 2529.348,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.696,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.125
+  },
+  {
+   "start": 2529.428,
+   "end": 2531.388,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.72,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.155
+  },
+  {
+   "start": 2532.168,
+   "end": 2532.328,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 2532.408,
+   "end": 2532.408,
+   "label": "speaker_2",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2532.408,
+   "end": 2533.708,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.572,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.082
+  },
+  {
+   "start": 2534.608,
+   "end": 2534.768,
+   "label": "speaker_2",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2536.428,
+   "end": 2540.288,
+   "label": "speaker_2",
+   "name": "Charles Caskey",
+   "sim": 0.697,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.147
+  },
+  {
+   "start": 2540.448,
+   "end": 2544.408,
+   "label": "speaker_2",
+   "name": "Charles Caskey",
+   "sim": 0.608,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.203
+  },
+  {
+   "start": 2544.828,
+   "end": 2544.928,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 2544.948,
+   "end": 2547.208,
+   "label": "speaker_2",
+   "name": "Charles Caskey",
+   "sim": 0.544,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.178
+  },
+  {
+   "start": 2548.008,
+   "end": 2548.648,
+   "label": "speaker_2",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2549.528,
+   "end": 2550.308,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2551.028,
+   "end": 2552.268,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.269,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.163
+  },
+  {
+   "start": 2552.788,
+   "end": 2553.768,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.325,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.114
+  },
+  {
+   "start": 2554.028,
+   "end": 2555.988,
+   "label": "speaker_2",
+   "name": "Charles Caskey",
+   "sim": 0.622,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.211
+  },
+  {
+   "start": 2556.148,
+   "end": 2556.268,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2557.248,
+   "end": 2557.568,
+   "label": "speaker_2",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2558.248,
+   "end": 2559.808,
+   "label": "speaker_2",
+   "name": "Charles Caskey",
+   "sim": 0.502,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.246
+  },
+  {
+   "start": 2559.828,
+   "end": 2562.788,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.741,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.315
+  },
+  {
+   "start": 2562.848,
+   "end": 2563.308,
+   "label": "speaker_2",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2563.308,
+   "end": 2563.968,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2564.008,
+   "end": 2565.328,
+   "label": "speaker_2",
+   "name": "Charles Caskey",
+   "sim": 0.278,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.235
+  },
+  {
+   "start": 2565.428,
+   "end": 2565.548,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2566.668,
+   "end": 2568.008,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.642,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.205
+  },
+  {
+   "start": 2568.548,
+   "end": 2571.908,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.699,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.186
+  },
+  {
+   "start": 2571.968,
+   "end": 2572.328,
+   "label": "speaker_2",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2572.368,
+   "end": 2575.108,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.719,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.26
+  },
+  {
+   "start": 2576.508,
+   "end": 2577.468,
+   "label": "speaker_2",
+   "name": "Charles Caskey",
+   "sim": 0.416,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.09
+  },
+  {
+   "start": 2577.568,
+   "end": 2580.428,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.418,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.1
+  },
+  {
+   "start": 2580.968,
+   "end": 2581.948,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.291,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.057
+  },
+  {
+   "start": 2582.808,
+   "end": 2586.228,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.554,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.211
+  },
+  {
+   "start": 2587.948,
+   "end": 2588.068,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 2588.568,
+   "end": 2589.508,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.394,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.169
+  },
+  {
+   "start": 2590.468,
+   "end": 2591.608,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": -0.002,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.083,
+   "low": 1
+  },
+  {
+   "start": 2591.608,
+   "end": 2592.468,
+   "label": "speaker_2",
+   "name": "Charles Caskey",
+   "sim": 0.251,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.049
+  },
+  {
+   "start": 2592.488,
+   "end": 2592.748,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2592.748,
+   "end": 2593.048,
+   "label": "speaker_2",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2593.828,
+   "end": 2594.168,
+   "label": "speaker_2",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2594.768,
+   "end": 2595.408,
+   "label": "speaker_2",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2595.908,
+   "end": 2600.868,
+   "label": "speaker_2",
+   "name": "Charles Caskey",
+   "sim": 0.734,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.092
+  },
+  {
+   "start": 2601.028,
+   "end": 2605.868,
+   "label": "speaker_2",
+   "name": "Charles Caskey",
+   "sim": 0.722,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.116
+  },
+  {
+   "start": 2607.428,
+   "end": 2608.388,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.689,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.185
+  },
+  {
+   "start": 2608.928,
+   "end": 2614.028,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.813,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.219
+  },
+  {
+   "start": 2614.408,
+   "end": 2614.448,
+   "label": "speaker_2",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2614.448,
+   "end": 2615.548,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.363,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.143
+  },
+  {
+   "start": 2616.188,
+   "end": 2616.348,
+   "label": "speaker_2",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2616.408,
+   "end": 2616.468,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2616.468,
+   "end": 2620.308,
+   "label": "speaker_2",
+   "name": "Charles Caskey",
+   "sim": 0.659,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.172
+  },
+  {
+   "start": 2620.988,
+   "end": 2627.008,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.671,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.216
+  },
+  {
+   "start": 2629.688,
+   "end": 2630.108,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2632.068,
+   "end": 2633.088,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.387,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.168
+  },
+  {
+   "start": 2634.248,
+   "end": 2635.088,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.279,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.215
+  },
+  {
+   "start": 2636.168,
+   "end": 2638.188,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.714,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.204
+  },
+  {
+   "start": 2638.908,
+   "end": 2639.068,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 2639.228,
+   "end": 2642.148,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.643,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.198
+  },
+  {
+   "start": 2642.187,
+   "end": 2642.347,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 2642.347,
+   "end": 2642.868,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2643.448,
+   "end": 2645.248,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.536,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.354
+  },
+  {
+   "start": 2646.028,
+   "end": 2647.588,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.576,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.228
+  },
+  {
+   "start": 2648.028,
+   "end": 2649.628,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.259,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.401
+  },
+  {
+   "start": 2649.688,
+   "end": 2650.008,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 2650.008,
+   "end": 2650.388,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2650.408,
+   "end": 2651.528,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.535,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.277
+  },
+  {
+   "start": 2652.068,
+   "end": 2652.388,
+   "label": "speaker_2",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2652.408,
+   "end": 2654.788,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.576,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.302
+  },
+  {
+   "start": 2654.848,
+   "end": 2654.848,
+   "label": "speaker_2",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2654.848,
+   "end": 2654.868,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2654.888,
+   "end": 2657.268,
+   "label": "speaker_2",
+   "name": "Charles Caskey",
+   "sim": 0.612,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.025
+  },
+  {
+   "start": 2657.308,
+   "end": 2657.868,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 2657.888,
+   "end": 2658.508,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2658.508,
+   "end": 2659.788,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.513,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.157
+  },
+  {
+   "start": 2660.208,
+   "end": 2660.208,
+   "label": "speaker_2",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2660.228,
+   "end": 2660.308,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 2660.368,
+   "end": 2660.408,
+   "label": "speaker_2",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2660.468,
+   "end": 2661.408,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.337,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.108
+  },
+  {
+   "start": 2661.928,
+   "end": 2667.568,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.729,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.084
+  },
+  {
+   "start": 2667.608,
+   "end": 2668.228,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2668.328,
+   "end": 2669.728,
+   "label": "speaker_2",
+   "name": "Charles Caskey",
+   "sim": 0.533,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.081
+  },
+  {
+   "start": 2670.608,
+   "end": 2671.808,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.51,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.228,
+   "how": "voice"
+  },
+  {
+   "start": 2672.308,
+   "end": 2673.148,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.335,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.218
+  },
+  {
+   "start": 2673.768,
+   "end": 2680.088,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.65,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.233
+  },
+  {
+   "start": 2681.348,
+   "end": 2682.088,
+   "label": "speaker_2",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2682.128,
+   "end": 2683.728,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.538,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.173
+  },
+  {
+   "start": 2684.348,
+   "end": 2686.528,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.668,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.141
+  },
+  {
+   "start": 2687.508,
+   "end": 2689.828,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.713,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.144
+  },
+  {
+   "start": 2689.868,
+   "end": 2690.048,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2690.428,
+   "end": 2690.868,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 2691.608,
+   "end": 2691.668,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2691.708,
+   "end": 2691.848,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 2692.608,
+   "end": 2694.828,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.647,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.149
+  },
+  {
+   "start": 2694.928,
+   "end": 2695.368,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2695.768,
+   "end": 2700.088,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.805,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.232
+  },
+  {
+   "start": 2700.148,
+   "end": 2700.208,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2700.208,
+   "end": 2701.148,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.527,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.172
+  },
+  {
+   "start": 2701.848,
+   "end": 2701.908,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2701.968,
+   "end": 2706.688,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.668,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.207
+  },
+  {
+   "start": 2707.268,
+   "end": 2707.368,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2707.408,
+   "end": 2709.928,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.747,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.178
+  },
+  {
+   "start": 2710.768,
+   "end": 2712.688,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.537,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.094
+  },
+  {
+   "start": 2712.888,
+   "end": 2713.068,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2713.768,
+   "end": 2715.168,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.548,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.137
+  },
+  {
+   "start": 2715.268,
+   "end": 2715.348,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 2715.408,
+   "end": 2716.028,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2716.028,
+   "end": 2716.168,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 2716.228,
+   "end": 2717.208,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.28,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.108
+  },
+  {
+   "start": 2717.208,
+   "end": 2717.588,
+   "label": "speaker_2",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2717.608,
+   "end": 2718.428,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.206,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.157,
+   "low": 1
+  },
+  {
+   "start": 2718.528,
+   "end": 2718.828,
+   "label": "speaker_2",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2718.888,
+   "end": 2718.968,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2719.028,
+   "end": 2721.988,
+   "label": "speaker_2",
+   "name": "Charles Caskey",
+   "sim": 0.56,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.158
+  },
+  {
+   "start": 2722.048,
+   "end": 2722.048,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 2722.048,
+   "end": 2723.728,
+   "label": "speaker_2",
+   "name": "Charles Caskey",
+   "sim": 0.586,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.156
+  },
+  {
+   "start": 2724.148,
+   "end": 2726.048,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.773,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.241
+  },
+  {
+   "start": 2726.968,
+   "end": 2729.988,
+   "label": "speaker_2",
+   "name": "Charles Caskey",
+   "sim": 0.653,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.158
+  },
+  {
+   "start": 2730.228,
+   "end": 2732.788,
+   "label": "speaker_2",
+   "name": "Charles Caskey",
+   "sim": 0.627,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.128
+  },
+  {
+   "start": 2733.368,
+   "end": 2737.928,
+   "label": "speaker_2",
+   "name": "Charles Caskey",
+   "sim": 0.681,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.171
+  },
+  {
+   "start": 2741.668,
+   "end": 2745.808,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.657,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.227
+  },
+  {
+   "start": 2746.588,
+   "end": 2747.008,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 2747.948,
+   "end": 2750.168,
+   "label": "speaker_2",
+   "name": "Charles Caskey",
+   "sim": 0.543,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.154
+  },
+  {
+   "start": 2750.208,
+   "end": 2750.428,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2750.428,
+   "end": 2751.608,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.377,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.155
+  },
+  {
+   "start": 2751.668,
+   "end": 2751.748,
+   "label": "speaker_2",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2751.748,
+   "end": 2755.788,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.753,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.258
+  },
+  {
+   "start": 2756.588,
+   "end": 2760.088,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.741,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.214
+  },
+  {
+   "start": 2761.008,
+   "end": 2761.008,
+   "label": "speaker_2",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2761.008,
+   "end": 2763.128,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.707,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.206
+  },
+  {
+   "start": 2763.848,
+   "end": 2763.908,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 2763.968,
+   "end": 2764.028,
+   "label": "speaker_2",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2764.108,
+   "end": 2767.808,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.771,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.278
+  },
+  {
+   "start": 2768.828,
+   "end": 2771.968,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.728,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.231
+  },
+  {
+   "start": 2772.588,
+   "end": 2772.667,
+   "label": "speaker_2",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2773.107,
+   "end": 2777.848,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.724,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.333
+  },
+  {
+   "start": 2777.908,
+   "end": 2777.908,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2777.908,
+   "end": 2780.068,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.667,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.211
+  },
+  {
+   "start": 2781.008,
+   "end": 2782.048,
+   "label": "speaker_2",
+   "name": "Charles Caskey",
+   "sim": 0.462,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.238
+  },
+  {
+   "start": 2782.068,
+   "end": 2782.208,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 2782.228,
+   "end": 2785.028,
+   "label": "speaker_2",
+   "name": "Charles Caskey",
+   "sim": 0.455,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.112
+  },
+  {
+   "start": 2785.248,
+   "end": 2785.388,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 2785.408,
+   "end": 2788.788,
+   "label": "speaker_2",
+   "name": "Charles Caskey",
+   "sim": 0.672,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.122
+  },
+  {
+   "start": 2788.828,
+   "end": 2789.928,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.52,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.197
+  },
+  {
+   "start": 2790.468,
+   "end": 2797.128,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.82,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.172
+  },
+  {
+   "start": 2797.648,
+   "end": 2800.568,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.751,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.182
+  },
+  {
+   "start": 2801.528,
+   "end": 2801.628,
+   "label": "speaker_2",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2801.808,
+   "end": 2803.448,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.467,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.083
+  },
+  {
+   "start": 2803.448,
+   "end": 2803.448,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2803.508,
+   "end": 2804.668,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.468,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.103
+  },
+  {
+   "start": 2805.608,
+   "end": 2810.588,
+   "label": "speaker_2",
+   "name": "Charles Caskey",
+   "sim": 0.753,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.101
+  },
+  {
+   "start": 2811.508,
+   "end": 2812.248,
+   "label": "speaker_2",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2812.248,
+   "end": 2812.948,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 2813.688,
+   "end": 2813.788,
+   "label": "speaker_2",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2813.868,
+   "end": 2815.288,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.509,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.15
+  },
+  {
+   "start": 2815.748,
+   "end": 2818.508,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.693,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.288
+  },
+  {
+   "start": 2819.028,
+   "end": 2823.708,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.743,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.261
+  },
+  {
+   "start": 2823.768,
+   "end": 2823.988,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 2824.048,
+   "end": 2824.148,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2824.188,
+   "end": 2825.148,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.544,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.171
+  },
+  {
+   "start": 2825.308,
+   "end": 2825.308,
+   "label": "speaker_0",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2825.368,
+   "end": 2827.308,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.572,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.154
+  },
+  {
+   "start": 2827.888,
+   "end": 2829.128,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.434,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.137
+  },
+  {
+   "start": 2830.468,
+   "end": 2832.108,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.513,
+   "alt": "Lennart Verhagen",
+   "alt_sim": 0.16
+  },
+  {
+   "start": 2832.968,
+   "end": 2833.168,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 2833.208,
+   "end": 2834.508,
+   "label": "speaker_2",
+   "name": "Charles Caskey",
+   "sim": 0.502,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.107
+  },
+  {
+   "start": 2834.588,
+   "end": 2838.568,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.703,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.185
+  },
+  {
+   "start": 2840.068,
+   "end": 2845.028,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.807,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.261
+  },
+  {
+   "start": 2845.108,
+   "end": 2850.068,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.816,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.177
+  },
+  {
+   "start": 2850.608,
+   "end": 2852.128,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.427,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.134
+  },
+  {
+   "start": 2852.668,
+   "end": 2856.608,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.785,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.234
+  },
+  {
+   "start": 2857.448,
+   "end": 2859.508,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.71,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.084
+  },
+  {
+   "start": 2859.788,
+   "end": 2866.188,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.873,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.187
+  },
+  {
+   "start": 2866.968,
+   "end": 2867.668,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen"
+  },
+  {
+   "start": 2868.308,
+   "end": 2872.048,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.759,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.176
+  },
+  {
+   "start": 2872.988,
+   "end": 2875.128,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.63,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.137
+  },
+  {
+   "start": 2876.148,
+   "end": 2877.188,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.191,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.044,
+   "low": 1
+  },
+  {
+   "start": 2877.248,
+   "end": 2880.408,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.609,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.115
+  },
+  {
+   "start": 2880.488,
+   "end": 2884.568,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.765,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.199
+  },
+  {
+   "start": 2885.388,
+   "end": 2889.228,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.745,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.289
+  },
+  {
+   "start": 2890.488,
+   "end": 2897.448,
+   "label": "speaker_1",
+   "name": "Lennart Verhagen",
+   "sim": 0.548,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.203
+  }
+ ]
+}

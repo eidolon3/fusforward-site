@@ -1,0 +1,4119 @@
+1
+00:00:00,300 --> 00:00:03,220
+Charles Caskey: So are we gonna do like a formal introduction to the episode, and we're
+
+2
+00:00:03,260 --> 00:00:05,320
+gonna be like, "Hey, welcome to FUS Forward.
+
+3
+00:00:05,840 --> 00:00:08,300
+It's with Keith and Charles. We're gonna talk about..."
+
+4
+00:00:08,400 --> 00:00:09,540
+[laughs] [laughs]
+
+5
+00:00:09,540 --> 00:00:13,080
+Keith Murphy: I like that a lot. [laughs] [laughs]
+
+6
+00:00:13,280 --> 00:00:15,920
+Intro narrator: Follow Charles Caskey and Keith Murphy-
+
+7
+00:00:15,960 --> 00:00:16,460
+Keith Murphy: I think that's great
+
+8
+00:00:16,560 --> 00:00:22,500
+Intro narrator: ... as they explore the next frontier of ultrasound neuromodulation with FUS Forward.
+
+9
+00:00:23,340 --> 00:00:26,060
+Keith Murphy: Roughly 6% of our listeners are from Vietnam.
+
+10
+00:00:27,160 --> 00:00:29,520
+I don't see China on here anywhere.
+
+11
+00:00:30,220 --> 00:00:30,780
+Oh, wait. Okay.
+
+12
+00:00:31,440 --> 00:00:31,940
+Charles Caskey: What?
+
+13
+00:00:31,820 --> 00:00:35,400
+Keith Murphy: 0.3% of our listenership is from China.
+
+14
+00:00:36,440 --> 00:00:36,940
+Charles Caskey: Oh, man.
+
+15
+00:00:36,500 --> 00:00:38,800
+Keith Murphy: So Zhihai, you're about to pump those numbers.
+
+16
+00:00:38,820 --> 00:00:39,320
+[laughs]
+
+17
+00:00:39,020 --> 00:00:42,720
+Charles Caskey: Yeah. We got, we got Zhihai Qiu with us today.
+
+18
+00:00:42,760 --> 00:00:46,420
+[laughs] He's gonna-- He's re-- Hey, have we ever met in person?
+
+19
+00:00:46,540 --> 00:00:48,580
+I have met Sun. I've met Lei Sun.
+
+20
+00:00:48,680 --> 00:00:49,180
+Keith Murphy: Yes.
+
+21
+00:00:48,740 --> 00:00:50,600
+Charles Caskey: I could not-- Okay. Okay. I couldn't remember.
+
+22
+00:00:50,620 --> 00:00:52,040
+Where did, where did we cross paths?
+
+23
+00:00:53,040 --> 00:00:57,440
+Zhihai Qiu: Yeah. We, we met each other first in, uh, Vancouver- Oh, okay ...
+
+24
+00:00:57,480 --> 00:01:00,120
+for the Brain Stimulation conference. Yeah.
+
+25
+00:01:00,900 --> 00:01:03,240
+Charles Caskey: 2019. Okay. It's been a little bit.
+
+26
+00:01:03,360 --> 00:01:03,860
+Zhihai Qiu: Yeah.
+
+27
+00:01:03,420 --> 00:01:04,480
+Charles Caskey: Okay. [laughs]
+
+28
+00:01:04,500 --> 00:01:05,000
+Zhihai Qiu: Yeah. [laughs]
+
+29
+00:01:04,880 --> 00:01:05,680
+Keith Murphy: Been a while.
+
+30
+00:01:06,240 --> 00:01:06,740
+Zhihai Qiu: Yes.
+
+31
+00:01:06,440 --> 00:01:07,400
+Charles Caskey: It's been a while.
+
+32
+00:01:07,580 --> 00:01:09,280
+Keith Murphy: Zhihai, you know the, you know the gist.
+
+33
+00:01:09,400 --> 00:01:10,960
+We're gonna just talk about stuff.
+
+34
+00:01:11,020 --> 00:01:13,500
+Did you listen to any episodes before you joined?
+
+35
+00:01:14,340 --> 00:01:20,340
+Zhihai Qiu: Yes. Um, I, I actually have, uh, choice, like, podcast, uh, in different
+
+36
+00:01:20,400 --> 00:01:21,120
+channels. Yeah.
+
+37
+00:01:22,460 --> 00:01:24,260
+Keith Murphy: Yeah. But did you li- did you listen to ours?
+
+38
+00:01:25,440 --> 00:01:27,180
+Zhihai Qiu: No. [laughs] No.
+
+39
+00:01:27,300 --> 00:01:28,480
+Keith Murphy: Okay. You should listen to it.
+
+40
+00:01:29,300 --> 00:01:32,360
+Which is, which is a good time to tell everyone that Zhihai has been
+
+41
+00:01:32,420 --> 00:01:35,080
+out of the States for, like, five years now.
+
+42
+00:01:35,160 --> 00:01:36,920
+Three, three, five years, something like that.
+
+43
+00:01:37,160 --> 00:01:38,880
+Zhihai Qiu: Four years. Four, four years. Four years.
+
+44
+00:01:39,140 --> 00:01:43,140
+Keith Murphy: And I remember when we last year, we were at Stanford together, young bucks,
+
+45
+00:01:43,440 --> 00:01:44,420
+postdocs together.
+
+46
+00:01:45,120 --> 00:01:45,620
+Zhihai Qiu: Yeah.
+
+47
+00:01:45,220 --> 00:01:50,200
+Keith Murphy: And one day, Zhihai packed up and left to become a professor, principal investigator
+
+48
+00:01:50,260 --> 00:01:54,280
+at the Guangdong Institute of Intelligence Science and Technology.
+
+49
+00:01:55,060 --> 00:01:55,560
+Zhihai Qiu: Yeah.
+
+50
+00:01:55,800 --> 00:01:57,140
+Keith Murphy: Is that correct? [laughs]
+
+51
+00:01:57,200 --> 00:01:57,700
+Zhihai Qiu: Yes. Yes.
+
+52
+00:01:57,580 --> 00:01:58,680
+Keith Murphy: Do I have that right? In-
+
+53
+00:01:58,760 --> 00:01:59,260
+Zhihai Qiu: Yes
+
+54
+00:01:58,900 --> 00:01:59,860
+Keith Murphy: ... in Zhuhai.
+
+55
+00:02:00,600 --> 00:02:01,100
+Zhihai Qiu: Yeah.
+
+56
+00:02:00,820 --> 00:02:01,780
+Keith Murphy: I don't know where that is.
+
+57
+00:02:01,820 --> 00:02:03,820
+[laughs] Where is it?
+
+58
+00:02:03,860 --> 00:02:07,400
+Zhihai Qiu: It's co- it's close to Macau, if you, if you know Macau, where it
+
+59
+00:02:07,460 --> 00:02:07,960
+is. Yeah.
+
+60
+00:02:08,760 --> 00:02:12,000
+Keith Murphy: Okay. Awesome. And, and there, um, I mean, we've seen some of your new
+
+61
+00:02:12,060 --> 00:02:14,300
+work, but you picked up where you left off.
+
+62
+00:02:14,360 --> 00:02:19,360
+You're doing lots of, uh, cranial imaging and mouse models, some work in rats,
+
+63
+00:02:19,440 --> 00:02:23,440
+perhaps, developing new tools, investigating new mechanisms.
+
+64
+00:02:23,940 --> 00:02:28,500
+And, and maybe you're gonna talk about your origins in sonogenetics, and maybe we
+
+65
+00:02:28,560 --> 00:02:32,060
+can debate who was first on that.
+
+66
+00:02:32,140 --> 00:02:33,060
+I don't know if that's a debate.
+
+67
+00:02:33,260 --> 00:02:36,400
+Is that a debate, Zhihai? Who was first to do sonogenetics?
+
+68
+00:02:36,500 --> 00:02:37,560
+Maybe Charles already knows.
+
+69
+00:02:39,180 --> 00:02:41,080
+Charles Caskey: I think-- Oh, I, I have thoughts.
+
+70
+00:02:41,080 --> 00:02:42,880
+[laughs] Oh.
+
+71
+00:02:43,160 --> 00:02:43,660
+Keith Murphy: Charles, who would-
+
+72
+00:02:43,640 --> 00:02:44,140
+Charles Caskey: Charles first
+
+73
+00:02:43,980 --> 00:02:45,320
+Keith Murphy: ... who would you have said was first?
+
+74
+00:02:45,380 --> 00:02:46,580
+Yeah, Charles, who was first?
+
+75
+00:02:46,680 --> 00:02:49,680
+Charles Caskey: The first person to do sonogenetics.
+
+76
+00:02:50,120 --> 00:02:53,180
+Yeah, I think, I think it's, I think it's really two people, and I
+
+77
+00:02:53,200 --> 00:02:56,060
+think that, uh, Zhihai is related to, uh, you know, one of them with
+
+78
+00:02:56,160 --> 00:03:00,200
+Lei Sun. I think Lei Sun was very, very early, and then, uh, Sreekanth
+
+79
+00:03:00,260 --> 00:03:03,960
+Chalasani is the other person. Those are the two main people that come to
+
+80
+00:03:03,980 --> 00:03:07,520
+my mind. And, uh, different molecules, though, right?
+
+81
+00:03:07,760 --> 00:03:11,020
+MscL versus, uh, versus the... Oh, gosh.
+
+82
+00:03:11,420 --> 00:03:11,920
+What is it?
+
+83
+00:03:11,780 --> 00:03:12,280
+Zhihai Qiu: TRP, TRP-4.
+
+84
+00:03:12,280 --> 00:03:12,780
+Charles Caskey: What?
+
+85
+00:03:12,520 --> 00:03:13,020
+Zhihai Qiu: TRP-4.
+
+86
+00:03:12,920 --> 00:03:14,360
+Charles Caskey: TRP-4. Yes. Thank you. Thank you.
+
+87
+00:03:14,360 --> 00:03:14,860
+Zhihai Qiu: Yeah.
+
+88
+00:03:14,400 --> 00:03:14,900
+Keith Murphy: Mm.
+
+89
+00:03:15,260 --> 00:03:15,760
+Charles Caskey: Yeah. So-
+
+90
+00:03:15,760 --> 00:03:17,220
+Keith Murphy: A beast of a channel. [laughs]
+
+91
+00:03:17,260 --> 00:03:19,840
+Charles Caskey: Yeah. So, so I think we can, we can call this one, I think
+
+92
+00:03:19,880 --> 00:03:22,780
+we can call that one, uh, independent discovery, right?
+
+93
+00:03:22,860 --> 00:03:23,780
+Uh, the, uh-
+
+94
+00:03:23,900 --> 00:03:24,400
+Zhihai Qiu: I think the-
+
+95
+00:03:24,180 --> 00:03:25,160
+Charles Caskey: 'Cause they're separate channels
+
+96
+00:03:25,160 --> 00:03:27,300
+Zhihai Qiu: ... I think the first one is Sree.
+
+97
+00:03:27,480 --> 00:03:33,400
+They, they apply sonogen-- or they kind of come up the sonogenetic model and
+
+98
+00:03:33,480 --> 00:03:36,240
+tested in C. elegans. Yeah.
+
+99
+00:03:36,340 --> 00:03:36,840
+Keith Murphy: Oh.
+
+100
+00:03:37,420 --> 00:03:37,920
+Zhihai Qiu: So that paper-
+
+101
+00:03:37,620 --> 00:03:40,420
+Keith Murphy: Where'd you start, in mice? Did you go mice or C.
+
+102
+00:03:40,560 --> 00:03:41,180
+elegans first?
+
+103
+00:03:41,300 --> 00:03:42,420
+Zhihai Qiu: I go mice first. Yeah.
+
+104
+00:03:43,220 --> 00:03:44,160
+Keith Murphy: Nice. Nice.
+
+105
+00:03:44,300 --> 00:03:44,800
+Zhihai Qiu: Yeah.
+
+106
+00:03:45,280 --> 00:03:47,020
+Keith Murphy: I remember talking about your channel.
+
+107
+00:03:47,580 --> 00:03:50,420
+Your channel was discovered in bacteria, right?
+
+108
+00:03:50,620 --> 00:03:55,440
+Whereas Sree's was discovered... I, I don't know where TRP-4 is most common, but
+
+109
+00:03:55,480 --> 00:03:57,420
+that's in mammals as well, I believe.
+
+110
+00:03:58,120 --> 00:04:01,540
+Zhihai Qiu: I think, I think TRP-4 is mainly expressed in C.
+
+111
+00:04:01,620 --> 00:04:06,300
+elegans. I, I, I don't know the, I, I'm not the expert, but I
+
+112
+00:04:06,320 --> 00:04:08,320
+think it's mainly in C. elegans.
+
+113
+00:04:08,480 --> 00:04:08,980
+Yeah.
+
+114
+00:04:09,260 --> 00:04:13,440
+Keith Murphy: Oh, he-- So he just increased expression of something they already had, and he
+
+115
+00:04:13,480 --> 00:04:14,160
+just pumped it up.
+
+116
+00:04:14,960 --> 00:04:15,780
+Zhihai Qiu: Yeah. Yeah, yeah, yeah.
+
+117
+00:04:16,260 --> 00:04:19,620
+Keith Murphy: S-so yours, to me, feels like purest sonogenetics.
+
+118
+00:04:19,720 --> 00:04:23,440
+You took something that didn't exist in mammals.
+
+119
+00:04:23,920 --> 00:04:26,300
+M- what does MscL stand for again?
+
+120
+00:04:26,420 --> 00:04:28,280
+Zhihai Qiu: It's, uh, mechanosensitive-
+
+121
+00:04:28,340 --> 00:04:29,340
+Keith Murphy: Large conductive subunit
+
+122
+00:04:29,420 --> 00:04:31,880
+Zhihai Qiu: ... layer. Yeah, yeah, yeah. [laughs] [laughs]
+
+123
+00:04:32,000 --> 00:04:35,000
+Keith Murphy: Something like that. [laughs]
+
+124
+00:04:35,060 --> 00:04:35,560
+Charles Caskey: Yeah.
+
+125
+00:04:35,480 --> 00:04:36,280
+Zhihai Qiu: So, uh-
+
+126
+00:04:36,320 --> 00:04:39,820
+Keith Murphy: So is it, is it still sonogenetics if you took something that was already
+
+127
+00:04:39,860 --> 00:04:40,900
+there and dialed it up?
+
+128
+00:04:41,260 --> 00:04:43,900
+Charles Caskey: If you're overexpressing it, uh, yeah, it's gotta be.
+
+129
+00:04:44,180 --> 00:04:47,120
+It's synthetic biology. It's molecular manipulation.
+
+130
+00:04:47,720 --> 00:04:49,660
+Keith Murphy: Still fair. Tell us about the journey.
+
+131
+00:04:49,760 --> 00:04:52,660
+How'd you discover it? How'd you-- You were the, you were the first author
+
+132
+00:04:52,700 --> 00:04:53,920
+on that first paper, right?
+
+133
+00:04:54,600 --> 00:05:00,280
+Zhihai Qiu: So, so my background is physics, uh, for my bachelor degree, and then I
+
+134
+00:05:00,660 --> 00:05:06,700
+study optical engineering during my master degree, and then switch to biomedical engineering for
+
+135
+00:05:06,740 --> 00:05:10,700
+my PhD study. So at the beginning of my PhD study, I'm thinking about,
+
+136
+00:05:11,300 --> 00:05:14,840
+um, what's the, the, the right direction I should go.
+
+137
+00:05:15,320 --> 00:05:20,180
+So at that time, there are several, um, hot topics maybe, and yeah.
+
+138
+00:05:20,600 --> 00:05:23,080
+So one is histotripsy at that time.
+
+139
+00:05:23,420 --> 00:05:27,440
+So at that time, it's only get, like, started to, to do the clinical
+
+140
+00:05:27,500 --> 00:05:30,120
+trial by Professor Zhen Xu, right?
+
+141
+00:05:30,700 --> 00:05:36,800
+Um, the other direction is super-resolution, uh, because, uh, before, before the, the,
+
+142
+00:05:37,140 --> 00:05:43,760
+um, the landmark paper published in Nature by Michael Ten- uh, Mickael Tanter's
+
+143
+00:05:43,820 --> 00:05:49,260
+group. So there is a, um, there's, there's many work have been done in
+
+144
+00:05:49,340 --> 00:05:54,600
+optics, like super-resolution, but the concept haven't been, like, transferred to ultrasound field.
+
+145
+00:05:55,100 --> 00:05:57,540
+So I'm thinking about these three directions.
+
+146
+00:05:57,680 --> 00:06:01,460
+Because I'm-- my background is physics, uh, physics and, um, um, optical.
+
+147
+00:06:01,700 --> 00:06:06,830
+And I quickly Um, like, uh, thinking about how to adopt the idea of
+
+148
+00:06:06,870 --> 00:06:10,070
+optogenetics in ultrasound neuromodulation field.
+
+149
+00:06:10,190 --> 00:06:10,690
+Charles Caskey: Cool.
+
+150
+00:06:10,310 --> 00:06:11,850
+Zhihai Qiu: So yeah, so th-that- Mm ...
+
+151
+00:06:11,930 --> 00:06:14,690
+that's how I got the, uh, get started.
+
+152
+00:06:14,830 --> 00:06:17,790
+Charles Caskey: I like that. It sounds like you were, like, right at the nexus of,
+
+153
+00:06:17,830 --> 00:06:21,210
+like, all the cool technologies with your background right there.
+
+154
+00:06:21,270 --> 00:06:21,770
+Zhihai Qiu: Yeah, yeah.
+
+155
+00:06:21,330 --> 00:06:24,050
+Charles Caskey: And then, and were lo-logically putting them together.
+
+156
+00:06:24,430 --> 00:06:29,870
+I never thought about the way that super-resolution and ultrasound localization mar- microscopy was
+
+157
+00:06:29,910 --> 00:06:32,730
+so parallel to optical. I knew that, but I never really thought about it
+
+158
+00:06:32,770 --> 00:06:35,230
+with optogenetics and sonogenetics. It's just another- [chuckles] ...
+
+159
+00:06:35,230 --> 00:06:38,690
+like, thing where optical ideas transferred over.
+
+160
+00:06:38,950 --> 00:06:39,450
+I love that.
+
+161
+00:06:39,550 --> 00:06:42,230
+Keith Murphy: How'd you pick that channel? You just, like, throwing darts?
+
+162
+00:06:42,370 --> 00:06:46,350
+Zhihai Qiu: At that time, I have no ideas about, like, uh, neurons.
+
+163
+00:06:47,090 --> 00:06:52,250
+I have never cultured, uh, cells either, so without any background.
+
+164
+00:06:52,330 --> 00:06:54,690
+So I, I kind of searched, uh, literature.
+
+165
+00:06:54,870 --> 00:06:58,870
+I found the, the logic that I need to, to find the pure mechanosensitive
+
+166
+00:06:59,050 --> 00:07:03,370
+channels. So one- Mm-hmm ... is Piezo1, the Nobel Prize channel, right?
+
+167
+00:07:03,910 --> 00:07:04,730
+And the other one- Mm-hmm ...
+
+168
+00:07:04,810 --> 00:07:09,890
+is, uh, MscL. So I, I emailed the corresponding author.
+
+169
+00:07:10,010 --> 00:07:13,370
+I, I said that, "I want to-- I want the, your, your plasmid.
+
+170
+00:07:13,870 --> 00:07:16,570
+I want to develop some, uh, sonogenetic stuff."
+
+171
+00:07:16,890 --> 00:07:20,210
+And then they shipped the, uh, the plasmid to me.
+
+172
+00:07:20,750 --> 00:07:22,290
+So that, that's how I got...
+
+173
+00:07:22,290 --> 00:07:23,070
+[chuckles]
+
+174
+00:07:23,150 --> 00:07:26,090
+Keith Murphy: Oh, wow. So you collaborated. Who is the, who is that team?
+
+175
+00:07:26,150 --> 00:07:29,690
+Zhihai Qiu: Uh, it's, it's called Charles. He's kind of a n- he, he's a young
+
+176
+00:07:30,010 --> 00:07:31,750
+professor now. Let me, let me, let me...
+
+177
+00:07:32,150 --> 00:07:34,230
+I, I need to, I need to pull up the-
+
+178
+00:07:34,350 --> 00:07:35,850
+Keith Murphy: No Googling on the podcast.
+
+179
+00:07:36,270 --> 00:07:36,770
+Zhihai Qiu: Oh. [chuckles]
+
+180
+00:07:36,490 --> 00:07:40,590
+Keith Murphy: You gotta go from memory. [laughs] Don't worry about who it is.
+
+181
+00:07:40,990 --> 00:07:42,330
+I, I- He sounds like a very important guy.
+
+182
+00:07:42,770 --> 00:07:43,270
+Charles Caskey: He does.
+
+183
+00:07:43,210 --> 00:07:43,710
+Keith Murphy: Yeah.
+
+184
+00:07:43,310 --> 00:07:46,810
+Charles Caskey: Yeah, yeah. W-w- but, but I think it's-- I, I love this about, like,
+
+185
+00:07:46,930 --> 00:07:50,710
+the genetic engineering field. It's like everybody's like, it's like, "Put it on Addgene.
+
+186
+00:07:50,770 --> 00:07:51,970
+Get your plasmid out there."
+
+187
+00:07:52,010 --> 00:07:52,510
+Keith Murphy: Yeah. [chuckles]
+
+188
+00:07:52,050 --> 00:07:56,150
+Charles Caskey: Like, I feel like so many engineers are like, "We're not sharing our algorithm,"
+
+189
+00:07:56,230 --> 00:07:57,090
+you know? [laughs]
+
+190
+00:07:57,390 --> 00:08:00,630
+Keith Murphy: Yeah. The geneticists are trading Pokémon cards over there.
+
+191
+00:08:00,850 --> 00:08:03,790
+Charles Caskey: Yeah, yeah. They're just, like, throwing them out there, giving away goodie bags, and
+
+192
+00:08:03,810 --> 00:08:04,310
+like... [laughs]
+
+193
+00:08:04,290 --> 00:08:04,790
+Zhihai Qiu: Yeah.
+
+194
+00:08:06,830 --> 00:08:07,330
+Charles Caskey: Oh, yeah.
+
+195
+00:08:07,090 --> 00:08:09,950
+Keith Murphy: Yeah. I had a-- I, I was trying to get a genetic strain of
+
+196
+00:08:10,050 --> 00:08:13,090
+Drosophila. Oh, man, it was like, had to be 10 years ago.
+
+197
+00:08:13,830 --> 00:08:17,070
+And I guess I misread, like, where the form was coming from, and I
+
+198
+00:08:17,090 --> 00:08:21,350
+was like, "Dear Dr. Glasgow." But the guy was just from Glasgow.
+
+199
+00:08:21,350 --> 00:08:25,530
+[laughs] He could've easily have been offended and, and he was just like, "Yep,
+
+200
+00:08:25,830 --> 00:08:27,710
+I'll get my admin to ship those right over."
+
+201
+00:08:28,310 --> 00:08:28,810
+Charles Caskey: Yeah, I thought it was just California.
+
+202
+00:08:28,670 --> 00:08:29,530
+Keith Murphy: I had a bunch of new plasmids.
+
+203
+00:08:29,530 --> 00:08:33,850
+[laughs] That was, that was literally what I did.
+
+204
+00:08:34,430 --> 00:08:36,330
+I couldn't believe it in retrospect.
+
+205
+00:08:37,450 --> 00:08:38,210
+Zhihai Qiu: Oh, that's great.
+
+206
+00:08:38,530 --> 00:08:39,990
+Keith Murphy: But he gave it to me nonetheless.
+
+207
+00:08:40,050 --> 00:08:41,090
+That's how open they are.
+
+208
+00:08:41,830 --> 00:08:42,330
+Charles Caskey: Yeah.
+
+209
+00:08:41,870 --> 00:08:43,570
+Keith Murphy: So you, so you found this paper.
+
+210
+00:08:44,530 --> 00:08:45,030
+Charles Caskey: Yeah.
+
+211
+00:08:44,570 --> 00:08:47,610
+Keith Murphy: You got this large non-endogenous subunit.
+
+212
+00:08:48,290 --> 00:08:52,330
+You encoded it into neurons somewhere in the mouse brain.
+
+213
+00:08:52,390 --> 00:08:53,550
+I can't remember where you did it.
+
+214
+00:08:54,190 --> 00:08:58,910
+And this channel just is so leaky with any amount of force.
+
+215
+00:08:59,210 --> 00:09:02,670
+How much less pressure did you have to use to get these neurons to
+
+216
+00:09:03,330 --> 00:09:03,830
+turn on?
+
+217
+00:09:03,710 --> 00:09:10,490
+Zhihai Qiu: Um, so we used two, 2.2 megapascal that can activate
+
+218
+00:09:10,650 --> 00:09:11,250
+those, uh, mechanosensitive expression.
+
+219
+00:09:11,270 --> 00:09:12,850
+Keith Murphy: How much? 0.2?
+
+220
+00:09:13,790 --> 00:09:15,030
+Zhihai Qiu: 2.2 megapascal.
+
+221
+00:09:15,110 --> 00:09:16,970
+Keith Murphy: That's very low for the audience.
+
+222
+00:09:17,150 --> 00:09:17,650
+Zhihai Qiu: Yeah.
+
+223
+00:09:17,170 --> 00:09:18,570
+Keith Murphy: That is, uh, on the low end.
+
+224
+00:09:19,330 --> 00:09:19,830
+Zhihai Qiu: Yeah, yeah.
+
+225
+00:09:19,750 --> 00:09:21,950
+Keith Murphy: Uh, maybe some astrocytes will activate with that.
+
+226
+00:09:22,530 --> 00:09:23,030
+Charles Caskey: Maybe.
+
+227
+00:09:23,950 --> 00:09:24,450
+Zhihai Qiu: Yeah.
+
+228
+00:09:24,050 --> 00:09:26,790
+Charles Caskey: We haven't got to that part of the story because that, that's something I
+
+229
+00:09:26,810 --> 00:09:29,930
+wanna know more about later. So I guess, like, you had MscL.
+
+230
+00:09:30,110 --> 00:09:33,590
+Uh, did you also have the, this, the one of the earlier works on
+
+231
+00:09:33,630 --> 00:09:37,010
+the, the role of Piezo1, and that's, like, a part of the story.
+
+232
+00:09:37,850 --> 00:09:41,250
+Did you look at both of them for sonogenetics, or did you-- Was- Yes.
+
+233
+00:09:41,250 --> 00:09:42,710
+Did one of them just transfect better?
+
+234
+00:09:43,350 --> 00:09:48,290
+Zhihai Qiu: Yeah. So I have a, uh, I have another paper that is about Piezo1.
+
+235
+00:09:48,890 --> 00:09:51,470
+It's published in iScience. It's, it is- Mm-hmm ...
+
+236
+00:09:51,550 --> 00:09:56,610
+it has been reviewed by Cell at, uh, at the, so w-we submitted to
+
+237
+00:09:56,710 --> 00:09:58,370
+Cell, and it has got reviewed.
+
+238
+00:09:58,850 --> 00:09:59,350
+But, uh [chuckles]
+
+239
+00:09:59,330 --> 00:10:02,210
+Keith Murphy: Wow. They trashed it? [laughs]
+
+240
+00:10:02,230 --> 00:10:02,730
+Zhihai Qiu: Yeah.
+
+241
+00:10:02,650 --> 00:10:05,430
+Keith Murphy: That's close. That's a big, that's a big gap.
+
+242
+00:10:05,450 --> 00:10:07,930
+[laughs] From Cell all the way down to iScience.
+
+243
+00:10:08,550 --> 00:10:09,050
+Zhihai Qiu: Yeah.
+
+244
+00:10:08,570 --> 00:10:10,370
+Keith Murphy: What, what happened? [laughs]
+
+245
+00:10:10,430 --> 00:10:12,590
+Charles Caskey: All right. I've gotta look up these impact factors.
+
+246
+00:10:12,730 --> 00:10:13,230
+[chuckles]
+
+247
+00:10:13,250 --> 00:10:13,750
+Keith Murphy: Jesus.
+
+248
+00:10:13,570 --> 00:10:14,070
+Zhihai Qiu: So that's-
+
+249
+00:10:14,130 --> 00:10:15,950
+Keith Murphy: That's a-- Charles, you should know.
+
+250
+00:10:16,550 --> 00:10:17,450
+That's a big one.
+
+251
+00:10:17,950 --> 00:10:23,510
+Zhihai Qiu: So yeah, so that, that, that paper is, uh, have only the cellular result.
+
+252
+00:10:24,210 --> 00:10:27,550
+So we didn't, we didn't do the, uh, in vivo experiment.
+
+253
+00:10:28,170 --> 00:10:29,690
+So [chuckles] the-
+
+254
+00:10:29,750 --> 00:10:30,250
+Keith Murphy: Hmm.
+
+255
+00:10:30,070 --> 00:10:33,590
+Zhihai Qiu: I, I, I can't remember the details about the review comment, but I still
+
+256
+00:10:33,670 --> 00:10:39,350
+remember the, how, like, the reviewer s-seems, like, angry about the quality of the
+
+257
+00:10:39,350 --> 00:10:39,850
+paper.
+
+258
+00:10:39,350 --> 00:10:42,590
+Keith Murphy: [laughs] Maybe it was trash. [laughs]
+
+259
+00:10:42,650 --> 00:10:46,070
+Zhihai Qiu: It's kind of like this, this paper, the quality is so poor.
+
+260
+00:10:46,130 --> 00:10:50,270
+Why, why, why did the editors that you sent out for review- Ah ...
+
+261
+00:10:50,330 --> 00:10:53,270
+I, I... So that, that's kind of my feel- feeling.
+
+262
+00:10:53,330 --> 00:10:53,830
+[chuckles]
+
+263
+00:10:53,670 --> 00:10:56,710
+Keith Murphy: So you, you were, you were so discouraged.
+
+264
+00:10:57,050 --> 00:10:57,550
+Zhihai Qiu: I-
+
+265
+00:10:57,090 --> 00:10:58,370
+Keith Murphy: You went all the way down.
+
+266
+00:10:58,450 --> 00:10:59,650
+[laughs] [chuckles]
+
+267
+00:10:59,770 --> 00:11:03,590
+Charles Caskey: He's like-- I-- All right, for the listeners, for the listeners, I looked it
+
+268
+00:11:03,670 --> 00:11:07,610
+up. The, the impact factor of s- of Cell is 45.
+
+269
+00:11:07,890 --> 00:11:11,610
+Uh, the impact factor of iScience is four.
+
+270
+00:11:12,130 --> 00:11:12,630
+So-
+
+271
+00:11:12,930 --> 00:11:13,430
+Keith Murphy: Whoa.
+
+272
+00:11:13,030 --> 00:11:13,550
+Zhihai Qiu: It's a nice-
+
+273
+00:11:13,910 --> 00:11:16,590
+Charles Caskey: Yeah. [laughs] It's 10, 10 times different.
+
+274
+00:11:16,990 --> 00:11:19,750
+So r- this, this paper was delightful, though.
+
+275
+00:11:20,130 --> 00:11:25,670
+So, uh, reviewer who was mean to Zhihai, we're-- you're on FUS Forward watch.
+
+276
+00:11:25,670 --> 00:11:27,630
+[laughs]
+
+277
+00:11:27,810 --> 00:11:29,190
+Keith Murphy: FUS Forward watch.
+
+278
+00:11:29,450 --> 00:11:32,590
+Charles Caskey: Yeah. And we're gonna, we're gonna make you-- We're gonna put you FUS backwards
+
+279
+00:11:32,610 --> 00:11:33,610
+and turn you all around-
+
+280
+00:11:33,610 --> 00:11:34,110
+Keith Murphy: Backwards
+
+281
+00:11:33,810 --> 00:11:36,050
+Charles Caskey: ... 'cause, 'cause you, you missed the boat on that one.
+
+282
+00:11:36,170 --> 00:11:38,150
+[laughs]
+
+283
+00:11:38,210 --> 00:11:43,110
+Zhihai Qiu: So, but the, but s- the, the, the upside is that the citation is
+
+284
+00:11:43,250 --> 00:11:46,070
+now, like, around 250. Isn't that-
+
+285
+00:11:46,070 --> 00:11:46,630
+Keith Murphy: Yeah. Nice
+
+286
+00:11:46,650 --> 00:11:47,270
+Charles Caskey: ... that's, yeah.
+
+287
+00:11:47,330 --> 00:11:48,170
+Keith Murphy: Well-respected.
+
+288
+00:11:48,610 --> 00:11:49,110
+Charles Caskey: Yeah.
+
+289
+00:11:48,630 --> 00:11:50,550
+Keith Murphy: You're bringing the impact factor up from a four to 4.2.
+
+290
+00:11:50,630 --> 00:11:52,190
+Charles Caskey: Yeah, you bring the impact factor up.
+
+291
+00:11:52,630 --> 00:11:56,230
+Oh, Keith and I talk a lot about impact factors [chuckles] for a reason.
+
+292
+00:11:57,110 --> 00:11:57,610
+Keith Murphy: Yeah, we do.
+
+293
+00:11:57,630 --> 00:11:59,470
+Charles Caskey: So no, that was a cool paper.
+
+294
+00:12:00,110 --> 00:12:03,390
+Zhihai Qiu: The, the, yeah, the, that's the first paper actually in s- in Lei Sun's
+
+295
+00:12:03,450 --> 00:12:06,690
+lab, like, doing cellular biology experiment.
+
+296
+00:12:06,850 --> 00:12:10,530
+So, so it's, it's kind of reasonable because [chuckles] we don't know, we don't,
+
+297
+00:12:10,650 --> 00:12:13,650
+we, we didn't know how to culture neurons at the beginning.
+
+298
+00:12:13,650 --> 00:12:15,970
+[laughs] Yeah, even-
+
+299
+00:12:16,130 --> 00:12:17,730
+Keith Murphy: You had to learn all that on the fly, right?
+
+300
+00:12:18,230 --> 00:12:18,730
+Zhihai Qiu: Yeah.
+
+301
+00:12:18,250 --> 00:12:21,870
+Keith Murphy: That's, like, very impressive. [laughs] Never screw it up?
+
+302
+00:12:23,160 --> 00:12:27,180
+Zhihai Qiu: Yeah, it's difficult. So the, the reason why we only d- would only have
+
+303
+00:12:27,260 --> 00:12:31,900
+a cellular experiment, it becau- it's because the Piezo1 is so large, it's difficult
+
+304
+00:12:31,940 --> 00:12:34,880
+to pack it into, um, like AAV virus.
+
+305
+00:12:35,000 --> 00:12:39,520
+But we, we spent a lot of time, but, um, did not successful in,
+
+306
+00:12:39,720 --> 00:12:41,480
+in vivo, so we, we gave up.
+
+307
+00:12:42,000 --> 00:12:42,560
+So yeah.
+
+308
+00:12:42,920 --> 00:12:43,420
+Keith Murphy: Yeah.
+
+309
+00:12:43,240 --> 00:12:47,160
+Charles Caskey: That-- So that one was-- So it was Piezo1 was tough to package and
+
+310
+00:12:47,200 --> 00:12:48,340
+transfect in vivo.
+
+311
+00:12:48,380 --> 00:12:49,060
+Zhihai Qiu: Yeah. Yeah.
+
+312
+00:12:49,080 --> 00:12:53,040
+Charles Caskey: And so that's what evo- ultimately led you to MscL, which is much smaller.
+
+313
+00:12:53,180 --> 00:12:54,420
+Is it smaller- Yeah ... smaller protein?
+
+314
+00:12:54,440 --> 00:12:54,940
+Zhihai Qiu: It's smaller, yeah.
+
+315
+00:12:54,880 --> 00:12:55,380
+Charles Caskey: Okay.
+
+316
+00:12:55,220 --> 00:12:55,880
+Zhihai Qiu: It's smaller, yeah.
+
+317
+00:12:56,000 --> 00:12:57,040
+Charles Caskey: Cool. Cool.
+
+318
+00:12:57,560 --> 00:13:01,780
+Keith Murphy: We're gonna ask you to rectify, and we're trying to sort out these papers
+
+319
+00:13:01,840 --> 00:13:07,640
+as well, but later in life, you were a prominent figure in the Piezo1
+
+320
+00:13:07,760 --> 00:13:11,540
+paper showing cortical sensitivity from Lei Sun's lab.
+
+321
+00:13:12,260 --> 00:13:12,760
+Zhihai Qiu: Yeah.
+
+322
+00:13:12,600 --> 00:13:14,260
+Keith Murphy: But those were not deaf mice.
+
+323
+00:13:14,360 --> 00:13:15,060
+They could hear.
+
+324
+00:13:15,880 --> 00:13:16,380
+Zhihai Qiu: Yeah, they can hear.
+
+325
+00:13:16,240 --> 00:13:20,600
+Keith Murphy: And it changed the sensitivity. And then later, you found that there are not
+
+326
+00:13:20,680 --> 00:13:23,860
+so many cells that are purely sensitive to ultrasound.
+
+327
+00:13:24,440 --> 00:13:24,940
+Zhihai Qiu: Yeah.
+
+328
+00:13:24,520 --> 00:13:30,820
+Keith Murphy: And Charles and I are trying to rectify if you hear a sound and
+
+329
+00:13:30,900 --> 00:13:35,580
+you're trying to ultrasonically stimulate, maybe it's together that they can do more than
+
+330
+00:13:35,680 --> 00:13:40,500
+either alone. And when you did your experiments in deaf mice, you were just
+
+331
+00:13:40,560 --> 00:13:43,520
+looking for pure ultrasound engagement. Like where did you-
+
+332
+00:13:43,580 --> 00:13:44,080
+Zhihai Qiu: Yes.
+
+333
+00:13:43,600 --> 00:13:46,580
+Keith Murphy: Where do you guys lend, land up in your lab on all of this?
+
+334
+00:13:46,640 --> 00:13:47,140
+What's the-
+
+335
+00:13:47,020 --> 00:13:47,520
+Zhihai Qiu: Okay. [clears throat]
+
+336
+00:13:47,180 --> 00:13:48,960
+Keith Murphy: What's the current thinking? [laughs]
+
+337
+00:13:49,020 --> 00:13:50,700
+Zhihai Qiu: So, yeah. [laughs] So-
+
+338
+00:13:50,820 --> 00:13:51,720
+Keith Murphy: There's a lot going on
+
+339
+00:13:51,720 --> 00:13:57,780
+Zhihai Qiu: ... yeah, so the, the auditory confounds is, uh, I think, in, in
+
+340
+00:13:57,840 --> 00:14:00,600
+my mind, still a question, right, in the, in the field.
+
+341
+00:14:01,200 --> 00:14:06,960
+So, um, in-- At Stanford, uh, the Kim, Kim just like, uh, is, is,
+
+342
+00:14:07,200 --> 00:14:10,680
+is trying to, uh, f- uh, solve the, the debate.
+
+343
+00:14:10,860 --> 00:14:15,100
+So I, I did some experiment at Stanford, but [laughs] I did not finish
+
+344
+00:14:15,180 --> 00:14:17,520
+the experiment, and then I escaped.
+
+345
+00:14:17,560 --> 00:14:20,020
+Keith Murphy: It happens. [laughs]
+
+346
+00:14:20,060 --> 00:14:20,560
+Zhihai Qiu: Yeah, so-
+
+347
+00:14:20,380 --> 00:14:20,880
+Keith Murphy: It happens
+
+348
+00:14:20,620 --> 00:14:23,660
+Zhihai Qiu: ... but by, but I still want to know the answer.
+
+349
+00:14:23,760 --> 00:14:28,560
+So, um- Yeah ... after I, I, uh, came back in, in China and
+
+350
+00:14:28,640 --> 00:14:31,240
+start my lab, I hired a postdoc.
+
+351
+00:14:31,500 --> 00:14:35,740
+So I, I, we have, uh, we have built a two-photon imaging microscope.
+
+352
+00:14:36,300 --> 00:14:39,900
+So the, the appro- approach is really simple.
+
+353
+00:14:39,980 --> 00:14:44,460
+So we just make, surgically make the mice deaf, make sure that the mice
+
+354
+00:14:44,520 --> 00:14:50,160
+cannot hear. And then we shine a ultrasound, use a ring transducer, just like
+
+355
+00:14:50,200 --> 00:14:56,360
+Keith has been done in the two papers, um, use the, uh, two-photon microscope
+
+356
+00:14:56,400 --> 00:14:58,460
+to, to monitor the neural activity.
+
+357
+00:14:58,560 --> 00:15:04,660
+We, we choose visual cortex, uh, as our target, um, because we want to,
+
+358
+00:15:04,920 --> 00:15:10,720
+want to use the, the visual evoked responses as a, uh, positive control.
+
+359
+00:15:11,540 --> 00:15:12,040
+Um-
+
+360
+00:15:11,720 --> 00:15:12,220
+Keith Murphy: Oh, nice
+
+361
+00:15:12,220 --> 00:15:17,440
+Zhihai Qiu: ... yeah, so, and we als- also want to, uh, to see how like,
+
+362
+00:15:17,560 --> 00:15:23,040
+uh, a v- like visual stimulation and ultrasound stimulation, how they can, uh- Mm-hmm
+
+363
+00:15:23,040 --> 00:15:26,840
+... interact with each other. So that, that's kind of a, a very simple
+
+364
+00:15:26,880 --> 00:15:27,380
+experiment.
+
+365
+00:15:27,620 --> 00:15:32,960
+Keith Murphy: Interference, like was ultrasound able to change visually evoked potentials?
+
+366
+00:15:33,500 --> 00:15:35,420
+Charles and I go back and forth a lot.
+
+367
+00:15:36,240 --> 00:15:42,440
+We're starting to think that ultrasound is really good in tipping the scales with
+
+368
+00:15:42,520 --> 00:15:45,580
+ongoing activity, but not necessarily purely activating.
+
+369
+00:15:46,020 --> 00:15:49,400
+And I think your paper did a really nice job showing that there wasn't
+
+370
+00:15:49,440 --> 00:15:51,440
+a lot of direct, direct activation.
+
+371
+00:15:52,200 --> 00:15:56,400
+Zhihai Qiu: Yeah. So the, uh, so we found-- So the, the, the experiment have, um,
+
+372
+00:15:56,540 --> 00:16:01,860
+some interesting findings, although the, the paper's, [laughs] the journal is not that high
+
+373
+00:16:01,940 --> 00:16:03,120
+impact in, in the field.
+
+374
+00:16:03,200 --> 00:16:05,160
+Keith Murphy: Oh, no. iScience again? Where'd you go?
+
+375
+00:16:05,160 --> 00:16:09,640
+[laughs] Where'd you go? I thought it was...
+
+376
+00:16:10,560 --> 00:16:11,920
+I read it when it was on MedRxiv.
+
+377
+00:16:12,000 --> 00:16:13,740
+That's a better impact than iScience.
+
+378
+00:16:13,780 --> 00:16:15,540
+[laughs]
+
+379
+00:16:15,620 --> 00:16:18,480
+Zhihai Qiu: Not, not iScience this time. Advanced Science.
+
+380
+00:16:18,500 --> 00:16:19,460
+[laughs]
+
+381
+00:16:19,540 --> 00:16:20,040
+Keith Murphy: Oh, wait.
+
+382
+00:16:20,000 --> 00:16:20,500
+Charles Caskey: Oh, yeah.
+
+383
+00:16:20,020 --> 00:16:21,320
+Keith Murphy: Advanced Science is good.
+
+384
+00:16:21,340 --> 00:16:21,840
+Charles Caskey: Advanced Science.
+
+385
+00:16:22,680 --> 00:16:24,000
+Keith Murphy: Yeah. Charles likes it.
+
+386
+00:16:24,420 --> 00:16:25,840
+Charles Caskey: I, I, I, I like all these journals.
+
+387
+00:16:25,920 --> 00:16:29,380
+I, I think, I think I'm learning, I'm learning that, that Zhihai and I,
+
+388
+00:16:29,500 --> 00:16:33,320
+um, have the same philosophy on journals, which i- [laughs] which is that we,
+
+389
+00:16:34,440 --> 00:16:37,320
+we'll, we'll take a couple of rejections from the big boys, but we're not
+
+390
+00:16:37,360 --> 00:16:39,060
+gonna spend our life chasing whales.
+
+391
+00:16:39,080 --> 00:16:40,540
+[laughs] [laughs]
+
+392
+00:16:40,580 --> 00:16:41,460
+Keith Murphy: Chasing whales.
+
+393
+00:16:42,860 --> 00:16:44,360
+Charles Caskey: Okay. So, um-
+
+394
+00:16:44,360 --> 00:16:47,160
+Keith Murphy: Um, it's 14.1 on Advance. I think that's a bit-
+
+395
+00:16:47,180 --> 00:16:48,200
+Charles Caskey: That's good. That's great
+
+396
+00:16:48,200 --> 00:16:48,740
+Keith Murphy: ... great journal.
+
+397
+00:16:48,780 --> 00:16:49,840
+Charles Caskey: That's a city. Yeah.
+
+398
+00:16:49,980 --> 00:16:50,480
+Keith Murphy: It's very good.
+
+399
+00:16:50,240 --> 00:16:51,400
+Charles Caskey: I, I'm aware of that one.
+
+400
+00:16:51,440 --> 00:16:55,900
+That-- So, so this, yeah, this, this debate has, uh, uh, about like auditory
+
+401
+00:16:56,000 --> 00:16:58,820
+confound, it's, it, it's matured, I think-
+
+402
+00:16:58,920 --> 00:16:59,420
+Keith Murphy: Mm-hmm
+
+403
+00:16:58,960 --> 00:17:00,500
+Charles Caskey: ... uh, uh, over time, as well as-
+
+404
+00:17:00,540 --> 00:17:01,100
+Keith Murphy: Like a fine wine
+
+405
+00:17:01,100 --> 00:17:02,300
+Charles Caskey: ... the debate about... Yeah, it is.
+
+406
+00:17:02,340 --> 00:17:04,660
+Yeah, right. Like we, at first it was like we didn't even know it
+
+407
+00:17:04,700 --> 00:17:08,900
+was there, and like, like, like fine wine when you only know about Carlo
+
+408
+00:17:09,000 --> 00:17:10,700
+Rossi. [laughs]
+
+409
+00:17:10,780 --> 00:17:14,580
+Keith Murphy: I love Carlos. They make a good sangria, a big one.
+
+410
+00:17:14,660 --> 00:17:17,280
+It's a big jug. I enjoyed many of those.
+
+411
+00:17:17,280 --> 00:17:19,000
+[laughs]
+
+412
+00:17:19,160 --> 00:17:21,480
+Charles Caskey: So have I, Keith, but I don't drink it that-- I don't, I don't,
+
+413
+00:17:21,700 --> 00:17:23,620
+I don't get around to it too much anymore.
+
+414
+00:17:23,860 --> 00:17:25,240
+[laughs]
+
+415
+00:17:25,300 --> 00:17:27,260
+Keith Murphy: Wait, Charles, what were you saying about Rossi?
+
+416
+00:17:28,020 --> 00:17:33,260
+Charles Caskey: About-- Well, well, [laughs] I'm just saying, uh, uh, you know, I've gotten-- Like,
+
+417
+00:17:33,520 --> 00:17:39,640
+like the debate on, uh, auditory confounds, my tastes have matured, [laughs] and my
+
+418
+00:17:39,780 --> 00:17:42,480
+thoughts on, my thoughts on wine have matured.
+
+419
+00:17:42,860 --> 00:17:49,180
+Removal of the auditory, uh, its cortex surgically and genetically and with chemicals, like
+
+420
+00:17:49,420 --> 00:17:53,440
+I think we're start-- I don't-- What key experiments could possibly still be missing
+
+421
+00:17:53,500 --> 00:17:56,940
+on this? I don't think it's fully untangled, but I mean, what more can
+
+422
+00:17:56,980 --> 00:17:59,560
+we do? I think sometimes is what I, uh-
+
+423
+00:17:59,680 --> 00:18:00,180
+Keith Murphy: Yeah
+
+424
+00:18:00,060 --> 00:18:02,280
+Charles Caskey: ... uh, that's what I think when I've-- Like it's matured.
+
+425
+00:18:02,340 --> 00:18:04,560
+Like a lot of this data is out there for people to draw their
+
+426
+00:18:04,620 --> 00:18:06,160
+conclusions from. Um-
+
+427
+00:18:06,240 --> 00:18:10,180
+Keith Murphy: Yeah. I th-- I mean, I reflect on my own stuff quite a bit,
+
+428
+00:18:10,260 --> 00:18:13,420
+and I'm talking to a lot of people, like even Deep Brain, you know,
+
+429
+00:18:13,680 --> 00:18:16,060
+if you have deaf mice, there's not a lot left.
+
+430
+00:18:16,740 --> 00:18:21,740
+And I just am starting to think if you put ultrasound with ongoing activity
+
+431
+00:18:22,200 --> 00:18:24,620
+together, those, those sort of boost each other.
+
+432
+00:18:24,760 --> 00:18:27,940
+But if you're just trying to stimulate in a mouse that's not doing anything,
+
+433
+00:18:28,440 --> 00:18:31,350
+can't hear anything, has no external ...
+
+434
+00:18:31,390 --> 00:18:34,430
+input or ongoing activity, then you might not see anything.
+
+435
+00:18:35,070 --> 00:18:38,570
+So I don't know, like, Zhihai, do you agree with that sentiment or-
+
+436
+00:18:39,730 --> 00:18:40,330
+Zhihai Qiu: We actually have-
+
+437
+00:18:41,110 --> 00:18:41,790
+Keith Murphy: How are you doing over there?
+
+438
+00:18:41,790 --> 00:18:42,390
+[laughs]
+
+439
+00:18:42,450 --> 00:18:45,510
+Zhihai Qiu: We, we actually have, have, have, have those, uh-- have some data.
+
+440
+00:18:46,050 --> 00:18:49,810
+So [clears throat] we, we have stimulate the visual cortex- Okay ...
+
+441
+00:18:49,870 --> 00:18:52,250
+simultaneously with visual stimulation.
+
+442
+00:18:52,390 --> 00:18:52,890
+Keith Murphy: Hmm.
+
+443
+00:18:52,710 --> 00:18:54,810
+Zhihai Qiu: So, um, we-
+
+444
+00:18:54,930 --> 00:18:56,850
+Keith Murphy: What-- Yeah. What-- So wait, can you go back?
+
+445
+00:18:56,990 --> 00:19:01,850
+When you did just stimulation in deaf mice with no visual input, you had
+
+446
+00:19:01,910 --> 00:19:02,990
+only one or-
+
+447
+00:19:03,070 --> 00:19:03,570
+Zhihai Qiu: One percent
+
+448
+00:19:03,230 --> 00:19:04,730
+Keith Murphy: ... two percent of all cell.
+
+449
+00:19:04,810 --> 00:19:05,310
+Zhihai Qiu: Yeah.
+
+450
+00:19:04,850 --> 00:19:05,350
+Keith Murphy: One percent.
+
+451
+00:19:05,230 --> 00:19:05,730
+Zhihai Qiu: One percent.
+
+452
+00:19:05,890 --> 00:19:08,370
+Keith Murphy: So almost no cells responded directly.
+
+453
+00:19:08,650 --> 00:19:10,090
+There were these special little cells.
+
+454
+00:19:11,030 --> 00:19:11,530
+Zhihai Qiu: One percent.
+
+455
+00:19:11,610 --> 00:19:12,110
+Keith Murphy: But-
+
+456
+00:19:11,690 --> 00:19:17,270
+Zhihai Qiu: That, that-- Those populations kind of like, uh, very specific to ultrasound stimulation.
+
+457
+00:19:17,670 --> 00:19:18,170
+Keith Murphy: Yeah.
+
+458
+00:19:18,230 --> 00:19:18,730
+Zhihai Qiu: Yeah.
+
+459
+00:19:18,250 --> 00:19:22,010
+Keith Murphy: But, but when you add in the visual input and there's something underneath that
+
+460
+00:19:22,090 --> 00:19:23,730
+activity-wise, what happened then?
+
+461
+00:19:24,430 --> 00:19:29,630
+Zhihai Qiu: So we, um, we use a, a very specific pr-approach, uh, analyze approach, so
+
+462
+00:19:29,670 --> 00:19:35,830
+you can separate, uh, those, uh, say, the visual, uh, sensitive neurons
+
+463
+00:19:35,870 --> 00:19:40,710
+or ultrasound-sensitive neurons. So those neurons are kind of orthogonal.
+
+464
+00:19:40,930 --> 00:19:46,190
+So those neurons response to visual stimulation, they did not response to ultrasound stimulation.
+
+465
+00:19:46,390 --> 00:19:50,150
+Those ultrasound-sensitive neurons did not response to visual stimulation.
+
+466
+00:19:50,350 --> 00:19:52,350
+So this is the, the, uh-
+
+467
+00:19:52,950 --> 00:19:53,690
+Keith Murphy: Oh, interesting
+
+468
+00:19:53,710 --> 00:19:56,430
+Zhihai Qiu: ... first one. Yeah. So [clears throat] yeah.
+
+469
+00:19:56,910 --> 00:20:02,590
+Um, if you, if you're shining together, then you, you can see, uh, some
+
+470
+00:20:02,630 --> 00:20:06,490
+part of the visual evo-- visual sensitive neurons will be inhibited.
+
+471
+00:20:06,870 --> 00:20:11,110
+So they, they, they, if they started to, uh, did not response to, uh,
+
+472
+00:20:11,190 --> 00:20:12,150
+ultrasound stimulation.
+
+473
+00:20:12,530 --> 00:20:13,030
+Keith Murphy: Wow.
+
+474
+00:20:12,550 --> 00:20:16,550
+Zhihai Qiu: And some of the, some of the visual sensitive neurons did not response to
+
+475
+00:20:16,590 --> 00:20:22,530
+ultrasound, and some part of the neurons, uh, had been enhanced by ultrasound stimulation.
+
+476
+00:20:22,750 --> 00:20:28,870
+So we did see the excitation, inhibition effects in, in, in
+
+477
+00:20:28,930 --> 00:20:29,810
+that experiment. Yeah.
+
+478
+00:20:31,290 --> 00:20:33,510
+Keith Murphy: Wow. So there is, there is an interaction.
+
+479
+00:20:33,690 --> 00:20:34,230
+There must be-
+
+480
+00:20:34,270 --> 00:20:34,770
+Zhihai Qiu: Yeah
+
+481
+00:20:34,390 --> 00:20:36,390
+Keith Murphy: ... some ongoing something to change-
+
+482
+00:20:36,470 --> 00:20:36,970
+Zhihai Qiu: Yes
+
+483
+00:20:36,550 --> 00:20:37,150
+Keith Murphy: ... for ultrasound.
+
+484
+00:20:37,210 --> 00:20:37,710
+Zhihai Qiu: Yes.
+
+485
+00:20:37,410 --> 00:20:37,950
+Keith Murphy: A substrate-
+
+486
+00:20:38,010 --> 00:20:38,510
+Zhihai Qiu: Yes
+
+487
+00:20:38,290 --> 00:20:38,790
+Keith Murphy: ... if you will.
+
+488
+00:20:38,790 --> 00:20:39,290
+Zhihai Qiu: Yes.
+
+489
+00:20:39,630 --> 00:20:42,570
+Charles Caskey: It, it's as complex as we are finding that it is.
+
+490
+00:20:42,590 --> 00:20:43,430
+[laughs]
+
+491
+00:20:43,610 --> 00:20:50,310
+Zhihai Qiu: It looks like, uh, at least it's, it's more complex than, um, in cortex,
+
+492
+00:20:50,410 --> 00:20:52,190
+I think. Yeah. Mm-hmm.
+
+493
+00:20:52,370 --> 00:20:55,110
+Keith Murphy: Well, it makes me think, Charles, I'd love for you to comment on your
+
+494
+00:20:55,150 --> 00:20:57,710
+own, if you can, on your ongoing clinical studies.
+
+495
+00:20:58,350 --> 00:21:00,990
+I mean, it just-- it seems like that's gonna be the theme of the
+
+496
+00:21:01,070 --> 00:21:07,170
+future, which means that everybody doing treatments needs to think about what ongoing
+
+497
+00:21:07,250 --> 00:21:08,690
+activity should be induced- Yeah ...
+
+498
+00:21:08,730 --> 00:21:14,010
+or, or suppressed while you're doing this, this therapy, because it will absolutely change
+
+499
+00:21:14,570 --> 00:21:15,070
+your outcome.
+
+500
+00:21:15,010 --> 00:21:15,510
+Charles Caskey: Yeah.
+
+501
+00:21:15,770 --> 00:21:16,270
+Zhihai Qiu: Yeah.
+
+502
+00:21:15,950 --> 00:21:19,750
+Charles Caskey: Yeah. And that, in turn, is something we have to plan for in creating
+
+503
+00:21:19,810 --> 00:21:23,030
+clinical trials. And co-- I mean, it comes up a lot, this idea that
+
+504
+00:21:23,390 --> 00:21:26,270
+the brain has to be in a certain state, and we ta-- you know,
+
+505
+00:21:26,310 --> 00:21:29,510
+we talk about state dependence, and we, and, but, like, I don't know, if
+
+506
+00:21:29,550 --> 00:21:33,350
+it's essential tremor, do they need to be engaged in the tremor task, uh-
+
+507
+00:21:33,450 --> 00:21:33,950
+Keith Murphy: Mm-hmm
+
+508
+00:21:33,690 --> 00:21:35,810
+Charles Caskey: ... in order-- or something that's causing the tremor?
+
+509
+00:21:36,030 --> 00:21:39,170
+Uh, I mean, it-- That makes sense, I guess, 'cause in case you don't
+
+510
+00:21:39,190 --> 00:21:42,730
+even have anything to measure. But, but what do you do about different depressions
+
+511
+00:21:42,750 --> 00:21:47,570
+and things like that? Do you need to somehow evoke this state, uh, i-in
+
+512
+00:21:47,610 --> 00:21:53,150
+a certain way or a-anxieties? I mean, anxiety sometimes is a baseline thing, where,
+
+513
+00:21:53,210 --> 00:21:58,650
+like, they're-- somebody's carrying around a base level of, of, of being, uh, kind
+
+514
+00:21:58,690 --> 00:22:04,410
+of overstimulated. So maybe some disease states in themselves are kind of elevated or,
+
+515
+00:22:04,610 --> 00:22:07,750
+or something. So, uh, yeah, I look forward to finding more out about this.
+
+516
+00:22:07,810 --> 00:22:12,230
+This, um, it's a good there in the, in the preclinical models, so at
+
+517
+00:22:12,290 --> 00:22:15,990
+least we can start to understand that this is possible.
+
+518
+00:22:16,670 --> 00:22:17,170
+Um-
+
+519
+00:22:17,030 --> 00:22:22,630
+Keith Murphy: Zhihai, what percentage-- To go off of Charles' sentiment, what percentage of neurons were
+
+520
+00:22:22,670 --> 00:22:27,770
+visually responsive when you just did visual versus visual plus ultrasound?
+
+521
+00:22:27,890 --> 00:22:30,090
+Or I know you said some went up, some went down.
+
+522
+00:22:30,510 --> 00:22:31,570
+What was the net effect?
+
+523
+00:22:33,030 --> 00:22:37,390
+Zhihai Qiu: The net effect is kind of like, uh, one percent increase, I think.
+
+524
+00:22:37,590 --> 00:22:38,430
+I can't remember the detail but
+
+525
+00:22:38,450 --> 00:22:39,270
+Keith Murphy: yeah. Oh, small change.
+
+526
+00:22:39,430 --> 00:22:43,310
+Zhihai Qiu: Small change, yeah. [laughs] [laughs] But-
+
+527
+00:22:43,490 --> 00:22:47,150
+Keith Murphy: So maybe what we were saying, it's barely there, but- Yeah ...
+
+528
+00:22:47,190 --> 00:22:50,430
+it may have changed. I mean, was that even statistically...?
+
+529
+00:22:50,450 --> 00:22:53,270
+[laughs]
+
+530
+00:22:53,310 --> 00:22:53,810
+Charles Caskey: Dude.
+
+531
+00:22:53,370 --> 00:22:54,570
+Keith Murphy: That's a real change.
+
+532
+00:22:54,890 --> 00:22:58,170
+Charles Caskey: Zhi-Zhi-Zhihai did seven million measurements, Keith.
+
+533
+00:22:58,170 --> 00:23:01,150
+[laughs] [laughs]
+
+534
+00:23:01,190 --> 00:23:04,230
+Keith Murphy: Yeah. Was that statistically significant?
+
+535
+00:23:04,630 --> 00:23:09,890
+Zhihai Qiu: Uh, it, it... But the-- So we-- But the, the, the evidence come from
+
+536
+00:23:10,230 --> 00:23:16,570
+cortex. So if you do a single-cell analysis, maybe cortex have less mechanosensitivity
+
+537
+00:23:17,090 --> 00:23:19,110
+than those n-neurons in the deep brain.
+
+538
+00:23:19,110 --> 00:23:19,610
+[chuckles]
+
+539
+00:23:19,330 --> 00:23:21,870
+Keith Murphy: So I guess, um... Yeah. Okay.
+
+540
+00:23:21,970 --> 00:23:25,810
+So Zhihai, there's a small number of cells in the cortex that are responsive
+
+541
+00:23:25,890 --> 00:23:27,090
+directly to ultrasound.
+
+542
+00:23:27,710 --> 00:23:28,210
+Zhihai Qiu: Yeah.
+
+543
+00:23:27,810 --> 00:23:29,790
+Keith Murphy: They don't respond to visual. It's very interesting.
+
+544
+00:23:30,450 --> 00:23:30,950
+Zhihai Qiu: Mm-hmm.
+
+545
+00:23:31,010 --> 00:23:33,550
+Keith Murphy: I, I guess, like, where do you see things going?
+
+546
+00:23:33,670 --> 00:23:40,070
+Are you starting to move towards the longer neuromodulatory protocols, like offline effects entirely,
+
+547
+00:23:40,230 --> 00:23:46,750
+or are you hell-bent on finding these ultrasound-sensitive naturalist neurons
+
+548
+00:23:47,570 --> 00:23:49,050
+all over the brain, wherever they are?
+
+549
+00:23:49,050 --> 00:23:51,890
+'Cause it sounds like you don't think-- Do you think there are more in
+
+550
+00:23:51,910 --> 00:23:53,750
+the deep brain or less, or, like, what do you think?
+
+551
+00:23:54,650 --> 00:23:59,270
+Zhihai Qiu: I think they are more in the brain, um, because I, I read your
+
+552
+00:23:59,390 --> 00:24:05,270
+paper, right? Um, so I'm, I'm your fans about, uh, of your work.
+
+553
+00:24:05,750 --> 00:24:06,250
+So-
+
+554
+00:24:06,310 --> 00:24:08,730
+Keith Murphy: I appreciate that. [laughs]
+
+555
+00:24:08,810 --> 00:24:13,410
+Zhihai Qiu: So, uh, and we also try some, um, stimulation in the deep brain.
+
+556
+00:24:14,170 --> 00:24:19,810
+Um, we, we, we do see the response is better, at least for, uh,
+
+557
+00:24:20,050 --> 00:24:26,010
+fiber photometry experiment. Even the mice is, is deaf.
+
+558
+00:24:26,270 --> 00:24:26,770
+Yeah.
+
+559
+00:24:26,930 --> 00:24:29,330
+Keith Murphy: Oh, even in the deaf mice, the deep brain seems to-
+
+560
+00:24:29,650 --> 00:24:30,150
+Zhihai Qiu: Yeah
+
+561
+00:24:29,670 --> 00:24:30,410
+Keith Murphy: ... give you a bit more.
+
+562
+00:24:30,530 --> 00:24:35,320
+That's good. Yeah, kinda like we know, we know the responses are definitely dwindling,
+
+563
+00:24:35,420 --> 00:24:39,780
+but we know there's something left over, even short term, but potentially in the
+
+564
+00:24:39,840 --> 00:24:41,660
+long term, there's a lot.
+
+565
+00:24:41,680 --> 00:24:42,180
+Zhihai Qiu: Mm-hmm.
+
+566
+00:24:41,800 --> 00:24:43,020
+Keith Murphy: You know, if you stimulate enough.
+
+567
+00:24:43,100 --> 00:24:46,300
+So we're starting to move in that direction, I guess, as a field.
+
+568
+00:24:47,420 --> 00:24:52,340
+Um, yeah, actually short story, so I spent-- [clears throat] I have a patent on
+
+569
+00:24:52,380 --> 00:24:56,620
+this actually. I don't know if that patent got accepted, but we-- Zhihai, remember
+
+570
+00:24:56,820 --> 00:25:02,220
+I was trying to propagate ultrasound through the optical fiber into the deep brain.
+
+571
+00:25:02,820 --> 00:25:03,320
+Zhihai Qiu: Mm-hmm.
+
+572
+00:25:02,960 --> 00:25:07,360
+Keith Murphy: And it just was really hard to get the optical coupling to stay put
+
+573
+00:25:07,520 --> 00:25:09,160
+while you were vibrating the whole system.
+
+574
+00:25:09,440 --> 00:25:11,220
+Basically, the optical path would separate.
+
+575
+00:25:12,000 --> 00:25:13,860
+So I was like, "Oh my God, I give up."
+
+576
+00:25:14,060 --> 00:25:17,580
+And I sat down with Zhihai one day, and he's like, "Yeah, why don't
+
+577
+00:25:17,600 --> 00:25:19,460
+you just like use a ring or something?"
+
+578
+00:25:19,560 --> 00:25:21,260
+And I was like, "Oh, tell me more."
+
+579
+00:25:21,400 --> 00:25:25,020
+And like, we just talked about the ring for 10 minutes, and I went
+
+580
+00:25:25,060 --> 00:25:29,040
+and bought one from Thorlabs, and like we just plugged it into the, the
+
+581
+00:25:29,120 --> 00:25:30,400
+mouse's head. You remember that?
+
+582
+00:25:31,100 --> 00:25:31,600
+Zhihai Qiu: Yeah.
+
+583
+00:25:31,140 --> 00:25:32,240
+Keith Murphy: That was a long time ago now.
+
+584
+00:25:32,700 --> 00:25:33,200
+Zhihai Qiu: Yeah.
+
+585
+00:25:32,780 --> 00:25:36,140
+Keith Murphy: So actually, some of the basics of our stuff just came from Zhihai kind
+
+586
+00:25:36,200 --> 00:25:37,840
+of telling me about rings.
+
+587
+00:25:39,100 --> 00:25:39,600
+Zhihai Qiu: Nice.
+
+588
+00:25:40,060 --> 00:25:42,480
+Keith Murphy: Yeah, we were-- we got the PNAS paper together.
+
+589
+00:25:43,360 --> 00:25:43,860
+Zhihai Qiu: Yeah.
+
+590
+00:25:43,400 --> 00:25:44,780
+Keith Murphy: So it's, it's good to hear, though.
+
+591
+00:25:45,060 --> 00:25:47,780
+You are going towards the deep brain, figuring it out.
+
+592
+00:25:48,040 --> 00:25:53,380
+Are you more bullish on sonogenetics or pure ultrasound neuromodulation?
+
+593
+00:25:53,560 --> 00:25:56,400
+What's your favorite path in your laboratory?
+
+594
+00:25:57,240 --> 00:26:02,860
+Zhihai Qiu: Oh, so i-in my lab now, we, we abo-abolish, uh, sonogenetics.
+
+595
+00:26:03,720 --> 00:26:10,140
+So the reason is that, um, al-although now sonogenetics kind of like people are
+
+596
+00:26:10,760 --> 00:26:16,020
+more like into it, so like Merge Labs, they are kind of how to
+
+597
+00:26:16,160 --> 00:26:21,780
+commercialize it, right? But i-i-in my lab, uh, we want to-- Because moving back
+
+598
+00:26:21,820 --> 00:26:26,680
+to China is a, is a, uh, big thing to me, and the, the,
+
+599
+00:26:26,800 --> 00:26:32,980
+the logic behind that, um, we have more resources on like doing translational
+
+600
+00:26:33,220 --> 00:26:33,720
+studies.
+
+601
+00:26:34,600 --> 00:26:35,100
+Keith Murphy: Yeah.
+
+602
+00:26:34,720 --> 00:26:39,380
+Zhihai Qiu: Um, I don't want to like constrain my research only in the, in the
+
+603
+00:26:39,440 --> 00:26:45,560
+lab. We want to make things useful to, um, patients and, and
+
+604
+00:26:45,640 --> 00:26:51,740
+even for, uh, daily life. So sonogenetics have-- I think it have long way
+
+605
+00:26:51,800 --> 00:26:58,220
+to go, so I kind of strategically, uh, aboli-abolish [chuckles] sonogenetics,
+
+606
+00:26:58,680 --> 00:27:02,980
+uh, at least at, at the, the, the, the short term period of time.
+
+607
+00:27:03,180 --> 00:27:03,680
+Yeah.
+
+608
+00:27:04,680 --> 00:27:05,920
+Keith Murphy: That's a very cool rationale.
+
+609
+00:27:06,720 --> 00:27:07,220
+Zhihai Qiu: Yeah.
+
+610
+00:27:07,000 --> 00:27:10,020
+Charles Caskey: Well, I, I wanna, I wanna dig into this a little bit because it
+
+611
+00:27:10,180 --> 00:27:13,400
+seems related to some of the work, uh, and things I've seen from your
+
+612
+00:27:13,440 --> 00:27:19,460
+group, which is the-- So yeah, you're talking about the barrier probably of,
+
+613
+00:27:19,560 --> 00:27:23,300
+uh, you know, g-getting g-the genes into the, into the human.
+
+614
+00:27:23,360 --> 00:27:27,760
+I mean, that, that's a barrier that exists for sonogenetics, for optogenetics in humans,
+
+615
+00:27:28,320 --> 00:27:30,920
+uh, AAVs. I mean, there's just-- That's a barrier, right?
+
+616
+00:27:30,980 --> 00:27:32,680
+It's for all these genetic technologies.
+
+617
+00:27:33,240 --> 00:27:33,740
+Zhihai Qiu: Yeah.
+
+618
+00:27:33,360 --> 00:27:37,740
+Charles Caskey: Uh, but the other part is how much signal-to-noise do you think we're gonna
+
+619
+00:27:37,840 --> 00:27:43,900
+ever get with sonogenetics between the endogenous sensation of s- of sound and
+
+620
+00:27:44,380 --> 00:27:48,460
+sonogenetics? Are you ever gonna be able to tip the scales to that much?
+
+621
+00:27:48,540 --> 00:27:50,800
+Uh, that-- I mean, and, and you have some work on this, right?
+
+622
+00:27:51,220 --> 00:27:55,060
+Zhihai Qiu: Yeah, yeah, yeah. So, uh, that, that's another, another issue, I think.
+
+623
+00:27:55,500 --> 00:27:59,900
+So because they are endogenous or, uh, or although the, the, at the cortical
+
+624
+00:27:59,960 --> 00:28:05,820
+level, the, the pure ultrasound effects have only 1%, um, like baseline responses.
+
+625
+00:28:06,400 --> 00:28:11,680
+But, um, uh, so but it still have baseline responses.
+
+626
+00:28:11,920 --> 00:28:17,600
+I think the, the signal-to-noise ratio is not that high even for MscL.
+
+627
+00:28:17,720 --> 00:28:23,200
+I think we need more sensitive, uh, channels, right, to go deeper.
+
+628
+00:28:23,380 --> 00:28:23,880
+Yeah.
+
+629
+00:28:24,500 --> 00:28:25,080
+Charles Caskey: Hmm. Okay.
+
+630
+00:28:25,160 --> 00:28:25,660
+Zhihai Qiu: To go further.
+
+631
+00:28:25,520 --> 00:28:28,720
+Charles Caskey: Yeah. So that-- So your thinking has evolved a little bit from the early
+
+632
+00:28:28,760 --> 00:28:33,000
+times of sonogenetics to say like y-this endogenous question.
+
+633
+00:28:33,060 --> 00:28:36,440
+I mean, it's, it-- You're really gonna have to make them very sensitive to
+
+634
+00:28:36,500 --> 00:28:38,500
+make it- Yeah ... be a really functional thing.
+
+635
+00:28:38,560 --> 00:28:41,080
+Like it's something that we really do have to reckon with i-
+
+636
+00:28:41,380 --> 00:28:41,880
+Zhihai Qiu: Yeah
+
+637
+00:28:41,480 --> 00:28:45,740
+Charles Caskey: ... is this endogenous mechanosensitivity, which is, which is good for those of us
+
+638
+00:28:45,860 --> 00:28:48,680
+that wanna, wanna pursue ultrasound only, I guess.
+
+639
+00:28:48,700 --> 00:28:50,040
+[chuckles]
+
+640
+00:28:50,400 --> 00:28:50,900
+Keith Murphy: Yeah.
+
+641
+00:28:50,460 --> 00:28:54,220
+Charles Caskey: 'Cause it means there's actually-- 'cause this is something that, I mean, my reviews,
+
+642
+00:28:54,360 --> 00:28:57,360
+uh, I've reviewed a lot of papers on sonogenetics, and I'm gonna, I'm gonna
+
+643
+00:28:57,460 --> 00:29:00,920
+out myself here probably to a handful of people that whose papers I've reviewed.
+
+644
+00:29:01,320 --> 00:29:05,440
+Uh, so apologies in advance. But I could never-- I see these, I see
+
+645
+00:29:05,500 --> 00:29:10,680
+these papers, and they're using like the same parameters as every ultrasound neuromod paper.
+
+646
+00:29:10,720 --> 00:29:11,220
+[chuckles] They're just-
+
+647
+00:29:11,240 --> 00:29:11,740
+Keith Murphy: Yeah.
+
+648
+00:29:11,620 --> 00:29:14,240
+Charles Caskey: And then, and then they're like, they're like, "But the one with the vector,
+
+649
+00:29:14,320 --> 00:29:16,060
+it's like more." And I'm like, "Well, it is.
+
+650
+00:29:16,120 --> 00:29:16,620
+Yes, that's true."
+
+651
+00:29:16,680 --> 00:29:17,260
+Keith Murphy: It is more.
+
+652
+00:29:17,400 --> 00:29:18,200
+Charles Caskey: It's more.
+
+653
+00:29:18,240 --> 00:29:22,460
+Keith Murphy: Well, it's, it's-- I-- Okay, so I'm gonna-- I'll say something that might be
+
+654
+00:29:22,620 --> 00:29:24,160
+contrarian to that viewpoint.
+
+655
+00:29:24,200 --> 00:29:24,920
+Charles Caskey: Okay. Yeah, yeah.
+
+656
+00:29:25,020 --> 00:29:29,580
+Keith Murphy: If you, if you make them way too sensitive, then there may be natural
+
+657
+00:29:29,740 --> 00:29:33,660
+fluctuation in cranial pressure with age that may trigger-
+
+658
+00:29:33,740 --> 00:29:34,240
+Charles Caskey: Mm-hmm
+
+659
+00:29:34,020 --> 00:29:37,460
+Keith Murphy: ... like this activity in a brain area [clears throat] that you don't want.
+
+660
+00:29:37,980 --> 00:29:42,960
+So maybe having some threshold and allowing the neuromodulation to be part of the
+
+661
+00:29:43,000 --> 00:29:49,220
+treatment is maybe okay. Like that's what worries me about, uh, Merge Labs
+
+662
+00:29:49,280 --> 00:29:54,340
+and potentially Gestala, if they're doing that, you know, is what happens if you
+
+663
+00:29:54,380 --> 00:29:56,460
+have these channels expressed for a decade?
+
+664
+00:29:56,600 --> 00:29:59,180
+Or are they all non-stable viral-
+
+665
+00:29:59,300 --> 00:29:59,800
+Charles Caskey: Hmm
+
+666
+00:29:59,400 --> 00:30:03,860
+Keith Murphy: ... transfections? Are they stable, Zhihai, or do they get-- Are they s-like circular
+
+667
+00:30:03,960 --> 00:30:06,060
+plasmid vectors or what's the deal there?
+
+668
+00:30:06,100 --> 00:30:09,040
+Zhihai Qiu: No, not stable. It's circular. It's circular, um-
+
+669
+00:30:09,660 --> 00:30:13,960
+Keith Murphy: Oh. So the idea is you have to routinely inject people with this and
+
+670
+00:30:14,000 --> 00:30:15,400
+get it into the brain. Okay.
+
+671
+00:30:15,440 --> 00:30:15,940
+Zhihai Qiu: Yeah.
+
+672
+00:30:15,500 --> 00:30:19,720
+Keith Murphy: So scalability, perhaps quite low, at least for now.
+
+673
+00:30:20,260 --> 00:30:21,340
+Zhihai Qiu: Yeah. [chuckles]
+
+674
+00:30:21,640 --> 00:30:23,060
+Charles Caskey: Well, I'm rooting for all these companies.
+
+675
+00:30:23,120 --> 00:30:25,660
+I should clarify. [laughs] I want all this to work.
+
+676
+00:30:26,000 --> 00:30:26,500
+Keith Murphy: Same.
+
+677
+00:30:26,080 --> 00:30:26,580
+Charles Caskey: Yeah.
+
+678
+00:30:26,260 --> 00:30:26,760
+Keith Murphy: Same.
+
+679
+00:30:27,080 --> 00:30:28,020
+Zhihai Qiu: Same, same. [chuckles]
+
+680
+00:30:28,080 --> 00:30:30,820
+Keith Murphy: Um, Sree, Sree, uh, hey, I said same first.
+
+681
+00:30:30,900 --> 00:30:34,080
+Sreekanth Chalasani, he got also an ARPA-H.
+
+682
+00:30:34,720 --> 00:30:35,220
+Charles Caskey: Yeah.
+
+683
+00:30:34,820 --> 00:30:39,360
+Keith Murphy: It wasn't him alone. I think there were like five organizations that got a
+
+684
+00:30:39,360 --> 00:30:45,540
+$40 million grant for sonogenetics, but it's peripheral nerve stimulation for pain,
+
+685
+00:30:45,720 --> 00:30:46,220
+I think.
+
+686
+00:30:46,220 --> 00:30:46,860
+Charles Caskey: Oh, okay.
+
+687
+00:30:46,980 --> 00:30:50,140
+Keith Murphy: So there's, yeah, there's money coming into sonogenetics.
+
+688
+00:30:50,280 --> 00:30:53,540
+I guess not Gestala. Maybe they're not doing sonogenetics.
+
+689
+00:30:53,760 --> 00:30:56,260
+We'll try to get Phoenix on here- [chuckles] ...
+
+690
+00:30:56,280 --> 00:31:00,710
+to talk about that. But, uh, it's interesting to, yeah, to hear you say
+
+691
+00:31:00,830 --> 00:31:04,550
+because you were one of the inventors of the field, and yet you're like,
+
+692
+00:31:04,610 --> 00:31:08,390
+"Yeah, it's too long, too slow for me to really chase that."
+
+693
+00:31:08,970 --> 00:31:11,490
+And I appreciate that because that's kind of how I felt about...
+
+694
+00:31:11,790 --> 00:31:16,050
+[laughs] I was supposed to do optogenetics, and I just thought the same thing.
+
+695
+00:31:16,110 --> 00:31:17,230
+I was like, "I just can't wait.
+
+696
+00:31:17,450 --> 00:31:18,470
+People can't wait," right?
+
+697
+00:31:18,770 --> 00:31:21,210
+Zhihai Qiu: Can't wait. [laughs] Yeah.
+
+698
+00:31:21,330 --> 00:31:25,610
+Keith Murphy: What's your favorite-- Are you starting to study any indications in your mice, like
+
+699
+00:31:25,670 --> 00:31:29,810
+models for tremor or for depression, whatever?
+
+700
+00:31:30,010 --> 00:31:34,470
+Zhihai Qiu: We are studying some, like, uh, epilepsy, um, and some-
+
+701
+00:31:34,510 --> 00:31:35,010
+Keith Murphy: Oh, cool
+
+702
+00:31:34,550 --> 00:31:40,730
+Zhihai Qiu: ... metabolism, um, diseases like, uh, body-- trying to make body weight lose,
+
+703
+00:31:41,230 --> 00:31:41,730
+et cetera.
+
+704
+00:31:41,950 --> 00:31:42,450
+Keith Murphy: Mm.
+
+705
+00:31:42,890 --> 00:31:43,390
+Zhihai Qiu: Yeah.
+
+706
+00:31:42,930 --> 00:31:45,670
+Keith Murphy: Nice. No one's done that in humans.
+
+707
+00:31:45,810 --> 00:31:50,290
+I-- You know, some investor once asked, he's like, "You're like the only people
+
+708
+00:31:50,310 --> 00:31:51,850
+that could get to the hypothalamus.
+
+709
+00:31:51,990 --> 00:31:53,330
+Why don't you do weight loss?"
+
+710
+00:31:53,430 --> 00:31:56,950
+And I said, "Well, GLP-1s because they're so good, I think."
+
+711
+00:31:56,950 --> 00:31:57,470
+Zhihai Qiu: So good, yeah.
+
+712
+00:31:57,510 --> 00:31:59,490
+Keith Murphy: But, but apparently not, not that good.
+
+713
+00:31:59,650 --> 00:32:01,570
+You know, he still thought there was a need.
+
+714
+00:32:02,160 --> 00:32:04,570
+So that's really cool that you're doing that, Zhihai.
+
+715
+00:32:04,770 --> 00:32:05,650
+I hope that you-
+
+716
+00:32:05,830 --> 00:32:06,330
+Zhihai Qiu: That is cool
+
+717
+00:32:06,130 --> 00:32:06,630
+Keith Murphy: ... crush it.
+
+718
+00:32:06,330 --> 00:32:08,050
+Zhihai Qiu: But just, just started. Yeah, but just started.
+
+719
+00:32:08,170 --> 00:32:08,850
+I'm also trying-
+
+720
+00:32:08,950 --> 00:32:09,450
+Keith Murphy: Yeah.
+
+721
+00:32:09,050 --> 00:32:09,550
+Zhihai Qiu: Yeah.
+
+722
+00:32:09,090 --> 00:32:10,850
+Keith Murphy: Good luck out there. [laughs]
+
+723
+00:32:10,890 --> 00:32:15,310
+Zhihai Qiu: Yeah. I'm trying to, uh, to follow up the Yaoheng Yang's paper, trying to,
+
+724
+00:32:16,090 --> 00:32:18,750
+uh, use ultrasound to control the body temperature.
+
+725
+00:32:19,450 --> 00:32:19,950
+And-
+
+726
+00:32:19,950 --> 00:32:20,450
+Keith Murphy: Oh, nice.
+
+727
+00:32:20,530 --> 00:32:21,030
+Zhihai Qiu: Yeah, that-
+
+728
+00:32:20,970 --> 00:32:21,470
+Keith Murphy: Is it working?
+
+729
+00:32:21,370 --> 00:32:25,230
+Zhihai Qiu: ... that paper is good. Um, I think in, in, in mice models work,
+
+730
+00:32:25,550 --> 00:32:29,930
+it works very well, but, uh, we're trying to repeat their, the result in
+
+731
+00:32:30,130 --> 00:32:31,530
+non-human primate. Yeah.
+
+732
+00:32:31,590 --> 00:32:34,870
+Keith Murphy: You need a lot of focal gain in mice to get that kind of
+
+733
+00:32:34,910 --> 00:32:36,750
+pressure and temperature into the deep brain.
+
+734
+00:32:36,890 --> 00:32:37,390
+Do you have like-
+
+735
+00:32:37,270 --> 00:32:37,770
+Zhihai Qiu: Yeah
+
+736
+00:32:37,350 --> 00:32:40,930
+Keith Murphy: ... a huge array? Otherwise, the skull would heat up so much.
+
+737
+00:32:41,550 --> 00:32:42,050
+Zhihai Qiu: Oh.
+
+738
+00:32:41,650 --> 00:32:43,110
+Charles Caskey: So you're talking about-- Did you say a mouse?
+
+739
+00:32:43,190 --> 00:32:44,830
+You said the mouse, but you meant the primate, right?
+
+740
+00:32:45,070 --> 00:32:45,970
+Keith Murphy: He did it in the mouse.
+
+741
+00:32:46,030 --> 00:32:47,110
+He's doing the primate now-
+
+742
+00:32:47,150 --> 00:32:47,650
+Charles Caskey: Yeah
+
+743
+00:32:47,250 --> 00:32:47,750
+Keith Murphy: ... I think, right?
+
+744
+00:32:47,750 --> 00:32:52,090
+Zhihai Qiu: Yeah, yeah, yeah, yeah, yeah. [clears throat] We have some preliminary result, but we still
+
+745
+00:32:52,470 --> 00:32:53,690
+need more primates to-
+
+746
+00:32:53,750 --> 00:32:54,250
+Charles Caskey: Still working
+
+747
+00:32:54,050 --> 00:32:54,990
+Zhihai Qiu: ... make conclusion, yeah.
+
+748
+00:32:55,850 --> 00:32:58,890
+Charles Caskey: I, I just wanna, like, since we, you know, just put this one out
+
+749
+00:32:58,930 --> 00:33:02,590
+there for anybody listening that's gone into, like, chill mode and, and ain't really
+
+750
+00:33:02,630 --> 00:33:06,920
+paying attention because he really quickly said Yaoheng Yang's, you know, temperature paper.
+
+751
+00:33:07,370 --> 00:33:10,990
+But what we're talking about here is inducing a, a co- uh, like a
+
+752
+00:33:11,050 --> 00:33:11,930
+torpor state, right?
+
+753
+00:33:11,970 --> 00:33:12,470
+Zhihai Qiu: Torpor state,
+
+754
+00:33:12,170 --> 00:33:13,430
+Charles Caskey: yeah. Like a, like a hibernation in dor-
+
+755
+00:33:13,510 --> 00:33:14,490
+Keith Murphy: Hibernation. [laughs]
+
+756
+00:33:14,510 --> 00:33:17,470
+Charles Caskey: Yeah. So, so everybody needs to know, like, this is super cool.
+
+757
+00:33:17,710 --> 00:33:21,530
+Uh, when, when Yaoheng, uh, Mac was working over at, uh, Hong Chen's lab,
+
+758
+00:33:21,670 --> 00:33:25,510
+they found out that ultrasound could induce a torpor state in mice and, like--
+
+759
+00:33:25,650 --> 00:33:28,810
+And I think everybody's just gotta, like, use your imagination a little bit to
+
+760
+00:33:28,870 --> 00:33:31,970
+just, you know, what we had Project Hail Mary, the movie recently.
+
+761
+00:33:32,370 --> 00:33:34,430
+You know, they're, they're making their way out to-
+
+762
+00:33:34,710 --> 00:33:35,310
+Keith Murphy: Ryan Gosling.
+
+763
+00:33:35,910 --> 00:33:39,630
+Charles Caskey: Yeah, Ryan Gosling. You know, they're in this induced coma for, like, however long.
+
+764
+00:33:39,690 --> 00:33:42,970
+Like, this could be ultrasound. Ultrasound could be on the ship- [laughs] ...
+
+765
+00:33:43,030 --> 00:33:47,230
+inducing a coma, keeping people... We're going to the stars, and it's all because
+
+766
+00:33:47,250 --> 00:33:51,350
+of FUS Forward and the things that we're doing here covering the [laughs]
+
+767
+00:33:51,990 --> 00:33:53,330
+Keith Murphy: Nice. Good pitch.
+
+768
+00:33:53,810 --> 00:33:54,910
+Charles Caskey: Yeah. [laughs]
+
+769
+00:33:54,990 --> 00:34:00,570
+Keith Murphy: I, I, uh, I mean, the deep brain is naturally sensitive to pressure and
+
+770
+00:34:00,610 --> 00:34:02,290
+temperature. That's why it's not-
+
+771
+00:34:02,290 --> 00:34:02,870
+Zhihai Qiu: At least for temperature
+
+772
+00:34:02,890 --> 00:34:04,950
+Keith Murphy: ... Charles makes it sound far-fetched.
+
+773
+00:34:05,090 --> 00:34:06,890
+It was a very real effect.
+
+774
+00:34:07,070 --> 00:34:11,190
+The deep brain is literally meant to say, "Things are getting too hot-" Yeah.
+
+775
+00:34:11,190 --> 00:34:13,370
+"... like a fever. I need to cool off."
+
+776
+00:34:13,890 --> 00:34:16,450
+And these, you know, these animals really went into torpor.
+
+777
+00:34:17,150 --> 00:34:17,650
+Charles Caskey: Yeah.
+
+778
+00:34:17,210 --> 00:34:20,030
+Keith Murphy: Whether that works in humans, I guess, I guess you guys will find out.
+
+779
+00:34:20,470 --> 00:34:24,790
+I don't know if Mac is doing-- I don't think he's doing non-human primate.
+
+780
+00:34:24,830 --> 00:34:27,210
+Maybe you'll be the first. That's pretty cool.
+
+781
+00:34:28,250 --> 00:34:29,650
+Charles Caskey: Yeah. [clears throat] I've heard-
+
+782
+00:34:29,670 --> 00:34:30,170
+Keith Murphy: Have, have you caught up with-
+
+783
+00:34:29,850 --> 00:34:32,370
+Charles Caskey: I've heard, I've heard murmurings. I, I just, you know...
+
+784
+00:34:32,470 --> 00:34:36,930
+But yeah, like, I mean, mice are probably, in general, better at hibernating than
+
+785
+00:34:37,070 --> 00:34:39,050
+humans. [laughs] [laughs]
+
+786
+00:34:39,190 --> 00:34:40,790
+Keith Murphy: I thought they were supposed to do it.
+
+787
+00:34:41,150 --> 00:34:42,250
+Oh, wait. Oh, sorry. They are.
+
+788
+00:34:42,430 --> 00:34:43,330
+They do hibernate.
+
+789
+00:34:43,690 --> 00:34:44,710
+Charles Caskey: I think they at least are closer to hibernating.
+
+790
+00:34:44,750 --> 00:34:47,910
+Zhihai Qiu: I think mice is not doing, mice is not doing hibernate.
+
+791
+00:34:47,950 --> 00:34:48,610
+There is some kind of hibernating.
+
+792
+00:34:48,630 --> 00:34:49,570
+Charles Caskey: I don't think they hibernate.
+
+793
+00:34:49,650 --> 00:34:52,790
+Keith Murphy: Mice, mice do torpor, which is a short form hibernation.
+
+794
+00:34:52,810 --> 00:34:53,310
+Charles Caskey: Yeah.
+
+795
+00:34:52,990 --> 00:34:56,630
+Keith Murphy: When food is low and temperatures are cold, they'll go out for, like, a
+
+796
+00:34:56,730 --> 00:35:01,410
+day or two. Rats do not, and, and Mac was able to get rats
+
+797
+00:35:01,450 --> 00:35:04,370
+to hibernate. Zhihai- Oh ... you're going the next level up.
+
+798
+00:35:04,430 --> 00:35:09,050
+You're getting the monkeys, getting the non-human primates to hibernate, and then you do
+
+799
+00:35:09,070 --> 00:35:11,370
+it on yourself. [laughs] Phase three.
+
+800
+00:35:11,370 --> 00:35:15,290
+Charles Caskey: Phase three. [laughs]
+
+801
+00:35:15,390 --> 00:35:20,110
+Zhihai Qiu: I did not doing, uh, ultrasound myself, uh, but I did it on my
+
+802
+00:35:20,210 --> 00:35:22,610
+hand, right? We, we have to done it in- Okay ...
+
+803
+00:35:22,630 --> 00:35:23,850
+at Stanford, Keith, right?
+
+804
+00:35:24,250 --> 00:35:25,630
+Keith Murphy: Oh, me and you. Oh, you know what?
+
+805
+00:35:25,690 --> 00:35:28,590
+The first time I ever felt ultrasound, I was with Zhihai.
+
+806
+00:35:29,150 --> 00:35:29,650
+Zhihai Qiu: Oh.
+
+807
+00:35:29,210 --> 00:35:29,810
+Keith Murphy: It was scary.
+
+808
+00:35:29,930 --> 00:35:30,430
+Charles Caskey: Cool.
+
+809
+00:35:30,110 --> 00:35:32,330
+Keith Murphy: I was nervous. [laughs] Felt like electrical.
+
+810
+00:35:32,770 --> 00:35:34,290
+Charles Caskey: Freezing, like if you got shocked?
+
+811
+00:35:34,410 --> 00:35:37,490
+Keith Murphy: If there's, like, somehow electrical current in the tank- Mm.
+
+812
+00:35:37,490 --> 00:35:40,250
+... you can't use your muscles to get away from it, so you're supposed
+
+813
+00:35:40,290 --> 00:35:42,250
+to, like, tackle someone away from it-
+
+814
+00:35:42,390 --> 00:35:42,890
+Charles Caskey: Yeah, yeah
+
+815
+00:35:42,630 --> 00:35:45,750
+Keith Murphy: ... 'cause they're frozen. But it, yeah, it was Zhihai and me and...
+
+816
+00:35:46,150 --> 00:35:48,430
+Who else was there? A- anyway, it was just the couple of us, and
+
+817
+00:35:49,030 --> 00:35:51,890
+I was like, "Oh, my God, it's real, and I'm, I feel it."
+
+818
+00:35:52,050 --> 00:35:52,950
+It was very exciting.
+
+819
+00:35:53,670 --> 00:35:54,170
+Charles Caskey: Cool.
+
+820
+00:35:54,110 --> 00:35:54,610
+Zhihai Qiu: Yeah.
+
+821
+00:35:54,930 --> 00:35:57,530
+Keith Murphy: Zhihai, was that your first time feeling ultrasound with your hand?
+
+822
+00:35:57,670 --> 00:35:59,590
+Zhihai Qiu: Not, not... That's not my first time.
+
+823
+00:35:59,670 --> 00:36:05,530
+I have tried, like, in, uh, on my fingertips during my PhD study, but
+
+824
+00:36:05,610 --> 00:36:06,170
+I did not try-
+
+825
+00:36:06,310 --> 00:36:06,810
+Keith Murphy: I was doing that
+
+826
+00:36:06,610 --> 00:36:09,270
+Zhihai Qiu: ... it on my, I did not try it on my, on my, on
+
+827
+00:36:09,310 --> 00:36:10,530
+my brain, in my brain.
+
+828
+00:36:11,490 --> 00:36:11,990
+Keith Murphy: Oh.
+
+829
+00:36:11,730 --> 00:36:12,230
+Zhihai Qiu: Did you try?
+
+830
+00:36:12,670 --> 00:36:15,550
+Keith Murphy: Well, we talk about it on the podcast.
+
+831
+00:36:15,590 --> 00:36:16,130
+You should listen.
+
+832
+00:36:16,810 --> 00:36:18,530
+Zhihai Qiu: Oh. [laughs]
+
+833
+00:36:18,570 --> 00:36:22,990
+Keith Murphy: Then you'll find out. [laughs] We'll put a translation on the bottom, so.
+
+834
+00:36:23,790 --> 00:36:24,290
+Zhihai Qiu: Okay.
+
+835
+00:36:24,030 --> 00:36:25,730
+Keith Murphy: Um, [clears throat] yeah, we've tried it.
+
+836
+00:36:26,670 --> 00:36:31,390
+You know, you don't see that much human work in China with ultrasound, is
+
+837
+00:36:31,430 --> 00:36:31,930
+there?
+
+838
+00:36:31,790 --> 00:36:32,290
+Zhihai Qiu: Oh.
+
+839
+00:36:31,830 --> 00:36:32,930
+Keith Murphy: And we just are missing it?
+
+840
+00:36:34,170 --> 00:36:34,670
+Zhihai Qiu: I think-
+
+841
+00:36:34,370 --> 00:36:34,870
+Keith Murphy: Can you say?
+
+842
+00:36:35,610 --> 00:36:39,390
+Zhihai Qiu: No, I think there, there's a lot of, like, trials in clinic.
+
+843
+00:36:40,110 --> 00:36:46,170
+Um, maybe they just didn't, did not publish, like, high impact paper, so you
+
+844
+00:36:46,770 --> 00:36:52,050
+did not recognize it. Uh, just I, I, I listen to the podcast that
+
+845
+00:36:52,130 --> 00:36:56,850
+you are talking about. You guys are talking about Russia, research in Russia, right?
+
+846
+00:36:56,950 --> 00:37:02,520
+People's ... easily, uh, ignore [chuckles] the, those, their results, right?
+
+847
+00:37:02,680 --> 00:37:03,360
+So it's just like-
+
+848
+00:37:03,480 --> 00:37:03,980
+Charles Caskey: Hmm.
+
+849
+00:37:03,920 --> 00:37:05,480
+Keith Murphy: Oh. [laughs]
+
+850
+00:37:05,500 --> 00:37:06,000
+Zhihai Qiu: Yeah. [laughs]
+
+851
+00:37:06,080 --> 00:37:07,360
+Keith Murphy: I remember we talked about that.
+
+852
+00:37:07,620 --> 00:37:09,760
+Charles Caskey: We did t- yeah, g- yeah, the early g- yeah.
+
+853
+00:37:09,800 --> 00:37:11,200
+Well, I mean, this is, this is true.
+
+854
+00:37:11,240 --> 00:37:15,100
+I mean, I think China right now, I bet there's so much cool stuff
+
+855
+00:37:15,200 --> 00:37:20,980
+published in, like, yeah, like mid-tier Chinese language journals that, like, I just-- like,
+
+856
+00:37:21,040 --> 00:37:22,420
+we're never gonna hear about, but it's out there.
+
+857
+00:37:22,460 --> 00:37:25,020
+Keith Murphy: Oh, they don't translate them? So they're out there-
+
+858
+00:37:25,020 --> 00:37:25,520
+Charles Caskey: I don't-
+
+859
+00:37:25,040 --> 00:37:25,900
+Keith Murphy: ... and we can't read them.
+
+860
+00:37:26,880 --> 00:37:27,380
+Charles Caskey: I don't know.
+
+861
+00:37:27,920 --> 00:37:28,420
+Zhihai Qiu: Um-
+
+862
+00:37:27,980 --> 00:37:28,520
+Charles Caskey: I assume so.
+
+863
+00:37:28,540 --> 00:37:29,040
+Keith Murphy: Are some? [laughs]
+
+864
+00:37:28,840 --> 00:37:30,720
+Charles Caskey: I mean, out there, there's like a billion people.
+
+865
+00:37:30,720 --> 00:37:31,540
+[laughs]
+
+866
+00:37:31,600 --> 00:37:32,720
+Keith Murphy: Yeah. It's a lot.
+
+867
+00:37:33,420 --> 00:37:38,500
+Zhihai Qiu: Yeah, some journals are, uh, are written in Chinese, and bec- because some of
+
+868
+00:37:38,540 --> 00:37:42,540
+the work done by, uh, doctors, they are, they, they, they do not have
+
+869
+00:37:43,140 --> 00:37:48,580
+much time doing research, so they just do it, but they even, they not,
+
+870
+00:37:48,900 --> 00:37:50,180
+they are not publishing it. Yeah.
+
+871
+00:37:51,420 --> 00:37:52,920
+Keith Murphy: Can you tell us a bedtime story?
+
+872
+00:37:53,440 --> 00:37:56,560
+One, a paper that we haven't heard about that you think is really cool
+
+873
+00:37:57,040 --> 00:37:58,300
+that's only in Chinese.
+
+874
+00:37:59,160 --> 00:37:59,660
+Zhihai Qiu: Um-
+
+875
+00:37:59,300 --> 00:38:00,440
+Keith Murphy: You heard it here first, people.
+
+876
+00:38:01,000 --> 00:38:02,880
+Most of our viewers are US.
+
+877
+00:38:02,880 --> 00:38:04,800
+[laughs] About 40%.
+
+878
+00:38:05,300 --> 00:38:08,180
+Zhihai Qiu: So I, I know, I know people are doing like a lot of indications
+
+879
+00:38:08,220 --> 00:38:11,280
+like Parkinson's disease, Alzheimer disease-
+
+880
+00:38:11,820 --> 00:38:12,320
+Keith Murphy: Yeah
+
+881
+00:38:11,840 --> 00:38:17,080
+Zhihai Qiu: ... um, even like autism spectrum diseases as well, and they, they are-- Some
+
+882
+00:38:17,180 --> 00:38:21,700
+doctors are trying ultrasound stimulation in, in children, on children.
+
+883
+00:38:21,840 --> 00:38:26,600
+Yeah, so, so there are a lot of trials, but trials, but they, I,
+
+884
+00:38:26,780 --> 00:38:29,900
+I don't, I don't, I don't know whether they have published or, or not.
+
+885
+00:38:30,020 --> 00:38:30,700
+Charles Caskey: All right. All right.
+
+886
+00:38:30,820 --> 00:38:32,300
+Keith Murphy: I saw, I saw a guy in trials for-
+
+887
+00:38:32,340 --> 00:38:35,380
+Charles Caskey: We need-- I, ooh, I'm just thinking, we gotta, we gotta get a FUS
+
+888
+00:38:35,460 --> 00:38:37,680
+Forward intern on this to, uh- [laughs] ...
+
+889
+00:38:37,720 --> 00:38:42,780
+to, like, make us, make us a Chinese journal, uh, AI agent-
+
+890
+00:38:42,920 --> 00:38:43,420
+Keith Murphy: Yeah
+
+891
+00:38:43,000 --> 00:38:46,920
+Charles Caskey: ... that's gonna, like, just grab these and then feed them over so that
+
+892
+00:38:46,980 --> 00:38:49,540
+way we'll- Yeah ... then we can-- Well, I wanna know about this if
+
+893
+00:38:49,560 --> 00:38:51,320
+it's happening on this planet. Uh-
+
+894
+00:38:51,460 --> 00:38:52,020
+Keith Murphy: Yeah. Me too.
+
+895
+00:38:52,180 --> 00:38:53,380
+Charles Caskey: Yeah, and it's being written down.
+
+896
+00:38:53,680 --> 00:38:54,180
+Yeah. [laughs]
+
+897
+00:38:54,000 --> 00:38:59,500
+Zhihai Qiu: Yeah. So after, like, now, nowadays, like, um, uh, like GPT is so advanced
+
+898
+00:38:59,560 --> 00:39:04,840
+now, so the, the language barrier for us to publish English journal, international journal
+
+899
+00:39:04,880 --> 00:39:07,340
+is, is now is kinda got, like, reduced.
+
+900
+00:39:07,360 --> 00:39:07,980
+Charles Caskey: It's much lower.
+
+901
+00:39:08,160 --> 00:39:08,660
+Zhihai Qiu: Yeah.
+
+902
+00:39:08,200 --> 00:39:12,440
+Keith Murphy: That's true. They should-- And it'll get more citations and publicity and all that
+
+903
+00:39:12,540 --> 00:39:13,040
+stuff.
+
+904
+00:39:12,720 --> 00:39:13,340
+Zhihai Qiu: Yeah. Yeah.
+
+905
+00:39:13,400 --> 00:39:14,800
+Keith Murphy: I see a lot of reviews.
+
+906
+00:39:14,900 --> 00:39:18,980
+There are-- I-- For FUS Forward listeners, there are too many reviews.
+
+907
+00:39:19,840 --> 00:39:24,320
+Let's stop with the reviews. [laughs] There should not be more reviews about a
+
+908
+00:39:24,380 --> 00:39:27,860
+topic than primary literature. That's when I think there's a problem.
+
+909
+00:39:27,960 --> 00:39:28,760
+[laughs]
+
+910
+00:39:28,820 --> 00:39:29,340
+Zhihai Qiu: Yeah, exactly.
+
+911
+00:39:29,380 --> 00:39:31,520
+Keith Murphy: They're like, they're like, "The work is scarce."
+
+912
+00:39:31,640 --> 00:39:32,620
+They're all saying the same thing.
+
+913
+00:39:32,880 --> 00:39:36,540
+"The work is scarce." And it's just like, guys, like, let's get back to
+
+914
+00:39:36,600 --> 00:39:37,900
+the, let's get back to the research.
+
+915
+00:39:38,060 --> 00:39:39,620
+Charles Caskey: Do the science. Do the science.
+
+916
+00:39:39,700 --> 00:39:40,200
+Keith Murphy: Yeah.
+
+917
+00:39:40,000 --> 00:39:41,100
+Charles Caskey: Don't w- all right.
+
+918
+00:39:42,220 --> 00:39:46,860
+Zhihai Qiu: Yeah. E-except for- Um- ... for, like, uh, for papers, you, you guys should
+
+919
+00:39:46,900 --> 00:39:52,080
+visit us in China, and you will know what's going on in mainland China.
+
+920
+00:39:52,740 --> 00:39:53,240
+Charles Caskey: Yeah.
+
+921
+00:39:52,840 --> 00:39:55,500
+Keith Murphy: I keep meaning to visit. You, have you visited, Charles?
+
+922
+00:39:56,020 --> 00:39:59,460
+Charles Caskey: Yeah, dude. I, it's been a while, but I went to Shenzhen, uh, and
+
+923
+00:39:59,520 --> 00:40:04,700
+visited SI, Shenzhen Institute, uh, of Technology, uh, Advanced Technology.
+
+924
+00:40:05,140 --> 00:40:05,640
+Zhihai Qiu: Mm-hmm.
+
+925
+00:40:05,400 --> 00:40:08,600
+Charles Caskey: Uh, it's a old colleague of mine, Hairong Zheng, uh, is, uh-
+
+926
+00:40:08,760 --> 00:40:09,260
+Keith Murphy: Hi
+
+927
+00:40:09,000 --> 00:40:10,520
+Charles Caskey: ... wa-was, was the director there.
+
+928
+00:40:10,880 --> 00:40:13,240
+And dude, they got so much cool stuff going on.
+
+929
+00:40:13,240 --> 00:40:13,740
+Keith Murphy: Oh, I bet.
+
+930
+00:40:13,300 --> 00:40:16,700
+Charles Caskey: Like, I walked through, and they, like, have these arrays of, like, of, of
+
+931
+00:40:16,740 --> 00:40:20,820
+transducers. They're making, like, styrofoam balls float, and the next room over- Nice ...
+
+932
+00:40:20,840 --> 00:40:24,720
+they got, like, transcranial ultrasound, and Hairong's like, "Yeah, we got this.
+
+933
+00:40:24,780 --> 00:40:26,800
+We got that." They're like, dude, yeah, they're doing it all.
+
+934
+00:40:26,800 --> 00:40:27,300
+Keith Murphy: Cool.
+
+935
+00:40:26,920 --> 00:40:30,900
+Charles Caskey: They got functional ultrasound. And just-- And, and then, and then they take me
+
+936
+00:40:30,960 --> 00:40:32,280
+around the city, and they got, like...
+
+937
+00:40:32,400 --> 00:40:35,200
+I mean, it's like the city is probably built, like, I don't know, like,
+
+938
+00:40:35,560 --> 00:40:39,340
+it, it's like the size of New York, [laughs] but it's like- Whoa ...
+
+939
+00:40:39,360 --> 00:40:41,680
+but I think it was all built in, like, the last 20 years or
+
+940
+00:40:41,780 --> 00:40:44,280
+something. Have you ever met Hairong, uh- [clears throat]
+
+941
+00:40:44,360 --> 00:40:47,100
+Zhihai Qiu: Yeah. He's one of the co-author of the iScience paper.
+
+942
+00:40:48,340 --> 00:40:48,840
+Charles Caskey: Oh.
+
+943
+00:40:48,560 --> 00:40:49,060
+Keith Murphy: Oh.
+
+944
+00:40:48,640 --> 00:40:49,920
+Charles Caskey: Oh. I didn't-- Okay, so you-
+
+945
+00:40:49,920 --> 00:40:51,780
+Keith Murphy: I was gonna say, that name sounds familiar.
+
+946
+00:40:51,960 --> 00:40:52,820
+That's familiar for sure.
+
+947
+00:40:52,820 --> 00:40:53,360
+Charles Caskey: Okay, so you, you guys are-
+
+948
+00:40:53,380 --> 00:40:54,020
+Keith Murphy: Hairong Zheng.
+
+949
+00:40:54,600 --> 00:40:56,020
+Charles Caskey: Yeah. Okay, cool. Very cool.
+
+950
+00:40:56,160 --> 00:40:56,660
+Zhihai Qiu: Yeah. Yeah.
+
+951
+00:40:56,360 --> 00:40:57,660
+Charles Caskey: Yeah, he's, he's a good dude.
+
+952
+00:40:57,900 --> 00:41:00,700
+Uh, maybe we'll get Hairong on here someday, but, uh, he's like a president
+
+953
+00:41:00,740 --> 00:41:02,580
+of a university now, so probably not.
+
+954
+00:41:02,600 --> 00:41:03,100
+[laughs]
+
+955
+00:41:03,120 --> 00:41:03,920
+Keith Murphy: Mm-hmm. Not tonight.
+
+956
+00:41:03,980 --> 00:41:06,840
+Zhihai Qiu: Yeah, he got a lot of, lot of resources, and he, and-
+
+957
+00:41:07,120 --> 00:41:07,620
+Charles Caskey: Yeah
+
+958
+00:41:07,220 --> 00:41:12,700
+Zhihai Qiu: ... he now is doing more like, um, uh, brain-computer interface and hum-- like
+
+959
+00:41:12,800 --> 00:41:15,440
+biology intelligent, biological intelligence.
+
+960
+00:41:15,560 --> 00:41:16,060
+Charles Caskey: Yeah.
+
+961
+00:41:15,580 --> 00:41:16,840
+Zhihai Qiu: Some- Cool ... something like that.
+
+962
+00:41:16,900 --> 00:41:17,560
+Uh-huh. Yeah.
+
+963
+00:41:18,040 --> 00:41:18,540
+Charles Caskey: Yeah.
+
+964
+00:41:18,240 --> 00:41:22,600
+Keith Murphy: I think Korea and China are on my bucket list to go visit, but
+
+965
+00:41:22,680 --> 00:41:25,840
+you guys, I got so tired of traveling, and you guys are far, but
+
+966
+00:41:25,880 --> 00:41:26,880
+we do have to get out there.
+
+967
+00:41:27,640 --> 00:41:28,140
+Charles Caskey: Yeah. Yeah.
+
+968
+00:41:28,240 --> 00:41:32,740
+Keith Murphy: Um, Zhihai, for time purposes, this has been an awesome discussion.
+
+969
+00:41:33,280 --> 00:41:35,680
+We're gonna bring it over to FUS wins.
+
+970
+00:41:35,920 --> 00:41:37,300
+You haven't heard of it, I don't think.
+
+971
+00:41:37,660 --> 00:41:40,180
+Oh, you have. You're-- Dude, did you listen to FUS Forward?
+
+972
+00:41:40,280 --> 00:41:40,780
+Zhihai Qiu: I have. I have.
+
+973
+00:41:40,300 --> 00:41:40,960
+Keith Murphy: You did listen?
+
+974
+00:41:41,000 --> 00:41:41,500
+Charles Caskey: Yeah. Yeah. Yeah.
+
+975
+00:41:41,400 --> 00:41:43,580
+Keith Murphy: To one ep- one episode? How many did you listen to?
+
+976
+00:41:43,580 --> 00:41:44,180
+[laughs]
+
+977
+00:41:44,240 --> 00:41:45,540
+Zhihai Qiu: Three episodes. Yeah.
+
+978
+00:41:45,780 --> 00:41:47,000
+Keith Murphy: Oh, you did. Okay, good.
+
+979
+00:41:47,020 --> 00:41:47,940
+Charles Caskey: All right. Yeah. [laughs]
+
+980
+00:41:47,960 --> 00:41:50,640
+Zhihai Qiu: I listened, I listened to, um, uh-
+
+981
+00:41:50,980 --> 00:41:51,680
+Keith Murphy: You know there's 20, right?
+
+982
+00:41:51,720 --> 00:41:54,240
+Zhihai Qiu: Jamie, Jamie, Jamie's episodes.
+
+983
+00:41:54,320 --> 00:41:55,420
+Keith Murphy: Tyler? Oh, good.
+
+984
+00:41:55,440 --> 00:41:56,520
+Charles Caskey: Oh, cool. Yeah, yeah. Jamie.
+
+985
+00:41:56,560 --> 00:41:57,060
+Zhihai Qiu: Yeah.
+
+986
+00:41:56,820 --> 00:41:57,320
+Keith Murphy: Good.
+
+987
+00:41:57,040 --> 00:41:58,260
+Zhihai Qiu: And also, um-
+
+988
+00:41:58,340 --> 00:42:02,480
+Keith Murphy: Okay. So you're the, so you're the .3% of our listenership from China.
+
+989
+00:42:02,760 --> 00:42:04,520
+That's you. [laughs]
+
+990
+00:42:04,580 --> 00:42:05,540
+Zhihai Qiu: Yeah. It's me.
+
+991
+00:42:05,740 --> 00:42:08,700
+Keith Murphy: It's simply you. [laughs] Okay, great.
+
+992
+00:42:09,400 --> 00:42:11,800
+So now that you know, you know the FUS wins segment.
+
+993
+00:42:12,280 --> 00:42:12,780
+Zhihai Qiu: Yeah.
+
+994
+00:42:12,300 --> 00:42:14,660
+Keith Murphy: We'd love for you to roll out the red carpet for one of your
+
+995
+00:42:14,760 --> 00:42:16,820
+favorites. Who's your hero of this month?
+
+996
+00:42:18,700 --> 00:42:22,840
+Zhihai Qiu: I like the, uh... Ooh, I can't remember the name.
+
+997
+00:42:23,280 --> 00:42:28,040
+Uh, just, just use ultrasound to en- to enhance the REM sleep, the paper
+
+998
+00:42:28,180 --> 00:42:29,160
+published in Nature Communications.
+
+999
+00:42:29,280 --> 00:42:32,160
+Keith Murphy: Oh, Evan, Evan... What's Evan's last name?
+
+1000
+00:42:32,160 --> 00:42:34,100
+Zhihai Qiu: Evan, um, Wang.
+
+1001
+00:42:34,140 --> 00:42:36,040
+Keith Murphy: Got it. Evan Wang. Is it Evan Wang?
+
+1002
+00:42:36,040 --> 00:42:37,760
+Zhihai Qiu: Wang. Hui, Huiliang, Huiliang Wang. Yeah.
+
+1003
+00:42:37,800 --> 00:42:38,300
+Charles Caskey: Yeah.
+
+1004
+00:42:37,860 --> 00:42:38,360
+Zhihai Qiu: Huiliang Wang.
+
+1005
+00:42:38,760 --> 00:42:40,560
+Charles Caskey: Huiliang Wang down at Texas. Oh, yeah.
+
+1006
+00:42:40,580 --> 00:42:41,260
+Keith Murphy: The NeuSleep..
+
+1007
+00:42:41,800 --> 00:42:44,720
+Charles Caskey: I know. Yes. Yes. [laughs]
+
+1008
+00:42:44,760 --> 00:42:45,260
+Keith Murphy: Woo!
+
+1009
+00:42:45,440 --> 00:42:47,220
+Charles Caskey: Yeah, yeah. I, I love Evan.
+
+1010
+00:42:47,320 --> 00:42:48,420
+Evan is such, like-
+
+1011
+00:42:48,480 --> 00:42:49,000
+Keith Murphy: He's the best
+
+1012
+00:42:49,020 --> 00:42:53,040
+Charles Caskey: ... just a, just a, just energetic and positive and super smart.
+
+1013
+00:42:53,060 --> 00:42:53,560
+Zhihai Qiu: Yeah.
+
+1014
+00:42:53,100 --> 00:42:54,660
+Charles Caskey: And yeah, that's a really good FUS win.
+
+1015
+00:42:54,780 --> 00:42:55,460
+I, I-- That's a-
+
+1016
+00:42:55,580 --> 00:42:56,080
+Keith Murphy: Nice
+
+1017
+00:42:55,640 --> 00:42:57,120
+Charles Caskey: ... that's a cool work. Yeah.
+
+1018
+00:42:57,220 --> 00:43:00,580
+Keith Murphy: REM sleep enhancement. He had a s- a patch that would go on the
+
+1019
+00:43:00,620 --> 00:43:01,120
+head.
+
+1020
+00:43:01,440 --> 00:43:01,940
+Charles Caskey: Dude, yeah.
+
+1021
+00:43:01,560 --> 00:43:03,380
+Keith Murphy: Dynamic focusing. Very cool.
+
+1022
+00:43:03,980 --> 00:43:04,480
+Zhihai Qiu: Yeah.
+
+1023
+00:43:04,100 --> 00:43:07,580
+Charles Caskey: Dude, yeah, dude made, made his own, like, hydrogel adhesive and-
+
+1024
+00:43:07,700 --> 00:43:08,200
+Keith Murphy: Yeah.
+
+1025
+00:43:07,880 --> 00:43:08,880
+Charles Caskey: Uh, yeah, yeah. I-
+
+1026
+00:43:09,460 --> 00:43:09,960
+Zhihai Qiu: Yeah.
+
+1027
+00:43:09,540 --> 00:43:11,940
+Charles Caskey: Yeah. Uh, good, good choice. Good choice.
+
+1028
+00:43:12,100 --> 00:43:12,600
+It's, uh-
+
+1029
+00:43:12,560 --> 00:43:13,140
+Keith Murphy: Nice, Zhihai.
+
+1030
+00:43:13,880 --> 00:43:19,040
+Zhihai Qiu: Yeah.

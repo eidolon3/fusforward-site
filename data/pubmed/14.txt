@@ -1,0 +1,2252 @@
+
+PMID- 41415613
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20260128
+LR  - 20260919
+IS  - 2331-8422 (Electronic)
+IS  - 2331-8422 (Linking)
+DP  - 2025 Dec 9
+TI  - The choice of viscous or viscoelastic models affects attenuation and velocity 
+      determination in simplified skull-mimicking digital phantoms.
+LID - arXiv:2512.09173v1
+AB  - OBJECTIVE: Simulation-guided transcranial focused ultrasound therapies rely on 
+      accurately estimating the skull's acoustic properties with pretreatment imaging. 
+      The typical imaging resolution (0.5 mm isotropic) is insufficient to resolve the 
+      bone microstructure, and as a result, the acoustic properties are 
+      underdetermined. Consequently, the determination of acoustic properties is 
+      sensitive to methodology. Here, we investigate how viscous or viscoelastic models 
+      predict variations in attenuation and phase velocity due to microstructure. 
+      APPROACH: Using viscous and viscoelastic k-Wave implementations, we simulated the 
+      transmission of a broadband 625 kHz tone burst ( -6 dB bandwidth: 250 kHz-1 MHz) 
+      through skull-mimicking digital phantoms. The phantoms consisted of spherical 
+      marrow pores (0.1 mm-1.0 mm diameter) randomly placed within a solid cortical 
+      background (2.5%-90% porosity). Virtual sensors measured the attenuation and 
+      phase velocity by the time-distance matrix approach. RESULTS: Both models predict 
+      that attenuation increases with increasing pore size for a fixed porosity, but 
+      the strength of the relationship and its dependence on porosity depend on the 
+      simulation technique applied. The viscoelastic model generally predicts that the 
+      attenuation peaks at larger porosity values than those predicted by the viscous 
+      model. For example, for 1.0 mm pore phantoms, the viscous attenuation peak (1.98 
+      Np/cm) occurs at 20% porosity, while the viscoelastic peak (2.98 Np/cm) occurs at 
+      70%. In general, the phase velocity decreases for larger pore phantoms for both 
+      techniques, but the phase velocity/porosity relationship predicted by the 
+      viscoelastic model is less sensitive to pore size compared to the viscous model. 
+      SIGNIFICANCE: Viscous and viscoelastic models predict different attenuation and 
+      phase velocity behavior for these idealized bone models. While both approaches 
+      predict that properties of bone microstructure have a large impact on acoustic 
+      attenuation within the skull, the viscous model indicates that bone 
+      microstructure impacts phase velocity within the skull, whereas the viscoelastic 
+      model suggests that phase velocity is less sensitive to microstructure. This 
+      study highlights the acoustic model's role in predicting transcranial propagation 
+      and the need to identify which approach most accurately reflects the physics of 
+      the human skull.
+FAU - Clinard, Samuel
+AU  - Clinard S
+AD  - Department of Biomedical Engineering, University of Utah, Salt Lake City, Utah, 
+      USA.
+AD  - Department of Radiology and Imaging Sciences, University of Utah, Salt Lake City, 
+      USA.
+FAU - Webb, Taylor
+AU  - Webb T
+AD  - Department of Radiology and Imaging Sciences, University of Utah, Salt Lake City, 
+      USA.
+FAU - Odeen, Henrik
+AU  - Odeen H
+AD  - Department of Radiology and Imaging Sciences, University of Utah, Salt Lake City, 
+      USA.
+FAU - Parker, Dennis L
+AU  - Parker DL
+AD  - Department of Radiology and Imaging Sciences, University of Utah, Salt Lake City, 
+      USA.
+AD  - Department of Biomedical Engineering, University of Utah, Salt Lake City, Utah, 
+      USA.
+FAU - Christensen, Douglas A
+AU  - Christensen DA
+AD  - Department of Biomedical Engineering, University of Utah, Salt Lake City, Utah, 
+      USA.
+AD  - Department of Electrical and Computer Engineering, University of Utah, Salt Lake 
+      City, U.
+LA  - eng
+GR  - F31 DE032916/DE/NIDCR NIH HHS/United States
+GR  - R01 EB028316/EB/NIBIB NIH HHS/United States
+GR  - R21 EB033117/EB/NIBIB NIH HHS/United States
+PT  - Journal Article
+PT  - Preprint
+DEP - 20251209
+PL  - United States
+TA  - ArXiv
+JT  - ArXiv
+JID - 101759493
+PMC - PMC12709493
+COIS- Conflict of Interest Statement The authors have no relevant conflicts of interest 
+      to disclose.
+EDAT- 2025/12/19 06:29
+MHDA- 2025/12/19 06:30
+PMCR- 2025/12/09
+CRDT- 2025/12/19 04:53
+PHST- 2025/12/19 06:29 [pubmed]
+PHST- 2025/12/19 06:30 [medline]
+PHST- 2025/12/19 04:53 [entrez]
+PHST- 2025/12/09 00:00 [pmc-release]
+AID - 2512.09173 [pii]
+PST - epublish
+SO  - ArXiv [Preprint]. 2025 Dec 9:arXiv:2512.09173v1.
+
+PMID- 41183449
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20251113
+LR  - 20260901
+IS  - 1361-6560 (Electronic)
+IS  - 0031-9155 (Print)
+IS  - 0031-9155 (Linking)
+VI  - 70
+IP  - 22
+DP  - 2025 Nov 13
+TI  - The speed of sound in skull-mimicking digital phantoms depends on the 
+      microstructure.
+LID - 10.1088/1361-6560/ae1aca [doi]
+LID - 225020
+AB  - Objective.Transcranial focused ultrasound therapies depend on accurately focusing 
+      the ultrasound beam through the skull. Simulated phase aberration correction with 
+      properties derived from computed tomography (CT) can partially restore the focus. 
+      However, the typical clinical CT resolution (0.5 mm isotropic) cannot resolve the 
+      bone microstructure, introducing uncertainty in the velocity relationship to CT 
+      Hounsfield units (HUs), which reduces focusing precision.Approach.To demonstrate 
+      this, we simulated through-transmission measurements through skull-mimicking 
+      digital phantoms consisting of cortical bone and marrow with porosities ranging 
+      from 0% to 80%. The phantoms comprised spherical marrow pores (0.1-0.6 mm 
+      diameter) randomly placed into a cortical background, forming fine-to-coarse 
+      microstructures. Using k-Wave, we simulated pulsed and continuous planar sources 
+      at four center frequencies (250 kHz, 500 kHz, 750 kHz, 1 MHz). Group and phase 
+      velocities are reported for each pore diameter and porosity. The steady-state 
+      phase is reported through representative phantoms.Main results.The velocity 
+      varies with pore diameter and porosity, with smaller pores yielding faster 
+      velocities than larger pores at the same porosity. At 25% porosity and 500 kHz, 
+      group velocity ranges from 3147 to 2211 m s(-1)and phase velocity from 3168 to 
+      2345 m s(-1)across 0.1-0.6 mm pore diameters. The steady state phase depends on 
+      the pore diameter and frequency, with the variation across the measurement plane 
+      broadening as both increase, indicating dependence on the microstructure's pore 
+      distribution.Significance.The results indicate that the velocity relationship to 
+      CT HUs is ill-determined due to the unresolved microstructure. The variation in 
+      group velocity impacts pulsed sources, such as those used for histotripsy, while 
+      variation in phase velocity affects quasi-continuous sources, including those 
+      used for neuromodulation and thermal ablation. Our results emphasize the need to 
+      account for the skull microstructure for safer and more effective transcranial 
+      focusing.
+CI  - Creative Commons Attribution license.
+FAU - Clinard, Samuel
+AU  - Clinard S
+AUID- ORCID: 0000-0001-5002-4228
+AD  - Department of Biomedical Engineering, University of Utah, Salt Lake City, UT, 
+      United States of America.
+AD  - Department of Radiology and Imaging Sciences, University of Utah, Salt Lake City, 
+      UT, United States of America.
+FAU - Webb, Taylor
+AU  - Webb T
+AD  - Department of Radiology and Imaging Sciences, University of Utah, Salt Lake City, 
+      UT, United States of America.
+FAU - Odeen, Henrik
+AU  - Odeen H
+AD  - Department of Radiology and Imaging Sciences, University of Utah, Salt Lake City, 
+      UT, United States of America.
+FAU - Parker, Dennis L
+AU  - Parker DL
+AD  - Department of Biomedical Engineering, University of Utah, Salt Lake City, UT, 
+      United States of America.
+AD  - Department of Radiology and Imaging Sciences, University of Utah, Salt Lake City, 
+      UT, United States of America.
+FAU - Christensen, Douglas A
+AU  - Christensen DA
+AD  - Department of Biomedical Engineering, University of Utah, Salt Lake City, UT, 
+      United States of America.
+AD  - Department of Electrical and Computer Engineering, University of Utah, Salt Lake 
+      City, UT, United States of America.
+LA  - eng
+GR  - F31 DE032916/DE/NIDCR NIH HHS/United States
+GR  - R01 EB028316/EB/NIBIB NIH HHS/United States
+GR  - R21 EB033117/EB/NIBIB NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+DEP - 20251113
+PL  - England
+TA  - Phys Med Biol
+JT  - Physics in medicine and biology
+JID - 0401220
+SB  - IM
+MH  - *Phantoms, Imaging
+MH  - *Skull/diagnostic imaging
+MH  - *Sound
+MH  - Porosity
+MH  - Tomography, X-Ray Computed
+MH  - Humans
+PMC - PMC12612803
+OTO - NOTNLM
+OT  - acoustic velocity
+OT  - digital bone phantom
+OT  - k-Wave
+OT  - skull microstructure
+OT  - transcranial focused ultrasound
+OT  - ultrasound simulation
+COIS- The authors have no relevant conflicts of interest to disclose.
+EDAT- 2025/11/04 00:28
+MHDA- 2025/11/13 18:30
+PMCR- 2025/11/13
+CRDT- 2025/11/03 18:02
+PHST- 2025/07/09 00:00 [received]
+PHST- 2025/11/03 00:00 [accepted]
+PHST- 2025/11/13 18:30 [medline]
+PHST- 2025/11/04 00:28 [pubmed]
+PHST- 2025/11/03 18:02 [entrez]
+PHST- 2025/11/13 00:00 [pmc-release]
+AID - pmbae1aca [pii]
+AID - 10.1088/1361-6560/ae1aca [doi]
+PST - epublish
+SO  - Phys Med Biol. 2025 Nov 13;70(22):225020. doi: 10.1088/1361-6560/ae1aca.
+
+PMID- 41168682
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20251031
+LR  - 20251105
+IS  - 2473-4209 (Electronic)
+IS  - 0094-2405 (Print)
+IS  - 0094-2405 (Linking)
+VI  - 52
+IP  - 11
+DP  - 2025 Nov
+TI  - Influence of bone microstructure on ultrasound loss through skull-mimicking 
+      digital phantoms.
+PG  - e70113
+LID - 10.1002/mp.70113 [doi]
+LID - e70113
+AB  - BACKGROUND: Transcranial focused ultrasound treatments rely on precisely 
+      delivering ultrasound through the inhomogeneous human skull. Full-wave ultrasound 
+      simulations are a means to predict and correct the resulting ultrasound 
+      aberrations and attenuation. To do this, the acoustic properties of the skull, 
+      including phase velocity and attenuation, must be determined. A common approach 
+      relates computed tomography (CT) Hounsfield Units (HU) to these acoustic 
+      properties. In the trabecular regions of skulls, the CT HU values will depend on 
+      the fraction of bone and marrow within an image volume element, but they are 
+      typically insensitive to the microstructure of the bone and marrow. PURPOSE: This 
+      study explores the influence of bone/marrow microstructures on determining the 
+      relationship of acoustic properties, particularly loss, to CT HUs. The typical 
+      clinical CT resolution (0.5 mm) cannot resolve fine trabecular bone 
+      microstructure, suggesting the relationship of attenuation to HU may be 
+      ill-determined. METHODS: The ultrasound insertion loss was found through various 
+      skull-mimicking digital phantoms consisting of two constituent materials (red 
+      marrow and cortical bone) from 0% to 75% porosity. The phantoms were assigned one 
+      of six pore diameters ranging from 0.2 to 1.0 mm. Ultrasound simulations were 
+      computed using k-Wave with a continuous 230 or 650 kHz uniform pressure source. 
+      The insertion loss with and without absorption was defined as the mean pressure 
+      through the phantom with respect to the mean pressure in a water-only reference. 
+      RESULTS: The simulations at 230 kHz showed that the loss changed with porosity, 
+      but specific microstructure had little effect. However, in both nonabsorbing and 
+      absorbing 650 kHz source simulations, the insertion loss depended on porosity and 
+      pore diameter. Larger pore diameter phantoms generally had higher losses than 
+      smaller pore diameter phantoms at the same porosity. In the nonabsorbing 
+      phantoms, the maximum range in insertion loss was 2%-52% over the range of pore 
+      diameters, which occurred at 20% porosity. Absorbing phantoms increased the loss 
+      by an average of 8.2%, with the greatest increase of 13% occurring for the 
+      smallest pore diameter at 2.5% porosity. Coherent multiple reflections from the 
+      phantom's planar interfaces influenced the loss within smaller pore diameter 
+      phantoms. The phase coherence of these reflections was disrupted by increased 
+      scattering within the larger pore diameter phantoms. CONCLUSION: The results 
+      suggest that the relationship between attenuation and clinical HUs is 
+      ill-determined at 650 kHz, since the insertion loss depends on both porosity and 
+      pore diameter. The demonstrated uncertainty has important implications for 
+      developing CT-derived acoustic models of skull bone, as no single attenuation 
+      value can be related to HUs comprised of variable microstructures. Generally, our 
+      results show larger pore diameters (coarse microstructures) have higher loss than 
+      smaller pore diameters (fine microstructures) at the same porosity, which is 
+      consistent with scattering theory.
+CI  - (c) 2025 The Author(s). Medical Physics published by Wiley Periodicals LLC on 
+      behalf of American Association of Physicists in Medicine.
+FAU - Clinard, Samuel
+AU  - Clinard S
+AD  - Department of Biomedical Engineering, University of Utah, Salt Lake City, Utah, 
+      USA.
+AD  - Department of Radiology and Imaging Sciences, University of Utah, Salt Lake City, 
+      USA.
+FAU - Webb, Taylor
+AU  - Webb T
+AD  - Department of Radiology and Imaging Sciences, University of Utah, Salt Lake City, 
+      USA.
+FAU - Odeen, Henrik
+AU  - Odeen H
+AD  - Department of Radiology and Imaging Sciences, University of Utah, Salt Lake City, 
+      USA.
+FAU - Parker, Dennis L
+AU  - Parker DL
+AD  - Department of Biomedical Engineering, University of Utah, Salt Lake City, Utah, 
+      USA.
+FAU - Christensen, Douglas A
+AU  - Christensen DA
+AD  - Department of Biomedical Engineering, University of Utah, Salt Lake City, Utah, 
+      USA.
+AD  - Department of Electrical and Computer Engineering, University of Utah, Salt Lake 
+      City, USA.
+LA  - eng
+GR  - R01 EB028316/EB/NIBIB NIH HHS/United States
+GR  - F31DE032916/National Institute of Dental and Craniofacial Research (NIDCR)/
+GR  - R21EB033117/National Institute of Biomedical Imaging and Bioengineering (NIBIB)/
+GR  - R21 EB033117/EB/NIBIB NIH HHS/United States
+GR  - F31 DE032916/DE/NIDCR NIH HHS/United States
+PT  - Journal Article
+PL  - United States
+TA  - Med Phys
+JT  - Medical physics
+JID - 0425746
+SB  - IM
+UOF - ArXiv. 2025 Aug 6:arXiv:2508.04838v1. PMID: 40799811
+MH  - *Phantoms, Imaging
+MH  - *Skull/diagnostic imaging/cytology
+MH  - Humans
+MH  - Tomography, X-Ray Computed
+MH  - *Ultrasonic Waves
+PMC - PMC12575882
+COIS- The authors declare no conflicts of interest.
+EDAT- 2025/10/31 06:26
+MHDA- 2025/10/31 06:27
+PMCR- 2025/10/31
+CRDT- 2025/10/31 00:52
+PHST- 2025/05/19 00:00 [revised]
+PHST- 2024/12/12 00:00 [received]
+PHST- 2025/10/14 00:00 [accepted]
+PHST- 2025/10/31 06:27 [medline]
+PHST- 2025/10/31 06:26 [pubmed]
+PHST- 2025/10/31 00:52 [entrez]
+PHST- 2025/10/31 00:00 [pmc-release]
+AID - MP70113 [pii]
+AID - 10.1002/mp.70113 [doi]
+PST - ppublish
+SO  - Med Phys. 2025 Nov;52(11):e70113. doi: 10.1002/mp.70113.
+
+PMID- 41162150
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20260107
+LR  - 20260813
+IS  - 1529-2401 (Electronic)
+IS  - 0270-6474 (Print)
+IS  - 0270-6474 (Linking)
+VI  - 46
+IP  - 1
+DP  - 2026 Jan 7
+TI  - Noninvasive Suppression of Responses to Threat Using Focused Ultrasonic Waves.
+LID - 10.1523/JNEUROSCI.0776-25.2025 [doi]
+LID - e0776252025
+AB  - The processing of threat- and fear-related responses is known to involve the 
+      amygdala and the bed nucleus of the stria terminalis. Malignant activity in these 
+      nuclei is associated with several important disorders, including generalized 
+      anxiety disorder and post-traumatic stress disorder. A noninvasive approach to 
+      modulate these deep brain circuits could provide novel treatment options for 
+      these disorders, but current noninvasive approaches cannot access these targets 
+      directly. This study modulates these nuclei using transcranial low-intensity 
+      focused ultrasound in nonhuman primates. The ultrasound was delivered into these 
+      circuits prior to an emotional stimulus (neutral, submissive, or threatening 
+      monkey faces or snake images) while measuring the system's autonomic response 
+      using pupil size. We found that the neuromodulation substantially reduced the 
+      pupillary responses to threat images. The effect was specific to threat face 
+      images and specific to focused ultrasound; it was not observed for other types of 
+      images or for unfocused or no-ultrasound. Thus, focused ultrasound targeting fear 
+      circuits can suppress responses to threat images. This approach could be 
+      developed into noninvasive treatments of disorders that affect these circuits.
+CI  - Copyright (c) 2025 the authors.
+FAU - Tsunoda, Keisuke
+AU  - Tsunoda K
+AUID- ORCID: 0000-0002-1579-0549
+AD  - Department of Biomedical Engineering, University of Utah, Salt Lake City, Utah 
+      84112 keisuke.tsunoda@utah.edu.
+AD  - Department of Psychiatry, Washington University School of Medicine, St. Louis, 
+      Missouri 63110.
+AD  - Graduate School of Arts and Sciences, The University of Tokyo, Meguro-ku, Tokyo 
+      153-8902, Japan.
+FAU - Webb, Taylor D
+AU  - Webb TD
+AD  - Department of Radiology and Imaging Sciences, University of Utah, Salt Lake City, 
+      Utah 84112.
+FAU - Lybbert, Carter
+AU  - Lybbert C
+AD  - Department of Biomedical Engineering, University of Utah, Salt Lake City, Utah 
+      84112.
+FAU - Wilson, Matthew G
+AU  - Wilson MG
+AD  - Department of Biomedical Engineering, University of Utah, Salt Lake City, Utah 
+      84112.
+FAU - Mickey, Brian J
+AU  - Mickey BJ
+AUID- ORCID: 0000-0002-7847-7680
+AD  - Department of Biomedical Engineering, University of Utah, Salt Lake City, Utah 
+      84112.
+AD  - Department of Psychiatry, Huntsman Mental Health Institute, University of Utah, 
+      Salt Lake City, Utah 84112.
+FAU - Kubanek, Jan
+AU  - Kubanek J
+AUID- ORCID: 0000-0003-0527-5559
+AD  - Department of Biomedical Engineering, University of Utah, Salt Lake City, Utah 
+      84112.
+AD  - Department of Psychiatry, Washington University School of Medicine, St. Louis, 
+      Missouri 63110.
+LA  - eng
+SI  - figshare/10.6084/m9.figshare.28711166.v1
+GR  - F32 MH123019/MH/NIMH NIH HHS/United States
+GR  - RF1 NS128569/NS/NINDS NIH HHS/United States
+GR  - R00 NS100986/NS/NINDS NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20260107
+PL  - United States
+TA  - J Neurosci
+JT  - The Journal of neuroscience : the official journal of the Society for 
+      Neuroscience
+JID - 8102140
+SB  - IM
+MH  - Animals
+MH  - *Fear/physiology
+MH  - Male
+MH  - Macaca mulatta
+MH  - *Ultrasonic Waves
+MH  - Female
+MH  - Pupil/physiology/radiation effects
+MH  - Photic Stimulation/methods
+MH  - Amygdala/physiology
+MH  - Septal Nuclei/physiology
+PMC - PMC12782748
+OTO - NOTNLM
+OT  - amygdala
+OT  - bed nucleus of the stria terminalis
+OT  - noninvasive
+OT  - transcranial
+OT  - ultrasound neuromodulation
+COIS- J.K. is a cofounder of SPIRE Therapeutics. The remaining authors declare no 
+      competing financial interests.
+EDAT- 2025/10/30 00:27
+MHDA- 2026/01/08 00:27
+PMCR- 2026/07/07
+CRDT- 2025/10/29 22:02
+PHST- 2025/04/18 00:00 [received]
+PHST- 2025/08/12 00:00 [revised]
+PHST- 2025/08/25 00:00 [accepted]
+PHST- 2026/01/08 00:27 [medline]
+PHST- 2025/10/30 00:27 [pubmed]
+PHST- 2025/10/29 22:02 [entrez]
+PHST- 2026/07/07 00:00 [pmc-release]
+AID - JNEUROSCI.0776-25.2025 [pii]
+AID - jneuro-46-e0776252025 [pii]
+AID - 10.1523/JNEUROSCI.0776-25.2025 [doi]
+PST - epublish
+SO  - J Neurosci. 2026 Jan 7;46(1):e0776252025. doi: 10.1523/JNEUROSCI.0776-25.2025.
+
+PMID- 40799811
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20251104
+LR  - 20251104
+IS  - 2331-8422 (Electronic)
+IS  - 2331-8422 (Linking)
+DP  - 2025 Aug 6
+TI  - Influence of bone microstructure on ultrasound loss through skull-mimicking 
+      digital phantoms.
+LID - arXiv:2508.04838v1
+AB  - BACKGROUND: Transcranial focused ultrasound treatments rely on precisely 
+      delivering ultrasound through the inhomogeneous human skull. Full-wave ultrasound 
+      simulations are a means to predict and correct the resulting ultrasound 
+      aberrations and attenuation. To do this, the acoustic properties of the skull, 
+      including phase velocity and attenuation, must be determined. A common approach 
+      relates computed tomography (CT) Hounsfield Units (HU) to these acoustic 
+      properties. In the trabecular regions of skulls, the CT HU values will depend on 
+      the fraction of bone and marrow within an image volume element, but they are 
+      typically insensitive to the microstructure of the bone and marrow. PURPOSE: This 
+      study explores the influence of bone/marrow microstructures on determining the 
+      relationship of acoustic properties, particularly loss, to CT HUs. The typical 
+      clinical CT resolution (0.5 mm) cannot resolve fine trabecular bone 
+      microstructure, suggesting the relationship of attenuation to HU may be 
+      ill-determined. METHODS: The ultrasound insertion loss was found through various 
+      skull-mimicking digital phantoms consisting of two constituent materials (red 
+      marrow and cortical bone) from 0 to 75% porosity. The phantoms were assigned one 
+      of six pore diameters ranging from 0.2 mm to 1.0 mm. Ultrasound simulations were 
+      computed using k-Wave with a continuous 230 kHz or 650 kHz uniform pressure 
+      source. The insertion loss with and without absorption was defined as the mean 
+      pressure through the phantom with respect to the mean pressure in a water-only 
+      reference. RESULTS: The simulations at 230 kHz showed that the loss changed with 
+      porosity, but specific microstructure had little effect. However, in both 
+      non-absorbing and absorbing 650 kHz source simulations, the insertion loss 
+      depended on porosity and pore diameter. Larger pore diameter phantoms generally 
+      had higher losses than smaller pore diameter phantoms at the same porosity. In 
+      the non-absorbing phantoms, the maximum range in insertion loss was 2% to 52% 
+      over the range of pore diameters, which occurred at 20% porosity. Absorbing 
+      phantoms increased the loss by an average of 8.2%, with the greatest increase of 
+      13% occurring for the smallest pore diameter at 2.5% porosity. Coherent multiple 
+      reflections from the phantom's planar interfaces influenced the loss within 
+      smaller pore diameter phantoms. The phase coherence of these reflections was 
+      disrupted by increased scattering within the larger pore diameter phantoms. 
+      CONCLUSION: The results suggest that the relationship between attenuation and 
+      clinical HUs is ill-determined at 650 kHz, since the insertion loss depends on 
+      both porosity and pore diameter. The demonstrated uncertainty has important 
+      implications for developing CT-derived acoustic models of skull bone, as no 
+      single attenuation value can be related to HUs comprised of variable 
+      microstructures. Generally, our results show larger pore diameters (coarse 
+      microstructures) have higher loss than smaller pore diameters (fine 
+      microstructures) at the same porosity, which is consistent with scattering 
+      theory.
+FAU - Clinard, Samuel
+AU  - Clinard S
+AD  - Department of Biomedical Engineering, University of Utah, Salt Lake City, Utah, 
+      USA, Department of Radiology and Imaging Sciences, University of Utah, Salt Lake 
+      City, USA.
+FAU - Webb, Taylor
+AU  - Webb T
+AD  - Department of Electrical and Computer Engineering, University of Utah, Salt Lake 
+      City, USA.
+FAU - Odeen, Henrik
+AU  - Odeen H
+AD  - Department of Electrical and Computer Engineering, University of Utah, Salt Lake 
+      City, USA.
+FAU - Parker, Dennis L
+AU  - Parker DL
+AD  - Department of Electrical and Computer Engineering, University of Utah, Salt Lake 
+      City, USA.
+AD  - Department of Biomedical Engineering, University of Utah, Salt Lake City, Utah, 
+      USA, Department of Radiology and Imaging Sciences, University of Utah, Salt Lake 
+      City, USA.
+FAU - Christensen, Douglas A
+AU  - Christensen DA
+AD  - Department of Biomedical Engineering, University of Utah, Salt Lake City, Utah, 
+      USA, Department of Radiology and Imaging Sciences, University of Utah, Salt Lake 
+      City, USA.
+AD  - Salt Lake City, Utah 84108.
+LA  - eng
+GR  - F31 DE032916/DE/NIDCR NIH HHS/United States
+GR  - R01 EB028316/EB/NIBIB NIH HHS/United States
+GR  - R21 EB033117/EB/NIBIB NIH HHS/United States
+PT  - Journal Article
+PT  - Preprint
+DEP - 20250806
+PL  - United States
+TA  - ArXiv
+JT  - ArXiv
+JID - 101759493
+UIN - Med Phys. 2025 Nov;52(11):e70113. doi: 10.1002/mp.70113. PMID: 41168682
+PMC - PMC12340892
+COIS- Conflict of Interest Statement The authors have no relevant conflicts of interest 
+      to disclose.
+EDAT- 2025/08/13 06:30
+MHDA- 2025/08/13 06:31
+PMCR- 2025/08/06
+CRDT- 2025/08/13 05:54
+PHST- 2025/08/13 06:30 [pubmed]
+PHST- 2025/08/13 06:31 [medline]
+PHST- 2025/08/13 05:54 [entrez]
+PHST- 2025/08/06 00:00 [pmc-release]
+AID - 2508.04838 [pii]
+PST - epublish
+SO  - ArXiv [Preprint]. 2025 Aug 6:arXiv:2508.04838v1.
+
+PMID- 40532769
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250806
+LR  - 20260909
+IS  - 1873-5894 (Electronic)
+IS  - 0730-725X (Print)
+IS  - 0730-725X (Linking)
+VI  - 122
+DP  - 2025 Oct
+TI  - A human-compatible gradient coil for visualizing ultrasound propagation.
+PG  - 110447
+LID - S0730-725X(25)00131-6 [pii]
+LID - 10.1016/j.mri.2025.110447 [doi]
+AB  - In pursuit of a magnetic resonance imaging (MRI) based means to tailor 
+      transcranial focused ultrasound neuromodulation to a patient's unique skull 
+      morphology, this study presents a specialized gradient coil that sensitizes MRI 
+      images to ultrasonic vibrations at depths equivalent to the human cortex in a 
+      technique called the magnetic resonance hydrophone. The coil comprises a 60 mm 
+      diameter, pancake-style design that encodes acoustic displacements into MR images 
+      at the cost of an inhomogeneous encoding field. The coil was coupled with a 
+      500 kHz, custom built, ultrasonic transducer. Both the magnetic field gradient of 
+      the coil and the acoustic field of the transducer were characterized in benchtop 
+      experiments. Acoustic standing waves were estimated in silico. Resulting MR 
+      images displayed a sinusoidal phase pattern modulated by both the transducer's 
+      acoustic field and the coil's magnetic field gradient. Acoustic pressures were 
+      estimated from the resulting images and compared to hydrophone measurements. The 
+      pancake-style coil produced a pressure measurement uncertainty pattern due to 
+      electronic noise that increased exponentially with depth. Uncertainty at 
+      locations between 0 and 30 mm of depth within a region approximately 10 mm wide 
+      scaled between approximately 20 kPa and 100 kPa. On average, the MRH 
+      underestimated the hydrophone by 12 kPa with the difference between the two 
+      following a standard deviation of 21 kPa.
+CI  - Copyright (c) 2024. Published by Elsevier Inc.
+FAU - Passe-Carlus, Paul-Emile
+AU  - Passe-Carlus PE
+AD  - Computer And Electrical Engineering, Brigham Young University, Provo, UT 84663, 
+      USA.
+FAU - Cavinatto, Davi
+AU  - Cavinatto D
+AD  - Computer And Electrical Engineering, Brigham Young University, Provo, UT 84663, 
+      USA; Department of Radiology, University of Utah, Salt Lake City, UT 84112, USA.
+FAU - Thyberg, Nathan
+AU  - Thyberg N
+AD  - Computer And Electrical Engineering, Brigham Young University, Provo, UT 84663, 
+      USA.
+FAU - Reed, Carson
+AU  - Reed C
+AD  - Computer And Electrical Engineering, Brigham Young University, Provo, UT 84663, 
+      USA.
+FAU - Webb, Taylor D
+AU  - Webb TD
+AD  - Department of Radiology, University of Utah, Salt Lake City, UT 84112, USA.
+FAU - Allen, Steven P
+AU  - Allen SP
+AD  - Computer And Electrical Engineering, Brigham Young University, Provo, UT 84663, 
+      USA. Electronic address: spallen@byu.edu.
+LA  - eng
+GR  - R01 EB032773/EB/NIBIB NIH HHS/United States
+GR  - NSF 2138403/NSF/
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+DEP - 20250616
+PL  - Netherlands
+TA  - Magn Reson Imaging
+JT  - Magnetic resonance imaging
+JID - 8214883
+SB  - IM
+MH  - Humans
+MH  - *Magnetic Resonance Imaging/instrumentation
+MH  - Equipment Design
+MH  - Transducers
+MH  - Phantoms, Imaging
+MH  - Ultrasonography/instrumentation
+PMC - PMC12309294
+MID - NIHMS2092333
+OTO - NOTNLM
+OT  - Focused ultrasound
+OT  - Hydrophone
+OT  - Magnetic resonance imaging
+OT  - Motion encoding gradient
+OT  - Neuromodulation
+COIS- Declaration of competing interest None.
+EDAT- 2025/06/19 00:25
+MHDA- 2025/08/07 05:47
+PMCR- 2026/06/16
+CRDT- 2025/06/18 19:12
+PHST- 2025/03/07 00:00 [received]
+PHST- 2025/06/02 00:00 [revised]
+PHST- 2025/06/15 00:00 [accepted]
+PHST- 2025/08/07 05:47 [medline]
+PHST- 2025/06/19 00:25 [pubmed]
+PHST- 2025/06/18 19:12 [entrez]
+PHST- 2026/06/16 00:00 [pmc-release]
+AID - S0730-725X(25)00131-6 [pii]
+AID - 10.1016/j.mri.2025.110447 [doi]
+PST - ppublish
+SO  - Magn Reson Imaging. 2025 Oct;122:110447. doi: 10.1016/j.mri.2025.110447. Epub 
+      2025 Jun 16.
+
+PMID- 39177522
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250106
+LR  - 20260102
+IS  - 1525-1403 (Electronic)
+IS  - 1094-7159 (Print)
+IS  - 1094-7159 (Linking)
+VI  - 28
+IP  - 1
+DP  - 2025 Jan
+TI  - A Physiological Marker for Deep Brain Ultrasonic Neuromodulation.
+PG  - 155-161
+LID - S1094-7159(24)00657-3 [pii]
+LID - 10.1016/j.neurom.2024.07.005 [doi]
+AB  - OBJECTIVES: Transcranial ultrasound neuromodulation (TUSN) is a noninvasive and 
+      spatially specific therapy that promises to deliver treatments tailored to the 
+      specific needs of individuals. To fulfill this promise, each treatment must be 
+      modified to adequately correct for variation across individual skulls and neural 
+      anatomy. This study examines the use of ultrasound-induced voltage potentials 
+      (measured with electroencephalography [EEG]) to guide TUSN therapies. MATERIALS 
+      AND METHODS: We measured EEG responses in two awake nonhuman primates during 
+      sonication of 12 targets surrounding two deep brain nuclei, the left and right 
+      lateral geniculate nucleus. RESULTS: We report reliable ultrasound evoked 
+      potentials measured with EEG after the deep brain ultrasonic modulation in 
+      nonhuman primates. Robust responses are observed after just ten repetitions of 
+      the ultrasonic stimuli. Moreover, these potentials are only evoked for specific 
+      deep brain targets. Furthermore, a behavioral study in one subject shows a direct 
+      correspondence between the target with maximal EEG response and ultrasound-based 
+      modulation of visual choice behavior. Thus, this study provides evidence for the 
+      feasibility of EEG-based guidance for ultrasound neuromodulation therapies.
+CI  - Copyright (c) 2024 International Neuromodulation Society. Published by Elsevier 
+      Inc. All rights reserved.
+FAU - Webb, Taylor D
+AU  - Webb TD
+AD  - Department of Radiology and Imaging Sciences, University of Utah, Salt Lake City, 
+      UT, USA. Electronic address: taylor.webb@utah.edu.
+FAU - Lybbert, Carter
+AU  - Lybbert C
+AD  - Department of Biomedical Engineering, University of Utah, Salt Lake City, UT, 
+      USA.
+FAU - Wilson, Matthew G
+AU  - Wilson MG
+AD  - Department of Biomedical Engineering, University of Utah, Salt Lake City, UT, 
+      USA.
+FAU - Odeen, Henrik
+AU  - Odeen H
+AD  - Department of Radiology and Imaging Sciences, University of Utah, Salt Lake City, 
+      UT, USA.
+FAU - Kubanek, Jan
+AU  - Kubanek J
+AD  - Department of Biomedical Engineering, University of Utah, Salt Lake City, UT, 
+      USA.
+LA  - eng
+GR  - R00 NS100986/NS/NINDS NIH HHS/United States
+GR  - R21 EB033117/EB/NIBIB NIH HHS/United States
+GR  - F32 MH123019/MH/NIMH NIH HHS/United States
+GR  - RF1 NS128569/NS/NINDS NIH HHS/United States
+GR  - S10 OD026788/OD/NIH HHS/United States
+PT  - Journal Article
+DEP - 20240822
+PL  - United States
+TA  - Neuromodulation
+JT  - Neuromodulation : journal of the International Neuromodulation Society
+JID - 9804159
+SB  - IM
+MH  - Animals
+MH  - *Electroencephalography/methods
+MH  - *Deep Brain Stimulation/methods/instrumentation
+MH  - Male
+MH  - Ultrasonic Therapy/methods
+MH  - Macaca mulatta
+MH  - Brain/physiology/diagnostic imaging
+MH  - Evoked Potentials/physiology
+PMC - PMC11701730
+MID - NIHMS2021356
+OTO - NOTNLM
+OT  - Deep brain
+OT  - evoked potentials
+OT  - noninvasive
+OT  - stimulation
+OT  - ultrasound
+COIS- Conflict of Interest Jan Kubanek reports that he is the cofounder with equity 
+      stake in SPIRE, an ultrasound neuromodulation company. The remaining authors 
+      reported no conflict of interest.
+EDAT- 2024/08/23 12:46
+MHDA- 2025/01/07 00:21
+PMCR- 2026/01/01
+CRDT- 2024/08/23 10:32
+PHST- 2024/04/22 00:00 [received]
+PHST- 2024/06/20 00:00 [revised]
+PHST- 2024/07/08 00:00 [accepted]
+PHST- 2025/01/07 00:21 [medline]
+PHST- 2024/08/23 12:46 [pubmed]
+PHST- 2024/08/23 10:32 [entrez]
+PHST- 2026/01/01 00:00 [pmc-release]
+AID - S1094-7159(24)00657-3 [pii]
+AID - 10.1016/j.neurom.2024.07.005 [doi]
+PST - ppublish
+SO  - Neuromodulation. 2025 Jan;28(1):155-161. doi: 10.1016/j.neurom.2024.07.005. Epub 
+      2024 Aug 22.
+
+PMID- 38604386
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240522
+LR  - 20260615
+IS  - 1873-4995 (Electronic)
+IS  - 0168-3659 (Print)
+IS  - 0168-3659 (Linking)
+VI  - 369
+DP  - 2024 May
+TI  - Remotely controlled drug release in deep brain regions of non-human primates.
+PG  - 775-785
+LID - S0168-3659(24)00234-7 [pii]
+LID - 10.1016/j.jconrel.2024.04.013 [doi]
+AB  - Many areas of science and medicine would benefit from selective release of drugs 
+      in specific regions. Nanoparticle drug carriers activated by focused 
+      ultrasound-remotely applied, depth-penetrating energy-may provide such selective 
+      interventions. Here, we developed stable, ultrasound-responsive nanoparticles 
+      that can be used to release drugs effectively and safely in non-human primates. 
+      The nanoparticles were used to release propofol in deep brain visual regions. The 
+      release reversibly modulated the subjects' visual choice behavior and was 
+      specific to the targeted region and to the released drug. Gadolinium-enhanced MR 
+      imaging suggested an intact blood-brain barrier. Blood draws showed normal 
+      clinical chemistry and hematology. In summary, this study provides a safe and 
+      effective approach to release drugs on demand in selected deep brain regions at 
+      levels sufficient to modulate behavior.
+CI  - Copyright (c) 2023. Published by Elsevier B.V.
+FAU - Wilson, Matthew G
+AU  - Wilson MG
+AD  - Department of Biomedical Engineering, University of Utah, 36 S Wasatch Dr, Salt 
+      Lake City, UT 84112, USA.
+FAU - Webb, Taylor D
+AU  - Webb TD
+AD  - Department of Biomedical Engineering, University of Utah, 36 S Wasatch Dr, Salt 
+      Lake City, UT 84112, USA.
+FAU - Odeen, Henrik
+AU  - Odeen H
+AD  - Department of Radiology and Imaging Sciences, University of Utah, 729 Arapeen 
+      Drive, Salt Lake City, UT 84108, USA.
+FAU - Kubanek, Jan
+AU  - Kubanek J
+AD  - Department of Biomedical Engineering, University of Utah, 36 S Wasatch Dr, Salt 
+      Lake City, UT 84112, USA. Electronic address: jan.kubanek@utah.edu.
+LA  - eng
+GR  - R00 NS100986/NS/NINDS NIH HHS/United States
+GR  - R21 EB033638/EB/NIBIB NIH HHS/United States
+GR  - F32 MH123019/MH/NIMH NIH HHS/United States
+GR  - RF1 NS128569/NS/NINDS NIH HHS/United States
+GR  - S10 OD026788/OD/NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20240417
+PL  - Netherlands
+TA  - J Control Release
+JT  - Journal of controlled release : official journal of the Controlled Release 
+      Society
+JID - 8607908
+RN  - YI7VU623SF (Propofol)
+RN  - 0 (Delayed-Action Preparations)
+RN  - 0 (Drug Carriers)
+RN  - AU0V1LM3JT (Gadolinium)
+SB  - IM
+UOF - bioRxiv. 2024 Mar 28:2023.10.09.561539. doi: 10.1101/2023.10.09.561539. PMID: 
+      37873134
+MH  - Animals
+MH  - *Propofol/pharmacokinetics/administration & dosage/blood/chemistry
+MH  - *Brain/metabolism/diagnostic imaging
+MH  - *Delayed-Action Preparations
+MH  - Nanoparticles/administration & dosage
+MH  - Male
+MH  - Drug Liberation
+MH  - Macaca mulatta
+MH  - Drug Carriers/chemistry
+MH  - Magnetic Resonance Imaging
+MH  - Blood-Brain Barrier/metabolism
+MH  - Drug Delivery Systems
+MH  - Gadolinium/administration & dosage/chemistry/pharmacokinetics
+PMC - PMC11111335
+MID - NIHMS1986840
+OTO - NOTNLM
+OT  - Drug release
+OT  - Nanoparticle carriers
+OT  - Neuromodulation
+OT  - Pharmacomodulation
+OT  - Ultrasound
+COIS- Declaration of competing interest Jan Kubanek is a co-inventor on a pending 
+      patent.
+EDAT- 2024/04/12 00:43
+MHDA- 2024/05/23 05:43
+PMCR- 2024/05/23
+CRDT- 2024/04/11 19:31
+PHST- 2023/10/05 00:00 [received]
+PHST- 2024/03/18 00:00 [revised]
+PHST- 2024/04/05 00:00 [accepted]
+PHST- 2024/05/23 05:43 [medline]
+PHST- 2024/04/12 00:43 [pubmed]
+PHST- 2024/04/11 19:31 [entrez]
+PHST- 2024/05/23 00:00 [pmc-release]
+AID - S0168-3659(24)00234-7 [pii]
+AID - 10.1016/j.jconrel.2024.04.013 [doi]
+PST - ppublish
+SO  - J Control Release. 2024 May;369:775-785. doi: 10.1016/j.jconrel.2024.04.013. Epub 
+      2024 Apr 17.
+
+PMID- 37873134
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20260615
+IS  - 2692-8205 (Electronic)
+IS  - 2692-8205 (Linking)
+DP  - 2024 Mar 28
+TI  - Remotely controlled drug release in deep brain regions of non-human primates.
+LID - 2023.10.09.561539 [pii]
+LID - 10.1101/2023.10.09.561539 [doi]
+AB  - Many areas of science and medicine would benefit from selective release of drugs 
+      in specific regions of interest. Nanoparticle drug carriers activated by focused 
+      ultrasound-remotely applied, depth-penetrating energy-may provide such selective 
+      interventions. Here, we developed stable, ultrasound-responsive nanoparticles 
+      that can be used to release drugs effectively and safely in non-human primates. 
+      The nanoparticles were used to release propofol in deep brain visual regions. The 
+      release reversibly modulated the subjects' visual choice behavior and was 
+      specific to the targeted region and to the released drug. Gadolinium-enhanced MRI 
+      imaging suggested an intact blood-brain barrier. Blood draws showed normal 
+      clinical chemistry and hematology. In summary, this study provides a safe and 
+      effective approach to release drugs on demand in selected deep brain regions at 
+      levels sufficient to modulate behavior.
+FAU - Wilson, Matthew G
+AU  - Wilson MG
+AUID- ORCID: 0000-0002-9187-1914
+FAU - Webb, Taylor D
+AU  - Webb TD
+AUID- ORCID: 0000-0002-4313-7600
+FAU - Odeen, Henrik
+AU  - Odeen H
+AUID- ORCID: 0000-0003-2055-9795
+FAU - Kubanek, Jan
+AU  - Kubanek J
+AUID- ORCID: 0000-0003-0527-5559
+LA  - eng
+PT  - Journal Article
+PT  - Preprint
+DEP - 20240328
+PL  - United States
+TA  - bioRxiv
+JT  - bioRxiv : the preprint server for biology
+JID - 101680187
+UIN - J Control Release. 2024 May;369:775-785. doi: 10.1016/j.jconrel.2024.04.013. 
+      PMID: 38604386
+PMC - PMC10592699
+EDAT- 2023/10/24 06:41
+MHDA- 2023/10/24 06:42
+PMCR- 2024/04/10
+CRDT- 2023/10/24 03:52
+PHST- 2023/10/24 06:41 [pubmed]
+PHST- 2023/10/24 06:42 [medline]
+PHST- 2023/10/24 03:52 [entrez]
+PHST- 2024/04/10 00:00 [pmc-release]
+AID - 2023.10.09.561539 [pii]
+AID - 10.1101/2023.10.09.561539 [doi]
+PST - epublish
+SO  - bioRxiv [Preprint]. 2024 Mar 28:2023.10.09.561539. doi: 
+      10.1101/2023.10.09.561539.
+
+PMID- 37794748
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231216
+LR  - 20250915
+IS  - 2040-7947 (Electronic)
+IS  - 2040-7939 (Print)
+IS  - 2040-7939 (Linking)
+VI  - 39
+IP  - 12
+DP  - 2023 Dec
+TI  - The influence of bone model geometries on the determination of skull acoustic 
+      properties.
+PG  - e3779
+LID - 10.1002/cnm.3779 [doi]
+AB  - In this study, we investigated the impact of various simulated skull bone 
+      geometries on the determination of skull speed of sound and acoustic attenuation 
+      values via optimization using transmitted pressure amplitudes beyond the bone. 
+      Using the hybrid angular spectrum method (HAS), we simulated ultrasound 
+      transmission through four model sets of different geometries involving sandwiched 
+      layers of diploe and cortical bone in addition to three models generated from CT 
+      images of ex-vivo human skull-bones. We characterized cost-function solution 
+      spaces for each model and, using optimization, found that when a model possessed 
+      appreciable variations in resolvable layer thickness, the predefined attenuation 
+      coefficients could be found with low error (RMSE < 0.01 Np/cm). However, we 
+      identified a spatial frequency cutoff in the models' geometry beyond which the 
+      accuracy of the property determination begins to fail, depending on the frequency 
+      of the ultrasound source. There was a large increase in error of the attenuation 
+      coefficients determined by the optimization when the variations in layer 
+      thickness were above the identified spatial frequency cutoffs, or when the 
+      lateral variations across the model were relatively low in amplitude. For our 
+      limited sample of three CT-image derived bone models, the attenuation 
+      coefficients were determined successfully. The speed of sound values were 
+      determined with low error for all models (including the CT-image derived models) 
+      that were tested (RMSE < 0.4 m/s). These results illustrate that it is possible 
+      to determine the acoustic properties of two-component models when the internal 
+      bone structure is taken into account and the structure satisfies the spatial 
+      frequency constraints discussed.
+CI  - (c) 2023 John Wiley & Sons Ltd.
+FAU - Marchant, Joshua K
+AU  - Marchant JK
+AD  - Department of Physics and Astronomy, University of Utah, Salt Lake City, Utah, 
+      USA.
+FAU - Clinard, Samuel R
+AU  - Clinard SR
+AD  - Department of Biomedical Engineering, University of Utah, Salt Lake City, Utah, 
+      USA.
+FAU - Odeen, Henrik
+AU  - Odeen H
+AD  - Department of Radiology and Imaging Sciences, University of Utah, Salt Lake City, 
+      Utah, USA.
+FAU - Parker, Dennis L
+AU  - Parker DL
+AD  - Department of Radiology and Imaging Sciences, University of Utah, Salt Lake City, 
+      Utah, USA.
+FAU - Christensen, Douglas A
+AU  - Christensen DA
+AD  - Department of Biomedical Engineering, University of Utah, Salt Lake City, Utah, 
+      USA.
+AD  - Department of Electrical and Computer Engineering, University of Utah, Salt Lake 
+      City, Utah, USA.
+LA  - eng
+GR  - R03EB029204/NH/NIH HHS/United States
+GR  - R01 EB028316/EB/NIBIB NIH HHS/United States
+GR  - R21 EB033117/EB/NIBIB NIH HHS/United States
+GR  - R03 EB029204/EB/NIBIB NIH HHS/United States
+GR  - R01EB028316/NH/NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+DEP - 20231004
+PL  - England
+TA  - Int J Numer Method Biomed Eng
+JT  - International journal for numerical methods in biomedical engineering
+JID - 101530293
+SB  - IM
+MH  - Humans
+MH  - Computer Simulation
+MH  - *Skull/diagnostic imaging
+MH  - *Acoustics
+MH  - Ultrasonography/methods
+MH  - Head
+PMC - PMC10841890
+MID - NIHMS1934353
+OTO - NOTNLM
+OT  - bone acoustic properties
+OT  - bone attenuation
+OT  - focused ultrasound
+OT  - optimization
+OT  - transcranial ultrasound
+OT  - ultrasound modeling
+EDAT- 2023/10/05 06:43
+MHDA- 2023/12/17 09:45
+PMCR- 2024/12/01
+CRDT- 2023/10/05 02:43
+PHST- 2023/04/06 00:00 [revised]
+PHST- 2022/11/04 00:00 [received]
+PHST- 2023/09/04 00:00 [accepted]
+PHST- 2023/12/17 09:45 [medline]
+PHST- 2023/10/05 06:43 [pubmed]
+PHST- 2023/10/05 02:43 [entrez]
+PHST- 2024/12/01 00:00 [pmc-release]
+AID - 10.1002/cnm.3779 [doi]
+PST - ppublish
+SO  - Int J Numer Method Biomed Eng. 2023 Dec;39(12):e3779. doi: 10.1002/cnm.3779. Epub 
+      2023 Oct 4.
+
+PMID- 37080427
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230626
+LR  - 20231121
+IS  - 1876-4754 (Electronic)
+IS  - 1935-861X (Print)
+IS  - 1876-4754 (Linking)
+VI  - 16
+IP  - 3
+DP  - 2023 May-Jun
+TI  - Sustained modulation of primate deep brain circuits with focused ultrasonic 
+      waves.
+PG  - 798-805
+LID - S1935-861X(23)01745-X [pii]
+LID - 10.1016/j.brs.2023.04.012 [doi]
+AB  - BACKGROUND: Transcranial focused ultrasound has the potential to noninvasively 
+      modulate deep brain circuits and impart sustained, neuroplastic effects. 
+      OBJECTIVE: Bring the approach closer to translations by demonstrating sustained 
+      modulation of deep brain circuits and choice behavior in task-performing 
+      non-human primates. METHODS: Low-intensity transcranial ultrasound of 30 s in 
+      duration was delivered in a controlled manner into deep brain targets (left or 
+      right lateral geniculate nucleus; LGN) of non-human primates while the subjects 
+      decided whether a left or a right visual target appeared first. While the animals 
+      performed the task, we recorded intracranial EEG from occipital screws. The 
+      ultrasound was delivered into the deep brain targets daily for a period of more 
+      than 6 months. RESULTS: The brief stimulation induced effects on choice behavior 
+      that persisted up to 15 minutes and were specific to the sonicated target. 
+      Stimulation of the left/right LGN increased the proportion of rightward/leftward 
+      choices. These effects were accompanied by an increase in gamma activity over 
+      visual cortex. The contralateral effect on choice behavior and the increase in 
+      gamma, compared to sham stimulation, suggest that the stimulation excited the 
+      target neural circuits. There were no detrimental effects on the animals' 
+      discrimination performance over the months-long course of the stimulation. 
+      CONCLUSION: This study demonstrates that brief, 30-s ultrasonic stimulation 
+      induces neuroplastic effects specifically in the target deep brain circuits, and 
+      that the stimulation can be applied daily without detrimental effects. These 
+      findings encourage repeated applications of transcranial ultrasound to 
+      malfunctioning deep brain circuits in humans with the goal of providing a durable 
+      therapeutic reset.
+CI  - Copyright (c) 2023 The Author(s). Published by Elsevier Inc. All rights reserved.
+FAU - Webb, Taylor D
+AU  - Webb TD
+AD  - Department of Biomedical Engineering, University of Utah, 36 South Wasatch Dr, 
+      Salt Lake City, UT 84112, United States of America. Electronic address: 
+      taylor.webb@utah.edu.
+FAU - Wilson, Matthew G
+AU  - Wilson MG
+AD  - Department of Biomedical Engineering, University of Utah, 36 South Wasatch Dr, 
+      Salt Lake City, UT 84112, United States of America.
+FAU - Odeen, Henrik
+AU  - Odeen H
+AD  - Department of Radiology and Imaging Sciences, University of Utah, 729 Arapeen 
+      Drive, Salt Lake City, UT 84108, United States of America.
+FAU - Kubanek, Jan
+AU  - Kubanek J
+AD  - Department of Biomedical Engineering, University of Utah, 36 South Wasatch Dr, 
+      Salt Lake City, UT 84112, United States of America. Electronic address: 
+      jan.kubanek@utah.edu.
+LA  - eng
+GR  - F32 MH123019/MH/NIMH NIH HHS/United States
+GR  - R00 NS100986/NS/NINDS NIH HHS/United States
+GR  - RF1 NS128569/NS/NINDS NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20230418
+PL  - United States
+TA  - Brain Stimul
+JT  - Brain stimulation
+JID - 101465726
+SB  - IM
+MH  - Humans
+MH  - Animals
+MH  - *Brain/diagnostic imaging
+MH  - *Ultrasonic Waves
+MH  - Primates
+PMC - PMC10330836
+MID - NIHMS1910686
+OTO - NOTNLM
+OT  - Choice
+OT  - Deep brain
+OT  - Gamma
+OT  - Lateral geniculate nucleus
+OT  - Noninvasive
+OT  - Sustained neuromodulation
+OT  - Transcranial
+OT  - Ultrasound
+OT  - Visual discrimination
+COIS- Declaration of Competing Interest The authors declare that they have no known 
+      competing financial interests or personal relationships that could have appeared 
+      to influence the work reported in this paper.
+EDAT- 2023/04/21 00:42
+MHDA- 2023/06/26 06:41
+PMCR- 2023/07/10
+CRDT- 2023/04/20 19:26
+PHST- 2022/11/30 00:00 [received]
+PHST- 2023/04/07 00:00 [revised]
+PHST- 2023/04/12 00:00 [accepted]
+PHST- 2023/06/26 06:41 [medline]
+PHST- 2023/04/21 00:42 [pubmed]
+PHST- 2023/04/20 19:26 [entrez]
+PHST- 2023/07/10 00:00 [pmc-release]
+AID - S1935-861X(23)01745-X [pii]
+AID - 10.1016/j.brs.2023.04.012 [doi]
+PST - ppublish
+SO  - Brain Stimul. 2023 May-Jun;16(3):798-805. doi: 10.1016/j.brs.2023.04.012. Epub 
+      2023 Apr 18.
+
+PMID- 36304108
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20221029
+IS  - 2589-0042 (Electronic)
+IS  - 2589-0042 (Linking)
+VI  - 25
+IP  - 11
+DP  - 2022 Nov 18
+TI  - Remus: System for remote deep brain interventions.
+PG  - 105251
+LID - 10.1016/j.isci.2022.105251 [doi]
+LID - 105251
+AB  - Transcranial-focused ultrasound brings personalized medicine to the human brain. 
+      Ultrasound can modulate neural activity or release drugs in specific neural 
+      circuits but this personalized approach requires a system that delivers 
+      ultrasound into specified targets flexibly and on command. We developed a remote 
+      ultrasound system (Remus) that programmatically targets deep brain regions with 
+      high spatiotemporal precision and in a multi-focal manner. We validated these 
+      functions by modulating two deep brain nuclei-the left and right lateral 
+      geniculate nucleus-in a task-performing nonhuman primate. This flexible system 
+      will enable researchers and clinicians to diagnose and treat specific deep brain 
+      circuits in a noninvasive yet targeted manner, thus embodying the promise of 
+      personalized treatments of brain disorders.
+CI  - (c) 2022 The Author(s).
+FAU - Webb, Taylor D
+AU  - Webb TD
+AD  - Department of Biomedical Engineering, University of Utah, Salt Lake City, Utah, 
+      USA.
+FAU - Wilson, Matthew G
+AU  - Wilson MG
+AD  - Department of Biomedical Engineering, University of Utah, Salt Lake City, Utah, 
+      USA.
+FAU - Odeen, Henrik
+AU  - Odeen H
+AD  - Department of Radiology and Imaging Sciences, University of Utah, Salt Lake City, 
+      Utah, USA.
+FAU - Kubanek, Jan
+AU  - Kubanek J
+AD  - Department of Biomedical Engineering, University of Utah, Salt Lake City, Utah, 
+      USA.
+LA  - eng
+PT  - Journal Article
+DEP - 20221008
+PL  - United States
+TA  - iScience
+JT  - iScience
+JID - 101724038
+PMC - PMC9593303
+OTO - NOTNLM
+OT  - Animal biotechnology
+OT  - Biodevices
+OT  - Biological sciences
+OT  - Biotechnology
+COIS- The authors declare no competing interests.
+EDAT- 2022/10/29 06:00
+MHDA- 2022/10/29 06:01
+PMCR- 2022/10/08
+CRDT- 2022/10/28 02:42
+PHST- 2021/12/20 00:00 [received]
+PHST- 2022/05/17 00:00 [revised]
+PHST- 2022/09/27 00:00 [accepted]
+PHST- 2022/10/28 02:42 [entrez]
+PHST- 2022/10/29 06:00 [pubmed]
+PHST- 2022/10/29 06:01 [medline]
+PHST- 2022/10/08 00:00 [pmc-release]
+AID - S2589-0042(22)01523-1 [pii]
+AID - 105251 [pii]
+AID - 10.1016/j.isci.2022.105251 [doi]
+PST - epublish
+SO  - iScience. 2022 Oct 8;25(11):105251. doi: 10.1016/j.isci.2022.105251. eCollection 
+      2022 Nov 18.
+
+PMID- 35927449
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220808
+LR  - 20250728
+IS  - 2045-2322 (Electronic)
+IS  - 2045-2322 (Linking)
+VI  - 12
+IP  - 1
+DP  - 2022 Aug 4
+TI  - Comparison between MR and CT imaging used to correct for skull-induced phase 
+      aberrations during transcranial focused ultrasound.
+PG  - 13407
+LID - 10.1038/s41598-022-17319-4 [doi]
+LID - 13407
+AB  - Transcranial focused ultrasound with the InSightec Exablate system uses thermal 
+      ablation for the treatment of movement and mood disorders and blood brain barrier 
+      disruption for tumor therapy. The system uses computed tomography (CT) images to 
+      calculate phase corrections that account for aberrations caused by the human 
+      skull. This work investigates whether magnetic resonance (MR) images can be used 
+      as an alternative to CT images to calculate phase corrections. Phase corrections 
+      were calculated using the gold standard hydrophone method and the standard of 
+      care InSightec ray tracing method. MR binary image mask, MR-simulated-CT 
+      (MRsimCT), and CT images of three ex vivo human skulls were supplied as inputs to 
+      the InSightec ray tracing method. The degassed ex vivo human skulls were 
+      sonicated with a 670 kHz hemispherical phased array transducer (InSightec 
+      Exablate 4000). 3D raster scans of the beam profiles were acquired using a 
+      hydrophone mounted on a 3-axis positioner system. Focal spots were evaluated 
+      using six metrics: pressure at the target, peak pressure, intensity at the 
+      target, peak intensity, positioning error, and focal spot volume. Targets at the 
+      geometric focus and 5 mm lateral to the geometric focus were investigated. There 
+      was no statistical difference between any of the metrics at either target using 
+      either MRsimCT or CT for phase aberration correction. As opposed to the MRsimCT, 
+      the use of CT images for aberration correction requires registration to the 
+      treatment day MR images; CT misregistration within a range of +/- 2 degrees of 
+      rotation error along three dimensions was shown to reduce focal spot intensity by 
+      up to 9.4%. MRsimCT images used for phase aberration correction for the skull 
+      produce similar results as CT-based correction, while avoiding both CT to MR 
+      registration errors and unnecessary patient exposure to ionizing radiation.
+CI  - (c) 2022. The Author(s).
+FAU - Leung, Steven A
+AU  - Leung SA
+AD  - Department of Bioengineering, Stanford University, Stanford, CA, USA. 
+      stevenleung@stanford.edu.
+FAU - Moore, David
+AU  - Moore D
+AD  - Focused Ultrasound Foundation, Charlottesville, VA, USA.
+FAU - Gilbo, Yekaterina
+AU  - Gilbo Y
+AD  - Department of Biomedical Engineering, University of Virginia, Charlottesville, 
+      VA, USA.
+FAU - Snell, John
+AU  - Snell J
+AD  - Focused Ultrasound Foundation, Charlottesville, VA, USA.
+AD  - Department of Neurological Surgery, University of Virginia, Charlottesville, VA, 
+      USA.
+FAU - Webb, Taylor D
+AU  - Webb TD
+AD  - Department of Electrical Engineering, Stanford University, Stanford, CA, USA.
+FAU - Meyer, Craig H
+AU  - Meyer CH
+AD  - Department of Biomedical Engineering, University of Virginia, Charlottesville, 
+      VA, USA.
+AD  - Department of Radiology and Medical Imaging, University of Virginia, 
+      Charlottesville, VA, USA.
+FAU - Miller, G Wilson
+AU  - Miller GW
+AD  - Department of Biomedical Engineering, University of Virginia, Charlottesville, 
+      VA, USA.
+AD  - Department of Radiology and Medical Imaging, University of Virginia, 
+      Charlottesville, VA, USA.
+FAU - Ghanouni, Pejman
+AU  - Ghanouni P
+AD  - Department of Radiology, Stanford University, Stanford, CA, USA.
+FAU - Butts Pauly, Kim
+AU  - Butts Pauly K
+AD  - Department of Bioengineering, Stanford University, Stanford, CA, USA.
+AD  - Department of Electrical Engineering, Stanford University, Stanford, CA, USA.
+AD  - Department of Radiology, Stanford University, Stanford, CA, USA.
+LA  - eng
+GR  - R01 EB028773/EB/NIBIB NIH HHS/United States
+GR  - R01 MH111825/NH/NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+DEP - 20220804
+PL  - England
+TA  - Sci Rep
+JT  - Scientific reports
+JID - 101563288
+SB  - IM
+MH  - Head
+MH  - Humans
+MH  - Magnetic Resonance Imaging/methods
+MH  - *Skull/diagnostic imaging/pathology
+MH  - *Tomography, X-Ray Computed/methods
+PMC - PMC9352781
+COIS- The authors declare no competing interests.
+EDAT- 2022/08/05 06:00
+MHDA- 2022/08/09 06:00
+PMCR- 2022/08/04
+CRDT- 2022/08/04 23:31
+PHST- 2021/11/15 00:00 [received]
+PHST- 2022/07/25 00:00 [accepted]
+PHST- 2022/08/04 23:31 [entrez]
+PHST- 2022/08/05 06:00 [pubmed]
+PHST- 2022/08/09 06:00 [medline]
+PHST- 2022/08/04 00:00 [pmc-release]
+AID - 10.1038/s41598-022-17319-4 [pii]
+AID - 17319 [pii]
+AID - 10.1038/s41598-022-17319-4 [doi]
+PST - epublish
+SO  - Sci Rep. 2022 Aug 4;12(1):13407. doi: 10.1038/s41598-022-17319-4.
+
+PMID- 35853046
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220830
+LR  - 20250728
+IS  - 1525-8955 (Electronic)
+IS  - 0885-3010 (Print)
+IS  - 0885-3010 (Linking)
+VI  - 69
+IP  - 9
+DP  - 2022 Sep
+TI  - Improving Transcranial Acoustic Targeting: The Limits of CT-Based Velocity 
+      Estimates and the Role of MR.
+PG  - 2630-2637
+LID - 10.1109/TUFFC.2022.3192224 [doi]
+AB  - Transcranial magnetic resonance-guided focused ultrasound (tcMRgFUS) enables the 
+      noninvasive treatment of the deep brain. This capacity relies on the ability to 
+      focus acoustic energy through the in-tact skull, a feat that requires accurate 
+      estimates of the acoustic velocity in individual patient skulls. In current 
+      practice, these estimates are generated using a pretreatment computed tomography 
+      (CT) scan and then registered to a magnetic resonance (MR) dataset on the day of 
+      the treatment. Treatment safety and efficacy can be improved by eliminating the 
+      need to register the CT data to the MR images and by improving the accuracy of 
+      acoustic velocity measurements. In this study, we examine the capacity of MR to 
+      supplement or replace CT as a means of estimating velocity in the skull. We find 
+      that MR can predict velocity with less but comparable accuracy to CT. We then use 
+      micro-CT imaging to better understand the limitations of Hounsfield unit 
+      (HU)-based estimates of velocity, demonstrating that the macrostructure of pores 
+      in the skull contributes to the acoustic velocity of the bone. We find evidence 
+      that detailed T2 measurements provide information about pore macrostructure 
+      similar to the information obtained with micro-CT, offering a potential clinical 
+      mechanism for improving patient-specific estimates of acoustic velocity in the 
+      human skull.
+FAU - Webb, Taylor D
+AU  - Webb TD
+FAU - Fu, Fanrui
+AU  - Fu F
+FAU - Leung, Steven A
+AU  - Leung SA
+FAU - Ghanouni, Pejman
+AU  - Ghanouni P
+FAU - Dahl, Jeremy J
+AU  - Dahl JJ
+FAU - Does, Mark D
+AU  - Does MD
+FAU - Pauly, Kim Butts
+AU  - Pauly KB
+LA  - eng
+GR  - P01 CA159992/CA/NCI NIH HHS/United States
+GR  - R01 MH111825/MH/NIMH NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20220826
+PL  - United States
+TA  - IEEE Trans Ultrason Ferroelectr Freq Control
+JT  - IEEE transactions on ultrasonics, ferroelectrics, and frequency control
+JID - 9882735
+SB  - IM
+MH  - Acoustics
+MH  - Humans
+MH  - *Magnetic Resonance Imaging
+MH  - Magnetic Resonance Spectroscopy
+MH  - Skull
+MH  - *Tomography, X-Ray Computed
+PMC - PMC9519088
+MID - NIHMS1832838
+EDAT- 2022/07/20 06:00
+MHDA- 2022/08/31 06:00
+PMCR- 2023/09/01
+CRDT- 2022/07/19 13:43
+PHST- 2022/07/20 06:00 [pubmed]
+PHST- 2022/08/31 06:00 [medline]
+PHST- 2022/07/19 13:43 [entrez]
+PHST- 2023/09/01 00:00 [pmc-release]
+AID - 10.1109/TUFFC.2022.3192224 [doi]
+PST - ppublish
+SO  - IEEE Trans Ultrason Ferroelectr Freq Control. 2022 Sep;69(9):2630-2637. doi: 
+      10.1109/TUFFC.2022.3192224. Epub 2022 Aug 26.
+
+PMID- 34717144
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20211210
+LR  - 20230202
+IS  - 1874-9968 (Electronic)
+IS  - 0041-624X (Print)
+IS  - 0041-624X (Linking)
+VI  - 119
+DP  - 2022 Feb
+TI  - Acoustic properties across the human skull.
+PG  - 106591
+LID - S0041-624X(21)00213-4 [pii]
+LID - 10.1016/j.ultras.2021.106591 [doi]
+AB  - Transcranial ultrasound is emerging as a noninvasive tool for targeted treatments 
+      of brain disorders. Transcranial ultrasound has been used for remotely mediated 
+      surgeries, transient opening of the blood-brain barrier, local drug delivery, and 
+      neuromodulation. However, all applications have been limited by the severe 
+      attenuation and phase distortion of ultrasound by the skull. Here, we 
+      characterized the dependence of the aberrations on specific anatomical segments 
+      of the skull. In particular, we measured ultrasound propagation properties 
+      throughout the perimeter of intact human skulls at 500 kHz. We found that the 
+      parietal bone provides substantially higher transmission (average pressure 
+      transmission 31 +/- 7%) and smaller phase distortion (242 +/- 44 degrees) than 
+      frontal (13 +/- 2%, 425 +/- 47 degrees) and occipital bone regions (16 +/- 4%, 416 +/- 35 
+      degrees). In addition, we found that across skull regions, transmission strongly 
+      anti-correlated (R=-0.79) and phase distortion correlated (R=0.85) with skull 
+      thickness. This information guides the design, positioning, and skull correction 
+      functionality of next-generation devices for effective, safe, and reproducible 
+      transcranial focused ultrasound therapies.
+CI  - Copyright (c) 2021 Elsevier B.V. All rights reserved.
+FAU - Riis, Thomas S
+AU  - Riis TS
+AD  - Department of Biomedical Engineering, University of Utah, Salt Lake City, 84112, 
+      UT, United States. Electronic address: tom.riis@utah.edu.
+FAU - Webb, Taylor D
+AU  - Webb TD
+AD  - Department of Biomedical Engineering, University of Utah, Salt Lake City, 84112, 
+      UT, United States. Electronic address: taylor.webb@utah.edu.
+FAU - Kubanek, Jan
+AU  - Kubanek J
+AD  - Department of Biomedical Engineering, University of Utah, Salt Lake City, 84112, 
+      UT, United States. Electronic address: jan.kubanek@utah.edu.
+LA  - eng
+GR  - F32 MH123019/MH/NIMH NIH HHS/United States
+GR  - R00 NS100986/NS/NINDS NIH HHS/United States
+PT  - Journal Article
+DEP - 20211021
+PL  - Netherlands
+TA  - Ultrasonics
+JT  - Ultrasonics
+JID - 0050452
+SB  - IM
+MH  - Acoustics
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Female
+MH  - Humans
+MH  - In Vitro Techniques
+MH  - Male
+MH  - Middle Aged
+MH  - Skull/*diagnostic imaging
+MH  - Ultrasonography, Doppler, Transcranial/*methods
+PMC - PMC8642838
+MID - NIHMS1752037
+OTO - NOTNLM
+OT  - Attenuation
+OT  - Phase
+OT  - Skull
+OT  - Thickness
+OT  - Transcranial ultrasound
+OT  - Transmission
+EDAT- 2021/10/31 06:00
+MHDA- 2021/12/15 06:00
+PMCR- 2023/02/01
+CRDT- 2021/10/30 20:08
+PHST- 2021/03/19 00:00 [received]
+PHST- 2021/08/05 00:00 [revised]
+PHST- 2021/09/16 00:00 [accepted]
+PHST- 2021/10/31 06:00 [pubmed]
+PHST- 2021/12/15 06:00 [medline]
+PHST- 2021/10/30 20:08 [entrez]
+PHST- 2023/02/01 00:00 [pmc-release]
+AID - S0041-624X(21)00213-4 [pii]
+AID - 10.1016/j.ultras.2021.106591 [doi]
+PST - ppublish
+SO  - Ultrasonics. 2022 Feb;119:106591. doi: 10.1016/j.ultras.2021.106591. Epub 2021 
+      Oct 21.
+
+PMID- 34702638
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220127
+LR  - 20220531
+IS  - 1879-291X (Electronic)
+IS  - 0301-5629 (Linking)
+VI  - 48
+IP  - 1
+DP  - 2022 Jan
+TI  - Low-Cost 3-D Hydrophone Scanning Tank with MATLAB GUI Control.
+PG  - 157-163
+LID - S0301-5629(21)00419-1 [pii]
+LID - 10.1016/j.ultrasmedbio.2021.09.022 [doi]
+AB  - The Focused Ultrasound Foundation has developed a low-cost, validated, 
+      open-source hydrophone scanner for the spatial characterization of ultrasound 
+      transducers. Assembly instructions and a MATLAB control graphical user interface 
+      are provided such that the device can be easily replicated for less than $1000 in 
+      roughly 40 person-hours. The low-cost scanning tank's performance was compared 
+      with data collected with a commercial automated scanning tank. Pressure 
+      measurements of a focused transducer and a planar transducer had less than a 10% 
+      difference between the two scanning systems. Two-dimensional automated scans 
+      (20 x 20 mm at 0.25-mm resolution) took the low-cost scanning tank 45 min 
+      compared with the commercial system's 30 min. A reproducibility study found that 
+      the low-cost scanner made consistent peak negative pressure measurements as 
+      reflected by the low coefficient of variation for both focused (1.88%) and planar 
+      (0.98%) transducers. The low-cost scanner described here is a viable alternative 
+      for ultrasound laboratories needing efficient, accurate characterization of 
+      ultrasound transducers.
+CI  - Copyright (c) 2021 World Federation for Ultrasound in Medicine & Biology. Published 
+      by Elsevier Inc. All rights reserved.
+FAU - Clinard, Sam
+AU  - Clinard S
+AD  - FUS Foundation, Charlottesville, Virginia, USA; Department of Biomedical 
+      Engineering, University of Utah, Salt Lake City, Utah, USA. Electronic address: 
+      Sam.Clinard@utah.edu.
+FAU - Wettstone, Erin
+AU  - Wettstone E
+AD  - FUS Foundation, Charlottesville, Virginia, USA.
+FAU - Moore, David
+AU  - Moore D
+AD  - FUS Foundation, Charlottesville, Virginia, USA; Department of Neurosurgery, 
+      University of Virginia School of Medicine, Charlottesville, Virginia, USA.
+FAU - Snell, John
+AU  - Snell J
+AD  - FUS Foundation, Charlottesville, Virginia, USA; Department of Neurosurgery, 
+      University of Virginia School of Medicine, Charlottesville, Virginia, USA.
+FAU - Padilla, Frederic
+AU  - Padilla F
+AD  - FUS Foundation, Charlottesville, Virginia, USA; Department of Radiology, 
+      University of Virginia School of Medicine, Charlottesville, Virginia, USA.
+FAU - Eames, Matt
+AU  - Eames M
+AD  - FUS Foundation, Charlottesville, Virginia, USA; Department of Neurosurgery, 
+      University of Virginia School of Medicine, Charlottesville, Virginia, USA.
+LA  - eng
+PT  - Journal Article
+DEP - 20211023
+PL  - England
+TA  - Ultrasound Med Biol
+JT  - Ultrasound in medicine & biology
+JID - 0410553
+SB  - IM
+MH  - *Acoustics
+MH  - Reproducibility of Results
+MH  - Transducers
+MH  - *Ultrasonics
+OTO - NOTNLM
+OT  - Acoustic field measurement
+OT  - Acoustics
+OT  - Hydrophone
+OT  - Open source
+OT  - Transducers
+OT  - Ultrasound
+COIS- Conflict of interest disclosure The authors declare no commercial or financial 
+      conflict of interest.
+EDAT- 2021/10/28 06:00
+MHDA- 2022/01/28 06:00
+CRDT- 2021/10/27 05:53
+PHST- 2021/04/26 00:00 [received]
+PHST- 2021/09/27 00:00 [revised]
+PHST- 2021/09/27 00:00 [accepted]
+PHST- 2021/10/28 06:00 [pubmed]
+PHST- 2022/01/28 06:00 [medline]
+PHST- 2021/10/27 05:53 [entrez]
+AID - S0301-5629(21)00419-1 [pii]
+AID - 10.1016/j.ultrasmedbio.2021.09.022 [doi]
+PST - ppublish
+SO  - Ultrasound Med Biol. 2022 Jan;48(1):157-163. doi: 
+      10.1016/j.ultrasmedbio.2021.09.022. Epub 2021 Oct 23.
+
+PMID- 33798543
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210531
+LR  - 20210531
+IS  - 1878-3554 (Electronic)
+IS  - 0099-2399 (Linking)
+VI  - 47
+IP  - 6
+DP  - 2021 Jun
+TI  - A Clinical Evaluation of Cone-beam Computed Tomography: Implications for 
+      Endodontic Microsurgery.
+PG  - 895-901
+LID - S0099-2399(21)00200-4 [pii]
+LID - 10.1016/j.joen.2021.03.014 [doi]
+AB  - INTRODUCTION: Cone-beam computed tomographic (CBCT) imaging is a valuable 
+      diagnostic tool for endodontics. Some studies report that CBCT images have 
+      limitations in representing the true clinical presentation. This prospective, 
+      in vivo study compared limited field of view (LFOV) CBCT measurements with 
+      clinical measurements made during endodontic surgery. METHODS: Eighty-seven 
+      subjects requiring endodontic surgery and LFOV CBCT acquisition of the surgical 
+      site were enrolled. Data collection involved clinicians answering standardized 
+      questions during the radiographic and surgical assessment. Intraoperatively, data 
+      were collected and photographically documented. Postoperatively, CBCT scans were 
+      evaluated by 3 calibrated, board-certified specialists: 2 endodontists and 1 oral 
+      and maxillofacial radiologist. The 2 subsets of data were compared through 
+      statistical analysis to quantify their relationship. RESULTS: The subjects 
+      included 65 maxillary and 29 mandibular teeth from 87 subjects: 25 women and 62 
+      men with an average age of 42 years old. The CBCT evaluators correctly identified 
+      the presence or absence of buccal plate fenestrations with 91.0% accuracy (95% 
+      confidence interval, 83.1-96.0) with 89.4% sensitivity and 92.9% specificity. The 
+      area of fenestrations measured clinically (mean = 19.6 +/- 33.4 mm(2)) was 
+      generally larger than the area measured by CBCT imaging (mean across CBCT 
+      evaluators = 12.2 +/- 19.1 mm(2)). Fenestration size in the maxillary arch was more 
+      likely to be underestimated than in the mandibular arch (P < .0001). Vertical 
+      bone height was also underestimated when measured on CBCT imaging. CONCLUSIONS: 
+      Based on the findings of this study, LFOV CBCT imaging accurately identifies the 
+      presence or absence of buccal plate fenestrations, yet, when a fenestration is 
+      present, underestimates its area.
+CI  - Published by Elsevier Inc.
+FAU - Kopacz, Molly
+AU  - Kopacz M
+AD  - Department of Endodontics, Naval Postgraduate Dental School, Navy Medicine 
+      Professional Development Center, Bethesda, Maryland; Department of Uniformed 
+      Services, University of the Health Sciences, Bethesda, Maryland.
+FAU - Neal, John J
+AU  - Neal JJ
+AD  - Department of Endodontics, Naval Postgraduate Dental School, Navy Medicine 
+      Professional Development Center, Bethesda, Maryland; Department of Uniformed 
+      Services, University of the Health Sciences, Bethesda, Maryland. Electronic 
+      address: jjneal34@icloud.com.
+FAU - Suffridge, Calvin
+AU  - Suffridge C
+AD  - Department of Endodontics, Naval Postgraduate Dental School, Navy Medicine 
+      Professional Development Center, Bethesda, Maryland; Department of Uniformed 
+      Services, University of the Health Sciences, Bethesda, Maryland.
+FAU - Webb, Terry D
+AU  - Webb TD
+AD  - Department of Endodontics, Naval Postgraduate Dental School, Navy Medicine 
+      Professional Development Center, Bethesda, Maryland; Department of Uniformed 
+      Services, University of the Health Sciences, Bethesda, Maryland.
+FAU - Mathys, Jason
+AU  - Mathys J
+AD  - Department of Endodontics, Naval Postgraduate Dental School, Navy Medicine 
+      Professional Development Center, Bethesda, Maryland; Department of Uniformed 
+      Services, University of the Health Sciences, Bethesda, Maryland.
+FAU - Brooks, Daniel
+AU  - Brooks D
+AD  - Department of Research Programs, Walter Reed National Military Medical Center, 
+      Bethesda, Maryland.
+FAU - Ringler, Gregory
+AU  - Ringler G
+AD  - Department of Uniformed Services, University of the Health Sciences, Bethesda, 
+      Maryland; Oral and Maxillofacial Radiology, Naval Postgraduate Dental School, 
+      Navy Medicine Professional Development Center, Bethesda, Maryland.
+LA  - eng
+PT  - Journal Article
+DEP - 20210331
+PL  - United States
+TA  - J Endod
+JT  - Journal of endodontics
+JID - 7511484
+MH  - Adult
+MH  - Cone-Beam Computed Tomography
+MH  - *Endodontics
+MH  - *Endodontists
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Microsurgery
+MH  - Prospective Studies
+OTO - NOTNLM
+OT  - Apicoectomy
+OT  - buccal cortical plate
+OT  - cone-beam computed tomography
+OT  - dehiscence
+OT  - endodontic microsurgery
+OT  - fenestration
+OT  - limited field of view CBCT
+OT  - measurement accuracy
+OT  - root-end surgery
+OT  - treatment planning
+OT  - vertical bone height
+EDAT- 2021/04/03 06:00
+MHDA- 2021/06/01 06:00
+CRDT- 2021/04/02 20:12
+PHST- 2020/09/03 00:00 [received]
+PHST- 2021/03/05 00:00 [revised]
+PHST- 2021/03/15 00:00 [accepted]
+PHST- 2021/04/03 06:00 [pubmed]
+PHST- 2021/06/01 06:00 [medline]
+PHST- 2021/04/02 20:12 [entrez]
+AID - S0099-2399(21)00200-4 [pii]
+AID - 10.1016/j.joen.2021.03.014 [doi]
+PST - ppublish
+SO  - J Endod. 2021 Jun;47(6):895-901. doi: 10.1016/j.joen.2021.03.014. Epub 2021 Mar 
+      31.
+
+PMID- 33753771
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20211013
+LR  - 20240331
+IS  - 2045-2322 (Electronic)
+IS  - 2045-2322 (Linking)
+VI  - 11
+IP  - 1
+DP  - 2021 Mar 22
+TI  - Transcranial focused ultrasound phase correction using the hybrid angular 
+      spectrum method.
+PG  - 6532
+LID - 10.1038/s41598-021-85535-5 [doi]
+LID - 6532
+AB  - The InSightec Exablate system is the standard of care used for transcranial 
+      focused ultrasound ablation treatments in the United States. The system 
+      calculates phase corrections that account for aberrations caused by the human 
+      skull. This work investigates whether skull aberration correction can be improved 
+      by comparing the standard of care InSightec ray tracing method with the hybrid 
+      angular spectrum (HAS) method and the gold standard hydrophone method. Three 
+      degassed ex vivo human skulls were sonicated with a 670 kHz hemispherical phased 
+      array transducer (InSightec Exablate 4000). Phase corrections were calculated 
+      using four different methods (straight ray tracing, InSightec ray tracing, HAS, 
+      and hydrophone) and were used to drive the transducer. 3D raster scans of the 
+      beam profiles were acquired using a hydrophone mounted on a 3-axis positioner 
+      system. Focal spots were evaluated using six metrics: pressure at the target, 
+      peak pressure, intensity at the target, peak intensity, positioning error, and 
+      focal spot volume. For three skulls, the InSightec ray tracing method achieved 
+      52 +/- 21% normalized target intensity (normalized to hydrophone), 76 +/- 17% 
+      normalized peak intensity, and 0.72 +/- 0.47 mm positioning error. The HAS method 
+      achieved 74 +/- 9% normalized target intensity, 81 +/- 9% normalized peak intensity, 
+      and 0.35 +/- 0.09 mm positioning error. The InSightec-to-HAS improvement in focal 
+      spot targeting provides promise in improving treatment outcomes. These 
+      improvements to skull aberration correction are also highly relevant for the 
+      applications of focused ultrasound neuromodulation and blood brain barrier 
+      opening, which are currently being translated for human use.
+FAU - Leung, Steven A
+AU  - Leung SA
+AD  - Department of Bioengineering, Stanford University, Stanford, CA, USA. 
+      stevenleung@stanford.edu.
+FAU - Moore, David
+AU  - Moore D
+AD  - Focused Ultrasound Foundation, Charlottesville, VA, USA.
+FAU - Webb, Taylor D
+AU  - Webb TD
+AD  - Department of Electrical Engineering, Stanford University, Stanford, CA, USA.
+FAU - Snell, John
+AU  - Snell J
+AD  - Focused Ultrasound Foundation, Charlottesville, VA, USA.
+AD  - Department of Neurological Surgery, University of Virginia, Charlottesville, VA, 
+      USA.
+FAU - Ghanouni, Pejman
+AU  - Ghanouni P
+AD  - Department of Radiology, Stanford University, Stanford, CA, USA.
+FAU - Butts Pauly, Kim
+AU  - Butts Pauly K
+AD  - Department of Bioengineering, Stanford University, Stanford, CA, USA.
+AD  - Department of Electrical Engineering, Stanford University, Stanford, CA, USA.
+AD  - Department of Radiology, Stanford University, Stanford, CA, USA.
+LA  - eng
+GR  - R01 CA227687/CA/NCI NIH HHS/United States
+GR  - R01 MH111825/MH/NIMH NIH HHS/United States
+GR  - R01 MH111825/NH/NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+DEP - 20210322
+PL  - England
+TA  - Sci Rep
+JT  - Scientific reports
+JID - 101563288
+SB  - IM
+MH  - Brain/*diagnostic imaging/physiology
+MH  - *High-Intensity Focused Ultrasound Ablation
+MH  - Humans
+MH  - Skull/*diagnostic imaging/physiology
+MH  - Tomography, X-Ray Computed
+PMC - PMC7985511
+COIS- The authors declare no competing interests.
+EDAT- 2021/03/24 06:00
+MHDA- 2021/10/14 06:00
+PMCR- 2021/03/22
+CRDT- 2021/03/23 06:34
+PHST- 2020/11/14 00:00 [received]
+PHST- 2021/02/25 00:00 [accepted]
+PHST- 2021/03/23 06:34 [entrez]
+PHST- 2021/03/24 06:00 [pubmed]
+PHST- 2021/10/14 06:00 [medline]
+PHST- 2021/03/22 00:00 [pmc-release]
+AID - 10.1038/s41598-021-85535-5 [pii]
+AID - 85535 [pii]
+AID - 10.1038/s41598-021-85535-5 [doi]
+PST - epublish
+SO  - Sci Rep. 2021 Mar 22;11(1):6532. doi: 10.1038/s41598-021-85535-5.
+
+PMID- 33226938
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20211025
+LR  - 20220503
+IS  - 1525-8955 (Electronic)
+IS  - 0885-3010 (Print)
+IS  - 0885-3010 (Linking)
+VI  - 68
+IP  - 5
+DP  - 2021 May
+TI  - Acoustic Attenuation: Multifrequency Measurement and Relationship to CT and MR 
+      Imaging.
+PG  - 1532-1545
+LID - 10.1109/TUFFC.2020.3039743 [doi]
+AB  - Transcranial magnetic resonance-guided focused ultrasound (tcMRgFUS) is gaining 
+      significant acceptance as a noninvasive treatment for motion disorders and shows 
+      promise for novel applications such as blood-brain barrier opening for tumor 
+      treatment. A typical procedure relies on CT-derived acoustic property maps to 
+      simulate the transfer of ultrasound through the skull. Accurate estimates of the 
+      acoustic attenuation in the skull are essential to accurate simulations, but 
+      there is no consensus about how attenuation should be estimated from CT images 
+      and there is interest in exploring MR as a predictor of attenuation in the skull. 
+      In this study, we measure the acoustic attenuation at 0.5, 1, and 2.25 MHz in 89 
+      samples taken from two ex vivo human skulls. CT scans acquired with a variety of 
+      X-ray energies, reconstruction kernels, and reconstruction algorithms, and MR 
+      images acquired with ultrashort and zero echo time sequences are used to estimate 
+      the average Hounsfield unit value, MR magnitude, and T2(*) value in each sample. 
+      The measurements are used to develop a model of attenuation as a function of 
+      frequency and each individual imaging parameter.
+FAU - Webb, Taylor D
+AU  - Webb TD
+FAU - Leung, Steven A
+AU  - Leung SA
+FAU - Ghanouni, Pejman
+AU  - Ghanouni P
+FAU - Dahl, Jeremy J
+AU  - Dahl JJ
+FAU - Pelc, Norbert J
+AU  - Pelc NJ
+FAU - Pauly, Kim Butts
+AU  - Pauly KB
+LA  - eng
+GR  - R01 CA227687/CA/NCI NIH HHS/United States
+GR  - R01 MH111825/MH/NIMH NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20210426
+PL  - United States
+TA  - IEEE Trans Ultrason Ferroelectr Freq Control
+JT  - IEEE transactions on ultrasonics, ferroelectrics, and frequency control
+JID - 9882735
+SB  - IM
+MH  - Acoustics
+MH  - Algorithms
+MH  - Humans
+MH  - *Magnetic Resonance Imaging
+MH  - Skull/diagnostic imaging
+MH  - *Tomography, X-Ray Computed
+PMC - PMC8580404
+MID - NIHMS1697664
+EDAT- 2020/11/24 06:00
+MHDA- 2021/10/26 06:00
+PMCR- 2022/05/01
+CRDT- 2020/11/23 17:09
+PHST- 2020/11/24 06:00 [pubmed]
+PHST- 2021/10/26 06:00 [medline]
+PHST- 2020/11/23 17:09 [entrez]
+PHST- 2022/05/01 00:00 [pmc-release]
+AID - 10.1109/TUFFC.2020.3039743 [doi]
+PST - ppublish
+SO  - IEEE Trans Ultrason Ferroelectr Freq Control. 2021 May;68(5):1532-1545. doi: 
+      10.1109/TUFFC.2020.3039743. Epub 2021 Apr 26.
+
+PMID- 31138821
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20201019
+LR  - 20210109
+IS  - 2045-2322 (Electronic)
+IS  - 2045-2322 (Linking)
+VI  - 9
+IP  - 1
+DP  - 2019 May 28
+TI  - A rapid beam simulation framework for transcranial focused ultrasound.
+PG  - 7965
+LID - 10.1038/s41598-019-43775-6 [doi]
+LID - 7965
+AB  - Transcranial focused ultrasound is a non-invasive therapeutic modality that can 
+      be used to treat essential tremor. Beams of energy are focused into a small spot 
+      in the thalamus, resulting in tissue heating and ablation. Here, we report on a 
+      rapid 3D numeric simulation framework that can be used to predict focal spot 
+      characteristics prior to the application of ultrasound. By comparing with 
+      magnetic resonance proton resonance frequency shift thermometry (MR thermometry) 
+      data acquired during treatments of essential tremor, we verified that our 
+      simulation framework can be used to predict focal spot position, and with 
+      patient-specific calibration, predict focal spot temperature rise. Preliminary 
+      data suggests that lateral smearing of the focal spot can be simulated. The 
+      framework may also be relevant for other therapeutic ultrasound applications such 
+      as blood brain barrier opening and neuromodulation.
+FAU - Leung, Steven A
+AU  - Leung SA
+AD  - Department of Bioengineering, Stanford University, Stanford, USA. 
+      stevenleung@stanford.edu.
+FAU - Webb, Taylor D
+AU  - Webb TD
+AUID- ORCID: 0000-0002-4313-7600
+AD  - Department of Electrical Engineering, Stanford University, Stanford, USA.
+FAU - Bitton, Rachelle R
+AU  - Bitton RR
+AD  - Department of Radiology, Stanford University, Stanford, USA.
+FAU - Ghanouni, Pejman
+AU  - Ghanouni P
+AD  - Department of Radiology, Stanford University, Stanford, USA.
+FAU - Butts Pauly, Kim
+AU  - Butts Pauly K
+AD  - Department of Bioengineering, Stanford University, Stanford, USA.
+AD  - Department of Electrical Engineering, Stanford University, Stanford, USA.
+AD  - Department of Radiology, Stanford University, Stanford, USA.
+LA  - eng
+GR  - R01 MH111825/MH/NIMH NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20190528
+PL  - England
+TA  - Sci Rep
+JT  - Scientific reports
+JID - 101563288
+SB  - IM
+MH  - Computer Simulation
+MH  - Essential Tremor/diagnostic imaging/pathology/*surgery
+MH  - High-Intensity Focused Ultrasound Ablation/instrumentation/*methods
+MH  - Humans
+MH  - Magnetic Resonance Imaging
+MH  - Precision Medicine
+MH  - Surgery, Computer-Assisted/instrumentation/*methods
+MH  - Temperature
+MH  - Thalamus/diagnostic imaging/pathology/*surgery
+MH  - Thermometry/instrumentation/*methods
+PMC - PMC6538644
+COIS- The authors declare no competing interests.
+EDAT- 2019/05/30 06:00
+MHDA- 2020/10/21 06:00
+PMCR- 2019/05/28
+CRDT- 2019/05/30 06:00
+PHST- 2018/10/15 00:00 [received]
+PHST- 2019/04/26 00:00 [accepted]
+PHST- 2019/05/30 06:00 [entrez]
+PHST- 2019/05/30 06:00 [pubmed]
+PHST- 2020/10/21 06:00 [medline]
+PHST- 2019/05/28 00:00 [pmc-release]
+AID - 10.1038/s41598-019-43775-6 [pii]
+AID - 43775 [pii]
+AID - 10.1038/s41598-019-43775-6 [doi]
+PST - epublish
+SO  - Sci Rep. 2019 May 28;9(1):7965. doi: 10.1038/s41598-019-43775-6.
+
+PMID- 30950554
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20201123
+LR  - 20201123
+IS  - 1522-2586 (Electronic)
+IS  - 1053-1807 (Linking)
+VI  - 50
+IP  - 5
+DP  - 2019 Nov
+TI  - Prolonged heating in nontargeted tissue during MR-guided focused ultrasound of 
+      bone tumors.
+PG  - 1526-1533
+LID - 10.1002/jmri.26726 [doi]
+AB  - BACKGROUND: Thermal dosimetry during MR-guided focused ultrasound (MRgFUS) of 
+      bone tumors underpredicts ablation zone. Intraprocedural understanding of heat 
+      accumulation near bone is needed to prevent undesired treatment of nontargeted 
+      tissue. HYPOTHESIS: Temperature decay rates predict prolonged, spatially varying 
+      heating during MRgFUS bone treatments. STUDY TYPE: Prospective case series. 
+      PATIENTS: Nine patients with localized painful bone tumors (five bone metastasis, 
+      four osteoid osteomas), were compared with five patients with uterine fibroid 
+      tumors treated using MRgFUS. FIELD STRENGTH/SEQUENCE: Proton resonance frequency 
+      shift thermometry using 2D-GRE with echo-planar imaging at 3 T. ASSESSMENT: 
+      Tissue response was derived by fitting data from extended thermometry 
+      acquisitions to a decay model. Decay rates and time to peak temperature (TTP) 
+      were analyzed in segmented zones between the bone target and skin. Decay rates 
+      were used to calculate intersonication cooling times required to return to body 
+      temperature; these were compared against conventional system-mandated cooling 
+      times. STATISTICAL TESTS: Kolmogorov-Smirnov tests for normality, and Student's 
+      t-test was used to compare decay rates. Spatial TTP delay and predicted cooling 
+      times used Wilcoxon signed rank tests. P < 0.05 was significant. RESULTS: Tissue 
+      decay rates in bone tumor patients were 3.5 times slower than those in patients 
+      with fibroids (tau(bone)  = 0.037 +/- 0.012 vs. tau(fibroid)  = 0.131 +/- 0.010, 
+      P < 0.05). Spatial analysis showed slow decay rates effecting baseline 
+      temperature as far as 12 mm away from the bone surface, tau(4)  = 0.015 +/- 0.026 
+      (median +/- interquartile range [IQR]). Tissue within 9 mm of bone experienced 
+      delayed TTP (P < 0.01). In the majority of bone tumor treatments, 
+      system-predicted intersonication cooling times were insufficient for nearby 
+      tissue to return to body temperature (P = 0.03 in zone 4). DATA CONCLUSION: 
+      MRgFUS near bone is susceptible to long tissue decay rates, and unwanted 
+      cumulative heating up to 1.2 cm from the surface of the bone. Knowledge of decay 
+      rates may be used to alter treatment planning and intraprocedural thermal 
+      monitoring protocols to account for prolonged heating by bone. LEVEL OF EVIDENCE: 
+      4 Technical Efficacy: Stage 4 J. Magn. Reson. Imaging 2019;50:1526-1533.
+CI  - (c) 2019 International Society for Magnetic Resonance in Medicine.
+FAU - Bitton, Rachel R
+AU  - Bitton RR
+AD  - School of Medicine, Department of Radiology, Stanford University, Stanford, 
+      California, USA.
+FAU - Webb, Taylor D
+AU  - Webb TD
+AD  - Department of Electrical Engineering, Stanford University, Stanford, California, 
+      USA.
+FAU - Pauly, Kim Butts
+AU  - Pauly KB
+AD  - School of Medicine, Department of Radiology, Stanford University, Stanford, 
+      California, USA.
+FAU - Ghanouni, Pejman
+AU  - Ghanouni P
+AD  - School of Medicine, Department of Radiology, Stanford University, Stanford, 
+      California, USA.
+LA  - eng
+PT  - Journal Article
+DEP - 20190405
+PL  - United States
+TA  - J Magn Reson Imaging
+JT  - Journal of magnetic resonance imaging : JMRI
+JID - 9105850
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - Bone Neoplasms/*diagnostic imaging/*therapy
+MH  - Bone and Bones/diagnostic imaging
+MH  - Female
+MH  - *Hot Temperature
+MH  - Humans
+MH  - Leiomyoma
+MH  - Magnetic Resonance Imaging
+MH  - Male
+MH  - Middle Aged
+MH  - Neoplasm Metastasis
+MH  - Osteoma, Osteoid/*diagnostic imaging/*therapy
+MH  - Prospective Studies
+MH  - Thermometry
+MH  - Ultrasonic Therapy
+MH  - Uterine Neoplasms
+MH  - Young Adult
+OTO - NOTNLM
+OT  - MR guided focused ultrasound
+OT  - MR-HIFU
+OT  - ablation
+OT  - bone tumor
+OT  - temperature response
+OT  - tissue decay
+EDAT- 2019/04/06 06:00
+MHDA- 2020/11/24 06:00
+CRDT- 2019/04/06 06:00
+PHST- 2018/12/26 00:00 [received]
+PHST- 2019/03/08 00:00 [revised]
+PHST- 2019/03/10 00:00 [accepted]
+PHST- 2019/04/06 06:00 [pubmed]
+PHST- 2020/11/24 06:00 [medline]
+PHST- 2019/04/06 06:00 [entrez]
+AID - 10.1002/jmri.26726 [doi]
+PST - ppublish
+SO  - J Magn Reson Imaging. 2019 Nov;50(5):1526-1533. doi: 10.1002/jmri.26726. Epub 
+      2019 Apr 5.
+
+PMID- 29993366
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190903
+LR  - 20240330
+IS  - 1525-8955 (Electronic)
+IS  - 0885-3010 (Print)
+IS  - 0885-3010 (Linking)
+VI  - 65
+IP  - 7
+DP  - 2018 Jul
+TI  - Measurements of the Relationship Between CT Hounsfield Units and Acoustic 
+      Velocity and How It Changes With Photon Energy and Reconstruction Method.
+PG  - 1111-1124
+LID - 10.1109/TUFFC.2018.2827899 [doi]
+AB  - Transcranial magnetic resonance-guided focused ultrasound continues to gain 
+      traction as a noninvasive treatment option for a variety of pathologies. Focusing 
+      ultrasound through the skull can be accomplished by adding a phase correction to 
+      each element of a hemispherical transducer array. The phase corrections are 
+      determined with acoustic simulations that rely on speed of sound estimates 
+      derived from CT scans. While several studies have investigated the relationship 
+      between acoustic velocity and CT Hounsfield units (HUs), these studies have 
+      largely ignored the impact of X-ray energy, reconstruction method, and 
+      reconstruction kernel on the measured HU, and therefore the estimated velocity, 
+      and none have measured the relationship directly. In this paper, 91 ex vivo human 
+      skull fragments from two skulls are imaged by 80 CT scans with a variety of 
+      energies and reconstruction methods. The average HU from each fragment is found 
+      for each scan and correlated with the speed of sound measured using a through 
+      transmission technique in that fragment. As measured by the -squared value, the 
+      results show that CT is able to account for 23%-53% of the variation in velocity 
+      in the human skull. Both the X-ray energy and the reconstruction technique 
+      significantly alter the -squared value and the linear relationship between HU and 
+      speed of sound in bone. Accounting for these variations will lead to more 
+      accurate phase corrections and more efficient transmission of acoustic energy 
+      through the skull.
+FAU - Webb, Taylor D
+AU  - Webb TD
+FAU - Leung, Steven A
+AU  - Leung SA
+FAU - Rosenberg, Jarrett
+AU  - Rosenberg J
+FAU - Ghanouni, Pejman
+AU  - Ghanouni P
+FAU - Dahl, Jeremy J
+AU  - Dahl JJ
+FAU - Pelc, Norbert J
+AU  - Pelc NJ
+FAU - Pauly, Kim Butts
+AU  - Pauly KB
+LA  - eng
+GR  - P01 CA159992/CA/NCI NIH HHS/United States
+GR  - R01 MH111825/MH/NIMH NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - IEEE Trans Ultrason Ferroelectr Freq Control
+JT  - IEEE transactions on ultrasonics, ferroelectrics, and frequency control
+JID - 9882735
+SB  - IM
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Models, Biological
+MH  - Photons
+MH  - Skull/*diagnostic imaging/physiology
+MH  - Tomography, X-Ray Computed/*methods
+MH  - Ultrasonography/*methods
+PMC - PMC6118210
+MID - NIHMS980895
+EDAT- 2018/07/12 06:00
+MHDA- 2019/09/04 06:00
+PMCR- 2019/07/01
+CRDT- 2018/07/12 06:00
+PHST- 2018/07/12 06:00 [entrez]
+PHST- 2018/07/12 06:00 [pubmed]
+PHST- 2019/09/04 06:00 [medline]
+PHST- 2019/07/01 00:00 [pmc-release]
+AID - 10.1109/TUFFC.2018.2827899 [doi]
+PST - ppublish
+SO  - IEEE Trans Ultrason Ferroelectr Freq Control. 2018 Jul;65(7):1111-1124. doi: 
+      10.1109/TUFFC.2018.2827899.
+
+PMID- 26119129
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20161011
+LR  - 20250103
+IS  - 1522-2586 (Electronic)
+IS  - 1053-1807 (Print)
+IS  - 1053-1807 (Linking)
+VI  - 43
+IP  - 1
+DP  - 2016 Jan
+TI  - Improving thermal dose accuracy in magnetic resonance-guided focused ultrasound 
+      surgery: Long-term thermometry using a prior baseline as a reference.
+PG  - 181-9
+LID - 10.1002/jmri.24978 [doi]
+AB  - PURPOSE: To investigate thermal dose volume (TDV) and non-perfused volume (NPV) 
+      of magnetic resonance-guided focused ultrasound (MRgFUS) treatments in patients 
+      with soft tissue tumors, and describe a method for MR thermal dosimetry using a 
+      baseline reference. MATERIALS AND METHODS: Agreement between TDV and immediate 
+      post treatment NPV was evaluated from MRgFUS treatments of five patients with 
+      biopsy-proven desmoid tumors. Thermometry data (gradient echo, 3T) were analyzed 
+      over the entire course of the treatments to discern temperature errors in the 
+      standard approach. The technique searches previously acquired baseline images for 
+      a match using 2D normalized cross-correlation and a weighted mean of phase 
+      difference images. Thermal dose maps and TDVs were recalculated using the matched 
+      baseline and compared to NPV. RESULTS: TDV and NPV showed between 47%-91% 
+      disagreement, using the standard immediate baseline method for calculating TDV. 
+      Long-term thermometry showed a nonlinear local temperature accrual, where peak 
+      additional temperature varied between 4-13 degrees C (mean = 7.8 degrees C) across patients. The 
+      prior baseline method could be implemented by finding a previously acquired 
+      matching baseline 61% +/- 8% (mean +/- SD) of the time. We found 7%-42% of the 
+      disagreement between TDV and NPV was due to errors in thermometry caused by heat 
+      accrual. For all patients, the prior baseline method increased the estimated 
+      treatment volume and reduced the discrepancies between TDV and NPV (P = 0.023). 
+      CONCLUSION: This study presents a mismatch between in-treatment and post 
+      treatment efficacy measures. The prior baseline approach accounts for local 
+      heating and improves the accuracy of thermal dose-predicted volume.
+CI  - (c) 2015 Wiley Periodicals, Inc.
+FAU - Bitton, Rachel R
+AU  - Bitton RR
+AD  - School of Medicine, Department of Radiology, Stanford University, Stanford, 
+      California, USA.
+FAU - Webb, Taylor D
+AU  - Webb TD
+AD  - Department of Electrical Engineering, Stanford University, Stanford, California, 
+      USA.
+FAU - Pauly, Kim Butts
+AU  - Pauly KB
+AD  - School of Medicine, Department of Radiology, Stanford University, Stanford, 
+      California, USA.
+FAU - Ghanouni, Pejman
+AU  - Ghanouni P
+AD  - School of Medicine, Department of Radiology, Stanford University, Stanford, 
+      California, USA.
+LA  - eng
+GR  - P01 CA159992/CA/NCI NIH HHS/United States
+PT  - Clinical Trial
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+DEP - 20150626
+PL  - United States
+TA  - J Magn Reson Imaging
+JT  - Journal of magnetic resonance imaging : JMRI
+JID - 9105850
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - Female
+MH  - Desmoid Tumors/*diagnosis/physiopathology/*surgery
+MH  - High-Energy Shock Waves/therapeutic use
+MH  - High-Intensity Focused Ultrasound Ablation/*methods
+MH  - Hot Temperature
+MH  - Humans
+MH  - Image Enhancement/methods
+MH  - Magnetic Resonance Imaging/*methods
+MH  - Male
+MH  - Middle Aged
+MH  - Radiation Dosage
+MH  - Radiometry/methods
+MH  - Reference Values
+MH  - Reproducibility of Results
+MH  - Sensitivity and Specificity
+MH  - Surgery, Computer-Assisted/*methods
+MH  - Thermography/*methods
+MH  - Treatment Outcome
+MH  - Young Adult
+PMC - PMC4691444
+MID - NIHMS733074
+OTO - NOTNLM
+OT  - MR guided focused ultrasound
+OT  - MR-HIFU
+OT  - ablation
+OT  - nonperfused volume
+OT  - temperature mapping
+OT  - thermal dose
+OT  - thermometry
+EDAT- 2015/06/30 06:00
+MHDA- 2016/10/12 06:00
+PMCR- 2016/01/16
+CRDT- 2015/06/30 06:00
+PHST- 2015/01/13 00:00 [received]
+PHST- 2015/06/01 00:00 [accepted]
+PHST- 2015/06/30 06:00 [entrez]
+PHST- 2015/06/30 06:00 [pubmed]
+PHST- 2016/10/12 06:00 [medline]
+PHST- 2016/01/16 00:00 [pmc-release]
+AID - 10.1002/jmri.24978 [doi]
+PST - ppublish
+SO  - J Magn Reson Imaging. 2016 Jan;43(1):181-9. doi: 10.1002/jmri.24978. Epub 2015 
+      Jun 26.

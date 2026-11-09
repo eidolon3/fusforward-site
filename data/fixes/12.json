@@ -1,0 +1,393 @@
+{
+ "_note": "Claude's review of out/flags/12.json. 'fix' may only swap a flagged span for a listed term; 'uncertain' words are marked in the output, not changed (by raw word index 'i', or by text anchor 'near_s' + 'text'). Every other flag was checked and kept as transcribed. 'replace' (word corrections) and the text-anchored 'uncertain' entries come from a read-through audit of the transcripts; they are text-based, not checked against the audio: high-confidence corrections are applied, medium ones that need the audio are only marked uncertain. 'speaker' entries are reviewed speaker corrections from the same audit, applied after the voice naming.",
+ "fix": [
+  {
+   "i": 1258,
+   "k": 2,
+   "from": "Amrit Macy",
+   "to": "Emilie Macé",
+   "why": "coined fUS with Tanter"
+  },
+  {
+   "i": 1342,
+   "k": 2,
+   "from": "Amrit Macy",
+   "to": "Emilie Macé",
+   "why": "same name again"
+  },
+  {
+   "i": 1261,
+   "k": 2,
+   "from": "Mikhail Tanter",
+   "to": "Mickael Tanter",
+   "why": "spelling"
+  },
+  {
+   "i": 1346,
+   "k": 2,
+   "from": "Mikhail Tanter",
+   "to": "Mickael Tanter",
+   "why": "spelling"
+  },
+  {
+   "i": 4096,
+   "k": 1,
+   "from": "Ray-Rayleigh-Poissett",
+   "to": "Rayleigh-Plesset",
+   "why": "the bubble-dynamics equation"
+  },
+  {
+   "i": 12034,
+   "k": 2,
+   "from": "Daniel Yano",
+   "to": "Daniel Llano",
+   "why": "Song's collaborator"
+  },
+  {
+   "i": 3905,
+   "k": 2,
+   "from": "Shrek Chaliseoni",
+   "to": "Sreekanth Chalasani",
+   "why": "sonogenetics pioneer at Salk"
+  }
+ ],
+ "replace": [
+  {
+   "near_s": 465.89,
+   "from": "Mikhail",
+   "to": "Mickael",
+   "why": "Mickael Tanter, ultrafast Doppler"
+  },
+  {
+   "near_s": 500.39,
+   "from": "whisker simulation",
+   "to": "whisker stimulation",
+   "why": "Macé et al. 2011 fUS paper"
+  },
+  {
+   "near_s": 638.95,
+   "from": "Shong",
+   "to": "Shung",
+   "why": "K. Kirk Shung"
+  },
+  {
+   "near_s": 646.93,
+   "from": "Shong",
+   "to": "Shung",
+   "why": "K. Kirk Shung"
+  },
+  {
+   "near_s": 656.43,
+   "from": "Shong",
+   "to": "Shung",
+   "why": "K. Kirk Shung"
+  },
+  {
+   "near_s": 1100.86,
+   "from": "CFOS",
+   "to": "c-Fos",
+   "why": "immediate-early gene marker (series-wide S4)"
+  },
+  {
+   "near_s": 1103.94,
+   "from": "CFOS",
+   "to": "c-Fos",
+   "why": "immediate-early gene marker (series-wide S4)"
+  },
+  {
+   "near_s": 1291.66,
+   "from": "MRARFI",
+   "to": "MR-ARFI",
+   "why": "listed term"
+  },
+  {
+   "near_s": 1485.29,
+   "from": "male focus",
+   "to": "Mayo folks",
+   "why": "Song trained at Mayo (Urban, Shigao Chen)"
+  },
+  {
+   "near_s": 2665.47,
+   "from": "nestling PRF",
+   "to": "nested PRF",
+   "why": "nested/double PRF (ep 11)"
+  },
+  {
+   "near_s": 2854.17,
+   "from": "nestling PRF",
+   "to": "nested PRF",
+   "why": "nested/double PRF (ep 11)"
+  },
+  {
+   "near_s": 3457.55,
+   "from": "Peng Fei",
+   "to": "Pengfei",
+   "why": "guest's name (series-wide S4)"
+  },
+  {
+   "near_s": 3473.27,
+   "from": "Peng Fei",
+   "to": "Pengfei",
+   "why": "guest's name (series-wide S4)"
+  },
+  {
+   "near_s": 3602.33,
+   "from": "Econeous",
+   "to": "Iconeus",
+   "why": "Tanter's fUS company"
+  },
+  {
+   "near_s": 3603.91,
+   "from": "Mikhail's",
+   "to": "Mickael's",
+   "why": "Mickael Tanter"
+  },
+  {
+   "near_s": 3700.48,
+   "from": "Hauri",
+   "to": "Howry",
+   "why": "Douglass Howry, diagnostic-ultrasound pioneer"
+  },
+  {
+   "near_s": 3701.54,
+   "from": "Hauri",
+   "to": "Howry",
+   "why": "Douglass Howry"
+  },
+  {
+   "near_s": 3702.62,
+   "from": "Wilde",
+   "to": "Wild",
+   "why": "John Julian Wild, paired with Howry"
+  },
+  {
+   "near_s": 134.98,
+   "from": "Blue Sky",
+   "to": "Bluesky",
+   "why": "the social network"
+  },
+  {
+   "near_s": 162.62,
+   "from": "Blue Sky",
+   "to": "Bluesky",
+   "why": "the social network"
+  },
+  {
+   "near_s": 455.19,
+   "from": "Kriszkens",
+   "to": "Kripfgans",
+   "why": "Oliver Kripfgans (Michigan, Doppler)"
+  },
+  {
+   "near_s": 1484.07,
+   "from": "Urban in Chicago, Chen",
+   "to": "Urban, Shigao Chen",
+   "why": "Matt Urban and Shigao Chen, 'the Mayo folks'"
+  },
+  {
+   "near_s": 522.05,
+   "from": "framing",
+   "to": "frame rate",
+   "why": "high frame rate of ultrasound"
+  },
+  {
+   "near_s": 1136.26,
+   "from": "bossy",
+   "to": "BBB",
+   "why": "a BBB (blood-brain barrier) person: 'if you actually have bubbles there'"
+  },
+  {
+   "near_s": 389.45,
+   "from": "FUS",
+   "to": "fUS",
+   "why": "functional ultrasound, 'FUS with F in lowercase'"
+  },
+  {
+   "near_s": 397.37,
+   "from": "FUS, small FUS.",
+   "to": "fUS, small fUS.",
+   "why": "functional ultrasound"
+  },
+  {
+   "near_s": 434.03,
+   "from": "FUS",
+   "to": "fUS",
+   "why": "functional ultrasound, 'with a lowercase F'"
+  },
+  {
+   "near_s": 3829.98,
+   "from": "FUS.",
+   "to": "fUS.",
+   "why": "functional ultrasound ('you have the fUS')"
+  },
+  {
+   "near_s": 3832.12,
+   "from": "FUS,",
+   "to": "fUS,",
+   "why": "'You already took fUS, you know, functional ultrasound'"
+  },
+  {
+   "near_s": 2290.53,
+   "from": "Merge Lab",
+   "to": "Merge Labs",
+   "why": "the company (as at 30:40)"
+  },
+  {
+   "near_s": 2102.34,
+   "from": "what merge is",
+   "to": "what Merge is",
+   "why": "the company; 'the merge of humans and machines' after it is the idea"
+  }
+ ],
+ "uncertain": [
+  {
+   "i": 80,
+   "why": "low confidence on a name ('Danny Ovitz')"
+  },
+  {
+   "i": 81,
+   "why": "low confidence on a name ('Danny Ovitz')"
+  },
+  {
+   "i": 1470,
+   "why": "low confidence on a name ('Oliver Kriszkens')"
+  },
+  {
+   "i": 3434,
+   "why": "very low confidence"
+  },
+  {
+   "i": 4629,
+   "why": "very low confidence"
+  },
+  {
+   "i": 5828,
+   "why": "very low confidence"
+  },
+  {
+   "i": 6481,
+   "why": "very low confidence"
+  },
+  {
+   "i": 8891,
+   "why": "very low confidence"
+  },
+  {
+   "i": 10519,
+   "why": "very low confidence"
+  },
+  {
+   "i": 11145,
+   "why": "very low confidence"
+  },
+  {
+   "i": 11326,
+   "why": "very low confidence"
+  },
+  {
+   "near_s": 46.36,
+   "text": "Danny",
+   "why": "probably 'Standing ovation'; medium"
+  },
+  {
+   "near_s": 1916.46,
+   "text": "peak",
+   "why": "probably 'PEEK' (cranial implant material); medium"
+  },
+  {
+   "near_s": 1917.02,
+   "text": "longevity",
+   "why": "probably 'Longeviti' (implant vendor); medium"
+  },
+  {
+   "near_s": 3143.53,
+   "text": "active",
+   "why": "probably 'a negative displacement'; medium"
+  },
+  {
+   "near_s": 863.66,
+   "text": "town horse",
+   "why": "unclear; medium"
+  }
+ ],
+ "speaker": [
+  {
+   "from_s": 0.0,
+   "to_s": 43.8,
+   "who": "Charles Caskey",
+   "why": "produced song intro over music ('Folks talk about sound...'): the singing voice is Charles (voice CC 0.70 vs narrator 0.09); the moments and explainers already leave it out"
+  },
+  {
+   "near_s": 46.36,
+   "text": "Danny Ovitz. Wow. I knew this guy was good. I'm so flattered. Wow.",
+   "who": "Pengfei Song",
+   "why": "the guest reacting to his intro song ('I'm so flattered') (voice agrees or is inconclusive: 0.20 to Pengfei; best other Keith 0.03)"
+  },
+  {
+   "near_s": 253.3,
+   "text": "and, uh, yeah, yeah. That was, that was hard. Thank you.",
+   "who": "Pengfei Song",
+   "why": "Pengfei on his own Lowe's joke at the Chen Institute (voice agrees or is inconclusive: 0.28 to Pengfei; best other Keith 0.21)"
+  },
+  {
+   "near_s": 365.66,
+   "text": "Oh, h- hang on, hang on",
+   "who": "Charles Caskey",
+   "why": "Charles's 'time out' follows (voice agrees or is inconclusive: 0.31 to Charles; best other Pengfei 0.06)"
+  },
+  {
+   "near_s": 3284.47,
+   "text": "a bunch of, like, information-",
+   "who": "Pengfei Song",
+   "why": "ends Pengfei's 'I'm just reading a bunch of, like, information-' (voice agrees or is inconclusive: 0.32 to Pengfei; best other Keith 0.11)"
+  },
+  {
+   "near_s": 214.12,
+   "text": "I don't know. It's exciting.",
+   "who": "Keith Murphy",
+   "why": "ends Keith's turn; Pengfei starts at 'Yeah, I found out your podcast'; voice KM 0.50 vs PS 0.16"
+  },
+  {
+   "near_s": 3451.69,
+   "text": "No, he's totally right.",
+   "who": "Charles Caskey",
+   "why": "voice CC 0.26 vs PS -0.02 (the whole 'Yeah, yeah. No, he's totally right. Yeah, yeah.')"
+  },
+  {
+   "from_s": 3451.2,
+   "to_s": 3452.95,
+   "who": "Charles Caskey",
+   "why": "same turn"
+  },
+  {
+   "near_s": 3454.71,
+   "text": "This, this little tiny cell-",
+   "who": "Charles Caskey",
+   "why": "voice CC 0.29 vs PS -0.03"
+  },
+  {
+   "near_s": 3456.55,
+   "text": "with this huge wave.",
+   "who": "Charles Caskey",
+   "why": "voice CC 0.34 vs PS 0.16"
+  },
+  {
+   "near_s": 2880.19,
+   "text": "people have done that.",
+   "who": "Pengfei Song",
+   "why": "ends Pengfei's 'I think / people have done that.'"
+  },
+  {
+   "from_s": 3255.2,
+   "to_s": 3255.3,
+   "who": "Charles Caskey",
+   "why": "host backchannel 'Mm-hmm' inside Pengfei's turn"
+  },
+  {
+   "near_s": 3270.85,
+   "text": "Pushing it",
+   "who": "Charles Caskey",
+   "why": "host interjection inside Pengfei's turn ('on the ion channel- Pushing it ... and bending the membrane'); voice CC 0.14 vs PS -0.09"
+  }
+ ]
+}

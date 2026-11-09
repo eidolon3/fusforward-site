@@ -1,0 +1,108 @@
+{
+ "_note": "Claude's review of out/flags/22.json. 'fix' may only swap a flagged span for a listed term; 'uncertain' words are marked in the output, not changed (by raw word index 'i', or by text anchor 'near_s' + 'text'). Every other flag was checked and kept as transcribed. 'replace' (word corrections) and the text-anchored 'uncertain' entries come from a read-through audit of the transcripts; they are text-based, not checked against the audio: high-confidence corrections are applied, medium ones that need the audio are only marked uncertain. 'speaker' entries are reviewed speaker corrections from the same audit, applied after the voice naming.",
+ "fix": [],
+ "replace": [
+  {
+   "near_s": 1798.43,
+   "from": "UCI",
+   "to": "UCL",
+   "why": "Ben Cox's group is at UCL"
+  },
+  {
+   "near_s": 1799.31,
+   "from": "UCI",
+   "to": "UCL",
+   "why": "Ben Cox's group is at UCL"
+  },
+  {
+   "near_s": 2400.86,
+   "from": "KB",
+   "to": "caveat",
+   "why": "'comes with the caveat'"
+  },
+  {
+   "near_s": 1847.6,
+   "from": "recover their steps",
+   "to": "retrace their steps",
+   "why": "time reversal: retrace their steps back to t = 0"
+  }
+ ],
+ "uncertain": [
+  {
+   "i": 8583,
+   "why": "very low confidence"
+  },
+  {
+   "i": 8753,
+   "why": "very low confidence"
+  },
+  {
+   "i": 8774,
+   "why": "very low confidence"
+  },
+  {
+   "i": 10684,
+   "why": "very low confidence"
+  },
+  {
+   "i": 11758,
+   "why": "very low confidence ('Enrico', perhaps 'the clinic')"
+  },
+  {
+   "near_s": 3210.74,
+   "text": "Enrico",
+   "why": "not a name; needs audio; medium"
+  },
+  {
+   "near_s": 2372.42,
+   "text": "trees are sudden",
+   "why": "probably 'Treeby said do it'; medium"
+  },
+  {
+   "near_s": 2377.84,
+   "text": "call",
+   "why": "nonsense as written; medium"
+  },
+  {
+   "near_s": 2575.16,
+   "text": "vibe",
+   "why": "maybe 'hype'; needs the audio (medium)"
+  },
+  {
+   "near_s": 2377.84,
+   "text": "call it tree,",
+   "why": "unclear (staircasing of a voxelised skull?); needs the audio (medium)"
+  },
+  {
+   "near_s": 3210.74,
+   "text": "Enrico.",
+   "why": "unclear name or term ('we really care about ...', then essential tremor); needs the audio"
+  }
+ ],
+ "speaker": [
+  {
+   "near_s": 620.06,
+   "text": "how do you, how do you do it and-",
+   "who": "Charles Caskey",
+   "why": "Charles's question resumed; voice CC 0.34 vs KM -0.01"
+  },
+  {
+   "near_s": 1400.58,
+   "text": "I also would like clarification.",
+   "who": "Keith Murphy",
+   "why": "voice KM 0.37 vs BT 0.06"
+  },
+  {
+   "near_s": 1713.07,
+   "text": "Thanks, Treebs.",
+   "who": "Charles Caskey",
+   "why": "voice CC 0.43 vs BT 0.05; joke after Brad's nickname"
+  },
+  {
+   "near_s": 2697.5,
+   "text": "That",
+   "who": "Keith Murphy",
+   "why": "starts Keith's 'That was, that was very polite.'"
+  }
+ ]
+}

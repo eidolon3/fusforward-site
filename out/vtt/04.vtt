@@ -1,0 +1,953 @@
+WEBVTT
+
+1
+00:00:00.300 --> 00:00:03.220
+<v Charles Caskey>So are we gonna do like a formal introduction to the episode, and we're
+
+2
+00:00:03.260 --> 00:00:05.320
+<v Charles Caskey>gonna be like, "Hey, welcome to FUS Forward.
+
+3
+00:00:05.840 --> 00:00:08.300
+<v Charles Caskey>It's with Keith and Charles. We're gonna talk about..."
+
+4
+00:00:08.400 --> 00:00:09.540
+<v Charles Caskey>[laughs] [laughs]
+
+5
+00:00:09.540 --> 00:00:13.080
+<v Keith Murphy>I like that a lot. [laughs] [laughs]
+
+6
+00:00:13.280 --> 00:00:15.920
+<v Intro narrator>Follow Charles Caskey and Keith Murphy-
+
+7
+00:00:15.960 --> 00:00:16.460
+<v Keith Murphy>I think that's great
+
+8
+00:00:16.560 --> 00:00:22.500
+<v Intro narrator>... as they explore the next frontier of ultrasound neuromodulation with FUS Forward.
+
+9
+00:00:23.080 --> 00:00:27.160
+<v Charles Caskey>Welcome back to "FUS Forward." Today, we might have a little bit less humor
+
+10
+00:00:27.200 --> 00:00:30.780
+<v Charles Caskey>and levity in our conversation because we're talking about something that's really important for
+
+11
+00:00:30.820 --> 00:00:34.820
+<v Charles Caskey>the field that happened recently. So in the past month, there was the first
+
+12
+00:00:35.080 --> 00:00:38.620
+<v Charles Caskey>published serious adverse event in ultrasound neuromodulation.
+
+13
+00:00:38.980 --> 00:00:44.140
+<v Charles Caskey>So we're not here to discuss the drama or anything, but we're really here
+
+14
+00:00:44.180 --> 00:00:46.600
+<v Charles Caskey>to address what it means for all of us.
+
+15
+00:00:46.760 --> 00:00:49.640
+<v Charles Caskey>Uh, but real quick, uh, Keith, can you tell us a little bit about
+
+16
+00:00:49.660 --> 00:00:50.180
+<v Charles Caskey>what happened?
+
+17
+00:00:51.760 --> 00:00:57.020
+<v Keith Murphy>Yeah. Just at a high level, there was a clinical trial going on investigating
+
+18
+00:00:57.040 --> 00:01:02.980
+<v Keith Murphy>the use of focused ultrasound neuromodulation for substance use disorder in a, a 44-year-old
+
+19
+00:01:03.060 --> 00:01:05.340
+<v Keith Murphy>man, um, who enrolled in the trial.
+
+20
+00:01:05.460 --> 00:01:10.060
+<v Keith Murphy>So he, he had had a long history of, uh, opioid and methamphetamine use.
+
+21
+00:01:10.500 --> 00:01:13.120
+<v Keith Murphy>Um, he had overdosed approximately six times.
+
+22
+00:01:13.160 --> 00:01:20.060
+<v Keith Murphy>He had tried many inpatient and outpatient treatments and, um, you know, likely many
+
+23
+00:01:20.080 --> 00:01:22.340
+<v Keith Murphy>of the people in this study were sort of at the end of their
+
+24
+00:01:22.420 --> 00:01:26.780
+<v Keith Murphy>rope, right? So this is really an appropriate sort of patient group to be
+
+25
+00:01:27.280 --> 00:01:32.620
+<v Keith Murphy>trying experimental therapies. And, and in that study, the individual during the ultrasound dose
+
+26
+00:01:32.780 --> 00:01:38.140
+<v Keith Murphy>became unresponsive. It was later revealed that he had hemorrhaging, uh, around and outside
+
+27
+00:01:38.180 --> 00:01:42.160
+<v Keith Murphy>of the target area, and he was brought into an ICU and, and now
+
+28
+00:01:42.180 --> 00:01:45.300
+<v Keith Murphy>he's doing better. You know, over the f- the weeks following up, he's been
+
+29
+00:01:45.320 --> 00:01:49.480
+<v Keith Murphy>recovering, engaging normal activities, and not using, uh, at this time.
+
+30
+00:01:49.560 --> 00:01:52.460
+<v Keith Murphy>So we're really glad to hear he's recovering, and, and that's sort of a
+
+31
+00:01:52.520 --> 00:01:53.920
+<v Keith Murphy>high level of what had happened.
+
+32
+00:01:54.380 --> 00:01:57.080
+<v Charles Caskey>Yeah. That's, that's a great summary of, of the report.
+
+33
+00:01:57.340 --> 00:02:02.480
+<v Charles Caskey>Uh, I think the main high level things is these, uh, these trials are
+
+34
+00:02:03.100 --> 00:02:05.840
+<v Charles Caskey>trying to improve the health of sick people.
+
+35
+00:02:06.080 --> 00:02:10.740
+<v Charles Caskey>Substance abuse disorder is a very serious illness that, that ab- that death is
+
+36
+00:02:10.840 --> 00:02:16.600
+<v Charles Caskey>absolutely a, a potential outcome. And further details for those who are interested, there
+
+37
+00:02:16.660 --> 00:02:20.720
+<v Charles Caskey>is a peer-reviewed journal article from the institute where this occurred.
+
+38
+00:02:21.160 --> 00:02:22.760
+<v Charles Caskey>That can be found in "Brain Stimulation."
+
+39
+00:02:23.140 --> 00:02:26.120
+<v Charles Caskey>And then there was a follow-up from the community with multiple letters to tr-
+
+40
+00:02:26.160 --> 00:02:30.680
+<v Charles Caskey>really try to express the community's thoughts on this, and I think that those
+
+41
+00:02:30.780 --> 00:02:33.860
+<v Charles Caskey>are all very worthwhile things to read.
+
+42
+00:02:34.140 --> 00:02:38.660
+<v Charles Caskey>And so we're not gonna dive fully into those, those, those components in this,
+
+43
+00:02:38.800 --> 00:02:42.880
+<v Charles Caskey>in this podcast, but I think we want to discuss more about safety and
+
+44
+00:02:42.920 --> 00:02:47.880
+<v Charles Caskey>the reporting of it, the readiness, and frame this with respect to other medical
+
+45
+00:02:47.980 --> 00:02:53.440
+<v Charles Caskey>technologies. Focused ultrasound is absolutely not alone in this, in this area.
+
+46
+00:02:53.980 --> 00:02:57.540
+<v Charles Caskey>Do you have any background? I mean, I know that TMS has had the
+
+47
+00:02:57.700 --> 00:03:02.520
+<v Charles Caskey>seve- serious adverse events as well as DBS, and so this is a, a
+
+48
+00:03:02.560 --> 00:03:04.740
+<v Charles Caskey>reality in developing medical technology.
+
+49
+00:03:05.680 --> 00:03:10.120
+<v Keith Murphy>Yeah, of course. Th- this is nothing that is outside of the norm in,
+
+50
+00:03:10.160 --> 00:03:13.960
+<v Keith Murphy>in clinical trials, especially when using a serious intervention.
+
+51
+00:03:14.340 --> 00:03:20.100
+<v Keith Murphy>An NIH-funded study, uh, an analysis of over 4,000 clinical trials showed that over
+
+52
+00:03:20.240 --> 00:03:23.600
+<v Keith Murphy>40% of those trials had an SAE rate of over 10%.
+
+53
+00:03:24.000 --> 00:03:28.080
+<v Keith Murphy>So it means over 10% of the individuals had some sort of serious adverse
+
+54
+00:03:28.140 --> 00:03:34.300
+<v Keith Murphy>event, and that can be a life-threatening outcome, hospitalization, prolonged conditions,
+
+55
+00:03:34.460 --> 00:03:36.040
+<v Keith Murphy>um, and in some cases even death.
+
+56
+00:03:36.980 --> 00:03:42.760
+<v Keith Murphy>And I think it's important first to highlight that this focused ultrasound level was
+
+57
+00:03:42.840 --> 00:03:46.460
+<v Keith Murphy>in a regime that we have not previously explored.
+
+58
+00:03:47.380 --> 00:03:47.880
+<v Keith Murphy>Um-
+
+59
+00:03:47.480 --> 00:03:47.980
+<v Charles Caskey>Yeah
+
+60
+00:03:47.560 --> 00:03:51.180
+<v Keith Murphy>... it's not really, it, you know, it's not even really defined as, as
+
+61
+00:03:51.280 --> 00:03:53.620
+<v Keith Murphy>LIFU. It's like the common acronym people use.
+
+62
+00:03:53.880 --> 00:03:54.380
+<v Charles Caskey>Yeah.
+
+63
+00:03:53.940 --> 00:03:54.960
+<v Keith Murphy>Can you get into that, Charles?
+
+64
+00:03:55.000 --> 00:03:56.640
+<v Keith Murphy>Would you mind describing?
+
+65
+00:03:57.040 --> 00:04:01.620
+<v Charles Caskey>Sure. You mentioned LIFU, and so LIFU is low-intensity focused ultrasound.
+
+66
+00:04:02.260 --> 00:04:06.320
+<v Charles Caskey>And one way in which we, we kind of measure that is through this
+
+67
+00:04:06.420 --> 00:04:11.940
+<v Charles Caskey>mechanical index. And so the mechanical index is, is something that the FDA defined
+
+68
+00:04:12.520 --> 00:04:16.000
+<v Charles Caskey>in 1976, at least they defined a limit.
+
+69
+00:04:16.060 --> 00:04:21.040
+<v Charles Caskey>So there were all these people creating, and companies creating ultrasound imaging devices at
+
+70
+00:04:21.080 --> 00:04:25.520
+<v Charles Caskey>that time. And one day the FDA, from my understanding, kind of aggregated all
+
+71
+00:04:25.560 --> 00:04:29.340
+<v Charles Caskey>the things that were happening in the field and said, "You know what?
+
+72
+00:04:29.440 --> 00:04:34.000
+<v Charles Caskey>We don't see any bioeffects if this mechanical index is below 1.9."
+
+73
+00:04:34.040 --> 00:04:36.900
+<v Charles Caskey>And so we kinda got this one number of mechanical index.
+
+74
+00:04:37.240 --> 00:04:41.340
+<v Charles Caskey>And I think there's, there's kind of been some debate because you can go
+
+75
+00:04:41.400 --> 00:04:46.280
+<v Charles Caskey>above 1.9. It's not like once you get above 1.9, you immediately have bioeffects.
+
+76
+00:04:46.320 --> 00:04:49.560
+<v Charles Caskey>There's sort of this gray area, and we also know if you go way
+
+77
+00:04:49.640 --> 00:04:53.060
+<v Charles Caskey>above this, both in the, the volume of the sound and the duration it's
+
+78
+00:04:53.100 --> 00:04:58.760
+<v Charles Caskey>applied, that you'll absolutely get bioeffects, and that's the basis for high-intensity focused ultrasound.
+
+79
+00:04:59.160 --> 00:05:05.540
+<v Charles Caskey>So it's really this gray area between LIFU and HIFU, low-intensity focused ultrasound
+
+80
+00:05:05.660 --> 00:05:10.760
+<v Charles Caskey>and high-intensity focused ultrasound. That's the area that's really unexplored, that we don't know
+
+81
+00:05:10.820 --> 00:05:13.960
+<v Charles Caskey>exactly where that, that can occur.
+
+82
+00:05:14.060 --> 00:05:17.120
+<v Keith Murphy>And I agree. It's, there's a lot of unknown territory.
+
+83
+00:05:17.360 --> 00:05:21.100
+<v Keith Murphy>The clinical study that's going on, you know, it's looking at these unknown areas
+
+84
+00:05:21.160 --> 00:05:23.620
+<v Keith Murphy>trying to find a therapeutic realm.
+
+85
+00:05:23.720 --> 00:05:24.220
+<v Charles Caskey>Yeah.
+
+86
+00:05:23.820 --> 00:05:27.420
+<v Keith Murphy>And when you're exploring things that haven't been done, SAEs are possible, as we
+
+87
+00:05:27.460 --> 00:05:33.260
+<v Keith Murphy>mentioned. Are there numbers, mechanical indices that have sort of served as an anchor
+
+88
+00:05:33.320 --> 00:05:37.780
+<v Keith Murphy>on the high end? I feel like there were papers from Gel, Geltihar and
+
+89
+00:05:37.920 --> 00:05:41.780
+<v Keith Murphy>Kullervo Hynynen, who we mention often in the show, um, that at least had,
+
+90
+00:05:42.020 --> 00:05:45.200
+<v Keith Murphy>had set the high bar. Do you know of any of those numbers off
+
+91
+00:05:45.240 --> 00:05:45.740
+<v Keith Murphy>the top of your head?
+
+92
+00:05:45.560 --> 00:05:51.820
+<v Charles Caskey>Yeah. So the community in, uh, of researchers surrounding this have tried
+
+93
+00:05:51.900 --> 00:05:57.900
+<v Charles Caskey>to, to really h- hone in on those numbers to know sort of where
+
+94
+00:05:57.960 --> 00:06:03.900
+<v Charles Caskey>is this threshold. And in digging through prior literature, safety literature, it seems like
+
+95
+00:06:03.940 --> 00:06:09.300
+<v Charles Caskey>it's an MI of somewhere around three starts to get into the unknown space
+
+96
+00:06:09.360 --> 00:06:13.840
+<v Charles Caskey>to where we-- maybe there could be cavitation that causes bioeffects.
+
+97
+00:06:13.880 --> 00:06:17.280
+<v Charles Caskey>And so it's a bit, it's a good bit above- What we've grown to
+
+98
+00:06:17.320 --> 00:06:23.390
+<v Charles Caskey>appreciate with the 1.9 for diagnostic use, but somewhere in that-- somewhere around an
+
+99
+00:06:23.390 --> 00:06:27.180
+<v Charles Caskey>MI of 3, and it's, and it's not also the-- I think the jury's
+
+100
+00:06:27.280 --> 00:06:32.040
+<v Charles Caskey>out on whether it's more likely with lower frequencies than higher frequencies.
+
+101
+00:06:32.620 --> 00:06:36.880
+<v Charles Caskey>And so that, that's kind of-- that if I were to just roughly throw
+
+102
+00:06:36.940 --> 00:06:40.340
+<v Charles Caskey>things out there, and this is, these, these aren't coming from my imagination.
+
+103
+00:06:40.400 --> 00:06:46.080
+<v Charles Caskey>These are based on literature where cavitation was measured, uh, in, in different, in
+
+104
+00:06:46.100 --> 00:06:49.820
+<v Charles Caskey>different models. So I, I def- it is, it is explored, but I don't
+
+105
+00:06:49.820 --> 00:06:54.960
+<v Charles Caskey>think it, it's not known to an amount that we feel incredibly comfortable going
+
+106
+00:06:55.000 --> 00:06:55.840
+<v Charles Caskey>into that space.
+
+107
+00:06:56.520 --> 00:07:02.480
+<v Keith Murphy>That mechanical index was not reported in the original publication of the serious adverse
+
+108
+00:07:02.520 --> 00:07:07.780
+<v Keith Murphy>event, and there were two follow-up letters from Elsa Fouragnan and Kim Butts Pauly
+
+109
+00:07:08.020 --> 00:07:10.020
+<v Keith Murphy>in response to this. Those are also published.
+
+110
+00:07:10.580 --> 00:07:16.560
+<v Keith Murphy>Sometime after, as the ITRUSST open letter was developed, the manufacturer did come out
+
+111
+00:07:16.620 --> 00:07:21.020
+<v Keith Murphy>and, and report the mechanical indices that they were predicting, um, in the study.
+
+112
+00:07:21.060 --> 00:07:24.220
+<v Keith Murphy>And they, they were in-- I think they were about in that range, Charles,
+
+113
+00:07:24.260 --> 00:07:26.800
+<v Keith Murphy>somewhere between two and four. Um, is that right?
+
+114
+00:07:26.840 --> 00:07:29.960
+<v Charles Caskey>Yeah. And so it kinda-- I think that there's a little bit of disagreement
+
+115
+00:07:30.000 --> 00:07:34.820
+<v Charles Caskey>in the community as to whether the, this dose of ultrasound, dose for lack
+
+116
+00:07:34.860 --> 00:07:39.780
+<v Charles Caskey>of a better word, it is not-- would not be considered low-intensity focused ultrasound.
+
+117
+00:07:40.320 --> 00:07:47.060
+<v Charles Caskey>It, because it, it exceeds guidelines that have been put forth to create
+
+118
+00:07:47.100 --> 00:07:49.460
+<v Charles Caskey>a situation where there is non-significant risk.
+
+119
+00:07:50.500 --> 00:07:54.960
+<v Keith Murphy>Yeah. I mean, if, if something's never been formally defined, like low-intensity focused ultrasound,
+
+120
+00:07:55.060 --> 00:07:59.060
+<v Keith Murphy>you, you might as well draw that line exactly where people say below this
+
+121
+00:07:59.100 --> 00:08:02.760
+<v Keith Murphy>there is no significant risk. And I think this paper actually was a little
+
+122
+00:08:02.800 --> 00:08:05.880
+<v Keith Murphy>bit of a forcing function to get people to now agree.
+
+123
+00:08:06.540 --> 00:08:11.500
+<v Keith Murphy>If you're using the term LIFU, it should be reasonably within that range-
+
+124
+00:08:11.960 --> 00:08:12.460
+<v Charles Caskey>Yeah
+
+125
+00:08:12.100 --> 00:08:13.160
+<v Keith Murphy>... from free field.
+
+126
+00:08:13.720 --> 00:08:14.220
+<v Charles Caskey>Yeah. And, and-
+
+127
+00:08:14.060 --> 00:08:16.600
+<v Keith Murphy>So that's been a positive that h- has also come from this.
+
+128
+00:08:17.160 --> 00:08:20.900
+<v Charles Caskey>Yeah. I think we-- the letter says this, and I, I think, you know,
+
+129
+00:08:21.100 --> 00:08:26.800
+<v Charles Caskey>I think we can commend the institute for, for publishing the original report and
+
+130
+00:08:26.860 --> 00:08:30.480
+<v Charles Caskey>as well as the community for, for also really trying to dig in and
+
+131
+00:08:30.560 --> 00:08:34.900
+<v Charles Caskey>map the report to guidelines that had been agreed upon.
+
+132
+00:08:35.200 --> 00:08:40.140
+<v Charles Caskey>And it is also my interpretation that these guidelines or that these sonications were
+
+133
+00:08:40.640 --> 00:08:44.740
+<v Charles Caskey>above what we would probably consider, consider low-intensity focused ultrasound.
+
+134
+00:08:45.320 --> 00:08:48.060
+<v Charles Caskey>Beyond these levels or when you get to these levels, there seems to be
+
+135
+00:08:48.100 --> 00:08:50.520
+<v Charles Caskey>a potential for a severe adverse event.
+
+136
+00:08:51.640 --> 00:08:56.380
+<v Keith Murphy>Right. And I think it's important and shows maturity of the field that everyone
+
+137
+00:08:56.420 --> 00:09:00.900
+<v Keith Murphy>comes together, reviews it, and, and moves on, and hopefully uses it to redefine
+
+138
+00:09:01.120 --> 00:09:04.220
+<v Keith Murphy>how they monitor, um, you know, ongoing trials.
+
+139
+00:09:04.440 --> 00:09:07.700
+<v Charles Caskey>Yeah. I mean- Yeah ... the reaction to this was, was quite strong.
+
+140
+00:09:08.060 --> 00:09:11.440
+<v Charles Caskey>It's a young field, and tools, tools aren't standardized.
+
+141
+00:09:11.780 --> 00:09:17.420
+<v Charles Caskey>Safety buffers are, are a little bit uncertain s- as, as you increase the
+
+142
+00:09:17.460 --> 00:09:22.400
+<v Charles Caskey>pressure. And, and this, this is just gonna help us moving forward to have
+
+143
+00:09:22.460 --> 00:09:25.260
+<v Charles Caskey>a system for interpreting these things in m- in my opinion.
+
+144
+00:09:27.140 --> 00:09:31.060
+<v Keith Murphy>A lot of people mentioning the, the serious adverse event that had occurred in
+
+145
+00:09:31.280 --> 00:09:33.060
+<v Keith Murphy>gene therapy. Did I mention that already?
+
+146
+00:09:33.880 --> 00:09:35.220
+<v Keith Murphy>Mention it again and can cut it.
+
+147
+00:09:35.240 --> 00:09:35.760
+<v Charles Caskey>Yeah. Yeah.
+
+148
+00:09:35.880 --> 00:09:40.080
+<v Keith Murphy>But in, but in gene therapy, James Wilson was conducting a trial at, at
+
+149
+00:09:40.100 --> 00:09:43.920
+<v Keith Murphy>the University of Pennsylvania for a very rare condition, and a young man in
+
+150
+00:09:43.980 --> 00:09:48.820
+<v Keith Murphy>that study unfortunately had a severe immune reaction to the adenovirus that they had
+
+151
+00:09:48.900 --> 00:09:51.120
+<v Keith Murphy>used, and, and he passed away in the trial.
+
+152
+00:09:51.340 --> 00:09:54.700
+<v Keith Murphy>Um, and a lot of people said that that set that whole field back
+
+153
+00:09:54.880 --> 00:09:59.820
+<v Keith Murphy>20 years. And I think some people, when they heard about this serious adverse
+
+154
+00:09:59.860 --> 00:10:02.200
+<v Keith Murphy>event, thought that might happen here.
+
+155
+00:10:02.780 --> 00:10:05.780
+<v Keith Murphy>But I think that the field has matured enough.
+
+156
+00:10:05.840 --> 00:10:10.600
+<v Keith Murphy>There are now thousands of patients who have participated in many studies, you know,
+
+157
+00:10:10.640 --> 00:10:13.840
+<v Keith Murphy>that we can keep using this technology and that we have to revise the
+
+158
+00:10:13.880 --> 00:10:15.780
+<v Keith Murphy>way we do things in response.
+
+159
+00:10:15.840 --> 00:10:20.800
+<v Keith Murphy>And that, you know, the way the FDA operates is there is a statistical
+
+160
+00:10:20.860 --> 00:10:24.800
+<v Keith Murphy>inference that can be made from the population size from any trial, but it's
+
+161
+00:10:24.820 --> 00:10:27.980
+<v Keith Murphy>not the same inference you can make when you have millions of people using
+
+162
+00:10:28.020 --> 00:10:33.680
+<v Keith Murphy>something. So there's something called a post-market survey, where a manufacturer or a company
+
+163
+00:10:33.740 --> 00:10:35.840
+<v Keith Murphy>has to follow up long term.
+
+164
+00:10:36.360 --> 00:10:38.500
+<v Keith Murphy>The device was approved, and now there's a million people.
+
+165
+00:10:38.600 --> 00:10:42.860
+<v Keith Murphy>Okay, follow up with a subsample, check what adverse events are happening or are
+
+166
+00:10:42.880 --> 00:10:46.940
+<v Keith Murphy>there serious adverse events. And, and if things happen later, long term, the device
+
+167
+00:10:47.060 --> 00:10:51.480
+<v Keith Murphy>can be pulled off market. And I think that's a- another responsible sort of
+
+168
+00:10:51.840 --> 00:10:55.700
+<v Keith Murphy>way that these things unfold. And, and we're now seeing that for focused ultrasound.
+
+169
+00:10:56.320 --> 00:11:02.420
+<v Charles Caskey>Yeah. And this does reveal that the community has been engaged with
+
+170
+00:11:02.460 --> 00:11:04.500
+<v Charles Caskey>trying to understand where these limits are.
+
+171
+00:11:04.660 --> 00:11:08.780
+<v Charles Caskey>And overall, I think we're just gonna-- we're moving more towards kind of a,
+
+172
+00:11:09.180 --> 00:11:13.860
+<v Charles Caskey>a shared mental model of what risk in focused ultrasound is.
+
+173
+00:11:14.240 --> 00:11:19.780
+<v Charles Caskey>Whereas in this, this lower intensity range, the safety profile is incredibly good if
+
+174
+00:11:19.820 --> 00:11:22.560
+<v Charles Caskey>you compare it to other, other technologies.
+
+175
+00:11:22.600 --> 00:11:25.980
+<v Charles Caskey>And so I think it, it kinda hit different for, for this s- specific
+
+176
+00:11:26.060 --> 00:11:30.520
+<v Charles Caskey>scenario where, where this occurred, but I think it's gonna move us towards kind
+
+177
+00:11:30.560 --> 00:11:34.040
+<v Charles Caskey>of a, just a model of risk that, that where we know what can
+
+178
+00:11:34.100 --> 00:11:35.500
+<v Charles Caskey>happen and when it does happen.
+
+179
+00:11:36.380 --> 00:11:39.740
+<v Keith Murphy>Yeah. I th- and I think it's important that ITRUSST came out with this
+
+180
+00:11:39.800 --> 00:11:45.400
+<v Keith Murphy>open letter because it makes clear that this was above, and what we're doing
+
+181
+00:11:45.680 --> 00:11:47.780
+<v Keith Murphy>still has not had a serious adverse event.
+
+182
+00:11:47.920 --> 00:11:52.240
+<v Keith Murphy>We don't expect it to. It's been that, you know, that's been done on
+
+183
+00:11:52.640 --> 00:11:55.100
+<v Keith Murphy>millions of p- it came from imaging standards.
+
+184
+00:11:55.280 --> 00:11:58.620
+<v Keith Murphy>So the post-market survey to some extent has been done.
+
+185
+00:11:59.100 --> 00:11:59.660
+<v Charles Caskey>Yeah. Yeah.
+
+186
+00:11:59.680 --> 00:12:02.920
+<v Keith Murphy>And I-- and then that's, that's not me saying nobody should go above this
+
+187
+00:12:02.960 --> 00:12:08.160
+<v Keith Murphy>mechanical index of 1.9. I actually think we may want to or need to
+
+188
+00:12:08.200 --> 00:12:11.780
+<v Keith Murphy>push the boundaries in more severe conditions if we're going to be effective.
+
+189
+00:12:11.940 --> 00:12:15.500
+<v Keith Murphy>I just, I, I think ITRUSST and, and you included, like we don't want
+
+190
+00:12:15.540 --> 00:12:18.120
+<v Keith Murphy>people to conflate these two different regimes.
+
+191
+00:12:18.280 --> 00:12:18.780
+<v Charles Caskey>Yeah.
+
+192
+00:12:18.500 --> 00:12:22.260
+<v Keith Murphy>Was there a name given to the mechanical index range that they were using?
+
+193
+00:12:22.860 --> 00:12:23.360
+<v Charles Caskey>I don't think that-
+
+194
+00:12:23.060 --> 00:12:23.820
+<v Keith Murphy>Sort of moderate
+
+195
+00:12:24.520 --> 00:12:25.020
+<v Charles Caskey>I mean-
+
+196
+00:12:24.820 --> 00:12:25.320
+<v Keith Murphy>I don't know, moderate intensity
+
+197
+00:12:25.040 --> 00:12:26.280
+<v Charles Caskey>... I don't think that there is.
+
+198
+00:12:26.700 --> 00:12:30.460
+<v Charles Caskey>I think it's a range. I don't think that there's a, a specific term
+
+199
+00:12:30.580 --> 00:12:36.740
+<v Charles Caskey>for it. The cavitation is being explored in a more, in, in a controlled
+
+200
+00:12:36.840 --> 00:12:42.240
+<v Charles Caskey>manner where they introduce the bubbles in, uh, for drug delivery in the brain,
+
+201
+00:12:42.360 --> 00:12:46.300
+<v Charles Caskey>and there have been amazing clinical results from that.
+
+202
+00:12:46.380 --> 00:12:50.840
+<v Charles Caskey>And so as you mentioned, it- there's this cost, this risk to benefit ratio,
+
+203
+00:12:51.040 --> 00:12:56.140
+<v Charles Caskey>and these are sick patients. So in the context of controlled cavitation for drug
+
+204
+00:12:56.180 --> 00:13:02.380
+<v Charles Caskey>delivery, these are patients that have glioblastoma, terrible disease with poor, poor prognosis, and
+
+205
+00:13:02.620 --> 00:13:08.840
+<v Charles Caskey>that risk of causing cavitation in order to deliver more chemotherapu- chemotherapeutics
+
+206
+00:13:08.920 --> 00:13:11.740
+<v Charles Caskey>to the site is worth taking in that context.
+
+207
+00:13:12.320 --> 00:13:12.820
+<v Keith Murphy>Mm-hmm.
+
+208
+00:13:12.380 --> 00:13:17.160
+<v Charles Caskey>And it's similar, substance use disorder is also a, an illness that can end
+
+209
+00:13:17.200 --> 00:13:22.320
+<v Charles Caskey>in death. And so this, this is, this-- The risk was assessed in this,
+
+210
+00:13:22.560 --> 00:13:27.540
+<v Charles Caskey>in this case, and so it, I don't-- I think that nobody's, nobody's going
+
+211
+00:13:27.600 --> 00:13:31.620
+<v Charles Caskey>in here and just accidentally doing something where, where there's a- Uh-huh ...
+
+212
+00:13:31.640 --> 00:13:32.820
+<v Charles Caskey>where there's a big risk involved.
+
+213
+00:13:32.860 --> 00:13:34.080
+<v Charles Caskey>And I completely agree with you.
+
+214
+00:13:34.140 --> 00:13:40.180
+<v Charles Caskey>There, there are contexts where causing a conditional injury even might be something that
+
+215
+00:13:40.620 --> 00:13:45.680
+<v Charles Caskey>h- that helps evoke a, a cure or a, or a recovery from different
+
+216
+00:13:45.720 --> 00:13:49.620
+<v Charles Caskey>things. I mean, this is, that paradigm exists in, in medical therapies.
+
+217
+00:13:49.860 --> 00:13:51.860
+<v Charles Caskey>So I, I agree with you.
+
+218
+00:13:51.920 --> 00:13:55.400
+<v Charles Caskey>I don't, I don't even think this means that this space is forbidden, but
+
+219
+00:13:55.480 --> 00:13:58.100
+<v Charles Caskey>I don't think it's considered low-intensity focused ultrasound.
+
+220
+00:13:59.540 --> 00:14:01.660
+<v Keith Murphy>Okay. So what happened? What changed in the field?
+
+221
+00:14:02.220 --> 00:14:06.040
+<v Keith Murphy>Well, one, there was a hard definition for low-intensity focused ultrasound.
+
+222
+00:14:06.800 --> 00:14:11.700
+<v Keith Murphy>Um, we commend the authors for reporting the serious adverse event, and th- the
+
+223
+00:14:11.740 --> 00:14:16.560
+<v Keith Murphy>manufacturers for disclosing what they believe the mechanical indices to be.
+
+224
+00:14:17.460 --> 00:14:22.440
+<v Keith Murphy>I don't think, I don't think it changed our field too much besides some
+
+225
+00:14:22.480 --> 00:14:25.220
+<v Keith Murphy>level of, of maturity being, you know, established here.
+
+226
+00:14:25.560 --> 00:14:27.420
+<v Keith Murphy>The fields came together, many experts.
+
+227
+00:14:27.580 --> 00:14:33.940
+<v Keith Murphy>Um, they helped characterize what happened, and, you know, that will inform others, uh,
+
+228
+00:14:34.140 --> 00:14:34.740
+<v Keith Murphy>going forward.
+
+229
+00:14:35.840 --> 00:14:42.000
+<v Charles Caskey>If this had been an event where an ultrasound dose that everybody agreed presented
+
+230
+00:14:42.060 --> 00:14:48.400
+<v Charles Caskey>a non-significant risk had this effect, I think that would be a much louder,
+
+231
+00:14:49.180 --> 00:14:53.640
+<v Charles Caskey>um, siren, brighter red flag to, to the field if, if that had happened.
+
+232
+00:14:53.680 --> 00:14:56.640
+<v Charles Caskey>But in this case, I think there was, it was a ki- it was
+
+233
+00:14:56.740 --> 00:15:02.420
+<v Charles Caskey>responsible reporting from, and, and response from, from the community, and I think that
+
+234
+00:15:02.480 --> 00:15:06.640
+<v Charles Caskey>helps us grow moving forward. I mean, this was a big moment for focused
+
+235
+00:15:06.700 --> 00:15:12.380
+<v Charles Caskey>ultrasound neuromodulation, but o- but low-intensity focused ultrasound neuromodulation is not something to be
+
+236
+00:15:12.460 --> 00:15:17.400
+<v Charles Caskey>afraid of. This type of event happens in clinical trials, and it's something that
+
+237
+00:15:17.440 --> 00:15:19.260
+<v Charles Caskey>we learn from and we move forward with.
+
+238
+00:15:20.700 --> 00:15:21.900
+<v Keith Murphy>Yeah. Well said, Charles.

@@ -1,0 +1,297 @@
+{
+ "_note": "Claude's review of out/flags/21.json. 'fix' may only swap a flagged span for a listed term; 'uncertain' words are marked in the output, not changed (by raw word index 'i', or by text anchor 'near_s' + 'text'). Every other flag was checked and kept as transcribed. 'replace' (word corrections) and the text-anchored 'uncertain' entries come from a read-through audit of the transcripts; they are text-based, not checked against the audio: high-confidence corrections are applied, medium ones that need the audio are only marked uncertain. 'speaker' entries are reviewed speaker corrections from the same audit, applied after the voice naming.",
+ "fix": [
+  {
+   "i": 1206,
+   "k": 1,
+   "from": "Gestalt",
+   "to": "Gestala",
+   "why": "the company (title spells it Gestala); 'Gestalt' kept where he means the German concept"
+  },
+  {
+   "i": 1448,
+   "k": 1,
+   "from": "Gestalt",
+   "to": "Gestala",
+   "why": "the company (title spells it Gestala); 'Gestalt' kept where he means the German concept"
+  },
+  {
+   "i": 1454,
+   "k": 1,
+   "from": "Gestalt",
+   "to": "Gestala",
+   "why": "the company (title spells it Gestala); 'Gestalt' kept where he means the German concept"
+  },
+  {
+   "i": 1464,
+   "k": 1,
+   "from": "Gestalt",
+   "to": "Gestala",
+   "why": "the company (title spells it Gestala); 'Gestalt' kept where he means the German concept"
+  },
+  {
+   "i": 2119,
+   "k": 1,
+   "from": "Gestalt",
+   "to": "Gestala",
+   "why": "the company (title spells it Gestala); 'Gestalt' kept where he means the German concept"
+  },
+  {
+   "i": 2807,
+   "k": 1,
+   "from": "Gestalt",
+   "to": "Gestala",
+   "why": "the company (title spells it Gestala); 'Gestalt' kept where he means the German concept"
+  },
+  {
+   "i": 4840,
+   "k": 1,
+   "from": "Gestalt",
+   "to": "Gestala",
+   "why": "the company (title spells it Gestala); 'Gestalt' kept where he means the German concept"
+  },
+  {
+   "i": 5730,
+   "k": 1,
+   "from": "Gestalt",
+   "to": "Gestala",
+   "why": "the company (title spells it Gestala); 'Gestalt' kept where he means the German concept"
+  },
+  {
+   "i": 6544,
+   "k": 1,
+   "from": "Gestalt",
+   "to": "Gestala",
+   "why": "the company (title spells it Gestala); 'Gestalt' kept where he means the German concept"
+  },
+  {
+   "i": 7189,
+   "k": 1,
+   "from": "Gestalt",
+   "to": "Gestala",
+   "why": "the company (title spells it Gestala); 'Gestalt' kept where he means the German concept"
+  },
+  {
+   "i": 7237,
+   "k": 1,
+   "from": "Gestalt",
+   "to": "Gestala",
+   "why": "the company (title spells it Gestala); 'Gestalt' kept where he means the German concept"
+  },
+  {
+   "i": 7504,
+   "k": 1,
+   "from": "Gestalt",
+   "to": "Gestala",
+   "why": "the company (title spells it Gestala); 'Gestalt' kept where he means the German concept"
+  }
+ ],
+ "replace": [
+  {
+   "near_s": 128.5,
+   "from": "NeuroXis",
+   "to": "NeuroXess",
+   "why": "Phoenix Peng's previous BCI company"
+  },
+  {
+   "near_s": 132.26,
+   "from": "NeuroXis",
+   "to": "NeuroXess",
+   "why": "Phoenix Peng's previous BCI company"
+  },
+  {
+   "near_s": 431.61,
+   "from": "NeuroAccess",
+   "to": "NeuroXess",
+   "why": "same company"
+  },
+  {
+   "near_s": 607.85,
+   "from": "NeuroAccess",
+   "to": "NeuroXess",
+   "why": "same company"
+  },
+  {
+   "near_s": 655.69,
+   "from": "NeuroAccess",
+   "to": "NeuroXess",
+   "why": "same company"
+  },
+  {
+   "near_s": 644.57,
+   "from": "Tianhao",
+   "to": "Tianqiao",
+   "why": "Chen Tianqiao, Shanda founder, TCCI donor"
+  },
+  {
+   "near_s": 651.35,
+   "from": "Tianhao",
+   "to": "Tianqiao",
+   "why": "Chen Tianqiao"
+  },
+  {
+   "near_s": 652.17,
+   "from": "Tianhao",
+   "to": "Tianqiao",
+   "why": "Chen Tianqiao"
+  },
+  {
+   "near_s": 647.23,
+   "from": "the tCCIs",
+   "to": "TCCI",
+   "why": "Tianqiao and Chrissy Chen Institute"
+  },
+  {
+   "near_s": 1540.92,
+   "from": "RFIs",
+   "to": "ARFI",
+   "why": "MR-ARFI; Keith replies about ARFI"
+  },
+  {
+   "near_s": 2750.3,
+   "from": "Entropic and OpenAIs",
+   "to": "Anthropic and OpenAI",
+   "why": "AI labs"
+  },
+  {
+   "near_s": 191.78,
+   "from": "insulation",
+   "to": "hallucination",
+   "why": "'hallucination of the GPT'"
+  },
+  {
+   "near_s": 1929.0,
+   "from": "IAmSpeed.",
+   "to": "IShowSpeed.",
+   "why": "the streamer IShowSpeed"
+  },
+  {
+   "near_s": 887.82,
+   "from": "mental ELS,",
+   "to": "mental illness,",
+   "why": "mental illness"
+  },
+  {
+   "near_s": 1366.41,
+   "from": "Attunes.",
+   "to": "Attune's.",
+   "why": "Keith's company Attune"
+  },
+  {
+   "near_s": 1833.96,
+   "from": "Buy your, buy your dream.",
+   "to": "Build your, Build Your Dreams.",
+   "why": "BYD = Build Your Dreams"
+  },
+  {
+   "near_s": 1836.9,
+   "from": "Buy your dream",
+   "to": "Build Your Dreams",
+   "why": "BYD = Build Your Dreams"
+  },
+  {
+   "near_s": 1916.22,
+   "from": "S and R",
+   "to": "SNR",
+   "why": "signal-to-noise ratio"
+  },
+  {
+   "near_s": 804.08,
+   "from": "neural circle.",
+   "to": "neural circuit.",
+   "why": "functions generated by neural circuits"
+  }
+ ],
+ "uncertain": [
+  {
+   "i": 1499,
+   "why": "very low confidence"
+  },
+  {
+   "i": 5564,
+   "why": "very low confidence"
+  },
+  {
+   "i": 7326,
+   "why": "very low confidence"
+  },
+  {
+   "near_s": 2515.88,
+   "text": "www.gestalt.com",
+   "why": "the company is Gestala; domain not verified; medium"
+  },
+  {
+   "near_s": 454.89,
+   "text": "50",
+   "why": "probably '15 years'; medium"
+  }
+ ],
+ "speaker": [
+  {
+   "near_s": 1142.99,
+   "text": "blink artifact.",
+   "who": "Keith Murphy",
+   "why": "finishes Keith's 'It's mostly just-' (voice agrees or is inconclusive: 0.45 to Keith; best other Phoenix 0.15)"
+  },
+  {
+   "near_s": 1453.61,
+   "text": "or an ongoing-",
+   "who": "Keith Murphy",
+   "why": "Keith's question 'Do you see fMRI as a one-time piece of your puzzle or an ongoing- measurement?'"
+  },
+  {
+   "near_s": 1454.49,
+   "text": "measurement?",
+   "who": "Keith Murphy",
+   "why": "end of Keith's question"
+  },
+  {
+   "near_s": 1892.2,
+   "text": "That sounds cool.",
+   "who": "Keith Murphy",
+   "why": "Keith (addresses Charles in the same breath: 'We gotta go out there, Charles')"
+  },
+  {
+   "near_s": 1894.72,
+   "text": "Yeah. We gotta do a road trip.",
+   "who": "Keith Murphy",
+   "why": "Keith continuing 'We gotta go out there, Charles' (voice agrees or is inconclusive: 0.24 to Keith; best other Charles 0.10)"
+  },
+  {
+   "near_s": 1937.86,
+   "text": "But there is no-",
+   "who": "Phoenix Peng",
+   "why": "Phoenix's sentence continues 'science related podcast or YouTuber come to China'"
+  },
+  {
+   "near_s": 2156.54,
+   "text": "Uh-",
+   "who": "Phoenix Peng",
+   "why": "Phoenix listing China's future industries"
+  },
+  {
+   "near_s": 2159.34,
+   "text": "And-",
+   "who": "Phoenix Peng",
+   "why": "Phoenix listing China's future industries"
+  },
+  {
+   "near_s": 2162.46,
+   "text": "And, uh-",
+   "who": "Phoenix Peng",
+   "why": "Phoenix listing China's future industries"
+  },
+  {
+   "near_s": 2164.96,
+   "text": "Yeah.",
+   "who": "Phoenix Peng",
+   "why": "Phoenix listing China's future industries"
+  },
+  {
+   "near_s": 54.56,
+   "text": "Yeah. He, he looked-",
+   "who": "Charles Caskey",
+   "why": "a host talking about Phoenix in the third person; voice CC 0.18 vs KM -0.02 (Phoenix 0.02)"
+  }
+ ]
+}

@@ -1,0 +1,477 @@
+{
+ "_note": "Claude's review of out/flags/15.json. 'fix' may only swap a flagged span for a listed term; 'uncertain' words are marked in the output, not changed (by raw word index 'i', or by text anchor 'near_s' + 'text'). Every other flag was checked and kept as transcribed. 'replace' (word corrections) and the text-anchored 'uncertain' entries come from a read-through audit of the transcripts; they are text-based, not checked against the audio: high-confidence corrections are applied, medium ones that need the audio are only marked uncertain. 'speaker' entries are reviewed speaker corrections from the same audit, applied after the voice naming.",
+ "fix": [
+  {
+   "i": 11268,
+   "k": 1,
+   "from": "iTrust",
+   "to": "ITRUSST",
+   "why": "the consortium, said as a word"
+  },
+  {
+   "i": 12111,
+   "k": 2,
+   "from": "I trust",
+   "to": "ITRUSST",
+   "why": "the consortium, said as a word"
+  },
+  {
+   "i": 12428,
+   "k": 1,
+   "from": "iTrust",
+   "to": "ITRUSST",
+   "why": "the consortium, said as a word"
+  },
+  {
+   "i": 12434,
+   "k": 1,
+   "from": "iTrust",
+   "to": "ITRUSST",
+   "why": "the consortium, said as a word"
+  },
+  {
+   "i": 12783,
+   "k": 1,
+   "from": "iTrust",
+   "to": "ITRUSST",
+   "why": "the consortium, said as a word"
+  },
+  {
+   "i": 12792,
+   "k": 1,
+   "from": "iTrust",
+   "to": "ITRUSST",
+   "why": "the consortium, said as a word"
+  },
+  {
+   "i": 11265,
+   "k": 1,
+   "from": "Leonard",
+   "to": "Lennart",
+   "why": "Lennart Verhagen, who founded ITRUSST"
+  },
+  {
+   "i": 11272,
+   "k": 1,
+   "from": "Leonard",
+   "to": "Lennart",
+   "why": "same"
+  },
+  {
+   "i": 11787,
+   "k": 1,
+   "from": "Leonard",
+   "to": "Lennart",
+   "why": "same"
+  },
+  {
+   "i": 12291,
+   "k": 1,
+   "from": "Leonard",
+   "to": "Lennart",
+   "why": "same"
+  },
+  {
+   "i": 2369,
+   "k": 2,
+   "from": "Thomas Heinberg",
+   "to": "Thomas Heimburg",
+   "why": "physicist behind the soliton model of nerve pulses"
+  },
+  {
+   "i": 4769,
+   "k": 2,
+   "from": "Fruitalis atrox",
+   "to": "Crotalus atrox",
+   "why": "western diamondback rattlesnake venom"
+  },
+  {
+   "i": 5797,
+   "k": 2,
+   "from": "Jay Sangwasi",
+   "to": "Jay Sanguinetti",
+   "why": "Tyler's collaborator (Joseph L. Sanguinetti)"
+  }
+ ],
+ "replace": [
+  {
+   "near_s": 1378.49,
+   "from": "Coastal Ventures",
+   "to": "Khosla Ventures",
+   "why": "said correctly later in the episode"
+  },
+  {
+   "near_s": 1379.33,
+   "from": "Think",
+   "to": "Thync",
+   "why": "Tyler's company"
+  },
+  {
+   "near_s": 1379.91,
+   "from": "Think",
+   "to": "Thync",
+   "why": "Tyler's company"
+  },
+  {
+   "near_s": 1380.35,
+   "from": "Think",
+   "to": "Thync",
+   "why": "Tyler's company"
+  },
+  {
+   "near_s": 1382.31,
+   "from": "ThinkPads",
+   "to": "Thync pads",
+   "why": "Tyler's company's product"
+  },
+  {
+   "near_s": 1400.67,
+   "from": "Think",
+   "to": "Thync",
+   "why": "Thync 2.0"
+  },
+  {
+   "near_s": 1402.35,
+   "from": "Think",
+   "to": "Thync",
+   "why": "Tyler's company"
+  },
+  {
+   "near_s": 1403.19,
+   "from": "Think",
+   "to": "Thync",
+   "why": "Thync 2.0"
+  },
+  {
+   "near_s": 1403.41,
+   "from": "Think",
+   "to": "Thync",
+   "why": "Thync Global"
+  },
+  {
+   "near_s": 3616.34,
+   "from": "Think",
+   "to": "Thync",
+   "why": "Tyler's company"
+  },
+  {
+   "near_s": 3618.58,
+   "from": "Think",
+   "to": "Thync",
+   "why": "Tyler's company"
+  },
+  {
+   "near_s": 727.12,
+   "from": "Carl Djerassi",
+   "to": "Karl Deisseroth",
+   "why": "optogenetics at Cold Spring Harbor"
+  },
+  {
+   "near_s": 728.76,
+   "from": "Carl",
+   "to": "Karl",
+   "why": "Karl Deisseroth"
+  },
+  {
+   "near_s": 740.9,
+   "from": "Carl",
+   "to": "Karl",
+   "why": "Karl Deisseroth"
+  },
+  {
+   "near_s": 2483.47,
+   "from": "Bruce Toe",
+   "to": "Bruce Towe",
+   "why": "ASU bioengineering"
+  },
+  {
+   "near_s": 2104.25,
+   "from": "David Michelovitz",
+   "to": "David Mishelevich",
+   "why": "ultrasound neuromodulation patents"
+  },
+  {
+   "near_s": 2106.67,
+   "from": "David Michelovitz",
+   "to": "David Mishelevich",
+   "why": "ultrasound neuromodulation patents"
+  },
+  {
+   "near_s": 696.34,
+   "from": "synaptophorin",
+   "to": "synapto-pHluorin",
+   "why": "vesicle-fusion reporter"
+  },
+  {
+   "near_s": 715.9,
+   "from": "synaptophorin",
+   "to": "synapto-pHluorin",
+   "why": "vesicle-fusion reporter"
+  },
+  {
+   "near_s": 777.96,
+   "from": "synaptoform",
+   "to": "synapto-pHluorin",
+   "why": "vesicle-fusion reporter"
+  },
+  {
+   "near_s": 916.1,
+   "from": "synaptoform",
+   "to": "synapto-pHluorin",
+   "why": "vesicle-fusion reporter"
+  },
+  {
+   "near_s": 848.8,
+   "from": "Vinny's",
+   "to": "Venki's",
+   "why": "Venki Murthy, named just before"
+  },
+  {
+   "near_s": 854.78,
+   "from": "Vinny",
+   "to": "Venki",
+   "why": "Venki Murthy"
+  },
+  {
+   "near_s": 1271.23,
+   "from": "Heimberg",
+   "to": "Heimburg",
+   "why": "Thomas Heimburg, spelled right earlier"
+  },
+  {
+   "near_s": 3202.14,
+   "from": "Leonard's",
+   "to": "Lennart's",
+   "why": "Lennart Verhagen"
+  },
+  {
+   "near_s": 3209.72,
+   "from": "Leonard's",
+   "to": "Lennart's",
+   "why": "Lennart Verhagen"
+  },
+  {
+   "near_s": 364.0,
+   "from": "CFOS",
+   "to": "c-Fos",
+   "why": "gene/stain name (series-wide S4)"
+  },
+  {
+   "near_s": 3647.58,
+   "from": "Hakasan",
+   "to": "Hakkasan",
+   "why": "Las Vegas nightclub"
+  },
+  {
+   "near_s": 1880.03,
+   "from": "513G",
+   "to": "513(g)",
+   "why": "FDA request-for-information pathway"
+  },
+  {
+   "near_s": 1494.38,
+   "from": "Izzy.",
+   "to": "Isy.",
+   "why": "Isy Goldwasser, Thync co-founder"
+  },
+  {
+   "near_s": 1495.14,
+   "from": "Izzy,",
+   "to": "Isy,",
+   "why": "Isy Goldwasser"
+  },
+  {
+   "near_s": 3485.56,
+   "from": "humor's",
+   "to": "humerus",
+   "why": "the arm bone ('could take a whole appendage')"
+  },
+  {
+   "near_s": 435.1,
+   "from": "S2.",
+   "to": "ISTU.",
+   "why": "the ISTU meeting"
+  },
+  {
+   "near_s": 3162.52,
+   "from": "Endeavor",
+   "to": "Endeavour",
+   "why": "the British TV series"
+  }
+ ],
+ "uncertain": [
+  {
+   "i": 7368,
+   "why": "unclear ('Amindi')"
+  },
+  {
+   "i": 949,
+   "why": "very low confidence"
+  },
+  {
+   "i": 1242,
+   "why": "very low confidence"
+  },
+  {
+   "i": 1397,
+   "why": "very low confidence"
+  },
+  {
+   "i": 3356,
+   "why": "very low confidence"
+  },
+  {
+   "i": 4000,
+   "why": "very low confidence"
+  },
+  {
+   "i": 7398,
+   "why": "very low confidence"
+  },
+  {
+   "i": 8139,
+   "why": "very low confidence"
+  },
+  {
+   "i": 13333,
+   "why": "very low confidence"
+  },
+  {
+   "near_s": 455.04,
+   "text": "was",
+   "why": "probably 'wasn't an ultrasound person'; medium"
+  },
+  {
+   "near_s": 2533.01,
+   "text": "goose",
+   "why": "probably 'is as good as'; medium"
+  },
+  {
+   "near_s": 1917.79,
+   "text": "Fucking",
+   "why": "probably 'Funny'; medium, needs audio"
+  }
+ ],
+ "speaker": [
+  {
+   "near_s": 22.9,
+   "text": "Charles, you sound like...",
+   "who": "Keith Murphy",
+   "why": "Keith opens the conversation inside the narrator turn; continues 'Did you change something?' (voice agrees or is inconclusive: 0.65 to Keith; best other Charles 0.22)"
+  },
+  {
+   "near_s": 48.5,
+   "text": "a bank.",
+   "who": "Charles Caskey",
+   "why": "end of Charles's 'looking like a bank'"
+  },
+  {
+   "near_s": 416.44,
+   "text": "pod.",
+   "who": "Charles Caskey",
+   "why": "end of Charles's 'maybe she listens to the pod.'"
+  },
+  {
+   "near_s": 959.08,
+   "text": "Um, they're like, \"Well,",
+   "who": "Jamie Tyler",
+   "why": "Jamie telling his own story of pitching ultrasound for horror movies (labels swapped with Keith) (voice agrees or is inconclusive: 0.54 to Jamie; best other Keith 0.14)"
+  },
+  {
+   "near_s": 974.2,
+   "text": "Mm-hmm.",
+   "who": "Keith Murphy",
+   "why": "Keith's backchannel inside Jamie's story"
+  },
+  {
+   "near_s": 974.46,
+   "text": "I was like, \"I wanna go-",
+   "who": "Jamie Tyler",
+   "why": "Jamie's story"
+  },
+  {
+   "near_s": 975.28,
+   "text": "Oh",
+   "who": "Keith Murphy",
+   "why": "Keith's backchannel inside Jamie's story"
+  },
+  {
+   "near_s": 980.72,
+   "text": "Oh, oh, okay. Cool.",
+   "who": "Keith Murphy",
+   "why": "Keith's backchannel inside Jamie's story (voice agrees or is inconclusive: -0.12 to Keith; best other Charles 0.09)"
+  },
+  {
+   "near_s": 1611.26,
+   "text": "makes sense.",
+   "who": "Keith Murphy",
+   "why": "Keith's 'Oh. That makes sense.'"
+  },
+  {
+   "near_s": 1667.44,
+   "text": "distract.",
+   "who": "Keith Murphy",
+   "why": "Keith's 'Anyway, not to distract.'"
+  },
+  {
+   "near_s": 2284.59,
+   "text": "now.",
+   "who": "Keith Murphy",
+   "why": "Keith's 'I think they started doing that now.'"
+  },
+  {
+   "near_s": 2288.15,
+   "text": "target.",
+   "who": "Jamie Tyler",
+   "why": "Jamie's 'Sacral plexus could be a crazy interesting target.'"
+  },
+  {
+   "near_s": 3134.84,
+   "text": "been invited.",
+   "who": "Charles Caskey",
+   "why": "Charles's 'I was really honored to, to, been invited.'"
+  },
+  {
+   "near_s": 3348.74,
+   "text": "back.\"",
+   "who": "Charles Caskey",
+   "why": "Charles's 'This is gonna like set the building back.'"
+  },
+  {
+   "near_s": 3906.39,
+   "text": "next episode.",
+   "who": "Keith Murphy",
+   "why": "Keith's 'That should be our next episode.'"
+  },
+  {
+   "near_s": 218.84,
+   "text": "That's a great way to put it, Charles, actually. You grow up, right?",
+   "who": "Jamie Tyler",
+   "why": "voice JT 0.35 (turn) vs KM 0.11"
+  },
+  {
+   "near_s": 448.02,
+   "text": "She said this is evil.",
+   "who": "Jamie Tyler",
+   "why": "Jamie retelling; voice JT 0.10 vs CC 0.03 (medium)"
+  },
+  {
+   "near_s": 980.72,
+   "text": "Oh, oh, okay. Cool.",
+   "who": "Charles Caskey",
+   "why": "voice CC 0.09 vs KM -0.12 (medium)"
+  },
+  {
+   "near_s": 1954.67,
+   "text": "I haven't seen that ad. That's so cringe.",
+   "who": "Jamie Tyler",
+   "why": "Keith described the ad himself; voice JT 0.28 on 'That's so cringe'"
+  },
+  {
+   "near_s": 2771.91,
+   "text": "No, I was honored. I was like, \"Hey, that's great.\"",
+   "who": "Jamie Tyler",
+   "why": "voice JT 0.32/0.27 vs KM 0.03/0.16"
+  }
+ ]
+}

@@ -1,0 +1,32 @@
+{
+ "_note": "Claude's review of out/flags/01.json. 'fix' may only swap a flagged span for a listed term; 'uncertain' words are marked in the output, not changed (by raw word index 'i', or by text anchor 'near_s' + 'text'). Every other flag was checked and kept as transcribed. 'replace' (word corrections) and the text-anchored 'uncertain' entries come from a read-through audit of the transcripts; they are text-based, not checked against the audio: high-confidence corrections are applied, medium ones that need the audio are only marked uncertain. 'speaker' entries are reviewed speaker corrections from the same audit, applied after the voice naming.",
+ "fix": [],
+ "replace": [
+  {
+   "near_s": 498.74,
+   "from": "Je Son",
+   "to": "Jie Sun",
+   "why": "Sun & Hynynen 1998/99, hemispherical-array skull focusing"
+  },
+  {
+   "near_s": null,
+   "from": "Frey",
+   "to": "Fry",
+   "why": "William and Francis Fry, the 1950s focused-ultrasound brain work (said 5 times)",
+   "all": true
+  },
+  {
+   "near_s": 427.62,
+   "from": "Veiling",
+   "to": "Velling",
+   "why": "Velling & Shklyaruk 1988, ultrasound neuromodulation in cat/rabbit, USSR"
+  }
+ ],
+ "uncertain": [
+  {
+   "i": 5071,
+   "why": "very low confidence"
+  }
+ ],
+ "speaker": []
+}

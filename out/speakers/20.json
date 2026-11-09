@@ -1,0 +1,8680 @@
+{
+ "raw": "20",
+ "label_names": {
+  "speaker_1": "Keith Murphy",
+  "speaker_0": "Charles Caskey",
+  "speaker_2": "Zhihai Qiu"
+ },
+ "label_similarity": {
+  "speaker_0": {
+   "Charles Caskey": 0.794396162033081,
+   "Intro narrator": 0.11974605917930603,
+   "Keith Murphy": 0.15638720989227295
+  },
+  "speaker_1": {
+   "Charles Caskey": 0.287925124168396,
+   "Intro narrator": 0.07107941061258316,
+   "Keith Murphy": 0.8990354537963867
+  },
+  "speaker_2": {
+   "Charles Caskey": 0.19084376096725464,
+   "Intro narrator": 0.02693638950586319,
+   "Keith Murphy": 0.17155075073242188
+  }
+ },
+ "turns_moved": {
+  "Keith Murphy -> Intro narrator": 2,
+  "Charles Caskey -> Keith Murphy": 2,
+  "Zhihai Qiu -> Charles Caskey": 1
+ },
+ "talk_min": {
+  "Keith Murphy": 13.6,
+  "Zhihai Qiu": 11.7,
+  "Charles Caskey": 9.5,
+  "Intro narrator": 0.2
+ },
+ "low_turns": 35,
+ "turns": [
+  {
+   "start": 0.3,
+   "end": 5.28,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.703,
+   "alt": "Intro narrator",
+   "alt_sim": 0.053
+  },
+  {
+   "start": 5.84,
+   "end": 8.3,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.48,
+   "alt": "Intro narrator",
+   "alt_sim": 0.093
+  },
+  {
+   "start": 9.56,
+   "end": 10.76,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.064,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.296,
+   "low": 1
+  },
+  {
+   "start": 13.28,
+   "end": 16.56,
+   "label": "speaker_1",
+   "name": "Intro narrator",
+   "sim": 0.68,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.081,
+   "how": "voice"
+  },
+  {
+   "start": 16.6,
+   "end": 22.48,
+   "label": "speaker_1",
+   "name": "Intro narrator",
+   "sim": 0.909,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.082,
+   "how": "voice"
+  },
+  {
+   "start": 23.34,
+   "end": 26.06,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.678,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.232
+  },
+  {
+   "start": 27.16,
+   "end": 29.52,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.71,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.135
+  },
+  {
+   "start": 30.22,
+   "end": 30.78,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 31.44,
+   "end": 31.54,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 31.82,
+   "end": 35.4,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.687,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.208
+  },
+  {
+   "start": 36.44,
+   "end": 36.46,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 36.5,
+   "end": 38.8,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.606,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.203
+  },
+  {
+   "start": 39.02,
+   "end": 39.32,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 39.88,
+   "end": 42.72,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.521,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.193
+  },
+  {
+   "start": 43.14,
+   "end": 44.16,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.244,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.163,
+   "low": 1
+  },
+  {
+   "start": 44.76,
+   "end": 48.58,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.546,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.328
+  },
+  {
+   "start": 48.68,
+   "end": 48.68,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 48.74,
+   "end": 52.04,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.492,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.213
+  },
+  {
+   "start": 53.04,
+   "end": 57.22,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.75,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.278
+  },
+  {
+   "start": 57.44,
+   "end": 57.44,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 57.44,
+   "end": 60.12,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.663,
+   "alt": "Intro narrator",
+   "alt_sim": 0.148
+  },
+  {
+   "start": 60.9,
+   "end": 63.24,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.487,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.196
+  },
+  {
+   "start": 63.36,
+   "end": 63.36,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 63.42,
+   "end": 63.7,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 64.5,
+   "end": 64.5,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 64.879,
+   "end": 65.68,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.192,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.159,
+   "low": 1
+  },
+  {
+   "start": 66.24,
+   "end": 66.32,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 66.44,
+   "end": 67.4,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.032,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.108,
+   "low": 1
+  },
+  {
+   "start": 67.58,
+   "end": 69.28,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.626,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.109
+  },
+  {
+   "start": 69.4,
+   "end": 70.96,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.703,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.234
+  },
+  {
+   "start": 71.02,
+   "end": 73.5,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.682,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.22
+  },
+  {
+   "start": 74.34,
+   "end": 75.12,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 75.66,
+   "end": 79.12,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.652,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.124
+  },
+  {
+   "start": 79.72,
+   "end": 81.12,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.618,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.054
+  },
+  {
+   "start": 82.46,
+   "end": 84.26,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.554,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.198
+  },
+  {
+   "start": 85.44,
+   "end": 85.62,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 87.08,
+   "end": 87.18,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 87.3,
+   "end": 88.48,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.534,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.133
+  },
+  {
+   "start": 89.3,
+   "end": 95.08,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.797,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.271
+  },
+  {
+   "start": 95.16,
+   "end": 96.92,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.363,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.119
+  },
+  {
+   "start": 97.16,
+   "end": 98.88,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.487,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.144
+  },
+  {
+   "start": 99.14,
+   "end": 104.42,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.766,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.301
+  },
+  {
+   "start": 105.12,
+   "end": 105.14,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 105.22,
+   "end": 111.78,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.827,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.244
+  },
+  {
+   "start": 112.4,
+   "end": 114.28,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.782,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.151
+  },
+  {
+   "start": 115.06,
+   "end": 115.3,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 115.8,
+   "end": 116.48,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 117.2,
+   "end": 117.58,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 117.58,
+   "end": 118.0,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 118.56,
+   "end": 118.68,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 118.76,
+   "end": 118.84,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 118.9,
+   "end": 119.86,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.414,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.062
+  },
+  {
+   "start": 120.6,
+   "end": 120.7,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 120.82,
+   "end": 121.78,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.454,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.17
+  },
+  {
+   "start": 123.4,
+   "end": 123.82,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 123.86,
+   "end": 124.06,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 124.58,
+   "end": 127.96,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.66,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.158
+  },
+  {
+   "start": 128.759,
+   "end": 132.5,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.769,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.187
+  },
+  {
+   "start": 133.06,
+   "end": 135.24,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.701,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.245
+  },
+  {
+   "start": 135.74,
+   "end": 141.26,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.777,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.311
+  },
+  {
+   "start": 141.78,
+   "end": 143.44,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.664,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.293
+  },
+  {
+   "start": 143.94,
+   "end": 150.52,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.791,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.217
+  },
+  {
+   "start": 151.7,
+   "end": 153.06,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.596,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.075
+  },
+  {
+   "start": 153.26,
+   "end": 154.38,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.539,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.123
+  },
+  {
+   "start": 154.46,
+   "end": 156.4,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.618,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.203
+  },
+  {
+   "start": 156.5,
+   "end": 157.56,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.629,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.175
+  },
+  {
+   "start": 159.18,
+   "end": 159.38,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 159.92,
+   "end": 161.08,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.135,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.074,
+   "low": 1
+  },
+  {
+   "start": 162.66,
+   "end": 162.88,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 163.16,
+   "end": 163.6,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 163.64,
+   "end": 163.98,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 163.98,
+   "end": 166.58,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.685,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.295
+  },
+  {
+   "start": 166.68,
+   "end": 169.68,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.629,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.235
+  },
+  {
+   "start": 170.12,
+   "end": 176.62,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.742,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.251
+  },
+  {
+   "start": 177.02,
+   "end": 180.88,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.697,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.295
+  },
+  {
+   "start": 181.38,
+   "end": 184.46,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.639,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.312
+  },
+  {
+   "start": 185.02,
+   "end": 185.48,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 186.02,
+   "end": 187.52,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.571,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.241
+  },
+  {
+   "start": 187.76,
+   "end": 191.74,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.576,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.302
+  },
+  {
+   "start": 191.78,
+   "end": 192.08,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 192.28,
+   "end": 192.38,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 192.52,
+   "end": 192.88,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 192.92,
+   "end": 194.36,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.412,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.364
+  },
+  {
+   "start": 194.36,
+   "end": 194.38,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 194.4,
+   "end": 194.6,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 195.26,
+   "end": 195.58,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 195.76,
+   "end": 196.56,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.469,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.108
+  },
+  {
+   "start": 197.26,
+   "end": 203.12,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.698,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.321
+  },
+  {
+   "start": 203.64,
+   "end": 203.78,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 203.9,
+   "end": 204.18,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 204.18,
+   "end": 205.16,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.311,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.36
+  },
+  {
+   "start": 205.16,
+   "end": 205.16,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 205.7,
+   "end": 207.3,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.617,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.063
+  },
+  {
+   "start": 207.48,
+   "end": 214.94,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.858,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.151
+  },
+  {
+   "start": 216.1,
+   "end": 216.24,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 216.34,
+   "end": 216.76,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 217.42,
+   "end": 217.56,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 217.62,
+   "end": 218.84,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.481,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.211
+  },
+  {
+   "start": 219.42,
+   "end": 221.18,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.608,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.198
+  },
+  {
+   "start": 221.3,
+   "end": 222.42,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.392,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.187
+  },
+  {
+   "start": 223.22,
+   "end": 224.16,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.226,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.123,
+   "low": 1
+  },
+  {
+   "start": 224.3,
+   "end": 224.46,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 225.28,
+   "end": 227.02,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.63,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.264
+  },
+  {
+   "start": 227.58,
+   "end": 230.42,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.694,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.192
+  },
+  {
+   "start": 230.62,
+   "end": 232.52,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.579,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.266
+  },
+  {
+   "start": 233.2,
+   "end": 237.42,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.716,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.2
+  },
+  {
+   "start": 238.12,
+   "end": 242.08,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.737,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.176
+  },
+  {
+   "start": 243.16,
+   "end": 248.7,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.77,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.177
+  },
+  {
+   "start": 249.26,
+   "end": 254.16,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.768,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.171
+  },
+  {
+   "start": 254.96,
+   "end": 255.78,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.103,
+   "alt": "Charles Caskey",
+   "alt_sim": -0.024,
+   "low": 1
+  },
+  {
+   "start": 256.26,
+   "end": 259.62,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.756,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.257
+  },
+  {
+   "start": 259.72,
+   "end": 262.18,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.688,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.135
+  },
+  {
+   "start": 262.82,
+   "end": 266.3,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.714,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.287
+  },
+  {
+   "start": 266.42,
+   "end": 266.9,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 267.72,
+   "end": 268.28,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 268.34,
+   "end": 269.34,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.117,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.329,
+   "low": 1
+  },
+  {
+   "start": 269.42,
+   "end": 270.04,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 272.0,
+   "end": 272.64,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 275.06,
+   "end": 275.26,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 275.48,
+   "end": 275.6,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 276.22,
+   "end": 276.28,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 276.32,
+   "end": 280.9,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.713,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.229,
+   "how": "voice (sentence)"
+  },
+  {
+   "start": 281.26,
+   "end": 283.9,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.471,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.131
+  },
+  {
+   "start": 284.18,
+   "end": 285.42,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.528,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.283
+  },
+  {
+   "start": 285.48,
+   "end": 287.12,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.551,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.191
+  },
+  {
+   "start": 287.72,
+   "end": 288.16,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 288.78,
+   "end": 290.66,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.746,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.261
+  },
+  {
+   "start": 290.74,
+   "end": 293.92,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.754,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.328
+  },
+  {
+   "start": 294.6,
+   "end": 296.28,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.559,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.108
+  },
+  {
+   "start": 297.1,
+   "end": 297.12,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 297.88,
+   "end": 303.48,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.838,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.138
+  },
+  {
+   "start": 303.98,
+   "end": 307.6,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.824,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.216
+  },
+  {
+   "start": 307.82,
+   "end": 310.7,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.764,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.193
+  },
+  {
+   "start": 311.3,
+   "end": 312.14,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.429,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.104
+  },
+  {
+   "start": 313.14,
+   "end": 314.84,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.578,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.167
+  },
+  {
+   "start": 315.32,
+   "end": 317.84,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.707,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.121
+  },
+  {
+   "start": 318.4,
+   "end": 320.18,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.612,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.114
+  },
+  {
+   "start": 320.6,
+   "end": 323.08,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.713,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.157
+  },
+  {
+   "start": 323.42,
+   "end": 330.12,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.804,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.148
+  },
+  {
+   "start": 330.7,
+   "end": 332.72,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.713,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.187
+  },
+  {
+   "start": 333.68,
+   "end": 334.2,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 334.76,
+   "end": 337.4,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.639,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.077
+  },
+  {
+   "start": 337.92,
+   "end": 340.78,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.659,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.147
+  },
+  {
+   "start": 341.36,
+   "end": 344.08,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.684,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.121
+  },
+  {
+   "start": 344.64,
+   "end": 345.36,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 346.6,
+   "end": 349.76,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.769,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.175
+  },
+  {
+   "start": 350.52,
+   "end": 354.6,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.796,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.163
+  },
+  {
+   "start": 355.1,
+   "end": 357.54,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.668,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.123
+  },
+  {
+   "start": 357.68,
+   "end": 362.56,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.688,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.114
+  },
+  {
+   "start": 363.232,
+   "end": 370.072,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.831,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.124
+  },
+  {
+   "start": 370.192,
+   "end": 370.292,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 370.312,
+   "end": 371.772,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.47,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.131
+  },
+  {
+   "start": 371.852,
+   "end": 371.852,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 371.852,
+   "end": 372.952,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.449,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.137
+  },
+  {
+   "start": 373.512,
+   "end": 374.692,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.37,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.125
+  },
+  {
+   "start": 374.832,
+   "end": 381.212,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.687,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.265
+  },
+  {
+   "start": 381.272,
+   "end": 381.312,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 381.332,
+   "end": 384.052,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.583,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.216
+  },
+  {
+   "start": 384.432,
+   "end": 389.172,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.723,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.224
+  },
+  {
+   "start": 389.752,
+   "end": 390.932,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.581,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.186
+  },
+  {
+   "start": 391.012,
+   "end": 394.372,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.679,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.19
+  },
+  {
+   "start": 394.412,
+   "end": 396.152,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.636,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.226
+  },
+  {
+   "start": 396.692,
+   "end": 399.452,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.724,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.294
+  },
+  {
+   "start": 399.552,
+   "end": 402.232,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.771,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.142
+  },
+  {
+   "start": 402.372,
+   "end": 406.352,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.799,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.112
+  },
+  {
+   "start": 407.092,
+   "end": 409.952,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.733,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.214
+  },
+  {
+   "start": 410.572,
+   "end": 410.752,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 411.292,
+   "end": 414.692,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.792,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.12
+  },
+  {
+   "start": 414.872,
+   "end": 419.392,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.773,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.211
+  },
+  {
+   "start": 420.092,
+   "end": 420.672,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 420.772,
+   "end": 420.772,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 420.772,
+   "end": 423.372,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.768,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.121
+  },
+  {
+   "start": 423.912,
+   "end": 424.572,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 424.732,
+   "end": 424.732,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 424.732,
+   "end": 426.032,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.475,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.119
+  },
+  {
+   "start": 426.712,
+   "end": 427.092,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 427.612,
+   "end": 429.892,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.653,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.176
+  },
+  {
+   "start": 430.012,
+   "end": 433.372,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.775,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.155
+  },
+  {
+   "start": 433.872,
+   "end": 436.572,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.729,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.17
+  },
+  {
+   "start": 436.892,
+   "end": 438.592,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.582,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.201
+  },
+  {
+   "start": 439.152,
+   "end": 440.212,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.594,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.131
+  },
+  {
+   "start": 440.752,
+   "end": 442.292,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.615,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.119
+  },
+  {
+   "start": 443.152,
+   "end": 446.092,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.757,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.177
+  },
+  {
+   "start": 446.152,
+   "end": 446.452,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 447.012,
+   "end": 450.692,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.698,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.111
+  },
+  {
+   "start": 450.932,
+   "end": 454.232,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.597,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.106
+  },
+  {
+   "start": 454.352,
+   "end": 455.852,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.688,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.195
+  },
+  {
+   "start": 456.272,
+   "end": 456.372,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 456.492,
+   "end": 457.512,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.338,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.062
+  },
+  {
+   "start": 459.312,
+   "end": 460.592,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.278,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.188
+  },
+  {
+   "start": 460.992,
+   "end": 460.992,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 460.992,
+   "end": 462.332,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.419,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.116
+  },
+  {
+   "start": 462.772,
+   "end": 463.012,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 463.212,
+   "end": 463.312,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 463.312,
+   "end": 463.632,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 464.532,
+   "end": 468.492,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.6,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.233
+  },
+  {
+   "start": 468.532,
+   "end": 470.712,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.488,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.246
+  },
+  {
+   "start": 470.772,
+   "end": 471.972,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.512,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.23
+  },
+  {
+   "start": 472.012,
+   "end": 472.012,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 472.052,
+   "end": 476.392,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.621,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.325
+  },
+  {
+   "start": 477.392,
+   "end": 480.632,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.582,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.16
+  },
+  {
+   "start": 480.852,
+   "end": 484.032,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.498,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.241
+  },
+  {
+   "start": 484.292,
+   "end": 484.412,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 486.832,
+   "end": 487.052,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 487.092,
+   "end": 490.892,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.744,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.22
+  },
+  {
+   "start": 491.091,
+   "end": 493.091,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.674,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.198
+  },
+  {
+   "start": 493.832,
+   "end": 497.932,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.742,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.27
+  },
+  {
+   "start": 498.272,
+   "end": 501.352,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.641,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.135
+  },
+  {
+   "start": 502.732,
+   "end": 507.712,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.636,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.152
+  },
+  {
+   "start": 508.312,
+   "end": 508.672,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 508.672,
+   "end": 509.532,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.196,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.079,
+   "low": 1
+  },
+  {
+   "start": 511.032,
+   "end": 511.712,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 512.212,
+   "end": 513.852,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.098,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.177,
+   "low": 1
+  },
+  {
+   "start": 514.432,
+   "end": 516.332,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.432,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.174,
+   "how": "voice"
+  },
+  {
+   "start": 517.452,
+   "end": 518.212,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 518.532,
+   "end": 521.092,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.652,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.149
+  },
+  {
+   "start": 521.832,
+   "end": 521.832,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 521.872,
+   "end": 523.572,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.482,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.135
+  },
+  {
+   "start": 524.532,
+   "end": 524.532,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 524.572,
+   "end": 527.612,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.698,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.185
+  },
+  {
+   "start": 528.292,
+   "end": 529.672,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.604,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.056
+  },
+  {
+   "start": 530.252,
+   "end": 530.772,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 531.392,
+   "end": 533.552,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.751,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.209
+  },
+  {
+   "start": 534.192,
+   "end": 538.912,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.756,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.226
+  },
+  {
+   "start": 539.212,
+   "end": 542.672,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.777,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.242
+  },
+  {
+   "start": 543.332,
+   "end": 543.632,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 543.712,
+   "end": 544.012,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 544.552,
+   "end": 544.752,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 545.352,
+   "end": 546.692,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.205,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.203,
+   "low": 1
+  },
+  {
+   "start": 547.492,
+   "end": 551.252,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.72,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.07
+  },
+  {
+   "start": 551.272,
+   "end": 551.652,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 552.312,
+   "end": 552.852,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 553.792,
+   "end": 555.032,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.672,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.144
+  },
+  {
+   "start": 555.112,
+   "end": 556.972,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.746,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.274
+  },
+  {
+   "start": 557.152,
+   "end": 557.152,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 557.172,
+   "end": 558.572,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.482,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.078
+  },
+  {
+   "start": 559.332,
+   "end": 559.732,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 559.752,
+   "end": 561.952,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.652,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.225
+  },
+  {
+   "start": 562.532,
+   "end": 563.012,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 563.952,
+   "end": 564.012,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 564.052,
+   "end": 567.992,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.679,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.212
+  },
+  {
+   "start": 568.152,
+   "end": 569.932,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.471,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.223
+  },
+  {
+   "start": 570.112,
+   "end": 577.012,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.73,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.363
+  },
+  {
+   "start": 577.852,
+   "end": 581.212,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.519,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.284
+  },
+  {
+   "start": 581.252,
+   "end": 581.252,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 581.252,
+   "end": 582.712,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.503,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.238
+  },
+  {
+   "start": 583.352,
+   "end": 585.912,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.435,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.169
+  },
+  {
+   "start": 586.492,
+   "end": 588.292,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.623,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.105
+  },
+  {
+   "start": 588.892,
+   "end": 591.232,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.708,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.228
+  },
+  {
+   "start": 591.472,
+   "end": 591.472,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 591.472,
+   "end": 593.952,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.516,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.135
+  },
+  {
+   "start": 594.532,
+   "end": 599.212,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.809,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.21
+  },
+  {
+   "start": 599.332,
+   "end": 600.932,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.287,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.118
+  },
+  {
+   "start": 602.232,
+   "end": 602.312,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 602.652,
+   "end": 605.432,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.435,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.175
+  },
+  {
+   "start": 605.812,
+   "end": 607.932,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.492,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.235
+  },
+  {
+   "start": 608.552,
+   "end": 608.552,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 608.572,
+   "end": 609.392,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.193,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.148,
+   "low": 1
+  },
+  {
+   "start": 610.432,
+   "end": 612.592,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.442,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.292
+  },
+  {
+   "start": 613.252,
+   "end": 613.552,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 613.572,
+   "end": 613.952,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 614.132,
+   "end": 615.952,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.462,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.147
+  },
+  {
+   "start": 616.552,
+   "end": 617.452,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.168,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.109,
+   "low": 1
+  },
+  {
+   "start": 617.952,
+   "end": 618.072,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 618.592,
+   "end": 623.512,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.65,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.329
+  },
+  {
+   "start": 624.212,
+   "end": 627.552,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.647,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.276
+  },
+  {
+   "start": 628.172,
+   "end": 628.252,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 629.572,
+   "end": 629.692,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 629.752,
+   "end": 629.952,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 630.072,
+   "end": 635.012,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.845,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.174
+  },
+  {
+   "start": 635.552,
+   "end": 636.332,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 637.272,
+   "end": 639.352,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.7,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.212
+  },
+  {
+   "start": 639.352,
+   "end": 640.032,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 642.652,
+   "end": 646.292,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.509,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.152
+  },
+  {
+   "start": 646.852,
+   "end": 650.152,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.616,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.228
+  },
+  {
+   "start": 650.272,
+   "end": 650.272,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 650.272,
+   "end": 653.272,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.689,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.281
+  },
+  {
+   "start": 653.672,
+   "end": 654.672,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.129,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.137,
+   "low": 1
+  },
+  {
+   "start": 655.552,
+   "end": 656.712,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.268,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.27
+  },
+  {
+   "start": 657.052,
+   "end": 657.052,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 657.092,
+   "end": 658.372,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.391,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.113
+  },
+  {
+   "start": 659.772,
+   "end": 660.292,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 660.852,
+   "end": 663.832,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.634,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.311
+  },
+  {
+   "start": 663.912,
+   "end": 667.612,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.573,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.267
+  },
+  {
+   "start": 667.892,
+   "end": 671.612,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.545,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.296
+  },
+  {
+   "start": 672.132,
+   "end": 672.312,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 672.932,
+   "end": 673.032,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 673.032,
+   "end": 673.552,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 673.912,
+   "end": 674.052,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 674.572,
+   "end": 676.592,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.261,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.17
+  },
+  {
+   "start": 676.992,
+   "end": 679.752,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.496,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.261
+  },
+  {
+   "start": 680.132,
+   "end": 685.672,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.629,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.206
+  },
+  {
+   "start": 687.812,
+   "end": 689.192,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.305,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.21
+  },
+  {
+   "start": 689.452,
+   "end": 693.612,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.576,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.301
+  },
+  {
+   "start": 693.612,
+   "end": 693.812,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 693.812,
+   "end": 696.052,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.567,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.17
+  },
+  {
+   "start": 698.212,
+   "end": 698.392,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 699.112,
+   "end": 699.792,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 700.372,
+   "end": 705.392,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.76,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.214
+  },
+  {
+   "start": 706.072,
+   "end": 706.072,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 706.072,
+   "end": 706.072,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 706.072,
+   "end": 706.632,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 706.652,
+   "end": 707.272,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 707.332,
+   "end": 708.172,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.496,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.102
+  },
+  {
+   "start": 708.612,
+   "end": 708.612,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 708.632,
+   "end": 710.552,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.576,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.032
+  },
+  {
+   "start": 710.632,
+   "end": 712.192,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.3,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.163
+  },
+  {
+   "start": 712.632,
+   "end": 714.872,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.63,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.324
+  },
+  {
+   "start": 715.672,
+   "end": 716.232,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 717.112,
+   "end": 717.592,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 717.632,
+   "end": 719.472,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.574,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.098
+  },
+  {
+   "start": 720.112,
+   "end": 726.692,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.844,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.182
+  },
+  {
+   "start": 726.852,
+   "end": 733.652,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.829,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.212
+  },
+  {
+   "start": 735.452,
+   "end": 735.972,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 736.132,
+   "end": 737.732,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.505,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.182
+  },
+  {
+   "start": 738.232,
+   "end": 738.232,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 738.252,
+   "end": 739.272,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.34,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.23
+  },
+  {
+   "start": 741.032,
+   "end": 741.872,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.42,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.207
+  },
+  {
+   "start": 743.162,
+   "end": 744.242,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.357,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.184
+  },
+  {
+   "start": 744.382,
+   "end": 752.742,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.902,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.211
+  },
+  {
+   "start": 753.282,
+   "end": 756.942,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.786,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.152
+  },
+  {
+   "start": 757.442,
+   "end": 757.782,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 758.582,
+   "end": 761.482,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.715,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.124
+  },
+  {
+   "start": 762.002,
+   "end": 762.562,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 762.922,
+   "end": 763.082,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 763.242,
+   "end": 768.342,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.653,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.205
+  },
+  {
+   "start": 768.382,
+   "end": 769.062,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 769.082,
+   "end": 773.822,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.626,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.202
+  },
+  {
+   "start": 774.022,
+   "end": 774.022,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 774.022,
+   "end": 774.422,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 774.442,
+   "end": 774.861,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 774.882,
+   "end": 775.082,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 775.221,
+   "end": 775.882,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 776.002,
+   "end": 776.262,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 776.922,
+   "end": 777.042,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 777.562,
+   "end": 785.102,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.825,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.275
+  },
+  {
+   "start": 785.862,
+   "end": 791.542,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.835,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.221
+  },
+  {
+   "start": 792.262,
+   "end": 792.442,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 792.602,
+   "end": 795.062,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.707,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.309
+  },
+  {
+   "start": 795.882,
+   "end": 796.222,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 796.242,
+   "end": 797.722,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.636,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.196
+  },
+  {
+   "start": 797.922,
+   "end": 803.862,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.746,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.295
+  },
+  {
+   "start": 804.442,
+   "end": 804.482,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 804.522,
+   "end": 807.061,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.747,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.193
+  },
+  {
+   "start": 808.222,
+   "end": 809.802,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.545,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.25
+  },
+  {
+   "start": 810.622,
+   "end": 816.422,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.795,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.248
+  },
+  {
+   "start": 816.862,
+   "end": 819.462,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.727,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.282
+  },
+  {
+   "start": 820.082,
+   "end": 822.482,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.693,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.296
+  },
+  {
+   "start": 823.022,
+   "end": 823.522,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 823.582,
+   "end": 823.582,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 823.602,
+   "end": 827.002,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.672,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.322
+  },
+  {
+   "start": 827.022,
+   "end": 827.022,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 827.182,
+   "end": 828.142,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.525,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.179
+  },
+  {
+   "start": 829.022,
+   "end": 829.402,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 830.642,
+   "end": 830.702,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 830.822,
+   "end": 831.722,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.49,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.11
+  },
+  {
+   "start": 831.722,
+   "end": 831.722,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 833.042,
+   "end": 835.962,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.811,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.214
+  },
+  {
+   "start": 837.482,
+   "end": 840.602,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.665,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.196
+  },
+  {
+   "start": 841.202,
+   "end": 845.662,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.817,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.158
+  },
+  {
+   "start": 846.522,
+   "end": 847.982,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.499,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.118
+  },
+  {
+   "start": 848.482,
+   "end": 850.682,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.66,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.124
+  },
+  {
+   "start": 850.862,
+   "end": 853.542,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.715,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.159
+  },
+  {
+   "start": 854.302,
+   "end": 856.462,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.51,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.218
+  },
+  {
+   "start": 857.062,
+   "end": 857.522,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 857.562,
+   "end": 858.062,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 860.062,
+   "end": 860.302,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 860.382,
+   "end": 860.602,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 860.622,
+   "end": 861.022,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 862.122,
+   "end": 863.922,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.566,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.085
+  },
+  {
+   "start": 864.482,
+   "end": 864.602,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 864.722,
+   "end": 864.722,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 864.722,
+   "end": 865.082,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 865.662,
+   "end": 867.122,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.687,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.098
+  },
+  {
+   "start": 867.822,
+   "end": 869.282,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.652,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.15
+  },
+  {
+   "start": 869.802,
+   "end": 871.242,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.507,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.123
+  },
+  {
+   "start": 871.501,
+   "end": 875.742,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.826,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.137
+  },
+  {
+   "start": 876.302,
+   "end": 876.702,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 877.482,
+   "end": 879.902,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.609,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.231
+  },
+  {
+   "start": 879.982,
+   "end": 882.722,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.684,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.096
+  },
+  {
+   "start": 883.322,
+   "end": 885.082,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.782,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.252
+  },
+  {
+   "start": 885.862,
+   "end": 892.622,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.843,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.125
+  },
+  {
+   "start": 893.242,
+   "end": 894.582,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.514,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.141
+  },
+  {
+   "start": 895.242,
+   "end": 898.462,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.756,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.182
+  },
+  {
+   "start": 898.562,
+   "end": 900.662,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.525,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.084
+  },
+  {
+   "start": 901.242,
+   "end": 902.382,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.33,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.124
+  },
+  {
+   "start": 903.222,
+   "end": 909.202,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.82,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.085
+  },
+  {
+   "start": 909.782,
+   "end": 910.722,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.482,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.082
+  },
+  {
+   "start": 911.542,
+   "end": 911.642,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 911.722,
+   "end": 912.202,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 912.222,
+   "end": 912.222,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 912.902,
+   "end": 914.022,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.426,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.064
+  },
+  {
+   "start": 914.782,
+   "end": 920.062,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.754,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.11
+  },
+  {
+   "start": 920.562,
+   "end": 922.762,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.712,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.033
+  },
+  {
+   "start": 923.042,
+   "end": 923.042,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 923.042,
+   "end": 924.102,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.553,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.093
+  },
+  {
+   "start": 924.542,
+   "end": 927.342,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.769,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.142
+  },
+  {
+   "start": 927.622,
+   "end": 932.962,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.72,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.273
+  },
+  {
+   "start": 933.502,
+   "end": 935.422,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.719,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.274
+  },
+  {
+   "start": 936.242,
+   "end": 937.942,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.609,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.138
+  },
+  {
+   "start": 938.622,
+   "end": 945.582,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.81,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.236
+  },
+  {
+   "start": 946.022,
+   "end": 948.422,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.64,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.205
+  },
+  {
+   "start": 949.002,
+   "end": 951.442,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.666,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.172
+  },
+  {
+   "start": 952.202,
+   "end": 952.382,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 952.902,
+   "end": 960.022,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.856,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.166
+  },
+  {
+   "start": 960.562,
+   "end": 962.382,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.725,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.169
+  },
+  {
+   "start": 962.922,
+   "end": 963.122,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 963.202,
+   "end": 965.162,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.674,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.132
+  },
+  {
+   "start": 967.702,
+   "end": 968.242,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 969.042,
+   "end": 969.642,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 970.562,
+   "end": 973.742,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.705,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.232
+  },
+  {
+   "start": 975.622,
+   "end": 978.482,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.554,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.289
+  },
+  {
+   "start": 979.542,
+   "end": 979.922,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 980.002,
+   "end": 980.002,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 980.022,
+   "end": 981.322,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.195,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.2,
+   "low": 1
+  },
+  {
+   "start": 981.342,
+   "end": 981.742,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 982.682,
+   "end": 984.002,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.075,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.007,
+   "low": 1
+  },
+  {
+   "start": 984.422,
+   "end": 985.842,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.349,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.245
+  },
+  {
+   "start": 985.922,
+   "end": 993.322,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.643,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.36
+  },
+  {
+   "start": 994.442,
+   "end": 999.062,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.728,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.25
+  },
+  {
+   "start": 1000.581,
+   "end": 1001.462,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.234,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.232,
+   "low": 1
+  },
+  {
+   "start": 1002.862,
+   "end": 1003.062,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1003.581,
+   "end": 1004.362,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1004.362,
+   "end": 1007.162,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.713,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.181
+  },
+  {
+   "start": 1007.182,
+   "end": 1008.202,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.484,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.16
+  },
+  {
+   "start": 1008.202,
+   "end": 1008.742,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1008.782,
+   "end": 1009.842,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.435,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.188
+  },
+  {
+   "start": 1009.982,
+   "end": 1010.042,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1010.242,
+   "end": 1011.542,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.322,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.058
+  },
+  {
+   "start": 1012.062,
+   "end": 1016.842,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.623,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.36
+  },
+  {
+   "start": 1017.462,
+   "end": 1018.822,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.458,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.247
+  },
+  {
+   "start": 1018.922,
+   "end": 1018.962,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1018.962,
+   "end": 1020.502,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.595,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.246
+  },
+  {
+   "start": 1020.542,
+   "end": 1021.102,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1021.102,
+   "end": 1022.302,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.295,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.194
+  },
+  {
+   "start": 1022.342,
+   "end": 1029.362,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.692,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.272
+  },
+  {
+   "start": 1030.782,
+   "end": 1031.782,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.282,
+   "alt": "Charles Caskey",
+   "alt_sim": -0.016
+  },
+  {
+   "start": 1032.362,
+   "end": 1035.522,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.44,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.136
+  },
+  {
+   "start": 1036.162,
+   "end": 1037.282,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.475,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.102
+  },
+  {
+   "start": 1039.162,
+   "end": 1043.622,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.557,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.278
+  },
+  {
+   "start": 1045.302,
+   "end": 1047.262,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.602,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.242
+  },
+  {
+   "start": 1048.022,
+   "end": 1048.862,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.14,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.01,
+   "low": 1
+  },
+  {
+   "start": 1050.062,
+   "end": 1051.082,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.346,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.079
+  },
+  {
+   "start": 1051.622,
+   "end": 1058.722,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.668,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.322
+  },
+  {
+   "start": 1059.322,
+   "end": 1062.482,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.696,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.228
+  },
+  {
+   "start": 1062.862,
+   "end": 1066.922,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.693,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.242
+  },
+  {
+   "start": 1067.522,
+   "end": 1070.402,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.71,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.205
+  },
+  {
+   "start": 1070.922,
+   "end": 1073.862,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.682,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.257
+  },
+  {
+   "start": 1074.462,
+   "end": 1077.382,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.672,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.218
+  },
+  {
+   "start": 1077.982,
+   "end": 1079.562,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.6,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.314
+  },
+  {
+   "start": 1079.682,
+   "end": 1080.062,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1080.062,
+   "end": 1082.282,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.598,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.298
+  },
+  {
+   "start": 1082.342,
+   "end": 1085.502,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.718,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.281
+  },
+  {
+   "start": 1086.102,
+   "end": 1086.162,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1086.242,
+   "end": 1096.062,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.768,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.251
+  },
+  {
+   "start": 1096.742,
+   "end": 1104.622,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.876,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.265
+  },
+  {
+   "start": 1104.762,
+   "end": 1107.942,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.796,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.24
+  },
+  {
+   "start": 1108.442,
+   "end": 1109.642,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.671,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.228
+  },
+  {
+   "start": 1110.142,
+   "end": 1110.642,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1111.35,
+   "end": 1112.77,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.691,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.191
+  },
+  {
+   "start": 1113.27,
+   "end": 1114.43,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.564,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.088
+  },
+  {
+   "start": 1115.07,
+   "end": 1118.57,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.7,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.255
+  },
+  {
+   "start": 1119.73,
+   "end": 1120.33,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 1121.11,
+   "end": 1121.79,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1122.45,
+   "end": 1125.51,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.655,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.119
+  },
+  {
+   "start": 1126.05,
+   "end": 1126.17,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 1126.99,
+   "end": 1129.65,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.703,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.248
+  },
+  {
+   "start": 1129.81,
+   "end": 1129.81,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1129.81,
+   "end": 1132.25,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.738,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.139
+  },
+  {
+   "start": 1132.39,
+   "end": 1132.53,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1132.71,
+   "end": 1132.93,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 1133.73,
+   "end": 1133.91,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 1134.63,
+   "end": 1134.81,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 1134.93,
+   "end": 1136.85,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.63,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.144
+  },
+  {
+   "start": 1136.99,
+   "end": 1141.07,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.662,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.248
+  },
+  {
+   "start": 1141.59,
+   "end": 1142.17,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1142.69,
+   "end": 1142.99,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1143.07,
+   "end": 1143.23,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 1143.23,
+   "end": 1144.73,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.406,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.095
+  },
+  {
+   "start": 1144.81,
+   "end": 1144.81,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 1144.85,
+   "end": 1145.23,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1145.23,
+   "end": 1145.43,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 1145.89,
+   "end": 1148.37,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.601,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.268
+  },
+  {
+   "start": 1148.65,
+   "end": 1150.09,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.537,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.287
+  },
+  {
+   "start": 1151.03,
+   "end": 1151.47,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 1151.61,
+   "end": 1151.67,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1151.69,
+   "end": 1157.27,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.815,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.191
+  },
+  {
+   "start": 1157.67,
+   "end": 1157.83,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1158.23,
+   "end": 1158.23,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 1158.25,
+   "end": 1163.73,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.761,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.249
+  },
+  {
+   "start": 1164.43,
+   "end": 1172.25,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.79,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.218
+  },
+  {
+   "start": 1172.91,
+   "end": 1173.43,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 1174.29,
+   "end": 1177.99,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.808,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.214
+  },
+  {
+   "start": 1178.73,
+   "end": 1180.71,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.623,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.126
+  },
+  {
+   "start": 1180.93,
+   "end": 1186.19,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.736,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.111
+  },
+  {
+   "start": 1186.39,
+   "end": 1190.97,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.78,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.145
+  },
+  {
+   "start": 1191.59,
+   "end": 1192.35,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 1192.95,
+   "end": 1193.69,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1193.71,
+   "end": 1194.97,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.42,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.041
+  },
+  {
+   "start": 1196.27,
+   "end": 1197.11,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.284,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.095
+  },
+  {
+   "start": 1197.75,
+   "end": 1199.33,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.578,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.204
+  },
+  {
+   "start": 1200.11,
+   "end": 1206.49,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.857,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.251
+  },
+  {
+   "start": 1206.87,
+   "end": 1210.43,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.721,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.12
+  },
+  {
+   "start": 1211.07,
+   "end": 1212.15,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.595,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.093
+  },
+  {
+   "start": 1212.53,
+   "end": 1212.53,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1212.55,
+   "end": 1217.05,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.8,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.144
+  },
+  {
+   "start": 1217.65,
+   "end": 1219.23,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.673,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.095
+  },
+  {
+   "start": 1219.81,
+   "end": 1223.65,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.82,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.21
+  },
+  {
+   "start": 1224.23,
+   "end": 1227.91,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.713,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.126
+  },
+  {
+   "start": 1228.75,
+   "end": 1229.81,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.663,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.202
+  },
+  {
+   "start": 1231.29,
+   "end": 1234.23,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.702,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.208
+  },
+  {
+   "start": 1234.27,
+   "end": 1234.39,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 1234.39,
+   "end": 1236.39,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.723,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.231
+  },
+  {
+   "start": 1236.47,
+   "end": 1236.55,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 1236.55,
+   "end": 1237.15,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1237.21,
+   "end": 1237.33,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 1237.41,
+   "end": 1237.95,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1238.01,
+   "end": 1238.17,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 1238.29,
+   "end": 1238.69,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1238.79,
+   "end": 1239.01,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 1239.63,
+   "end": 1242.57,
+   "label": "speaker_2",
+   "name": "Charles Caskey",
+   "sim": 0.64,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.287,
+   "how": "voice"
+  },
+  {
+   "start": 1243.61,
+   "end": 1244.31,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 1245.35,
+   "end": 1248.11,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.683,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.109
+  },
+  {
+   "start": 1248.63,
+   "end": 1249.23,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 1249.89,
+   "end": 1250.91,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.306,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.101
+  },
+  {
+   "start": 1251.85,
+   "end": 1252.19,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 1252.37,
+   "end": 1257.71,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.721,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.22
+  },
+  {
+   "start": 1258.35,
+   "end": 1262.23,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.735,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.265
+  },
+  {
+   "start": 1263.01,
+   "end": 1268.61,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.775,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.249
+  },
+  {
+   "start": 1268.69,
+   "end": 1268.69,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1268.69,
+   "end": 1271.59,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.745,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.172
+  },
+  {
+   "start": 1272.11,
+   "end": 1274.01,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.672,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.209
+  },
+  {
+   "start": 1274.57,
+   "end": 1274.95,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1275.01,
+   "end": 1275.13,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1275.77,
+   "end": 1275.91,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 1275.95,
+   "end": 1280.77,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.646,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.375
+  },
+  {
+   "start": 1280.81,
+   "end": 1293.35,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.669,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.276
+  },
+  {
+   "start": 1293.45,
+   "end": 1293.69,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1293.69,
+   "end": 1296.73,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.666,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.404
+  },
+  {
+   "start": 1297.27,
+   "end": 1300.19,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.606,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.286
+  },
+  {
+   "start": 1300.27,
+   "end": 1303.51,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.612,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.281
+  },
+  {
+   "start": 1303.61,
+   "end": 1304.67,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.387,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.247
+  },
+  {
+   "start": 1305.19,
+   "end": 1308.83,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.651,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.253
+  },
+  {
+   "start": 1309.41,
+   "end": 1313.35,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.618,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.342
+  },
+  {
+   "start": 1313.87,
+   "end": 1316.87,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.616,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.283
+  },
+  {
+   "start": 1317.41,
+   "end": 1319.75,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.655,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.307
+  },
+  {
+   "start": 1319.83,
+   "end": 1322.57,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.594,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.223
+  },
+  {
+   "start": 1323.23,
+   "end": 1325.09,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.51,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.303
+  },
+  {
+   "start": 1325.19,
+   "end": 1327.99,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.643,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.294
+  },
+  {
+   "start": 1328.71,
+   "end": 1329.53,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.364,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.228
+  },
+  {
+   "start": 1330.13,
+   "end": 1333.89,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.697,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.33
+  },
+  {
+   "start": 1334.75,
+   "end": 1335.99,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.428,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.248
+  },
+  {
+   "start": 1336.67,
+   "end": 1336.67,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1337.03,
+   "end": 1339.41,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.758,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.251
+  },
+  {
+   "start": 1340.03,
+   "end": 1347.77,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.764,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.224
+  },
+  {
+   "start": 1347.89,
+   "end": 1350.09,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.73,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.256
+  },
+  {
+   "start": 1350.51,
+   "end": 1351.57,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.474,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.1
+  },
+  {
+   "start": 1353.03,
+   "end": 1354.47,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.456,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.111
+  },
+  {
+   "start": 1355.13,
+   "end": 1356.61,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.571,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.064
+  },
+  {
+   "start": 1357.15,
+   "end": 1358.45,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.555,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.045
+  },
+  {
+   "start": 1358.45,
+   "end": 1359.27,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.251,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.062
+  },
+  {
+   "start": 1359.43,
+   "end": 1360.27,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.415,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.111
+  },
+  {
+   "start": 1363.17,
+   "end": 1363.31,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 1363.49,
+   "end": 1366.65,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.625,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.195
+  },
+  {
+   "start": 1367.15,
+   "end": 1367.15,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 1367.15,
+   "end": 1368.15,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.407,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.062
+  },
+  {
+   "start": 1368.89,
+   "end": 1370.43,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.581,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.258
+  },
+  {
+   "start": 1373.31,
+   "end": 1373.37,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1373.37,
+   "end": 1374.57,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.199,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.035,
+   "low": 1
+  },
+  {
+   "start": 1374.89,
+   "end": 1378.17,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.584,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.162
+  },
+  {
+   "start": 1381.19,
+   "end": 1381.35,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1382.01,
+   "end": 1384.23,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.449,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.237
+  },
+  {
+   "start": 1384.63,
+   "end": 1385.39,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 1386.71,
+   "end": 1390.65,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.561,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.191
+  },
+  {
+   "start": 1390.93,
+   "end": 1396.57,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.833,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.189
+  },
+  {
+   "start": 1397.09,
+   "end": 1399.11,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.678,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.053
+  },
+  {
+   "start": 1399.33,
+   "end": 1400.23,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.35,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.135
+  },
+  {
+   "start": 1401.39,
+   "end": 1407.09,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.714,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.276
+  },
+  {
+   "start": 1407.71,
+   "end": 1407.79,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 1407.81,
+   "end": 1409.79,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.744,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.275
+  },
+  {
+   "start": 1410.45,
+   "end": 1410.69,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 1411.01,
+   "end": 1413.55,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.662,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.253
+  },
+  {
+   "start": 1413.67,
+   "end": 1420.79,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.803,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.34
+  },
+  {
+   "start": 1421.33,
+   "end": 1425.59,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.716,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.19
+  },
+  {
+   "start": 1426.09,
+   "end": 1426.75,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1427.57,
+   "end": 1429.05,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.508,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.167
+  },
+  {
+   "start": 1429.05,
+   "end": 1433.75,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.86,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.209
+  },
+  {
+   "start": 1434.65,
+   "end": 1436.39,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.616,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.103
+  },
+  {
+   "start": 1436.99,
+   "end": 1437.43,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 1438.27,
+   "end": 1439.71,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.656,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.134
+  },
+  {
+   "start": 1440.27,
+   "end": 1440.45,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 1441.05,
+   "end": 1441.37,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 1442.03,
+   "end": 1443.57,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.633,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.164
+  },
+  {
+   "start": 1444.17,
+   "end": 1446.03,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.502,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.122
+  },
+  {
+   "start": 1446.31,
+   "end": 1447.09,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1448.81,
+   "end": 1448.87,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 1449.45,
+   "end": 1453.41,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.777,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.17
+  },
+  {
+   "start": 1454.17,
+   "end": 1454.57,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 1455.15,
+   "end": 1457.75,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.702,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.122
+  },
+  {
+   "start": 1458.35,
+   "end": 1461.79,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.716,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.173
+  },
+  {
+   "start": 1462.67,
+   "end": 1463.87,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.501,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.114
+  },
+  {
+   "start": 1464.57,
+   "end": 1466.51,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.295,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.05
+  },
+  {
+   "start": 1466.93,
+   "end": 1469.33,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.758,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.195
+  },
+  {
+   "start": 1469.65,
+   "end": 1469.65,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 1469.67,
+   "end": 1470.93,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.718,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.203
+  },
+  {
+   "start": 1471.658,
+   "end": 1477.278,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.753,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.251
+  },
+  {
+   "start": 1478.078,
+   "end": 1481.658,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.626,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.194
+  },
+  {
+   "start": 1481.678,
+   "end": 1481.738,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 1481.798,
+   "end": 1484.278,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.767,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.309
+  },
+  {
+   "start": 1484.878,
+   "end": 1486.298,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.497,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.186
+  },
+  {
+   "start": 1487.418,
+   "end": 1490.438,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.784,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.311
+  },
+  {
+   "start": 1491.718,
+   "end": 1494.738,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.762,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.244
+  },
+  {
+   "start": 1495.418,
+   "end": 1502.218,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.817,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.291
+  },
+  {
+   "start": 1502.818,
+   "end": 1502.878,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 1502.958,
+   "end": 1509.158,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.827,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.267
+  },
+  {
+   "start": 1509.438,
+   "end": 1511.218,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.66,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.272
+  },
+  {
+   "start": 1511.998,
+   "end": 1513.858,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.716,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.201
+  },
+  {
+   "start": 1514.058,
+   "end": 1519.458,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.817,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.254
+  },
+  {
+   "start": 1519.558,
+   "end": 1521.258,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.624,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.273
+  },
+  {
+   "start": 1521.398,
+   "end": 1523.958,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.797,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.254
+  },
+  {
+   "start": 1524.538,
+   "end": 1526.638,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.584,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.162
+  },
+  {
+   "start": 1527.298,
+   "end": 1530.398,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.737,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.167
+  },
+  {
+   "start": 1531.098,
+   "end": 1531.098,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 1531.138,
+   "end": 1532.238,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.672,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.21
+  },
+  {
+   "start": 1532.698,
+   "end": 1532.718,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 1532.778,
+   "end": 1536.338,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.812,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.269
+  },
+  {
+   "start": 1536.878,
+   "end": 1537.838,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.658,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.173
+  },
+  {
+   "start": 1539.098,
+   "end": 1539.478,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 1540.058,
+   "end": 1542.478,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.724,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.19
+  },
+  {
+   "start": 1543.358,
+   "end": 1543.358,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 1543.398,
+   "end": 1544.778,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.659,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.307
+  },
+  {
+   "start": 1545.058,
+   "end": 1547.778,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.765,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.209
+  },
+  {
+   "start": 1548.038,
+   "end": 1554.358,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.802,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.275
+  },
+  {
+   "start": 1555.098,
+   "end": 1556.398,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.508,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.106
+  },
+  {
+   "start": 1557.238,
+   "end": 1557.698,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 1558.218,
+   "end": 1562.858,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.746,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.173
+  },
+  {
+   "start": 1563.718,
+   "end": 1563.878,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 1564.598,
+   "end": 1566.058,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.547,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.183
+  },
+  {
+   "start": 1566.798,
+   "end": 1568.918,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.627,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.18
+  },
+  {
+   "start": 1569.638,
+   "end": 1570.138,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 1570.758,
+   "end": 1575.138,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.784,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.208
+  },
+  {
+   "start": 1575.798,
+   "end": 1579.598,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.717,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.178
+  },
+  {
+   "start": 1580.158,
+   "end": 1583.578,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.797,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.186
+  },
+  {
+   "start": 1584.198,
+   "end": 1584.218,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 1584.798,
+   "end": 1593.658,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.87,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.144
+  },
+  {
+   "start": 1594.598,
+   "end": 1594.638,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1594.718,
+   "end": 1594.858,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 1595.418,
+   "end": 1599.778,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.798,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.119
+  },
+  {
+   "start": 1600.137,
+   "end": 1604.418,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.758,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.101
+  },
+  {
+   "start": 1605.178,
+   "end": 1608.318,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.711,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.062
+  },
+  {
+   "start": 1609.118,
+   "end": 1614.438,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.805,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.128
+  },
+  {
+   "start": 1615.058,
+   "end": 1616.718,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.357,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.007
+  },
+  {
+   "start": 1617.218,
+   "end": 1618.898,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.401,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.262
+  },
+  {
+   "start": 1619.538,
+   "end": 1620.898,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.566,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.129
+  },
+  {
+   "start": 1621.498,
+   "end": 1623.298,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.614,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.166
+  },
+  {
+   "start": 1624.678,
+   "end": 1625.918,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.462,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.203
+  },
+  {
+   "start": 1626.718,
+   "end": 1626.878,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 1626.998,
+   "end": 1634.938,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.642,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.298
+  },
+  {
+   "start": 1635.598,
+   "end": 1643.298,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.667,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.282
+  },
+  {
+   "start": 1643.358,
+   "end": 1647.758,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.661,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.308
+  },
+  {
+   "start": 1648.318,
+   "end": 1649.458,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.25,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.202
+  },
+  {
+   "start": 1649.518,
+   "end": 1650.918,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.486,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.287
+  },
+  {
+   "start": 1650.978,
+   "end": 1652.678,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.544,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.325
+  },
+  {
+   "start": 1653.238,
+   "end": 1653.298,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 1653.358,
+   "end": 1659.338,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.715,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.291
+  },
+  {
+   "start": 1659.878,
+   "end": 1661.878,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.424,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.224
+  },
+  {
+   "start": 1662.378,
+   "end": 1665.118,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.587,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.283
+  },
+  {
+   "start": 1665.218,
+   "end": 1668.458,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.561,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.284
+  },
+  {
+   "start": 1668.538,
+   "end": 1670.798,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.577,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.319
+  },
+  {
+   "start": 1671.218,
+   "end": 1672.138,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.303,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.105
+  },
+  {
+   "start": 1672.738,
+   "end": 1675.058,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.696,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.152
+  },
+  {
+   "start": 1675.498,
+   "end": 1680.598,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.796,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.148
+  },
+  {
+   "start": 1681.118,
+   "end": 1685.818,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.825,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.141
+  },
+  {
+   "start": 1686.398,
+   "end": 1686.998,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 1687.618,
+   "end": 1687.898,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 1688.718,
+   "end": 1692.198,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.811,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.194
+  },
+  {
+   "start": 1692.798,
+   "end": 1694.698,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.479,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.153
+  },
+  {
+   "start": 1695.278,
+   "end": 1697.598,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.721,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.15
+  },
+  {
+   "start": 1697.718,
+   "end": 1699.958,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.685,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.139
+  },
+  {
+   "start": 1700.498,
+   "end": 1701.298,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 1701.878,
+   "end": 1703.478,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.488,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.198
+  },
+  {
+   "start": 1704.498,
+   "end": 1705.078,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1705.158,
+   "end": 1705.518,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 1705.518,
+   "end": 1710.398,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.629,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.215
+  },
+  {
+   "start": 1711.238,
+   "end": 1712.998,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.517,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.277
+  },
+  {
+   "start": 1713.058,
+   "end": 1716.818,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.573,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.327
+  },
+  {
+   "start": 1717.118,
+   "end": 1717.118,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 1717.118,
+   "end": 1721.078,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.631,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.31
+  },
+  {
+   "start": 1721.378,
+   "end": 1721.478,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 1721.478,
+   "end": 1728.678,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.775,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.218
+  },
+  {
+   "start": 1730.397,
+   "end": 1730.438,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1730.457,
+   "end": 1740.918,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.719,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.306
+  },
+  {
+   "start": 1741.318,
+   "end": 1742.778,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.497,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.111
+  },
+  {
+   "start": 1743.158,
+   "end": 1751.218,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.613,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.258
+  },
+  {
+   "start": 1751.238,
+   "end": 1751.598,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1751.618,
+   "end": 1754.938,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.611,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.244
+  },
+  {
+   "start": 1754.978,
+   "end": 1756.618,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.564,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.367
+  },
+  {
+   "start": 1756.678,
+   "end": 1757.258,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1757.398,
+   "end": 1758.198,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.177,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.142,
+   "low": 1
+  },
+  {
+   "start": 1758.238,
+   "end": 1764.158,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.766,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.32
+  },
+  {
+   "start": 1764.198,
+   "end": 1764.918,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1765.018,
+   "end": 1767.638,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.496,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.104
+  },
+  {
+   "start": 1768.278,
+   "end": 1773.658,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.681,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.172
+  },
+  {
+   "start": 1773.738,
+   "end": 1774.018,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1774.018,
+   "end": 1776.058,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.692,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.189
+  },
+  {
+   "start": 1776.678,
+   "end": 1777.458,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1777.978,
+   "end": 1785.938,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.772,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.296
+  },
+  {
+   "start": 1786.638,
+   "end": 1787.518,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.664,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.26
+  },
+  {
+   "start": 1788.198,
+   "end": 1792.658,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.751,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.313
+  },
+  {
+   "start": 1793.558,
+   "end": 1796.458,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.711,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.207
+  },
+  {
+   "start": 1796.598,
+   "end": 1798.138,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.65,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.256
+  },
+  {
+   "start": 1798.858,
+   "end": 1799.178,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1799.298,
+   "end": 1799.398,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1799.398,
+   "end": 1805.098,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.763,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.295
+  },
+  {
+   "start": 1805.698,
+   "end": 1806.058,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1806.098,
+   "end": 1809.038,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.66,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.169
+  },
+  {
+   "start": 1809.658,
+   "end": 1815.398,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.775,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.151
+  },
+  {
+   "start": 1815.438,
+   "end": 1815.478,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 1815.498,
+   "end": 1816.558,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.439,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.208
+  },
+  {
+   "start": 1817.458,
+   "end": 1818.418,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.525,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.199
+  },
+  {
+   "start": 1818.958,
+   "end": 1819.718,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1820.258,
+   "end": 1820.378,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 1821.638,
+   "end": 1823.858,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.533,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.131
+  },
+  {
+   "start": 1824.478,
+   "end": 1825.658,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.249,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.087,
+   "low": 1
+  },
+  {
+   "start": 1825.998,
+   "end": 1826.058,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1826.078,
+   "end": 1826.138,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1826.258,
+   "end": 1826.578,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1827.078,
+   "end": 1827.818,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 1828.078,
+   "end": 1830.818,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.614,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.231
+  },
+  {
+   "start": 1830.898,
+   "end": 1834.078,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.753,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.251
+  },
+  {
+   "start": 1834.718,
+   "end": 1834.798,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1834.818,
+   "end": 1840.838,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.765,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.259
+  },
+  {
+   "start": 1841.458,
+   "end": 1846.118,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.728,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.225
+  },
+  {
+   "start": 1846.218,
+   "end": 1846.858,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1846.978,
+   "end": 1850.138,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.741,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.227
+  },
+  {
+   "start": 1850.278,
+   "end": 1851.718,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.626,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.292
+  },
+  {
+   "start": 1851.898,
+   "end": 1853.538,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.693,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.202
+  },
+  {
+   "start": 1853.758,
+   "end": 1855.618,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.782,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.258
+  },
+  {
+   "start": 1856.258,
+   "end": 1857.138,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.439,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.109
+  },
+  {
+   "start": 1857.986,
+   "end": 1868.386,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.685,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.264
+  },
+  {
+   "start": 1868.966,
+   "end": 1871.486,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.756,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.243
+  },
+  {
+   "start": 1873.066,
+   "end": 1876.046,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.786,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.254
+  },
+  {
+   "start": 1876.106,
+   "end": 1877.226,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.62,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.28
+  },
+  {
+   "start": 1877.446,
+   "end": 1878.466,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.431,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.16
+  },
+  {
+   "start": 1878.766,
+   "end": 1879.266,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 1881.046,
+   "end": 1881.206,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 1881.326,
+   "end": 1889.806,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.793,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.253
+  },
+  {
+   "start": 1890.006,
+   "end": 1893.226,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.693,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.196
+  },
+  {
+   "start": 1893.986,
+   "end": 1894.466,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 1894.506,
+   "end": 1894.526,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1894.546,
+   "end": 1895.486,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.439,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.07
+  },
+  {
+   "start": 1896.286,
+   "end": 1900.726,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.78,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.087
+  },
+  {
+   "start": 1901.226,
+   "end": 1901.706,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 1901.946,
+   "end": 1902.126,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1902.886,
+   "end": 1902.886,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 1902.926,
+   "end": 1905.666,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.54,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.146
+  },
+  {
+   "start": 1905.806,
+   "end": 1907.186,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.653,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.162
+  },
+  {
+   "start": 1907.726,
+   "end": 1908.666,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.605,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.18
+  },
+  {
+   "start": 1909.166,
+   "end": 1911.846,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.653,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.134
+  },
+  {
+   "start": 1911.986,
+   "end": 1913.326,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.507,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.181
+  },
+  {
+   "start": 1913.426,
+   "end": 1916.026,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.629,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.205
+  },
+  {
+   "start": 1916.566,
+   "end": 1916.946,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1916.946,
+   "end": 1917.466,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 1917.506,
+   "end": 1919.486,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.581,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.13
+  },
+  {
+   "start": 1919.646,
+   "end": 1921.566,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.695,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.135
+  },
+  {
+   "start": 1922.165,
+   "end": 1925.646,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.628,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.299
+  },
+  {
+   "start": 1925.826,
+   "end": 1926.086,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 1926.126,
+   "end": 1926.306,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1926.326,
+   "end": 1928.846,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.552,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.121
+  },
+  {
+   "start": 1928.946,
+   "end": 1929.026,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1929.046,
+   "end": 1929.066,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 1929.086,
+   "end": 1929.766,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1930.886,
+   "end": 1932.026,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.432,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.094
+  },
+  {
+   "start": 1932.606,
+   "end": 1935.306,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.725,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.148
+  },
+  {
+   "start": 1936.086,
+   "end": 1938.746,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.693,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.073
+  },
+  {
+   "start": 1939.446,
+   "end": 1939.566,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 1939.946,
+   "end": 1940.406,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1940.526,
+   "end": 1940.866,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 1940.966,
+   "end": 1941.366,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1941.366,
+   "end": 1942.046,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 1942.946,
+   "end": 1951.526,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.876,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.151
+  },
+  {
+   "start": 1951.586,
+   "end": 1957.226,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.727,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.218
+  },
+  {
+   "start": 1957.266,
+   "end": 1957.346,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 1957.346,
+   "end": 1957.966,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1958.586,
+   "end": 1960.926,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.716,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.244
+  },
+  {
+   "start": 1961.546,
+   "end": 1961.646,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 1961.646,
+   "end": 1964.826,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.588,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.228
+  },
+  {
+   "start": 1965.066,
+   "end": 1967.106,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.757,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.191
+  },
+  {
+   "start": 1967.146,
+   "end": 1967.226,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1967.246,
+   "end": 1967.666,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1967.746,
+   "end": 1969.066,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.131,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.038,
+   "low": 1
+  },
+  {
+   "start": 1970.166,
+   "end": 1973.686,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.707,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.407
+  },
+  {
+   "start": 1973.746,
+   "end": 1974.006,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1974.046,
+   "end": 1974.986,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.565,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.097
+  },
+  {
+   "start": 1975.846,
+   "end": 1976.686,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.523,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.106
+  },
+  {
+   "start": 1977.326,
+   "end": 1986.925,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.743,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.293
+  },
+  {
+   "start": 1987.366,
+   "end": 1991.926,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.668,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.337
+  },
+  {
+   "start": 1991.966,
+   "end": 1992.166,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 1992.166,
+   "end": 1993.426,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.322,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.119
+  },
+  {
+   "start": 1993.506,
+   "end": 1994.166,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1994.506,
+   "end": 1997.466,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.56,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.314
+  },
+  {
+   "start": 1997.706,
+   "end": 2011.966,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.784,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.315
+  },
+  {
+   "start": 2012.366,
+   "end": 2014.426,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.645,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.184
+  },
+  {
+   "start": 2014.706,
+   "end": 2015.306,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2015.906,
+   "end": 2019.626,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.602,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.368
+  },
+  {
+   "start": 2019.686,
+   "end": 2020.886,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.398,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.179
+  },
+  {
+   "start": 2020.926,
+   "end": 2022.306,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.575,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.211
+  },
+  {
+   "start": 2022.966,
+   "end": 2024.886,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.215,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.148,
+   "low": 1
+  },
+  {
+   "start": 2025.306,
+   "end": 2030.006,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.679,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.302
+  },
+  {
+   "start": 2031.986,
+   "end": 2033.326,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.335,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.2
+  },
+  {
+   "start": 2033.806,
+   "end": 2033.946,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2034.986,
+   "end": 2035.066,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2036.506,
+   "end": 2041.166,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.766,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.151
+  },
+  {
+   "start": 2041.806,
+   "end": 2042.286,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2042.286,
+   "end": 2042.866,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 2042.886,
+   "end": 2044.946,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.698,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.331
+  },
+  {
+   "start": 2045.086,
+   "end": 2046.886,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.54,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.293
+  },
+  {
+   "start": 2047.066,
+   "end": 2048.966,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.727,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.171
+  },
+  {
+   "start": 2049.526,
+   "end": 2050.766,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.643,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.119
+  },
+  {
+   "start": 2051.186,
+   "end": 2051.186,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2051.186,
+   "end": 2053.366,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.708,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.174
+  },
+  {
+   "start": 2053.886,
+   "end": 2056.446,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.746,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.178
+  },
+  {
+   "start": 2057.146,
+   "end": 2057.166,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2057.206,
+   "end": 2060.026,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.622,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.149
+  },
+  {
+   "start": 2060.466,
+   "end": 2062.326,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.597,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.211
+  },
+  {
+   "start": 2063.106,
+   "end": 2065.846,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.781,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.181
+  },
+  {
+   "start": 2066.546,
+   "end": 2067.206,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2068.246,
+   "end": 2068.426,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2069.346,
+   "end": 2069.646,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2069.666,
+   "end": 2069.786,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2069.846,
+   "end": 2071.426,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.555,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.292
+  },
+  {
+   "start": 2071.546,
+   "end": 2074.606,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.646,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.37
+  },
+  {
+   "start": 2075.106,
+   "end": 2077.746,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.531,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.218
+  },
+  {
+   "start": 2079.186,
+   "end": 2080.786,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.582,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.091
+  },
+  {
+   "start": 2081.146,
+   "end": 2083.326,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.528,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.222
+  },
+  {
+   "start": 2083.686,
+   "end": 2084.706,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.147,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.075,
+   "low": 1
+  },
+  {
+   "start": 2084.746,
+   "end": 2086.106,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.396,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.125
+  },
+  {
+   "start": 2086.666,
+   "end": 2088.606,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.641,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.126
+  },
+  {
+   "start": 2088.626,
+   "end": 2089.566,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.096,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.076,
+   "low": 1
+  },
+  {
+   "start": 2089.646,
+   "end": 2092.786,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.656,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.384
+  },
+  {
+   "start": 2092.806,
+   "end": 2092.966,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2092.986,
+   "end": 2097.346,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.761,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.195
+  },
+  {
+   "start": 2097.966,
+   "end": 2102.866,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.731,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.289
+  },
+  {
+   "start": 2102.906,
+   "end": 2102.906,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 2102.906,
+   "end": 2104.366,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.591,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.134
+  },
+  {
+   "start": 2104.426,
+   "end": 2107.486,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.761,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.203
+  },
+  {
+   "start": 2108.006,
+   "end": 2109.826,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.708,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.141
+  },
+  {
+   "start": 2110.706,
+   "end": 2111.366,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2111.366,
+   "end": 2111.366,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2115.386,
+   "end": 2117.986,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.644,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.301
+  },
+  {
+   "start": 2118.786,
+   "end": 2122.306,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.625,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.191
+  },
+  {
+   "start": 2122.606,
+   "end": 2122.606,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2122.606,
+   "end": 2123.846,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.59,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.244
+  },
+  {
+   "start": 2124.246,
+   "end": 2125.626,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.65,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.201
+  },
+  {
+   "start": 2125.686,
+   "end": 2128.586,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.741,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.247
+  },
+  {
+   "start": 2129.146,
+   "end": 2129.166,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 2129.206,
+   "end": 2129.806,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2129.926,
+   "end": 2130.026,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2130.106,
+   "end": 2130.746,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2131.366,
+   "end": 2132.326,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.443,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.114
+  },
+  {
+   "start": 2132.766,
+   "end": 2134.286,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.521,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.292
+  },
+  {
+   "start": 2134.406,
+   "end": 2137.086,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.772,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.246
+  },
+  {
+   "start": 2137.486,
+   "end": 2137.486,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2137.486,
+   "end": 2142.246,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.806,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.199
+  },
+  {
+   "start": 2142.386,
+   "end": 2142.626,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2142.626,
+   "end": 2143.366,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2143.946,
+   "end": 2145.746,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.673,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.174
+  },
+  {
+   "start": 2146.146,
+   "end": 2148.426,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.674,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.168
+  },
+  {
+   "start": 2149.026,
+   "end": 2152.946,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.595,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.109
+  },
+  {
+   "start": 2153.666,
+   "end": 2153.966,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2154.106,
+   "end": 2154.226,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 2154.926,
+   "end": 2157.526,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.776,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.229
+  },
+  {
+   "start": 2157.666,
+   "end": 2159.586,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.515,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.163
+  },
+  {
+   "start": 2159.666,
+   "end": 2164.846,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.713,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.127
+  },
+  {
+   "start": 2165.426,
+   "end": 2166.166,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 2166.306,
+   "end": 2166.606,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2166.606,
+   "end": 2167.006,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 2167.726,
+   "end": 2170.526,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.605,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.095
+  },
+  {
+   "start": 2171.486,
+   "end": 2171.606,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2171.726,
+   "end": 2172.206,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 2172.666,
+   "end": 2172.806,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2174.226,
+   "end": 2176.126,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.768,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.153
+  },
+  {
+   "start": 2176.806,
+   "end": 2176.846,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 2178.566,
+   "end": 2179.306,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2181.006,
+   "end": 2182.986,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.457,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.054
+  },
+  {
+   "start": 2183.786,
+   "end": 2183.866,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 2184.026,
+   "end": 2184.146,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2185.006,
+   "end": 2185.726,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2186.666,
+   "end": 2190.646,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.639,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.38
+  },
+  {
+   "start": 2191.246,
+   "end": 2191.666,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2191.786,
+   "end": 2191.826,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 2191.826,
+   "end": 2192.926,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.703,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.229
+  },
+  {
+   "start": 2194.166,
+   "end": 2194.326,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 2194.366,
+   "end": 2194.846,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2195.606,
+   "end": 2199.386,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.712,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.146
+  },
+  {
+   "start": 2200.106,
+   "end": 2201.546,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.553,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.134
+  },
+  {
+   "start": 2202.126,
+   "end": 2204.966,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.695,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.143
+  },
+  {
+   "start": 2205.526,
+   "end": 2206.166,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 2206.766,
+   "end": 2208.146,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.611,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.148
+  },
+  {
+   "start": 2209.066,
+   "end": 2213.106,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.769,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.15
+  },
+  {
+   "start": 2213.286,
+   "end": 2214.666,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.636,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.155
+  },
+  {
+   "start": 2215.166,
+   "end": 2216.186,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.437,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.203
+  },
+  {
+   "start": 2216.706,
+   "end": 2217.346,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 2218.202,
+   "end": 2218.602,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 2219.142,
+   "end": 2219.862,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 2220.922,
+   "end": 2223.362,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.638,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.173
+  },
+  {
+   "start": 2223.482,
+   "end": 2223.762,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2223.922,
+   "end": 2224.222,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2225.502,
+   "end": 2225.522,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 2226.082,
+   "end": 2227.362,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.662,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.138
+  },
+  {
+   "start": 2227.622,
+   "end": 2229.762,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.357,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.345
+  },
+  {
+   "start": 2229.802,
+   "end": 2231.202,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.363,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.195
+  },
+  {
+   "start": 2231.242,
+   "end": 2236.502,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.651,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.276
+  },
+  {
+   "start": 2237.002,
+   "end": 2242.422,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.65,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.295
+  },
+  {
+   "start": 2242.462,
+   "end": 2243.662,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.525,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.161
+  },
+  {
+   "start": 2244.402,
+   "end": 2245.022,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2245.022,
+   "end": 2245.042,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2245.042,
+   "end": 2245.902,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.604,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.127
+  },
+  {
+   "start": 2246.882,
+   "end": 2247.182,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2247.922,
+   "end": 2247.922,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 2247.982,
+   "end": 2248.522,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2248.542,
+   "end": 2248.782,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2248.842,
+   "end": 2250.722,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.428,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.297
+  },
+  {
+   "start": 2251.602,
+   "end": 2252.722,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.163,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.07,
+   "low": 1
+  },
+  {
+   "start": 2253.422,
+   "end": 2256.142,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.729,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.121
+  },
+  {
+   "start": 2256.702,
+   "end": 2256.862,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 2257.822,
+   "end": 2262.542,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.77,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.135
+  },
+  {
+   "start": 2263.142,
+   "end": 2263.802,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 2264.342,
+   "end": 2270.182,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.781,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.1
+  },
+  {
+   "start": 2271.422,
+   "end": 2272.922,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.763,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.182
+  },
+  {
+   "start": 2273.442,
+   "end": 2278.302,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.845,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.202
+  },
+  {
+   "start": 2279.162,
+   "end": 2279.222,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 2279.302,
+   "end": 2280.442,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.501,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.121
+  },
+  {
+   "start": 2281.002,
+   "end": 2282.882,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.676,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.303
+  },
+  {
+   "start": 2283.942,
+   "end": 2284.802,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.493,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.146
+  },
+  {
+   "start": 2285.302,
+   "end": 2291.282,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.828,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.306
+  },
+  {
+   "start": 2291.822,
+   "end": 2291.822,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2291.842,
+   "end": 2292.082,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 2292.842,
+   "end": 2295.302,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.712,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.196
+  },
+  {
+   "start": 2295.902,
+   "end": 2299.942,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.827,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.123
+  },
+  {
+   "start": 2300.482,
+   "end": 2302.182,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.518,
+   "alt": "Keith Murphy",
+   "alt_sim": -0.004
+  },
+  {
+   "start": 2303.142,
+   "end": 2304.842,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.646,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.097
+  },
+  {
+   "start": 2305.542,
+   "end": 2309.902,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.71,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.116
+  },
+  {
+   "start": 2310.022,
+   "end": 2310.702,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2310.822,
+   "end": 2311.262,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2311.882,
+   "end": 2312.302,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2312.342,
+   "end": 2317.682,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.672,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.268
+  },
+  {
+   "start": 2317.722,
+   "end": 2321.382,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.588,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.237
+  },
+  {
+   "start": 2321.902,
+   "end": 2322.782,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.226,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.049,
+   "low": 1
+  },
+  {
+   "start": 2322.922,
+   "end": 2322.982,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2323.002,
+   "end": 2327.302,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.622,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.287
+  },
+  {
+   "start": 2327.722,
+   "end": 2327.722,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 2327.722,
+   "end": 2331.322,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.671,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.187
+  },
+  {
+   "start": 2331.462,
+   "end": 2332.022,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2332.182,
+   "end": 2333.802,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.395,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.337
+  },
+  {
+   "start": 2334.002,
+   "end": 2347.342,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.868,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.144
+  },
+  {
+   "start": 2347.362,
+   "end": 2347.982,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2348.161,
+   "end": 2348.161,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 2348.202,
+   "end": 2352.682,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.786,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.227
+  },
+  {
+   "start": 2352.722,
+   "end": 2352.782,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 2353.342,
+   "end": 2353.342,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 2353.402,
+   "end": 2354.802,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.516,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.246
+  },
+  {
+   "start": 2354.902,
+   "end": 2358.982,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.843,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.312
+  },
+  {
+   "start": 2359.842,
+   "end": 2361.702,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.587,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.118
+  },
+  {
+   "start": 2362.422,
+   "end": 2366.242,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.746,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.334
+  },
+  {
+   "start": 2366.402,
+   "end": 2367.862,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.569,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.193
+  },
+  {
+   "start": 2368.822,
+   "end": 2369.342,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 2369.382,
+   "end": 2371.522,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.605,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.281
+  },
+  {
+   "start": 2371.642,
+   "end": 2375.202,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.789,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.24
+  },
+  {
+   "start": 2375.762,
+   "end": 2377.902,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.571,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.248
+  },
+  {
+   "start": 2378.062,
+   "end": 2379.622,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.495,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.249
+  },
+  {
+   "start": 2379.702,
+   "end": 2379.962,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2380.002,
+   "end": 2380.162,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2380.862,
+   "end": 2381.102,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2382.222,
+   "end": 2383.282,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.398,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.079
+  },
+  {
+   "start": 2383.742,
+   "end": 2383.742,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2383.742,
+   "end": 2388.282,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.744,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.171
+  },
+  {
+   "start": 2388.842,
+   "end": 2389.602,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 2390.242,
+   "end": 2392.082,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.593,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.201
+  },
+  {
+   "start": 2392.742,
+   "end": 2392.842,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2392.842,
+   "end": 2395.502,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.685,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.208
+  },
+  {
+   "start": 2396.022,
+   "end": 2404.702,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.689,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.325
+  },
+  {
+   "start": 2405.142,
+   "end": 2405.402,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 2405.402,
+   "end": 2407.502,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.624,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.183
+  },
+  {
+   "start": 2408.062,
+   "end": 2408.602,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2408.762,
+   "end": 2408.802,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2409.002,
+   "end": 2410.522,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.483,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.246
+  },
+  {
+   "start": 2410.882,
+   "end": 2413.242,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.586,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.298
+  },
+  {
+   "start": 2413.242,
+   "end": 2413.242,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2413.302,
+   "end": 2415.742,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.513,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.251
+  },
+  {
+   "start": 2416.322,
+   "end": 2417.962,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.46,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.306
+  },
+  {
+   "start": 2418.502,
+   "end": 2420.762,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.56,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.231
+  },
+  {
+   "start": 2420.822,
+   "end": 2420.822,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2420.822,
+   "end": 2424.722,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.627,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.306
+  },
+  {
+   "start": 2424.782,
+   "end": 2426.802,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.462,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.308
+  },
+  {
+   "start": 2426.802,
+   "end": 2426.902,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2426.922,
+   "end": 2428.302,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.501,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.17
+  },
+  {
+   "start": 2428.782,
+   "end": 2432.282,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.519,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.3
+  },
+  {
+   "start": 2432.402,
+   "end": 2434.502,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.63,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.315
+  },
+  {
+   "start": 2435.082,
+   "end": 2437.382,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.595,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.274
+  },
+  {
+   "start": 2438.002,
+   "end": 2438.842,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.02,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.024,
+   "low": 1
+  },
+  {
+   "start": 2439.342,
+   "end": 2439.342,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2439.342,
+   "end": 2442.102,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.569,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.192
+  },
+  {
+   "start": 2442.582,
+   "end": 2443.802,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.347,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.164
+  },
+  {
+   "start": 2444.362,
+   "end": 2447.102,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.636,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.221
+  },
+  {
+   "start": 2448.342,
+   "end": 2448.482,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2448.562,
+   "end": 2448.562,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2448.642,
+   "end": 2448.802,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2449.662,
+   "end": 2449.922,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2449.922,
+   "end": 2452.822,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.602,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.125
+  },
+  {
+   "start": 2452.822,
+   "end": 2453.362,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2453.382,
+   "end": 2454.022,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2454.602,
+   "end": 2456.022,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.362,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.303
+  },
+  {
+   "start": 2456.162,
+   "end": 2456.342,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 2456.362,
+   "end": 2457.662,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.382,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.366
+  },
+  {
+   "start": 2457.902,
+   "end": 2462.582,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.731,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.216
+  },
+  {
+   "start": 2463.122,
+   "end": 2463.922,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.156,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.039,
+   "low": 1
+  },
+  {
+   "start": 2463.982,
+   "end": 2466.842,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.718,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.136
+  },
+  {
+   "start": 2467.122,
+   "end": 2467.222,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2467.222,
+   "end": 2468.562,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.496,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.212
+  },
+  {
+   "start": 2469.142,
+   "end": 2475.442,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.834,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.101
+  },
+  {
+   "start": 2475.562,
+   "end": 2475.562,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2475.582,
+   "end": 2475.801,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 2476.182,
+   "end": 2476.182,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2476.182,
+   "end": 2477.562,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.33,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.074
+  },
+  {
+   "start": 2478.041,
+   "end": 2478.182,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2478.242,
+   "end": 2486.882,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.802,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.312
+  },
+  {
+   "start": 2487.642,
+   "end": 2488.002,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2488.242,
+   "end": 2488.362,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2489.302,
+   "end": 2492.742,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.715,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.327
+  },
+  {
+   "start": 2493.282,
+   "end": 2495.682,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.683,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.136
+  },
+  {
+   "start": 2495.922,
+   "end": 2497.302,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.575,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.209
+  },
+  {
+   "start": 2497.662,
+   "end": 2500.182,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.581,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.345
+  },
+  {
+   "start": 2500.282,
+   "end": 2500.282,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 2500.302,
+   "end": 2500.962,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2501.002,
+   "end": 2501.382,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2501.402,
+   "end": 2503.582,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.717,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.257
+  },
+  {
+   "start": 2504.242,
+   "end": 2505.542,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.461,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.273
+  },
+  {
+   "start": 2505.782,
+   "end": 2507.002,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.377,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.049
+  },
+  {
+   "start": 2507.022,
+   "end": 2507.502,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2507.962,
+   "end": 2510.642,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.552,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.112
+  },
+  {
+   "start": 2510.982,
+   "end": 2511.682,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2511.722,
+   "end": 2514.242,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.629,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.108
+  },
+  {
+   "start": 2514.322,
+   "end": 2515.422,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.373,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.179
+  },
+  {
+   "start": 2515.442,
+   "end": 2516.522,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.132,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.171,
+   "low": 1
+  },
+  {
+   "start": 2516.562,
+   "end": 2516.762,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 2516.822,
+   "end": 2516.902,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2517.042,
+   "end": 2518.262,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.304,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.185
+  },
+  {
+   "start": 2518.342,
+   "end": 2521.242,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.728,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.309
+  },
+  {
+   "start": 2521.942,
+   "end": 2523.142,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.576,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.213
+  },
+  {
+   "start": 2524.582,
+   "end": 2525.542,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.234,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.234,
+   "low": 1
+  },
+  {
+   "start": 2525.742,
+   "end": 2526.542,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2528.282,
+   "end": 2528.702,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2529.402,
+   "end": 2531.802,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.638,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.162
+  },
+  {
+   "start": 2532.282,
+   "end": 2532.282,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 2532.302,
+   "end": 2535.322,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.749,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.282
+  },
+  {
+   "start": 2535.422,
+   "end": 2536.822,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.581,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.175
+  },
+  {
+   "start": 2538.702,
+   "end": 2539.642,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.307,
+   "alt": "Charles Caskey",
+   "alt_sim": -0.02
+  },
+  {
+   "start": 2540.182,
+   "end": 2540.262,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 2541.462,
+   "end": 2542.842,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.396,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.153
+  },
+  {
+   "start": 2543.282,
+   "end": 2549.162,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.704,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.018
+  },
+  {
+   "start": 2549.282,
+   "end": 2552.162,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.583,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.14
+  },
+  {
+   "start": 2552.162,
+   "end": 2552.982,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.096,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.082,
+   "low": 1
+  },
+  {
+   "start": 2553.682,
+   "end": 2554.102,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 2554.142,
+   "end": 2556.042,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.374,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.195
+  },
+  {
+   "start": 2556.042,
+   "end": 2557.762,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": 0.447,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.174
+  },
+  {
+   "start": 2557.802,
+   "end": 2557.862,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2557.862,
+   "end": 2558.322,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 2558.762,
+   "end": 2560.562,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.384,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.192
+  },
+  {
+   "start": 2560.582,
+   "end": 2561.262,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2561.802,
+   "end": 2563.562,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.019,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.065,
+   "low": 1
+  },
+  {
+   "start": 2564.762,
+   "end": 2565.082,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2565.442,
+   "end": 2568.422,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.483,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.167
+  },
+  {
+   "start": 2568.482,
+   "end": 2569.002,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2569.022,
+   "end": 2573.042,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.588,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.225
+  },
+  {
+   "start": 2573.062,
+   "end": 2573.062,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 2573.102,
+   "end": 2575.462,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.515,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.317
+  },
+  {
+   "start": 2575.582,
+   "end": 2575.622,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2575.642,
+   "end": 2577.122,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.348,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.264
+  },
+  {
+   "start": 2577.222,
+   "end": 2580.982,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.661,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.208
+  },
+  {
+   "start": 2581.442,
+   "end": 2581.522,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2581.562,
+   "end": 2583.382,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.529,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.137
+  },
+  {
+   "start": 2583.982,
+   "end": 2584.062,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 2584.102,
+   "end": 2587.582,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.428,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.362
+  },
+  {
+   "start": 2587.702,
+   "end": 2587.862,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2587.882,
+   "end": 2588.882,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.124,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.245,
+   "low": 1
+  },
+  {
+   "start": 2589.462,
+   "end": 2589.462,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu"
+  },
+  {
+   "start": 2589.542,
+   "end": 2589.702,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2590.322,
+   "end": 2592.462,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.544,
+   "alt": "Zhihai Qiu",
+   "alt_sim": 0.226
+  },
+  {
+   "start": 2592.562,
+   "end": 2593.142,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2593.882,
+   "end": 2599.042,
+   "label": "speaker_2",
+   "name": "Zhihai Qiu",
+   "sim": -0.024,
+   "alt": "Charles Caskey",
+   "alt_sim": -0.015,
+   "low": 1
+  }
+ ]
+}

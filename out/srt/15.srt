@@ -1,0 +1,7587 @@
+1
+00:00:00,300 --> 00:00:03,220
+Charles Caskey: So are we gonna do like a formal introduction to the episode, and we're
+
+2
+00:00:03,260 --> 00:00:05,320
+gonna be like, "Hey, welcome to FUS Forward.
+
+3
+00:00:05,840 --> 00:00:08,300
+It's with Keith and Charles. We're gonna talk about..."
+
+4
+00:00:08,400 --> 00:00:09,540
+[laughs] [laughs]
+
+5
+00:00:09,540 --> 00:00:13,080
+Keith Murphy: I like that a lot. [laughs] [laughs]
+
+6
+00:00:13,280 --> 00:00:15,920
+Intro narrator: Follow Charles Caskey and Keith Murphy-
+
+7
+00:00:15,960 --> 00:00:16,460
+Keith Murphy: I think that's great
+
+8
+00:00:16,560 --> 00:00:22,500
+Intro narrator: ... as they explore the next frontier of ultrasound neuromodulation with FUS Forward.
+
+9
+00:00:22,900 --> 00:00:25,580
+Keith Murphy: Charles, you sound like... Did you change something?
+
+10
+00:00:25,940 --> 00:00:27,440
+What'd you change? [laughs]
+
+11
+00:00:27,520 --> 00:00:30,200
+Charles Caskey: I didn't. I think I just got it dialed in, and I know kind
+
+12
+00:00:30,220 --> 00:00:31,260
+of what I'm doing a little more.
+
+13
+00:00:31,380 --> 00:00:34,700
+Keith Murphy: It sounds somehow very good, and your camera's working.
+
+14
+00:00:34,780 --> 00:00:36,040
+You have to lower your camera a little.
+
+15
+00:00:36,120 --> 00:00:36,620
+Charles Caskey: Oh, thank you.
+
+16
+00:00:36,620 --> 00:00:37,480
+Keith Murphy: It's like you have a lot of headroom.
+
+17
+00:00:37,840 --> 00:00:38,580
+Charles Caskey: Yeah. Cool.
+
+18
+00:00:38,780 --> 00:00:41,760
+Keith Murphy: Jamie, you're good. We can see the bank in the background, the vault.
+
+19
+00:00:42,280 --> 00:00:43,420
+Jamie Tyler: Vault. [laughs]
+
+20
+00:00:43,600 --> 00:00:44,660
+Keith Murphy: Yeah. [laughs]
+
+21
+00:00:44,700 --> 00:00:47,680
+Charles Caskey: When you said that, it was-- I didn't realize it was gonna still be,
+
+22
+00:00:47,780 --> 00:00:48,500
+like, looking like a bank.
+
+23
+00:00:48,500 --> 00:00:49,100
+Jamie Tyler: I'm gonna be inside-
+
+24
+00:00:49,480 --> 00:00:49,980
+Charles Caskey: Oh, that's all in
+
+25
+00:00:49,960 --> 00:00:52,220
+Jamie Tyler: ... a 20-foot long, like 10-foot wide vault.
+
+26
+00:00:53,020 --> 00:00:54,780
+Keith Murphy: Hey, Jamie, why are you in a vault?
+
+27
+00:00:55,900 --> 00:00:57,360
+Jamie Tyler: Uh, why would I not be in a vault?
+
+28
+00:00:57,600 --> 00:01:02,520
+[laughs] [laughs] Yeah, it, it's a-- It-- I just ended up here, and like
+
+29
+00:01:02,580 --> 00:01:04,860
+I got in this building that has an old car in it.
+
+30
+00:01:04,980 --> 00:01:08,600
+It's like a car simulator. It's a, it's an old bank that the university
+
+31
+00:01:08,700 --> 00:01:11,820
+leases, and I was like, "Somebody knows me too well."
+
+32
+00:01:12,220 --> 00:01:15,220
+Keith Murphy: I would like that. [laughs] I would like that as my office, please.
+
+33
+00:01:15,700 --> 00:01:16,280
+They were like, "What?"
+
+34
+00:01:16,340 --> 00:01:17,360
+Jamie Tyler: Check this out. So this is-
+
+35
+00:01:17,440 --> 00:01:17,940
+Keith Murphy: We're at the startup
+
+36
+00:01:17,860 --> 00:01:20,320
+Jamie Tyler: ... this is inside. Let me see if I can...
+
+37
+00:01:20,760 --> 00:01:21,860
+I should be able to do this.
+
+38
+00:01:22,940 --> 00:01:24,620
+I'll pan real quick and show you guys.
+
+39
+00:01:27,580 --> 00:01:28,080
+Keith Murphy: Whoa.
+
+40
+00:01:27,680 --> 00:01:28,980
+Jamie Tyler: This is like one side of the vault.
+
+41
+00:01:30,580 --> 00:01:31,080
+Keith Murphy: Whoa.
+
+42
+00:01:30,760 --> 00:01:31,640
+Jamie Tyler: And the other side.
+
+43
+00:01:31,980 --> 00:01:32,480
+Charles Caskey: Galaxy curtains.
+
+44
+00:01:32,380 --> 00:01:33,240
+Keith Murphy: Constellation.
+
+45
+00:01:33,820 --> 00:01:36,840
+Charles Caskey: Yeah. [laughs] Mm.
+
+46
+00:01:36,880 --> 00:01:38,340
+Keith Murphy: Damn, that's an office.
+
+47
+00:01:38,800 --> 00:01:39,760
+Charles Caskey: Oh, man, that is an office.
+
+48
+00:01:39,760 --> 00:01:40,560
+Keith Murphy: That's an office and a half.
+
+49
+00:01:40,820 --> 00:01:43,500
+Charles Caskey: This space man with jellyfish floating around him in fluorescence.
+
+50
+00:01:43,520 --> 00:01:45,960
+Jamie Tyler: And then there's a wall behind here that, like I have a bunch of
+
+51
+00:01:46,020 --> 00:01:46,660
+other stuff.
+
+52
+00:01:47,640 --> 00:01:49,680
+Charles Caskey: Oh, man. I love it. [sighs]
+
+53
+00:01:49,720 --> 00:01:50,220
+Jamie Tyler: So I feel like a model.
+
+54
+00:01:50,160 --> 00:01:52,040
+Keith Murphy: Invite us to visit. We, we wanna visit.
+
+55
+00:01:52,360 --> 00:01:54,160
+Charles Caskey: Yeah, yeah, yeah. Invite... [laughs]
+
+56
+00:01:54,180 --> 00:01:55,960
+Jamie Tyler: It's pretty dope, man. I'm not gonna lie.
+
+57
+00:01:56,020 --> 00:01:57,760
+[laughs]
+
+58
+00:01:57,800 --> 00:02:02,900
+Keith Murphy: Hey, Charles, can we start the episode, uh, reading Jamie's reply email, and then
+
+59
+00:02:02,940 --> 00:02:04,580
+we can introduce the legend?
+
+60
+00:02:04,820 --> 00:02:05,360
+Charles Caskey: Oh. Yeah, sure, sure.
+
+61
+00:02:05,400 --> 00:02:06,240
+Keith Murphy: The man, the myth, the legend.
+
+62
+00:02:06,760 --> 00:02:07,260
+Charles Caskey: Yeah.
+
+63
+00:02:06,840 --> 00:02:09,360
+Keith Murphy: All right, everybody. Um, before we say...
+
+64
+00:02:10,520 --> 00:02:13,400
+I guess we've said it too m- maybe too many times on this podcast
+
+65
+00:02:13,440 --> 00:02:19,380
+how Jamie fired up the field after a long sleep, a long hibernation, and,
+
+66
+00:02:19,460 --> 00:02:22,160
+uh, we had to wait to get him on the podcast.
+
+67
+00:02:22,220 --> 00:02:24,540
+He couldn't be an early guest 'cause we just didn't know if it was
+
+68
+00:02:24,560 --> 00:02:26,620
+gonna be suitable, right, Charles?
+
+69
+00:02:26,840 --> 00:02:27,500
+Charles Caskey: Yeah, yeah. We had to bring-
+
+70
+00:02:27,500 --> 00:02:28,540
+Keith Murphy: We had to, we had to prime the pumps.
+
+71
+00:02:28,900 --> 00:02:32,840
+Charles Caskey: Yeah, yeah. You can't, you can't just start the, start the flow without, uh,
+
+72
+00:02:32,980 --> 00:02:34,640
+yeah, at, at full, full throttle.
+
+73
+00:02:34,740 --> 00:02:36,020
+So today though, we're [laughs] getting-
+
+74
+00:02:36,140 --> 00:02:39,300
+Keith Murphy: So, so we, so we reached out to Jamie over email, and we were
+
+75
+00:02:39,340 --> 00:02:41,580
+like, "Hey, Jamie, can we, you know, can we do the episode?
+
+76
+00:02:41,620 --> 00:02:43,380
+We got this thing going." He hadn't seen it yet.
+
+77
+00:02:44,120 --> 00:02:46,940
+Um, and his reply is, "Hi, Keith and Charles.
+
+78
+00:02:47,020 --> 00:02:50,060
+[laughs] Thank you for the kind in- invitation, period.
+
+79
+00:02:50,780 --> 00:02:52,240
+I hope you are both well, period.
+
+80
+00:02:53,240 --> 00:02:55,720
+I do not have any podcast experience, period.
+
+81
+00:02:56,240 --> 00:02:59,020
+However, I would be happy to help do a session with you.
+
+82
+00:02:59,220 --> 00:03:03,980
+We [laughs] can set up a call and develop some plans to let, to
+
+83
+00:03:04,220 --> 00:03:05,840
+let you know how to prepare."
+
+84
+00:03:06,260 --> 00:03:09,400
+So the reason I'm laughing, people are probably wondering why I'm laughing, is 'cause
+
+85
+00:03:09,480 --> 00:03:12,040
+that does not sound anything like Jamie.
+
+86
+00:03:12,180 --> 00:03:15,640
+And me and Charles talked on the phone, and we're like, "Dude, what happened?
+
+87
+00:03:15,700 --> 00:03:16,200
+Is he okay?"
+
+88
+00:03:16,460 --> 00:03:18,800
+Charles Caskey: We're like [laughs] ... We're like, "Is he all right?"
+
+89
+00:03:19,260 --> 00:03:20,220
+I was like, "Do, did we meet..."
+
+90
+00:03:20,360 --> 00:03:25,020
+I was like, "I'm either misremembering who this is or, like, or something happened
+
+91
+00:03:25,080 --> 00:03:25,580
+to him."
+
+92
+00:03:25,400 --> 00:03:28,480
+Keith Murphy: That's hilarious. He a- he asked if we, if we had the wrong email,
+
+93
+00:03:28,580 --> 00:03:29,660
+Jamie. I'm like, "No, we had it.
+
+94
+00:03:29,760 --> 00:03:30,380
+I think it's the right one."
+
+95
+00:03:30,400 --> 00:03:33,440
+Jamie Tyler: That's probably the post, that's probably the post, like that's the modern Jamie.
+
+96
+00:03:34,100 --> 00:03:34,600
+Charles Caskey: Yeah.
+
+97
+00:03:34,340 --> 00:03:34,840
+Jamie Tyler: I'm pretty sure.
+
+98
+00:03:34,600 --> 00:03:35,640
+Keith Murphy: Oh, modern Jamie.
+
+99
+00:03:35,780 --> 00:03:37,700
+Charles Caskey: Modern-- This is like, it's, it's adult Jamie.
+
+100
+00:03:37,800 --> 00:03:38,300
+Yeah, yeah. You're-
+
+101
+00:03:38,500 --> 00:03:39,000
+Jamie Tyler: He's like cleaned up his act.
+
+102
+00:03:38,840 --> 00:03:40,520
+That's a great way to put it, Charles, actually.
+
+103
+00:03:40,560 --> 00:03:41,420
+You grow up, right?
+
+104
+00:03:41,600 --> 00:03:45,320
+Charles Caskey: You grow up. Sometime in your 40s or 50s, you grow up, and you,
+
+105
+00:03:45,800 --> 00:03:46,300
+you gotta be-
+
+106
+00:03:46,000 --> 00:03:48,080
+Jamie Tyler: I would pr- honestly, I probably have like 20 emails.
+
+107
+00:03:48,180 --> 00:03:50,560
+I go through these periods where I get, like, laser focused.
+
+108
+00:03:50,820 --> 00:03:51,320
+Charles Caskey: Mm-hmm.
+
+109
+00:03:51,240 --> 00:03:52,200
+Jamie Tyler: And I try to be like...
+
+110
+00:03:52,660 --> 00:03:54,920
+I feel like I'm verbose sometimes, and I'm like, "God, I just wanna be
+
+111
+00:03:54,960 --> 00:03:55,660
+more succinct."
+
+112
+00:03:56,160 --> 00:03:56,660
+Charles Caskey: Yeah.
+
+113
+00:03:56,500 --> 00:03:57,000
+Jamie Tyler: Right?
+
+114
+00:03:56,680 --> 00:03:57,180
+Keith Murphy: Yeah.
+
+115
+00:03:57,220 --> 00:03:58,420
+Jamie Tyler: That was probably one of those moments.
+
+116
+00:03:58,420 --> 00:03:58,920
+[laughs]
+
+117
+00:03:58,700 --> 00:04:01,020
+Charles Caskey: No, I, I gotta... I, I, I have this too.
+
+118
+00:04:01,080 --> 00:04:02,860
+It's, it's like a, it's a professional filter.
+
+119
+00:04:02,940 --> 00:04:05,240
+It's like you never know when somebody first reaches out.
+
+120
+00:04:05,320 --> 00:04:09,340
+I always default to, like, the most boring tone, uh, it-- because I'm like-
+
+121
+00:04:09,360 --> 00:04:09,860
+Jamie Tyler: Yeah
+
+122
+00:04:09,480 --> 00:04:10,920
+Charles Caskey: ... I'm like, "I don't know what these people want."
+
+123
+00:04:11,040 --> 00:04:14,380
+Like, but then, but then later we got, you know, the later replies, we
+
+124
+00:04:14,400 --> 00:04:15,220
+were like, "Oh, there he is."
+
+125
+00:04:15,520 --> 00:04:18,240
+When we- Yeah ... when we got things like, "I will show you Elvis,"
+
+126
+00:04:18,380 --> 00:04:23,360
+these technodelic goggles that a couple of engineering and psychia- psychiatrists call these.
+
+127
+00:04:23,400 --> 00:04:24,460
+We were like, "Oh, that's the guy."
+
+128
+00:04:24,520 --> 00:04:25,020
+[laughs]
+
+129
+00:04:24,920 --> 00:04:27,380
+Keith Murphy: You guys are gonna shit your pants in email kind of stuff.
+
+130
+00:04:27,400 --> 00:04:29,460
+Jamie Tyler: Well, you know what, what's crazy though is like never...
+
+131
+00:04:29,920 --> 00:04:34,240
+Like a lot-- I'm always apprehensive about podcasts because, like, there's so many that
+
+132
+00:04:34,280 --> 00:04:35,460
+are cringe and, like-
+
+133
+00:04:35,780 --> 00:04:36,440
+Keith Murphy: Oh my God, are cringe
+
+134
+00:04:36,440 --> 00:04:39,300
+Jamie Tyler: ... they're just bad. And when I saw you guys do it, I was
+
+135
+00:04:39,320 --> 00:04:40,800
+like, "Okay, I can do that," right?
+
+136
+00:04:40,880 --> 00:04:43,260
+Like they're just relaxed and just kinda like talking.
+
+137
+00:04:43,320 --> 00:04:44,620
+But some of them, you're just like, "Whoa."
+
+138
+00:04:45,220 --> 00:04:45,720
+Charles Caskey: Thank you.
+
+139
+00:04:45,680 --> 00:04:46,540
+Jamie Tyler: I want nothing to do with that.
+
+140
+00:04:46,880 --> 00:04:48,800
+Charles Caskey: Yeah. Thank you so much. Yeah.
+
+141
+00:04:48,840 --> 00:04:52,060
+If you've ever seen that one where a group of kids sit around, young,
+
+142
+00:04:52,180 --> 00:04:54,080
+young people, not kids. They're probably like 15.
+
+143
+00:04:54,500 --> 00:04:57,240
+Um, they, they, they sit around and they have snacks and they talk about
+
+144
+00:04:57,280 --> 00:04:59,580
+the snacks. I use that as like that's what I'm trying to do.
+
+145
+00:04:59,580 --> 00:05:00,680
+[laughs]
+
+146
+00:05:00,780 --> 00:05:02,040
+Keith Murphy: What, what podcast is that?
+
+147
+00:05:02,620 --> 00:05:03,660
+Charles Caskey: Oh, man. We have to look it up.
+
+148
+00:05:03,700 --> 00:05:05,120
+I can't remember the name of it, but it's good.
+
+149
+00:05:05,180 --> 00:05:05,680
+It's, it's been spook-
+
+150
+00:05:05,680 --> 00:05:07,160
+Keith Murphy: They eat snacks and talk about the snacks?
+
+151
+00:05:07,300 --> 00:05:10,100
+Charles Caskey: Yeah, yeah, yeah. Just, and they, you know, they use all this like, like,
+
+152
+00:05:10,280 --> 00:05:12,840
+uh, young person lingo. They're like, "Oh, it's cap.
+
+153
+00:05:12,920 --> 00:05:15,360
+It's this or that," or, you know, kinda I don't know what they're saying
+
+154
+00:05:15,400 --> 00:05:19,620
+half the time. It's probably like this podcast is for non-neuroscience and focused ultrasound
+
+155
+00:05:19,620 --> 00:05:20,120
+people.
+
+156
+00:05:19,660 --> 00:05:20,580
+Keith Murphy: Yeah, it's probably true.
+
+157
+00:05:22,220 --> 00:05:24,440
+Charles Caskey: Um, but, um, in any case, I...
+
+158
+00:05:24,660 --> 00:05:25,860
+Can I, can I tell my, uh-
+
+159
+00:05:25,940 --> 00:05:26,440
+Keith Murphy: That's hilarious
+
+160
+00:05:26,160 --> 00:05:29,460
+Charles Caskey: ... my meeting of Jamie story to kick things off?
+
+161
+00:05:29,500 --> 00:05:31,060
+Or I don't even know. I didn't even meet you here.
+
+162
+00:05:31,480 --> 00:05:34,220
+But I wanted to know if you remember this, 'cause this experience left an
+
+163
+00:05:34,260 --> 00:05:37,380
+impression on me. [laughs]
+
+164
+00:05:37,460 --> 00:05:38,020
+Jamie Tyler: It may have.
+
+165
+00:05:38,080 --> 00:05:38,580
+Keith Murphy: Yes.
+
+166
+00:05:38,640 --> 00:05:40,500
+Jamie Tyler: I was thinking about it too honestly, just think back.
+
+167
+00:05:40,560 --> 00:05:45,240
+Charles Caskey: O- okay. Do you remember going to ISTU 2008, I think?
+
+168
+00:05:45,400 --> 00:05:47,480
+Jamie Tyler: Yes. Yes. [laughs]
+
+169
+00:05:47,520 --> 00:05:48,020
+Charles Caskey: Yes, you do.
+
+170
+00:05:47,920 --> 00:05:49,300
+Jamie Tyler: That's exactly what came to my head.
+
+171
+00:05:49,380 --> 00:05:53,120
+Charles Caskey: Okay. Yes. [laughs] I, I don't know if we met there, but what I
+
+172
+00:05:53,160 --> 00:05:55,940
+remember is happening is you presented your awesome work from that time.
+
+173
+00:05:56,020 --> 00:06:01,920
+You were sonicating, uh, in a preclinical model showing, uh, you know, motor reflexes.
+
+174
+00:06:01,980 --> 00:06:05,300
+You had done cool work, uh, looking at like c-Fos and some other staining
+
+175
+00:06:05,780 --> 00:06:09,260
+with the brain. And at the end of the talk, I was like, I
+
+176
+00:06:09,280 --> 00:06:10,500
+was like, "This is, this is cool.
+
+177
+00:06:10,700 --> 00:06:13,540
+Never seen this before at a therapeutic ultrasound conference."
+
+178
+00:06:13,680 --> 00:06:17,080
+I was still a, an impressionable grad student, uh, and I was mostly in
+
+179
+00:06:17,120 --> 00:06:18,720
+cancer, and I was like, "This is very interesting."
+
+180
+00:06:19,160 --> 00:06:23,420
+But at the end of your talk, do you remember getting lambasted by somebody
+
+181
+00:06:23,440 --> 00:06:24,540
+in the audience about-
+
+182
+00:06:24,680 --> 00:06:26,400
+Jamie Tyler: I do. I do [laughs]
+
+183
+00:06:26,540 --> 00:06:27,040
+Charles Caskey: About brain
+
+184
+00:06:27,100 --> 00:06:29,700
+Jamie Tyler: control But a couple times. That happened a couple-- I quit going to meetings
+
+185
+00:06:29,740 --> 00:06:30,520
+because of that actually.
+
+186
+00:06:31,000 --> 00:06:31,500
+Charles Caskey: No kidding.
+
+187
+00:06:31,320 --> 00:06:33,340
+Jamie Tyler: I got, I got... Yeah. No, it happened a couple times.
+
+188
+00:06:33,360 --> 00:06:35,400
+I was like, "What?" Yeah, that's crazy.
+
+189
+00:06:35,580 --> 00:06:36,080
+Charles Caskey: Yeah.
+
+190
+00:06:35,760 --> 00:06:37,800
+Jamie Tyler: I do. But so that's actually, I think we met, Charles.
+
+191
+00:06:37,860 --> 00:06:40,940
+I'm almost sure we met at that meeting because I was thinking about it
+
+192
+00:06:40,960 --> 00:06:43,620
+this morning. I was like, "I'm pretty sure we met at the back of
+
+193
+00:06:43,660 --> 00:06:45,220
+the auditorium after that talk."
+
+194
+00:06:45,400 --> 00:06:47,540
+Charles Caskey: After that, okay. 'Cause so was that was where, like, yeah.
+
+195
+00:06:47,720 --> 00:06:51,200
+So basically, Keith, so somebody, and, and she's still around.
+
+196
+00:06:51,240 --> 00:06:52,000
+I actually know who she is.
+
+197
+00:06:52,080 --> 00:06:53,120
+Uh, and, and it's, it's not-
+
+198
+00:06:53,140 --> 00:06:53,640
+Jamie Tyler: She is
+
+199
+00:06:53,480 --> 00:06:53,980
+Charles Caskey: ... it's not-
+
+200
+00:06:53,700 --> 00:06:54,960
+Keith Murphy: She will remember this. [laughs]
+
+201
+00:06:55,000 --> 00:06:56,440
+Charles Caskey: Well, I, you know, maybe she listens to the pod.
+
+202
+00:06:56,440 --> 00:06:57,800
+Keith Murphy: How wrong she was. [laughs]
+
+203
+00:06:57,880 --> 00:07:02,140
+Charles Caskey: Well, yeah. Well, she, she wasn't, she wasn't thinking that the work was not
+
+204
+00:07:02,200 --> 00:07:05,560
+good. She was thinking that it was gonna open the door to mind control
+
+205
+00:07:06,000 --> 00:07:07,080
+and all this other stuff.
+
+206
+00:07:07,420 --> 00:07:07,920
+Jamie Tyler: Oh. Well, yes.
+
+207
+00:07:07,800 --> 00:07:09,040
+Charles Caskey: And like just, just went straight for it.
+
+208
+00:07:09,060 --> 00:07:12,440
+Jamie Tyler: It was classic. So there-- I'm not sure if that is the same one,
+
+209
+00:07:12,520 --> 00:07:15,380
+Charles, but there was, there, it happened twice, both in ISTU..
+
+210
+00:07:15,380 --> 00:07:21,020
+[laughs] The one time, though, it's kinda crazy 'cause like she literally called out
+
+211
+00:07:21,800 --> 00:07:24,020
+in her Russian accent- [laughs] ...
+
+212
+00:07:24,060 --> 00:07:24,560
+"This is evil."
+
+213
+00:07:24,540 --> 00:07:26,200
+Charles Caskey: Yeah, you're giving details. [laughs]
+
+214
+00:07:26,240 --> 00:07:28,780
+Jamie Tyler: And I was like, "What?" She said this is evil.
+
+215
+00:07:28,780 --> 00:07:30,080
+We had a sidebar afterwards.
+
+216
+00:07:30,240 --> 00:07:30,740
+Charles Caskey: What?
+
+217
+00:07:30,880 --> 00:07:33,820
+Jamie Tyler: She was upset because I didn't, uh, cite one of her papers that I
+
+218
+00:07:33,840 --> 00:07:34,700
+didn't even know existed.
+
+219
+00:07:34,820 --> 00:07:35,320
+Charles Caskey: Yeah.
+
+220
+00:07:34,920 --> 00:07:37,140
+Jamie Tyler: 'Cause I was an ultrasound person, right?
+
+221
+00:07:37,280 --> 00:07:38,300
+I was a neuroscientist-
+
+222
+00:07:38,380 --> 00:07:38,880
+Charles Caskey: Yeah
+
+223
+00:07:38,400 --> 00:07:40,800
+Jamie Tyler: ... coming into ultrasound, and there was this whole ultrasound community.
+
+224
+00:07:40,880 --> 00:07:42,000
+I didn't even know they existed.
+
+225
+00:07:42,300 --> 00:07:44,520
+Charles Caskey: Yeah. Yeah. We don't all have manners, apparently.
+
+226
+00:07:44,520 --> 00:07:46,340
+[laughs]
+
+227
+00:07:46,400 --> 00:07:49,260
+Jamie Tyler: She was-- Well, what happened is I had a, I had gotten a DARPA
+
+228
+00:07:49,460 --> 00:07:50,520
+Young Faculty Award.
+
+229
+00:07:50,880 --> 00:07:51,380
+Charles Caskey: Okay.
+
+230
+00:07:51,540 --> 00:07:55,700
+Jamie Tyler: And she was not happy with the direction that that might go.
+
+231
+00:07:56,120 --> 00:07:56,620
+Charles Caskey: Oh.
+
+232
+00:07:56,280 --> 00:07:58,360
+Jamie Tyler: And I was like... Yeah. Oh, yeah.
+
+233
+00:07:58,420 --> 00:07:58,920
+It was-
+
+234
+00:07:59,460 --> 00:07:59,960
+Charles Caskey: I, I was-
+
+235
+00:07:59,900 --> 00:08:00,400
+Jamie Tyler: It was evil.
+
+236
+00:08:00,740 --> 00:08:02,580
+Charles Caskey: Yeah. There were, there were like layers to that.
+
+237
+00:08:02,660 --> 00:08:05,780
+I was, I had ne- it was, I had never seen a Q&A session
+
+238
+00:08:05,860 --> 00:08:07,280
+go off the rails so quickly.
+
+239
+00:08:07,280 --> 00:08:07,780
+[laughs]
+
+240
+00:08:07,340 --> 00:08:09,120
+Jamie Tyler: Yeah. I had a couple. I had a couple.
+
+241
+00:08:09,320 --> 00:08:10,700
+I, I always thought it was me, though.
+
+242
+00:08:11,000 --> 00:08:13,060
+And then I, and then I, you know, and then I was like, "Ah,
+
+243
+00:08:13,160 --> 00:08:15,260
+it's not really me. These people are just angry.
+
+244
+00:08:15,280 --> 00:08:15,980
+They just wanna fight."
+
+245
+00:08:16,000 --> 00:08:16,500
+Charles Caskey: Yeah.
+
+246
+00:08:16,900 --> 00:08:17,400
+Keith Murphy: Yeah.
+
+247
+00:08:17,320 --> 00:08:17,820
+Jamie Tyler: You know?
+
+248
+00:08:17,640 --> 00:08:18,720
+Charles Caskey: They, she came in swinging. Yeah.
+
+249
+00:08:18,760 --> 00:08:22,460
+Jamie Tyler: I told one of my grad students today, this is a problem in academics,
+
+250
+00:08:22,640 --> 00:08:25,880
+I think, in general. Just 'cause you, it's just kind of the nature of
+
+251
+00:08:25,900 --> 00:08:30,020
+the beast. Um, but I was like, a lot of people are really good
+
+252
+00:08:30,040 --> 00:08:31,920
+at just punching holes in stuff, right?
+
+253
+00:08:32,040 --> 00:08:32,540
+Charles Caskey: Yeah.
+
+254
+00:08:32,060 --> 00:08:32,820
+Jamie Tyler: That's all they know how to do.
+
+255
+00:08:33,500 --> 00:08:34,000
+And it's like-
+
+256
+00:08:33,720 --> 00:08:34,220
+Keith Murphy: That's what they're good at
+
+257
+00:08:34,260 --> 00:08:37,680
+Jamie Tyler: ... you're, you're either deconstructing or you're creating, right?
+
+258
+00:08:37,720 --> 00:08:38,220
+Charles Caskey: Mm-hmm.
+
+259
+00:08:38,020 --> 00:08:40,880
+Jamie Tyler: And you've gotta like to create, you, you have to deconstruct a little bit,
+
+260
+00:08:40,960 --> 00:08:42,700
+but like think about like possibilities.
+
+261
+00:08:42,740 --> 00:08:46,500
+And I felt like the early days, no one really wanted to consider possibility.
+
+262
+00:08:46,680 --> 00:08:47,180
+Charles Caskey: Yeah.
+
+263
+00:08:47,160 --> 00:08:47,660
+Jamie Tyler: You know?
+
+264
+00:08:47,480 --> 00:08:51,100
+Charles Caskey: I, I completely agree, and I would even say like the ultrasound community in
+
+265
+00:08:51,160 --> 00:08:55,040
+general like missed the boat a little bit on this because I think everybody
+
+266
+00:08:55,060 --> 00:08:56,840
+was like, "You can't get sound through the skull.
+
+267
+00:08:56,920 --> 00:08:58,100
+There's no way this is happening.
+
+268
+00:08:58,140 --> 00:08:58,760
+This is like-"
+
+269
+00:08:58,940 --> 00:08:59,440
+Jamie Tyler: Yeah. Yeah.
+
+270
+00:08:59,140 --> 00:09:02,200
+Charles Caskey: This-- And, uh, 'cause I think there was such dogmatic thinking that, and, and
+
+271
+00:09:02,500 --> 00:09:03,980
+sure, it's true at high frequencies.
+
+272
+00:09:04,040 --> 00:09:04,540
+Jamie Tyler: Sure.
+
+273
+00:09:04,060 --> 00:09:07,100
+Charles Caskey: But yeah. I think they're, I think you're totally right that the, the people-
+
+274
+00:09:07,140 --> 00:09:09,500
+Jamie Tyler: It's not intuitive, right? Like, it's not one of those things.
+
+275
+00:09:09,520 --> 00:09:12,280
+You just think about it as a barrier, and I think, uh, if you,
+
+276
+00:09:12,420 --> 00:09:16,480
+if you're not trained and don't understand kind of like what sound waves are.
+
+277
+00:09:16,780 --> 00:09:19,440
+And like I full- I didn't fully appreciate it till I got into it
+
+278
+00:09:19,500 --> 00:09:21,560
+a little bit, and then I was like, "Whoa, this is like cooler than
+
+279
+00:09:21,640 --> 00:09:23,300
+I thought it could be." You know?
+
+280
+00:09:23,820 --> 00:09:24,540
+Keith Murphy: When are you coming back?
+
+281
+00:09:24,600 --> 00:09:26,260
+Jamie Tyler: Just invite me. I, I'm happy to talk.
+
+282
+00:09:26,380 --> 00:09:27,820
+I just haven't done a lot of ultrasound.
+
+283
+00:09:27,900 --> 00:09:29,400
+We've got some projects going on.
+
+284
+00:09:29,440 --> 00:09:32,260
+We'll get into them. But, um, I think-
+
+285
+00:09:32,360 --> 00:09:35,100
+Keith Murphy: Why, how, how'd you reinvent the field and then just step away?
+
+286
+00:09:35,200 --> 00:09:36,400
+I mean, you have some ultrasound.
+
+287
+00:09:36,440 --> 00:09:37,600
+I'm not saying you're, you're not doing it.
+
+288
+00:09:37,600 --> 00:09:38,100
+You were.
+
+289
+00:09:37,680 --> 00:09:39,400
+Jamie Tyler: Oh, 'cause I started doing something totally different.
+
+290
+00:09:39,700 --> 00:09:41,140
+I started on a whole nother path.
+
+291
+00:09:41,300 --> 00:09:42,580
+I had a whole nother project.
+
+292
+00:09:43,660 --> 00:09:44,580
+Do you guys wanna hear the story?
+
+293
+00:09:44,880 --> 00:09:45,380
+Charles Caskey: I would, I wanna-
+
+294
+00:09:45,300 --> 00:09:45,800
+Keith Murphy: Yeah. We wanna hear it.
+
+295
+00:09:45,660 --> 00:09:50,380
+Charles Caskey: Yeah, I wanna know. Like you were, you were doing like synaptic plasticity, BDNF
+
+296
+00:09:50,440 --> 00:09:50,940
+work.
+
+297
+00:09:51,240 --> 00:09:51,740
+Jamie Tyler: Yeah.
+
+298
+00:09:51,260 --> 00:09:54,200
+Charles Caskey: And so I'm curious, like I wanna plot at least some, a couple of
+
+299
+00:09:54,240 --> 00:09:55,920
+points here 'cause it, it, like as Keith said-
+
+300
+00:09:55,980 --> 00:09:56,480
+Jamie Tyler: Yeah. Let's do that
+
+301
+00:09:56,140 --> 00:09:56,720
+Charles Caskey: ... you kind of did a round trip.
+
+302
+00:09:56,880 --> 00:10:00,200
+So you, like how did you go from like vesicles and hippocampus to shooting
+
+303
+00:10:00,240 --> 00:10:02,040
+ultrasound at the brain? Like what, what was it?
+
+304
+00:10:02,060 --> 00:10:02,560
+Jamie Tyler: So-
+
+305
+00:10:02,080 --> 00:10:04,260
+Charles Caskey: Was this like, "This is a crazy idea, let's try it," or was this
+
+306
+00:10:04,280 --> 00:10:06,200
+like hypothesis-driven, let's do non-invasive?
+
+307
+00:10:06,260 --> 00:10:10,480
+Keith Murphy: Jamie was a molecular, uh, membrane mechanism guy before ultrasound, right?
+
+308
+00:10:10,720 --> 00:10:11,220
+Jamie Tyler: Yeah. Yeah.
+
+309
+00:10:11,180 --> 00:10:11,680
+Keith Murphy: Yeah.
+
+310
+00:10:11,220 --> 00:10:12,200
+Jamie Tyler: That's how I got the idea.
+
+311
+00:10:12,380 --> 00:10:13,340
+So when I-
+
+312
+00:10:13,560 --> 00:10:14,060
+Keith Murphy: Yeah
+
+313
+00:10:13,620 --> 00:10:15,940
+Jamie Tyler: ... when I got into grad school, I had worked, before grad school, I
+
+314
+00:10:15,960 --> 00:10:18,340
+worked as a, a lipid chemist for a couple years.
+
+315
+00:10:19,180 --> 00:10:21,140
+And so really had an understanding of like-
+
+316
+00:10:21,140 --> 00:10:21,640
+Charles Caskey: Perfect
+
+317
+00:10:21,160 --> 00:10:23,620
+Jamie Tyler: ... phospholipids, right? So I understood like phospholipid-
+
+318
+00:10:23,660 --> 00:10:24,160
+Charles Caskey: Yes
+
+319
+00:10:24,020 --> 00:10:30,260
+Jamie Tyler: ... phase transitions. And I read this paper by Thomas Heimburg, the soliton propagation,
+
+320
+00:10:30,320 --> 00:10:32,160
+like it was basically soliton propagation.
+
+321
+00:10:32,240 --> 00:10:35,800
+It's like an action potential. And I got interested in some of the early
+
+322
+00:10:35,900 --> 00:10:42,580
+birefringence measurements of action potentials and like descriptions of mechanical impulses in membranes.
+
+323
+00:10:42,620 --> 00:10:44,280
+And so I was like, "That's kind of cool," right?
+
+324
+00:10:44,360 --> 00:10:50,560
+And I was studying, um, BDNF and its effect on, uh, miniature synaptic transmission.
+
+325
+00:10:51,660 --> 00:10:56,580
+And honestly, one day in grad school, I was recording minis [clears throat] and I
+
+326
+00:10:56,640 --> 00:11:00,820
+had the radio, the bass, the subwoofer next to the stage, the head stage.
+
+327
+00:11:01,520 --> 00:11:02,020
+Keith Murphy: Yeah.
+
+328
+00:11:01,720 --> 00:11:03,740
+Jamie Tyler: And the minis, I could see the minis going.
+
+329
+00:11:03,780 --> 00:11:09,240
+And at the time, there was this debate about calcium and exocytosis.
+
+330
+00:11:09,360 --> 00:11:12,820
+And there's this, if you, y- if you cleave all the snare proteins, you
+
+331
+00:11:12,900 --> 00:11:14,360
+still get exocytosis.
+
+332
+00:11:15,020 --> 00:11:15,520
+Keith Murphy: Yeah.
+
+333
+00:11:15,100 --> 00:11:18,680
+Jamie Tyler: So how does that occur? And so I told my PhD mentor, I was
+
+334
+00:11:18,700 --> 00:11:21,160
+like, "Dude, this is, this is a mechanical fusion event.
+
+335
+00:11:21,200 --> 00:11:23,040
+This is just lipid bilayers."
+
+336
+00:11:23,500 --> 00:11:26,000
+Keith Murphy: Oh. So the vesicles were bumping into the walls of the membrane?
+
+337
+00:11:26,220 --> 00:11:26,920
+Jamie Tyler: Yeah. That's what I thought.
+
+338
+00:11:26,980 --> 00:11:30,600
+Keith Murphy: We- Oh ... whoa, Jamie, we've never t-talked about that mechanism.
+
+339
+00:11:30,680 --> 00:11:31,740
+Can you break down what a mini is and say that?
+
+340
+00:11:31,760 --> 00:11:36,280
+Jamie Tyler: So that's the residual in our, in our phosphoinositide, there's this residual, residual little
+
+341
+00:11:36,340 --> 00:11:37,540
+synapto-pHluorin signal-
+
+342
+00:11:38,200 --> 00:11:38,700
+Keith Murphy: Uh-huh
+
+343
+00:11:38,300 --> 00:11:41,320
+Jamie Tyler: ... that you couldn't block even with TTX, and I swear that's just like
+
+344
+00:11:41,380 --> 00:11:42,020
+you're just causing-
+
+345
+00:11:42,100 --> 00:11:42,600
+Keith Murphy: Whoa
+
+346
+00:11:42,200 --> 00:11:44,440
+Jamie Tyler: ... vesicles to have fusion pores and release.
+
+347
+00:11:44,460 --> 00:11:46,560
+Keith Murphy: They're just bumping into the membrane really hard-
+
+348
+00:11:46,680 --> 00:11:47,180
+Jamie Tyler: Yeah
+
+349
+00:11:46,700 --> 00:11:47,280
+Keith Murphy: ... and releasing.
+
+350
+00:11:47,580 --> 00:11:49,140
+Jamie Tyler: So I had that idea in grad school.
+
+351
+00:11:49,380 --> 00:11:49,880
+Keith Murphy: Cool. [laughs]
+
+352
+00:11:49,660 --> 00:11:52,040
+Jamie Tyler: And then I, and then I went and did a postdoc with Venki Murthy
+
+353
+00:11:52,500 --> 00:11:57,280
+at Harvard, started doing optogenetics. So we created like the first like synapto-pHluorin mouse,
+
+354
+00:11:57,500 --> 00:12:02,500
+first optogenetic mouse. And I was going to Cold Spring Harbor and taking the
+
+355
+00:12:02,560 --> 00:12:05,280
+imaging course, and then I started being a TA in the course, and then
+
+356
+00:12:05,320 --> 00:12:09,200
+I started chatting with people. And Karl Deisseroth was there, and Karl and I
+
+357
+00:12:09,260 --> 00:12:12,280
+used to talk about ultrasound and if you could use ultrasound to modulate brain
+
+358
+00:12:12,360 --> 00:12:15,160
+activity. It was just like we're having beers, like talking about it, right?
+
+359
+00:12:15,200 --> 00:12:15,700
+Keith Murphy: Yeah.
+
+360
+00:12:15,220 --> 00:12:16,400
+Jamie Tyler: With a bunch of people there.
+
+361
+00:12:16,980 --> 00:12:18,160
+Most people thought it was crazy.
+
+362
+00:12:18,860 --> 00:12:20,320
+And so when I was at ASU-
+
+363
+00:12:20,900 --> 00:12:21,720
+Keith Murphy: Karl has a patent-
+
+364
+00:12:21,860 --> 00:12:22,360
+Jamie Tyler: GE
+
+365
+00:12:21,880 --> 00:12:22,860
+Keith Murphy: ... from a long time ago.
+
+366
+00:12:22,920 --> 00:12:24,580
+You must have inspired him. [chuckles]
+
+367
+00:12:24,620 --> 00:12:27,620
+Jamie Tyler: Dude, this is-- No, no, it's, it's been a crazy road.
+
+368
+00:12:28,060 --> 00:12:28,560
+Keith Murphy: Yeah.
+
+369
+00:12:28,140 --> 00:12:34,400
+Jamie Tyler: Then I was at ASU, and GE used to manufacture ultrasound transducers in Phoenix,
+
+370
+00:12:35,360 --> 00:12:35,860
+right?
+
+371
+00:12:36,080 --> 00:12:36,580
+Keith Murphy: Yeah.
+
+372
+00:12:36,280 --> 00:12:40,520
+Jamie Tyler: And so there's this guy who sold his company to GE, and he came
+
+373
+00:12:40,560 --> 00:12:45,340
+to me and said, "Hey, I wanna study pulse electromagnetic fields and neurons."
+
+374
+00:12:45,840 --> 00:12:47,080
+And I was like, "Okay, that's kinda cool."
+
+375
+00:12:47,680 --> 00:12:50,760
+And I looked up the dude's website, and he had an ultrasound transducer that
+
+376
+00:12:51,120 --> 00:12:52,580
+a six-well plate would snap on.
+
+377
+00:12:53,220 --> 00:12:53,720
+Keith Murphy: Oh.
+
+378
+00:12:53,400 --> 00:12:55,000
+Jamie Tyler: And I saw that, and the light went off.
+
+379
+00:12:55,140 --> 00:12:55,640
+Keith Murphy: Oh, man.
+
+380
+00:12:55,600 --> 00:12:59,960
+Jamie Tyler: I was just like... I was like, "Dude, synapto-pHluorin slices on top of that,
+
+381
+00:13:00,020 --> 00:13:01,620
+and we're sending an ultrasound waves- Yes ...
+
+382
+00:13:01,620 --> 00:13:05,980
+into the brain." You know? So I was a neuroscientist who just had this
+
+383
+00:13:06,060 --> 00:13:09,720
+idea and, and saw the tool and just tried it.
+
+384
+00:13:10,220 --> 00:13:13,480
+Keith Murphy: Jamie, can you t- can you teach people really quick, we're a teaching group
+
+385
+00:13:13,540 --> 00:13:18,900
+as well, about those mini excitatory potentials and, and why they're not like a
+
+386
+00:13:18,960 --> 00:13:20,920
+full synaptic event, but why they might matter?
+
+387
+00:13:21,280 --> 00:13:21,780
+That's cool.
+
+388
+00:13:21,800 --> 00:13:22,300
+Jamie Tyler: Yeah.
+
+389
+00:13:21,840 --> 00:13:23,580
+Keith Murphy: I would just love... Break that down for people.
+
+390
+00:13:23,840 --> 00:13:25,480
+Jamie Tyler: So they do matter. So yeah.
+
+391
+00:13:25,520 --> 00:13:27,680
+So, um, we used to say it's just the noise, right?
+
+392
+00:13:27,760 --> 00:13:31,120
+Like, it's just the stochastic noise in the brain that sets up a baseline
+
+393
+00:13:31,360 --> 00:13:35,180
+for you to have a signal for, like, any, like, interpretation of whatever's happening
+
+394
+00:13:35,200 --> 00:13:35,760
+in the world. But-
+
+395
+00:13:36,260 --> 00:13:36,760
+Keith Murphy: Mm-hmm.
+
+396
+00:13:36,460 --> 00:13:40,600
+Jamie Tyler: So you study them, you have to block all forms of synaptic transmission, uh,
+
+397
+00:13:40,880 --> 00:13:45,080
+voltage-gated active channels using tetrodotoxin, right?
+
+398
+00:13:45,120 --> 00:13:45,620
+Keith Murphy: Mm-hmm. Mm-hmm.
+
+399
+00:13:45,240 --> 00:13:49,220
+Jamie Tyler: So then what you get are you get these spontaneous, they're still calcium-driven, but
+
+400
+00:13:49,260 --> 00:13:54,020
+they're spontaneous events of a full synaptic vesicle fusing with the presynaptic membrane and,
+
+401
+00:13:54,240 --> 00:13:57,000
+and releasing the contents of just that one vesicle.
+
+402
+00:13:57,440 --> 00:13:58,760
+Keith Murphy: Just one ball of stuff.
+
+403
+00:13:58,800 --> 00:13:59,300
+Jamie Tyler: Just one hit.
+
+404
+00:13:58,880 --> 00:14:01,460
+Keith Murphy: And how many balls of v- how many vesicles are usually- Well- ...
+
+405
+00:14:01,540 --> 00:14:02,860
+used in a full event? Thousands?
+
+406
+00:14:03,020 --> 00:14:03,520
+Jamie Tyler: We used to, we used to...
+
+407
+00:14:04,000 --> 00:14:06,600
+The other reason we got about this with ultrasound is they're used-- I don't,
+
+408
+00:14:06,780 --> 00:14:08,440
+I haven't kept up with that world in a long time.
+
+409
+00:14:08,500 --> 00:14:11,080
+I went to Venki's lab because I was synaptic vesicles.
+
+410
+00:14:11,180 --> 00:14:12,800
+I, they were-- I loved them, right?
+
+411
+00:14:13,420 --> 00:14:13,920
+Keith Murphy: Yeah.
+
+412
+00:14:13,600 --> 00:14:18,880
+Jamie Tyler: And, uh, and Venki came up in that world and, um, well, there was,
+
+413
+00:14:19,080 --> 00:14:23,460
+used to be the kiss and run mode of synaptic vesicle retrieval versus full
+
+414
+00:14:23,500 --> 00:14:25,860
+fusion, right? So whether you have a flickering pore.
+
+415
+00:14:26,720 --> 00:14:29,800
+And that we got-- Like, we used to have crazy conversations about, like, whether
+
+416
+00:14:29,840 --> 00:14:31,460
+you could ultrasound, like, sound waves.
+
+417
+00:14:31,500 --> 00:14:34,840
+We, you know- Yeah ... we weren't thinking about ultrasound necessarily, but, like, mechanical,
+
+418
+00:14:35,480 --> 00:14:38,420
+what causes that independent of all the proteins and the-
+
+419
+00:14:38,440 --> 00:14:38,940
+Keith Murphy: Mm-hmm
+
+420
+00:14:38,500 --> 00:14:40,060
+Jamie Tyler: ... ions that are there, right?
+
+421
+00:14:40,220 --> 00:14:40,720
+Keith Murphy: Yeah.
+
+422
+00:14:41,280 --> 00:14:42,620
+Jamie Tyler: Yeah. Just spontaneously.
+
+423
+00:14:43,080 --> 00:14:44,040
+Charles Caskey: I love, I love this path.
+
+424
+00:14:44,120 --> 00:14:46,780
+So this actually is a lot more logical than I thought it might have
+
+425
+00:14:46,840 --> 00:14:47,520
+been. Like, you were-
+
+426
+00:14:47,580 --> 00:14:48,080
+Jamie Tyler: Oh, yeah, no.
+
+427
+00:14:48,020 --> 00:14:49,440
+Keith Murphy: I'm just like... [chuckles] Yeah.
+
+428
+00:14:49,540 --> 00:14:52,140
+Jamie Tyler: It's always been. No, I went to the university actually before I did the
+
+429
+00:14:52,200 --> 00:14:55,540
+first experiment, and I, I wrote out, I spent a weekend writing out.
+
+430
+00:14:55,600 --> 00:14:56,920
+I show it in my class sometimes.
+
+431
+00:14:57,300 --> 00:14:57,800
+Keith Murphy: Mm-hmm.
+
+432
+00:14:57,820 --> 00:15:04,080
+Jamie Tyler: 54 pages handwritten of synaptic vesicles vibrating and presynaptic membranes with ultrasound
+
+433
+00:15:04,120 --> 00:15:05,540
+waves hitting them, you know?
+
+434
+00:15:05,720 --> 00:15:06,220
+Keith Murphy: Yeah. No, this is,
+
+435
+00:15:06,040 --> 00:15:07,240
+Jamie Tyler: yeah. And, like, activating the channels.
+
+436
+00:15:07,660 --> 00:15:09,240
+And I said, "Hey, guys, I think I got something."
+
+437
+00:15:09,300 --> 00:15:10,400
+They, they thought I was crazy.
+
+438
+00:15:11,220 --> 00:15:11,720
+Keith Murphy: Yeah.
+
+439
+00:15:11,440 --> 00:15:11,940
+Jamie Tyler: And, and-
+
+440
+00:15:11,580 --> 00:15:14,000
+Charles Caskey: It was, yeah, it was an outsider idea by the, at that time, for
+
+441
+00:15:14,000 --> 00:15:14,500
+sure.
+
+442
+00:15:14,020 --> 00:15:15,920
+Jamie Tyler: Fully. This- Yeah ... the first time we hit the button, I saw-
+
+443
+00:15:15,980 --> 00:15:16,480
+Keith Murphy: Yeah
+
+444
+00:15:16,060 --> 00:15:18,760
+Jamie Tyler: ... a synapto-pHluorin signal, and I was like, "Holy cow."
+
+445
+00:15:18,920 --> 00:15:19,800
+Keith Murphy: That's awesome.
+
+446
+00:15:19,840 --> 00:15:20,340
+Jamie Tyler: Yeah.
+
+447
+00:15:20,140 --> 00:15:20,640
+Keith Murphy: Love it.
+
+448
+00:15:20,300 --> 00:15:21,460
+Jamie Tyler: It was just that you just knew.
+
+449
+00:15:21,580 --> 00:15:26,040
+You just... And so I had honestly, I think I got this reputation for,
+
+450
+00:15:26,080 --> 00:15:29,080
+like, jumping in the field and thinking I did something great.
+
+451
+00:15:29,120 --> 00:15:31,920
+And, like, I didn't even know the rest, it, it existed.
+
+452
+00:15:32,000 --> 00:15:36,160
+I was just on this idea of my own of like, it, it, you
+
+453
+00:15:36,200 --> 00:15:38,560
+know, like... And then, and then all of a sudden somebody said, "Well, what
+
+454
+00:15:38,600 --> 00:15:39,420
+else can you do with this?"
+
+455
+00:15:39,500 --> 00:15:42,420
+I was like, "Well, I wanna hook it up to, like, Sony PlayStation."
+
+456
+00:15:43,380 --> 00:15:43,880
+And-
+
+457
+00:15:43,580 --> 00:15:45,820
+Keith Murphy: Sony. [laughs] You did. That's where you lost them.
+
+458
+00:15:45,860 --> 00:15:48,100
+That's where you lost them. What was the Sony for?
+
+459
+00:15:48,240 --> 00:15:48,900
+[laughs]
+
+460
+00:15:48,920 --> 00:15:52,860
+Jamie Tyler: For- Oh, for, for like, 'cause-- So the first people that came to us
+
+461
+00:15:53,060 --> 00:15:54,340
+to talk about the ideas, right?
+
+462
+00:15:55,380 --> 00:15:58,160
+They came from this kind of weird group we'll get into later maybe.
+
+463
+00:15:59,080 --> 00:16:02,280
+Um, they're like, "Well, what else can you do with this?"
+
+464
+00:16:02,320 --> 00:16:04,120
+And I was like, "Well, yeah, how much time do you have?"
+
+465
+00:16:04,200 --> 00:16:09,940
+[laughing] And, um, I, and so I, I proposed to instill fear in a
+
+466
+00:16:09,980 --> 00:16:12,440
+horror movie. I was like, you know, like during "Jaws" when they use the
+
+467
+00:16:12,500 --> 00:16:13,900
+music to make people feel scared.
+
+468
+00:16:14,200 --> 00:16:14,700
+Keith Murphy: Mm-hmm.
+
+469
+00:16:14,460 --> 00:16:15,080
+Jamie Tyler: I was like, "I wanna go-
+
+470
+00:16:15,280 --> 00:16:15,780
+Keith Murphy: Oh
+
+471
+00:16:15,420 --> 00:16:17,720
+Jamie Tyler: ... straight to your amygdala- Yeah.
+
+472
+00:16:17,840 --> 00:16:19,400
+... and make you feel fear."
+
+473
+00:16:20,020 --> 00:16:20,520
+Yeah.
+
+474
+00:16:20,140 --> 00:16:20,640
+Keith Murphy: Right?
+
+475
+00:16:20,720 --> 00:16:21,700
+Charles Caskey: Oh, oh, okay. Cool.
+
+476
+00:16:22,060 --> 00:16:26,680
+Jamie Tyler: Or, or when you're playing, when you're playing "Madden," feel the video game, right?
+
+477
+00:16:26,800 --> 00:16:29,060
+Yeah. And so, like, brain-computer interface type stuff, right?
+
+478
+00:16:29,120 --> 00:16:31,300
+Yeah. I hadn't even thought, like, thought about medicine or anything.
+
+479
+00:16:31,960 --> 00:16:35,340
+Charles Caskey: Yeah, totally. So it's like a perceptual enhancement.
+
+480
+00:16:35,420 --> 00:16:38,920
+So instead of just the rumbler on the controller, you've got, you've got things
+
+481
+00:16:38,980 --> 00:16:42,380
+that are emotionally being evoked by the-- That was, was one of the early
+
+482
+00:16:42,440 --> 00:16:45,800
+ideas for, for this. That's, uh, that's unique and cool.
+
+483
+00:16:46,120 --> 00:16:48,620
+Keith Murphy: Uh, I don't know if you know this, but, like, Gabe Newell, the Steam
+
+484
+00:16:48,720 --> 00:16:54,780
+Valve founder, started an ultrasound neuromodulation company called Starfish Neurosciences, I
+
+485
+00:16:54,820 --> 00:16:58,520
+think just to do what you're describing way after you had s- talked about
+
+486
+00:16:58,540 --> 00:17:01,340
+it, I guess. Yeah. And I don't know if the ultrasound worked out-
+
+487
+00:17:01,340 --> 00:17:01,840
+Jamie Tyler: I didn't know that
+
+488
+00:17:01,720 --> 00:17:02,680
+Keith Murphy: ... but they, they did it.
+
+489
+00:17:02,820 --> 00:17:04,440
+They, they tried anyway or whatever.
+
+490
+00:17:04,800 --> 00:17:05,620
+Sorry, you were saying, Jamie?
+
+491
+00:17:05,680 --> 00:17:12,060
+Jamie Tyler: That's crazy. Yeah, no, w- I remember in Virginia, um, I bought
+
+492
+00:17:12,120 --> 00:17:13,740
+one of the first Oculus headsets.
+
+493
+00:17:13,800 --> 00:17:16,900
+It was like a, it was a software development kit.
+
+494
+00:17:17,140 --> 00:17:18,820
+It wasn't even hardware, right? But it was the-
+
+495
+00:17:18,860 --> 00:17:19,360
+Keith Murphy: Cool
+
+496
+00:17:19,060 --> 00:17:19,660
+Jamie Tyler: ... full headset.
+
+497
+00:17:20,140 --> 00:17:20,640
+Keith Murphy: Yeah.
+
+498
+00:17:20,480 --> 00:17:24,060
+Jamie Tyler: And I used to do experiments in the basement, you know, like, um, like
+
+499
+00:17:24,140 --> 00:17:29,340
+using ultrasound and electrical stimulation, all kinds of stuff, because that really is like
+
+500
+00:17:29,720 --> 00:17:31,980
+when you talk about scalability, right?
+
+501
+00:17:32,060 --> 00:17:34,960
+Like, if you had something like that and you could-- I mean, how cool
+
+502
+00:17:34,980 --> 00:17:37,060
+would that be to put on a headset and just be like, you know,
+
+503
+00:17:37,120 --> 00:17:39,920
+like, I'm not going to the metaverse.
+
+504
+00:17:39,980 --> 00:17:41,620
+Like, I'm like, it's inside me.
+
+505
+00:17:42,140 --> 00:17:42,640
+Keith Murphy: Yeah.
+
+506
+00:17:42,560 --> 00:17:43,060
+Jamie Tyler: You know?
+
+507
+00:17:43,820 --> 00:17:44,520
+Keith Murphy: And the measurements you could make-
+
+508
+00:17:44,520 --> 00:17:46,640
+Jamie Tyler: I think the ul- ultrasound's the only thing you could do that with.
+
+509
+00:17:46,840 --> 00:17:49,580
+I don't think you could do it with any, like Elon Musk is chasing
+
+510
+00:17:49,620 --> 00:17:50,520
+a pipe dream on-
+
+511
+00:17:50,920 --> 00:17:51,420
+Keith Murphy: Mm-hmm
+
+512
+00:17:51,120 --> 00:17:52,840
+Jamie Tyler: ... whatever they're doing. You know?
+
+513
+00:17:52,960 --> 00:17:56,360
+There's like these intravascular techniques, Synchron, these other companies.
+
+514
+00:17:56,520 --> 00:17:57,020
+Keith Murphy: Yeah.
+
+515
+00:17:57,140 --> 00:18:01,820
+Jamie Tyler: They're d- Like, it's good, but ultrasound, like holographic ultrasound through the brain, it's
+
+516
+00:18:02,370 --> 00:18:04,970
+Charles Caskey: If you had the right device, yeah, I'd love to see something that could
+
+517
+00:18:05,030 --> 00:18:07,530
+just target anywhere in the brain coupled with an Oculus.
+
+518
+00:18:07,610 --> 00:18:10,650
+You could get-- You could learn so many cool things if you had like-
+
+519
+00:18:10,750 --> 00:18:14,650
+Jamie Tyler: Probably rehab too, like visual rehab and like cognition, right?
+
+520
+00:18:14,710 --> 00:18:18,270
+Like ocul retraining, oculomotor activity. There's a lot of stuff you could do.
+
+521
+00:18:18,790 --> 00:18:19,290
+Charles Caskey: Totally.
+
+522
+00:18:18,890 --> 00:18:21,230
+Jamie Tyler: It's just like you have to have the possib- like, I don't know.
+
+523
+00:18:21,270 --> 00:18:22,670
+That's not in my lifetime probably.
+
+524
+00:18:23,010 --> 00:18:25,830
+Charles Caskey: This, this is the frustrating thing, and I think why we started the pod
+
+525
+00:18:25,870 --> 00:18:27,510
+is we realized there was so much cool stuff.
+
+526
+00:18:27,570 --> 00:18:30,170
+We were like, we were like, "Oh man, we're not gonna like see it
+
+527
+00:18:30,270 --> 00:18:33,730
+all to fruition, but we can like just take a snapshot of the moment,"
+
+528
+00:18:33,830 --> 00:18:34,670
+because there's so much.
+
+529
+00:18:34,690 --> 00:18:36,150
+Jamie Tyler: Yeah, no, what you guys are doing is great.
+
+530
+00:18:36,190 --> 00:18:39,370
+I mean, I think the education component, Keith, like you were, like that's-- it's
+
+531
+00:18:39,430 --> 00:18:43,270
+key because people just don't, like you, you know, we think about-- [clears throat] I
+
+532
+00:18:43,330 --> 00:18:48,290
+like to talk about in class sometimes that we understand the brain is an
+
+533
+00:18:48,350 --> 00:18:54,030
+electrical organ because all the tools were developed to study it as an electrical
+
+534
+00:18:54,170 --> 00:18:54,670
+organ.
+
+535
+00:18:54,850 --> 00:18:55,350
+Charles Caskey: Mm-hmm.
+
+536
+00:18:55,390 --> 00:18:59,410
+Jamie Tyler: No one had tools to study it with acoustics or, you know, some of
+
+537
+00:18:59,450 --> 00:19:00,610
+the stuff that we have now.
+
+538
+00:19:01,290 --> 00:19:05,330
+And so your interpretation is based on the tools you use to study it,
+
+539
+00:19:05,470 --> 00:19:05,970
+right?
+
+540
+00:19:05,770 --> 00:19:06,270
+Charles Caskey: Yep.
+
+541
+00:19:05,810 --> 00:19:09,090
+Jamie Tyler: So I think we-- it's now coming back around.
+
+542
+00:19:09,110 --> 00:19:13,650
+There's these other ideas that like the brain's really regulated by all types of
+
+543
+00:19:13,690 --> 00:19:14,190
+physics.
+
+544
+00:19:14,610 --> 00:19:15,110
+Charles Caskey: Yeah.
+
+545
+00:19:14,830 --> 00:19:15,330
+Jamie Tyler: Right?
+
+546
+00:19:15,090 --> 00:19:15,690
+Charles Caskey: Yeah. Like-
+
+547
+00:19:15,730 --> 00:19:16,230
+Keith Murphy: Yeah.
+
+548
+00:19:16,310 --> 00:19:20,250
+Charles Caskey: Yeah. It was hard, like when I first read, uh, your, your papers on
+
+549
+00:19:20,290 --> 00:19:26,650
+the soliton, uh, ty-type thing. It took me, because my preconceptions were so
+
+550
+00:19:26,810 --> 00:19:28,290
+shaped by the electrical-
+
+551
+00:19:28,310 --> 00:19:28,810
+Jamie Tyler: Sure
+
+552
+00:19:28,470 --> 00:19:33,450
+Charles Caskey: ... models, [clears throat] it took me forever to even think about like, w-what, what
+
+553
+00:19:33,470 --> 00:19:35,750
+does this even mean? That it's gonna be an elec-- You know, just the
+
+554
+00:19:35,810 --> 00:19:37,810
+concept was hard to even digest 'cause a-
+
+555
+00:19:38,270 --> 00:19:38,770
+Jamie Tyler: Sure
+
+556
+00:19:38,290 --> 00:19:40,870
+Charles Caskey: ... at the, at the most basic level, it wasn't like it was hard
+
+557
+00:19:40,930 --> 00:19:42,430
+math or something that it was going on.
+
+558
+00:19:42,450 --> 00:19:44,570
+It was just like, I was like, "What is he talking about?"
+
+559
+00:19:44,970 --> 00:19:45,510
+And then, yeah.
+
+560
+00:19:45,610 --> 00:19:46,110
+Jamie Tyler: Yeah.
+
+561
+00:19:45,790 --> 00:19:47,290
+Charles Caskey: Over time, I'm like, I'm like, "Oh, sure.
+
+562
+00:19:47,330 --> 00:19:48,830
+Of course. The, these other forces matter."
+
+563
+00:19:48,850 --> 00:19:52,290
+Jamie Tyler: We never got the cartoon. You never got the cartoon in your textbooks of
+
+564
+00:19:52,330 --> 00:19:54,390
+like a mechanical way of propagating through it.
+
+565
+00:19:54,590 --> 00:19:55,090
+Keith Murphy: Yeah.
+
+566
+00:19:54,610 --> 00:19:55,110
+Charles Caskey: Mm-hmm.
+
+567
+00:19:55,070 --> 00:19:58,710
+Jamie Tyler: Right? And so your model of a membrane is like, it's this fixed thing,
+
+568
+00:19:58,830 --> 00:20:00,270
+right? Yeah. And it's like, no, that's like-
+
+569
+00:20:00,290 --> 00:20:00,790
+Charles Caskey: There's ion channels and-
+
+570
+00:20:00,690 --> 00:20:03,090
+Jamie Tyler: ... one of the most elastic structures, you know, of things.
+
+571
+00:20:03,130 --> 00:20:05,530
+Like it's, it's like it's perfect to do what it does.
+
+572
+00:20:05,790 --> 00:20:06,290
+Charles Caskey: Yeah.
+
+573
+00:20:05,890 --> 00:20:10,010
+Keith Murphy: Could we simulate a vesicle inside of a larger fluid bath?
+
+574
+00:20:10,090 --> 00:20:13,730
+So I'm thinking of like, Jamie, your work is almost like somebody sitting in
+
+575
+00:20:13,790 --> 00:20:17,130
+a car without a seatbelt, and you're making an impact to the car in
+
+576
+00:20:17,170 --> 00:20:19,050
+front of you, and you hit the windshield.
+
+577
+00:20:19,450 --> 00:20:23,430
+And that's just these little... You know, Jamie, we don't-- So, okay, you stepped
+
+578
+00:20:23,530 --> 00:20:26,570
+out of the conferences that are very focused ultrasound niche.
+
+579
+00:20:26,710 --> 00:20:29,750
+I do get it. Maybe, maybe I'm on a similar path.
+
+580
+00:20:29,870 --> 00:20:30,370
+Jamie Tyler: All of them. All of them.
+
+581
+00:20:30,430 --> 00:20:32,250
+I got- [laughs] Dude, I was like, "Hey."
+
+582
+00:20:32,810 --> 00:20:34,170
+I was like, "You guys have at it."
+
+583
+00:20:34,190 --> 00:20:36,250
+[laughs]
+
+584
+00:20:36,310 --> 00:20:41,490
+Keith Murphy: All right. So you're- you've stepped out, but now the, the central discussions around
+
+585
+00:20:41,530 --> 00:20:45,110
+mechanism fall into, okay, it's ion channels, they're diverse.
+
+586
+00:20:45,150 --> 00:20:47,170
+The lipid membrane has rafts-
+
+587
+00:20:47,230 --> 00:20:47,730
+Jamie Tyler: Yeah
+
+588
+00:20:47,250 --> 00:20:50,890
+Keith Murphy: ... that disperse. But, but yours is, it has none of those.
+
+589
+00:20:51,030 --> 00:20:54,450
+I mean, the ion channel ungating is just, it's just postsynaptic.
+
+590
+00:20:54,990 --> 00:20:55,490
+Jamie Tyler: Yeah.
+
+591
+00:20:55,110 --> 00:20:57,810
+Keith Murphy: I think you gotta, maybe we just gotta invite you and force you to
+
+592
+00:20:57,850 --> 00:20:59,390
+come back. Get it.
+
+593
+00:20:59,390 --> 00:21:02,910
+Jamie Tyler: I, maybe. Maybe. You know who was doing cool work in that area?
+
+594
+00:21:03,430 --> 00:21:07,350
+There's a guy I used to collaborate with, uh, he was at Boston University
+
+595
+00:21:07,370 --> 00:21:09,550
+in mechanical engineering, Matthias Schneider.
+
+596
+00:21:10,390 --> 00:21:10,890
+Keith Murphy: Okay.
+
+597
+00:21:10,510 --> 00:21:14,190
+Jamie Tyler: And he works with Heimburg. They have a group of physicists in Germany, and
+
+598
+00:21:14,210 --> 00:21:16,810
+they have these meetings, and they talk about membranes.
+
+599
+00:21:16,990 --> 00:21:20,470
+They used to simulate action potentials, dropping a little drop of ethanol on a
+
+600
+00:21:20,530 --> 00:21:22,490
+lipid monolayer in a Langmuir trough.
+
+601
+00:21:22,490 --> 00:21:23,990
+Keith Murphy: Oh, yeah. It's crazy.
+
+602
+00:21:24,030 --> 00:21:27,510
+Jamie Tyler: And do FRET. And those are the types of experiments you need, right?
+
+603
+00:21:27,590 --> 00:21:31,790
+Those really fine-tuned biophysical, like, no channel.
+
+604
+00:21:31,850 --> 00:21:34,010
+You can put channels in the membrane if you want, you know?
+
+605
+00:21:34,250 --> 00:21:36,790
+Keith Murphy: Yeah. We, we did, um, when I was in grad school.
+
+606
+00:21:36,890 --> 00:21:39,830
+So Jamie, you and I, I mean, I'm following way in your footsteps, but
+
+607
+00:21:39,870 --> 00:21:41,210
+I feel like we're not so dissimilar.
+
+608
+00:21:41,870 --> 00:21:46,710
+I was studying, uh, phospholipase D with fruit flies and ethanol, and that is
+
+609
+00:21:46,750 --> 00:21:48,370
+a mechanosensor in the membrane.
+
+610
+00:21:48,390 --> 00:21:50,270
+Jamie Tyler: I used to use phospholipase D to make-
+
+611
+00:21:50,310 --> 00:21:50,810
+Keith Murphy: There we go
+
+612
+00:21:50,770 --> 00:21:52,250
+Jamie Tyler: ... phospholipase all the time, man.
+
+613
+00:21:52,550 --> 00:21:54,130
+Keith Murphy: Yes. [laughs]
+
+614
+00:21:54,190 --> 00:22:00,150
+Jamie Tyler: Venom from like Crotalus atrox and Naja, Naja kaouthia, all these different snake venoms,
+
+615
+00:22:00,250 --> 00:22:01,870
+man. They're like these lipases.
+
+616
+00:22:03,170 --> 00:22:03,670
+Keith Murphy: Yeah. I think-
+
+617
+00:22:03,730 --> 00:22:04,250
+Jamie Tyler: That's crazy.
+
+618
+00:22:04,910 --> 00:22:07,370
+Keith Murphy: All right. Sorry, I just wanted to bring that up because I think it's
+
+619
+00:22:07,430 --> 00:22:12,830
+so awesome how you started so deep mechanism and how you're moving so far
+
+620
+00:22:12,890 --> 00:22:17,190
+into state dependence and conditionals and multi-target and all that.
+
+621
+00:22:17,250 --> 00:22:18,010
+It's just a crazy area.
+
+622
+00:22:18,010 --> 00:22:20,150
+Jamie Tyler: It's just, it's, it's one evolving question, right?
+
+623
+00:22:20,210 --> 00:22:22,350
+'Cause it's like really it's about the biology, right?
+
+624
+00:22:22,510 --> 00:22:26,030
+Like that was always what I was most, like how does the brain work,
+
+625
+00:22:26,190 --> 00:22:28,570
+right? And I felt like there was this thing that we missed.
+
+626
+00:22:29,430 --> 00:22:29,930
+And-
+
+627
+00:22:29,770 --> 00:22:33,130
+Keith Murphy: Jamie, have you had as big an impact on these next things that you
+
+628
+00:22:33,170 --> 00:22:36,430
+did? Like I feel like you just came in ultrasound, dropped a bomb, blew
+
+629
+00:22:36,510 --> 00:22:38,630
+up the field, and then walked over to the next thing.
+
+630
+00:22:38,710 --> 00:22:40,270
+What's, what was the next thing you were doing?
+
+631
+00:22:40,690 --> 00:22:43,310
+I know vagus nerve in the, in the auricular, uh, in the ear-
+
+632
+00:22:43,350 --> 00:22:43,850
+Jamie Tyler: Yeah
+
+633
+00:22:43,590 --> 00:22:45,870
+Keith Murphy: ... was huge, but other, everything else too.
+
+634
+00:22:46,750 --> 00:22:50,530
+Jamie Tyler: Yeah, so, uh, so I got two-- So I-- A couple things, right?
+
+635
+00:22:50,630 --> 00:22:55,430
+So I left ASU, started a company, uh, did a bunch of work in
+
+636
+00:22:55,470 --> 00:22:59,290
+the company to develop, uh... The company was funded by Khosla Ventures.
+
+637
+00:22:59,330 --> 00:23:00,050
+Keith Murphy: Thync, right? Was it Thync?
+
+638
+00:23:00,130 --> 00:23:01,290
+Jamie Tyler: Yeah, Thync. Yeah. Yeah.
+
+639
+00:23:01,350 --> 00:23:03,170
+Keith Murphy: I had one of your last Thync pads, so-
+
+640
+00:23:03,290 --> 00:23:03,790
+Jamie Tyler: Did you?
+
+641
+00:23:03,450 --> 00:23:08,830
+Keith Murphy: Apoorva Mehta, Apoorva Mehta was, uh, he's the founder, CEO or f- of, uh,
+
+642
+00:23:09,710 --> 00:23:13,290
+what was it called? Instacart. And he got into ultrasound, and he came to
+
+643
+00:23:13,330 --> 00:23:15,330
+the office. He's like: "Hey, what do you think about this?"
+
+644
+00:23:15,430 --> 00:23:17,950
+And he shows me this pad, and I'm like, "What is it?"
+
+645
+00:23:18,070 --> 00:23:18,790
+Jamie Tyler: That was after I was gone.
+
+646
+00:23:19,070 --> 00:23:21,550
+Yeah. That was a, that was a, that was Thync 2.0.
+
+647
+00:23:22,030 --> 00:23:23,330
+Keith Murphy: That was Thync... I have a Thync
+
+648
+00:23:23,330 --> 00:23:25,470
+Charles Caskey: 2.0. That was Thync Global. What is this thing?
+
+649
+00:23:25,570 --> 00:23:26,490
+I have never heard of this.
+
+650
+00:23:26,870 --> 00:23:27,370
+I missed it.
+
+651
+00:23:27,270 --> 00:23:29,730
+Jamie Tyler: Yeah. So what, so what happened, Charles, let me tell you 'cause it's interesting.
+
+652
+00:23:29,810 --> 00:23:31,950
+You guys are gonna learn a lot about ultrasound real quick too.
+
+653
+00:23:32,530 --> 00:23:33,030
+Keith Murphy: Right.
+
+654
+00:23:32,810 --> 00:23:36,210
+Jamie Tyler: So I was at ASU. I had the IP.
+
+655
+00:23:36,430 --> 00:23:39,970
+I went and, uh, I got a phone call from a guy in the
+
+656
+00:23:40,050 --> 00:23:41,230
+Army. He said, "Do you have a company?"
+
+657
+00:23:41,270 --> 00:23:42,910
+I said, "No, sir." He said, "Go start one today."
+
+658
+00:23:43,690 --> 00:23:48,570
+Went and started a company, got a SBIR, took a loan, had no clue
+
+659
+00:23:48,590 --> 00:23:50,130
+what I was doing, licensed the IPs.
+
+660
+00:23:50,170 --> 00:23:54,870
+Like we're gonna do ultrasound for like treatment of, of post, like traumatic pain,
+
+661
+00:23:55,090 --> 00:23:55,590
+right?
+
+662
+00:23:55,670 --> 00:23:56,170
+Keith Murphy: Nice.
+
+663
+00:23:55,710 --> 00:23:58,450
+Jamie Tyler: And so that was the, that was what the company was focused on.
+
+664
+00:23:59,250 --> 00:24:01,170
+Then I was like, "Hey, I'm gonna move to Virginia Tech.
+
+665
+00:24:01,230 --> 00:24:04,290
+I gotta leave ASU 'cause I'm going to do this in humans, and I
+
+666
+00:24:04,350 --> 00:24:06,710
+can't do it at ASU in humans 'cause we don't have the medical support."
+
+667
+00:24:06,770 --> 00:24:09,890
+So I knew the guy who was building this new institute at Virginia Tech
+
+668
+00:24:10,760 --> 00:24:12,860
+The Virginia Tech Carilion Research Institute.
+
+669
+00:24:14,100 --> 00:24:17,280
+And, uh, it was a new school of medicine, so I went there 'cause
+
+670
+00:24:17,380 --> 00:24:22,020
+I had a slice physiology lab and 100 meters down the hall, two 3T
+
+671
+00:24:22,520 --> 00:24:23,860
+MRIs that no one was using.
+
+672
+00:24:24,200 --> 00:24:24,700
+Charles Caskey: Yeah. Mm-hmm.
+
+673
+00:24:24,560 --> 00:24:25,060
+Keith Murphy: Wow.
+
+674
+00:24:24,640 --> 00:24:26,600
+Jamie Tyler: You know? So I was like, "Hey, this is the opportunity," right?
+
+675
+00:24:26,880 --> 00:24:27,380
+Charles Caskey: Mm-hmm.
+
+676
+00:24:27,220 --> 00:24:27,720
+Keith Murphy: Yeah.
+
+677
+00:24:27,300 --> 00:24:29,840
+Jamie Tyler: So we went and did some peripheral stuff just to convince the IRB, then
+
+678
+00:24:29,860 --> 00:24:33,360
+we did human stuff. Now I got a phone call from a guy who,
+
+679
+00:24:33,720 --> 00:24:37,000
+in Silicon Valley, and he was like, "Hey, I want to start a company."
+
+680
+00:24:37,040 --> 00:24:38,380
+I was like, "Dude, you're a patent troll.
+
+681
+00:24:38,420 --> 00:24:40,920
+Leave me alone." [laughs] "No, no, no, I'm serious."
+
+682
+00:24:41,160 --> 00:24:42,140
+He's like, "No, no, I'm serious."
+
+683
+00:24:42,200 --> 00:24:45,720
+I was like, "Okay, I'm gonna be out in San Francisco tomorrow, actually.
+
+684
+00:24:45,760 --> 00:24:47,800
+Let's meet and have dinner." And he's like, "Okay, let's do it."
+
+685
+00:24:47,860 --> 00:24:49,420
+So we started a company, a new company.
+
+686
+00:24:50,360 --> 00:24:52,040
+Got that funded by Khosla Ventures.
+
+687
+00:24:53,640 --> 00:24:56,580
+W- His name was Isy.. So Isy, we closed the deal.
+
+688
+00:24:57,160 --> 00:25:00,160
+He pulled out the, uh... What's that device from the "Men in Black"?
+
+689
+00:25:01,120 --> 00:25:03,480
+Charles Caskey: The- The little, yeah, little memory eraser thing?
+
+690
+00:25:03,960 --> 00:25:04,460
+Jamie Tyler: Yeah.
+
+691
+00:25:04,200 --> 00:25:04,700
+Keith Murphy: Yeah.
+
+692
+00:25:04,560 --> 00:25:05,060
+Charles Caskey: Yeah, yeah.
+
+693
+00:25:04,880 --> 00:25:06,060
+Keith Murphy: What'd they call it? I don't remember.
+
+694
+00:25:07,180 --> 00:25:10,420
+Jamie Tyler: Uh, he bought one of those things, and he brought it to the meeting,
+
+695
+00:25:10,480 --> 00:25:14,080
+and it was Vinod and a couple other people, like really famous tech people.
+
+696
+00:25:14,660 --> 00:25:16,160
+And he goes, "We just closed the deal."
+
+697
+00:25:16,220 --> 00:25:18,480
+And they were like, "Okay, we'll give you a million bucks to go 12
+
+698
+00:25:18,520 --> 00:25:19,020
+months."
+
+699
+00:25:20,060 --> 00:25:20,560
+Charles Caskey: Okay.
+
+700
+00:25:20,100 --> 00:25:24,800
+Jamie Tyler: And it was to commercialize ultrasound for direct-to-consumer neuromodulation.
+
+701
+00:25:25,580 --> 00:25:26,080
+Keith Murphy: Whoa.
+
+702
+00:25:25,840 --> 00:25:26,340
+Charles Caskey: Oh, nice.
+
+703
+00:25:26,240 --> 00:25:26,740
+Jamie Tyler: Yeah. And that was the company.
+
+704
+00:25:26,540 --> 00:25:28,480
+Keith Murphy: I didn't know-- Wait, Khosla funded...
+
+705
+00:25:28,520 --> 00:25:30,000
+'Cause he, you know, Khosla was also Openwater.
+
+706
+00:25:30,000 --> 00:25:31,480
+Jamie Tyler: Dude, let me tell you. I'll, I'm gonna tell you.
+
+707
+00:25:31,560 --> 00:25:32,060
+I, I-
+
+708
+00:25:32,060 --> 00:25:32,560
+Keith Murphy: He's gone
+
+709
+00:25:32,280 --> 00:25:34,740
+Jamie Tyler: ... I disappeared and vanished, man, and then I came back up.
+
+710
+00:25:34,740 --> 00:25:36,020
+[laughs] So I'll tell you. So bottom line-
+
+711
+00:25:36,080 --> 00:25:36,580
+Keith Murphy: Yeah,
+
+712
+00:25:36,380 --> 00:25:38,440
+Jamie Tyler: yeah. Talk ... the funny thing is I hear, like, different bits and pieces.
+
+713
+00:25:38,480 --> 00:25:40,260
+Like, nobody-- I know where the dead bodies are.
+
+714
+00:25:40,380 --> 00:25:40,880
+[laughs]
+
+715
+00:25:40,840 --> 00:25:42,700
+Keith Murphy: Yeah, I bet you do. [laughs]
+
+716
+00:25:42,780 --> 00:25:49,180
+Jamie Tyler: So, um, it's, so what happened was, um, yeah, it was ultrasound.
+
+717
+00:25:49,300 --> 00:25:52,960
+That-- Vinod loved the idea of using ultrasound 'cause it was new in biology,
+
+718
+00:25:53,060 --> 00:25:55,420
+right? He got the biology. That was really cool about it.
+
+719
+00:25:55,460 --> 00:25:57,020
+He was investing in the science, right?
+
+720
+00:25:57,800 --> 00:26:01,860
+And so we said, "Okay, we've got 12 months to make this wearable ultrasound
+
+721
+00:26:02,520 --> 00:26:05,020
+device," from where we were.
+
+722
+00:26:05,340 --> 00:26:05,840
+Charles Caskey: Yeah.
+
+723
+00:26:05,380 --> 00:26:08,460
+Jamie Tyler: Not even... This was in 2011, right?
+
+724
+00:26:08,720 --> 00:26:09,220
+Keith Murphy: Wow.
+
+725
+00:26:09,240 --> 00:26:09,740
+Charles Caskey: Yeah.
+
+726
+00:26:09,480 --> 00:26:11,020
+Keith Murphy: Way early. Tools were different.
+
+727
+00:26:11,020 --> 00:26:11,520
+Jamie Tyler: And so-
+
+728
+00:26:11,480 --> 00:26:12,120
+Charles Caskey: You gotta do this. [laughs]
+
+729
+00:26:12,140 --> 00:26:15,980
+Jamie Tyler: ... everyone in the ultrasound field, everyone in the ultrasound field said, "No way.
+
+730
+00:26:16,000 --> 00:26:20,220
+It can't be done." We found two guys that, like, had made LEDs for
+
+731
+00:26:20,260 --> 00:26:23,600
+bicycles, and they knew how to make them really bright 'cause they were, had
+
+732
+00:26:23,640 --> 00:26:25,000
+a pulse circuitry. And I was like- Mm-hmm ...
+
+733
+00:26:25,000 --> 00:26:26,440
+"Well, what frequency are you guys pulsing them?"
+
+734
+00:26:26,500 --> 00:26:28,400
+They told me. I was like, "Can you do this?"
+
+735
+00:26:28,440 --> 00:26:29,600
+And they were like, "Yeah." I was like, "Okay."
+
+736
+00:26:30,180 --> 00:26:33,040
+So we made this device, this battery-powered device called the U+.
+
+737
+00:26:33,720 --> 00:26:34,220
+Charles Caskey: Mm-hmm.
+
+738
+00:26:33,940 --> 00:26:37,060
+Jamie Tyler: And it's the device that Jay Sanguinetti used in his early studies.
+
+739
+00:26:37,440 --> 00:26:38,840
+That study that he used-
+
+740
+00:26:38,880 --> 00:26:39,380
+Keith Murphy: Oh, cool
+
+741
+00:26:39,380 --> 00:26:42,140
+Jamie Tyler: ... the U+ device, that was our device we made.
+
+742
+00:26:42,480 --> 00:26:42,980
+But-
+
+743
+00:26:42,900 --> 00:26:43,400
+Keith Murphy: Whoa
+
+744
+00:26:43,160 --> 00:26:47,820
+Jamie Tyler: ... we talked to the FDA, and it was clear ultrasound was going nowhere,
+
+745
+00:26:48,440 --> 00:26:50,160
+so we pivoted to electrical stimulation.
+
+746
+00:26:50,480 --> 00:26:50,980
+Charles Caskey: Oh.
+
+747
+00:26:51,160 --> 00:26:51,660
+Keith Murphy: Oh. That makes sense.
+
+748
+00:26:51,260 --> 00:26:54,620
+Jamie Tyler: And then I started this whole path on electrical stimulation, 'cause that was the
+
+749
+00:26:54,640 --> 00:26:57,160
+product that we eventually launched. But it was originally for ultrasound.
+
+750
+00:26:57,200 --> 00:27:01,760
+We just realized there was no way the FDA's gonna allow you to make
+
+751
+00:27:01,980 --> 00:27:02,480
+a wearable-
+
+752
+00:27:02,380 --> 00:27:02,880
+Keith Murphy: Yeah
+
+753
+00:27:02,640 --> 00:27:04,920
+Jamie Tyler: ... ultrasound device for consumers, right?
+
+754
+00:27:05,060 --> 00:27:06,480
+Keith Murphy: No way. No way. Yeah.
+
+755
+00:27:06,480 --> 00:27:07,040
+Jamie Tyler: Yeah. No way.
+
+756
+00:27:07,880 --> 00:27:08,560
+Charles Caskey: We thought it might.
+
+757
+00:27:08,600 --> 00:27:10,600
+Keith Murphy: Still, still not to this day, actually.
+
+758
+00:27:10,680 --> 00:27:11,180
+Jamie Tyler: It's no way.
+
+759
+00:27:10,740 --> 00:27:12,260
+Keith Murphy: Even though some people still think they would.
+
+760
+00:27:12,320 --> 00:27:12,820
+Yeah, they won't. No way.
+
+761
+00:27:12,740 --> 00:27:16,440
+Jamie Tyler: Not for consumers. For, for medical stuff, sure, but med- consumer stuff, no.
+
+762
+00:27:16,720 --> 00:27:20,540
+Keith Murphy: I, I made the point, Charles, you asked me this during our, uh, whatever
+
+763
+00:27:20,580 --> 00:27:22,300
+you call those, the little chat on stage.
+
+764
+00:27:22,360 --> 00:27:22,860
+Jamie Tyler: Mm-hmm.
+
+765
+00:27:22,400 --> 00:27:25,380
+Keith Murphy: Charles was asking about sort of consumer stuff.
+
+766
+00:27:25,680 --> 00:27:27,260
+Or maybe you weren't. Maybe I just talked about it.
+
+767
+00:27:27,700 --> 00:27:33,140
+I think dementia prevention is, like, an on-ramp to consumer because it's preventative, so
+
+768
+00:27:33,180 --> 00:27:34,520
+maybe they have it, maybe they don't.
+
+769
+00:27:34,900 --> 00:27:38,280
+And if you just keep backing it up, but that's still FDA indication first,
+
+770
+00:27:38,820 --> 00:27:39,320
+then go.
+
+771
+00:27:39,100 --> 00:27:40,880
+Jamie Tyler: I mean, it's, it's not clear where, like...
+
+772
+00:27:41,380 --> 00:27:44,700
+It's, it's not clear where natural aging becomes a pathology, right?
+
+773
+00:27:45,040 --> 00:27:46,400
+Keith Murphy: That, that's why it might be an on-ramp.
+
+774
+00:27:46,480 --> 00:27:47,440
+Yeah. Anyway, not to distract.
+
+775
+00:27:47,440 --> 00:27:50,640
+Jamie Tyler: I think it's a-- Listen, I think there's a lot of people in cognition
+
+776
+00:27:50,680 --> 00:27:52,900
+and aging right now, and I think there's things we can do that we're
+
+777
+00:27:52,940 --> 00:27:55,900
+not doing that could prevent decline.
+
+778
+00:27:56,240 --> 00:27:56,740
+Keith Murphy: Yeah.
+
+779
+00:27:56,280 --> 00:27:57,500
+Jamie Tyler: And ultrasound might be one of those things.
+
+780
+00:27:57,540 --> 00:27:59,700
+Charles Caskey: Yeah, prevent or slow. I mean, that's-
+
+781
+00:27:59,740 --> 00:28:00,240
+Jamie Tyler: Slow down.
+
+782
+00:28:00,420 --> 00:28:00,920
+Charles Caskey: Yeah. That-
+
+783
+00:28:01,320 --> 00:28:01,820
+Jamie Tyler: Yeah.
+
+784
+00:28:01,340 --> 00:28:04,240
+Charles Caskey: Yeah, I think this is... I, I've become more open to this the more
+
+785
+00:28:04,280 --> 00:28:07,980
+I've learned about it. I mean, uh, uh, as somebody that's spent their entire
+
+786
+00:28:08,060 --> 00:28:12,920
+career in the medical environment, um, I, like, when I first started seeing things
+
+787
+00:28:13,060 --> 00:28:17,180
+kind of crop up in the wellness space that were either neuromodulatory, like TDCS
+
+788
+00:28:17,220 --> 00:28:18,580
+type stuff, now I-
+
+789
+00:28:18,660 --> 00:28:19,160
+Jamie Tyler: Yeah
+
+790
+00:28:18,800 --> 00:28:21,300
+Charles Caskey: ... I, I was kind of like, "Oh, I don't like this," because it's
+
+791
+00:28:21,340 --> 00:28:24,600
+like, it's like the guardrails that the FDA provides don't seem-
+
+792
+00:28:24,640 --> 00:28:25,140
+Jamie Tyler: Yeah
+
+793
+00:28:24,660 --> 00:28:26,120
+Charles Caskey: ... to be as, as rigid there.
+
+794
+00:28:26,160 --> 00:28:29,220
+And then we, a lot of times in this, uh, I, they compare it
+
+795
+00:28:29,260 --> 00:28:31,360
+to, like, the supplement space and stuff like that.
+
+796
+00:28:31,400 --> 00:28:31,900
+Jamie Tyler: That's right.
+
+797
+00:28:31,980 --> 00:28:32,480
+Charles Caskey: Um, and it's not-
+
+798
+00:28:32,600 --> 00:28:33,100
+Jamie Tyler: That's right
+
+799
+00:28:32,700 --> 00:28:35,440
+Charles Caskey: ... to say that none of this is good or that it doesn't have
+
+800
+00:28:35,460 --> 00:28:36,680
+an effect. It's nothing like that.
+
+801
+00:28:36,780 --> 00:28:40,700
+My, my concern came from, like, w- what, what's protecting people?
+
+802
+00:28:41,320 --> 00:28:41,820
+But I do-
+
+803
+00:28:41,840 --> 00:28:42,340
+Jamie Tyler: Totally
+
+804
+00:28:41,900 --> 00:28:44,200
+Charles Caskey: ... yeah, I'm starting to become more open to the idea of, like, if
+
+805
+00:28:44,240 --> 00:28:50,360
+you've, if you've got safety pretty locked in, sure, why prevent people from
+
+806
+00:28:50,420 --> 00:28:52,540
+something? I mean, we have so many examples.
+
+807
+00:28:52,620 --> 00:28:53,120
+Jamie Tyler: That's right.
+
+808
+00:28:52,660 --> 00:28:55,280
+Charles Caskey: People can go get drunk. They can go get, you know, go buy-
+
+809
+00:28:55,300 --> 00:28:56,960
+Keith Murphy: Charles, you've come a long way, man.
+
+810
+00:28:56,960 --> 00:28:57,540
+[laughs]
+
+811
+00:28:57,580 --> 00:28:58,360
+Charles Caskey: A long way in a short time.
+
+812
+00:28:58,360 --> 00:28:59,720
+Keith Murphy: Jamie, you should have heard him on episode one.
+
+813
+00:28:59,720 --> 00:29:02,020
+Jamie Tyler: No, we were, we were the first, we were the first company that went
+
+814
+00:29:02,040 --> 00:29:05,060
+through that process, and we, we, like, I funded the study-
+
+815
+00:29:05,100 --> 00:29:05,600
+Keith Murphy: You got railed
+
+816
+00:29:05,160 --> 00:29:08,480
+Jamie Tyler: ... in Marom Bikson's lab to get him to c- talk to the FDA,
+
+817
+00:29:08,700 --> 00:29:09,200
+right?
+
+818
+00:29:09,040 --> 00:29:09,540
+Charles Caskey: Mm-hmm.
+
+819
+00:29:09,240 --> 00:29:12,360
+Jamie Tyler: Like, so at first we started with TDCS, and we realized, oh, you can
+
+820
+00:29:12,380 --> 00:29:13,600
+only pump the current up to four.
+
+821
+00:29:13,660 --> 00:29:14,760
+We gotta go to, like, 20.
+
+822
+00:29:15,280 --> 00:29:15,780
+Charles Caskey: Mm-hmm.
+
+823
+00:29:15,480 --> 00:29:18,000
+Jamie Tyler: And so then we started doing, like, high-frequency pulse stuff, right?
+
+824
+00:29:18,180 --> 00:29:18,680
+Charles Caskey: Yeah.
+
+825
+00:29:18,200 --> 00:29:19,640
+Jamie Tyler: And to this day, that's still what I do.
+
+826
+00:29:19,760 --> 00:29:21,100
+So I have, like, the BrainBuds.
+
+827
+00:29:21,120 --> 00:29:22,580
+It's a bilateral device.
+
+828
+00:29:23,060 --> 00:29:23,560
+Keith Murphy: Yeah.
+
+829
+00:29:23,640 --> 00:29:28,780
+Jamie Tyler: That was actually made specifically for that issue, Charles, because-
+
+830
+00:29:28,820 --> 00:29:29,320
+Charles Caskey: Yeah
+
+831
+00:29:28,900 --> 00:29:33,700
+Jamie Tyler: ... there, we made it for, uh, I'm just gonna say some aerospace applications.
+
+832
+00:29:33,840 --> 00:29:34,340
+Charles Caskey: Mm-hmm.
+
+833
+00:29:34,420 --> 00:29:38,700
+Jamie Tyler: People who were on flight status, and they couldn't use a prescription device.
+
+834
+00:29:39,060 --> 00:29:39,560
+Charles Caskey: Mm.
+
+835
+00:29:39,120 --> 00:29:42,300
+Jamie Tyler: So that was the first time that the government actually needed something that was
+
+836
+00:29:42,420 --> 00:29:47,440
+over-the-counter general wellness, but still safety.
+
+837
+00:29:47,580 --> 00:29:49,200
+You still had all the safety benchmarks-
+
+838
+00:29:49,280 --> 00:29:49,780
+Charles Caskey: Yeah
+
+839
+00:29:49,300 --> 00:29:52,060
+Jamie Tyler: ... right? And I think a lot of people want to skirt the safety
+
+840
+00:29:52,180 --> 00:29:54,340
+stuff, and I'm like, "It's not gonna do anyone any favors."
+
+841
+00:29:54,780 --> 00:29:56,100
+Charles Caskey: Yeah. Yeah. No, no-
+
+842
+00:29:56,140 --> 00:29:56,640
+Jamie Tyler: You know?
+
+843
+00:29:56,560 --> 00:29:57,600
+Charles Caskey: ... it's not. It's, it's definitely not.
+
+844
+00:29:57,640 --> 00:30:00,360
+And that's, you know... Yeah. So I, yeah, I have, I've become-
+
+845
+00:30:00,420 --> 00:30:01,720
+Jamie Tyler: It's, it's its own category, right?
+
+846
+00:30:01,760 --> 00:30:02,260
+Charles Caskey: Mm-hmm.
+
+847
+00:30:01,820 --> 00:30:04,440
+Jamie Tyler: So the FDA needs to stand up in office and say, "Look, we have
+
+848
+00:30:04,480 --> 00:30:08,960
+to hold these companies to some accountability and regulation."
+
+849
+00:30:09,600 --> 00:30:11,260
+It's just a different division, you know?
+
+850
+00:30:11,500 --> 00:30:14,640
+Charles Caskey: Y- Right. Right. It's not like a medical device with a, a, a tr-
+
+851
+00:30:14,860 --> 00:30:19,240
+a known outcome that's gonna have a controlled clinical trial at the outset, but
+
+852
+00:30:19,280 --> 00:30:22,420
+it doesn't mean that it's not useful, and it doesn't mean that we have,
+
+853
+00:30:22,600 --> 00:30:24,720
+then we can't just block it.
+
+854
+00:30:24,920 --> 00:30:26,340
+You know, we, we stifle innovation.
+
+855
+00:30:26,440 --> 00:30:26,940
+Yeah.
+
+856
+00:30:27,650 --> 00:30:28,650
+Jamie Tyler: I mean, maybe it should, though.
+
+857
+00:30:28,810 --> 00:30:31,750
+I w- I would be okay with, like, saying consumer devices have to have
+
+858
+00:30:31,790 --> 00:30:32,710
+controlled trials.
+
+859
+00:30:32,990 --> 00:30:33,490
+Charles Caskey: Yeah.
+
+860
+00:30:33,090 --> 00:30:35,810
+Jamie Tyler: Just because some of the marketing claims you see, you could shut down some
+
+861
+00:30:35,850 --> 00:30:38,350
+of that stuff too, 'cause that stuff's crazy for consumers.
+
+862
+00:30:38,610 --> 00:30:41,530
+Charles Caskey: It, yeah. It, it's, it, it be-- I mean, it'd be, yeah, like you
+
+863
+00:30:41,570 --> 00:30:43,630
+said, it's just almost like this different division of it.
+
+864
+00:30:43,670 --> 00:30:44,970
+It's like you'd just love to see-
+
+865
+00:30:45,090 --> 00:30:45,590
+Jamie Tyler: Yeah
+
+866
+00:30:45,190 --> 00:30:49,090
+Charles Caskey: ... some, some guardrails, but, like, once you get past safety, start to make
+
+867
+00:30:49,430 --> 00:30:53,830
+comparisons to other things that we already allow people to do, or, you know,
+
+868
+00:30:54,010 --> 00:30:58,190
+foods that get created that people consume at a mass scale and, like, we,
+
+869
+00:30:58,330 --> 00:31:00,850
+you know, chemicals and stuff we ingest in that process.
+
+870
+00:31:00,930 --> 00:31:04,330
+Like, we find out, oh, they do harm a- after the fact.
+
+871
+00:31:04,390 --> 00:31:07,930
+Yeah. And, and I mean, it, it just seems inconsistent, and I do, I
+
+872
+00:31:07,950 --> 00:31:11,610
+do like the idea of consistency from [chuckles] the government, you know, to say,
+
+873
+00:31:12,270 --> 00:31:12,770
+uh, yeah.
+
+874
+00:31:13,370 --> 00:31:15,290
+Jamie Tyler: I mean, it's to protect the consumers too, right?
+
+875
+00:31:15,450 --> 00:31:15,950
+Charles Caskey: Yep.
+
+876
+00:31:15,490 --> 00:31:18,270
+Jamie Tyler: Like, we started in that space, but we always held safety as, like, very...
+
+877
+00:31:18,390 --> 00:31:21,350
+We went through the FDA. We filed a 513(g) originally.
+
+878
+00:31:21,530 --> 00:31:23,150
+Now they won't even talk to you about that stuff.
+
+879
+00:31:23,290 --> 00:31:27,530
+But I think what happened is people wanted to see it as this loophole.
+
+880
+00:31:27,990 --> 00:31:28,490
+Charles Caskey: Yeah.
+
+881
+00:31:28,010 --> 00:31:30,090
+Jamie Tyler: We're like, "Oh, we don't really have to talk to the FDA."
+
+882
+00:31:30,570 --> 00:31:31,250
+It's like, uh-
+
+883
+00:31:31,890 --> 00:31:32,390
+Charles Caskey: Yeah. [laughs]
+
+884
+00:31:32,010 --> 00:31:35,530
+Jamie Tyler: ... that's not really, that's not really responsible ethical design, right?
+
+885
+00:31:35,590 --> 00:31:36,550
+Or approach. That's-
+
+886
+00:31:36,570 --> 00:31:37,070
+Charles Caskey: Yeah
+
+887
+00:31:36,630 --> 00:31:37,130
+Jamie Tyler: ... you know?
+
+888
+00:31:37,650 --> 00:31:40,850
+Charles Caskey: And, and those things d- yeah, that, that, those are the things that do
+
+889
+00:31:40,930 --> 00:31:45,070
+bother me. I, I've, I've received things where, uh, you know, as an ultrasound
+
+890
+00:31:45,130 --> 00:31:49,670
+expert, people will send me stuff where an ultrasound device has been totally misused
+
+891
+00:31:49,830 --> 00:31:52,850
+and, like, the claims that the marketing made for it, I was just like-
+
+892
+00:31:52,910 --> 00:31:53,670
+Yeah ... I'm like, "N- yeah."
+
+893
+00:31:54,030 --> 00:31:56,630
+Like, any ultrasound expert would be like, "This is gonna harm you."
+
+894
+00:31:56,690 --> 00:31:57,350
+[chuckles] Like...
+
+895
+00:31:57,790 --> 00:32:01,230
+Keith Murphy: Fucking, I was speaking with a group the other day, and I, like, I
+
+896
+00:32:01,250 --> 00:32:03,590
+went a little too far in saying names, so I won't right now, but
+
+897
+00:32:03,630 --> 00:32:08,850
+we both agreed. When you say cringe and neurotech, uh, there's a general company
+
+898
+00:32:08,870 --> 00:32:12,610
+that comes to mind. One of their advertisements, and this is, like, neurotech, is
+
+899
+00:32:12,650 --> 00:32:15,150
+like, "Hey, come sleep with the CEO."
+
+900
+00:32:15,290 --> 00:32:18,250
+And it's, like, this woman, and she's like, you know, maybe she's attractive.
+
+901
+00:32:18,290 --> 00:32:19,690
+You can't really tell in the commercial.
+
+902
+00:32:20,390 --> 00:32:23,670
+And then they put this, like, headset on people, and they stuff them in
+
+903
+00:32:23,710 --> 00:32:26,110
+the back of a truck, and then they put the camera on them.
+
+904
+00:32:26,430 --> 00:32:28,730
+And the guy's like, "Oh, I fell asleep."
+
+905
+00:32:28,790 --> 00:32:31,270
+And they're like, "You see?" And that's the whole ad.
+
+906
+00:32:31,270 --> 00:32:32,250
+[laughing]
+
+907
+00:32:32,450 --> 00:32:33,570
+Charles Caskey: Dude, that's so bad.
+
+908
+00:32:33,710 --> 00:32:34,430
+Keith Murphy: What?
+
+909
+00:32:34,530 --> 00:32:35,430
+Jamie Tyler: So cringey. I haven't seen that ad.
+
+910
+00:32:35,490 --> 00:32:36,550
+That's so cringe. What?
+
+911
+00:32:37,290 --> 00:32:39,270
+Keith Murphy: It's really awful. It, there's like, there's...
+
+912
+00:32:39,590 --> 00:32:43,070
+So Jamie, who else? We won't name what that company is, but, uh, there's-
+
+913
+00:32:43,090 --> 00:32:45,950
+Jamie Tyler: No, there's one that's got like a, there's one that's got, like, an electric
+
+914
+00:32:46,070 --> 00:32:49,030
+dog collar going around, and it's, it's in every ad.
+
+915
+00:32:49,050 --> 00:32:49,550
+Keith Murphy: For humans?
+
+916
+00:32:49,450 --> 00:32:53,190
+Jamie Tyler: I'm like, these things... And I have customers who have used our device, and
+
+917
+00:32:53,210 --> 00:32:54,350
+they send me emails all the time.
+
+918
+00:32:54,390 --> 00:32:55,590
+It's like, "I'll trade you my-
+
+919
+00:32:55,590 --> 00:32:56,090
+Keith Murphy: This is you?
+
+920
+00:32:55,850 --> 00:32:57,830
+Jamie Tyler: ... X device for yours." I was like, "Sorry."
+
+921
+00:32:57,830 --> 00:33:00,230
+[laughing] He bought the dog collar.
+
+922
+00:33:00,330 --> 00:33:02,870
+[laughing]
+
+923
+00:33:02,970 --> 00:33:05,250
+Keith Murphy: Wait, they're trying to, they're trying to geofence humans in their homes.
+
+924
+00:33:05,270 --> 00:33:06,330
+Jamie Tyler: There's, there's others too, man.
+
+925
+00:33:06,750 --> 00:33:07,250
+Keith Murphy: Oh, man.
+
+926
+00:33:07,070 --> 00:33:08,010
+Jamie Tyler: There's others too.
+
+927
+00:33:08,530 --> 00:33:10,170
+Charles Caskey: This is rich. Uh, yeah. Wow.
+
+928
+00:33:10,270 --> 00:33:13,030
+This, so wait, so this is like a, they promise you you can sleep
+
+929
+00:33:13,070 --> 00:33:15,490
+with the CEO, and then they kidnap you and put you in a van
+
+930
+00:33:15,530 --> 00:33:17,510
+and put you the... Is that, is that the commercial?
+
+931
+00:33:17,910 --> 00:33:19,790
+Keith Murphy: Yeah, more or less. [chuckles]
+
+932
+00:33:19,810 --> 00:33:20,510
+Charles Caskey: Oh, that's wild, man.
+
+933
+00:33:20,550 --> 00:33:21,650
+Jamie Tyler: That sounds like a lawsuit.
+
+934
+00:33:22,630 --> 00:33:28,190
+Keith Murphy: It i- it is because, well, well, wellness device marketing is getting really blurry.
+
+935
+00:33:28,330 --> 00:33:30,290
+If you tell someone they can fall asleep faster-
+
+936
+00:33:31,010 --> 00:33:31,510
+Jamie Tyler: What was that supplement comp-
+
+937
+00:33:31,110 --> 00:33:31,610
+Keith Murphy: Which one?
+
+938
+00:33:31,250 --> 00:33:32,710
+Jamie Tyler: What was that supplement company, company?
+
+939
+00:33:32,750 --> 00:33:35,850
+They used to have, like, orgies in convention centers, like, or some, like...
+
+940
+00:33:36,630 --> 00:33:38,310
+It was, uh, it was like, it wasn't like-
+
+941
+00:33:38,330 --> 00:33:38,830
+Keith Murphy: Amindi.
+
+942
+00:33:39,470 --> 00:33:42,130
+Jamie Tyler: It wasn't like the... Oh, what was the name of that company?
+
+943
+00:33:42,130 --> 00:33:47,470
+[laughing] They were known for having these mass conventions of just like-
+
+944
+00:33:47,530 --> 00:33:48,070
+Keith Murphy: With orgies?
+
+945
+00:33:48,730 --> 00:33:50,530
+Jamie Tyler: Just, just sex orgies with just like-
+
+946
+00:33:50,570 --> 00:33:51,070
+Keith Murphy: Wow
+
+947
+00:33:50,650 --> 00:33:52,490
+Jamie Tyler: ... just fitness gurus, um.
+
+948
+00:33:52,590 --> 00:33:56,130
+Keith Murphy: Jamie, you remember the patent? You remember the patent of the, there's a patent
+
+949
+00:33:56,170 --> 00:33:57,750
+out there in ultrasound for orgasms.
+
+950
+00:33:58,150 --> 00:33:59,470
+The Orgasmatron. The Orgasmatron.
+
+951
+00:33:59,530 --> 00:34:01,490
+Jamie Tyler: Yeah, dude. The Orgasmatron's a real thing.
+
+952
+00:34:01,570 --> 00:34:02,550
+Keith Murphy: Charles, you've heard of it too?
+
+953
+00:34:02,630 --> 00:34:04,250
+Charles Caskey: No, I haven't heard of any of this.
+
+954
+00:34:04,510 --> 00:34:07,370
+Um- Yeah ... but I'm think- I'm, I'm glad to know about it now.
+
+955
+00:34:07,450 --> 00:34:08,130
+I don't know. [laughing]
+
+956
+00:34:08,170 --> 00:34:08,670
+Keith Murphy: Oh, yeah.
+
+957
+00:34:11,030 --> 00:34:13,110
+Jamie Tyler: So listen, so the or- let me tell you the, let me, let's talk
+
+958
+00:34:13,170 --> 00:34:16,770
+about, all right. So let- w- let's talk about the clinical side of the
+
+959
+00:34:16,830 --> 00:34:19,570
+Orgasmatron to justify the conversation that will follow.
+
+960
+00:34:19,910 --> 00:34:20,410
+Okay?
+
+961
+00:34:20,210 --> 00:34:20,710
+Keith Murphy: Please.
+
+962
+00:34:20,890 --> 00:34:23,530
+Jamie Tyler: So, um... [laughing]
+
+963
+00:34:23,570 --> 00:34:24,070
+Keith Murphy: Please.
+
+964
+00:34:24,590 --> 00:34:25,370
+Jamie Tyler: We can justify it.
+
+965
+00:34:25,370 --> 00:34:26,170
+Keith Murphy: Let's ground this first.
+
+966
+00:34:26,730 --> 00:34:27,330
+Charles Caskey: Let's ground it.
+
+967
+00:34:27,570 --> 00:34:32,410
+Jamie Tyler: So there's a spinal cord stimulation device that was, um, lumbar stimulation for treatment
+
+968
+00:34:32,450 --> 00:34:33,390
+of, like, pelvic pain.
+
+969
+00:34:33,870 --> 00:34:34,370
+Charles Caskey: Mm-hmm.
+
+970
+00:34:34,270 --> 00:34:36,530
+Jamie Tyler: And I think it was in the UK that it was implanted, the first
+
+971
+00:34:36,590 --> 00:34:39,330
+one. And then, um, the woman, like, she came back.
+
+972
+00:34:39,390 --> 00:34:40,650
+She couldn't, she couldn't do anything.
+
+973
+00:34:40,690 --> 00:34:42,130
+She became completely dysfunctional.
+
+974
+00:34:42,750 --> 00:34:43,250
+Keith Murphy: Oh.
+
+975
+00:34:42,870 --> 00:34:43,370
+Charles Caskey: Mm-hmm.
+
+976
+00:34:43,050 --> 00:34:47,150
+Jamie Tyler: And the reason she became dysfunctional is 'cause she was having, like, 400 orgasms
+
+977
+00:34:47,210 --> 00:34:50,290
+a day. [laughs] 'Cause she just could not stop orgasming.
+
+978
+00:34:50,410 --> 00:34:51,570
+Keith Murphy: Wow. So they just cut the implant
+
+979
+00:34:51,570 --> 00:34:53,390
+Jamie Tyler: out of her spine. Because it just stimulated the orgasms, right?
+
+980
+00:34:53,690 --> 00:34:54,190
+Keith Murphy: Wow.
+
+981
+00:34:54,010 --> 00:34:54,910
+Jamie Tyler: Yeah. Yeah. Could you imagine that?
+
+982
+00:34:55,330 --> 00:34:56,850
+Keith Murphy: That's very cool for her.
+
+983
+00:34:57,110 --> 00:35:01,150
+Jamie Tyler: So that's the Orgasmatron. That's where the term Orgasmatron actually came from, right?
+
+984
+00:35:01,310 --> 00:35:02,270
+Keith Murphy: Oh, they made it up.
+
+985
+00:35:02,310 --> 00:35:03,630
+Jamie Tyler: Like, it was orgasming out of her Orgasmatron.
+
+986
+00:35:03,850 --> 00:35:04,350
+Keith Murphy: Wow.
+
+987
+00:35:03,950 --> 00:35:05,350
+Jamie Tyler: So then David Mishelevich-
+
+988
+00:35:06,290 --> 00:35:06,790
+Keith Murphy: Yeah
+
+989
+00:35:06,410 --> 00:35:11,090
+Jamie Tyler: ... David Mishelevich, guy's great. I licensed a lot of patents from him.
+
+990
+00:35:11,650 --> 00:35:14,910
+Um, we would re- we would remove pretty much everything I'll say from here
+
+991
+00:35:14,970 --> 00:35:15,830
+on about him, but I'm not.
+
+992
+00:35:16,030 --> 00:35:17,050
+He's a nice guy. [laughs]
+
+993
+00:35:17,050 --> 00:35:17,550
+Keith Murphy: Okay.
+
+994
+00:35:17,070 --> 00:35:20,790
+Jamie Tyler: He's still got one patent that people can license in the field, the Orgasmatron.
+
+995
+00:35:20,950 --> 00:35:22,710
+It's a legit... [laughs]
+
+996
+00:35:22,750 --> 00:35:24,150
+Keith Murphy: Yeah, he, he closed the rest of them.
+
+997
+00:35:24,210 --> 00:35:24,710
+Jamie Tyler: And listen, I have-
+
+998
+00:35:24,510 --> 00:35:25,050
+Keith Murphy: It's been closed and shot
+
+999
+00:35:25,070 --> 00:35:29,630
+Jamie Tyler: ... I have one that I licensed to another company for, uh, using low-intensity
+
+1000
+00:35:29,790 --> 00:35:36,810
+ultrasound to, to, uh, to basically reinvigorate the vaginal wall for-
+
+1001
+00:35:36,950 --> 00:35:37,450
+Keith Murphy: Nice
+
+1002
+00:35:37,030 --> 00:35:39,130
+Jamie Tyler: ... vaginal atrophy, right? Instead of using a laser.
+
+1003
+00:35:39,150 --> 00:35:39,870
+Keith Murphy: Oh, see, that sounds a little more medical.
+
+1004
+00:35:39,910 --> 00:35:43,510
+Jamie Tyler: Remember when we were using these high-intensity lasers and having, like, vaginal ablation?
+
+1005
+00:35:43,950 --> 00:35:44,450
+Keith Murphy: Yeah.
+
+1006
+00:35:43,990 --> 00:35:46,630
+Jamie Tyler: I was like, "Dude, it's just an ultrasound tampon," right?
+
+1007
+00:35:46,650 --> 00:35:47,150
+Keith Murphy: Yeah.
+
+1008
+00:35:46,770 --> 00:35:51,370
+Jamie Tyler: Like, just low intensity, like... And the drawings in that patent [laughing] when it
+
+1009
+00:35:51,570 --> 00:35:52,450
+was published.
+
+1010
+00:35:53,330 --> 00:35:53,930
+Keith Murphy: You drew them yourself.
+
+1011
+00:35:53,970 --> 00:35:56,690
+Jamie Tyler: My wife saw it, and she's like, "I don't even know you."
+
+1012
+00:35:56,730 --> 00:36:00,150
+[laughing] Because I said, "Look, it could...
+
+1013
+00:36:00,290 --> 00:36:03,490
+Listen, that same device could be used for lots of things, including pleasure."
+
+1014
+00:36:04,370 --> 00:36:08,770
+Keith Murphy: Well, [laughs] when you describe it the way you described it, it really sounds
+
+1015
+00:36:08,790 --> 00:36:13,070
+like a medical device. I never thought David's patent wasn't sort of like, it,
+
+1016
+00:36:13,230 --> 00:36:15,590
+it has ground, right? Like, it's all CNS at the end of the day.
+
+1017
+00:36:15,950 --> 00:36:18,090
+He just wrote it in a funny way, and I was always like, "Dude,
+
+1018
+00:36:18,130 --> 00:36:19,330
+that's gonna be hard to license.
+
+1019
+00:36:19,450 --> 00:36:21,090
+People don't want that name attached to them."
+
+1020
+00:36:21,130 --> 00:36:24,070
+Jamie Tyler: Here, here's education for you. Education for you.
+
+1021
+00:36:24,150 --> 00:36:27,710
+So one of the most important patent lessons or kind of commercialization lessons I
+
+1022
+00:36:27,790 --> 00:36:33,410
+learned from my patent attorney, who's awesome Um, he, uh, we were talking about
+
+1023
+00:36:34,230 --> 00:36:35,670
+h- the value of patents, right?
+
+1024
+00:36:35,750 --> 00:36:38,670
+Like the utility of them and like how much money should you spend on
+
+1025
+00:36:38,690 --> 00:36:41,750
+them, 'cause I've spent... Dude, I've spent millions of dollars over the years-
+
+1026
+00:36:41,930 --> 00:36:42,430
+Keith Murphy: You, you have a lot
+
+1027
+00:36:42,470 --> 00:36:42,990
+Jamie Tyler: ... on patents and features.
+
+1028
+00:36:43,070 --> 00:36:43,570
+Keith Murphy: Yeah.
+
+1029
+00:36:44,090 --> 00:36:48,450
+Jamie Tyler: Um, but he brought up a good example of the sex toy industry, and
+
+1030
+00:36:48,470 --> 00:36:51,670
+he said, "Listen, there used to be a lot of litigation in sex toys,
+
+1031
+00:36:52,030 --> 00:36:54,710
+but then it became no one cares about patents anymore.
+
+1032
+00:36:54,710 --> 00:36:57,890
+It's just who's got the next product the fastest," right?
+
+1033
+00:36:57,990 --> 00:36:58,490
+Keith Murphy: Mm-hmm.
+
+1034
+00:36:58,590 --> 00:37:02,250
+Jamie Tyler: The next one with the next colors of LEDs, the next different frequencies of
+
+1035
+00:37:02,530 --> 00:37:06,290
+vibrating, all this stuff, right? And so I was like, that's actually kind of
+
+1036
+00:37:06,330 --> 00:37:10,210
+like a interesting way to look at commercialization.
+
+1037
+00:37:10,270 --> 00:37:11,610
+You just gotta have the next thing, right?
+
+1038
+00:37:11,650 --> 00:37:16,490
+And I was like, somebody's gonna want ultrasound neuromodulation for sex toys.
+
+1039
+00:37:17,170 --> 00:37:17,830
+It's an industry.
+
+1040
+00:37:18,470 --> 00:37:19,450
+Keith Murphy: Yeah. [laughs]
+
+1041
+00:37:19,450 --> 00:37:19,950
+Charles Caskey: Oh, yeah. Well, it, it-
+
+1042
+00:37:19,850 --> 00:37:20,710
+Jamie Tyler: I mean, there's nerves, right?
+
+1043
+00:37:21,430 --> 00:37:21,930
+Keith Murphy: Yeah, yeah.
+
+1044
+00:37:22,050 --> 00:37:23,370
+Jamie Tyler: I don't even know why I'm telling you this now.
+
+1045
+00:37:23,450 --> 00:37:25,210
+I don't even know if you're strike this or not, but like-
+
+1046
+00:37:25,290 --> 00:37:25,890
+Keith Murphy: No, we're leaving that
+
+1047
+00:37:25,910 --> 00:37:26,850
+Jamie Tyler: ... one of my favorite ads ever was-
+
+1048
+00:37:26,850 --> 00:37:27,730
+Keith Murphy: But it's true though. There are nerves
+
+1049
+00:37:27,750 --> 00:37:31,710
+Jamie Tyler: ... one of my favorite ads ever was like a, a Trojan ad for
+
+1050
+00:37:31,750 --> 00:37:32,690
+Trojan condoms.
+
+1051
+00:37:33,170 --> 00:37:33,670
+Keith Murphy: Mm-hmm.
+
+1052
+00:37:33,370 --> 00:37:36,550
+Jamie Tyler: And it was just a woman sitting on top of a man, and it
+
+1053
+00:37:36,610 --> 00:37:40,870
+said, uh, "The, the body has over a million miles of nerves.
+
+1054
+00:37:40,930 --> 00:37:42,470
+Enjoy the ride." And I was like, "Man."
+
+1055
+00:37:42,510 --> 00:37:43,270
+Keith Murphy: Whoa.
+
+1056
+00:37:43,310 --> 00:37:43,810
+Charles Caskey: That's powerful.
+
+1057
+00:37:43,870 --> 00:37:47,490
+Keith Murphy: I love that. [laughing]
+
+1058
+00:37:47,530 --> 00:37:50,850
+Jamie Tyler: The cool thing I like about ultrasound and some of these other neuromodulation things
+
+1059
+00:37:50,890 --> 00:37:52,450
+is like it connects the body, right?
+
+1060
+00:37:52,510 --> 00:37:53,390
+Like you get on these different-
+
+1061
+00:37:53,410 --> 00:37:53,910
+Keith Murphy: Yeah
+
+1062
+00:37:53,490 --> 00:37:58,390
+Jamie Tyler: ... conduits of nerves and w- and what I think is an interesting target
+
+1063
+00:37:58,450 --> 00:38:00,730
+no one's explored is like the sacral plexus.
+
+1064
+00:38:00,910 --> 00:38:03,070
+We like the cervical plexus right up in the neck.
+
+1065
+00:38:03,410 --> 00:38:04,590
+Keith Murphy: I think they started doing that now.
+
+1066
+00:38:04,590 --> 00:38:05,530
+Jamie Tyler: And like the brachial plexus could be interesting.
+
+1067
+00:38:05,570 --> 00:38:06,070
+Keith Murphy: Yeah.
+
+1068
+00:38:05,990 --> 00:38:08,150
+Jamie Tyler: Sacral plexus could be a crazy interesting target.
+
+1069
+00:38:08,150 --> 00:38:10,730
+Keith Murphy: Is that for urinary, urinary incontinence, right?
+
+1070
+00:38:11,210 --> 00:38:14,490
+Jamie Tyler: Urinary incontinence, pelvic floor pain. Right.
+
+1071
+00:38:14,530 --> 00:38:15,030
+Keith Murphy: Whoa.
+
+1072
+00:38:15,570 --> 00:38:16,070
+Charles Caskey: Oh, yeah.
+
+1073
+00:38:15,950 --> 00:38:21,010
+Jamie Tyler: Like there's... And what, 'cause what happened was like there was, um, they had
+
+1074
+00:38:21,050 --> 00:38:25,130
+these lasers that they were using, right, for vaginal ablation, and the FDA recalled
+
+1075
+00:38:25,150 --> 00:38:26,870
+them 'cause people were getting hurt, right?
+
+1076
+00:38:27,150 --> 00:38:27,750
+Keith Murphy: Oh, yeah, yeah.
+
+1077
+00:38:27,790 --> 00:38:29,450
+Jamie Tyler: It was the example of like, "Hey, it's a laser.
+
+1078
+00:38:29,490 --> 00:38:30,470
+We'll just let it go."
+
+1079
+00:38:31,010 --> 00:38:31,510
+Charles Caskey: Yeah.
+
+1080
+00:38:31,190 --> 00:38:33,070
+Jamie Tyler: You know, it's no different than a laser on your face.
+
+1081
+00:38:33,330 --> 00:38:35,110
+Keith Murphy: Lasers are beasts, yeah. [laughs]
+
+1082
+00:38:35,150 --> 00:38:35,670
+Charles Caskey: Yeah. It, I-
+
+1083
+00:38:35,710 --> 00:38:37,730
+Jamie Tyler: It was not just... Dude, it was not a laser pointer, right?
+
+1084
+00:38:37,790 --> 00:38:40,010
+This was a CO2 laser, like very powerful-
+
+1085
+00:38:40,050 --> 00:38:40,550
+Charles Caskey: Mm-hmm.
+
+1086
+00:38:40,070 --> 00:38:40,570
+Keith Murphy: Yeah
+
+1087
+00:38:40,790 --> 00:38:41,530
+Jamie Tyler: ... you know? Like-
+
+1088
+00:38:42,050 --> 00:38:43,250
+Charles Caskey: Yeah, the history of- Um- ...
+
+1089
+00:38:43,290 --> 00:38:45,450
+lasers in medical devices is very sloppy.
+
+1090
+00:38:45,510 --> 00:38:49,290
+Like the power levels, the things like, yeah, like, uh, LASIK and stuff like
+
+1091
+00:38:49,350 --> 00:38:51,550
+that, it was not as well controlled as it should've been.
+
+1092
+00:38:51,590 --> 00:38:52,090
+It sounds like-
+
+1093
+00:38:51,990 --> 00:38:52,490
+Jamie Tyler: No
+
+1094
+00:38:52,010 --> 00:38:53,190
+Charles Caskey: ... it's similar in this case.
+
+1095
+00:38:53,290 --> 00:38:53,790
+Yeah.
+
+1096
+00:38:53,550 --> 00:38:57,090
+Jamie Tyler: No. I always m- I always make my students watch this old Netflix documentary
+
+1097
+00:38:57,170 --> 00:38:59,990
+called "The Bleeding Edge," but the one that got me was the-
+
+1098
+00:39:00,290 --> 00:39:00,790
+Keith Murphy: Yeah
+
+1099
+00:39:00,530 --> 00:39:02,910
+Jamie Tyler: ... the hip implants, the cobalt.
+
+1100
+00:39:03,150 --> 00:39:03,650
+Keith Murphy: Okay.
+
+1101
+00:39:03,170 --> 00:39:04,090
+Jamie Tyler: 'Cause it was, they were leaching.
+
+1102
+00:39:04,410 --> 00:39:04,950
+So what happened-
+
+1103
+00:39:04,990 --> 00:39:05,490
+Charles Caskey: Oh.
+
+1104
+00:39:05,010 --> 00:39:07,910
+Jamie Tyler: This, this, the documentary's about medical device failure, right?
+
+1105
+00:39:08,010 --> 00:39:08,510
+Charles Caskey: Okay.
+
+1106
+00:39:08,390 --> 00:39:12,610
+Jamie Tyler: And they talk about spinal cord stimulation implants and breaking, if the leads break
+
+1107
+00:39:12,650 --> 00:39:14,290
+and people have issues, you know?
+
+1108
+00:39:14,530 --> 00:39:15,030
+Charles Caskey: Mm-hmm.
+
+1109
+00:39:14,990 --> 00:39:18,230
+Jamie Tyler: But the one that was fascinating was they had people who had hip implants,
+
+1110
+00:39:18,330 --> 00:39:19,590
+because that became very popular.
+
+1111
+00:39:19,790 --> 00:39:20,290
+Charles Caskey: Mm-hmm.
+
+1112
+00:39:20,130 --> 00:39:22,310
+Jamie Tyler: And then all these people were getting sick, and they couldn't figure out why.
+
+1113
+00:39:22,330 --> 00:39:27,230
+And they had like neurological symptoms, psychiatric symptoms, and the hip implants were leaching
+
+1114
+00:39:27,310 --> 00:39:29,690
+cobalt- Whoa ... and they were getting cobalt poisoning.
+
+1115
+00:39:30,110 --> 00:39:30,610
+Charles Caskey: Oh, goodness.
+
+1116
+00:39:30,430 --> 00:39:31,450
+Jamie Tyler: And so I was like, that's...
+
+1117
+00:39:31,510 --> 00:39:35,490
+It's just a crazy story of like, you know, how they figured that out
+
+1118
+00:39:35,550 --> 00:39:38,750
+and then like in terms of safety, one of those things that you're like,
+
+1119
+00:39:38,790 --> 00:39:39,290
+"Eh."
+
+1120
+00:39:39,570 --> 00:39:42,770
+Charles Caskey: Oh, yeah. And, and like in a hip implant, I mean, that's such a
+
+1121
+00:39:42,830 --> 00:39:46,650
+major surgery. It's like, I mean, even if you had that, like do you
+
+1122
+00:39:46,710 --> 00:39:48,630
+then remove it? I mean, that's major in itself.
+
+1123
+00:39:48,630 --> 00:39:49,130
+Jamie Tyler: I don't know.
+
+1124
+00:39:48,930 --> 00:39:49,670
+Charles Caskey: Like I don't even know if you...
+
+1125
+00:39:49,710 --> 00:39:50,210
+how, how that works.
+
+1126
+00:39:49,810 --> 00:39:51,630
+Jamie Tyler: And that's what happens with some of these devices, right?
+
+1127
+00:39:51,750 --> 00:39:52,250
+Some of the-
+
+1128
+00:39:51,970 --> 00:39:52,470
+Charles Caskey: Yeah
+
+1129
+00:39:52,050 --> 00:39:53,950
+Jamie Tyler: ... like the implants, the companies fail.
+
+1130
+00:39:54,110 --> 00:39:58,130
+You know, they had that one company, um, they had the pain company.
+
+1131
+00:39:58,170 --> 00:40:02,370
+The woman was like 3D plant- printing a plastic part and just injecting it
+
+1132
+00:40:02,390 --> 00:40:02,890
+in people.
+
+1133
+00:40:03,250 --> 00:40:03,750
+Charles Caskey: Oh.
+
+1134
+00:40:03,670 --> 00:40:06,010
+Jamie Tyler: Uh, Meredith Perryman.
+
+1135
+00:40:06,870 --> 00:40:08,150
+Charles Caskey: Okay. And then, then this was-
+
+1136
+00:40:08,150 --> 00:40:08,810
+Jamie Tyler: Yeah, I looked that case up.
+
+1137
+00:40:08,850 --> 00:40:09,890
+You guys don't know about that one?
+
+1138
+00:40:10,110 --> 00:40:11,630
+Charles Caskey: No, no. This is, this is...
+
+1139
+00:40:11,670 --> 00:40:12,350
+I'm learning stuff.
+
+1140
+00:40:12,350 --> 00:40:12,930
+Jamie Tyler: Meredith, like Perryman.
+
+1141
+00:40:12,950 --> 00:40:13,630
+Charles Caskey: I got new stuff to watch.
+
+1142
+00:40:13,630 --> 00:40:15,350
+Jamie Tyler: Tyler Perryman. No relation to me.
+
+1143
+00:40:15,990 --> 00:40:22,270
+Keith Murphy: Meredith Perryman. Whoa. Wait, so she was injecting a 3D-printed part?
+
+1144
+00:40:23,770 --> 00:40:25,050
+Charles Caskey: Yikes. Yikes.
+
+1145
+00:40:25,290 --> 00:40:28,910
+Jamie Tyler: She had a company. They had a company that had a im- implanted spinal
+
+1146
+00:40:28,990 --> 00:40:31,210
+stimulator or some kind of s- nerve stimulator.
+
+1147
+00:40:31,370 --> 00:40:35,290
+So she would... made this part that was inert, and they were billing physicians
+
+1148
+00:40:35,350 --> 00:40:37,030
+for it, and it was just a plastic part.
+
+1149
+00:40:37,630 --> 00:40:40,070
+Keith Murphy: Are you confusing her name with the Elemind CEO?
+
+1150
+00:40:40,530 --> 00:40:41,230
+Charles Caskey: Laura Perryman.
+
+1151
+00:40:41,310 --> 00:40:44,090
+Jamie Tyler: Uh, maybe it is Perryman. Tyler, Meredith, Tyler...
+
+1152
+00:40:44,970 --> 00:40:46,090
+Keith Murphy: Laura Tyler Perryman.
+
+1153
+00:40:46,230 --> 00:40:47,850
+Charles Caskey: It's... I, I found, yeah, I found it.
+
+1154
+00:40:47,930 --> 00:40:49,710
+Uh, yeah, yeah, I found some, some write-ups-
+
+1155
+00:40:49,710 --> 00:40:50,210
+Jamie Tyler: Laura Tyler Perry
+
+1156
+00:40:49,810 --> 00:40:51,190
+Charles Caskey: ... about it on the U.S.
+
+1157
+00:40:51,250 --> 00:40:53,550
+Attorney's office actually. So yeah. This is serious.
+
+1158
+00:40:53,590 --> 00:40:54,550
+Jamie Tyler: Oh, she went to prison, dude.
+
+1159
+00:40:54,590 --> 00:40:55,850
+They sent her to federal prison.
+
+1160
+00:40:56,750 --> 00:40:57,250
+Keith Murphy: Whoa.
+
+1161
+00:40:56,810 --> 00:40:59,870
+Charles Caskey: I mean, those are big laws to break, I mean, and, and sounds like
+
+1162
+00:40:59,890 --> 00:41:01,170
+it caused harm to a lot of people.
+
+1163
+00:41:01,290 --> 00:41:03,890
+So I mean, that's... I mean, and it does sound like it was, I
+
+1164
+00:41:03,930 --> 00:41:07,770
+mean, and legally was determined to be kinda ca- uh, careless, and yeah, that's,
+
+1165
+00:41:07,830 --> 00:41:09,750
+I mean, that's... Those are the paths that you, you gotta-
+
+1166
+00:41:09,750 --> 00:41:13,490
+Jamie Tyler: Yeah. Who makes that decision? I'm gonna implant a inert part into someone.
+
+1167
+00:41:13,530 --> 00:41:16,990
+And she was telling physicians it was needed for like the communications part or
+
+1168
+00:41:17,030 --> 00:41:17,530
+something.
+
+1169
+00:41:17,890 --> 00:41:18,390
+Charles Caskey: Mm-hmm.
+
+1170
+00:41:18,030 --> 00:41:20,050
+Jamie Tyler: I knew because I knew her at ASU.
+
+1171
+00:41:20,150 --> 00:41:22,130
+She came to me. She was a grad student at ASU.
+
+1172
+00:41:22,190 --> 00:41:24,410
+She studied with ultrasound with Bruce Towe actually.
+
+1173
+00:41:24,910 --> 00:41:25,470
+Charles Caskey: Oh, no kidding.
+
+1174
+00:41:25,510 --> 00:41:26,010
+Keith Murphy: Whoa.
+
+1175
+00:41:25,530 --> 00:41:26,630
+Jamie Tyler: I don't know if you've talked to that guys.
+
+1176
+00:41:26,950 --> 00:41:27,450
+Charles Caskey: Yeah, yeah.
+
+1177
+00:41:27,230 --> 00:41:30,170
+Jamie Tyler: Yeah. So she studied with... And so Bruce and Laura came to my office,
+
+1178
+00:41:30,230 --> 00:41:31,150
+and when I met her I was like-
+
+1179
+00:41:33,410 --> 00:41:33,910
+Charles Caskey: Man
+
+1180
+00:41:33,510 --> 00:41:34,930
+Jamie Tyler: ... "Good luck." You know?
+
+1181
+00:41:34,990 --> 00:41:35,490
+Charles Caskey: That's, yeah.
+
+1182
+00:41:35,610 --> 00:41:38,470
+Jamie Tyler: That was years before, like she had the lawsuit, right?
+
+1183
+00:41:38,590 --> 00:41:40,110
+That was a decade before.
+
+1184
+00:41:40,150 --> 00:41:40,650
+Charles Caskey: Mm-hmm.
+
+1185
+00:41:40,290 --> 00:41:45,150
+Jamie Tyler: But you knew just kinda like, "Ooh, this is something going on."
+
+1186
+00:41:45,190 --> 00:41:45,690
+Charles Caskey: Dangerous turf.
+
+1187
+00:41:45,390 --> 00:41:48,090
+Keith Murphy: She has Elizabeth Holm, Eli- Elizabeth Holmes vibes.
+
+1188
+00:41:48,430 --> 00:41:48,930
+It kinda sounds a lot like that story.
+
+1189
+00:41:48,930 --> 00:41:50,150
+Jamie Tyler: Yeah, there's a lot of that going on.
+
+1190
+00:41:50,390 --> 00:41:51,270
+I don't know. There's, there's-
+
+1191
+00:41:51,390 --> 00:41:51,890
+Keith Murphy: Yeah.
+
+1192
+00:41:51,570 --> 00:41:55,630
+Jamie Tyler: But you know, I mean, like she did some crazy stuff, but what's, what's
+
+1193
+00:41:55,670 --> 00:41:59,330
+kind of interesting is what she predicted is almost like, it's kinda feasible almost
+
+1194
+00:41:59,390 --> 00:42:00,810
+now, right? Like...
+
+1195
+00:42:03,050 --> 00:42:04,950
+Charles Caskey: In, in terms of what she wanted to achieve?
+
+1196
+00:42:05,130 --> 00:42:05,710
+Keith Murphy: For Elizabeth Holmes?
+
+1197
+00:42:05,730 --> 00:42:07,270
+Jamie Tyler: Which you can get with a drop of blood, right?
+
+1198
+00:42:07,330 --> 00:42:08,370
+There was just a headline today-
+
+1199
+00:42:08,430 --> 00:42:09,070
+Keith Murphy: Oh, yeah. There's companies now
+
+1200
+00:42:09,070 --> 00:42:09,630
+Jamie Tyler: ... in neurology.
+
+1201
+00:42:09,790 --> 00:42:10,290
+Keith Murphy: Yeah.
+
+1202
+00:42:10,150 --> 00:42:14,390
+Jamie Tyler: Like one drop of dried blood is, is goose of a, a whole vial
+
+1203
+00:42:14,430 --> 00:42:18,370
+of blood for diagnostics in Alzheimer's, right?
+
+1204
+00:42:18,570 --> 00:42:19,070
+So...
+
+1205
+00:42:19,270 --> 00:42:22,610
+Charles Caskey: I think I, I definitely go back and forth on this, 'cause like how
+
+1206
+00:42:22,650 --> 00:42:27,790
+many medical technologies were not, you know, were not ready whenever they got funded,
+
+1207
+00:42:27,890 --> 00:42:31,050
+right? But then like, I mean, if, if you have somebody that...
+
+1208
+00:42:31,110 --> 00:42:34,370
+If you can get a good team together that's good at project management, control,
+
+1209
+00:42:34,530 --> 00:42:36,990
+you know, controlling stuff really well, I mean, but that's...
+
+1210
+00:42:37,010 --> 00:42:39,770
+And I think that's, that's clearly where they went off the rails from, uh,
+
+1211
+00:42:39,870 --> 00:42:41,970
+the, the documentaries and stuff I've seen, is that they just-
+
+1212
+00:42:42,150 --> 00:42:42,650
+Jamie Tyler: Yeah. I mean-
+
+1213
+00:42:42,390 --> 00:42:43,870
+Charles Caskey: ... they didn't do that, and they took the money.
+
+1214
+00:42:43,990 --> 00:42:48,510
+Jamie Tyler: It seems like they should've like- Perhaps a little more like transparency of like-
+
+1215
+00:42:48,610 --> 00:42:52,370
+Yeah ... that's not actually the, our device that's doing that, it's an OEM
+
+1216
+00:42:52,410 --> 00:42:57,010
+device or, you know. It's like, listen, most EEG providers have to pull devices
+
+1217
+00:42:57,070 --> 00:43:00,450
+if they, if, if they had to disclose, like Texas Instruments is actually the
+
+1218
+00:43:00,510 --> 00:43:03,890
+EEG device, right? I think the story, though, I give it to my students
+
+1219
+00:43:04,010 --> 00:43:07,470
+actually on day one in this clinical innovation course I teach.
+
+1220
+00:43:07,850 --> 00:43:10,190
+I give them that story, I give them the story of Jawbone.
+
+1221
+00:43:10,410 --> 00:43:11,610
+I have to watch the story of Jawbone.com.
+
+1222
+00:43:11,650 --> 00:43:12,950
+Keith Murphy: Yeah, Jawbone's a good one.
+
+1223
+00:43:13,850 --> 00:43:19,030
+Jamie Tyler: It's a great one. Um, and then, uh, a couple others, but the, it's
+
+1224
+00:43:19,210 --> 00:43:20,910
+lessons from failure. And I'm-
+
+1225
+00:43:21,090 --> 00:43:21,590
+Charles Caskey: Yeah
+
+1226
+00:43:21,190 --> 00:43:22,970
+Jamie Tyler: ... and I tell them, it's like, "Don't make bad decisions."
+
+1227
+00:43:23,030 --> 00:43:27,370
+Each one of these failures is because there were bad decisions, right?
+
+1228
+00:43:27,570 --> 00:43:28,070
+Charles Caskey: Yeah.
+
+1229
+00:43:27,610 --> 00:43:28,250
+Jamie Tyler: Like, this is not-
+
+1230
+00:43:28,290 --> 00:43:28,790
+Charles Caskey: Yeah
+
+1231
+00:43:28,590 --> 00:43:31,650
+Jamie Tyler: ... failure because of you trying and it didn't work.
+
+1232
+00:43:32,150 --> 00:43:34,050
+Charles Caskey: Yeah, or stupid ideas or something like...
+
+1233
+00:43:34,170 --> 00:43:37,750
+I mean, like the ideas can be great, but you then need, the execution
+
+1234
+00:43:37,810 --> 00:43:42,730
+needs to be careful and validated and, and the expression of that needs to
+
+1235
+00:43:42,770 --> 00:43:47,230
+be honest, and they think, yeah, that's, that's where guess people can go, go
+
+1236
+00:43:47,290 --> 00:43:50,050
+off the rails with that, so.
+
+1237
+00:43:50,250 --> 00:43:51,810
+Jamie Tyler: And then people wanna be famous too, right?
+
+1238
+00:43:51,890 --> 00:43:53,710
+That's the other grifter piece that we're, you know-
+
+1239
+00:43:53,770 --> 00:43:54,270
+Charles Caskey: Mm
+
+1240
+00:43:53,790 --> 00:43:56,530
+Jamie Tyler: ... we're talking about, is like you have these neuroscientists who wanna do these
+
+1241
+00:43:56,570 --> 00:44:00,070
+shows like, uh, like TED... I think TED Talks are great, but that became,
+
+1242
+00:44:00,130 --> 00:44:03,310
+they're like horrible for people because everyone wants to emulate these TED Talks.
+
+1243
+00:44:03,950 --> 00:44:04,450
+You know?
+
+1244
+00:44:04,230 --> 00:44:05,850
+Charles Caskey: Oh, yeah. Yeah, like everyone-
+
+1245
+00:44:05,850 --> 00:44:06,490
+Jamie Tyler: Like, like the grand solution ...
+
+1246
+00:44:06,490 --> 00:44:09,150
+Steve Jobs walking out on the stage like, "I've got the brain in my
+
+1247
+00:44:09,210 --> 00:44:11,370
+hand." It's like, that's bad. [laughs]
+
+1248
+00:44:11,430 --> 00:44:17,470
+Charles Caskey: It's... Yeah. There's not a lot of positive examples of celebrity in science,
+
+1249
+00:44:17,470 --> 00:44:19,350
+[laughs] I would say. You know, it doesn't-
+
+1250
+00:44:19,390 --> 00:44:19,890
+Jamie Tyler: No
+
+1251
+00:44:19,450 --> 00:44:21,070
+Charles Caskey: ... seem to serve a great role.
+
+1252
+00:44:21,230 --> 00:44:22,030
+[laughs]
+
+1253
+00:44:22,090 --> 00:44:23,390
+Jamie Tyler: You know that show "Silicon Valley"?
+
+1254
+00:44:23,470 --> 00:44:24,310
+Do you guys ever watch that?
+
+1255
+00:44:24,350 --> 00:44:25,150
+Um- 'Cause I'm sure you've watched it
+
+1256
+00:44:25,150 --> 00:44:26,470
+Charles Caskey: ... I've, I've re-watched it twice.
+
+1257
+00:44:26,490 --> 00:44:26,990
+[laughs]
+
+1258
+00:44:26,670 --> 00:44:27,210
+Keith Murphy: Yeah. Yeah, yeah. For sure.
+
+1259
+00:44:27,330 --> 00:44:30,310
+Jamie Tyler: That thing's awesome, man, because I, I, I crack up and I was like,
+
+1260
+00:44:30,390 --> 00:44:32,210
+dude, this is so real, right?
+
+1261
+00:44:32,250 --> 00:44:32,750
+It's so real.
+
+1262
+00:44:32,530 --> 00:44:33,030
+Charles Caskey: There's-
+
+1263
+00:44:32,850 --> 00:44:33,350
+Keith Murphy: Yeah
+
+1264
+00:44:33,250 --> 00:44:35,350
+Charles Caskey: ... there's so many parallels to like when you're trying to develop something-
+
+1265
+00:44:35,370 --> 00:44:38,210
+Jamie Tyler: They should make more about academic science, about science like that, right?
+
+1266
+00:44:38,310 --> 00:44:38,990
+Same type of show-
+
+1267
+00:44:39,030 --> 00:44:39,530
+Charles Caskey: Oh, yeah
+
+1268
+00:44:39,070 --> 00:44:40,490
+Jamie Tyler: ... which is like a couple labs.
+
+1269
+00:44:40,510 --> 00:44:41,110
+[laughs]
+
+1270
+00:44:41,150 --> 00:44:43,090
+Charles Caskey: That would be good. Yeah, yeah, 'cause what, what was it?
+
+1271
+00:44:43,270 --> 00:44:44,150
+Jamie Tyler: That would be cool.
+
+1272
+00:44:44,190 --> 00:44:47,010
+Charles Caskey: The, the, the Big Bang Th- that one got it wrong, uh, on, [laughs]
+
+1273
+00:44:47,050 --> 00:44:47,650
+you know, just grad students.
+
+1274
+00:44:47,670 --> 00:44:48,770
+Jamie Tyler: And it was close, though. They-
+
+1275
+00:44:48,950 --> 00:44:49,650
+Charles Caskey: It was close
+
+1276
+00:44:49,670 --> 00:44:50,170
+Jamie Tyler: ... it was close.
+
+1277
+00:44:50,090 --> 00:44:50,590
+Charles Caskey: Yeah, yeah, but-
+
+1278
+00:44:50,130 --> 00:44:51,630
+Jamie Tyler: They had some good things in Big B- in...
+
+1279
+00:44:52,070 --> 00:44:53,390
+Keith Murphy: What, what was that? Is it Big Bang?
+
+1280
+00:44:53,790 --> 00:44:54,490
+Charles Caskey: Is it B- I think it's...
+
+1281
+00:44:54,690 --> 00:44:55,370
+Isn't that what it's called?
+
+1282
+00:44:55,450 --> 00:44:56,310
+Keith Murphy: "Big Bang Theory"?
+
+1283
+00:44:56,690 --> 00:44:57,190
+Charles Caskey: No, Big-
+
+1284
+00:44:57,310 --> 00:44:57,810
+Jamie Tyler: Yeah. For sure
+
+1285
+00:44:57,470 --> 00:44:59,430
+Charles Caskey: ... yeah, yeah. The show, the grad student show.
+
+1286
+00:44:59,530 --> 00:45:00,070
+Um, yeah.
+
+1287
+00:45:00,110 --> 00:45:00,610
+Keith Murphy: Yeah.
+
+1288
+00:45:00,210 --> 00:45:00,950
+Charles Caskey: That one. But-
+
+1289
+00:45:00,990 --> 00:45:03,610
+Jamie Tyler: They should, though, I mean, 'cause th- that would be a great, like, drama
+
+1290
+00:45:03,690 --> 00:45:06,270
+show, right? Like, teach people too, like, do you wanna go to grad school
+
+1291
+00:45:06,310 --> 00:45:07,970
+or not? [laughs]
+
+1292
+00:45:08,250 --> 00:45:08,750
+Keith Murphy: Oh. Hmm.
+
+1293
+00:45:08,310 --> 00:45:11,510
+Charles Caskey: I think, I think, uh, for the, for a certain cluster of people, but
+
+1294
+00:45:11,670 --> 00:45:14,970
+it's never gonna get as big as like medic- you know, medical dramas like
+
+1295
+00:45:14,990 --> 00:45:17,390
+"The Pitt," "Grey's Anatomy," "ER." [laughs]
+
+1296
+00:45:17,410 --> 00:45:18,570
+Jamie Tyler: It depends on the lab, man.
+
+1297
+00:45:18,690 --> 00:45:19,190
+Charles Caskey: Yeah.
+
+1298
+00:45:18,710 --> 00:45:19,670
+Jamie Tyler: If you got the right drama-
+
+1299
+00:45:19,750 --> 00:45:20,250
+Charles Caskey: I g-
+
+1300
+00:45:19,770 --> 00:45:21,710
+Jamie Tyler: ... there are some labs out there that are pretty famous.
+
+1301
+00:45:21,810 --> 00:45:22,310
+Charles Caskey: I g- [laughs]
+
+1302
+00:45:22,130 --> 00:45:24,010
+Jamie Tyler: There's some debauchery that goes on.
+
+1303
+00:45:24,590 --> 00:45:25,490
+Charles Caskey: Okay. I like that. Yeah, yeah.
+
+1304
+00:45:25,550 --> 00:45:27,090
+There's plenty of drama in academics.
+
+1305
+00:45:27,130 --> 00:45:28,970
+This is true. [laughs]
+
+1306
+00:45:28,990 --> 00:45:31,870
+Jamie Tyler: But no, I, I agree 'cause, uh, 'cause there's a lot of like boring
+
+1307
+00:45:31,970 --> 00:45:35,470
+times too for people, right? Like writing a paper, like how exciting is that?
+
+1308
+00:45:35,590 --> 00:45:37,110
+Charles Caskey: Yeah. I've been at Microsoft Word-
+
+1309
+00:45:37,210 --> 00:45:37,710
+Jamie Tyler: Yeah
+
+1310
+00:45:37,310 --> 00:45:39,630
+Charles Caskey: ... for two weeks straight. [laughs] It's like, yeah.
+
+1311
+00:45:39,690 --> 00:45:43,090
+Jamie Tyler: Well, now you can just ask it, like, uh, we're, we were talking in...
+
+1312
+00:45:43,890 --> 00:45:45,410
+It, it's all this stuff with AI, right?
+
+1313
+00:45:45,490 --> 00:45:45,990
+Charles Caskey: Mm-hmm.
+
+1314
+00:45:45,730 --> 00:45:47,530
+Jamie Tyler: And like writing stuff, you know?
+
+1315
+00:45:47,770 --> 00:45:51,050
+And it's like, Keith, you asked me earlier if I had my computer on
+
+1316
+00:45:51,130 --> 00:45:54,070
+AI yet. I'm like, I'm scared to unleash that part yet, you know?
+
+1317
+00:45:54,510 --> 00:45:55,010
+The email part.
+
+1318
+00:45:54,630 --> 00:45:56,030
+Keith Murphy: We thought the email came from AI.
+
+1319
+00:45:56,290 --> 00:45:57,210
+Yeah. [laughs]
+
+1320
+00:45:57,230 --> 00:45:58,470
+Jamie Tyler: Yeah. I know friends that do that, and I'm like-
+
+1321
+00:45:58,570 --> 00:45:59,490
+Keith Murphy: That, that was hand polished?
+
+1322
+00:46:00,610 --> 00:46:02,470
+Jamie Tyler: Oh, yeah. That's, that was, that was original.
+
+1323
+00:46:02,550 --> 00:46:03,570
+That was with heart. [laughs]
+
+1324
+00:46:03,630 --> 00:46:04,590
+Charles Caskey: That was with... Yeah, that was it.
+
+1325
+00:46:04,750 --> 00:46:05,570
+[laughs]
+
+1326
+00:46:05,630 --> 00:46:07,210
+Keith Murphy: God bless you, Keith and Charles.
+
+1327
+00:46:07,350 --> 00:46:09,930
+We really appreciate the... I really appreciate.
+
+1328
+00:46:09,930 --> 00:46:10,430
+[laughs]
+
+1329
+00:46:10,430 --> 00:46:12,770
+Jamie Tyler: Yeah, yeah, yeah. It's just- No, I was honored.
+
+1330
+00:46:12,850 --> 00:46:13,910
+I was like, "Hey, that's great."
+
+1331
+00:46:14,450 --> 00:46:15,430
+Yeah. No.
+
+1332
+00:46:15,430 --> 00:46:18,670
+Charles Caskey: No. The, um, yeah, I, I'm, I, I think I'm with you, uh, so
+
+1333
+00:46:18,790 --> 00:46:21,750
+far, Jamie. I haven't unleashed a computer, but a lot of pe- uh, you
+
+1334
+00:46:21,790 --> 00:46:25,450
+know, with, that's just doing its own thing, but I definitely like know so
+
+1335
+00:46:25,510 --> 00:46:27,790
+many people that are like, "Yeah, I just bought like a, a Mac, a
+
+1336
+00:46:27,870 --> 00:46:31,010
+little like Mac Mini, and I just let it like run stuff and do
+
+1337
+00:46:31,010 --> 00:46:31,510
+its own thing."
+
+1338
+00:46:31,050 --> 00:46:32,090
+Jamie Tyler: Yeah, the Claude stuff.
+
+1339
+00:46:32,210 --> 00:46:32,710
+Keith Murphy: Yeah.
+
+1340
+00:46:32,290 --> 00:46:33,130
+Charles Caskey: Yeah, Claude. [laughs]
+
+1341
+00:46:33,170 --> 00:46:33,670
+Jamie Tyler: Like doing the Claude.
+
+1342
+00:46:33,510 --> 00:46:34,010
+Charles Caskey: Yeah.
+
+1343
+00:46:34,030 --> 00:46:37,550
+Jamie Tyler: I saw a thing that the, the risk assessment on Claude was like out
+
+1344
+00:46:37,570 --> 00:46:39,650
+of 100 was a 97 out of 100.
+
+1345
+00:46:40,210 --> 00:46:41,030
+Charles Caskey: Wait, what does that mean?
+
+1346
+00:46:41,110 --> 00:46:41,650
+Jamie Tyler: It's like-
+
+1347
+00:46:41,710 --> 00:46:43,330
+Keith Murphy: Oh, for error and stuff like that?
+
+1348
+00:46:43,350 --> 00:46:43,850
+Or-
+
+1349
+00:46:43,370 --> 00:46:46,530
+Jamie Tyler: Just like how risky it is in terms of like open portals and back
+
+1350
+00:46:46,630 --> 00:46:47,590
+ends and like-
+
+1351
+00:46:47,910 --> 00:46:49,150
+Keith Murphy: Oh, yeah. Yeah, yeah.
+
+1352
+00:46:49,230 --> 00:46:53,170
+Jamie Tyler: Like, it's terrible. It's terrible. But even scheduling, I would, like I don't, I
+
+1353
+00:46:53,410 --> 00:46:55,370
+still wanna like know what I'm doing, right?
+
+1354
+00:46:55,490 --> 00:46:57,650
+I don't want the robot to tell me when I wake up, like, "Hey,
+
+1355
+00:46:57,710 --> 00:46:58,950
+this is what your day's gonna look like."
+
+1356
+00:46:58,950 --> 00:46:59,550
+[laughs]
+
+1357
+00:46:59,630 --> 00:47:00,910
+Charles Caskey: Yeah, yeah. That's true.
+
+1358
+00:47:00,930 --> 00:47:01,550
+Keith Murphy: Definitely not.
+
+1359
+00:47:01,550 --> 00:47:02,090
+Charles Caskey: Sounds nice, but-
+
+1360
+00:47:02,850 --> 00:47:04,090
+Keith Murphy: Yeah, no. We weren't endorsing-
+
+1361
+00:47:04,170 --> 00:47:04,670
+Jamie Tyler: It's just stupid
+
+1362
+00:47:04,250 --> 00:47:05,410
+Keith Murphy: ... that you have it write your emails.
+
+1363
+00:47:05,470 --> 00:47:07,250
+We just thought that one was a little shady.
+
+1364
+00:47:07,330 --> 00:47:08,570
+[laughs]
+
+1365
+00:47:08,670 --> 00:47:09,990
+Jamie Tyler: I'm not judging him this time.
+
+1366
+00:47:10,990 --> 00:47:13,510
+Keith Murphy: I think there was something wrong with you that, that day.
+
+1367
+00:47:13,650 --> 00:47:17,130
+Jamie Tyler: Man, I don't know. [laughs] Charles was being diplomatic.
+
+1368
+00:47:18,230 --> 00:47:19,590
+Charles Caskey: Yeah, it was d- it was diplomatic.
+
+1369
+00:47:19,670 --> 00:47:23,270
+Uh, that, I mean, that email looked exactly like the type of email I
+
+1370
+00:47:23,330 --> 00:47:25,590
+send when I get like cold reached out to.
+
+1371
+00:47:25,750 --> 00:47:28,010
+I'm like, it's cautious. It's, it's polite.
+
+1372
+00:47:28,190 --> 00:47:28,690
+It's- [laughs]
+
+1373
+00:47:28,710 --> 00:47:29,270
+Keith Murphy: Always polished
+
+1374
+00:47:29,290 --> 00:47:29,870
+Jamie Tyler: Polished.
+
+1375
+00:47:30,150 --> 00:47:30,850
+Charles Caskey: It's polished.
+
+1376
+00:47:30,930 --> 00:47:32,350
+Keith Murphy: Um, guys, let me switch us- Yeah ...
+
+1377
+00:47:32,370 --> 00:47:36,370
+back into gear. It's really nice to hear your perspective, Jamie.
+
+1378
+00:47:36,450 --> 00:47:41,350
+You've lived a thousand lives that have spanned academics, big investors, companies-
+
+1379
+00:47:41,410 --> 00:47:41,910
+Charles Caskey: Mm
+
+1380
+00:47:41,430 --> 00:47:45,050
+Keith Murphy: ... big and small. For all intents and purposes, moved a little bit away
+
+1381
+00:47:45,070 --> 00:47:48,950
+from ultrasound. Is there, is there something you're willing to say about the field
+
+1382
+00:47:49,510 --> 00:47:54,290
+that you think is a misstep or a big win that ultrasound's had that
+
+1383
+00:47:54,330 --> 00:47:55,630
+you didn't expect that would happen?
+
+1384
+00:47:56,070 --> 00:47:58,610
+I feel like it's been a little slow, so I, I don't know if
+
+1385
+00:47:58,630 --> 00:47:59,310
+you wanna have-
+
+1386
+00:47:59,310 --> 00:47:59,950
+Jamie Tyler: I don't know. I, dude, I-
+
+1387
+00:47:59,970 --> 00:48:01,130
+Keith Murphy: ... take your time. Think about it.
+
+1388
+00:48:01,130 --> 00:48:02,310
+[laughs]
+
+1389
+00:48:02,370 --> 00:48:08,550
+Jamie Tyler: Yeah, no, I, I honestly think that the field has done amazing things,
+
+1390
+00:48:08,670 --> 00:48:14,950
+right? Like, there's so many little breakthroughs and that it became a real field,
+
+1391
+00:48:15,090 --> 00:48:15,950
+right? Like w-
+
+1392
+00:48:16,030 --> 00:48:16,590
+Charles Caskey: It... Yeah
+
+1393
+00:48:16,590 --> 00:48:18,530
+Jamie Tyler: ... when I was doing work, there wasn't a field, right?
+
+1394
+00:48:18,550 --> 00:48:22,290
+It was just like a few people, most who just wanted to like argue
+
+1395
+00:48:22,370 --> 00:48:26,050
+about stuff, and then what happened is like there was this common push to
+
+1396
+00:48:26,110 --> 00:48:27,050
+solve problems.
+
+1397
+00:48:27,270 --> 00:48:27,770
+Charles Caskey: Mm-hmm.
+
+1398
+00:48:28,310 --> 00:48:29,950
+Jamie Tyler: And that transformed the field, right?
+
+1399
+00:48:30,090 --> 00:48:32,470
+Like, it became a real field, a real discipline, you know?
+
+1400
+00:48:32,550 --> 00:48:33,050
+Charles Caskey: That-
+
+1401
+00:48:32,710 --> 00:48:35,250
+Keith Murphy: Did you expect it to ever become a real field, or you thought you'd
+
+1402
+00:48:35,310 --> 00:48:35,830
+step in and it-
+
+1403
+00:48:35,830 --> 00:48:36,330
+Jamie Tyler: I didn't
+
+1404
+00:48:36,170 --> 00:48:36,710
+Keith Murphy: ... would evaporate?
+
+1405
+00:48:36,730 --> 00:48:38,150
+Jamie Tyler: I didn't. I didn't see it coming, man.
+
+1406
+00:48:38,310 --> 00:48:41,470
+I, I knew I wanted to come back to ultrasound at some point, and
+
+1407
+00:48:41,510 --> 00:48:44,490
+I always had like, well, I always had grad students and studies right along
+
+1408
+00:48:44,510 --> 00:48:46,690
+the way, but just a small part and like-
+
+1409
+00:48:46,850 --> 00:48:47,350
+Keith Murphy: Mm
+
+1410
+00:48:46,870 --> 00:48:48,970
+Jamie Tyler: ... you know, just trying to like do whatever.
+
+1411
+00:48:49,980 --> 00:48:53,700
+But I think that everyone trying to solve the same problems and working together
+
+1412
+00:48:54,420 --> 00:48:56,720
+is-- I think that's like it changed the field.
+
+1413
+00:48:57,120 --> 00:48:57,760
+It became a field.
+
+1414
+00:48:58,320 --> 00:49:02,600
+Charles Caskey: I, I, I was also surprised to see that whenever it, like, started to
+
+1415
+00:49:02,660 --> 00:49:05,840
+coalesce, and I felt like instead of people being...
+
+1416
+00:49:06,420 --> 00:49:09,740
+I mean, there's of course competition still, like people like to do stuff first.
+
+1417
+00:49:09,760 --> 00:49:10,260
+Jamie Tyler: Sure.
+
+1418
+00:49:09,800 --> 00:49:13,860
+Charles Caskey: But I've seen a lot more just people just being like, "This is a
+
+1419
+00:49:13,880 --> 00:49:17,080
+big question that we need to figure out how to answer, and we need
+
+1420
+00:49:17,100 --> 00:49:17,600
+to-
+
+1421
+00:49:17,140 --> 00:49:17,640
+Jamie Tyler: Yeah
+
+1422
+00:49:17,180 --> 00:49:18,460
+Charles Caskey: ... figure out how to do this safely."
+
+1423
+00:49:18,620 --> 00:49:20,480
+I do think that's something the field's gotten right.
+
+1424
+00:49:21,080 --> 00:49:23,700
+Uh, I'd be curious, um, you know, the, uh, to the other part of
+
+1425
+00:49:23,740 --> 00:49:27,460
+Keith's question is like, is there anything that you see now that you're just
+
+1426
+00:49:27,520 --> 00:49:29,220
+like, you feel like the field's getting wrong?
+
+1427
+00:49:31,220 --> 00:49:31,720
+Jamie Tyler: Um...
+
+1428
+00:49:32,620 --> 00:49:34,540
+Keith Murphy: We could cut this if you say something nasty.
+
+1429
+00:49:34,540 --> 00:49:35,040
+[laughs]
+
+1430
+00:49:34,580 --> 00:49:37,520
+Jamie Tyler: No, not really. Not really. I th- I think, I think there's way more
+
+1431
+00:49:37,580 --> 00:49:39,440
+the field's getting right than wrong, right?
+
+1432
+00:49:39,600 --> 00:49:40,100
+Charles Caskey: Cool.
+
+1433
+00:49:39,740 --> 00:49:43,880
+Jamie Tyler: Like, there's a lot of like, there's a lot of cautious optimism still, right?
+
+1434
+00:49:43,960 --> 00:49:44,460
+Charles Caskey: Mm-hmm.
+
+1435
+00:49:45,400 --> 00:49:46,240
+Jamie Tyler: Um, there's a lot of like...
+
+1436
+00:49:46,760 --> 00:49:50,140
+I think the one thing that's a missed opportunity I don't see quite as
+
+1437
+00:49:50,200 --> 00:49:53,220
+much as what I always thought was one of the cool aspects of ultrasound
+
+1438
+00:49:53,240 --> 00:49:54,760
+was using imaging, right?
+
+1439
+00:49:54,780 --> 00:49:55,280
+Charles Caskey: Hmm.
+
+1440
+00:49:54,860 --> 00:49:59,300
+Jamie Tyler: So u- using ultrasound imaging with neuromodulation.
+
+1441
+00:49:59,780 --> 00:50:00,280
+Charles Caskey: Yeah.
+
+1442
+00:50:00,000 --> 00:50:00,500
+Jamie Tyler: Um...
+
+1443
+00:50:00,780 --> 00:50:01,280
+Charles Caskey: Yeah. It's-
+
+1444
+00:50:01,080 --> 00:50:02,500
+Jamie Tyler: That, I think that could be...
+
+1445
+00:50:02,540 --> 00:50:05,340
+And I don't know that that's wrong, it just technically may be one of
+
+1446
+00:50:05,380 --> 00:50:07,940
+the things that naturally follows, right?
+
+1447
+00:50:08,080 --> 00:50:10,420
+Like, they both go in parallel, at some point they converge.
+
+1448
+00:50:10,680 --> 00:50:11,180
+Um...
+
+1449
+00:50:10,820 --> 00:50:11,700
+Charles Caskey: Yeah. The, I, I-
+
+1450
+00:50:11,720 --> 00:50:12,220
+Jamie Tyler: You know?
+
+1451
+00:50:12,080 --> 00:50:16,300
+Charles Caskey: ... feel like I wanna see that convergence and, and even have had some
+
+1452
+00:50:16,340 --> 00:50:20,520
+funded grants to try to push that forward, and it's, it's a tough nut
+
+1453
+00:50:20,560 --> 00:50:21,080
+to crack.
+
+1454
+00:50:21,200 --> 00:50:21,860
+Jamie Tyler: It's tough. It's tough.
+
+1455
+00:50:21,980 --> 00:50:25,480
+Charles Caskey: But it, it, be- bec- but it's, but it, because of just, just the
+
+1456
+00:50:25,520 --> 00:50:29,680
+engineering, you just, you want the s- you want these, your transducer elements to
+
+1457
+00:50:29,720 --> 00:50:33,380
+be like high frequency and low frequency, and you w- it's like everything pulls
+
+1458
+00:50:33,460 --> 00:50:34,840
+the wrong way and to go through-
+
+1459
+00:50:34,860 --> 00:50:35,360
+Jamie Tyler: Yeah
+
+1460
+00:50:34,880 --> 00:50:35,980
+Charles Caskey: ... the skull. But I-
+
+1461
+00:50:36,080 --> 00:50:36,580
+Jamie Tyler: Yeah
+
+1462
+00:50:36,220 --> 00:50:39,120
+Charles Caskey: ... I'm totally with you. I would l- I wish that there was more
+
+1463
+00:50:39,180 --> 00:50:42,340
+work really focusing on that at a large scale.
+
+1464
+00:50:42,920 --> 00:50:46,800
+Um, yeah, that's, that's, I, I, I, uh, I'm gonna keep trying.
+
+1465
+00:50:46,800 --> 00:50:47,300
+Jamie Tyler: I think it's coming.
+
+1466
+00:50:46,920 --> 00:50:48,000
+Charles Caskey: Yeah, I'm gonna keep trying at it.
+
+1467
+00:50:48,080 --> 00:50:48,840
+[chuckles] So we'll get-
+
+1468
+00:50:49,120 --> 00:50:52,860
+Jamie Tyler: I think it's coming. You know, like, I mean, the world of using ultrasound
+
+1469
+00:50:52,920 --> 00:50:56,740
+for imaging, g- I think people get stuck on blood flow.
+
+1470
+00:50:56,800 --> 00:50:58,820
+There's probably other signals you could image, right?
+
+1471
+00:50:58,880 --> 00:50:59,380
+Charles Caskey: Yeah.
+
+1472
+00:50:58,920 --> 00:51:00,220
+Jamie Tyler: Other things you could do.
+
+1473
+00:51:01,000 --> 00:51:01,500
+Charles Caskey: Yeah.
+
+1474
+00:51:01,200 --> 00:51:03,640
+Jamie Tyler: Um, that it, it will happen.
+
+1475
+00:51:03,820 --> 00:51:08,060
+But I think, and, and, and I was shocked that the, the field emerged,
+
+1476
+00:51:08,100 --> 00:51:10,320
+like there were a bunch of labs, and I noticed a bunch of labs
+
+1477
+00:51:10,340 --> 00:51:12,180
+started publishing on ultrasound, right?
+
+1478
+00:51:12,220 --> 00:51:12,720
+Charles Caskey: Mm-hmm.
+
+1479
+00:51:12,380 --> 00:51:18,260
+Jamie Tyler: Like, from all different angles, probably about five or six years before the field
+
+1480
+00:51:18,320 --> 00:51:19,500
+kind of emerged, right?
+
+1481
+00:51:19,520 --> 00:51:20,320
+Charles Caskey: Mm-hmm. Yeah.
+
+1482
+00:51:20,720 --> 00:51:23,200
+Jamie Tyler: And I think it emerged, like you guys had said on one of your
+
+1483
+00:51:23,260 --> 00:51:27,560
+podcasts, and I, I agree with you, is when Lennart put together ITRUSST.
+
+1484
+00:51:27,640 --> 00:51:28,140
+Charles Caskey: Yeah.
+
+1485
+00:51:28,200 --> 00:51:32,400
+Jamie Tyler: And got-- Lennart really pulled a lot of people together.
+
+1486
+00:51:32,580 --> 00:51:35,480
+There's a lot of really good labs in Europe that were doing fantastic-
+
+1487
+00:51:35,540 --> 00:51:36,040
+Charles Caskey: Yeah
+
+1488
+00:51:35,560 --> 00:51:36,900
+Jamie Tyler: ... work, you know?
+
+1489
+00:51:37,280 --> 00:51:37,780
+Charles Caskey: Yeah.
+
+1490
+00:51:37,300 --> 00:51:40,140
+Jamie Tyler: And it's easy for people to travel, so that, I think that's what did
+
+1491
+00:51:40,180 --> 00:51:41,260
+it, you know? Um...
+
+1492
+00:51:41,580 --> 00:51:44,440
+Keith Murphy: Jamie, you were at that Oxford conference, the famous first-
+
+1493
+00:51:44,820 --> 00:51:45,320
+Jamie Tyler: Yeah
+
+1494
+00:51:45,060 --> 00:51:45,740
+Keith Murphy: ... fun or whatever.
+
+1495
+00:51:45,780 --> 00:51:48,260
+Jamie Tyler: No, I missed that one. I hate I missed that one, the fun one.
+
+1496
+00:51:48,400 --> 00:51:49,640
+Keith Murphy: Oh, you did? Yeah, I didn't-
+
+1497
+00:51:49,720 --> 00:51:50,220
+Jamie Tyler: Yeah.
+
+1498
+00:51:49,820 --> 00:51:52,260
+Keith Murphy: I was w- that was before my time, but that one sounded like a
+
+1499
+00:51:52,320 --> 00:51:52,820
+banger.
+
+1500
+00:51:53,480 --> 00:51:54,440
+Jamie Tyler: It probably was.
+
+1501
+00:51:54,640 --> 00:51:56,320
+Charles Caskey: It was a banger. It was a banger.
+
+1502
+00:51:56,380 --> 00:51:56,900
+[laughing]
+
+1503
+00:51:57,040 --> 00:51:57,780
+Keith Murphy: Charles enjoyed it.
+
+1504
+00:51:58,040 --> 00:52:01,060
+Charles Caskey: I would-- Yeah, I was, I was super honored to be invited because it
+
+1505
+00:52:01,100 --> 00:52:05,440
+was one, it was like exactly, like I was ex- uh, newer, uh, at
+
+1506
+00:52:05,500 --> 00:52:10,600
+that point, still, still kinda assistant professor getting the lab going, um, and had
+
+1507
+00:52:10,640 --> 00:52:12,560
+made some contributions to the field.
+
+1508
+00:52:12,660 --> 00:52:14,840
+But, so I was really honored to, to, been invited.
+
+1509
+00:52:14,840 --> 00:52:17,500
+Keith Murphy: It, it was an orgy of sorts, you might say, Charles.
+
+1510
+00:52:17,700 --> 00:52:19,520
+Charles Caskey: Uh, y- oh, yeah. [laughing] Yeah.
+
+1511
+00:52:19,900 --> 00:52:23,500
+You, you know that O- Oxford's known, known for that for my- [laughs]
+
+1512
+00:52:23,540 --> 00:52:24,440
+Keith Murphy: Oh, sure. Is that right?
+
+1513
+00:52:24,740 --> 00:52:25,240
+Charles Caskey: My, the-
+
+1514
+00:52:24,940 --> 00:52:25,460
+Keith Murphy: I didn't know that.
+
+1515
+00:52:25,560 --> 00:52:28,660
+Charles Caskey: My thing, I, when I got there, I actually-- So I was like, yeah,
+
+1516
+00:52:28,720 --> 00:52:31,780
+I'm like a dude from like E- rural East Texas and, and I was
+
+1517
+00:52:31,840 --> 00:52:34,480
+just so honored to be invited to this mythical Oxford place.
+
+1518
+00:52:34,520 --> 00:52:37,940
+And when I got off the, uh, uh, like when I arrived there, there,
+
+1519
+00:52:38,400 --> 00:52:43,060
+I accidentally wandered in onto the, the, uh, television set of the show "Endeavour"-
+
+1520
+00:52:43,280 --> 00:52:43,780
+Jamie Tyler: Nice
+
+1521
+00:52:43,460 --> 00:52:44,680
+Charles Caskey: ... if you've ever heard of it, which is like-
+
+1522
+00:52:44,740 --> 00:52:45,240
+Keith Murphy: What?
+
+1523
+00:52:45,220 --> 00:52:45,720
+Charles Caskey: It's, it's like
+
+1524
+00:52:45,420 --> 00:52:46,740
+Keith Murphy: Ox- Oh, because it's filmed at Oxford.
+
+1525
+00:52:46,840 --> 00:52:49,520
+Charles Caskey: Yeah, it's filmed at Oxford, and it's like, I think it's about like a
+
+1526
+00:52:49,640 --> 00:52:51,960
+school there in like the '50s or '60s or something.
+
+1527
+00:52:52,020 --> 00:52:56,320
+So everybody was dressed in these like really formal suits.
+
+1528
+00:52:56,380 --> 00:52:56,880
+They had like-
+
+1529
+00:52:56,880 --> 00:52:57,380
+Jamie Tyler: That's hilarious
+
+1530
+00:52:57,240 --> 00:52:59,640
+Charles Caskey: ... pipes that went down. I was like, I was like, "Oh man, I'm
+
+1531
+00:52:59,700 --> 00:53:00,200
+not ready for this." [laughing]
+
+1532
+00:53:00,200 --> 00:53:01,920
+Jamie Tyler: They had the wigs? Yeah, the wigs on.
+
+1533
+00:53:01,960 --> 00:53:05,340
+Charles Caskey: Yeah, they were like every... I was like, I was like, "They did not
+
+1534
+00:53:05,380 --> 00:53:07,500
+invite the right guy." And then, then, then- [laughs] ...
+
+1535
+00:53:07,520 --> 00:53:10,500
+then a dude in like a yellow, uh, suit, he's like, "Get off the
+
+1536
+00:53:10,560 --> 00:53:13,080
+set, man." I was like, I was like, [laughing] "Where am I?"
+
+1537
+00:53:13,080 --> 00:53:13,580
+Jamie Tyler: Oh, right.
+
+1538
+00:53:13,400 --> 00:53:14,340
+Charles Caskey: And then I was like, "Oh-"
+
+1539
+00:53:14,380 --> 00:53:14,880
+Jamie Tyler: That makes sense.
+
+1540
+00:53:15,040 --> 00:53:16,600
+Charles Caskey: Yeah, I was like, "Oh, people dress normal here.
+
+1541
+00:53:16,660 --> 00:53:17,680
+I think I'm in the right place."
+
+1542
+00:53:17,760 --> 00:53:18,520
+But like [laughing] that was-
+
+1543
+00:53:18,520 --> 00:53:19,320
+Jamie Tyler: That's hilarious.
+
+1544
+00:53:19,420 --> 00:53:21,480
+Charles Caskey: Yeah. So no, it was, it was, it was good.
+
+1545
+00:53:21,520 --> 00:53:24,840
+And I, I think that Lennart's efforts there did really connect a lot of
+
+1546
+00:53:24,920 --> 00:53:25,600
+nodes that-
+
+1547
+00:53:25,620 --> 00:53:26,120
+Jamie Tyler: Oh, yes
+
+1548
+00:53:26,060 --> 00:53:28,940
+Charles Caskey: ... naturally would not have connected nearly as quickly.
+
+1549
+00:53:29,660 --> 00:53:30,160
+Um, but-
+
+1550
+00:53:29,720 --> 00:53:32,200
+Keith Murphy: Lennart's got a, a... Like we always talk about Jamie.
+
+1551
+00:53:32,480 --> 00:53:34,820
+Jamie, maybe you get too much credit, but uh- [laughs] Not true ...
+
+1552
+00:53:34,840 --> 00:53:38,640
+we talk about Jamie as like the resurgence, but I also think Lennart was
+
+1553
+00:53:38,700 --> 00:53:41,060
+a big like coalescent for everybody.
+
+1554
+00:53:41,120 --> 00:53:41,620
+Charles Caskey: Yeah.
+
+1555
+00:53:41,880 --> 00:53:45,040
+Jamie Tyler: Yeah. You know what happened simultaneously, kind of the same time, was we launched
+
+1556
+00:53:45,100 --> 00:53:45,880
+NeuroFUS, right?
+
+1557
+00:53:46,800 --> 00:53:48,860
+Keith Murphy: Through I- IST, right? Or something?
+
+1558
+00:53:49,000 --> 00:53:51,420
+Jamie Tyler: So that's the company I have, have now, the neurotech company.
+
+1559
+00:53:51,960 --> 00:53:55,400
+Um, but what we did was I heard someone talk about...
+
+1560
+00:53:57,180 --> 00:54:01,840
+What did they say? Someone had said something, mentioned something about like creating a
+
+1561
+00:54:01,900 --> 00:54:06,280
+public benefit corporation to like give all the IP away, right?
+
+1562
+00:54:06,600 --> 00:54:07,100
+Charles Caskey: Okay.
+
+1563
+00:54:06,660 --> 00:54:07,620
+Jamie Tyler: I don't know who that was.
+
+1564
+00:54:07,680 --> 00:54:10,000
+Keith Murphy: Well, Openwater is not public benefit.
+
+1565
+00:54:10,160 --> 00:54:13,100
+Jay Sanguinetti's company is public benefit corporation.
+
+1566
+00:54:13,180 --> 00:54:13,880
+Jamie Tyler: Yeah. So it wasn't-
+
+1567
+00:54:14,020 --> 00:54:15,660
+Keith Murphy: But Open, Openwater's open source or whatever.
+
+1568
+00:54:15,940 --> 00:54:19,380
+Jamie Tyler: Yeah. So it wasn't Jay, but it was someone around that, before Jay, right?
+
+1569
+00:54:19,540 --> 00:54:22,940
+Someone-- Public benefit corporations became in, so everyone just wanted to give away IP.
+
+1570
+00:54:23,640 --> 00:54:25,000
+I was like, "Well, how does that work?"
+
+1571
+00:54:25,140 --> 00:54:26,260
+Right? Like, no one's gonna do that.
+
+1572
+00:54:26,260 --> 00:54:27,560
+Keith Murphy: I don't know. [laughs]
+
+1573
+00:54:27,600 --> 00:54:28,100
+Charles Caskey: Hmm.
+
+1574
+00:54:28,320 --> 00:54:32,220
+Jamie Tyler: And so I thought about it for a while, [clears throat] and then I went
+
+1575
+00:54:32,300 --> 00:54:35,240
+to Kyle Morrison at Sonic Concepts.
+
+1576
+00:54:35,420 --> 00:54:35,920
+Charles Caskey: Mm.
+
+1577
+00:54:36,100 --> 00:54:39,660
+Jamie Tyler: I said, "Kyle, you know what the, you know what's preventing the field from
+
+1578
+00:54:39,700 --> 00:54:42,620
+moving forward right now? It's like someone needs what you create.
+
+1579
+00:54:42,840 --> 00:54:44,640
+It's gotta be turnkey, right?"
+
+1580
+00:54:44,700 --> 00:54:45,200
+Charles Caskey: Yeah.
+
+1581
+00:54:44,860 --> 00:54:48,480
+Jamie Tyler: A turnkey system. Uh, but you have to create it in a way that
+
+1582
+00:54:48,520 --> 00:54:52,280
+like it's for those people. So then we got on the phone with BrainBox
+
+1583
+00:54:53,240 --> 00:54:58,640
+with, uh- Andrew and Dan, and, um, it was during COVID.
+
+1584
+00:54:59,060 --> 00:55:03,660
+And then we just concept this idea of NeuroFUS, neuromodulation by focused ultrasound, to
+
+1585
+00:55:03,700 --> 00:55:08,380
+be a turnkey kind of like system that could scale.
+
+1586
+00:55:08,660 --> 00:55:09,160
+Charles Caskey: Yeah.
+
+1587
+00:55:08,700 --> 00:55:11,540
+Jamie Tyler: And I agreed to give up all the, what I did, I didn't give
+
+1588
+00:55:11,580 --> 00:55:14,920
+it up, but I licensed, exclusively licensed all the IP that we had from
+
+1589
+00:55:15,000 --> 00:55:16,700
+ASU to Sonic Concepts.
+
+1590
+00:55:16,940 --> 00:55:17,440
+Charles Caskey: Mm-hmm.
+
+1591
+00:55:17,360 --> 00:55:18,960
+Jamie Tyler: And said, "You guys are the trusted agents.
+
+1592
+00:55:19,100 --> 00:55:20,400
+Build something that's turnkey."
+
+1593
+00:55:20,960 --> 00:55:21,460
+Charles Caskey: Yeah.
+
+1594
+00:55:21,040 --> 00:55:24,540
+Jamie Tyler: And that happened at the same time ITRUSST, and I think with those devices
+
+1595
+00:55:24,580 --> 00:55:27,540
+going out to labs and people, it, it helped.
+
+1596
+00:55:28,080 --> 00:55:28,580
+Charles Caskey: Yeah.
+
+1597
+00:55:28,180 --> 00:55:29,180
+Keith Murphy: Right. It's been massive.
+
+1598
+00:55:29,460 --> 00:55:29,960
+Charles Caskey: Yeah.
+
+1599
+00:55:29,520 --> 00:55:30,020
+Keith Murphy: Oh my God.
+
+1600
+00:55:30,100 --> 00:55:32,360
+Jamie Tyler: 'Cause you, you... Before that, you couldn't build...
+
+1601
+00:55:32,400 --> 00:55:34,340
+It was so hard to build something, right?
+
+1602
+00:55:34,460 --> 00:55:35,460
+Like, what are you g- Like...
+
+1603
+00:55:35,480 --> 00:55:38,280
+And then someone, one person builds it, they leave the lab, and then what
+
+1604
+00:55:38,320 --> 00:55:39,660
+do you do? No one knows how to run it.
+
+1605
+00:55:39,760 --> 00:55:40,260
+Keith Murphy: Yeah.
+
+1606
+00:55:40,560 --> 00:55:43,620
+Charles Caskey: The other thing that was always worrying me is like these lab-built systems, like
+
+1607
+00:55:43,680 --> 00:55:44,360
+sometimes they have these-
+
+1608
+00:55:44,420 --> 00:55:44,920
+Jamie Tyler: Yeah
+
+1609
+00:55:44,440 --> 00:55:47,260
+Charles Caskey: ... massive amplifier. I'm like, "Man, somebody's gonna get hurt.
+
+1610
+00:55:47,420 --> 00:55:48,740
+This is gonna like set the building back."
+
+1611
+00:55:48,740 --> 00:55:51,340
+Jamie Tyler: Like- I've got a couple of Pelican boxes I'm never pulling out again.
+
+1612
+00:55:51,340 --> 00:55:51,840
+[laughs]
+
+1613
+00:55:51,580 --> 00:55:55,200
+Charles Caskey: Yeah. Right. Yeah, exactly. And so to have a product that was, uh, out
+
+1614
+00:55:55,260 --> 00:55:59,240
+there that like was linked with like, uh, some simulation packages, some, uh-
+
+1615
+00:55:59,380 --> 00:55:59,880
+Jamie Tyler: Yeah
+
+1616
+00:55:59,460 --> 00:56:04,140
+Charles Caskey: ... yeah, and, and turnkey, it, it just, it, uh, it was fundamentally enabling
+
+1617
+00:56:04,180 --> 00:56:06,960
+and it, and it was to the credit of people like yourself and people
+
+1618
+00:56:07,000 --> 00:56:07,780
+like Lennart, people at BrainBox.
+
+1619
+00:56:07,820 --> 00:56:10,220
+Jamie Tyler: Well, I didn't do anything. I just helped put, I just helped put the
+
+1620
+00:56:10,260 --> 00:56:12,220
+deal together. It was BrainBox and, uh-
+
+1621
+00:56:12,400 --> 00:56:14,360
+Charles Caskey: Sonic Concepts ... Brad Treeby. Yeah, Treeby.
+
+1622
+00:56:14,400 --> 00:56:14,900
+Treeby.
+
+1623
+00:56:14,860 --> 00:56:16,680
+Jamie Tyler: The, those, his, his k-Wave, like he- Yeah ...
+
+1624
+00:56:16,700 --> 00:56:20,100
+contributed to that. It was easy for me to do that because I was
+
+1625
+00:56:20,160 --> 00:56:22,780
+so focused on our BrainBuds, our vagus nerve stimulation.
+
+1626
+00:56:22,820 --> 00:56:23,320
+Charles Caskey: Mm-hmm.
+
+1627
+00:56:22,920 --> 00:56:25,960
+Jamie Tyler: 'Cause I had contracts to work on that and working for a customer.
+
+1628
+00:56:26,420 --> 00:56:26,920
+Charles Caskey: Yeah.
+
+1629
+00:56:26,660 --> 00:56:30,120
+Jamie Tyler: And, and, and I knew that like it was gonna take a whole bunch
+
+1630
+00:56:30,160 --> 00:56:32,200
+of people and Sonic Concepts-
+
+1631
+00:56:32,240 --> 00:56:32,740
+Charles Caskey: Yeah
+
+1632
+00:56:32,260 --> 00:56:35,260
+Jamie Tyler: ... 'cause like I see them as kind of a Texas Instruments ro-role, right?
+
+1633
+00:56:35,380 --> 00:56:38,840
+Like, hey, they can build stuff and help people get stuff and test stuff,
+
+1634
+00:56:38,940 --> 00:56:39,440
+right?
+
+1635
+00:56:39,160 --> 00:56:40,780
+Charles Caskey: Yeah. Yeah, and they're customer based.
+
+1636
+00:56:40,780 --> 00:56:43,660
+Jamie Tyler: Um, but ITRUSST could be the, the, the...
+
+1637
+00:56:44,080 --> 00:56:47,960
+ITRUSST is the community-driven accountability layer, right?
+
+1638
+00:56:48,420 --> 00:56:48,920
+Um-
+
+1639
+00:56:48,660 --> 00:56:52,060
+Charles Caskey: Yeah, totally. Totally. Yeah, I think that, that, that is a, that's a success
+
+1640
+00:56:52,220 --> 00:56:52,720
+story.
+
+1641
+00:56:52,720 --> 00:56:55,400
+Jamie Tyler: And I sat in on the first couple meetings and, I sat in on
+
+1642
+00:56:55,400 --> 00:56:58,600
+the first couple meetings and, um, after that I just kind of like said,
+
+1643
+00:56:58,620 --> 00:57:01,720
+"I'm just gonna..." It got too complicated for me or too many levels.
+
+1644
+00:57:01,780 --> 00:57:02,280
+Charles Caskey: Yeah.
+
+1645
+00:57:01,980 --> 00:57:02,860
+Jamie Tyler: There's a, there's a lot-
+
+1646
+00:57:03,140 --> 00:57:03,640
+Charles Caskey: Yeah
+
+1647
+00:57:03,160 --> 00:57:04,340
+Jamie Tyler: ... a lot of discussions.
+
+1648
+00:57:04,840 --> 00:57:05,800
+Keith Murphy: It's 'cause he's in a vault.
+
+1649
+00:57:06,100 --> 00:57:07,580
+Charles Caskey: Yeah, that bank vault doesn't have a...
+
+1650
+00:57:07,780 --> 00:57:08,280
+[laughs]
+
+1651
+00:57:08,460 --> 00:57:09,400
+Keith Murphy: There's no Wi-Fi in the vault.
+
+1652
+00:57:09,480 --> 00:57:12,260
+Charles Caskey: It's, yeah, it's just metal. Just a metal box, the guy.
+
+1653
+00:57:12,420 --> 00:57:13,420
+[laughs]
+
+1654
+00:57:13,540 --> 00:57:14,420
+Keith Murphy: Jamie's frozen.
+
+1655
+00:57:14,760 --> 00:57:15,260
+Charles Caskey: Yeah.
+
+1656
+00:57:14,940 --> 00:57:17,060
+Keith Murphy: Uh, well, his camera's frozen in the vault.
+
+1657
+00:57:17,400 --> 00:57:17,900
+Charles Caskey: In the vault.
+
+1658
+00:57:17,720 --> 00:57:20,440
+Keith Murphy: I can't believe they have a bank vault that is just sitting around and
+
+1659
+00:57:20,460 --> 00:57:21,660
+they're like, "Yeah, you can use it."
+
+1660
+00:57:21,780 --> 00:57:22,400
+Isn't that... [laughs]
+
+1661
+00:57:22,440 --> 00:57:25,200
+Charles Caskey: Well, it seems weird, like that there would be a bank vault that-
+
+1662
+00:57:26,160 --> 00:57:28,340
+Keith Murphy: It, it is weird. [laughs]
+
+1663
+00:57:28,440 --> 00:57:30,060
+Jamie Tyler: I had to, I had to open the door a little bit 'cause the-
+
+1664
+00:57:30,060 --> 00:57:33,300
+Keith Murphy: 'Cause it's a bank vault and it doesn't allow [laughs]
+
+1665
+00:57:33,320 --> 00:57:35,120
+Charles Caskey: Wi-Fi. It doesn't allow Wi-Fi to get in.
+
+1666
+00:57:35,120 --> 00:57:35,780
+[laughs]
+
+1667
+00:57:35,820 --> 00:57:38,380
+Jamie Tyler: Hey, that door, that door weighs like five tons, man.
+
+1668
+00:57:39,000 --> 00:57:39,560
+Keith Murphy: Yeah, we know.
+
+1669
+00:57:39,640 --> 00:57:40,580
+Jamie Tyler: Don't wanna get stuck in there.
+
+1670
+00:57:40,680 --> 00:57:44,260
+One day I closed the door and the vault, the lock is open and
+
+1671
+00:57:44,300 --> 00:57:46,100
+it got stuck on the metal, and when that happened-
+
+1672
+00:57:46,160 --> 00:57:47,540
+Keith Murphy: Old man Tyler died in there.
+
+1673
+00:57:47,580 --> 00:57:48,300
+We found his bones.
+
+1674
+00:57:48,540 --> 00:57:50,800
+Jamie Tyler: I... Serious, my wife would be so pissed.
+
+1675
+00:57:51,320 --> 00:57:53,440
+Charles Caskey: Dude. Yeah, keep your fingers out of that door.
+
+1676
+00:57:53,480 --> 00:57:55,120
+That thing looks like it'd take them right off.
+
+1677
+00:57:55,140 --> 00:57:57,440
+Jamie Tyler: Yeah. It will try... So that, that is the other lesson.
+
+1678
+00:57:57,600 --> 00:57:58,760
+It will take your arm off.
+
+1679
+00:57:58,820 --> 00:57:59,920
+[laughs] [laughs]
+
+1680
+00:57:59,960 --> 00:58:01,480
+Charles Caskey: Yeah. Yeah, not even just your finger.
+
+1681
+00:58:01,540 --> 00:58:02,260
+It could take a whole appendage.
+
+1682
+00:58:02,300 --> 00:58:04,860
+Jamie Tyler: No, dude, that's the... It's like right here.
+
+1683
+00:58:05,160 --> 00:58:05,660
+Charles Caskey: Yeah.
+
+1684
+00:58:05,420 --> 00:58:06,380
+Jamie Tyler: Your humerus gone.
+
+1685
+00:58:07,280 --> 00:58:09,540
+Charles Caskey: Um, c-can you repeat what you were saying?
+
+1686
+00:58:09,580 --> 00:58:12,860
+You were, you were talking about z- uh, an early phone call you w-with,
+
+1687
+00:58:13,000 --> 00:58:15,280
+I think Sonic Con- just the early inception-
+
+1688
+00:58:15,300 --> 00:58:15,800
+Keith Murphy: Oh, yeah
+
+1689
+00:58:15,560 --> 00:58:16,200
+Charles Caskey: ... of the NeuroFUS.
+
+1690
+00:58:16,200 --> 00:58:16,700
+Jamie Tyler: Oh, ITRUSST.
+
+1691
+00:58:16,620 --> 00:58:17,660
+Charles Caskey: Yeah. Of, uh... Yeah.
+
+1692
+00:58:18,660 --> 00:58:19,640
+Jamie Tyler: Yeah, so it was ITRUSST. I, I had to-
+
+1693
+00:58:19,640 --> 00:58:20,680
+Charles Caskey: And if not, that's fine too.
+
+1694
+00:58:20,680 --> 00:58:21,780
+[laughs]
+
+1695
+00:58:21,820 --> 00:58:26,640
+Jamie Tyler: ... these worldwide like calls and, and it just got really complicated in terms
+
+1696
+00:58:26,680 --> 00:58:27,840
+of what they were trying to solve.
+
+1697
+00:58:28,360 --> 00:58:28,860
+Charles Caskey: Mm-hmm.
+
+1698
+00:58:28,380 --> 00:58:30,520
+Jamie Tyler: And I was on like two or three and I just said, "Look, these
+
+1699
+00:58:30,560 --> 00:58:32,320
+people got it. I got other problems-" Yeah.
+
+1700
+00:58:32,320 --> 00:58:32,820
+Cool. "... I gotta work on."
+
+1701
+00:58:33,240 --> 00:58:37,620
+Charles Caskey: Okay. So, all right. Jamie, you've given us an awesome rundown of kind of
+
+1702
+00:58:37,660 --> 00:58:41,000
+one of the first big rocks in the pond that created this ripple and
+
+1703
+00:58:41,020 --> 00:58:46,340
+this cool ultrasound, uh, community, uh, that, that followed a-after that.
+
+1704
+00:58:46,860 --> 00:58:49,500
+Um, and you, you've, you've taken your round trip still in the brain.
+
+1705
+00:58:49,640 --> 00:58:52,920
+You've mentioned some things about, about psychedelic trials or other things.
+
+1706
+00:58:53,120 --> 00:58:55,200
+What's the, the hot thing that's going on for you right now?
+
+1707
+00:58:55,460 --> 00:58:56,100
+Keith Murphy: What's the haps?
+
+1708
+00:58:56,240 --> 00:59:01,360
+Jamie Tyler: Yeah. Uh, so, um, so I think, uh, some people may not know, but
+
+1709
+00:59:01,420 --> 00:59:03,040
+I have two companies right now, right?
+
+1710
+00:59:03,120 --> 00:59:05,960
+A neurotech company that makes a vagus nerve stimulation device.
+
+1711
+00:59:06,000 --> 00:59:10,780
+We can chat about that later, but I've got another company, Diamond Therapeutics, that's
+
+1712
+00:59:10,820 --> 00:59:14,440
+based in Toronto, and then we have a company in the US, Diamond USA.
+
+1713
+00:59:15,200 --> 00:59:15,700
+Charles Caskey: Okay.
+
+1714
+00:59:15,380 --> 00:59:19,600
+Jamie Tyler: And so we've got a phase two study going on in Canada right now,
+
+1715
+00:59:20,100 --> 00:59:23,980
+um, studying low-dose psilocybin for treatment of generalized anxiety disorder.
+
+1716
+00:59:24,360 --> 00:59:25,060
+And so I'm-
+
+1717
+00:59:25,080 --> 00:59:25,580
+Charles Caskey: Nice
+
+1718
+00:59:25,240 --> 00:59:29,080
+Jamie Tyler: ... super pumped about that. Um, in terms of scalability, right?
+
+1719
+00:59:29,180 --> 00:59:35,940
+Like- Yeah ... high-dose psychedelics, no question, no question, that's like some powerful for
+
+1720
+00:59:36,120 --> 00:59:39,140
+mental health, but it doesn't scale, right?
+
+1721
+00:59:39,540 --> 00:59:40,040
+Like-
+
+1722
+00:59:40,460 --> 00:59:40,960
+Charles Caskey: Yeah
+
+1723
+00:59:40,620 --> 00:59:44,660
+Jamie Tyler: ... your, my grandmother was never going to smoke a bowl of DMT.
+
+1724
+00:59:45,540 --> 00:59:46,040
+Charles Caskey: Yeah.
+
+1725
+00:59:45,580 --> 00:59:48,340
+Keith Murphy: Wait. Oh, so what's the company though that makes it scalable?
+
+1726
+00:59:48,440 --> 00:59:51,660
+Is it about you smoking bowls with grannies at scale?
+
+1727
+00:59:52,480 --> 00:59:52,980
+Jamie Tyler: It's the low dose.
+
+1728
+00:59:52,620 --> 00:59:54,060
+Charles Caskey: No, it's the low dose. It's the low dose.
+
+1729
+00:59:54,180 --> 00:59:55,020
+Jamie Tyler: I don't know. That could be.
+
+1730
+00:59:55,500 --> 00:59:57,880
+Keith Murphy: Oh, sorry. I, okay. So, so just the...
+
+1731
+00:59:58,100 --> 01:00:00,820
+[laughs] Smoke a bowl with Jamie Tyler.
+
+1732
+01:00:01,340 --> 01:00:03,960
+Um, so the... Oh, so the scalability is just, it's like a little...
+
+1733
+01:00:03,960 --> 01:00:05,140
+[laughs]
+
+1734
+01:00:05,200 --> 01:00:08,140
+Charles Caskey: I'm just now, I'm now putting it in the context of the commercial from
+
+1735
+01:00:08,160 --> 01:00:10,220
+earlier. It's like, "You could smoke a bowl with Jamie Tyler.
+
+1736
+01:00:10,500 --> 01:00:12,660
+We're gonna put you in a van, and we're gonna drive around."
+
+1737
+01:00:12,680 --> 01:00:13,180
+[laughs]
+
+1738
+01:00:12,920 --> 01:00:13,740
+Jamie Tyler: That would be a bad one.
+
+1739
+01:00:14,100 --> 01:00:15,020
+That would be a bad one.
+
+1740
+01:00:15,280 --> 01:00:16,540
+You know, we almost did that at Thync.
+
+1741
+01:00:16,600 --> 01:00:20,380
+We, we actually... That was-- We, at Thync, we bought a van as a
+
+1742
+01:00:20,500 --> 01:00:22,060
+sprinter van, and it was to do we...
+
+1743
+01:00:22,380 --> 01:00:26,860
+So w-we will have to talk again sometime, but we hired this marketing team,
+
+1744
+01:00:27,480 --> 01:00:30,800
+right? And the marketing team was one of the original, like she did the
+
+1745
+01:00:30,920 --> 01:00:33,500
+original Red Bull marketing, experiential marketing.
+
+1746
+01:00:33,500 --> 01:00:34,000
+Charles Caskey: Okay.
+
+1747
+01:00:33,520 --> 01:00:35,640
+Jamie Tyler: Where they used to go to college bars, hand out Red Bull.
+
+1748
+01:00:36,320 --> 01:00:36,820
+Charles Caskey: Mm-hmm.
+
+1749
+01:00:36,580 --> 01:00:39,780
+Jamie Tyler: So then we bought a sprinter van, and the sprinter van was to cruise
+
+1750
+01:00:39,840 --> 01:00:44,380
+up and down in Las Vegas on the strip doing demos for people, like
+
+1751
+01:00:44,420 --> 01:00:45,440
+playing bop for them.
+
+1752
+01:00:46,000 --> 01:00:46,500
+Charles Caskey: Oh, nice. Very fun.
+
+1753
+01:00:46,360 --> 01:00:46,860
+Keith Murphy: Yes.
+
+1754
+01:00:46,800 --> 01:00:47,300
+Charles Caskey: Very fun.
+
+1755
+01:00:46,940 --> 01:00:48,280
+Jamie Tyler: Dude, we used to go to Hakkasan.
+
+1756
+01:00:48,360 --> 01:00:51,220
+We-- Like, I've been in the booth with Steve Aoki when he's throwing the
+
+1757
+01:00:51,280 --> 01:00:52,560
+cake, like doing neuromodulation.
+
+1758
+01:00:52,600 --> 01:00:53,360
+Keith Murphy: Whoa, the cake.
+
+1759
+01:00:53,600 --> 01:00:54,580
+Jamie Tyler: Trying to make people see faster and just-
+
+1760
+01:00:54,580 --> 01:00:57,580
+Keith Murphy: Neuromodulation and cake. [laughs] [laughs]
+
+1761
+01:00:57,620 --> 01:00:58,120
+Charles Caskey: Nice.
+
+1762
+01:00:57,940 --> 01:01:02,580
+Jamie Tyler: So lo-lo-but low dose, low dose psilocybin, low dose psychedelics, so like we, we
+
+1763
+01:01:02,640 --> 01:01:07,710
+licensed Dom- LSD for treatment of ADHD from Gabriela Gobbi.
+
+1764
+01:01:08,250 --> 01:01:10,850
+Um, we've done a lot of great work, a lot of phase one work,
+
+1765
+01:01:10,890 --> 01:01:17,170
+a lot of phase two work on low dose, non-perceptual doses of, of, of
+
+1766
+01:01:17,250 --> 01:01:20,550
+psychedelics because, you know, they're so powerful in terms of neuroplasticity.
+
+1767
+01:01:21,330 --> 01:01:22,530
+Charles Caskey: Is that, is that the main drive?
+
+1768
+01:01:22,570 --> 01:01:26,350
+It's-- This kind of hearkens back to your BDNF and plasticity, uh, things, I
+
+1769
+01:01:26,510 --> 01:01:27,010
+guess.
+
+1770
+01:01:26,810 --> 01:01:27,310
+Jamie Tyler: It's plasticity.
+
+1771
+01:01:27,710 --> 01:01:28,210
+Charles Caskey: Yeah.
+
+1772
+01:01:27,830 --> 01:01:30,250
+Jamie Tyler: Yeah, it's plasticity. And that-- It goes back into play-
+
+1773
+01:01:31,650 --> 01:01:34,330
+Keith Murphy: Do you do a behavioral intervention to go with that plasticity?
+
+1774
+01:01:34,510 --> 01:01:35,830
+Do you, like, give them a good experience and a map?
+
+1775
+01:01:35,850 --> 01:01:38,150
+Jamie Tyler: Um, well, so that's the interesting thing about low dose, right?
+
+1776
+01:01:38,270 --> 01:01:41,650
+Like, the-- I think everyone needs behavioral interventions in mental health.
+
+1777
+01:01:41,710 --> 01:01:42,510
+I think it's failed- Yeah ...
+
+1778
+01:01:42,530 --> 01:01:44,010
+without behavioral intervention, right?
+
+1779
+01:01:44,290 --> 01:01:44,790
+Keith Murphy: Mm-hmm.
+
+1780
+01:01:44,970 --> 01:01:47,790
+Jamie Tyler: But I'm not a give a person a pill and let them go away.
+
+1781
+01:01:47,810 --> 01:01:50,190
+It's like they're struggling. We- they need to talk to them, right?
+
+1782
+01:01:50,710 --> 01:01:51,210
+Keith Murphy: Yeah.
+
+1783
+01:01:50,830 --> 01:01:51,330
+Charles Caskey: Yeah.
+
+1784
+01:01:51,050 --> 01:01:55,810
+Jamie Tyler: Um, but I think that the low dose is, it's functional.
+
+1785
+01:01:56,850 --> 01:01:57,350
+You can-
+
+1786
+01:01:57,150 --> 01:01:57,650
+Keith Murphy: Mm-hmm.
+
+1787
+01:01:57,430 --> 01:02:03,490
+Jamie Tyler: Listen, if you take 25 milligrams of psilocybin, you're going
+
+1788
+01:02:03,550 --> 01:02:06,190
+to not be functional for six to eight hours.
+
+1789
+01:02:06,970 --> 01:02:07,470
+Charles Caskey: Mm-hmm.
+
+1790
+01:02:07,390 --> 01:02:07,890
+Jamie Tyler: Right?
+
+1791
+01:02:07,930 --> 01:02:08,430
+Keith Murphy: Yeah.
+
+1792
+01:02:08,030 --> 01:02:08,530
+Charles Caskey: Yeah.
+
+1793
+01:02:08,130 --> 01:02:11,350
+Jamie Tyler: And there's a good chance, like, you know, like, then you're gonna need someone
+
+1794
+01:02:11,370 --> 01:02:15,630
+to talk to you because depending on if you reach full cathartic breakdown, right?
+
+1795
+01:02:15,670 --> 01:02:16,210
+Like, you may-
+
+1796
+01:02:16,230 --> 01:02:16,730
+Keith Murphy: Have a bad trip
+
+1797
+01:02:17,290 --> 01:02:19,450
+Jamie Tyler: ... you may need to y- that-- I mean-
+
+1798
+01:02:20,070 --> 01:02:21,790
+Charles Caskey: You got some stuff to reassemble, you know?
+
+1799
+01:02:21,790 --> 01:02:22,410
+[laughs]
+
+1800
+01:02:22,450 --> 01:02:26,030
+Jamie Tyler: Yeah. Yeah. I mean, that's how I got into that world was I had
+
+1801
+01:02:26,070 --> 01:02:30,450
+a couple friends who, you know, their lives were saved by psychedelics and, and
+
+1802
+01:02:30,490 --> 01:02:33,730
+then I started, like, looking at that world and, and then I was like,
+
+1803
+01:02:33,830 --> 01:02:39,030
+I realized no matter what we do in neuromodulation, like, there-- you will never,
+
+1804
+01:02:39,530 --> 01:02:42,210
+ever be able to do what these compounds can do for people, right?
+
+1805
+01:02:42,330 --> 01:02:42,870
+Like, it's just-
+
+1806
+01:02:42,930 --> 01:02:43,430
+Keith Murphy: Yeah
+
+1807
+01:02:43,090 --> 01:02:45,390
+Jamie Tyler: ... it's just the, the way that they work, the intensity.
+
+1808
+01:02:45,530 --> 01:02:49,570
+DMT in particular, right? DMT is very special in terms of, like, how fast
+
+1809
+01:02:49,610 --> 01:02:51,590
+it acts, you know? And so-
+
+1810
+01:02:51,610 --> 01:02:52,870
+Charles Caskey: And brief in that one, right?
+
+1811
+01:02:52,930 --> 01:02:55,530
+Is that the right understand-- Like, that one's a sh- Is that a shorter-
+
+1812
+01:02:55,550 --> 01:02:57,530
+Jamie Tyler: It's five minutes. Yeah. It's very short.
+
+1813
+01:02:57,650 --> 01:02:58,150
+Charles Caskey: Yeah.
+
+1814
+01:02:57,690 --> 01:02:59,750
+Jamie Tyler: Right? Unless it's like an ayahuasca.
+
+1815
+01:03:00,330 --> 01:03:00,830
+Charles Caskey: Right. Yeah, yeah.
+
+1816
+01:03:00,790 --> 01:03:03,050
+Jamie Tyler: If it-- If it's an ayahuasca, it's DMT too, but you have, like, the
+
+1817
+01:03:03,170 --> 01:03:07,610
+MAOI inhibitors, right? So then that basically you have DMT for an extended period
+
+1818
+01:03:07,630 --> 01:03:10,530
+of time. So it's-- that's the whole eight-hour ayahuasca thing.
+
+1819
+01:03:11,150 --> 01:03:13,430
+Charles Caskey: Okay. That's what people go to, like, Peru for.
+
+1820
+01:03:14,150 --> 01:03:14,650
+Jamie Tyler: If you
+
+1821
+01:03:14,390 --> 01:03:14,890
+Charles Caskey: smoke DMT, you can crash. Yeah.
+
+1822
+01:03:14,390 --> 01:03:14,890
+What is it? Okay.
+
+1823
+01:03:14,630 --> 01:03:16,250
+Jamie Tyler: Got it. And then, like, lose your kidneys or something, right?
+
+1824
+01:03:16,290 --> 01:03:21,190
+Keith Murphy: Jamie, instead of, um, instead of doing FUS wins, if you haven't heard about
+
+1825
+01:03:21,210 --> 01:03:25,950
+them, I'm sure you have, we-- maybe we can end with FUS futures.
+
+1826
+01:03:26,510 --> 01:03:27,010
+Charles Caskey: FUS futures.
+
+1827
+01:03:26,750 --> 01:03:29,350
+Keith Murphy: Even though it's not related to FUS, I have a question for you.
+
+1828
+01:03:29,590 --> 01:03:32,890
+The administration is, like, pretty polar around psychedelics.
+
+1829
+01:03:33,050 --> 01:03:37,550
+You have RFK Jr. and then you have more conservative thinking.
+
+1830
+01:03:38,190 --> 01:03:40,950
+What ends up shaking out with this whole thing in the next year?
+
+1831
+01:03:40,950 --> 01:03:43,010
+'Cause it's a bloodbath right now.
+
+1832
+01:03:43,930 --> 01:03:45,430
+Jamie Tyler: Uh, it i- [clears throat] it is.
+
+1833
+01:03:45,490 --> 01:03:46,670
+So, um-
+
+1834
+01:03:46,890 --> 01:03:49,630
+Keith Murphy: You're, you may or may not be wrong, and we're gonna bring you back
+
+1835
+01:03:49,670 --> 01:03:51,430
+in a year, and we're gonna [laughs] -
+
+1836
+01:03:51,510 --> 01:03:52,230
+Jamie Tyler: I'm gonna be right
+
+1837
+01:03:52,230 --> 01:03:52,730
+Keith Murphy: ... talk about it.
+
+1838
+01:03:52,750 --> 01:03:54,530
+Jamie Tyler: I'm gonna be right [laughing] because I'm...
+
+1839
+01:03:55,570 --> 01:03:59,170
+Um, so what, what I think is interesting is I don't, I don't know
+
+1840
+01:03:59,210 --> 01:04:01,610
+that any drugs are gonna get cleared within the next year, right?
+
+1841
+01:04:01,710 --> 01:04:04,350
+I think a lot of people want it to be like-- A lot of
+
+1842
+01:04:04,370 --> 01:04:05,970
+people are like, "Oh, it's gonna be like medical marijuana."
+
+1843
+01:04:06,230 --> 01:04:08,550
+It's like this is not even close to the same thing as medical.
+
+1844
+01:04:08,550 --> 01:04:11,870
+[laughs] It's two different... It's kinda like the consumer versus medical thing we were
+
+1845
+01:04:11,910 --> 01:04:14,110
+talking about earlier, right? Like different ball camps.
+
+1846
+01:04:15,130 --> 01:04:15,630
+Charles Caskey: Yeah.
+
+1847
+01:04:15,190 --> 01:04:18,770
+Jamie Tyler: So I think it's gonna be slow, but I do think the administration's behind
+
+1848
+01:04:18,830 --> 01:04:21,310
+it, right? Like, I mean, I don't know if you saw the ARPA-H EVIDENT
+
+1849
+01:04:21,410 --> 01:04:27,930
+program, but it's a $100 million effort behind Health and Human Services to
+
+1850
+01:04:28,010 --> 01:04:33,430
+look at the power of rapidly acting psychedelics, including focused ultrasound, right?
+
+1851
+01:04:33,870 --> 01:04:37,610
+For rapid treatment of mental health problems in veterans, right?
+
+1852
+01:04:37,730 --> 01:04:40,490
+Not, not only veterans, but focused on veterans.
+
+1853
+01:04:40,550 --> 01:04:41,730
+It's vagus nerve stimulation-
+
+1854
+01:04:41,750 --> 01:04:42,250
+Keith Murphy: Yeah
+
+1855
+01:04:41,810 --> 01:04:43,310
+Jamie Tyler: ... focused ultrasound, and psychedelics.
+
+1856
+01:04:44,030 --> 01:04:44,530
+Charles Caskey: Yeah.
+
+1857
+01:04:44,050 --> 01:04:47,390
+Jamie Tyler: And so I think that we're gonna see research that's gonna come out of
+
+1858
+01:04:47,430 --> 01:04:49,970
+that program inspire others.
+
+1859
+01:04:50,570 --> 01:04:51,070
+Charles Caskey: Yeah.
+
+1860
+01:04:50,690 --> 01:04:52,630
+Jamie Tyler: Right? There's a lot of grifters in that space.
+
+1861
+01:04:52,670 --> 01:04:53,870
+We were talking about grifter companies.
+
+1862
+01:04:53,930 --> 01:04:56,430
+We should have a conversation sometime about grifter psychedelic research.
+
+1863
+01:04:56,450 --> 01:04:58,190
+[laughs]
+
+1864
+01:04:58,250 --> 01:05:00,870
+Charles Caskey: And, yeah. For the-- I-- That's a g- I mean, it's, it's-
+
+1865
+01:05:00,890 --> 01:05:02,410
+Jamie Tyler: There are these. I listen to podcasts, these guys.
+
+1866
+01:05:02,470 --> 01:05:03,670
+I'm like, "God, you guys are so fucking crazy, man."
+
+1867
+01:05:03,690 --> 01:05:06,390
+Keith Murphy: They're grifters. Yeah. Let's have-- That should be our next episode.
+
+1868
+01:05:06,390 --> 01:05:08,410
+Jamie Tyler: They're like the bro culture of psychedelics.
+
+1869
+01:05:09,110 --> 01:05:09,610
+Charles Caskey: Yeah.
+
+1870
+01:05:09,390 --> 01:05:09,890
+Jamie Tyler: You know?
+
+1871
+01:05:09,690 --> 01:05:12,530
+Charles Caskey: That's-- It's so open to, to, to that abuse.
+
+1872
+01:05:12,630 --> 01:05:15,490
+But yeah, I love, I... Yeah, I love what you're ta- saying, that, that
+
+1873
+01:05:15,770 --> 01:05:20,910
+people are now able to do funded research and get like real studies done
+
+1874
+01:05:21,350 --> 01:05:26,170
+instead of it being done, like, as a one-off by, like, one psy- psychologist
+
+1875
+01:05:26,230 --> 01:05:28,050
+or like- Yeah ... you know, you know, like back in the day, I
+
+1876
+01:05:28,070 --> 01:05:30,890
+don't know, was it, was it Tim Leary or something at Harvard and-
+
+1877
+01:05:31,090 --> 01:05:31,590
+Jamie Tyler: Yeah
+
+1878
+01:05:31,250 --> 01:05:33,770
+Charles Caskey: ... you know, and then it was just, like, completely shut down for so
+
+1879
+01:05:33,850 --> 01:05:34,350
+long.
+
+1880
+01:05:34,290 --> 01:05:36,050
+Jamie Tyler: Yeah, and listen, it's a, it's a hard problem.
+
+1881
+01:05:36,110 --> 01:05:38,870
+I mean, um, listen, you're in a very-- I don't know if either one
+
+1882
+01:05:38,910 --> 01:05:41,370
+of you have ever had, like, very high dose psychedelics, but-
+
+1883
+01:05:41,410 --> 01:05:41,910
+Charles Caskey: Mm-mm
+
+1884
+01:05:41,450 --> 01:05:47,550
+Jamie Tyler: ... it, it... You're not in-- Like, when you do, it is, it's something
+
+1885
+01:05:47,590 --> 01:05:50,770
+that you can't prepare for. You can prepare and prepare and prepare until you're
+
+1886
+01:05:50,850 --> 01:05:53,750
+actually in that s- space, and then you're very vulnerable, right?
+
+1887
+01:05:53,810 --> 01:05:57,010
+And so that's a, that's a lot of risk associated with that person being
+
+1888
+01:05:57,070 --> 01:05:58,310
+in a vulnerable space.
+
+1889
+01:05:59,110 --> 01:05:59,610
+Charles Caskey: Mm-hmm.
+
+1890
+01:05:59,310 --> 01:06:02,250
+Jamie Tyler: What would be cool, though, kind of like, uh, if you wanna think about
+
+1891
+01:06:02,290 --> 01:06:06,350
+a FUS win, is like imagine if you could start to take these psychedelics
+
+1892
+01:06:06,570 --> 01:06:10,110
+and use ultrasound, right? Like, imagine if you had like, okay, you're taking low
+
+1893
+01:06:10,150 --> 01:06:16,410
+dose psilocybin three times a week, and you're getting Attune's focused ultrasound
+
+1894
+01:06:16,570 --> 01:06:17,690
+twice a week, right? Or-
+
+1895
+01:06:18,290 --> 01:06:18,790
+Charles Caskey: Mm-hmm.
+
+1896
+01:06:18,790 --> 01:06:22,450
+Jamie Tyler: That plus talk therapy, right? Like, we know how to treat depression.
+
+1897
+01:06:22,510 --> 01:06:23,570
+We just need to go do it.

@@ -1,0 +1,148 @@
+{
+ "_note": "Claude's review of out/flags/19.json. 'fix' may only swap a flagged span for a listed term; 'uncertain' words are marked in the output, not changed (by raw word index 'i', or by text anchor 'near_s' + 'text'). Every other flag was checked and kept as transcribed. 'replace' (word corrections) and the text-anchored 'uncertain' entries come from a read-through audit of the transcripts; they are text-based, not checked against the audio: high-confidence corrections are applied, medium ones that need the audio are only marked uncertain. 'speaker' entries are reviewed speaker corrections from the same audit, applied after the voice naming.",
+ "fix": [
+  {
+   "i": 459,
+   "k": 1,
+   "from": "iTrust",
+   "to": "ITRUSST",
+   "why": "the consortium, said as a word"
+  },
+  {
+   "i": 501,
+   "k": 1,
+   "from": "iTrust",
+   "to": "ITRUSST",
+   "why": "the consortium, said as a word"
+  },
+  {
+   "i": 1558,
+   "k": 1,
+   "from": "iTrust",
+   "to": "ITRUSST",
+   "why": "the consortium, said as a word"
+  },
+  {
+   "i": 2465,
+   "k": 1,
+   "from": "iTrust",
+   "to": "ITRUSST",
+   "why": "the consortium, said as a word"
+  },
+  {
+   "i": 6173,
+   "k": 1,
+   "from": "iTRUS",
+   "to": "ITRUSST",
+   "why": "the consortium, said as a word"
+  },
+  {
+   "i": 3040,
+   "k": 1,
+   "from": "MRRF",
+   "to": "MR-ARFI",
+   "why": "'MR readouts like MR-ARFI'"
+  },
+  {
+   "i": 8358,
+   "k": 2,
+   "from": "Dick Pasanen",
+   "to": "Dick Passingham",
+   "why": "Oxford neuroscientist (Richard Passingham)"
+  }
+ ],
+ "replace": [
+  {
+   "near_s": 686.5,
+   "from": "nerve modulation",
+   "to": "neuromodulation",
+   "why": "FDA guidance for ultrasound neuromodulation"
+  },
+  {
+   "near_s": 932.64,
+   "from": "RF",
+   "to": "ARFI",
+   "why": "follows 'MR readouts like MR-ARFI'"
+  },
+  {
+   "near_s": 1641.02,
+   "from": "Ben He's",
+   "to": "Bin He's",
+   "why": "Bin He, CMU"
+  },
+  {
+   "near_s": 1791.13,
+   "from": "segade",
+   "to": "saccade",
+   "why": "FEF eye-movement task"
+  },
+  {
+   "near_s": 2554.57,
+   "from": "derailer",
+   "to": "derailleur",
+   "why": "bicycle gear mechanism"
+  },
+  {
+   "near_s": 2364.07,
+   "from": "bold",
+   "to": "BOLD",
+   "why": "BOLD fMRI signal"
+  },
+  {
+   "near_s": 2383.43,
+   "from": "bold",
+   "to": "BOLD",
+   "why": "BOLD fMRI"
+  }
+ ],
+ "uncertain": [
+  {
+   "i": 953,
+   "why": "low confidence on a name ('Taku Hiro')"
+  },
+  {
+   "i": 2729,
+   "why": "very low confidence"
+  },
+  {
+   "i": 5175,
+   "why": "very low confidence"
+  },
+  {
+   "i": 5968,
+   "why": "very low confidence"
+  },
+  {
+   "i": 7456,
+   "why": "very low confidence"
+  },
+  {
+   "i": 8926,
+   "why": "very low confidence"
+  },
+  {
+   "i": 9367,
+   "why": "very low confidence"
+  }
+ ],
+ "speaker": [
+  {
+   "near_s": 282.64,
+   "text": "Those were nuts.",
+   "who": "Keith Murphy",
+   "why": "end of Keith's 'Lennart had like 60 people on those calls. Those were nuts.'; Lennart replies 'Yeah, I know'"
+  },
+  {
+   "near_s": 466.31,
+   "text": "to bring that together.",
+   "who": "Charles Caskey",
+   "why": "completes Charles's 'set up a scaffold ... for the community to stand on and start to-' (voice agrees or is inconclusive: 0.36 to Charles; best other Keith 0.12)"
+  },
+  {
+   "near_s": 393.95,
+   "text": "to hear all this.",
+   "who": "Charles Caskey",
+   "why": "ends Charles's '\"Oh, this is fascinating- ... to hear all this.\"'; voice CC 0.30 vs LV -0.02"
+  }
+ ]
+}

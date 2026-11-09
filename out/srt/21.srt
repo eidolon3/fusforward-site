@@ -1,0 +1,4011 @@
+1
+00:00:00,300 --> 00:00:03,220
+Charles Caskey: So are we gonna do like a formal introduction to the episode, and we're
+
+2
+00:00:03,260 --> 00:00:05,320
+gonna be like, "Hey, welcome to FUS Forward.
+
+3
+00:00:05,840 --> 00:00:08,300
+It's with Keith and Charles. We're gonna talk about..."
+
+4
+00:00:08,400 --> 00:00:09,540
+[laughs] [laughs]
+
+5
+00:00:09,540 --> 00:00:13,080
+Keith Murphy: I like that a lot. [laughs] [laughs]
+
+6
+00:00:13,280 --> 00:00:15,920
+Intro narrator: Follow Charles Caskey and Keith Murphy-
+
+7
+00:00:15,960 --> 00:00:16,460
+Keith Murphy: I think that's great
+
+8
+00:00:16,560 --> 00:00:22,500
+Intro narrator: ... as they explore the next frontier of ultrasound neuromodulation with FUS Forward.
+
+9
+00:00:23,340 --> 00:00:26,720
+Phoenix Peng: It seems like I dressed too normal compared with you guys' outfit.
+
+10
+00:00:26,720 --> 00:00:27,220
+[laughs]
+
+11
+00:00:26,800 --> 00:00:29,120
+Keith Murphy: Yeah, you did. Do you have, do you have anything in your office?
+
+12
+00:00:29,240 --> 00:00:30,660
+Can you tie a shirt around your head?
+
+13
+00:00:31,560 --> 00:00:35,060
+Charles Caskey: I got two ideas. One, you could put your collar up.
+
+14
+00:00:35,620 --> 00:00:36,720
+Keith Murphy: Yeah, put your collar up maybe.
+
+15
+00:00:36,740 --> 00:00:37,240
+Charles Caskey: Oh, yeah.
+
+16
+00:00:37,660 --> 00:00:38,960
+Keith Murphy: Let me see. Let's see how that looks.
+
+17
+00:00:38,960 --> 00:00:39,460
+[laughs]
+
+18
+00:00:39,420 --> 00:00:41,960
+Charles Caskey: That looks pretty cool. [laughs] I like that.
+
+19
+00:00:42,340 --> 00:00:46,240
+Keith Murphy: Yeah, that's good. Do you have anything else that's funny in your office that
+
+20
+00:00:46,280 --> 00:00:48,480
+you could tie around your... [laughs]
+
+21
+00:00:48,520 --> 00:00:50,940
+Phoenix Peng: Yeah. Let me try. Let me try to find something.
+
+22
+00:00:51,100 --> 00:00:53,880
+Keith Murphy: Where like Phoenix showed up and, uh, he popped his collar.
+
+23
+00:00:53,900 --> 00:00:54,460
+[laughs]
+
+24
+00:00:54,560 --> 00:00:55,800
+Charles Caskey: Yeah. He, he looked-
+
+25
+00:00:55,820 --> 00:00:56,880
+Keith Murphy: That was as much as he could.
+
+26
+00:00:56,880 --> 00:00:58,040
+[laughs]
+
+27
+00:00:58,200 --> 00:00:59,560
+Charles Caskey: He popped his collar and he-
+
+28
+00:00:59,580 --> 00:01:01,560
+Keith Murphy: Could be bothered. [laughs]
+
+29
+00:01:02,140 --> 00:01:03,660
+Charles Caskey: He's a busy, he's a busy guy.
+
+30
+00:01:03,720 --> 00:01:04,220
+He's running a-
+
+31
+00:01:03,960 --> 00:01:05,380
+Keith Murphy: He's a busy guy, but he was able to pop a collar.
+
+32
+00:01:05,400 --> 00:01:08,520
+Charles Caskey: He's running a non-invasive BCI startup in China.
+
+33
+00:01:08,580 --> 00:01:13,220
+You can't just get him running around to go shop for sunglasses.
+
+34
+00:01:13,220 --> 00:01:13,720
+[laughs]
+
+35
+00:01:13,520 --> 00:01:14,020
+Keith Murphy: There we go.
+
+36
+00:01:14,120 --> 00:01:16,740
+Phoenix Peng: No, I don't have sunglasses. Sorry, gentlemen.
+
+37
+00:01:16,740 --> 00:01:21,200
+[laughs] It seems like, I look, I look, I look, I looks a little
+
+38
+00:01:21,220 --> 00:01:23,880
+bit boring compared with you guys, so yes.
+
+39
+00:01:24,300 --> 00:01:24,800
+I should-
+
+40
+00:01:25,040 --> 00:01:26,440
+Charles Caskey: I, I think you look pretty cool.
+
+41
+00:01:26,560 --> 00:01:29,620
+I don't know. I think w- I feel like the, yeah, the, the collar
+
+42
+00:01:29,720 --> 00:01:30,880
+pop's pretty nice. [laughs]
+
+43
+00:01:30,920 --> 00:01:32,420
+Keith Murphy: The collar pop is the first.
+
+44
+00:01:32,520 --> 00:01:35,000
+You're the first we've had on the show to do it.
+
+45
+00:01:35,000 --> 00:01:35,500
+[laughs]
+
+46
+00:01:35,080 --> 00:01:37,700
+Charles Caskey: Yeah, yeah. Well, Keith, give, give your intro.
+
+47
+00:01:37,780 --> 00:01:39,700
+Let's, let's, let's go with that and then we'll-
+
+48
+00:01:39,740 --> 00:01:43,740
+Keith Murphy: All right. So I'm gonna, I'm gonna wander around on this one because Phoenix,
+
+49
+00:01:44,380 --> 00:01:47,500
+when I first heard about your great endeavor, you were a little bit of
+
+50
+00:01:47,560 --> 00:01:53,580
+a mystery to me. Phoenix comes from the business empire building side
+
+51
+00:01:53,620 --> 00:01:56,900
+of the world. He was at Alibaba for a little bit.
+
+52
+00:01:57,100 --> 00:02:03,200
+He's started software service companies. He scaled restaurant and delivery services
+
+53
+00:02:03,280 --> 00:02:10,320
+in China. And the most relevant thing you did, Phoenix, was to found NeuroXess.
+
+54
+00:02:10,400 --> 00:02:11,260
+Is that how we say it?
+
+55
+00:02:11,960 --> 00:02:12,940
+Phoenix Peng: Yeah, NeuroXess.
+
+56
+00:02:13,080 --> 00:02:17,680
+Keith Murphy: And, and I think I'd love to learn what that bridge looked like to
+
+57
+00:02:17,720 --> 00:02:22,600
+what you believe will be a scalable industry in the brain interface world.
+
+58
+00:02:22,700 --> 00:02:24,520
+But none of that was a question.
+
+59
+00:02:24,580 --> 00:02:25,680
+I want to start with a question.
+
+60
+00:02:26,480 --> 00:02:26,980
+Phoenix Peng: Okay.
+
+61
+00:02:26,640 --> 00:02:31,020
+Keith Murphy: AI, when I, when I asked some of the most interesting things about Phoenix's
+
+62
+00:02:31,060 --> 00:02:37,600
+life, they said that Phoenix does not like to read condensed summarized material.
+
+63
+00:02:37,740 --> 00:02:39,860
+He likes to read the original source.
+
+64
+00:02:40,520 --> 00:02:42,140
+I have no idea why it said that.
+
+65
+00:02:42,320 --> 00:02:43,640
+I didn't even ask. [laughs]
+
+66
+00:02:44,140 --> 00:02:44,780
+Phoenix Peng: Who, who, who told you that?
+
+67
+00:02:44,840 --> 00:02:49,100
+Keith Murphy: Claude, Claude and ChatGPT both said- Uh-huh ...
+
+68
+00:02:49,140 --> 00:02:52,460
+if, if there's one thing about Phoenix Peng, he wants the original.
+
+69
+00:02:52,540 --> 00:02:54,060
+He wants to read the hard copy.
+
+70
+00:02:54,580 --> 00:02:57,240
+And I didn't ask why, I just would thought you might have a comment.
+
+71
+00:02:57,300 --> 00:02:58,360
+[laughs]
+
+72
+00:02:58,420 --> 00:03:04,960
+Phoenix Peng: So probably that's some misunderstanding from ChatGPT and AIs because, uh, maybe cross, cr-
+
+73
+00:03:05,400 --> 00:03:10,940
+crossing different industry, different company for many years, so a lot of information with
+
+74
+00:03:11,000 --> 00:03:14,160
+some, uh, hallucination of the, uh, GPT, I guess.
+
+75
+00:03:14,760 --> 00:03:18,960
+Keith Murphy: Oh, yeah. I would think you would read condensed summary material all the time.
+
+76
+00:03:19,040 --> 00:03:19,540
+[laughs]
+
+77
+00:03:19,560 --> 00:03:21,260
+Phoenix Peng: Yes, of course. Yeah, of course.
+
+78
+00:03:21,340 --> 00:03:26,620
+Keith Murphy: So Phoenix, tell us what you bring from the commercial world to the neuro
+
+79
+00:03:26,740 --> 00:03:30,740
+interface space and why you're excited about it, and we can just wander from
+
+80
+00:03:30,800 --> 00:03:33,060
+there. That's how we usually do these podcasts.
+
+81
+00:03:33,240 --> 00:03:33,840
+We have no agenda.
+
+82
+00:03:33,880 --> 00:03:35,160
+Phoenix Peng: Yeah. Thank you, Keith and Charles.
+
+83
+00:03:35,380 --> 00:03:39,760
+So happy to join here. Yeah, and people often ask me how to label
+
+84
+00:03:39,840 --> 00:03:46,320
+myself. Normally, I will say I will label myself as a curiosity-driven serial
+
+85
+00:03:46,440 --> 00:03:52,460
+entrepreneur. So this is a lot of different industrial are driven by curiosity, so
+
+86
+00:03:52,540 --> 00:03:56,360
+this is why, uh, Gestala was my sixth companies.
+
+87
+00:03:57,040 --> 00:03:57,540
+Uh-
+
+88
+00:03:57,120 --> 00:03:59,080
+Keith Murphy: Wow, six companies. Oh, my God.
+
+89
+00:03:59,100 --> 00:04:05,060
+Phoenix Peng: Yes. My sixth companies. So my previous four are all in internet sector, are
+
+90
+00:04:05,140 --> 00:04:11,180
+starting, uh, SNS, uh, 25 years ago, and I also, uh, joined
+
+91
+00:04:11,260 --> 00:04:17,440
+the, um, group buying business early in the 2010s, which was, uh, grou- uh,
+
+92
+00:04:17,820 --> 00:04:22,980
+Groupon, the company in US, uh, starting this kind of group buy, group buying
+
+93
+00:04:23,040 --> 00:04:28,200
+business in 2010s. Then I starting a SaaS company called Keruyun.
+
+94
+00:04:28,600 --> 00:04:32,380
+It providing restaurant and retail POS system.
+
+95
+00:04:32,480 --> 00:04:35,260
+It's kind of Square, uh, Square in US, similar.
+
+96
+00:04:35,780 --> 00:04:37,340
+Keith Murphy: Oh, the payment system for China.
+
+97
+00:04:37,400 --> 00:04:38,040
+Phoenix Peng: Yeah, the payment.
+
+98
+00:04:38,220 --> 00:04:38,720
+Keith Murphy: Wow.
+
+99
+00:04:38,240 --> 00:04:42,860
+Phoenix Peng: Yeah, payment. Uh, including payment and SaaS for retail store and restaurants.
+
+100
+00:04:43,360 --> 00:04:43,860
+And-
+
+101
+00:04:43,860 --> 00:04:44,360
+Keith Murphy: Uh-huh
+
+102
+00:04:44,040 --> 00:04:47,520
+Phoenix Peng: ... that company I sell to Alibaba for one billion RMBs-
+
+103
+00:04:47,560 --> 00:04:48,060
+Keith Murphy: Wow
+
+104
+00:04:47,600 --> 00:04:51,820
+Phoenix Peng: ... uh, roughly, uh, uh, in nine, 2019s.
+
+105
+00:04:53,000 --> 00:04:57,300
+And then I joined Alibaba for four years, uh, as a SVP in the
+
+106
+00:04:57,400 --> 00:04:59,120
+local business unit.
+
+107
+00:04:59,940 --> 00:05:00,440
+Keith Murphy: Mm-hmm.
+
+108
+00:05:00,000 --> 00:05:04,740
+Phoenix Peng: So I decide to... I can also retire as some of my friends.
+
+109
+00:05:05,140 --> 00:05:08,140
+They spend the rest of life in Singapore or some, some, some pay.
+
+110
+00:05:08,680 --> 00:05:10,960
+Keith Murphy: You could've retired 15 years ago, it sounds like.
+
+111
+00:05:11,680 --> 00:05:14,180
+Phoenix Peng: No. [laughs] But maybe five years ago it's okay to retire.
+
+112
+00:05:14,200 --> 00:05:15,620
+Keith Murphy: Okay, five. [laughs]
+
+113
+00:05:15,660 --> 00:05:19,340
+Phoenix Peng: Yeah, five years ago, yeah. [laughs] But-
+
+114
+00:05:19,640 --> 00:05:21,660
+Keith Murphy: So Phoenix, what keeps you moving forward?
+
+115
+00:05:21,980 --> 00:05:23,660
+Charles Caskey: If you could, yeah, he could retire.
+
+116
+00:05:23,940 --> 00:05:24,440
+Yeah, like-
+
+117
+00:05:24,360 --> 00:05:24,860
+Keith Murphy: Could retire.
+
+118
+00:05:24,820 --> 00:05:27,640
+Charles Caskey: Yeah. What keep, what keeps you, what keeps you going if it's not the
+
+119
+00:05:27,680 --> 00:05:28,180
+money?
+
+120
+00:05:27,920 --> 00:05:31,880
+Keith Murphy: Yeah. If it's not the Sea-Doo Jet Ski that you've always wanted, what's next?
+
+121
+00:05:31,980 --> 00:05:36,860
+Phoenix Peng: Yeah. Yeah, I, I think the reason, uh, after I starting four companies, then
+
+122
+00:05:37,060 --> 00:05:42,880
+I decide to devote myself into brain science is, uh, of course, is, uh,
+
+123
+00:05:43,040 --> 00:05:48,200
+innovated by, by Elon for sure, because all the Chinese and, uh, company's founders,
+
+124
+00:05:48,920 --> 00:05:51,300
+our generation was inspired by Elon.
+
+125
+00:05:51,480 --> 00:05:57,340
+Uh, when I was deciding to think about what's my next journeys in 2021s,
+
+126
+00:05:58,100 --> 00:06:03,590
+uh, I also think about different, uh, Elon's business like the- Uh, EVs or,
+
+127
+00:06:03,810 --> 00:06:07,790
+uh, Starship, this kind of, uh, but this company in China already have a,
+
+128
+00:06:08,290 --> 00:06:09,850
+a lot of player at that times.
+
+129
+00:06:10,490 --> 00:06:10,990
+Uh-
+
+130
+00:06:10,750 --> 00:06:11,250
+Charles Caskey: Yeah
+
+131
+00:06:10,790 --> 00:06:13,910
+Phoenix Peng: ... and then I find out, uh, brain computer interface.
+
+132
+00:06:14,470 --> 00:06:19,650
+And also, uh, my, uh, university college, he also doing some flexible electrical, uh,
+
+133
+00:06:19,750 --> 00:06:20,250
+research-
+
+134
+00:06:20,310 --> 00:06:20,810
+Charles Caskey: Mm-hmm
+
+135
+00:06:20,330 --> 00:06:25,030
+Phoenix Peng: ... in institutions. So I think it's the right direction, uh, I can leverage
+
+136
+00:06:25,170 --> 00:06:31,170
+my expertise in internet, in AI, in cloud, uh, and combine with
+
+137
+00:06:31,390 --> 00:06:37,530
+biomedicine, BME kind of electrical, uh, technology, then try to understand how
+
+138
+00:06:37,630 --> 00:06:42,930
+brain works. So at that time, I think, um, brain science is very fascinating
+
+139
+00:06:42,970 --> 00:06:47,990
+for me because, uh, uh, I know the whole universe is based on our
+
+140
+00:06:48,450 --> 00:06:53,050
+mind, and everything around us is building by human, humanity ourself.
+
+141
+00:06:53,510 --> 00:06:57,750
+So if there is a possibility we can using some technology or products to
+
+142
+00:06:57,850 --> 00:07:03,750
+understand how brain intelligence generated and how we can, uh, modify it in the
+
+143
+00:07:03,790 --> 00:07:06,570
+future. So that is very long-term goals for me.
+
+144
+00:07:07,210 --> 00:07:11,570
+So that's why in two thousand twenty-one I decided to left Alibaba and starting
+
+145
+00:07:11,610 --> 00:07:17,450
+NeuroXess with my college classmate. Then after five years, I started the Gestala in
+
+146
+00:07:17,490 --> 00:07:23,410
+the ultrasound BCIs. So I think starting from two thousand twenty-one till now is
+
+147
+00:07:23,490 --> 00:07:29,690
+a dramatically changing from my career, from internet, cloud, AI related, then to neuroscience.
+
+148
+00:07:29,790 --> 00:07:34,330
+Now I'm already forty-five, so I, I think, uh, I can commit my next
+
+149
+00:07:34,370 --> 00:07:35,850
+10 or 50 years into it.
+
+150
+00:07:35,850 --> 00:07:40,630
+It's a very long-term road ahead of us, and I feel very excited every
+
+151
+00:07:40,710 --> 00:07:43,870
+morning when I wake up. I think I can do something, I can try
+
+152
+00:07:43,910 --> 00:07:45,810
+to know something I've never know before.
+
+153
+00:07:45,890 --> 00:07:47,670
+Charles Caskey: I, I love to hear that.
+
+154
+00:07:47,810 --> 00:07:50,210
+And, um, we're, we're the same age, I just learned.
+
+155
+00:07:50,730 --> 00:07:51,970
+Um, so I, I hope-
+
+156
+00:07:52,370 --> 00:07:52,870
+Phoenix Peng: So am I
+
+157
+00:07:52,610 --> 00:07:54,310
+Charles Caskey: ... I hope we have a good runway ahead of us too.
+
+158
+00:07:54,330 --> 00:07:54,830
+[laughs]
+
+159
+00:07:54,550 --> 00:07:56,270
+Keith Murphy: Charles, what's your next 10 years?
+
+160
+00:07:56,410 --> 00:07:57,770
+We were just talking about that, Phoenix.
+
+161
+00:07:57,810 --> 00:07:58,310
+Charles Caskey: Dude-
+
+162
+00:07:58,250 --> 00:08:00,450
+Keith Murphy: Charles was thinking about the next move in life.
+
+163
+00:08:00,970 --> 00:08:03,730
+Charles Caskey: Yeah, I, I am curious about it and it's, it's all, it's great to
+
+164
+00:08:03,770 --> 00:08:07,870
+hear somebody that's had such a different path, uh, for myself and kinda how
+
+165
+00:08:07,930 --> 00:08:12,390
+you've steered your direction. I'm gonna not ask questions for myself because I think
+
+166
+00:08:12,450 --> 00:08:16,170
+that maybe people aren't that interested, [chuckles] but maybe we catch up another time
+
+167
+00:08:16,230 --> 00:08:17,430
+on career paths. [laughs]
+
+168
+00:08:17,470 --> 00:08:21,630
+Keith Murphy: Well, Charles is looking for like the next big move, and Phoenix, you raised,
+
+169
+00:08:22,090 --> 00:08:23,730
+did you raise two hundred million?
+
+170
+00:08:23,850 --> 00:08:26,830
+I keep seeing different numbers on the internet for how much-
+
+171
+00:08:26,850 --> 00:08:28,030
+Phoenix Peng: Uh, yeah. Which, which company?
+
+172
+00:08:28,030 --> 00:08:28,530
+Keith Murphy: ... you raised for Gestala.
+
+173
+00:08:28,490 --> 00:08:29,190
+Phoenix Peng: Which, which company?
+
+174
+00:08:29,190 --> 00:08:32,030
+Keith Murphy: For Ges- Gestala. I read two hundred million somewhere.
+
+175
+00:08:32,270 --> 00:08:38,270
+Phoenix Peng: No, no, no. Gestala, uh, our angel round, they combine is, uh, eighty-seven million
+
+176
+00:08:38,430 --> 00:08:39,770
+U.S., uh, angel round.
+
+177
+00:08:39,830 --> 00:08:44,410
+Keith Murphy: An incredible amount of money to make serious change over any amount of time.
+
+178
+00:08:44,950 --> 00:08:47,690
+So anyway, Char... [chuckles] Okay, if we can cut out the [beep] [laughs] we're
+
+179
+00:08:47,730 --> 00:08:48,230
+good. [laughs]
+
+180
+00:08:48,530 --> 00:08:49,030
+Charles Caskey: That's it.
+
+181
+00:08:48,550 --> 00:08:50,570
+Keith Murphy: Or you'll get fired. Phoenix, no advice.
+
+182
+00:08:50,710 --> 00:08:54,310
+Charles Caskey: I would love to talk... [laughs] Yeah, I would love to talk, Phoenix, uh,
+
+183
+00:08:54,390 --> 00:08:54,890
+without-
+
+184
+00:08:54,650 --> 00:08:55,150
+Phoenix Peng: Absolutely
+
+185
+00:08:54,870 --> 00:08:57,950
+Charles Caskey: ... uh, it going to the world about career decisions, but I think it
+
+186
+00:08:57,970 --> 00:08:59,990
+would reveal too much about my own uncertainty.
+
+187
+00:08:59,990 --> 00:09:00,490
+Keith Murphy: Charles, what was your question then?
+
+188
+00:09:00,510 --> 00:09:01,010
+Go back to your question.
+
+189
+00:09:00,850 --> 00:09:02,970
+Charles Caskey: Well, here, here we can get back on the ra- the tracks.
+
+190
+00:09:03,010 --> 00:09:04,250
+Here, I'll get us back on the tracks.
+
+191
+00:09:04,670 --> 00:09:05,170
+Keith Murphy: Okay. What was the question?
+
+192
+00:09:04,850 --> 00:09:07,790
+Charles Caskey: My career path has been, could not have been different.
+
+193
+00:09:07,910 --> 00:09:11,030
+Uh, but I, but I wandered into an ultrasound lab when I was like
+
+194
+00:09:11,290 --> 00:09:15,150
+20 years old, and I've been in an ultrasound lab since, and, and I,
+
+195
+00:09:15,190 --> 00:09:18,430
+and I love it. But I also still, I think the common thread though
+
+196
+00:09:18,470 --> 00:09:22,250
+is I always was interested in going to these unknown spaces, and that's how
+
+197
+00:09:22,310 --> 00:09:25,330
+I ended up in the brain, 'cause it seemed like the most unknown, the
+
+198
+00:09:25,370 --> 00:09:27,630
+most exciting, the most potentially impactful.
+
+199
+00:09:27,710 --> 00:09:29,310
+So there is a common thread there.
+
+200
+00:09:29,870 --> 00:09:30,370
+Um, and one-
+
+201
+00:09:29,990 --> 00:09:31,530
+Keith Murphy: You guys are like brothers. [chuckles]
+
+202
+00:09:31,610 --> 00:09:33,490
+Charles Caskey: We're, we're like, we're kinda like brothers now.
+
+203
+00:09:33,570 --> 00:09:34,470
+[laughs]
+
+204
+00:09:34,490 --> 00:09:35,810
+Phoenix Peng: Yeah. Absolutely.
+
+205
+00:09:35,850 --> 00:09:41,050
+Charles Caskey: Yeah. Um, so but, but as a FUS forward person, I think the thing
+
+206
+00:09:41,090 --> 00:09:46,290
+that I'm very intrigued by your pivot five years ago, you had success building
+
+207
+00:09:46,390 --> 00:09:51,410
+companies, you were already in the invasive BCI space, but instead of staying in
+
+208
+00:09:51,450 --> 00:09:55,690
+the invasive BCI space, you decided that ultrasound was the future.
+
+209
+00:09:56,110 --> 00:09:57,290
+I wanna know more about that.
+
+210
+00:09:57,310 --> 00:09:58,090
+[chuckles]
+
+211
+00:09:58,150 --> 00:09:58,650
+Phoenix Peng: Yeah.
+
+212
+00:09:58,270 --> 00:09:58,770
+Keith Murphy: Yeah.
+
+213
+00:09:59,270 --> 00:10:01,370
+Phoenix Peng: That's also a very important decision.
+
+214
+00:10:01,510 --> 00:10:02,010
+Charles Caskey: Why ultrasound?
+
+215
+00:10:01,790 --> 00:10:06,430
+Phoenix Peng: Yeah. Uh, you know, uh, I, I already in invasive electrical BCI for five
+
+216
+00:10:06,510 --> 00:10:11,010
+years. Before I left the NeuroXess, we already have more than 10 patient, uh,
+
+217
+00:10:11,090 --> 00:10:14,130
+with implants. We're using ECoG electrical, putting the-
+
+218
+00:10:14,310 --> 00:10:14,810
+Charles Caskey: Oh, wow
+
+219
+00:10:14,330 --> 00:10:17,730
+Phoenix Peng: ... motor cortex for motor decoding and also for speech decoding.
+
+220
+00:10:17,790 --> 00:10:22,430
+We are the first company in China have this Chinese character decoding by language
+
+221
+00:10:22,870 --> 00:10:27,310
+and also, uh, moving the cursor li- like, uh, Neuralink's, but is, uh, uh,
+
+222
+00:10:27,450 --> 00:10:31,930
+the BPS, uh, is probably three to fours, so a little bit of slow.
+
+223
+00:10:32,030 --> 00:10:36,970
+So this is the programs we made in the invasive BCI for five years.
+
+224
+00:10:37,630 --> 00:10:42,970
+So by end of next, uh, by end of 2025, um, I was talking
+
+225
+00:10:43,010 --> 00:10:45,490
+with my co-founder, Mr. Chen Tianqiao, uh, Mr.
+
+226
+00:10:45,670 --> 00:10:48,250
+Chen used to the donor of TCCI.
+
+227
+00:10:48,370 --> 00:10:50,790
+You guys probably know him. He also host a lot of, uh-
+
+228
+00:10:50,850 --> 00:10:51,870
+Keith Murphy: Yeah. Tianqiao.
+
+229
+00:10:51,910 --> 00:10:54,910
+Phoenix Peng: Yeah. Tianqiao is a good friend, and he also invest, he wa- he was
+
+230
+00:10:54,950 --> 00:10:58,830
+a investor of NeuroXess, and he suggest me to take a look at the
+
+231
+00:10:58,890 --> 00:11:01,830
+new technology stack in ultrasound. He said-
+
+232
+00:11:01,950 --> 00:11:02,450
+Keith Murphy: Of course
+
+233
+00:11:02,090 --> 00:11:06,610
+Phoenix Peng: ... there are recently a lot of new scientists and PI, they already find,
+
+234
+00:11:06,750 --> 00:11:11,010
+uh, new modality, how we can interact with your brain by using ultrasound.
+
+235
+00:11:11,450 --> 00:11:15,570
+So talking to all the scientists in this regions, field, uh, in US and,
+
+236
+00:11:16,050 --> 00:11:20,550
+and I think three reason I change from electrical BCI to ultrasound BCI.
+
+237
+00:11:20,990 --> 00:11:25,430
+The first one is the ultrasound is the first we can have the whole
+
+238
+00:11:25,570 --> 00:11:28,210
+brain access in long term. Not in now-
+
+239
+00:11:28,330 --> 00:11:28,830
+Keith Murphy: Mm-hmm
+
+240
+00:11:28,370 --> 00:11:33,250
+Phoenix Peng: ... but in long terms. At least we know we can, uh, uh, modulation
+
+241
+00:11:33,650 --> 00:11:34,890
+the brain as a whole brain.
+
+242
+00:11:35,050 --> 00:11:38,810
+We can targeting almost, almost all the major region of your brains.
+
+243
+00:11:39,430 --> 00:11:42,930
+But we cannot reading the brain activity as a whole, okay?
+
+244
+00:11:43,230 --> 00:11:45,610
+So this is a long-term challenge we are facing.
+
+245
+00:11:46,030 --> 00:11:51,970
+But at least th- this technology probably y- uh, have this possibility in five,
+
+246
+00:11:52,050 --> 00:11:55,890
+10 years, we can have a, a whole brain access capability.
+
+247
+00:11:56,630 --> 00:12:02,350
+And also, because of this reasons, this is company's name, it's called Gestala.
+
+248
+00:12:02,810 --> 00:12:08,860
+It's coming from the concept Gestalt Gestalt is means, uh, something
+
+249
+00:12:09,480 --> 00:12:11,860
+whole is bigger that the sum of its parts.
+
+250
+00:12:12,720 --> 00:12:13,220
+Charles Caskey: Oh.
+
+251
+00:12:12,760 --> 00:12:13,480
+Phoenix Peng: So you can, so-
+
+252
+00:12:14,580 --> 00:12:15,080
+Charles Caskey: I didn't know that.
+
+253
+00:12:14,720 --> 00:12:16,260
+Phoenix Peng: So you know why this, so-
+
+254
+00:12:16,380 --> 00:12:17,940
+Keith Murphy: Yeah, I had that in my questions.
+
+255
+00:12:18,480 --> 00:12:18,980
+Charles Caskey: Very interesting.
+
+256
+00:12:19,040 --> 00:12:19,540
+Phoenix Peng: Okay.
+
+257
+00:12:19,800 --> 00:12:20,300
+Charles Caskey: Wait, Phoenix-
+
+258
+00:12:20,040 --> 00:12:21,680
+Phoenix Peng: So that's just why the name come from.
+
+259
+00:12:22,460 --> 00:12:24,360
+Keith Murphy: But that's an, that's like an English word.
+
+260
+00:12:25,060 --> 00:12:26,820
+Is it, does it have a Chinese translation?
+
+261
+00:12:26,860 --> 00:12:28,040
+Phoenix Peng: It's a German. It's a, it's a German.
+
+262
+00:12:28,160 --> 00:12:29,440
+Charles Caskey: Oh, it is? [laughs]
+
+263
+00:12:29,480 --> 00:12:30,000
+Phoenix Peng: Yeah. [laughs]
+
+264
+00:12:30,060 --> 00:12:30,560
+Charles Caskey: I don't know why.
+
+265
+00:12:31,040 --> 00:12:32,320
+Keith Murphy: I just know the word, I guess.
+
+266
+00:12:32,800 --> 00:12:34,440
+Yeah, so why, why German word?
+
+267
+00:12:34,440 --> 00:12:34,940
+Phoenix Peng: Gestalt is a German word.
+
+268
+00:12:35,420 --> 00:12:36,440
+Charles Caskey: Yeah, I guess it's global.
+
+269
+00:12:36,500 --> 00:12:37,000
+Phoenix Peng: There is-
+
+270
+00:12:36,600 --> 00:12:38,520
+Keith Murphy: We all, we all know it then, is what you're saying.
+
+271
+00:12:38,800 --> 00:12:40,040
+Do they use that word in China?
+
+272
+00:12:41,100 --> 00:12:41,600
+Phoenix Peng: Yeah.
+
+273
+00:12:41,120 --> 00:12:41,620
+Charles Caskey: Just to solve-
+
+274
+00:12:41,340 --> 00:12:45,840
+Phoenix Peng: Uh, yes, we're using this word Gestalt, is a philosophy concept from German-
+
+275
+00:12:45,980 --> 00:12:46,480
+Charles Caskey: Oh, cool
+
+276
+00:12:46,380 --> 00:12:48,100
+Phoenix Peng: ... 100 years ago, 100 years ago.
+
+277
+00:12:48,520 --> 00:12:51,980
+So it means there's something, the whole is bigger that sum its part.
+
+278
+00:12:52,600 --> 00:12:57,520
+I think our brain is definitely something whole is bigger that sum its part.
+
+279
+00:12:57,940 --> 00:13:02,740
+So if we're using electrical, put it into the tissue, we can recording M1,
+
+280
+00:13:02,860 --> 00:13:08,440
+we can recording the SMCs, we can re-recording a few hundred neuron for sure,
+
+281
+00:13:09,020 --> 00:13:12,160
+but we cannot recording the whole brain activity.
+
+282
+00:13:12,620 --> 00:13:17,180
+And even we put all the electrode on all the surface of my cortex,
+
+283
+00:13:17,720 --> 00:13:21,700
+we can still not decoding our brain because there are a lot of function
+
+284
+00:13:22,280 --> 00:13:24,840
+was, uh, generated by neural circuit..
+
+285
+00:13:25,000 --> 00:13:26,640
+It's not by part of its neurons.
+
+286
+00:13:27,080 --> 00:13:31,380
+So we need the technology can recording the brain activity as a whole, as
+
+287
+00:13:31,420 --> 00:13:36,020
+a brain, as a circles. So this is a first and probably most important
+
+288
+00:13:36,140 --> 00:13:39,960
+reason I decide to change the ultrasound BCIs.
+
+289
+00:13:40,660 --> 00:13:41,420
+Okay, so this is-
+
+290
+00:13:41,420 --> 00:13:41,920
+Charles Caskey: Okay
+
+291
+00:13:41,480 --> 00:13:43,860
+Phoenix Peng: ... the first one. So this is also the name Gestalt coming from.
+
+292
+00:13:43,860 --> 00:13:45,100
+Charles Caskey: Read, read, read and write.
+
+293
+00:13:46,000 --> 00:13:47,580
+Phoenix Peng: Yeah, read and write. Whole brain read and write.
+
+294
+00:13:47,600 --> 00:13:48,100
+Charles Caskey: And it's,
+
+295
+00:13:48,640 --> 00:13:50,500
+Keith Murphy: it's a German word, not English.
+
+296
+00:13:50,520 --> 00:13:51,020
+[laughs]
+
+297
+00:13:50,540 --> 00:13:51,800
+Phoenix Peng: It's a German word. Yeah.
+
+298
+00:13:52,380 --> 00:13:55,420
+Charles Caskey: We, we inherit a lot of German words, though, in English, I think.
+
+299
+00:13:55,420 --> 00:13:56,700
+Keith Murphy: We love German words. We steal them all the time.
+
+300
+00:13:56,700 --> 00:13:57,420
+Charles Caskey: We love German words in, uh, yeah.
+
+301
+00:13:57,420 --> 00:13:58,400
+[laughs]
+
+302
+00:13:58,440 --> 00:14:00,660
+Keith Murphy: German verb you love. Um, okay.
+
+303
+00:14:00,720 --> 00:14:03,000
+I love the idea that, that you're interested in-
+
+304
+00:14:03,040 --> 00:14:03,540
+Phoenix Peng: Hang on
+
+305
+00:14:03,440 --> 00:14:05,620
+Keith Murphy: ... deep brain areas. Oh, sorry, go ahead, Charles.
+
+306
+00:14:05,920 --> 00:14:07,160
+Charles Caskey: It's a, it's a list of three.
+
+307
+00:14:07,520 --> 00:14:09,200
+We got, we got three. [laughs]
+
+308
+00:14:09,260 --> 00:14:10,600
+Keith Murphy: Oh, one. Oh, sorry, what was the last one?
+
+309
+00:14:10,880 --> 00:14:11,480
+What's number three?
+
+310
+00:14:12,320 --> 00:14:14,100
+Phoenix Peng: Yeah, let's answer the Charles question.
+
+311
+00:14:14,480 --> 00:14:19,840
+The second reason is, uh, I find out if we're using ultrasound BCI, we
+
+312
+00:14:19,900 --> 00:14:24,040
+can targeting much larger population of the patients-
+
+313
+00:14:24,400 --> 00:14:24,900
+Charles Caskey: Mm
+
+314
+00:14:24,520 --> 00:14:26,240
+Phoenix Peng: ... compared with the electrical BCI.
+
+315
+00:14:26,840 --> 00:14:33,260
+Our electrical BCI, the most indi-, uh, indication we are targeting is ALS
+
+316
+00:14:33,940 --> 00:14:39,040
+and spinal cord injuries. There are a few, uh, percentage of the patients, but
+
+317
+00:14:39,100 --> 00:14:45,480
+with, um, ultrasound BCI neuro, neuromodulation as a first generation device, we can targeting
+
+318
+00:14:45,700 --> 00:14:52,220
+chronic pain, we can targeting mental illness, we can targeting, uh, stroke rehabilitation, we
+
+319
+00:14:52,280 --> 00:14:56,420
+can targeting all kind of large population patients.
+
+320
+00:14:56,900 --> 00:15:03,320
+So from commercialization perspective, the ultrasound BCI can go to market, uh,
+
+321
+00:15:03,540 --> 00:15:06,880
+much faster compared with, uh, electrical BCI.
+
+322
+00:15:07,280 --> 00:15:10,980
+And also because it's non-invasive device, so the-
+
+323
+00:15:11,060 --> 00:15:11,560
+Charles Caskey: Mm
+
+324
+00:15:11,120 --> 00:15:15,860
+Phoenix Peng: ... uh, the process to get the FDA or CFDA approval-
+
+325
+00:15:16,200 --> 00:15:16,700
+Charles Caskey: Mm
+
+326
+00:15:16,280 --> 00:15:19,300
+Phoenix Peng: ... will be shorter compared with the implantable.
+
+327
+00:15:19,740 --> 00:15:23,580
+This is also very important for entrepreneur, entrepreneur like me.
+
+328
+00:15:24,020 --> 00:15:29,620
+We want to see our product can be used by mass population.
+
+329
+00:15:29,720 --> 00:15:35,540
+And the third one, probably this is most important one, is ultrasound BCI have
+
+330
+00:15:35,580 --> 00:15:38,440
+much stronger connection with AI for science.
+
+331
+00:15:39,320 --> 00:15:44,940
+And this is also maybe the biggest change in the BCI sector and ultrasound
+
+332
+00:15:45,020 --> 00:15:46,960
+sector, and even all the industry.
+
+333
+00:15:47,020 --> 00:15:51,880
+The dramatically change in last three or four years is the AI has dramatically
+
+334
+00:15:51,920 --> 00:15:57,240
+changed all the industry. So, uh, I think by ultrasound, um, BCI, we can
+
+335
+00:15:57,280 --> 00:16:03,800
+recording the vascular blood signal, and we can also combine with MR, CTs,
+
+336
+00:16:04,180 --> 00:16:08,120
+and also, uh, electrical BCI signal to building our foundation models.
+
+337
+00:16:08,840 --> 00:16:14,300
+So, uh, yeah, that's why Gestala, we are also building our foundation model of
+
+338
+00:16:14,360 --> 00:16:19,620
+your brain. We're using different kind of, uh, transformer algorithm, but we have different
+
+339
+00:16:19,660 --> 00:16:22,820
+token in, token out to train this model for decoding.
+
+340
+00:16:23,300 --> 00:16:29,240
+So th- this means, uh, we can using AI with more power, and we
+
+341
+00:16:29,300 --> 00:16:34,160
+can also, uh, I think we can use multimodality foundation model to help AI
+
+342
+00:16:34,300 --> 00:16:38,160
+probably in the future. So this is sort of the one, two, three, Keith
+
+343
+00:16:38,200 --> 00:16:38,700
+and Charles.
+
+344
+00:16:38,680 --> 00:16:45,060
+Charles Caskey: Mm-hmm. Thank you. The, I'm not gonna go further down the AI, uh, AI
+
+345
+00:16:45,120 --> 00:16:48,660
+rabbit hole because I, I, I got too many questions and we'd spend like
+
+346
+00:16:48,720 --> 00:16:51,720
+four hours on it. But I guess when you think about reading the brain,
+
+347
+00:16:52,340 --> 00:16:56,580
+as an imaging scientist, I would say you have functional ultrasound, you have Doppler,
+
+348
+00:16:57,420 --> 00:17:01,000
+but it almost sounds like you're talking about a future technology here, where you've
+
+349
+00:17:01,040 --> 00:17:03,060
+got something that's neither of those.
+
+350
+00:17:03,140 --> 00:17:05,460
+Maybe, and it's almost a little abstract.
+
+351
+00:17:05,520 --> 00:17:10,360
+Maybe it's this idea of like, you know, singularity with, uh, consciousness and machines
+
+352
+00:17:10,380 --> 00:17:12,460
+and stuff starts being just around the corner.
+
+353
+00:17:13,180 --> 00:17:14,340
+Um, and I, and I love that.
+
+354
+00:17:14,420 --> 00:17:16,680
+I, I do love it. [laughs] So it's, um...
+
+355
+00:17:17,080 --> 00:17:19,080
+But is that what you mean when you think of reading?
+
+356
+00:17:19,160 --> 00:17:23,240
+Are you thinking further than the modalities of ultrasound that we currently have?
+
+357
+00:17:24,520 --> 00:17:29,720
+Phoenix Peng: Yes. I think we know there's some latency between the CBV signal with the
+
+358
+00:17:29,760 --> 00:17:31,660
+neuron firing. There were some latency.
+
+359
+00:17:32,380 --> 00:17:37,520
+Uh, so that's why we need the foundation model try to cross modality to
+
+360
+00:17:37,580 --> 00:17:40,280
+reduce the latencies. So if we can get-
+
+361
+00:17:40,300 --> 00:17:40,800
+Charles Caskey: Yeah
+
+362
+00:17:40,540 --> 00:17:46,620
+Phoenix Peng: ... the electrical signal and the CBV signal, uh, simultaneously, and our model can
+
+363
+00:17:46,820 --> 00:17:51,220
+decrease the latency bet- between different, uh, modality in the future.
+
+364
+00:17:51,300 --> 00:17:55,260
+So that's the purpose. But, uh, of course, it's, uh, facing a lot of
+
+365
+00:17:55,340 --> 00:18:01,020
+engineering challenge because, uh, the scope, uh, for the, uh, image is very challenging.
+
+366
+00:18:01,480 --> 00:18:06,480
+Uh, so that's- Yeah ... why our first generation device will focus on EEG
+
+367
+00:18:06,520 --> 00:18:12,500
+recording and ultrasound stimulation, not the ultrasound image and ultrasound stimulation at same times.
+
+368
+00:18:12,880 --> 00:18:14,580
+It's difficult to put everything into the-
+
+369
+00:18:14,960 --> 00:18:15,460
+Charles Caskey: Mm-hmm
+
+370
+00:18:15,180 --> 00:18:17,800
+Phoenix Peng: ... same products as a first generation.
+
+371
+00:18:18,180 --> 00:18:22,240
+So the first generation is where, where we're using EEG signal as a closed
+
+372
+00:18:22,320 --> 00:18:28,260
+loop modulations. The second generation probably we are working will have the ultrasound image
+
+373
+00:18:28,460 --> 00:18:31,940
+and ultrasound stimulation, uh, modulation in the same device.
+
+374
+00:18:33,170 --> 00:18:33,670
+Charles Caskey: Cool.
+
+375
+00:18:34,050 --> 00:18:38,970
+Keith Murphy: In Silicon Valley, there's at least a number of teams, and I've never seen
+
+376
+00:18:39,030 --> 00:18:42,930
+it in person, but there's a number of teams who say they can reconstruct
+
+377
+00:18:43,110 --> 00:18:48,570
+images from EEG alone, full caps, lots of channels, lots of signal, and a
+
+378
+00:18:48,610 --> 00:18:51,290
+pre-trained model with some real-time training.
+
+379
+00:18:51,950 --> 00:18:56,750
+And then you go to these competitions from undergrads from Berkeley and Stanford and
+
+380
+00:18:56,810 --> 00:19:01,290
+all these universities, and they can barely move a cursor across the screen with
+
+381
+00:19:01,370 --> 00:19:02,770
+EEG. It's mostly just-
+
+382
+00:19:02,790 --> 00:19:03,290
+Phoenix Peng: Mm-hmm
+
+383
+00:19:02,870 --> 00:19:07,010
+Keith Murphy: ... blink artifact. So where do you see EEG going?
+
+384
+00:19:07,290 --> 00:19:11,530
+Are you seeing some of these results that people claim to have, where you
+
+385
+00:19:11,550 --> 00:19:17,370
+can reconstruct really intentional thoughts and imagery and, I guess, are you moving in
+
+386
+00:19:17,410 --> 00:19:18,070
+that direction?
+
+387
+00:19:19,290 --> 00:19:22,830
+Phoenix Peng: Yeah, I think this is why I think the AI for science will have
+
+388
+00:19:22,890 --> 00:19:29,310
+a huge contribute for ultrasound BCI company in the future is I think single
+
+389
+00:19:29,350 --> 00:19:33,910
+modality, uh, decoding like EEG will have limitation for sures.
+
+390
+00:19:34,510 --> 00:19:39,010
+Uh, like the, the, there are lots of PIs already using EEG have this
+
+391
+00:19:39,050 --> 00:19:44,030
+foundation model and, and also Meta, uh, released one recent trial.
+
+392
+00:19:44,370 --> 00:19:50,030
+They're using MR signal, uh, fMRI, uh, signal to also build a foundation model.
+
+393
+00:19:50,390 --> 00:19:53,730
+So this single modality foundation model all have limits.
+
+394
+00:19:54,350 --> 00:19:54,850
+They can-
+
+395
+00:19:54,710 --> 00:19:55,210
+Charles Caskey: Mm-hmm
+
+396
+00:19:54,730 --> 00:19:57,330
+Phoenix Peng: ... perform some special tasks. They have-
+
+397
+00:19:57,510 --> 00:19:58,010
+Charles Caskey: Mm-hmm
+
+398
+00:19:57,730 --> 00:20:01,930
+Phoenix Peng: ... value, but cross-task, cross-modality is difficult.
+
+399
+00:20:02,390 --> 00:20:08,390
+So that's why I think probably cross-modality foundation model will be the next
+
+400
+00:20:08,890 --> 00:20:10,850
+two years, three years big progress.
+
+401
+00:20:11,210 --> 00:20:15,370
+But the biggest challenge to building this kind of foundation model is we don't
+
+402
+00:20:15,450 --> 00:20:19,470
+have this kind of golden standard data yet because we cannot-
+
+403
+00:20:19,550 --> 00:20:20,050
+Charles Caskey: Yeah
+
+404
+00:20:19,590 --> 00:20:23,170
+Phoenix Peng: ... wait recording our brains EEGs and ultrasounds- Yeah ...
+
+405
+00:20:23,190 --> 00:20:29,150
+and MR simultaneously and labeling all the data with a high qualities then put
+
+406
+00:20:29,210 --> 00:20:32,250
+into a, uh, um, models to train it.
+
+407
+00:20:32,690 --> 00:20:37,350
+So that's why I think we need to build our own models, train our
+
+408
+00:20:37,390 --> 00:20:42,610
+own datas, and get as much data in animals and in patients as much
+
+409
+00:20:42,650 --> 00:20:47,550
+as possible. Then I think after maybe three years, four years, we will have
+
+410
+00:20:47,630 --> 00:20:50,150
+a multi-modality foundation model to decoding the brain.
+
+411
+00:20:50,190 --> 00:20:50,990
+So that's the target.
+
+412
+00:20:51,190 --> 00:20:54,830
+Charles Caskey: I just kinda wanna s-say that really opens my mind a little bit and
+
+413
+00:20:54,890 --> 00:20:58,810
+make sure that anybody that's listening understands, and I'm gonna just say it back
+
+414
+00:20:58,850 --> 00:21:02,390
+to make sure I understand 'cause I hadn't thought about this a whole lot.
+
+415
+00:21:02,750 --> 00:21:07,870
+So our current AI models trained on pictures of cars, books, everything like that,
+
+416
+00:21:08,070 --> 00:21:12,130
+that's out there, things that we know, and then it's producing more, you know,
+
+417
+00:21:12,270 --> 00:21:16,070
+that type of information. But I think here you're saying that, like, all of
+
+418
+00:21:16,110 --> 00:21:19,850
+the medical information that we might get from any, any m- either it's a,
+
+419
+00:21:19,970 --> 00:21:25,370
+whether it's a modality, probably even like, I don't know, psychotherapy sessions.
+
+420
+00:21:25,450 --> 00:21:29,490
+And again, it's complicated in the same way it was complicated to organize, uh,
+
+421
+00:21:29,650 --> 00:21:33,470
+the data that goes into our current AI models that are, you know, LLMs
+
+422
+00:21:33,510 --> 00:21:37,270
+and stuff like that. But one of the powers and why you keep seeing
+
+423
+00:21:37,330 --> 00:21:43,350
+this link up between BCI companies a-aligned with, with AI is
+
+424
+00:21:43,390 --> 00:21:46,150
+because that, there, it's like building up these models.
+
+425
+00:21:46,550 --> 00:21:49,130
+And is it a model? What is it a model of?
+
+426
+00:21:49,210 --> 00:21:52,030
+That's the part that, like I can get the idea of a large language
+
+427
+00:21:52,150 --> 00:21:54,830
+model. Is this a large human model?
+
+428
+00:21:54,970 --> 00:21:56,510
+What is this? [chuckles]
+
+429
+00:21:56,570 --> 00:22:01,390
+Phoenix Peng: Yeah. That, probably nobody has the right answer now, but I'm pretty sure it's
+
+430
+00:22:01,430 --> 00:22:03,110
+not a language model for sure.
+
+431
+00:22:03,430 --> 00:22:03,930
+Uh-
+
+432
+00:22:03,570 --> 00:22:04,070
+Charles Caskey: Yeah
+
+433
+00:22:03,790 --> 00:22:07,270
+Phoenix Peng: ... we were also using transformer kind of a structure, but it's not a
+
+434
+00:22:07,330 --> 00:22:09,230
+language because we're using different token.
+
+435
+00:22:09,950 --> 00:22:10,550
+Language model-
+
+436
+00:22:10,590 --> 00:22:11,090
+Charles Caskey: Mm-hmm
+
+437
+00:22:10,670 --> 00:22:13,610
+Phoenix Peng: ... is a, a character token, uh, but in this- Yeah ...
+
+438
+00:22:13,630 --> 00:22:16,950
+brain foundation model, all the token in, token out is different.
+
+439
+00:22:17,190 --> 00:22:17,690
+It's, uh-
+
+440
+00:22:17,970 --> 00:22:18,470
+Charles Caskey: Yeah
+
+441
+00:22:18,050 --> 00:22:22,330
+Phoenix Peng: ... it's a biometric, uh, uh, uh, uh, characters.
+
+442
+00:22:22,530 --> 00:22:25,350
+So that's something we are trying to figure out right now.
+
+443
+00:22:25,450 --> 00:22:29,390
+So, so probably by end of th-this year, we will have a small MVP
+
+444
+00:22:29,950 --> 00:22:35,450
+to demo to show that we can, uh, have this multi-modality foundation model to
+
+445
+00:22:35,490 --> 00:22:39,690
+predict some of the brain response to s-stimulations.
+
+446
+00:22:40,230 --> 00:22:40,790
+So, uh-
+
+447
+00:22:40,850 --> 00:22:41,350
+Charles Caskey: Yeah
+
+448
+00:22:40,890 --> 00:22:45,250
+Phoenix Peng: ... for example, the first generation device, uh, our first generation device is quite
+
+449
+00:22:45,350 --> 00:22:50,770
+similar to Keith's, uh, Attune's.. Uh, we're also using, uh, ultrasound for, for, for
+
+450
+00:22:50,870 --> 00:22:55,410
+chronic pain and using EEG for the biomarker of the pains.
+
+451
+00:22:55,790 --> 00:23:00,490
+So it's kind of, um, u-using EEG as, uh, one of the modality of
+
+452
+00:23:00,530 --> 00:23:04,850
+the foundation model to define the biomarker of the pain levels.
+
+453
+00:23:05,390 --> 00:23:10,330
+Then we're using ultrasound stimulation to reduce the pain as a closed loop modulation.
+
+454
+00:23:10,770 --> 00:23:16,530
+In this case, it's a multi-modality foundation model, but we're only using one modality
+
+455
+00:23:16,570 --> 00:23:21,790
+as EEG. So next generation is, uh, we will combine with blood signals and
+
+456
+00:23:21,970 --> 00:23:24,570
+intracortical EEGs, some signal pieced together.
+
+457
+00:23:25,210 --> 00:23:28,770
+I don't know what's the right answer is, but I know is I should
+
+458
+00:23:28,830 --> 00:23:34,410
+invest more people and scientists in AI and, uh, uh, we, we already have
+
+459
+00:23:34,450 --> 00:23:37,930
+four people in this sector right now, but I think we still need, need
+
+460
+00:23:37,990 --> 00:23:39,890
+maybe 20 more to figure it out.
+
+461
+00:23:40,050 --> 00:23:40,690
+Charles Caskey: That's amazing.
+
+462
+00:23:40,770 --> 00:23:45,830
+Keith Murphy: It's gonna be awesome. I-- W-we always have to think about fMRI because it's
+
+463
+00:23:45,890 --> 00:23:49,670
+a really rich data and the role that it plays in actual product.
+
+464
+00:23:50,350 --> 00:23:53,950
+But right now in the US, and I'd be curious how this looks in
+
+465
+00:23:53,990 --> 00:23:58,230
+China, in the US, MRI is extremely inaccessible.
+
+466
+00:23:58,490 --> 00:24:03,510
+You're either rich and you have fast access, or you're not doing so well
+
+467
+00:24:03,670 --> 00:24:05,290
+and you just can't get a hold of it.
+
+468
+00:24:05,630 --> 00:24:08,290
+But I, I do imagine maybe there's a future where people are using it
+
+469
+00:24:08,330 --> 00:24:13,690
+more often. Do you see fMRI as a one-time piece of your puzzle or
+
+470
+00:24:13,730 --> 00:24:14,370
+an ongoing-
+
+471
+00:24:14,450 --> 00:24:14,950
+Phoenix Peng: Yes
+
+472
+00:24:14,450 --> 00:24:14,950
+Keith Murphy: ... measurement?
+
+473
+00:24:16,070 --> 00:24:20,270
+Phoenix Peng: I think MR is, has a huge potential we need to, especially in whole
+
+474
+00:24:20,410 --> 00:24:22,990
+brain access, because MR can- Mm ...
+
+475
+00:24:23,010 --> 00:24:28,190
+provide the DTIs and function MRI and also set a CT.
+
+476
+00:24:28,370 --> 00:24:31,030
+So I think MR have huge potential in the future.
+
+477
+00:24:31,470 --> 00:24:34,570
+That's why we are, we are building our first MR image center.
+
+478
+00:24:35,010 --> 00:24:38,310
+End of this year, so we also have our own MR scanners.
+
+479
+00:24:38,790 --> 00:24:41,430
+Wow. But the biggest challenge is, uh, first off is cost.
+
+480
+00:24:41,770 --> 00:24:45,160
+Uh, all the university and hospital, the MR was ...
+
+481
+00:24:45,240 --> 00:24:49,500
+uh, occupied by all the patients, so it's not for research purpose.
+
+482
+00:24:49,980 --> 00:24:53,580
+We need to find the right time slot we can use in their device.
+
+483
+00:24:54,080 --> 00:24:54,580
+So-
+
+484
+00:24:54,480 --> 00:24:54,980
+Keith Murphy: Mm-hmm
+
+485
+00:24:54,600 --> 00:24:58,580
+Phoenix Peng: ... I think why ultrasound BCI company, we need to have our own MR.
+
+486
+00:24:59,180 --> 00:25:04,760
+And also, we don't need 3T MRI in the futures because the cost is
+
+487
+00:25:04,820 --> 00:25:07,080
+high, and you need a large space.
+
+488
+00:25:07,260 --> 00:25:13,180
+And, uh, we are also working on some low Ts, maybe 0.5-
+
+489
+00:25:13,320 --> 00:25:13,820
+Keith Murphy: Nice
+
+490
+00:25:13,800 --> 00:25:14,660
+Phoenix Peng: ... Ts MRI.
+
+491
+00:25:14,720 --> 00:25:15,220
+Keith Murphy: Yes.
+
+492
+00:25:15,260 --> 00:25:15,760
+Charles Caskey: Hmm.
+
+493
+00:25:15,700 --> 00:25:16,760
+Phoenix Peng: Yeah. So probably-
+
+494
+00:25:16,860 --> 00:25:18,360
+Charles Caskey: Not, not full low field, but like-
+
+495
+00:25:18,380 --> 00:25:18,880
+Phoenix Peng: Low field
+
+496
+00:25:18,840 --> 00:25:19,740
+Charles Caskey: ... lower field.
+
+497
+00:25:20,360 --> 00:25:24,320
+Phoenix Peng: And maybe open space. It means you don't need a huge room to- Yeah
+
+498
+00:25:24,320 --> 00:25:25,200
+... because low Ts.
+
+499
+00:25:26,220 --> 00:25:26,720
+Charles Caskey: Mm-hmm.
+
+500
+00:25:26,300 --> 00:25:31,920
+Phoenix Peng: And probably this device can be much cheaper compared with traditional 3T MRIs.
+
+501
+00:25:32,460 --> 00:25:36,640
+And the most fascinating part is, I also talked to Kim Butts Pauly in,
+
+502
+00:25:36,760 --> 00:25:40,800
+in, in, in Paris this time, is if it's okay, we can integrate the
+
+503
+00:25:40,920 --> 00:25:45,240
+ARFI into low Ts MRIs. That also can be very useful.
+
+504
+00:25:46,140 --> 00:25:50,020
+Keith Murphy: Yeah, that might be challenging, but I would love if you guys pull that
+
+505
+00:25:50,120 --> 00:25:50,620
+off.
+
+506
+00:25:50,660 --> 00:25:54,660
+Charles Caskey: Yeah, the MRI kind of gets a bad name for, like, the price, the,
+
+507
+00:25:54,800 --> 00:25:59,820
+the accessibility and things, but, uh, and, and the low SNR, frankly, with fMRI.
+
+508
+00:25:59,900 --> 00:26:03,180
+Like, I get beat up all the time with statistics on fMRI on my
+
+509
+00:26:03,220 --> 00:26:07,600
+reviews and stuff, but, like, what else can view the brain like that, you
+
+510
+00:26:07,640 --> 00:26:08,140
+know?
+
+511
+00:26:07,860 --> 00:26:09,800
+Keith Murphy: It's getting better. With the AI layer-
+
+512
+00:26:10,060 --> 00:26:10,560
+Charles Caskey: Yeah
+
+513
+00:26:10,160 --> 00:26:13,280
+Keith Murphy: ... passed over it too, have you seen some of the new Phoenix?
+
+514
+00:26:13,380 --> 00:26:15,820
+Maybe you've seen Hyperfine's new images.
+
+515
+00:26:15,880 --> 00:26:21,000
+Hyperfine is .075 tesla, really low.
+
+516
+00:26:21,160 --> 00:26:27,300
+I think it's .075. And, uh, it's just, it's good enough for anatomical targeting
+
+517
+00:26:27,860 --> 00:26:33,060
+for sure. I don't think ARFI would ever work, but I also don't know
+
+518
+00:26:33,100 --> 00:26:34,880
+what it's capable of, you know?
+
+519
+00:26:35,340 --> 00:26:36,340
+So it's worth trying.
+
+520
+00:26:37,280 --> 00:26:37,980
+Phoenix Peng: Yeah, it's worth trying.
+
+521
+00:26:38,020 --> 00:26:38,520
+Charles Caskey: Yeah.
+
+522
+00:26:39,260 --> 00:26:39,760
+Phoenix Peng: Yeah.
+
+523
+00:26:39,280 --> 00:26:40,340
+Keith Murphy: Yeah, everything's worth trying, you know?
+
+524
+00:26:40,360 --> 00:26:42,400
+Charles Caskey: There's gotta be a way. There's gotta be a way.
+
+525
+00:26:42,800 --> 00:26:47,160
+I, you know, as we talk about the differences between-- or, you know, y-
+
+526
+00:26:47,300 --> 00:26:53,120
+I think your question started off, Keith, as, like, is MRI more accessible, and
+
+527
+00:26:53,200 --> 00:26:55,420
+is it, is it still viewed the same way in China?
+
+528
+00:26:55,440 --> 00:26:55,980
+Keith Murphy: In China, yeah.
+
+529
+00:26:56,380 --> 00:26:56,880
+Charles Caskey: Some, some I'm curious about.
+
+530
+00:26:56,460 --> 00:26:58,240
+Keith Murphy: I bet it's way more accessible, right?
+
+531
+00:26:58,700 --> 00:26:59,200
+Charles Caskey: Well, yeah.
+
+532
+00:26:59,140 --> 00:26:59,640
+Phoenix Peng: Yeah. Yeah.
+
+533
+00:26:59,180 --> 00:27:05,460
+Charles Caskey: And I'm curious also about building a neurotechnology company in China versus United States.
+
+534
+00:27:05,760 --> 00:27:07,800
+Uh, I guess, uh, you may not have a sense of what it's like.
+
+535
+00:27:07,880 --> 00:27:10,400
+I guess among the three of us, we have all the data [laughs] So
+
+536
+00:27:10,480 --> 00:27:14,660
+I'm just curious, you know, what's, what do you see Phoenix as the benefit?
+
+537
+00:27:14,880 --> 00:27:17,280
+Uh- Yeah ... and maybe Keith can talk, you know, about how that, you
+
+538
+00:27:17,320 --> 00:27:20,680
+know, works, uh, from, from in the United States having done that.
+
+539
+00:27:20,780 --> 00:27:22,000
+Phoenix Peng: Yeah, this is a good question.
+
+540
+00:27:22,220 --> 00:27:26,440
+Uh, uh, I think China will be the wonderland for neuroscience in the next
+
+541
+00:27:26,480 --> 00:27:28,780
+10 years, uh, for several reason.
+
+542
+00:27:28,980 --> 00:27:34,040
+First of all, cost is much lower here, especially for clin- for clinical trial,
+
+543
+00:27:34,480 --> 00:27:35,280
+for clinical trial-
+
+544
+00:27:35,300 --> 00:27:35,800
+Charles Caskey: Hmm
+
+545
+00:27:35,400 --> 00:27:40,240
+Phoenix Peng: ... and for animal test. Uh, we have, we have unlimited access to monkeys
+
+546
+00:27:40,280 --> 00:27:42,720
+and rodents and big animals, uh, so-
+
+547
+00:27:42,940 --> 00:27:43,440
+Keith Murphy: Mm-hmm
+
+548
+00:27:43,020 --> 00:27:47,980
+Phoenix Peng: ... so it means we can building our own animal centers for, for collecting
+
+549
+00:27:48,040 --> 00:27:52,820
+datas and al- also. And then for cl- clinical trial is also much cheaper.
+
+550
+00:27:53,540 --> 00:27:59,880
+And the, uh, everything manufacturing of infrastructure building in China is
+
+551
+00:27:59,940 --> 00:28:01,180
+cheaper and much faster.
+
+552
+00:28:01,280 --> 00:28:01,780
+Keith Murphy: Oh, man.
+
+553
+00:28:01,580 --> 00:28:06,960
+Phoenix Peng: For example, for example, Gestala only established less than seven months.
+
+554
+00:28:07,660 --> 00:28:10,980
+So we are officially launched January 1st of this year.
+
+555
+00:28:11,600 --> 00:28:14,940
+Today is, uh, uh, exactly seven months from now on.
+
+556
+00:28:15,540 --> 00:28:19,420
+We already have a 2,000 square meters headquarter finished.
+
+557
+00:28:19,740 --> 00:28:20,900
+Keith Murphy: Are you saying you built that?
+
+558
+00:28:21,080 --> 00:28:22,380
+Did you build that from scratch?
+
+559
+00:28:22,480 --> 00:28:23,720
+I thought you bought that building.
+
+560
+00:28:24,320 --> 00:28:25,260
+Oh, you built that.
+
+561
+00:28:26,140 --> 00:28:28,300
+Phoenix Peng: No, no, no. The building is already bu- uh, uh-
+
+562
+00:28:28,380 --> 00:28:29,240
+Keith Murphy: Oh, you bought it
+
+563
+00:28:29,380 --> 00:28:29,880
+Phoenix Peng: ... there. [laughs]
+
+564
+00:28:30,020 --> 00:28:30,880
+Keith Murphy: But still, that's amazing.
+
+565
+00:28:30,900 --> 00:28:35,200
+Phoenix Peng: I rent the building. Yeah. [laughs] I rent the building, uh, finish everything decoration
+
+566
+00:28:35,300 --> 00:28:35,980
+with our-
+
+567
+00:28:36,700 --> 00:28:37,200
+Keith Murphy: Yeah.
+
+568
+00:28:36,720 --> 00:28:41,800
+Phoenix Peng: We already have Class 2 medical device GMP factories, Class 3 medical device- Wow
+
+569
+00:28:41,800 --> 00:28:47,400
+... GMP factory, and we have ultrasound, uh, electrical animal and bio labs for
+
+570
+00:28:47,520 --> 00:28:51,660
+sale, and sonogenetics protein design and GMP factory.
+
+571
+00:28:52,020 --> 00:28:54,880
+Everything finished in six months. So this is-
+
+572
+00:28:54,900 --> 00:28:55,400
+Keith Murphy: Wow
+
+573
+00:28:55,100 --> 00:28:55,600
+Charles Caskey: Yeah, this is-
+
+574
+00:28:55,400 --> 00:28:58,300
+Phoenix Peng: ... something is very difficult to happen outside China.
+
+575
+00:28:58,360 --> 00:29:00,200
+Charles Caskey: It is very... It is, yeah.
+
+576
+00:29:00,500 --> 00:29:06,160
+I was, I, I visited, um, Shenzhen in, like, 2017 maybe.
+
+577
+00:29:06,540 --> 00:29:10,240
+In any case, like, and just learning about it and how quickly Shenzhen was
+
+578
+00:29:10,280 --> 00:29:13,760
+built, you know, you look at it and you think this, like, must be
+
+579
+00:29:13,900 --> 00:29:17,620
+a really old city [chuckles] just by the number of buildings alone.
+
+580
+00:29:18,060 --> 00:29:23,260
+Um, and I think that that capability to allocate resources in an intentional way,
+
+581
+00:29:23,660 --> 00:29:24,300
+I think you're right.
+
+582
+00:29:24,340 --> 00:29:24,840
+Phoenix Peng: Yes.
+
+583
+00:29:24,380 --> 00:29:28,320
+Charles Caskey: It's, it's really, it's really tough to do that in the United States, and
+
+584
+00:29:28,460 --> 00:29:31,020
+I'm excited that you guys have all that under one roof.
+
+585
+00:29:31,460 --> 00:29:31,960
+Um, [laughs]
+
+586
+00:29:31,920 --> 00:29:32,420
+Phoenix Peng: Yes.
+
+587
+00:29:33,480 --> 00:29:37,520
+Charles Caskey: I'm laughing. G- uh, we have, this is how our university system is kind
+
+588
+00:29:37,540 --> 00:29:38,840
+of, right? We have, like, MRIs.
+
+589
+00:29:38,900 --> 00:29:41,860
+We got animal facilities. We've got, like, we can make sonogenetics.
+
+590
+00:29:41,920 --> 00:29:43,700
+We can do, uh, we have microscopes everywhere.
+
+591
+00:29:44,280 --> 00:29:47,720
+Um, the thing that I think university does not do well in the US
+
+592
+00:29:47,800 --> 00:29:52,680
+is scaling, whereas I think that Chinese companies have, like, that, the ability to
+
+593
+00:29:52,760 --> 00:29:56,040
+try so many diverse ideas and get something together, but then the- Yes ...
+
+594
+00:29:56,060 --> 00:29:59,760
+probably the ability to scale is just like, you know, once you know something
+
+595
+00:29:59,800 --> 00:30:01,340
+works, it's like, boom, it's out the door.
+
+596
+00:30:01,860 --> 00:30:02,460
+I think it's cool.
+
+597
+00:30:02,500 --> 00:30:03,540
+Phoenix Peng: Yes. Yes.
+
+598
+00:30:03,960 --> 00:30:08,720
+Keith Murphy: Internally, Americans are very competitive with each other, and, like, we assume that about
+
+599
+00:30:09,100 --> 00:30:12,240
+Chinese culture, but everybody in China is Team China.
+
+600
+00:30:12,460 --> 00:30:14,680
+There's not, like, an internal... You know what I mean?
+
+601
+00:30:14,740 --> 00:30:17,540
+You guys are all fighting as a unit, and I don't know that we
+
+602
+00:30:17,620 --> 00:30:19,700
+have that as much as we used to here.
+
+603
+00:30:20,200 --> 00:30:21,780
+You know, it's a nice thing that you have, I think.
+
+604
+00:30:22,660 --> 00:30:24,940
+Phoenix Peng: But when in China, they're still very competitive.
+
+605
+00:30:25,020 --> 00:30:27,060
+You can see, like, the EV sector.
+
+606
+00:30:27,220 --> 00:30:30,240
+China have more than 200 brand of EVs.
+
+607
+00:30:30,380 --> 00:30:31,440
+Keith Murphy: Oh, really? [laughs]
+
+608
+00:30:31,720 --> 00:30:32,220
+Charles Caskey: Wow.
+
+609
+00:30:32,260 --> 00:30:33,940
+Phoenix Peng: After, after five-year brutal competition-
+
+610
+00:30:33,960 --> 00:30:35,060
+Keith Murphy: Build your, Build Your Dreams..
+
+611
+00:30:35,820 --> 00:30:36,780
+Charles Caskey: Is this, is this why my-
+
+612
+00:30:36,900 --> 00:30:37,500
+Phoenix Peng: Build Your Dreams
+
+613
+00:30:37,500 --> 00:30:38,760
+Charles Caskey: ... BYD stock is not going up- I love that company ...
+
+614
+00:30:38,800 --> 00:30:39,780
+is 'cause everybody's like,
+
+615
+00:30:39,780 --> 00:30:40,300
+Keith Murphy: "I keep-" BYD is awesome.
+
+616
+00:30:40,980 --> 00:30:41,480
+Charles Caskey: Yeah, I like one of the BYD-
+
+617
+00:30:41,400 --> 00:30:46,920
+Phoenix Peng: So that's why the survivor like Xiaomi and BYD, they have very strong products
+
+618
+00:30:47,040 --> 00:30:52,120
+and com- competitive in global market because inside China they already the survivors.
+
+619
+00:30:52,600 --> 00:30:53,600
+So the competition-
+
+620
+00:30:53,640 --> 00:30:54,140
+Charles Caskey: Ah, yeah
+
+621
+00:30:53,760 --> 00:30:54,680
+Phoenix Peng: ... is huge in China.
+
+622
+00:30:54,760 --> 00:30:55,260
+Keith Murphy: Oh, man.
+
+623
+00:30:54,920 --> 00:30:55,720
+Phoenix Peng: So that's the reason.
+
+624
+00:30:56,760 --> 00:30:59,360
+Keith Murphy: So it's not-- Okay, so it is competitive within China.
+
+625
+00:30:59,400 --> 00:31:00,440
+Phoenix Peng: It's competitive. Yeah.
+
+626
+00:31:00,500 --> 00:31:01,000
+Keith Murphy: Oh, okay.
+
+627
+00:31:00,540 --> 00:31:02,220
+Phoenix Peng: All the sector is competitive. Yeah.
+
+628
+00:31:02,600 --> 00:31:03,100
+Keith Murphy: Yeah. So America and
+
+629
+00:31:03,080 --> 00:31:04,220
+Charles Caskey: China are the same. So that's, that's human.
+
+630
+00:31:04,280 --> 00:31:05,260
+That's human. It's not-
+
+631
+00:31:05,300 --> 00:31:05,800
+Keith Murphy: It's the same.
+
+632
+00:31:05,660 --> 00:31:06,160
+Charles Caskey: That's,
+
+633
+00:31:05,740 --> 00:31:07,560
+Keith Murphy: yeah. We just are competitive. Okay.
+
+634
+00:31:07,740 --> 00:31:08,240
+That's what I thought.
+
+635
+00:31:07,980 --> 00:31:08,480
+Charles Caskey: It's the same.
+
+636
+00:31:08,440 --> 00:31:08,940
+Keith Murphy: Yeah.
+
+637
+00:31:09,080 --> 00:31:11,780
+Charles Caskey: So, so, so Keith-
+
+638
+00:31:11,820 --> 00:31:16,020
+Phoenix Peng: So since you have never been to China before, I strongly suggest that you
+
+639
+00:31:16,060 --> 00:31:19,680
+should take maybe one or two weeks, come to China, and you can have
+
+640
+00:31:19,740 --> 00:31:23,680
+a special episode of your podcast that you can record in China-
+
+641
+00:31:23,740 --> 00:31:24,240
+Charles Caskey: Oh, that'd be cool
+
+642
+00:31:24,220 --> 00:31:28,060
+Phoenix Peng: ... with maybe four people, five people in different sector to know more.
+
+643
+00:31:28,500 --> 00:31:30,300
+That's just a very exciting topic.
+
+644
+00:31:30,540 --> 00:31:31,040
+Yeah.
+
+645
+00:31:31,400 --> 00:31:31,900
+Charles Caskey: Yeah.
+
+646
+00:31:31,660 --> 00:31:32,920
+Keith Murphy: You should think about it. That sounds cool.
+
+647
+00:31:33,560 --> 00:31:34,680
+We gotta go out there, Charles.
+
+648
+00:31:34,720 --> 00:31:35,580
+Yeah. We gotta do a road trip.
+
+649
+00:31:35,580 --> 00:31:36,080
+It'll be like--
+
+650
+00:31:36,080 --> 00:31:39,520
+Charles Caskey: Let's do a road trip. It'll be like a Anthony Bourdain type of thing,
+
+651
+00:31:39,600 --> 00:31:45,040
+but for neurotechnology. It'll just be like, do you, do this is Phoenix, Anthony
+
+652
+00:31:45,100 --> 00:31:46,080
+Bourdain. The China journey. You know him.
+
+653
+00:31:46,160 --> 00:31:49,420
+He's like a, he was a, he used to, he sadly is not with
+
+654
+00:31:49,460 --> 00:31:53,100
+us anymore, but he was a, he was a food critic and, uh, and
+
+655
+00:31:53,300 --> 00:31:55,460
+chef, and he, he would go around the world.
+
+656
+00:31:55,520 --> 00:31:56,020
+Yeah. You can see-
+
+657
+00:31:55,900 --> 00:31:57,260
+Keith Murphy: Good, good SNR on this one.
+
+658
+00:31:57,860 --> 00:32:00,980
+Phoenix Peng: Yeah. You should see in the last two years, there are lots of, uh,
+
+659
+00:32:01,100 --> 00:32:06,920
+KOL and US podcaster and YouTubers come to China, like, like the, the, the
+
+660
+00:32:07,020 --> 00:32:09,520
+Mr. Speed, Speed, IShowSpeed..
+
+661
+00:32:09,680 --> 00:32:10,180
+Keith Murphy: Mm-hmm.
+
+662
+00:32:10,000 --> 00:32:12,120
+Phoenix Peng: And also, um, uh, Lex Fridman.
+
+663
+00:32:12,740 --> 00:32:16,460
+Lex Fridman also visited China. He spent maybe one month or two months in
+
+664
+00:32:16,480 --> 00:32:18,540
+China to look around. But there is no-
+
+665
+00:32:18,600 --> 00:32:19,100
+Keith Murphy: Wow
+
+666
+00:32:18,780 --> 00:32:24,780
+Phoenix Peng: ... science related podcast or YouTuber come to China, like a road, road trip,
+
+667
+00:32:24,880 --> 00:32:27,460
+something like that. So I think it's a good idea for you to consider.
+
+668
+00:32:27,500 --> 00:32:28,860
+Keith Murphy: That is a good idea. Yeah.
+
+669
+00:32:28,900 --> 00:32:29,400
+Charles Caskey: Yeah. I love it.
+
+670
+00:32:29,160 --> 00:32:29,780
+Keith Murphy: I never thought about it.
+
+671
+00:32:29,860 --> 00:32:33,740
+Charles Caskey: Yeah. So we can come v- So G- Gestala is clearly on the list.
+
+672
+00:32:33,900 --> 00:32:37,040
+I don't think I was that offensive when I went and visited Hairong last.
+
+673
+00:32:37,100 --> 00:32:39,680
+I bet he'd still have me up at, uh- [laughs] He'd, he'd have us
+
+674
+00:32:39,700 --> 00:32:41,960
+sit in Nan, Nanjing, show us what's going on there.
+
+675
+00:32:42,600 --> 00:32:43,100
+Uh-
+
+676
+00:32:42,760 --> 00:32:43,260
+Keith Murphy: Yes.
+
+677
+00:32:42,900 --> 00:32:43,400
+Charles Caskey: So-
+
+678
+00:32:43,000 --> 00:32:43,500
+Keith Murphy: I bet he would.
+
+679
+00:32:44,460 --> 00:32:44,960
+Charles Caskey: Yeah. Yeah.
+
+680
+00:32:44,860 --> 00:32:45,360
+Keith Murphy: Yes.
+
+681
+00:32:45,080 --> 00:32:48,500
+Charles Caskey: I'm, I'm liking this idea. And K- Keith, but I'm, I'm not a very,
+
+682
+00:32:49,140 --> 00:32:53,260
+uh, agreeable travel buddy. I'm like, you know, I'm very strict on my schedules.
+
+683
+00:32:53,420 --> 00:32:56,400
+I, I don't like variability, so we're gonna have to work on that.
+
+684
+00:32:56,460 --> 00:32:57,460
+I, I have a feeling you're gonna...
+
+685
+00:32:57,740 --> 00:32:59,220
+I have a feeling you'll be, like, a little loose.
+
+686
+00:32:59,280 --> 00:33:00,220
+Like, "Let's go here. Let's go there."
+
+687
+00:33:00,300 --> 00:33:01,320
+Keith Murphy: Di- diarrhea every night.
+
+688
+00:33:01,660 --> 00:33:03,780
+Charles Caskey: Yeah. Yeah. We're not eating street food.
+
+689
+00:33:04,140 --> 00:33:04,640
+We- [laughs]
+
+690
+00:33:04,320 --> 00:33:04,820
+Keith Murphy: Yeah.
+
+691
+00:33:04,960 --> 00:33:08,380
+Charles Caskey: No, no. A- actually, now that I'm thinking about it, uh, and then we'll
+
+692
+00:33:08,420 --> 00:33:09,720
+get back on task, I promise.
+
+693
+00:33:09,860 --> 00:33:13,880
+I'm from, uh, East Texas, uh, which is really close to Louisiana, where they
+
+694
+00:33:13,920 --> 00:33:18,840
+have, like, really good crawfish. So cra- crawfish is like a, a, a thing
+
+695
+00:33:18,880 --> 00:33:20,560
+that's in, in my cultural food.
+
+696
+00:33:21,000 --> 00:33:25,180
+I went to China, and they made better crawfish than, like, my family making
+
+697
+00:33:25,340 --> 00:33:25,840
+crawfish. [laughs]
+
+698
+00:33:25,580 --> 00:33:27,160
+Keith Murphy: Really? Wow, I should see that.
+
+699
+00:33:27,400 --> 00:33:27,900
+Charles Caskey: Yeah. Yeah.
+
+700
+00:33:27,800 --> 00:33:29,220
+Keith Murphy: The cuisine in China is top-
+
+701
+00:33:29,540 --> 00:33:30,040
+Charles Caskey: So good
+
+702
+00:33:29,560 --> 00:33:31,220
+Keith Murphy: ... I've heard it's top-notch. I haven't been.
+
+703
+00:33:31,300 --> 00:33:34,700
+Phoenix Peng: It's top-notch.
+
+704
+00:33:35,260 --> 00:33:35,760
+Charles Caskey: Yeah.
+
+705
+00:33:35,320 --> 00:33:37,080
+Keith Murphy: I love that. I love that.
+
+706
+00:33:37,760 --> 00:33:38,660
+I would love to try it.
+
+707
+00:33:39,000 --> 00:33:41,720
+I, I've turned into a foodie over the last five years, so.
+
+708
+00:33:42,220 --> 00:33:42,720
+Charles Caskey: Oh, yeah.
+
+709
+00:33:42,620 --> 00:33:47,080
+Keith Murphy: Um, man, that's awesome, Phoenix. It's so interesting to hear that it's competitive.
+
+710
+00:33:47,220 --> 00:33:49,120
+My mind keeps getting flipped around.
+
+711
+00:33:49,240 --> 00:33:51,640
+You know, it's... I have to spend more time with everybody.
+
+712
+00:33:51,740 --> 00:33:53,660
+I c- I'm so sad I missed you guys at FUN.
+
+713
+00:33:55,360 --> 00:33:58,180
+Charles Caskey: Next year, man, St. Louis. Did you hear that?
+
+714
+00:33:58,180 --> 00:33:58,680
+Keith Murphy: Oh, nice.
+
+715
+00:33:58,260 --> 00:34:03,580
+Phoenix Peng: Yeah, next year, St. Louis. And also, uh, the Chinese SfN will be September.
+
+716
+00:34:04,380 --> 00:34:05,040
+Charles Caskey: And, uh-
+
+717
+00:34:05,140 --> 00:34:05,640
+Keith Murphy: Oh. Oh, nice
+
+718
+00:34:05,640 --> 00:34:09,820
+Phoenix Peng: ... Jan, Jan Kubanek and Elsa, they will also come to China, and he,
+
+719
+00:34:10,360 --> 00:34:13,680
+and he will also come to Chengdu, our headquarters, to pay a visit.
+
+720
+00:34:13,800 --> 00:34:14,580
+Keith Murphy: Oh, awesome.
+
+721
+00:34:14,760 --> 00:34:17,940
+Phoenix Peng: So yeah, still two months. So Keith, if you are joining us, you are
+
+722
+00:34:18,100 --> 00:34:19,360
+well- warm welcome.
+
+723
+00:34:19,480 --> 00:34:23,500
+Keith Murphy: Nice. I gotta live it. So Phoenix, our listeners are always interested in hearing
+
+724
+00:34:24,160 --> 00:34:26,720
+the difference culturally between China and the U.S.
+
+725
+00:34:27,560 --> 00:34:32,100
+In China, are the non-scientist types scared of what you're doing?
+
+726
+00:34:32,200 --> 00:34:33,460
+Are they excited about it?
+
+727
+00:34:33,520 --> 00:34:34,020
+Charles Caskey: Oh.
+
+728
+00:34:33,760 --> 00:34:37,140
+Keith Murphy: Do they, does the government endorse you, or are they kind of skeptical?
+
+729
+00:34:37,420 --> 00:34:40,800
+Phoenix Peng: Yeah. The, the whole community in China is, uh, is a lot of difference,
+
+730
+00:34:41,100 --> 00:34:45,980
+uh, in some perspective. Uh, as I mentioned, China will be the wonderland for
+
+731
+00:34:46,040 --> 00:34:48,620
+neuroscience in next 10 year for several reason.
+
+732
+00:34:48,960 --> 00:34:53,760
+But, uh, one of the most important reason is the Chinese central government, they
+
+733
+00:34:53,820 --> 00:34:57,440
+have long-term plans. Everything here is predictable.
+
+734
+00:34:58,540 --> 00:35:03,160
+So every five years, central government, they will have a plan for next five-year
+
+735
+00:35:03,800 --> 00:35:10,100
+research or, uh, development, and BCI become one of the six major, uh, direction
+
+736
+00:35:10,180 --> 00:35:12,580
+of the future industry, uh, by-
+
+737
+00:35:12,860 --> 00:35:13,360
+Keith Murphy: Wow
+
+738
+00:35:13,020 --> 00:35:18,660
+Phoenix Peng: ... last years. So it's kind of, it's a national agendas to supporting BCI
+
+739
+00:35:18,720 --> 00:35:19,220
+research.
+
+740
+00:35:18,820 --> 00:35:22,980
+Keith Murphy: So elec- electric cars, electric cars, BCI, high-speed rails.
+
+741
+00:35:24,000 --> 00:35:24,500
+What else?
+
+742
+00:35:24,240 --> 00:35:26,320
+Phoenix Peng: Uh, no. I can tell you the difference.
+
+743
+00:35:27,060 --> 00:35:32,100
+EV used to be the future industrial in the next five-year programs.
+
+744
+00:35:32,580 --> 00:35:33,080
+Keith Murphy: Uh-huh.
+
+745
+00:35:32,620 --> 00:35:38,020
+Phoenix Peng: So this new five-year programs, they already from the future industry to the second
+
+746
+00:35:38,120 --> 00:35:43,920
+tier called, uh, maybe growing stage industrial, because they already have a lot of
+
+747
+00:35:43,980 --> 00:35:47,780
+company right now, and they h- are starting to generate revenue.
+
+748
+00:35:48,120 --> 00:35:51,880
+The future industry- Yeah ... in China is not generating revenue right now.
+
+749
+00:35:52,340 --> 00:35:55,860
+BCI is one of them. Quantum computing is one of them.
+
+750
+00:35:56,200 --> 00:35:56,700
+Keith Murphy: Mm.
+
+751
+00:35:56,540 --> 00:35:57,040
+Phoenix Peng: Uh-
+
+752
+00:35:56,860 --> 00:35:57,360
+Keith Murphy: Quantum, yeah
+
+753
+00:35:57,100 --> 00:35:58,700
+Phoenix Peng: ... 6G is one of them.
+
+754
+00:35:59,340 --> 00:35:59,840
+And-
+
+755
+00:36:00,040 --> 00:36:00,540
+Keith Murphy: Okay
+
+756
+00:36:00,260 --> 00:36:01,920
+Phoenix Peng: ... uh, FUS- fusion is one of them.
+
+757
+00:36:02,460 --> 00:36:02,960
+And, uh-
+
+758
+00:36:03,020 --> 00:36:04,600
+Keith Murphy: Oh, cool. Nuclear fusion.
+
+759
+00:36:04,960 --> 00:36:05,460
+Phoenix Peng: Yeah.
+
+760
+00:36:04,980 --> 00:36:05,480
+Keith Murphy: Nice.
+
+761
+00:36:05,180 --> 00:36:07,460
+Phoenix Peng: Nuclear fusion. So this is different, uh, is, uh...
+
+762
+00:36:08,040 --> 00:36:13,120
+So the, uh, the, this is a national agenda to encouraging different sector of
+
+763
+00:36:13,180 --> 00:36:16,380
+the industrial. So the first tier is future industrial.
+
+764
+00:36:16,740 --> 00:36:20,600
+The second tier is kind of growth stage, and the third tier is a
+
+765
+00:36:20,640 --> 00:36:24,600
+traditional, uh, sectors. So every year it will change.
+
+766
+00:36:25,020 --> 00:36:26,420
+Every five year it will changes.
+
+767
+00:36:26,720 --> 00:36:29,160
+So EV used to be in the future- ...
+
+768
+00:36:29,220 --> 00:36:33,260
+uh, industrial five years ago, but they're already mass production all over the world
+
+769
+00:36:33,300 --> 00:36:35,720
+right now, so they're becoming a growth stage industrial-
+
+770
+00:36:35,760 --> 00:36:39,820
+Keith Murphy: But, but brains, brains, Phoenix, are so much harder, and five years is not
+
+771
+00:36:39,880 --> 00:36:40,520
+quite enough.
+
+772
+00:36:40,720 --> 00:36:44,480
+Phoenix Peng: So I have the confidence in the next five-year program, so we'll still be
+
+773
+00:36:44,540 --> 00:36:46,660
+there, [laughs] like FUSION.
+
+774
+00:36:47,360 --> 00:36:48,220
+Keith Murphy: We need another round.
+
+775
+00:36:48,260 --> 00:36:50,460
+Charles Caskey: Yeah. No, no. Phoe-Phoe-- Yeah, exactly.
+
+776
+00:36:50,500 --> 00:36:52,640
+It's like, it's like the rounds of VC or so.
+
+777
+00:36:52,760 --> 00:36:53,660
+No. No, I th-
+
+778
+00:36:53,740 --> 00:36:54,240
+Phoenix Peng: Yeah.
+
+779
+00:36:53,840 --> 00:36:58,620
+Charles Caskey: I think Phoenix is gonna be selling ultrasound devices worldwide from Gestala-
+
+780
+00:36:58,720 --> 00:36:59,220
+Phoenix Peng: Me too
+
+781
+00:36:58,760 --> 00:37:00,100
+Charles Caskey: ... in five years, and it's gonna-
+
+782
+00:37:00,180 --> 00:37:00,680
+Keith Murphy: I believe in you
+
+783
+00:37:00,240 --> 00:37:02,140
+Charles Caskey: ... it's gonna be in the profit space.
+
+784
+00:37:02,280 --> 00:37:06,060
+And that's a fundamental difference. With the United States, you know, every, every four
+
+785
+00:37:06,160 --> 00:37:09,780
+years, at the very least, we change presidents, uh, or, you know, maybe eight,
+
+786
+00:37:09,920 --> 00:37:10,420
+but, uh-
+
+787
+00:37:10,280 --> 00:37:12,000
+Keith Murphy: We destroy everything we've done before.
+
+788
+00:37:12,140 --> 00:37:12,680
+[laughs]
+
+789
+00:37:12,720 --> 00:37:14,300
+Charles Caskey: Yeah. We're like, we're, we're like con...
+
+790
+00:37:14,380 --> 00:37:17,480
+We're like more like a wandering random walk type of thing, and-
+
+791
+00:37:17,640 --> 00:37:18,140
+Keith Murphy: Yes
+
+792
+00:37:17,940 --> 00:37:21,680
+Charles Caskey: ... and it is. It manifests in our scientific programs and other things because
+
+793
+00:37:21,860 --> 00:37:26,400
+where it is advantageous to set a 10-year agenda in science, but those don't
+
+794
+00:37:26,500 --> 00:37:28,700
+always make it through the, the-
+
+795
+00:37:28,760 --> 00:37:29,260
+Keith Murphy: Yes
+
+796
+00:37:28,780 --> 00:37:33,500
+Charles Caskey: ... fluctuations and changes that, that we, that we experience at the national level.
+
+797
+00:37:33,540 --> 00:37:37,840
+And, and that is, that is something I've always admired about China, uh, as
+
+798
+00:37:37,900 --> 00:37:42,020
+a- Yes ... as a, as a scientific place because it's not a two-year
+
+799
+00:37:42,140 --> 00:37:43,720
+question. This is a five-year question.
+
+800
+00:37:43,760 --> 00:37:46,400
+This is a 10-year. This is a generational question.
+
+801
+00:37:47,100 --> 00:37:53,380
+Phoenix Peng: Yes. Yes. For this future industrial requires patience from government, from regulations,
+
+802
+00:37:53,840 --> 00:37:55,940
+from capital investment. The everybody-
+
+803
+00:37:55,980 --> 00:37:56,480
+Charles Caskey: Yeah
+
+804
+00:37:56,020 --> 00:37:59,640
+Phoenix Peng: ... needs to patient. So that's why the central government makes a tone.
+
+805
+00:37:59,780 --> 00:38:02,720
+Everybody should be patient. Give this guy five years.
+
+806
+00:38:02,940 --> 00:38:04,480
+Then probably they needs another five year.
+
+807
+00:38:04,800 --> 00:38:07,460
+Probably they needs another five year after that five years.
+
+808
+00:38:07,460 --> 00:38:09,680
+[laughs] It's okay. So that's very-
+
+809
+00:38:09,700 --> 00:38:12,420
+Charles Caskey: And the data col- the da- think of the data collection, Keith.
+
+810
+00:38:12,480 --> 00:38:16,620
+That's another thing. Like, if you-- Like, think of how fragmented our hospital healthcare
+
+811
+00:38:16,700 --> 00:38:17,640
+system is and, like-
+
+812
+00:38:17,660 --> 00:38:18,160
+Keith Murphy: Oh, my God
+
+813
+00:38:17,740 --> 00:38:20,860
+Charles Caskey: ... you know, you take blood, uh, you take images, you take things.
+
+814
+00:38:20,880 --> 00:38:22,760
+They're going to all these different healthcare systems.
+
+815
+00:38:22,940 --> 00:38:26,500
+But, like, unifying all that, if you don't do it in an intentional way,
+
+816
+00:38:26,680 --> 00:38:30,140
+it's so difficult to solve. Everybody's gonna want money for their data.
+
+817
+00:38:30,200 --> 00:38:31,960
+They're gonna want this or that, and it's like-
+
+818
+00:38:32,700 --> 00:38:33,200
+Keith Murphy: Yeah.
+
+819
+00:38:32,740 --> 00:38:33,240
+Charles Caskey: Whew.
+
+820
+00:38:32,960 --> 00:38:36,760
+Keith Murphy: This, this is gonna sound weird, but Phoenix talking to you, I feel like
+
+821
+00:38:36,800 --> 00:38:40,700
+what we are learning is that there needs to be team unity, and maybe
+
+822
+00:38:40,760 --> 00:38:45,280
+that is a national level unity or a company level unity, but just that
+
+823
+00:38:45,740 --> 00:38:46,240
+we must persist-
+
+824
+00:38:46,280 --> 00:38:47,140
+Charles Caskey: World level, baby
+
+825
+00:38:47,140 --> 00:38:47,720
+Keith Murphy: ... and that everybody's behind it.
+
+826
+00:38:47,760 --> 00:38:48,500
+Charles Caskey: World le- [laughs]
+
+827
+00:38:48,640 --> 00:38:53,100
+Keith Murphy: I would love world level. I've always been, [laughs] I've always been an international
+
+828
+00:38:53,180 --> 00:38:57,320
+kinda guy. Um, oh, man. Something about the way you're talking, Phoenix.
+
+829
+00:38:57,400 --> 00:38:57,900
+We just feel it coming from you.
+
+830
+00:38:57,920 --> 00:38:59,400
+Charles Caskey: I know. It's getting me pumped up, man.
+
+831
+00:38:59,440 --> 00:39:00,840
+It's like, it's like 10:00 p.m.
+
+832
+00:39:01,000 --> 00:39:02,380
+over here, and I'm getting excited.
+
+833
+00:39:02,440 --> 00:39:05,940
+Like, I gotta, like I wanna bring the world together and do, do science
+
+834
+00:39:05,980 --> 00:39:08,620
+with everybody so we can, I don't know, make the future happen.
+
+835
+00:39:08,660 --> 00:39:13,200
+Phoenix Peng: E-exactly. Yeah, and also probably this is the reason I al-always travel back from
+
+836
+00:39:13,240 --> 00:39:16,100
+China and the U.S. and Europe several times per years.
+
+837
+00:39:16,760 --> 00:39:22,940
+Um, I think in brain science research, we should building more cross-border collaboration because
+
+838
+00:39:23,020 --> 00:39:23,520
+we are doing-
+
+839
+00:39:23,520 --> 00:39:24,020
+Keith Murphy: Mm.
+
+840
+00:39:23,560 --> 00:39:27,220
+Phoenix Peng: Yeah ... something for the humanities, not, uh, geopolitics issues.
+
+841
+00:39:27,660 --> 00:39:28,280
+We try to-
+
+842
+00:39:28,580 --> 00:39:29,080
+Charles Caskey: Yeah
+
+843
+00:39:28,600 --> 00:39:29,380
+Phoenix Peng: ... help patients.
+
+844
+00:39:29,520 --> 00:39:30,020
+Charles Caskey: Yeah.
+
+845
+00:39:29,560 --> 00:39:31,080
+Phoenix Peng: We try to decoding their brains.
+
+846
+00:39:31,460 --> 00:39:36,860
+This all humanity problems. So th-that's why I think, Keith and Charles, we should
+
+847
+00:39:36,940 --> 00:39:43,380
+more, uh, focus more on the cross-border organization to handle the data cross-borders
+
+848
+00:39:43,500 --> 00:39:47,360
+and also the clinical trials, uh, how we can recognize- Okay ...
+
+849
+00:39:47,400 --> 00:39:48,760
+in China and both in U.S.
+
+850
+00:39:49,320 --> 00:39:54,620
+If we can, as, uh, global teams, uh, in different country, different PIs, we
+
+851
+00:39:54,660 --> 00:39:58,920
+can working something together. At least in brain science, I think we should do
+
+852
+00:39:58,960 --> 00:40:02,180
+something together. Maybe in AI, in quantum computing, U.S.
+
+853
+00:40:02,220 --> 00:40:05,780
+and China government, they already decide ban each other for next 10 years.
+
+854
+00:40:05,880 --> 00:40:06,860
+I don't care. But-
+
+855
+00:40:06,960 --> 00:40:07,460
+Keith Murphy: Yeah
+
+856
+00:40:07,100 --> 00:40:10,220
+Phoenix Peng: ... but in brain science, I still think we should do something together.
+
+857
+00:40:11,580 --> 00:40:15,420
+Keith Murphy: How are you thinking about building your team at Gestala?
+
+858
+00:40:15,760 --> 00:40:19,640
+How are you recruiting? If people reach out to you cold, how do they
+
+859
+00:40:19,680 --> 00:40:21,780
+get to you? There's a lot of listeners- Yeah ...
+
+860
+00:40:21,800 --> 00:40:25,240
+that are really excited to hear your podcast, and I'm sure they'd love your
+
+861
+00:40:25,280 --> 00:40:25,780
+advice.
+
+862
+00:40:26,080 --> 00:40:30,080
+Phoenix Peng: Yeah, that's a good question. Of course, uh, Gestala, as a new company, so
+
+863
+00:40:30,160 --> 00:40:34,840
+we, I think the most important asset of our company is the talents we
+
+864
+00:40:34,920 --> 00:40:38,040
+have. We are a company based in China, but we want to working with
+
+865
+00:40:38,100 --> 00:40:42,180
+global talents, global shareholder, global partner, and a global business.
+
+866
+00:40:42,380 --> 00:40:47,760
+So from day one, we have this kind of, uh, definition of our organization.
+
+867
+00:40:47,820 --> 00:40:52,400
+And for example, my clinical head, uh, Bashar, used to work in clin- uh,
+
+868
+00:40:52,480 --> 00:40:58,560
+in Neuralink. He probably also the first, uh, uh, leads, uh, working in, uh,
+
+869
+00:40:58,940 --> 00:41:01,780
+uh, in Neuralink and joining, uh, Chinese-based, uh, companies.
+
+870
+00:41:02,220 --> 00:41:07,080
+And my other VPs and, uh, CTOs, they are also working in, uh, Tel
+
+871
+00:41:07,140 --> 00:41:09,320
+Aviv before they all moved to China.
+
+872
+00:41:09,900 --> 00:41:15,100
+So I, I think we already have this environment to get the global talents.
+
+873
+00:41:15,680 --> 00:41:22,020
+And so no matter it's a PI, researcher, postdoc, PhDs, or engineers, uh,
+
+874
+00:41:22,240 --> 00:41:24,540
+we, we have this culture to put different-
+
+875
+00:41:24,680 --> 00:41:25,180
+Keith Murphy: Yeah
+
+876
+00:41:25,380 --> 00:41:30,560
+Phoenix Peng: ... uh, background people, different colors, different races, different, uh, backgrounds.
+
+877
+00:41:30,760 --> 00:41:34,200
+They can working in the same roof in our headquarter here.
+
+878
+00:41:34,940 --> 00:41:39,780
+S- uh, we, we already had, we already have 35, 36 people right now.
+
+879
+00:41:40,340 --> 00:41:43,300
+Half of them are scientists, another half is engineers.
+
+880
+00:41:43,520 --> 00:41:48,200
+So it's very interdisciplinary, uh, science from different university.
+
+881
+00:41:48,260 --> 00:41:48,760
+Keith Murphy: Mm.
+
+882
+00:41:48,820 --> 00:41:52,740
+Phoenix Peng: And if the people, if your listeners, uh, want to know more about us,
+
+883
+00:41:52,840 --> 00:41:57,540
+you can always, uh, visiting our website at www.gestalt.com.
+
+884
+00:41:58,020 --> 00:42:01,380
+They have all the opening position, and we have two office in China right
+
+885
+00:42:01,420 --> 00:42:05,320
+now. And we are also trying to building something more new by end of
+
+886
+00:42:05,360 --> 00:42:10,500
+this year, is we are building, um, maybe a Gestala scholarship programs.
+
+887
+00:42:10,980 --> 00:42:11,520
+It means-
+
+888
+00:42:11,680 --> 00:42:12,180
+Keith Murphy: Cool
+
+889
+00:42:11,780 --> 00:42:16,020
+Phoenix Peng: ... uh, if you are doing PhD in, uh, US and Europe right now,
+
+890
+00:42:16,200 --> 00:42:20,180
+you can, uh, travel to China for working to six to 10 weeks- Wow
+
+891
+00:42:20,180 --> 00:42:21,020
+... in our headquarters-
+
+892
+00:42:21,140 --> 00:42:21,640
+Keith Murphy: Nice
+
+893
+00:42:21,460 --> 00:42:27,260
+Phoenix Peng: ... to using our facility, MRs, and, uh, our f- uh, um, modulation device
+
+894
+00:42:27,400 --> 00:42:30,980
+and our animals facility, everything here is for your research purpose.
+
+895
+00:42:31,400 --> 00:42:35,300
+And you, if you are, uh, working remotely, we can also, uh, you, you
+
+896
+00:42:35,360 --> 00:42:40,080
+can apply for our scholarship. We can, uh, doing joint research programs with you,
+
+897
+00:42:40,160 --> 00:42:46,140
+something like that. So we want to building a global academia- Uh, society, communities.
+
+898
+00:42:46,340 --> 00:42:51,900
+I'm pretty sure all the brain-related disease cannot be solved by one companies, by
+
+899
+00:42:51,940 --> 00:42:52,640
+one products.
+
+900
+00:42:52,660 --> 00:42:53,160
+Charles Caskey: Mm.
+
+901
+00:42:52,700 --> 00:42:55,960
+Phoenix Peng: That's impossible. We need global partnerships.
+
+902
+00:42:56,200 --> 00:43:00,480
+So from academia collaboration, uh, we want to do something like that, Keith.
+
+903
+00:43:01,940 --> 00:43:04,120
+Charles Caskey: I like that global approach a lot.
+
+904
+00:43:04,900 --> 00:43:07,820
+And so, hey, just, just, uh, do we-
+
+905
+00:43:07,940 --> 00:43:12,280
+Keith Murphy: So Brad Treeby started NeuroHarmonics, and he came out and visited us.
+
+906
+00:43:12,340 --> 00:43:14,480
+You know Brad, Phoenix? You've met him maybe.
+
+907
+00:43:15,020 --> 00:43:15,520
+Phoenix Peng: I know him-
+
+908
+00:43:15,460 --> 00:43:15,960
+Keith Murphy: Very brilliant guy
+
+909
+00:43:15,580 --> 00:43:16,440
+Phoenix Peng: ... but I never met him.
+
+910
+00:43:16,620 --> 00:43:18,200
+Yeah, I never met him in person before.
+
+911
+00:43:18,380 --> 00:43:18,880
+Yeah.
+
+912
+00:43:18,940 --> 00:43:20,300
+Keith Murphy: I think you guys would love each other.
+
+913
+00:43:20,420 --> 00:43:20,920
+He had built K- k-Wave.
+
+914
+00:43:20,780 --> 00:43:23,000
+Charles Caskey: Just this pleasant, pleasant man, yeah.
+
+915
+00:43:23,000 --> 00:43:23,500
+[chuckles]
+
+916
+00:43:23,400 --> 00:43:25,120
+Keith Murphy: A great, a great giver of the community.
+
+917
+00:43:25,220 --> 00:43:27,340
+He built k-Wave, which is something, you know-
+
+918
+00:43:27,380 --> 00:43:28,840
+Phoenix Peng: Oh, he's a, he's a builder of k-Wave.
+
+919
+00:43:29,060 --> 00:43:30,340
+Oh, that's big contribution.
+
+920
+00:43:31,300 --> 00:43:35,780
+Keith Murphy: And then later he started NeuroHarmonics, and him and I were having this discussion
+
+921
+00:43:35,840 --> 00:43:40,740
+of sort of like w- when we flipped over to sort of building companies,
+
+922
+00:43:40,920 --> 00:43:44,260
+do we-- how much do we give away to the community, and how much
+
+923
+00:43:44,300 --> 00:43:46,420
+do we try to publish? And I, I kinda made this point.
+
+924
+00:43:46,500 --> 00:43:50,540
+I'm like, we borrow and learn so much from that foundation.
+
+925
+00:43:50,720 --> 00:43:55,560
+It seems an anathema to our core to not give back some of that.
+
+926
+00:43:55,980 --> 00:44:02,000
+Maybe not everything. Research laboratories, people have this common misconception that laboratories publish
+
+927
+00:44:02,080 --> 00:44:05,200
+everything. Methods are often very scarce and, like-
+
+928
+00:44:05,260 --> 00:44:05,760
+Charles Caskey: Yeah
+
+929
+00:44:05,280 --> 00:44:06,920
+Keith Murphy: ... people hold a lot back, right?
+
+930
+00:44:07,460 --> 00:44:07,960
+And I think-
+
+931
+00:44:07,820 --> 00:44:08,320
+Charles Caskey: Yeah. Mm-hmm
+
+932
+00:44:08,020 --> 00:44:11,020
+Keith Murphy: ... companies have to hold some things back, but we decided, like, a lot
+
+933
+00:44:11,060 --> 00:44:14,140
+we're gonna try to get out there, and we'll just do our best.
+
+934
+00:44:14,200 --> 00:44:18,340
+And we kinda wonder, for people who join you, do you plan on releasing
+
+935
+00:44:18,400 --> 00:44:23,180
+just some things or working with academics and teaching the world, and how do
+
+936
+00:44:23,240 --> 00:44:24,700
+you think about that organization?
+
+937
+00:44:24,840 --> 00:44:27,080
+Phoenix Peng: I think, Keith, that's a very important question.
+
+938
+00:44:27,360 --> 00:44:33,460
+From my perspective as a six-time start- startup's founders, and I have this long
+
+939
+00:44:33,540 --> 00:44:38,700
+vision for the brain science projects, I think we can definitely build something for,
+
+940
+00:44:39,080 --> 00:44:44,100
+for the community, uh, especially for the academia community from day ones.
+
+941
+00:44:44,840 --> 00:44:49,920
+You can, you can have similar approaches in AI, uh, large language model recently.
+
+942
+00:44:50,020 --> 00:44:50,520
+Keith Murphy: Mm.
+
+943
+00:44:50,160 --> 00:44:51,960
+Phoenix Peng: The Chinese company like Zhipu-
+
+944
+00:44:52,100 --> 00:44:52,600
+Keith Murphy: Yeah
+
+945
+00:44:52,120 --> 00:44:56,400
+Phoenix Peng: ... and Kimi, they all open with their top tier-
+
+946
+00:44:56,460 --> 00:44:56,960
+Charles Caskey: I hear
+
+947
+00:44:56,520 --> 00:44:58,760
+Phoenix Peng: ... models. This is probably- Yeah ...
+
+948
+00:44:58,780 --> 00:45:04,640
+the culture when Chinese company want to, uh, contribute as the, uh, uh, in
+
+949
+00:45:04,700 --> 00:45:10,160
+this global communities. Uh, I think, uh, Gestala will also follow the strategies.
+
+950
+00:45:10,280 --> 00:45:15,040
+We will open with our models, uh, when time is ready, probably end of
+
+951
+00:45:15,060 --> 00:45:16,680
+this year or maybe early next years.
+
+952
+00:45:17,160 --> 00:45:17,660
+Keith Murphy: Wow.
+
+953
+00:45:17,180 --> 00:45:23,300
+Phoenix Peng: And also, we want to building a cross-border infrastructure can sharing the
+
+954
+00:45:23,380 --> 00:45:28,300
+brain activity data we get in China as, uh, in the animal test or,
+
+955
+00:45:28,540 --> 00:45:32,680
+or in patients. So this is something we, uh, try to do in the
+
+956
+00:45:32,760 --> 00:45:36,700
+next, uh, few years. So from day one, we, we're pretty sure we want
+
+957
+00:45:36,740 --> 00:45:42,060
+to building something. So the company can design a business models which can, in
+
+958
+00:45:42,100 --> 00:45:47,360
+the same time, contributing for the, uh, academia community, but in the same time,
+
+959
+00:45:47,440 --> 00:45:49,300
+so we can also have commercialized products.
+
+960
+00:45:49,920 --> 00:45:54,060
+I think- Yeah ... Anthropic and OpenAI, they all have the similar strategies.
+
+961
+00:45:54,260 --> 00:45:55,060
+We can figure it out.
+
+962
+00:45:55,120 --> 00:45:58,520
+Keith Murphy: They, they do, and also, Phoenix, if it's coming from you, we have to
+
+963
+00:45:58,580 --> 00:46:00,620
+take this comment very seriously.
+
+964
+00:46:01,120 --> 00:46:01,620
+Phoenix Peng: Yes.
+
+965
+00:46:01,160 --> 00:46:05,680
+Keith Murphy: And I often just grapple with, with investors and others of there are common
+
+966
+00:46:05,760 --> 00:46:09,140
+ways to build community and culture and to be always ahead.
+
+967
+00:46:09,680 --> 00:46:13,320
+And, and by contributing, I think you're, you're getting back a lot more in
+
+968
+00:46:13,360 --> 00:46:17,340
+your product by trust, but also people using your tech.
+
+969
+00:46:17,420 --> 00:46:19,160
+It's like they become sort of dependent on it.
+
+970
+00:46:19,220 --> 00:46:20,900
+I think there's a, there's a convergence here.
+
+971
+00:46:21,580 --> 00:46:24,240
+Anyway, very interesting. Charles, you had your question.
+
+972
+00:46:24,640 --> 00:46:25,260
+Charles Caskey: No, I didn't.
+
+973
+00:46:25,260 --> 00:46:25,760
+Keith Murphy: I'm blocking you.
+
+974
+00:46:25,280 --> 00:46:27,120
+Charles Caskey: Mine's gone now because it, it-
+
+975
+00:46:27,180 --> 00:46:28,320
+Keith Murphy: What? No. [laughs]
+
+976
+00:46:28,420 --> 00:46:31,120
+Charles Caskey: Well, so no, but it was, it was kinda related to this in a
+
+977
+00:46:31,220 --> 00:46:36,000
+way. I was kinda wondering, like, if you think of companies like Neuralink, Forest
+
+978
+00:46:36,080 --> 00:46:40,920
+Neurotech, Merge Labs, these other ultrasound groups, and it's basically a s- I mean,
+
+979
+00:46:40,980 --> 00:46:44,080
+I'm like kinda wanna know, do you feel like you're solving the same problem
+
+980
+00:46:44,120 --> 00:46:46,940
+or different problems as these companies?
+
+981
+00:46:47,420 --> 00:46:50,340
+And I kind of feel like I know what Phoenix's answer is gonna be,
+
+982
+00:46:50,420 --> 00:46:55,120
+is that even beyond those companies, we're all trying to solve the same problems,
+
+983
+00:46:55,300 --> 00:46:58,900
+but we're solving different parts of them, and it's not a scarcity mindset.
+
+984
+00:46:58,920 --> 00:47:00,940
+There's enough to go around. As m-
+
+985
+00:47:01,080 --> 00:47:01,580
+Keith Murphy: Yeah.
+
+986
+00:47:01,140 --> 00:47:03,880
+Charles Caskey: I mean, I don't know. Is that-- Am I, am I off base there,
+
+987
+00:47:04,000 --> 00:47:04,500
+Phoenix?
+
+988
+00:47:04,800 --> 00:47:08,020
+Phoenix Peng: Uh, if you guys can, uh, take a look at our website, we have
+
+989
+00:47:08,120 --> 00:47:11,860
+a manifesto. I write it myself from the day one- Oh, man ...
+
+990
+00:47:11,920 --> 00:47:16,200
+when I publish our website. Because we are doing something for humanity.
+
+991
+00:47:16,260 --> 00:47:18,220
+That is also the slogan of this company.
+
+992
+00:47:18,300 --> 00:47:19,400
+We call it Better Brain-
+
+993
+00:47:19,860 --> 00:47:20,360
+Charles Caskey: Better Brain
+
+994
+00:47:20,180 --> 00:47:21,140
+Phoenix Peng: ... for Better Humanity.
+
+995
+00:47:21,460 --> 00:47:21,960
+Charles Caskey: Yeah.
+
+996
+00:47:22,040 --> 00:47:22,540
+Phoenix Peng: Yeah. Better Brain-
+
+997
+00:47:22,560 --> 00:47:23,060
+Keith Murphy: Cool
+
+998
+00:47:22,580 --> 00:47:26,140
+Phoenix Peng: ... is for Better Humanity. And this is the reason why I want to
+
+999
+00:47:26,200 --> 00:47:29,200
+commit my next 15 year, 20 years in this sector.
+
+1000
+00:47:29,360 --> 00:47:31,000
+The world is so divided right now.
+
+1001
+00:47:31,420 --> 00:47:36,540
+But in the end, there is only some kind of, uh, different pattern of
+
+1002
+00:47:36,600 --> 00:47:40,540
+your brain activity. Fundamentally, it's just some mindset difference.
+
+1003
+00:47:40,660 --> 00:47:47,560
+[outro music]

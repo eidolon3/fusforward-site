@@ -1,0 +1,8654 @@
+{
+ "raw": "22",
+ "label_names": {
+  "speaker_1": "Keith Murphy",
+  "speaker_0": "Charles Caskey",
+  "speaker_2": "Brad Treeby"
+ },
+ "label_similarity": {
+  "speaker_0": {
+   "Charles Caskey": 0.8774393796920776,
+   "Intro narrator": 0.06306375563144684,
+   "Keith Murphy": 0.28111425042152405
+  },
+  "speaker_1": {
+   "Charles Caskey": 0.3346688151359558,
+   "Intro narrator": 0.08037077635526657,
+   "Keith Murphy": 0.8882715106010437
+  },
+  "speaker_2": {
+   "Charles Caskey": 0.31995004415512085,
+   "Intro narrator": -0.04953084886074066,
+   "Keith Murphy": 0.20567314326763153
+  }
+ },
+ "turns_moved": {
+  "Keith Murphy -> Intro narrator": 2,
+  "Charles Caskey -> Keith Murphy": 11,
+  "Brad Treeby -> Charles Caskey": 2,
+  "Keith Murphy -> Charles Caskey": 15,
+  "Brad Treeby -> Keith Murphy": 8
+ },
+ "talk_min": {
+  "Brad Treeby": 27.4,
+  "Keith Murphy": 11.6,
+  "Charles Caskey": 8.3,
+  "Intro narrator": 0.2
+ },
+ "low_turns": 22,
+ "turns": [
+  {
+   "start": 0.3,
+   "end": 5.28,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.692,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.163
+  },
+  {
+   "start": 5.84,
+   "end": 8.3,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.486,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.107
+  },
+  {
+   "start": 9.56,
+   "end": 10.76,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.072,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.271,
+   "low": 1
+  },
+  {
+   "start": 13.12,
+   "end": 16.56,
+   "label": "speaker_1",
+   "name": "Intro narrator",
+   "sim": 0.708,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.067,
+   "how": "voice"
+  },
+  {
+   "start": 16.6,
+   "end": 22.48,
+   "label": "speaker_1",
+   "name": "Intro narrator",
+   "sim": 0.905,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.069,
+   "how": "voice"
+  },
+  {
+   "start": 23.06,
+   "end": 23.7,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 24.26,
+   "end": 26.12,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.466,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.096
+  },
+  {
+   "start": 26.72,
+   "end": 27.26,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 27.28,
+   "end": 28.8,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.361,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.048
+  },
+  {
+   "start": 29.44,
+   "end": 31.78,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.633,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.21
+  },
+  {
+   "start": 32.54,
+   "end": 35.34,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.68,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.277
+  },
+  {
+   "start": 35.88,
+   "end": 36.06,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 36.4,
+   "end": 37.22,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.142,
+   "alt": "Intro narrator",
+   "alt_sim": 0.147,
+   "low": 1
+  },
+  {
+   "start": 37.3,
+   "end": 39.18,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.563,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.227
+  },
+  {
+   "start": 39.26,
+   "end": 42.24,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.609,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.213
+  },
+  {
+   "start": 42.3,
+   "end": 42.52,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 43.22,
+   "end": 44.1,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.251,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.179
+  },
+  {
+   "start": 45.02,
+   "end": 48.42,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.756,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.187
+  },
+  {
+   "start": 48.94,
+   "end": 51.54,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.749,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.161
+  },
+  {
+   "start": 52.26,
+   "end": 53.2,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.613,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.172
+  },
+  {
+   "start": 53.94,
+   "end": 54.42,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 55.06,
+   "end": 55.2,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 55.24,
+   "end": 57.74,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.613,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.509
+  },
+  {
+   "start": 58.24,
+   "end": 62.92,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.707,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.379
+  },
+  {
+   "start": 63.38,
+   "end": 64.2,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.2,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.116,
+   "low": 1
+  },
+  {
+   "start": 64.66,
+   "end": 65.54,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.248,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.247,
+   "low": 1
+  },
+  {
+   "start": 66.08,
+   "end": 68.2,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.678,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.403
+  },
+  {
+   "start": 68.98,
+   "end": 75.66,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.784,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.192
+  },
+  {
+   "start": 76.16,
+   "end": 79.32,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.76,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.22
+  },
+  {
+   "start": 79.36,
+   "end": 79.4,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 79.4,
+   "end": 81.36,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.435,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.203
+  },
+  {
+   "start": 81.86,
+   "end": 84.0,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.593,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.287
+  },
+  {
+   "start": 84.14,
+   "end": 87.6,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.789,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.311
+  },
+  {
+   "start": 88.18,
+   "end": 91.7,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.707,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.204
+  },
+  {
+   "start": 91.78,
+   "end": 94.96,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.765,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.264
+  },
+  {
+   "start": 95.5,
+   "end": 96.08,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 96.66,
+   "end": 99.84,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.689,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.306
+  },
+  {
+   "start": 100.36,
+   "end": 100.92,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 101.42,
+   "end": 107.1,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.754,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.333
+  },
+  {
+   "start": 107.62,
+   "end": 109.08,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.392,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.154
+  },
+  {
+   "start": 109.14,
+   "end": 110.7,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.426,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.213
+  },
+  {
+   "start": 110.9,
+   "end": 113.84,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.442,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.312
+  },
+  {
+   "start": 115.84,
+   "end": 120.76,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.707,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.333
+  },
+  {
+   "start": 124.48,
+   "end": 126.2,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.336,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.339
+  },
+  {
+   "start": 126.92,
+   "end": 131.54,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.784,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.185
+  },
+  {
+   "start": 132.54,
+   "end": 139.1,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.752,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.22
+  },
+  {
+   "start": 139.2,
+   "end": 144.52,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.736,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.257
+  },
+  {
+   "start": 145.06,
+   "end": 148.08,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.581,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.16
+  },
+  {
+   "start": 148.6,
+   "end": 149.96,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.547,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.179
+  },
+  {
+   "start": 150.0,
+   "end": 153.24,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.782,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.311
+  },
+  {
+   "start": 153.3,
+   "end": 158.14,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.695,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.22
+  },
+  {
+   "start": 158.64,
+   "end": 158.9,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 159.4,
+   "end": 161.38,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.681,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.195
+  },
+  {
+   "start": 161.46,
+   "end": 165.82,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.729,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.189
+  },
+  {
+   "start": 165.84,
+   "end": 165.88,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 165.88,
+   "end": 171.3,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.719,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.275
+  },
+  {
+   "start": 173.18,
+   "end": 176.66,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.609,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.277
+  },
+  {
+   "start": 177.3,
+   "end": 185.76,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.845,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.36
+  },
+  {
+   "start": 186.36,
+   "end": 188.16,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.359,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.219
+  },
+  {
+   "start": 188.26,
+   "end": 192.52,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.757,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.424
+  },
+  {
+   "start": 192.64,
+   "end": 194.0,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.584,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.189
+  },
+  {
+   "start": 194.68,
+   "end": 198.52,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.454,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.123
+  },
+  {
+   "start": 198.92,
+   "end": 203.8,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.811,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.306
+  },
+  {
+   "start": 203.88,
+   "end": 205.18,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.593,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.222
+  },
+  {
+   "start": 206.38,
+   "end": 207.4,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.507,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.109
+  },
+  {
+   "start": 207.96,
+   "end": 210.12,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.401,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.37
+  },
+  {
+   "start": 211.42,
+   "end": 212.26,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.041,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.036,
+   "low": 1
+  },
+  {
+   "start": 212.3,
+   "end": 214.28,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.171,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.349,
+   "low": 1
+  },
+  {
+   "start": 215.16,
+   "end": 218.66,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.69,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.294
+  },
+  {
+   "start": 218.68,
+   "end": 220.82,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.606,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.252
+  },
+  {
+   "start": 220.82,
+   "end": 221.34,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 221.34,
+   "end": 226.58,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.803,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.319
+  },
+  {
+   "start": 227.14,
+   "end": 229.42,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.669,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.27
+  },
+  {
+   "start": 229.5,
+   "end": 232.76,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.73,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.241
+  },
+  {
+   "start": 233.24,
+   "end": 235.2,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.489,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.232
+  },
+  {
+   "start": 235.7,
+   "end": 236.96,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.365,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.256
+  },
+  {
+   "start": 237.96,
+   "end": 241.44,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.693,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.18
+  },
+  {
+   "start": 241.5,
+   "end": 244.54,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.435,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.228
+  },
+  {
+   "start": 244.62,
+   "end": 252.64,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.814,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.426
+  },
+  {
+   "start": 252.96,
+   "end": 255.74,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.518,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.109,
+   "how": "voice"
+  },
+  {
+   "start": 255.76,
+   "end": 255.94,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 255.96,
+   "end": 258.779,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.446,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.222
+  },
+  {
+   "start": 260.32,
+   "end": 260.32,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 260.36,
+   "end": 266.28,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.846,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.2
+  },
+  {
+   "start": 266.38,
+   "end": 269.46,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.81,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.185
+  },
+  {
+   "start": 270.0,
+   "end": 271.86,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.509,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.201
+  },
+  {
+   "start": 273.1,
+   "end": 273.94,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.42,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.164
+  },
+  {
+   "start": 274.66,
+   "end": 280.12,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.81,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.175
+  },
+  {
+   "start": 280.76,
+   "end": 282.58,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.758,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.174
+  },
+  {
+   "start": 283.18,
+   "end": 288.96,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.786,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.218
+  },
+  {
+   "start": 289.58,
+   "end": 294.8,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.777,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.224
+  },
+  {
+   "start": 295.5,
+   "end": 297.18,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.642,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.23
+  },
+  {
+   "start": 297.6,
+   "end": 304.82,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.817,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.293
+  },
+  {
+   "start": 305.4,
+   "end": 309.32,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.724,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.309
+  },
+  {
+   "start": 309.92,
+   "end": 314.74,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.818,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.278
+  },
+  {
+   "start": 314.78,
+   "end": 317.7,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.812,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.23
+  },
+  {
+   "start": 318.26,
+   "end": 323.54,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.841,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.204
+  },
+  {
+   "start": 323.58,
+   "end": 326.34,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.729,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.227
+  },
+  {
+   "start": 326.38,
+   "end": 331.34,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.713,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.245
+  },
+  {
+   "start": 332.02,
+   "end": 335.38,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.723,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.166
+  },
+  {
+   "start": 335.86,
+   "end": 339.82,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.822,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.278
+  },
+  {
+   "start": 340.28,
+   "end": 344.12,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.733,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.255
+  },
+  {
+   "start": 344.26,
+   "end": 346.88,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.661,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.37
+  },
+  {
+   "start": 347.12,
+   "end": 348.48,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.581,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.146
+  },
+  {
+   "start": 348.52,
+   "end": 349.96,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.659,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.162
+  },
+  {
+   "start": 350.0,
+   "end": 351.12,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.446,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.04
+  },
+  {
+   "start": 351.18,
+   "end": 353.62,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.719,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.229
+  },
+  {
+   "start": 353.66,
+   "end": 357.5,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.784,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.281
+  },
+  {
+   "start": 357.52,
+   "end": 358.76,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.724,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.274
+  },
+  {
+   "start": 359.6,
+   "end": 363.82,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.718,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.197
+  },
+  {
+   "start": 363.88,
+   "end": 366.46,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.688,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.212
+  },
+  {
+   "start": 366.5,
+   "end": 367.68,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.599,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.275
+  },
+  {
+   "start": 368.46,
+   "end": 368.86,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 369.42,
+   "end": 369.66,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 369.98,
+   "end": 370.06,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 370.06,
+   "end": 371.94,
+   "label": "speaker_2",
+   "name": "Charles Caskey",
+   "sim": 0.471,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.237,
+   "how": "voice"
+  },
+  {
+   "start": 372.02,
+   "end": 372.36,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 373.419,
+   "end": 376.14,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.396,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.186
+  },
+  {
+   "start": 376.14,
+   "end": 379.36,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.721,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.233
+  },
+  {
+   "start": 379.52,
+   "end": 380.76,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.39,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.242
+  },
+  {
+   "start": 380.8,
+   "end": 383.46,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.739,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.371
+  },
+  {
+   "start": 383.88,
+   "end": 389.04,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.746,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.285
+  },
+  {
+   "start": 389.12,
+   "end": 391.44,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.782,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.222
+  },
+  {
+   "start": 391.5,
+   "end": 393.54,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.564,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.187
+  },
+  {
+   "start": 393.62,
+   "end": 397.5,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.823,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.292
+  },
+  {
+   "start": 398.06,
+   "end": 400.8,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.758,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.341
+  },
+  {
+   "start": 401.0,
+   "end": 404.34,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.638,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.207
+  },
+  {
+   "start": 404.4,
+   "end": 406.68,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.564,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.175
+  },
+  {
+   "start": 406.74,
+   "end": 407.84,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.556,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.189
+  },
+  {
+   "start": 407.9,
+   "end": 412.28,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.706,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.286
+  },
+  {
+   "start": 412.38,
+   "end": 415.26,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.729,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.216
+  },
+  {
+   "start": 415.3,
+   "end": 417.68,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.699,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.311
+  },
+  {
+   "start": 418.2,
+   "end": 419.26,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.43,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.213
+  },
+  {
+   "start": 419.48,
+   "end": 422.799,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.756,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.078
+  },
+  {
+   "start": 423.4,
+   "end": 431.3,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.875,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.333
+  },
+  {
+   "start": 431.8,
+   "end": 433.9,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.715,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.169
+  },
+  {
+   "start": 434.42,
+   "end": 439.3,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.808,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.131
+  },
+  {
+   "start": 440.06,
+   "end": 444.12,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.768,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.144
+  },
+  {
+   "start": 444.9,
+   "end": 449.2,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.807,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.321
+  },
+  {
+   "start": 449.8,
+   "end": 455.18,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.86,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.243
+  },
+  {
+   "start": 455.84,
+   "end": 456.96,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.555,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.11
+  },
+  {
+   "start": 457.32,
+   "end": 461.08,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.792,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.274
+  },
+  {
+   "start": 461.64,
+   "end": 467.22,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.786,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.301
+  },
+  {
+   "start": 467.6,
+   "end": 467.6,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 467.62,
+   "end": 470.3,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.772,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.211
+  },
+  {
+   "start": 470.44,
+   "end": 474.56,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.661,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.251
+  },
+  {
+   "start": 474.78,
+   "end": 474.78,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 474.8,
+   "end": 480.94,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.825,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.216
+  },
+  {
+   "start": 481.46,
+   "end": 484.62,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.798,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.147
+  },
+  {
+   "start": 485.12,
+   "end": 487.36,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.578,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.113
+  },
+  {
+   "start": 487.94,
+   "end": 491.66,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.823,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.196
+  },
+  {
+   "start": 492.16,
+   "end": 496.1,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.77,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.364
+  },
+  {
+   "start": 496.72,
+   "end": 500.94,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.719,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.197
+  },
+  {
+   "start": 501.58,
+   "end": 506.26,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.826,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.21
+  },
+  {
+   "start": 506.46,
+   "end": 518.74,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.891,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.194
+  },
+  {
+   "start": 519.26,
+   "end": 523.62,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.81,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.225
+  },
+  {
+   "start": 523.68,
+   "end": 528.4,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.828,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.242
+  },
+  {
+   "start": 529.16,
+   "end": 536.02,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.853,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.259
+  },
+  {
+   "start": 536.04,
+   "end": 537.68,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.695,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.168
+  },
+  {
+   "start": 538.38,
+   "end": 539.92,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.639,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.126
+  },
+  {
+   "start": 540.56,
+   "end": 542.02,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.622,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.054
+  },
+  {
+   "start": 542.1,
+   "end": 545.22,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.735,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.118
+  },
+  {
+   "start": 545.24,
+   "end": 546.5,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.631,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.243
+  },
+  {
+   "start": 546.92,
+   "end": 546.94,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 546.94,
+   "end": 552.76,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.793,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.156
+  },
+  {
+   "start": 553.34,
+   "end": 553.38,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 553.5,
+   "end": 553.56,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 553.56,
+   "end": 559.18,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.797,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.18
+  },
+  {
+   "start": 559.28,
+   "end": 564.86,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.85,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.326
+  },
+  {
+   "start": 565.42,
+   "end": 567.18,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.62,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.26
+  },
+  {
+   "start": 567.86,
+   "end": 575.76,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.857,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.305
+  },
+  {
+   "start": 575.82,
+   "end": 578.02,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.525,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.278
+  },
+  {
+   "start": 578.42,
+   "end": 580.46,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.597,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.258
+  },
+  {
+   "start": 580.5,
+   "end": 582.42,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.698,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.116
+  },
+  {
+   "start": 582.8,
+   "end": 584.6,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.542,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.163
+  },
+  {
+   "start": 584.66,
+   "end": 584.82,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 584.84,
+   "end": 590.88,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.869,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.167
+  },
+  {
+   "start": 591.0,
+   "end": 592.68,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.612,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.213
+  },
+  {
+   "start": 593.72,
+   "end": 598.66,
+   "label": "speaker_1",
+   "name": "Charles Caskey",
+   "sim": 0.703,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.213,
+   "how": "voice"
+  },
+  {
+   "start": 598.76,
+   "end": 602.64,
+   "label": "speaker_1",
+   "name": "Charles Caskey",
+   "sim": 0.699,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.238,
+   "how": "voice"
+  },
+  {
+   "start": 603.0,
+   "end": 609.12,
+   "label": "speaker_1",
+   "name": "Charles Caskey",
+   "sim": 0.774,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.286,
+   "how": "voice"
+  },
+  {
+   "start": 609.9,
+   "end": 619.359,
+   "label": "speaker_1",
+   "name": "Charles Caskey",
+   "sim": 0.827,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.263,
+   "how": "voice"
+  },
+  {
+   "start": 619.56,
+   "end": 619.96,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 620.02,
+   "end": 621.08,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": -0.028,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.342,
+   "low": 1
+  },
+  {
+   "start": 621.32,
+   "end": 621.32,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 621.32,
+   "end": 623.64,
+   "label": "speaker_1",
+   "name": "Charles Caskey",
+   "sim": 0.657,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.228,
+   "how": "voice"
+  },
+  {
+   "start": 623.68,
+   "end": 627.06,
+   "label": "speaker_1",
+   "name": "Charles Caskey",
+   "sim": 0.682,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.209,
+   "how": "voice"
+  },
+  {
+   "start": 627.94,
+   "end": 633.82,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.805,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.293
+  },
+  {
+   "start": 634.34,
+   "end": 637.06,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.694,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.188
+  },
+  {
+   "start": 637.14,
+   "end": 640.96,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.711,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.205
+  },
+  {
+   "start": 641.26,
+   "end": 644.22,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.742,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.26
+  },
+  {
+   "start": 644.42,
+   "end": 645.62,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.689,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.199
+  },
+  {
+   "start": 646.08,
+   "end": 647.58,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.561,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.155
+  },
+  {
+   "start": 647.96,
+   "end": 652.36,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.758,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.116
+  },
+  {
+   "start": 653.02,
+   "end": 655.94,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.637,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.199
+  },
+  {
+   "start": 656.52,
+   "end": 656.6,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 656.64,
+   "end": 661.22,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.765,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.211
+  },
+  {
+   "start": 661.9,
+   "end": 661.94,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 661.96,
+   "end": 663.14,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.566,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.229
+  },
+  {
+   "start": 663.64,
+   "end": 665.7,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.514,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.279
+  },
+  {
+   "start": 665.76,
+   "end": 669.44,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.811,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.264
+  },
+  {
+   "start": 669.46,
+   "end": 677.08,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.864,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.298
+  },
+  {
+   "start": 677.22,
+   "end": 677.42,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 677.42,
+   "end": 678.76,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.485,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.159
+  },
+  {
+   "start": 679.3,
+   "end": 683.12,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.774,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.145
+  },
+  {
+   "start": 683.2,
+   "end": 688.06,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.885,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.202
+  },
+  {
+   "start": 688.52,
+   "end": 690.5,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.724,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.199
+  },
+  {
+   "start": 691.0,
+   "end": 694.36,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.76,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.181
+  },
+  {
+   "start": 694.74,
+   "end": 696.16,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.473,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.136
+  },
+  {
+   "start": 696.24,
+   "end": 698.48,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.605,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.098
+  },
+  {
+   "start": 699.16,
+   "end": 705.24,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.77,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.224
+  },
+  {
+   "start": 705.62,
+   "end": 707.68,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.65,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.258
+  },
+  {
+   "start": 707.74,
+   "end": 708.9,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.482,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.241
+  },
+  {
+   "start": 709.4,
+   "end": 710.28,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.41,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.194
+  },
+  {
+   "start": 710.892,
+   "end": 712.832,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.556,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.179
+  },
+  {
+   "start": 713.332,
+   "end": 714.372,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.481,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.165
+  },
+  {
+   "start": 715.012,
+   "end": 715.852,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.241,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.151,
+   "low": 1
+  },
+  {
+   "start": 716.152,
+   "end": 716.492,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 716.712,
+   "end": 717.472,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 718.232,
+   "end": 725.332,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.744,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.313
+  },
+  {
+   "start": 725.912,
+   "end": 727.712,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.592,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.251
+  },
+  {
+   "start": 727.772,
+   "end": 731.212,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.725,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.191
+  },
+  {
+   "start": 731.232,
+   "end": 732.352,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.6,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.213
+  },
+  {
+   "start": 734.572,
+   "end": 737.172,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.741,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.159
+  },
+  {
+   "start": 738.172,
+   "end": 741.752,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.659,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.335
+  },
+  {
+   "start": 741.832,
+   "end": 747.152,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.812,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.259
+  },
+  {
+   "start": 747.232,
+   "end": 750.512,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.772,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.251
+  },
+  {
+   "start": 751.012,
+   "end": 751.132,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 751.352,
+   "end": 751.432,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 751.452,
+   "end": 755.292,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.671,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.136
+  },
+  {
+   "start": 755.452,
+   "end": 755.492,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 755.512,
+   "end": 758.692,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.696,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.184
+  },
+  {
+   "start": 758.732,
+   "end": 758.812,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 758.812,
+   "end": 759.692,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.304,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.214
+  },
+  {
+   "start": 760.192,
+   "end": 762.112,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.731,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.277
+  },
+  {
+   "start": 762.292,
+   "end": 762.332,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 762.352,
+   "end": 770.392,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.871,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.346
+  },
+  {
+   "start": 770.432,
+   "end": 771.812,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.295,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.151
+  },
+  {
+   "start": 772.992,
+   "end": 774.632,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.472,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.074
+  },
+  {
+   "start": 774.712,
+   "end": 775.811,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": -0.031,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.133,
+   "low": 1
+  },
+  {
+   "start": 776.452,
+   "end": 778.052,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.57,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.238
+  },
+  {
+   "start": 778.092,
+   "end": 780.772,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.662,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.204
+  },
+  {
+   "start": 781.472,
+   "end": 781.572,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 781.992,
+   "end": 782.712,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 783.492,
+   "end": 785.032,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.69,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.293
+  },
+  {
+   "start": 785.232,
+   "end": 786.012,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 787.532,
+   "end": 787.572,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 788.372,
+   "end": 789.172,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.348,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.203
+  },
+  {
+   "start": 789.432,
+   "end": 792.532,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.738,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.197
+  },
+  {
+   "start": 792.652,
+   "end": 792.652,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 792.712,
+   "end": 793.272,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 793.872,
+   "end": 794.312,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 794.352,
+   "end": 794.352,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 794.352,
+   "end": 797.012,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.756,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.207
+  },
+  {
+   "start": 797.512,
+   "end": 797.512,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 797.512,
+   "end": 799.192,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.63,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.228
+  },
+  {
+   "start": 799.492,
+   "end": 801.952,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.719,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.305
+  },
+  {
+   "start": 802.012,
+   "end": 802.072,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 802.172,
+   "end": 803.092,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.366,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.15
+  },
+  {
+   "start": 803.912,
+   "end": 805.672,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.651,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.311
+  },
+  {
+   "start": 806.192,
+   "end": 809.932,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.803,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.224
+  },
+  {
+   "start": 810.652,
+   "end": 813.712,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.804,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.264
+  },
+  {
+   "start": 813.772,
+   "end": 820.852,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.891,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.176
+  },
+  {
+   "start": 820.872,
+   "end": 821.272,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 821.292,
+   "end": 823.772,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.545,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.198
+  },
+  {
+   "start": 823.832,
+   "end": 826.752,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.745,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.244
+  },
+  {
+   "start": 827.152,
+   "end": 828.932,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.621,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.154
+  },
+  {
+   "start": 828.972,
+   "end": 835.732,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.815,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.153
+  },
+  {
+   "start": 836.312,
+   "end": 838.392,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.62,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.106
+  },
+  {
+   "start": 839.012,
+   "end": 846.792,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.88,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.299
+  },
+  {
+   "start": 847.592,
+   "end": 848.312,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 848.892,
+   "end": 854.472,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.774,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.345
+  },
+  {
+   "start": 854.832,
+   "end": 859.452,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.802,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.266
+  },
+  {
+   "start": 859.972,
+   "end": 862.032,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.576,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.248
+  },
+  {
+   "start": 863.092,
+   "end": 863.292,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 863.292,
+   "end": 868.392,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.775,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.192
+  },
+  {
+   "start": 868.752,
+   "end": 874.552,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.754,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.257
+  },
+  {
+   "start": 874.632,
+   "end": 875.912,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.512,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.232
+  },
+  {
+   "start": 875.992,
+   "end": 877.332,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.559,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.149
+  },
+  {
+   "start": 877.392,
+   "end": 885.532,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.736,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.295
+  },
+  {
+   "start": 885.632,
+   "end": 895.012,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.766,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.279
+  },
+  {
+   "start": 895.992,
+   "end": 896.052,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 896.052,
+   "end": 896.152,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 896.232,
+   "end": 897.672,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.606,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.295
+  },
+  {
+   "start": 898.392,
+   "end": 898.552,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 899.192,
+   "end": 900.732,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.454,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.26
+  },
+  {
+   "start": 901.392,
+   "end": 902.372,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.536,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.208
+  },
+  {
+   "start": 902.872,
+   "end": 905.292,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.773,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.195
+  },
+  {
+   "start": 906.312,
+   "end": 913.372,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.851,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.178
+  },
+  {
+   "start": 914.052,
+   "end": 914.232,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 914.252,
+   "end": 914.472,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 914.472,
+   "end": 915.472,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.573,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.246
+  },
+  {
+   "start": 915.552,
+   "end": 920.592,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.878,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.156
+  },
+  {
+   "start": 921.232,
+   "end": 926.392,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.819,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.176
+  },
+  {
+   "start": 926.872,
+   "end": 926.872,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 926.912,
+   "end": 927.852,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.51,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.133
+  },
+  {
+   "start": 928.432,
+   "end": 929.732,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.48,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.289
+  },
+  {
+   "start": 930.332,
+   "end": 934.432,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.824,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.269
+  },
+  {
+   "start": 934.552,
+   "end": 936.632,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.705,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.123
+  },
+  {
+   "start": 936.692,
+   "end": 938.492,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.641,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.18
+  },
+  {
+   "start": 938.992,
+   "end": 943.612,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.861,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.225
+  },
+  {
+   "start": 943.652,
+   "end": 943.652,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 943.652,
+   "end": 946.372,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.574,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.173
+  },
+  {
+   "start": 946.892,
+   "end": 947.612,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 947.692,
+   "end": 954.872,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.712,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.257
+  },
+  {
+   "start": 955.072,
+   "end": 959.932,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.757,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.231
+  },
+  {
+   "start": 960.312,
+   "end": 960.312,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 960.312,
+   "end": 964.812,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.763,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.257
+  },
+  {
+   "start": 965.412,
+   "end": 967.132,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.611,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.344
+  },
+  {
+   "start": 967.171,
+   "end": 967.532,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 967.532,
+   "end": 967.972,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 968.452,
+   "end": 970.072,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.602,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.319
+  },
+  {
+   "start": 970.111,
+   "end": 972.032,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.662,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.212
+  },
+  {
+   "start": 972.472,
+   "end": 975.832,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.825,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.287
+  },
+  {
+   "start": 975.872,
+   "end": 978.152,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.757,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.18
+  },
+  {
+   "start": 978.252,
+   "end": 985.232,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.885,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.203
+  },
+  {
+   "start": 985.412,
+   "end": 990.812,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.803,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.223
+  },
+  {
+   "start": 990.912,
+   "end": 990.932,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 990.932,
+   "end": 994.532,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.716,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.191
+  },
+  {
+   "start": 995.132,
+   "end": 997.912,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.749,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.292
+  },
+  {
+   "start": 998.552,
+   "end": 999.112,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 999.172,
+   "end": 999.192,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 999.192,
+   "end": 1001.172,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.748,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.182
+  },
+  {
+   "start": 1001.472,
+   "end": 1006.212,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.85,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.305
+  },
+  {
+   "start": 1006.572,
+   "end": 1010.612,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.808,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.157
+  },
+  {
+   "start": 1010.612,
+   "end": 1010.712,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1010.712,
+   "end": 1010.812,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 1011.392,
+   "end": 1012.932,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.624,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.117
+  },
+  {
+   "start": 1013.312,
+   "end": 1017.292,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.76,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.162
+  },
+  {
+   "start": 1017.752,
+   "end": 1019.432,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.671,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.112
+  },
+  {
+   "start": 1020.012,
+   "end": 1027.132,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.853,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.241
+  },
+  {
+   "start": 1028.492,
+   "end": 1029.032,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1029.652,
+   "end": 1035.272,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.803,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.244
+  },
+  {
+   "start": 1035.812,
+   "end": 1038.792,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.76,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.234
+  },
+  {
+   "start": 1038.792,
+   "end": 1041.092,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.675,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.226
+  },
+  {
+   "start": 1041.712,
+   "end": 1042.492,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1043.032,
+   "end": 1047.912,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.773,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.191
+  },
+  {
+   "start": 1048.252,
+   "end": 1049.392,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.67,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.134
+  },
+  {
+   "start": 1049.912,
+   "end": 1051.512,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.518,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.221
+  },
+  {
+   "start": 1052.212,
+   "end": 1056.532,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.745,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.201
+  },
+  {
+   "start": 1057.032,
+   "end": 1059.812,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.706,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.234
+  },
+  {
+   "start": 1060.352,
+   "end": 1065.272,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.74,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.218
+  },
+  {
+   "start": 1065.292,
+   "end": 1065.352,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 1065.352,
+   "end": 1066.072,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1066.092,
+   "end": 1066.212,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 1066.312,
+   "end": 1067.272,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.14,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.006,
+   "low": 1
+  },
+  {
+   "start": 1067.332,
+   "end": 1069.632,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.732,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.327
+  },
+  {
+   "start": 1069.732,
+   "end": 1075.192,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.851,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.322
+  },
+  {
+   "start": 1075.744,
+   "end": 1081.204,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.814,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.372
+  },
+  {
+   "start": 1081.744,
+   "end": 1083.704,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.769,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.273
+  },
+  {
+   "start": 1083.884,
+   "end": 1087.984,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.787,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.399
+  },
+  {
+   "start": 1088.484,
+   "end": 1089.804,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.547,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.173
+  },
+  {
+   "start": 1090.364,
+   "end": 1092.044,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.724,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.293
+  },
+  {
+   "start": 1092.524,
+   "end": 1095.464,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.809,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.286
+  },
+  {
+   "start": 1095.504,
+   "end": 1104.784,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.906,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.304
+  },
+  {
+   "start": 1104.864,
+   "end": 1108.064,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.832,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.196
+  },
+  {
+   "start": 1108.784,
+   "end": 1109.004,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 1109.064,
+   "end": 1109.124,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1109.184,
+   "end": 1114.144,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.853,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.232
+  },
+  {
+   "start": 1114.204,
+   "end": 1114.284,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1114.284,
+   "end": 1116.264,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.695,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.257
+  },
+  {
+   "start": 1116.764,
+   "end": 1123.324,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.9,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.259
+  },
+  {
+   "start": 1123.944,
+   "end": 1127.964,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.85,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.373
+  },
+  {
+   "start": 1128.544,
+   "end": 1132.424,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.82,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.316
+  },
+  {
+   "start": 1132.484,
+   "end": 1132.504,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1132.604,
+   "end": 1135.444,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.757,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.17
+  },
+  {
+   "start": 1136.304,
+   "end": 1145.224,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.894,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.248
+  },
+  {
+   "start": 1145.384,
+   "end": 1149.424,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.816,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.142
+  },
+  {
+   "start": 1150.124,
+   "end": 1151.404,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.615,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.204
+  },
+  {
+   "start": 1151.424,
+   "end": 1157.064,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.805,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.266
+  },
+  {
+   "start": 1157.464,
+   "end": 1167.904,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.898,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.25
+  },
+  {
+   "start": 1167.924,
+   "end": 1170.044,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.614,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.233,
+   "how": "voice"
+  },
+  {
+   "start": 1170.064,
+   "end": 1171.204,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.3,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.189
+  },
+  {
+   "start": 1172.244,
+   "end": 1173.864,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.603,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.204,
+   "how": "voice"
+  },
+  {
+   "start": 1174.464,
+   "end": 1175.364,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.368,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.268
+  },
+  {
+   "start": 1175.984,
+   "end": 1181.524,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.751,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.366
+  },
+  {
+   "start": 1181.564,
+   "end": 1184.784,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.746,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.197
+  },
+  {
+   "start": 1184.864,
+   "end": 1188.524,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.651,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.231
+  },
+  {
+   "start": 1189.224,
+   "end": 1191.844,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.778,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.288
+  },
+  {
+   "start": 1192.904,
+   "end": 1195.784,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.694,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.179
+  },
+  {
+   "start": 1195.844,
+   "end": 1200.604,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.842,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.385
+  },
+  {
+   "start": 1200.684,
+   "end": 1210.424,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.935,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.288
+  },
+  {
+   "start": 1210.744,
+   "end": 1210.744,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1210.784,
+   "end": 1211.904,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.42,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.241
+  },
+  {
+   "start": 1211.964,
+   "end": 1218.244,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.878,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.25
+  },
+  {
+   "start": 1218.884,
+   "end": 1219.884,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.553,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.089
+  },
+  {
+   "start": 1220.804,
+   "end": 1228.984,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.73,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.27
+  },
+  {
+   "start": 1229.104,
+   "end": 1230.184,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.516,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.17
+  },
+  {
+   "start": 1230.304,
+   "end": 1234.244,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.738,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.282
+  },
+  {
+   "start": 1234.744,
+   "end": 1240.784,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.746,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.263
+  },
+  {
+   "start": 1240.884,
+   "end": 1246.084,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.797,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.243
+  },
+  {
+   "start": 1246.324,
+   "end": 1248.224,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.667,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.204
+  },
+  {
+   "start": 1249.224,
+   "end": 1252.604,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.664,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.281
+  },
+  {
+   "start": 1252.984,
+   "end": 1266.504,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.79,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.302
+  },
+  {
+   "start": 1267.064,
+   "end": 1271.084,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.689,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.304
+  },
+  {
+   "start": 1271.744,
+   "end": 1284.564,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.787,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.251
+  },
+  {
+   "start": 1285.104,
+   "end": 1290.824,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.718,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.274
+  },
+  {
+   "start": 1291.184,
+   "end": 1295.664,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.751,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.27
+  },
+  {
+   "start": 1295.704,
+   "end": 1297.044,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.384,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.193
+  },
+  {
+   "start": 1297.324,
+   "end": 1300.724,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.76,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.345
+  },
+  {
+   "start": 1301.384,
+   "end": 1303.164,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.678,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.312
+  },
+  {
+   "start": 1303.744,
+   "end": 1306.684,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.718,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.368
+  },
+  {
+   "start": 1306.804,
+   "end": 1306.804,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1306.804,
+   "end": 1308.104,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.27,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.282
+  },
+  {
+   "start": 1308.364,
+   "end": 1308.364,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1308.364,
+   "end": 1314.124,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.829,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.344
+  },
+  {
+   "start": 1314.584,
+   "end": 1316.124,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.616,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.244
+  },
+  {
+   "start": 1316.844,
+   "end": 1326.664,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.876,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.263
+  },
+  {
+   "start": 1327.164,
+   "end": 1328.004,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.228,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.244,
+   "low": 1
+  },
+  {
+   "start": 1328.024,
+   "end": 1328.024,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1328.024,
+   "end": 1328.924,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.298,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.239
+  },
+  {
+   "start": 1329.744,
+   "end": 1334.483,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.675,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.325
+  },
+  {
+   "start": 1334.543,
+   "end": 1337.423,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.527,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.225
+  },
+  {
+   "start": 1337.924,
+   "end": 1337.964,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 1338.044,
+   "end": 1342.424,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.666,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.277
+  },
+  {
+   "start": 1342.524,
+   "end": 1342.644,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 1342.744,
+   "end": 1346.444,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.669,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.315
+  },
+  {
+   "start": 1346.944,
+   "end": 1347.124,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 1347.524,
+   "end": 1347.664,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1347.824,
+   "end": 1348.944,
+   "label": "speaker_2",
+   "name": "Keith Murphy",
+   "sim": 0.573,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.248,
+   "how": "voice"
+  },
+  {
+   "start": 1349.604,
+   "end": 1353.024,
+   "label": "speaker_2",
+   "name": "Keith Murphy",
+   "sim": 0.808,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.272,
+   "how": "voice"
+  },
+  {
+   "start": 1353.564,
+   "end": 1355.124,
+   "label": "speaker_2",
+   "name": "Keith Murphy",
+   "sim": 0.665,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.215,
+   "how": "voice"
+  },
+  {
+   "start": 1355.704,
+   "end": 1360.444,
+   "label": "speaker_2",
+   "name": "Keith Murphy",
+   "sim": 0.808,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.223,
+   "how": "voice"
+  },
+  {
+   "start": 1360.964,
+   "end": 1364.384,
+   "label": "speaker_2",
+   "name": "Keith Murphy",
+   "sim": 0.774,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.234,
+   "how": "voice"
+  },
+  {
+   "start": 1365.204,
+   "end": 1365.464,
+   "label": "speaker_2",
+   "name": "Keith Murphy",
+   "how": "sandwich"
+  },
+  {
+   "start": 1366.264,
+   "end": 1370.084,
+   "label": "speaker_2",
+   "name": "Keith Murphy",
+   "sim": 0.725,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.199,
+   "how": "voice"
+  },
+  {
+   "start": 1370.624,
+   "end": 1370.624,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1370.624,
+   "end": 1372.544,
+   "label": "speaker_2",
+   "name": "Keith Murphy",
+   "sim": 0.643,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.323,
+   "how": "voice"
+  },
+  {
+   "start": 1373.444,
+   "end": 1377.664,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.695,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.213
+  },
+  {
+   "start": 1378.264,
+   "end": 1380.224,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.513,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.146
+  },
+  {
+   "start": 1380.784,
+   "end": 1385.784,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.745,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.258
+  },
+  {
+   "start": 1386.304,
+   "end": 1393.464,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.805,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.256
+  },
+  {
+   "start": 1393.604,
+   "end": 1395.604,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.646,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.191
+  },
+  {
+   "start": 1396.244,
+   "end": 1397.544,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.378,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.284
+  },
+  {
+   "start": 1398.544,
+   "end": 1399.164,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1399.184,
+   "end": 1399.264,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 1399.724,
+   "end": 1400.564,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.16,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.084,
+   "low": 1
+  },
+  {
+   "start": 1400.584,
+   "end": 1402.024,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.082,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.341,
+   "low": 1
+  },
+  {
+   "start": 1402.424,
+   "end": 1404.724,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.574,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.259
+  },
+  {
+   "start": 1405.504,
+   "end": 1406.804,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.464,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.273
+  },
+  {
+   "start": 1406.944,
+   "end": 1410.324,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.693,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.307
+  },
+  {
+   "start": 1410.984,
+   "end": 1411.084,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 1411.164,
+   "end": 1411.384,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1411.384,
+   "end": 1412.104,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 1412.124,
+   "end": 1412.304,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1412.304,
+   "end": 1412.624,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 1412.624,
+   "end": 1416.864,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.626,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.204,
+   "how": "voice"
+  },
+  {
+   "start": 1417.584,
+   "end": 1418.644,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.305,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.372
+  },
+  {
+   "start": 1418.664,
+   "end": 1418.964,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1419.004,
+   "end": 1420.344,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.507,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.351
+  },
+  {
+   "start": 1420.404,
+   "end": 1420.604,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1421.024,
+   "end": 1421.104,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 1421.164,
+   "end": 1421.884,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.376,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.181,
+   "how": "voice (run)"
+  },
+  {
+   "start": 1422.984,
+   "end": 1423.084,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.376,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.181,
+   "how": "voice (run)"
+  },
+  {
+   "start": 1424.144,
+   "end": 1426.464,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.75,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.241,
+   "how": "voice"
+  },
+  {
+   "start": 1427.104,
+   "end": 1430.624,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.767,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.169,
+   "how": "voice"
+  },
+  {
+   "start": 1431.104,
+   "end": 1431.244,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 1431.344,
+   "end": 1432.304,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.587,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.188,
+   "how": "voice"
+  },
+  {
+   "start": 1433.124,
+   "end": 1435.424,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.67,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.222,
+   "how": "voice"
+  },
+  {
+   "start": 1435.684,
+   "end": 1442.964,
+   "label": "speaker_0",
+   "name": "Keith Murphy",
+   "sim": 0.831,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.31,
+   "how": "voice"
+  },
+  {
+   "start": 1443.572,
+   "end": 1450.952,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.816,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.214
+  },
+  {
+   "start": 1451.472,
+   "end": 1453.292,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.567,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.309
+  },
+  {
+   "start": 1453.972,
+   "end": 1455.812,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.664,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.256
+  },
+  {
+   "start": 1456.092,
+   "end": 1459.572,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.59,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.315
+  },
+  {
+   "start": 1459.592,
+   "end": 1460.472,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.27,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.247
+  },
+  {
+   "start": 1460.492,
+   "end": 1461.192,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 1461.212,
+   "end": 1461.652,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1461.692,
+   "end": 1468.192,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.867,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.369
+  },
+  {
+   "start": 1468.512,
+   "end": 1476.752,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.861,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.348
+  },
+  {
+   "start": 1477.452,
+   "end": 1477.652,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 1478.252,
+   "end": 1482.612,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.776,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.174
+  },
+  {
+   "start": 1482.652,
+   "end": 1487.632,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.756,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.293
+  },
+  {
+   "start": 1488.212,
+   "end": 1490.192,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.389,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.138
+  },
+  {
+   "start": 1490.912,
+   "end": 1498.232,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.822,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.289
+  },
+  {
+   "start": 1498.812,
+   "end": 1499.312,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 1499.532,
+   "end": 1499.532,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1499.552,
+   "end": 1504.192,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.779,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.292
+  },
+  {
+   "start": 1504.812,
+   "end": 1508.452,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.741,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.316
+  },
+  {
+   "start": 1508.512,
+   "end": 1508.632,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1508.732,
+   "end": 1509.752,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.5,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.259
+  },
+  {
+   "start": 1509.812,
+   "end": 1509.812,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1509.812,
+   "end": 1512.052,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.655,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.211
+  },
+  {
+   "start": 1512.112,
+   "end": 1514.892,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.616,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.248
+  },
+  {
+   "start": 1514.932,
+   "end": 1515.952,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.468,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.368
+  },
+  {
+   "start": 1515.972,
+   "end": 1517.652,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.73,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.293
+  },
+  {
+   "start": 1518.152,
+   "end": 1519.892,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.654,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.224
+  },
+  {
+   "start": 1520.472,
+   "end": 1522.652,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.613,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.322
+  },
+  {
+   "start": 1523.332,
+   "end": 1523.672,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 1524.352,
+   "end": 1526.392,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.605,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.199
+  },
+  {
+   "start": 1526.532,
+   "end": 1532.912,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.79,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.239
+  },
+  {
+   "start": 1533.012,
+   "end": 1535.752,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.757,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.174
+  },
+  {
+   "start": 1536.412,
+   "end": 1537.252,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.433,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.178
+  },
+  {
+   "start": 1537.752,
+   "end": 1541.932,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.784,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.232
+  },
+  {
+   "start": 1542.512,
+   "end": 1543.652,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.581,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.21
+  },
+  {
+   "start": 1544.112,
+   "end": 1549.112,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.797,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.247
+  },
+  {
+   "start": 1549.932,
+   "end": 1550.572,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1551.152,
+   "end": 1554.372,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.635,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.244
+  },
+  {
+   "start": 1555.032,
+   "end": 1556.152,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.623,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.185
+  },
+  {
+   "start": 1557.032,
+   "end": 1559.352,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.768,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.258
+  },
+  {
+   "start": 1559.632,
+   "end": 1561.152,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.535,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.325
+  },
+  {
+   "start": 1561.192,
+   "end": 1565.452,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.783,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.252
+  },
+  {
+   "start": 1565.692,
+   "end": 1570.752,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.812,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.267
+  },
+  {
+   "start": 1571.332,
+   "end": 1573.072,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.513,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.262
+  },
+  {
+   "start": 1573.192,
+   "end": 1575.592,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.603,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.247
+  },
+  {
+   "start": 1576.092,
+   "end": 1576.412,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 1576.712,
+   "end": 1576.732,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1576.732,
+   "end": 1580.752,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.804,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.292
+  },
+  {
+   "start": 1581.232,
+   "end": 1585.052,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.795,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.348
+  },
+  {
+   "start": 1585.132,
+   "end": 1586.332,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.576,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.191
+  },
+  {
+   "start": 1586.832,
+   "end": 1593.512,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.806,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.406
+  },
+  {
+   "start": 1594.352,
+   "end": 1598.532,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.667,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.301
+  },
+  {
+   "start": 1598.972,
+   "end": 1601.112,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.711,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.29
+  },
+  {
+   "start": 1601.532,
+   "end": 1603.792,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.761,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.275
+  },
+  {
+   "start": 1604.552,
+   "end": 1606.312,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.438,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.201
+  },
+  {
+   "start": 1606.932,
+   "end": 1609.672,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.709,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.26
+  },
+  {
+   "start": 1610.292,
+   "end": 1610.392,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 1610.432,
+   "end": 1611.192,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1611.192,
+   "end": 1615.792,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.754,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.175
+  },
+  {
+   "start": 1616.252,
+   "end": 1619.312,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.697,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.277
+  },
+  {
+   "start": 1619.352,
+   "end": 1621.712,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.591,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.287
+  },
+  {
+   "start": 1622.752,
+   "end": 1633.672,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.863,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.29
+  },
+  {
+   "start": 1634.192,
+   "end": 1635.972,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.639,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.249
+  },
+  {
+   "start": 1636.252,
+   "end": 1638.432,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.687,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.377
+  },
+  {
+   "start": 1638.452,
+   "end": 1639.812,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.443,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.334
+  },
+  {
+   "start": 1639.852,
+   "end": 1639.852,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1639.872,
+   "end": 1640.992,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.51,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.187
+  },
+  {
+   "start": 1641.052,
+   "end": 1643.952,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.7,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.225
+  },
+  {
+   "start": 1644.032,
+   "end": 1645.732,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.463,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.187
+  },
+  {
+   "start": 1645.752,
+   "end": 1646.032,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1646.052,
+   "end": 1648.152,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.285,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.066
+  },
+  {
+   "start": 1648.952,
+   "end": 1650.452,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.598,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.189
+  },
+  {
+   "start": 1650.692,
+   "end": 1650.892,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 1650.932,
+   "end": 1652.172,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.613,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.196
+  },
+  {
+   "start": 1652.272,
+   "end": 1654.912,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.753,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.249
+  },
+  {
+   "start": 1655.032,
+   "end": 1658.252,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.752,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.225
+  },
+  {
+   "start": 1658.852,
+   "end": 1662.452,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.743,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.224
+  },
+  {
+   "start": 1664.092,
+   "end": 1666.812,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.674,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.251
+  },
+  {
+   "start": 1666.892,
+   "end": 1667.012,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 1667.012,
+   "end": 1668.492,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.684,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.261
+  },
+  {
+   "start": 1669.072,
+   "end": 1669.492,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1670.012,
+   "end": 1671.572,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.687,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.232
+  },
+  {
+   "start": 1672.112,
+   "end": 1673.472,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.583,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.29
+  },
+  {
+   "start": 1674.012,
+   "end": 1676.112,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.673,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.244
+  },
+  {
+   "start": 1676.152,
+   "end": 1680.552,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.789,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.225
+  },
+  {
+   "start": 1681.092,
+   "end": 1691.152,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.731,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.202
+  },
+  {
+   "start": 1691.692,
+   "end": 1693.172,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.43,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.331
+  },
+  {
+   "start": 1693.732,
+   "end": 1695.012,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.563,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.138
+  },
+  {
+   "start": 1695.692,
+   "end": 1700.792,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.813,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.223
+  },
+  {
+   "start": 1701.292,
+   "end": 1705.592,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.773,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.215
+  },
+  {
+   "start": 1706.232,
+   "end": 1707.772,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.516,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.225
+  },
+  {
+   "start": 1708.312,
+   "end": 1709.032,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1710.012,
+   "end": 1711.892,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.47,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.282
+  },
+  {
+   "start": 1711.972,
+   "end": 1712.812,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.169,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.069,
+   "low": 1
+  },
+  {
+   "start": 1713.072,
+   "end": 1713.732,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 1716.072,
+   "end": 1717.612,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.616,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.168
+  },
+  {
+   "start": 1718.032,
+   "end": 1721.172,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.755,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.266
+  },
+  {
+   "start": 1721.692,
+   "end": 1725.572,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.757,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.214
+  },
+  {
+   "start": 1726.112,
+   "end": 1726.332,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 1726.412,
+   "end": 1727.112,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1727.832,
+   "end": 1730.292,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.693,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.158
+  },
+  {
+   "start": 1730.372,
+   "end": 1733.352,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.584,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.2
+  },
+  {
+   "start": 1733.712,
+   "end": 1734.892,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.487,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.231
+  },
+  {
+   "start": 1737.192,
+   "end": 1738.172,
+   "label": "speaker_2",
+   "name": "Charles Caskey",
+   "sim": 0.457,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.188,
+   "how": "voice"
+  },
+  {
+   "start": 1739.292,
+   "end": 1739.452,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1740.572,
+   "end": 1745.932,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.841,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.316
+  },
+  {
+   "start": 1746.572,
+   "end": 1749.612,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.779,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.185
+  },
+  {
+   "start": 1749.852,
+   "end": 1751.452,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.548,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.163
+  },
+  {
+   "start": 1752.872,
+   "end": 1755.532,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.701,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.21
+  },
+  {
+   "start": 1755.632,
+   "end": 1761.052,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.767,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.207
+  },
+  {
+   "start": 1761.232,
+   "end": 1762.772,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.678,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.198
+  },
+  {
+   "start": 1763.212,
+   "end": 1768.852,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.742,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.243
+  },
+  {
+   "start": 1769.192,
+   "end": 1770.832,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.606,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.303
+  },
+  {
+   "start": 1771.352,
+   "end": 1772.972,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.648,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.201
+  },
+  {
+   "start": 1773.612,
+   "end": 1775.992,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.699,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.257
+  },
+  {
+   "start": 1776.532,
+   "end": 1778.372,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.725,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.222
+  },
+  {
+   "start": 1779.592,
+   "end": 1779.852,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1779.872,
+   "end": 1780.172,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 1780.192,
+   "end": 1781.492,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.312,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.21
+  },
+  {
+   "start": 1781.892,
+   "end": 1786.712,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.663,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.199
+  },
+  {
+   "start": 1788.532,
+   "end": 1790.812,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.666,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.153
+  },
+  {
+   "start": 1791.052,
+   "end": 1794.452,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.672,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.292
+  },
+  {
+   "start": 1794.512,
+   "end": 1797.412,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.608,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.353
+  },
+  {
+   "start": 1798.012,
+   "end": 1801.472,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.747,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.379
+  },
+  {
+   "start": 1801.512,
+   "end": 1804.472,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.823,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.276
+  },
+  {
+   "start": 1804.812,
+   "end": 1805.052,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1805.052,
+   "end": 1807.772,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.777,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.26
+  },
+  {
+   "start": 1808.356,
+   "end": 1809.676,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.617,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.256
+  },
+  {
+   "start": 1810.236,
+   "end": 1816.376,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.853,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.275
+  },
+  {
+   "start": 1816.676,
+   "end": 1820.296,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.786,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.292
+  },
+  {
+   "start": 1821.216,
+   "end": 1824.096,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.704,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.243
+  },
+  {
+   "start": 1824.636,
+   "end": 1829.736,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.871,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.204
+  },
+  {
+   "start": 1830.296,
+   "end": 1831.356,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.568,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.104
+  },
+  {
+   "start": 1831.396,
+   "end": 1835.976,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.828,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.273
+  },
+  {
+   "start": 1836.516,
+   "end": 1837.696,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.431,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.112
+  },
+  {
+   "start": 1838.016,
+   "end": 1842.356,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.827,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.224
+  },
+  {
+   "start": 1843.056,
+   "end": 1851.616,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.906,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.24
+  },
+  {
+   "start": 1852.216,
+   "end": 1858.576,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.861,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.266
+  },
+  {
+   "start": 1859.196,
+   "end": 1866.556,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.888,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.19
+  },
+  {
+   "start": 1867.096,
+   "end": 1870.856,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.767,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.229
+  },
+  {
+   "start": 1871.016,
+   "end": 1874.616,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.824,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.209
+  },
+  {
+   "start": 1875.216,
+   "end": 1878.396,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.744,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.14
+  },
+  {
+   "start": 1878.856,
+   "end": 1881.596,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.747,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.282
+  },
+  {
+   "start": 1882.196,
+   "end": 1883.076,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.434,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.151
+  },
+  {
+   "start": 1883.156,
+   "end": 1883.196,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1883.196,
+   "end": 1887.336,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.774,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.268
+  },
+  {
+   "start": 1887.356,
+   "end": 1891.716,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.719,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.298
+  },
+  {
+   "start": 1891.736,
+   "end": 1892.016,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1892.456,
+   "end": 1894.816,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.452,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.32
+  },
+  {
+   "start": 1894.856,
+   "end": 1899.576,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.708,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.351
+  },
+  {
+   "start": 1900.616,
+   "end": 1902.816,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.673,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.294
+  },
+  {
+   "start": 1902.876,
+   "end": 1904.776,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.671,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.247
+  },
+  {
+   "start": 1905.536,
+   "end": 1906.936,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.644,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.132
+  },
+  {
+   "start": 1907.616,
+   "end": 1909.036,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.645,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.188
+  },
+  {
+   "start": 1909.336,
+   "end": 1911.796,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.733,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.191
+  },
+  {
+   "start": 1911.896,
+   "end": 1914.756,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.78,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.21
+  },
+  {
+   "start": 1915.256,
+   "end": 1918.156,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.7,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.104
+  },
+  {
+   "start": 1918.696,
+   "end": 1922.936,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.801,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.077
+  },
+  {
+   "start": 1923.496,
+   "end": 1929.716,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.821,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.114
+  },
+  {
+   "start": 1930.636,
+   "end": 1932.076,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.766,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.238
+  },
+  {
+   "start": 1932.656,
+   "end": 1936.476,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.76,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.216
+  },
+  {
+   "start": 1936.616,
+   "end": 1938.996,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.729,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.166
+  },
+  {
+   "start": 1939.056,
+   "end": 1943.096,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.851,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.157
+  },
+  {
+   "start": 1943.596,
+   "end": 1946.656,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.747,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.172
+  },
+  {
+   "start": 1948.196,
+   "end": 1949.256,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.623,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.276
+  },
+  {
+   "start": 1949.876,
+   "end": 1950.496,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1950.516,
+   "end": 1950.616,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1951.376,
+   "end": 1953.596,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.552,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.149
+  },
+  {
+   "start": 1953.796,
+   "end": 1958.576,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.659,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.183
+  },
+  {
+   "start": 1959.776,
+   "end": 1965.156,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.727,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.213
+  },
+  {
+   "start": 1965.356,
+   "end": 1966.376,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.139,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.12,
+   "low": 1
+  },
+  {
+   "start": 1966.416,
+   "end": 1969.156,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.803,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.23
+  },
+  {
+   "start": 1969.196,
+   "end": 1970.316,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.463,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.114
+  },
+  {
+   "start": 1970.516,
+   "end": 1987.036,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.869,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.249
+  },
+  {
+   "start": 1987.676,
+   "end": 1991.216,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.64,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.21
+  },
+  {
+   "start": 1991.416,
+   "end": 1999.276,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.802,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.296
+  },
+  {
+   "start": 1999.496,
+   "end": 1999.616,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1999.616,
+   "end": 2002.116,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.666,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.279
+  },
+  {
+   "start": 2002.256,
+   "end": 2004.436,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.682,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.168
+  },
+  {
+   "start": 2004.516,
+   "end": 2004.516,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2004.516,
+   "end": 2009.716,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.717,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.188
+  },
+  {
+   "start": 2010.316,
+   "end": 2012.496,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.696,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.216
+  },
+  {
+   "start": 2013.236,
+   "end": 2017.356,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.714,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.2
+  },
+  {
+   "start": 2017.776,
+   "end": 2021.236,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.744,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.242
+  },
+  {
+   "start": 2021.916,
+   "end": 2023.736,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.65,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.277
+  },
+  {
+   "start": 2024.316,
+   "end": 2026.456,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.732,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.254
+  },
+  {
+   "start": 2026.596,
+   "end": 2026.596,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 2026.616,
+   "end": 2030.076,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.707,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.287
+  },
+  {
+   "start": 2030.636,
+   "end": 2033.676,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.696,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.297
+  },
+  {
+   "start": 2034.336,
+   "end": 2037.456,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.692,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.329
+  },
+  {
+   "start": 2037.996,
+   "end": 2041.836,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.793,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.306
+  },
+  {
+   "start": 2041.976,
+   "end": 2045.096,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.604,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.338
+  },
+  {
+   "start": 2045.616,
+   "end": 2048.476,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.73,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.265
+  },
+  {
+   "start": 2049.376,
+   "end": 2049.636,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 2050.196,
+   "end": 2055.836,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.812,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.264
+  },
+  {
+   "start": 2055.916,
+   "end": 2057.336,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.621,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.181
+  },
+  {
+   "start": 2057.776,
+   "end": 2058.976,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.659,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.16
+  },
+  {
+   "start": 2059.416,
+   "end": 2065.656,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.81,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.192
+  },
+  {
+   "start": 2066.196,
+   "end": 2066.356,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 2066.516,
+   "end": 2066.536,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2066.536,
+   "end": 2070.376,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.763,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.21
+  },
+  {
+   "start": 2070.836,
+   "end": 2072.976,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.743,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.176
+  },
+  {
+   "start": 2072.996,
+   "end": 2073.016,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2073.016,
+   "end": 2079.416,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.881,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.2
+  },
+  {
+   "start": 2080.076,
+   "end": 2084.896,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.839,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.224
+  },
+  {
+   "start": 2084.956,
+   "end": 2091.896,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.871,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.234
+  },
+  {
+   "start": 2092.696,
+   "end": 2095.756,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.732,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.105
+  },
+  {
+   "start": 2096.276,
+   "end": 2101.456,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.846,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.179
+  },
+  {
+   "start": 2102.036,
+   "end": 2111.216,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.889,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.239
+  },
+  {
+   "start": 2111.276,
+   "end": 2118.716,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.856,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.257
+  },
+  {
+   "start": 2118.936,
+   "end": 2122.636,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.8,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.232
+  },
+  {
+   "start": 2122.956,
+   "end": 2125.936,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.773,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.201
+  },
+  {
+   "start": 2125.976,
+   "end": 2129.656,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.736,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.17
+  },
+  {
+   "start": 2130.176,
+   "end": 2131.316,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.545,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.087
+  },
+  {
+   "start": 2131.376,
+   "end": 2134.756,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.783,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.304
+  },
+  {
+   "start": 2134.776,
+   "end": 2134.896,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2134.896,
+   "end": 2136.716,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.61,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.084
+  },
+  {
+   "start": 2137.236,
+   "end": 2140.716,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.739,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.288
+  },
+  {
+   "start": 2141.356,
+   "end": 2141.356,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2141.356,
+   "end": 2141.556,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 2142.276,
+   "end": 2142.796,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 2142.836,
+   "end": 2142.836,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2142.836,
+   "end": 2143.856,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.368,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.147
+  },
+  {
+   "start": 2144.956,
+   "end": 2146.316,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.119,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.131,
+   "low": 1
+  },
+  {
+   "start": 2146.836,
+   "end": 2149.076,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.553,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.161
+  },
+  {
+   "start": 2149.616,
+   "end": 2149.756,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 2149.856,
+   "end": 2150.096,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2150.536,
+   "end": 2150.856,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 2150.876,
+   "end": 2154.276,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.68,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.198
+  },
+  {
+   "start": 2154.456,
+   "end": 2154.656,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 2154.736,
+   "end": 2155.116,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2155.316,
+   "end": 2155.976,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 2156.056,
+   "end": 2156.556,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2157.056,
+   "end": 2158.696,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.607,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.174
+  },
+  {
+   "start": 2158.756,
+   "end": 2164.536,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.794,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.263
+  },
+  {
+   "start": 2165.216,
+   "end": 2166.416,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.499,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.181
+  },
+  {
+   "start": 2166.476,
+   "end": 2172.976,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.786,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.279
+  },
+  {
+   "start": 2173.416,
+   "end": 2175.476,
+   "label": "speaker_1",
+   "name": "Charles Caskey",
+   "sim": 0.627,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.252,
+   "how": "voice"
+  },
+  {
+   "start": 2175.596,
+   "end": 2177.656,
+   "label": "speaker_1",
+   "name": "Charles Caskey",
+   "sim": 0.677,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.13,
+   "how": "voice"
+  },
+  {
+   "start": 2177.716,
+   "end": 2187.216,
+   "label": "speaker_1",
+   "name": "Charles Caskey",
+   "sim": 0.766,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.257,
+   "how": "voice"
+  },
+  {
+   "start": 2187.356,
+   "end": 2192.056,
+   "label": "speaker_1",
+   "name": "Charles Caskey",
+   "sim": 0.752,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.278,
+   "how": "voice"
+  },
+  {
+   "start": 2192.116,
+   "end": 2196.576,
+   "label": "speaker_1",
+   "name": "Charles Caskey",
+   "sim": 0.753,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.261,
+   "how": "voice"
+  },
+  {
+   "start": 2196.856,
+   "end": 2198.776,
+   "label": "speaker_1",
+   "name": "Charles Caskey",
+   "sim": 0.678,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.272,
+   "how": "voice"
+  },
+  {
+   "start": 2199.316,
+   "end": 2199.316,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 2199.316,
+   "end": 2201.596,
+   "label": "speaker_1",
+   "name": "Charles Caskey",
+   "sim": 0.668,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.377,
+   "how": "voice"
+  },
+  {
+   "start": 2202.376,
+   "end": 2204.956,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.597,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.218
+  },
+  {
+   "start": 2205.496,
+   "end": 2210.696,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.803,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.224
+  },
+  {
+   "start": 2210.776,
+   "end": 2214.236,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.752,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.189
+  },
+  {
+   "start": 2214.276,
+   "end": 2217.976,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.82,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.251
+  },
+  {
+   "start": 2218.376,
+   "end": 2218.376,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2218.396,
+   "end": 2221.216,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.743,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.301
+  },
+  {
+   "start": 2221.636,
+   "end": 2223.436,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.685,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.113
+  },
+  {
+   "start": 2223.636,
+   "end": 2228.216,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.73,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.188
+  },
+  {
+   "start": 2228.636,
+   "end": 2233.776,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.821,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.121
+  },
+  {
+   "start": 2233.856,
+   "end": 2234.036,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2234.476,
+   "end": 2236.176,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.578,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.048
+  },
+  {
+   "start": 2236.236,
+   "end": 2238.816,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.687,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.162
+  },
+  {
+   "start": 2239.396,
+   "end": 2245.096,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.818,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.174
+  },
+  {
+   "start": 2245.136,
+   "end": 2246.636,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.539,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.125
+  },
+  {
+   "start": 2247.156,
+   "end": 2247.476,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 2247.496,
+   "end": 2247.516,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2247.516,
+   "end": 2251.236,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.754,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.122
+  },
+  {
+   "start": 2251.756,
+   "end": 2253.016,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.554,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.095
+  },
+  {
+   "start": 2254.176,
+   "end": 2254.416,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 2254.456,
+   "end": 2257.816,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.711,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.236
+  },
+  {
+   "start": 2258.896,
+   "end": 2262.716,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.701,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.143
+  },
+  {
+   "start": 2263.336,
+   "end": 2269.536,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.748,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.202
+  },
+  {
+   "start": 2270.456,
+   "end": 2276.396,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.785,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.228
+  },
+  {
+   "start": 2276.516,
+   "end": 2278.316,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.763,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.258
+  },
+  {
+   "start": 2278.976,
+   "end": 2287.016,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.883,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.36
+  },
+  {
+   "start": 2287.136,
+   "end": 2288.536,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.609,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.188
+  },
+  {
+   "start": 2288.896,
+   "end": 2288.896,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2288.916,
+   "end": 2291.916,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.763,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.214
+  },
+  {
+   "start": 2292.556,
+   "end": 2294.616,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.645,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.165
+  },
+  {
+   "start": 2295.056,
+   "end": 2297.116,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.597,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.218
+  },
+  {
+   "start": 2297.316,
+   "end": 2297.376,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2297.416,
+   "end": 2299.396,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.535,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.105
+  },
+  {
+   "start": 2299.956,
+   "end": 2300.816,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.458,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.097
+  },
+  {
+   "start": 2302.596,
+   "end": 2303.336,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2303.455,
+   "end": 2310.576,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.872,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.28
+  },
+  {
+   "start": 2310.616,
+   "end": 2310.676,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2310.696,
+   "end": 2314.236,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.828,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.169
+  },
+  {
+   "start": 2314.336,
+   "end": 2316.456,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.729,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.127
+  },
+  {
+   "start": 2317.056,
+   "end": 2324.876,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.862,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.211
+  },
+  {
+   "start": 2325.376,
+   "end": 2326.556,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.577,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.153
+  },
+  {
+   "start": 2326.596,
+   "end": 2329.216,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.646,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.229
+  },
+  {
+   "start": 2329.216,
+   "end": 2329.996,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 2330.056,
+   "end": 2332.876,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.695,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.257
+  },
+  {
+   "start": 2333.396,
+   "end": 2337.436,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.701,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.197
+  },
+  {
+   "start": 2337.536,
+   "end": 2338.656,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.576,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.105
+  },
+  {
+   "start": 2339.336,
+   "end": 2342.436,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.743,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.3
+  },
+  {
+   "start": 2343.036,
+   "end": 2345.776,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.61,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.301
+  },
+  {
+   "start": 2346.616,
+   "end": 2351.676,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.781,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.239
+  },
+  {
+   "start": 2352.196,
+   "end": 2360.816,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.81,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.166
+  },
+  {
+   "start": 2360.836,
+   "end": 2361.756,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.373,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.181
+  },
+  {
+   "start": 2362.076,
+   "end": 2366.476,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.781,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.31
+  },
+  {
+   "start": 2366.616,
+   "end": 2367.836,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.601,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.214
+  },
+  {
+   "start": 2368.396,
+   "end": 2369.556,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.685,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.268
+  },
+  {
+   "start": 2370.276,
+   "end": 2370.436,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2370.556,
+   "end": 2371.036,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 2372.136,
+   "end": 2372.296,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2372.296,
+   "end": 2373.456,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.267,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.405
+  },
+  {
+   "start": 2373.596,
+   "end": 2373.936,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2374.436,
+   "end": 2374.856,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2375.296,
+   "end": 2375.336,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 2375.356,
+   "end": 2376.956,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.59,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.255
+  },
+  {
+   "start": 2377.096,
+   "end": 2380.756,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.781,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.3
+  },
+  {
+   "start": 2380.856,
+   "end": 2380.856,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2380.856,
+   "end": 2381.296,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 2381.796,
+   "end": 2382.296,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 2382.316,
+   "end": 2382.356,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2382.376,
+   "end": 2389.916,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.86,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.236
+  },
+  {
+   "start": 2390.476,
+   "end": 2397.276,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.87,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.212
+  },
+  {
+   "start": 2397.636,
+   "end": 2401.036,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.69,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.131
+  },
+  {
+   "start": 2401.236,
+   "end": 2404.396,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.689,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.124
+  },
+  {
+   "start": 2405.436,
+   "end": 2405.696,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2406.416,
+   "end": 2415.236,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.81,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.286
+  },
+  {
+   "start": 2415.576,
+   "end": 2420.696,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.785,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.216
+  },
+  {
+   "start": 2421.296,
+   "end": 2426.656,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.851,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.25
+  },
+  {
+   "start": 2426.976,
+   "end": 2431.556,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.779,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.158
+  },
+  {
+   "start": 2432.436,
+   "end": 2432.616,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 2432.655,
+   "end": 2433.095,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2433.095,
+   "end": 2439.316,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.805,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.389
+  },
+  {
+   "start": 2439.356,
+   "end": 2439.416,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2439.416,
+   "end": 2443.436,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.809,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.362
+  },
+  {
+   "start": 2443.936,
+   "end": 2448.096,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.836,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.331
+  },
+  {
+   "start": 2448.716,
+   "end": 2450.756,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.745,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.219
+  },
+  {
+   "start": 2450.836,
+   "end": 2453.856,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.853,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.233
+  },
+  {
+   "start": 2453.996,
+   "end": 2457.096,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.722,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.269
+  },
+  {
+   "start": 2457.496,
+   "end": 2461.076,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.79,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.186
+  },
+  {
+   "start": 2461.656,
+   "end": 2461.756,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 2461.776,
+   "end": 2461.836,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2461.836,
+   "end": 2465.276,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.693,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.195
+  },
+  {
+   "start": 2465.376,
+   "end": 2467.956,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.663,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.147
+  },
+  {
+   "start": 2468.036,
+   "end": 2469.756,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.509,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.212
+  },
+  {
+   "start": 2470.576,
+   "end": 2472.456,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.717,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.111
+  },
+  {
+   "start": 2472.996,
+   "end": 2475.216,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.706,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.293
+  },
+  {
+   "start": 2475.296,
+   "end": 2478.396,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.742,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.154
+  },
+  {
+   "start": 2478.436,
+   "end": 2486.016,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.877,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.208
+  },
+  {
+   "start": 2486.576,
+   "end": 2487.236,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 2487.236,
+   "end": 2487.376,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2487.396,
+   "end": 2489.696,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.629,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.306
+  },
+  {
+   "start": 2490.216,
+   "end": 2492.916,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.786,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.242
+  },
+  {
+   "start": 2493.316,
+   "end": 2501.636,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.892,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.204
+  },
+  {
+   "start": 2502.336,
+   "end": 2505.016,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.661,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.174
+  },
+  {
+   "start": 2505.076,
+   "end": 2506.836,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.671,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.058
+  },
+  {
+   "start": 2506.936,
+   "end": 2510.636,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.756,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.122
+  },
+  {
+   "start": 2511.216,
+   "end": 2514.196,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.715,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.21
+  },
+  {
+   "start": 2515.116,
+   "end": 2518.416,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.817,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.271
+  },
+  {
+   "start": 2518.936,
+   "end": 2520.956,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.561,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.211
+  },
+  {
+   "start": 2521.596,
+   "end": 2525.016,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.651,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.183
+  },
+  {
+   "start": 2525.68,
+   "end": 2526.36,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 2526.9,
+   "end": 2534.26,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.804,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.163
+  },
+  {
+   "start": 2534.74,
+   "end": 2538.84,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.793,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.155
+  },
+  {
+   "start": 2539.48,
+   "end": 2550.88,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.812,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.193
+  },
+  {
+   "start": 2550.92,
+   "end": 2555.28,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.743,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.169
+  },
+  {
+   "start": 2555.86,
+   "end": 2556.8,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.484,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.068
+  },
+  {
+   "start": 2557.58,
+   "end": 2564.92,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.791,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.238
+  },
+  {
+   "start": 2565.48,
+   "end": 2567.44,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.598,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.18
+  },
+  {
+   "start": 2567.56,
+   "end": 2571.98,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.799,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.285
+  },
+  {
+   "start": 2572.04,
+   "end": 2573.48,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.439,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.125
+  },
+  {
+   "start": 2574.0,
+   "end": 2581.72,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.855,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.193
+  },
+  {
+   "start": 2581.78,
+   "end": 2591.28,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.882,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.228
+  },
+  {
+   "start": 2591.36,
+   "end": 2593.04,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.649,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.161
+  },
+  {
+   "start": 2593.62,
+   "end": 2594.6,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.405,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.073
+  },
+  {
+   "start": 2595.92,
+   "end": 2602.48,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.811,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.233
+  },
+  {
+   "start": 2602.52,
+   "end": 2603.08,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 2603.1,
+   "end": 2609.86,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.791,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.177
+  },
+  {
+   "start": 2610.7,
+   "end": 2612.64,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.683,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.147
+  },
+  {
+   "start": 2613.52,
+   "end": 2613.52,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 2613.6,
+   "end": 2615.46,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.676,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.158
+  },
+  {
+   "start": 2615.62,
+   "end": 2617.7,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.62,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.236
+  },
+  {
+   "start": 2618.1,
+   "end": 2618.2,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 2618.24,
+   "end": 2618.52,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2618.58,
+   "end": 2618.88,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 2620.5,
+   "end": 2623.66,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.658,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.291
+  },
+  {
+   "start": 2624.26,
+   "end": 2630.62,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.851,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.318
+  },
+  {
+   "start": 2631.12,
+   "end": 2631.28,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 2632.08,
+   "end": 2635.98,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.771,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.234
+  },
+  {
+   "start": 2636.12,
+   "end": 2638.94,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.808,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.24
+  },
+  {
+   "start": 2639.0,
+   "end": 2642.0,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.79,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.225
+  },
+  {
+   "start": 2642.6,
+   "end": 2644.44,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.633,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.1
+  },
+  {
+   "start": 2645.08,
+   "end": 2649.34,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.753,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.202
+  },
+  {
+   "start": 2649.76,
+   "end": 2653.519,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.791,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.307
+  },
+  {
+   "start": 2654.04,
+   "end": 2658.14,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.806,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.183
+  },
+  {
+   "start": 2658.64,
+   "end": 2660.2,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.578,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.184
+  },
+  {
+   "start": 2660.24,
+   "end": 2662.86,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.626,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.168
+  },
+  {
+   "start": 2662.92,
+   "end": 2666.38,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.763,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.292
+  },
+  {
+   "start": 2667.06,
+   "end": 2670.64,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.654,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.145
+  },
+  {
+   "start": 2670.88,
+   "end": 2678.38,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.863,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.308
+  },
+  {
+   "start": 2678.72,
+   "end": 2681.06,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.67,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.219
+  },
+  {
+   "start": 2681.1,
+   "end": 2681.38,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2681.54,
+   "end": 2683.02,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.606,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.272
+  },
+  {
+   "start": 2683.22,
+   "end": 2683.22,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2683.22,
+   "end": 2692.02,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.868,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.298
+  },
+  {
+   "start": 2694.46,
+   "end": 2695.3,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.305,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.31
+  },
+  {
+   "start": 2696.44,
+   "end": 2697.4,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.097,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.027,
+   "low": 1
+  },
+  {
+   "start": 2697.5,
+   "end": 2697.54,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 2697.54,
+   "end": 2698.2,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2700.96,
+   "end": 2707.66,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.802,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.222
+  },
+  {
+   "start": 2708.76,
+   "end": 2711.44,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.712,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.197
+  },
+  {
+   "start": 2711.92,
+   "end": 2714.32,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.783,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.273
+  },
+  {
+   "start": 2714.42,
+   "end": 2726.62,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.814,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.227
+  },
+  {
+   "start": 2726.64,
+   "end": 2726.8,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 2726.8,
+   "end": 2727.2,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2727.78,
+   "end": 2727.9,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 2728.16,
+   "end": 2728.8,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2728.8,
+   "end": 2733.84,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.81,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.356
+  },
+  {
+   "start": 2734.14,
+   "end": 2743.92,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.878,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.292
+  },
+  {
+   "start": 2744.06,
+   "end": 2744.3,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2744.34,
+   "end": 2746.84,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.651,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.246
+  },
+  {
+   "start": 2747.12,
+   "end": 2747.12,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2747.12,
+   "end": 2750.52,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.577,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.353
+  },
+  {
+   "start": 2752.76,
+   "end": 2752.88,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2753.06,
+   "end": 2753.46,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 2753.48,
+   "end": 2754.88,
+   "label": "speaker_1",
+   "name": "Charles Caskey",
+   "sim": 0.383,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.034,
+   "how": "voice"
+  },
+  {
+   "start": 2755.0,
+   "end": 2758.26,
+   "label": "speaker_1",
+   "name": "Charles Caskey",
+   "sim": 0.564,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.135,
+   "how": "voice"
+  },
+  {
+   "start": 2758.38,
+   "end": 2758.46,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 2758.48,
+   "end": 2758.96,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2759.12,
+   "end": 2759.88,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 2760.8,
+   "end": 2764.72,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.77,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.262
+  },
+  {
+   "start": 2764.98,
+   "end": 2765.14,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 2767.06,
+   "end": 2767.22,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 2767.24,
+   "end": 2768.98,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.554,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.065
+  },
+  {
+   "start": 2770.1,
+   "end": 2770.38,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2770.44,
+   "end": 2776.78,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.785,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.189
+  },
+  {
+   "start": 2777.3,
+   "end": 2784.86,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.785,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.188
+  },
+  {
+   "start": 2785.52,
+   "end": 2789.02,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.759,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.245
+  },
+  {
+   "start": 2789.54,
+   "end": 2794.06,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.758,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.261
+  },
+  {
+   "start": 2795.08,
+   "end": 2801.88,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.771,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.274
+  },
+  {
+   "start": 2802.46,
+   "end": 2804.88,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.63,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.166
+  },
+  {
+   "start": 2804.98,
+   "end": 2814.4,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.782,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.225
+  },
+  {
+   "start": 2814.5,
+   "end": 2817.16,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.705,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.316
+  },
+  {
+   "start": 2817.72,
+   "end": 2825.58,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.798,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.314
+  },
+  {
+   "start": 2826.24,
+   "end": 2837.54,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.813,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.253
+  },
+  {
+   "start": 2837.58,
+   "end": 2842.7,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.802,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.244
+  },
+  {
+   "start": 2843.4,
+   "end": 2845.24,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.519,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.21
+  },
+  {
+   "start": 2845.28,
+   "end": 2848.12,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.656,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.261
+  },
+  {
+   "start": 2848.2,
+   "end": 2853.7,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.763,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.219
+  },
+  {
+   "start": 2853.84,
+   "end": 2866.2,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.832,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.328
+  },
+  {
+   "start": 2866.74,
+   "end": 2868.2,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.42,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.175
+  },
+  {
+   "start": 2868.58,
+   "end": 2874.68,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.821,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.44
+  },
+  {
+   "start": 2874.7,
+   "end": 2874.7,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2874.72,
+   "end": 2874.84,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2874.86,
+   "end": 2876.0,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.275,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.086
+  },
+  {
+   "start": 2876.04,
+   "end": 2876.32,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2876.34,
+   "end": 2880.08,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.802,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.329
+  },
+  {
+   "start": 2880.36,
+   "end": 2884.4,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.706,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.267
+  },
+  {
+   "start": 2884.42,
+   "end": 2884.44,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2884.44,
+   "end": 2888.92,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.726,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.282
+  },
+  {
+   "start": 2889.08,
+   "end": 2889.62,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2889.78,
+   "end": 2890.12,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 2890.944,
+   "end": 2893.244,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.576,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.154
+  },
+  {
+   "start": 2893.264,
+   "end": 2893.284,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2893.284,
+   "end": 2894.884,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.394,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.144
+  },
+  {
+   "start": 2894.924,
+   "end": 2895.604,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2895.624,
+   "end": 2896.044,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2896.124,
+   "end": 2897.284,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.385,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.129
+  },
+  {
+   "start": 2897.464,
+   "end": 2897.704,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2897.704,
+   "end": 2900.504,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.494,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.159
+  },
+  {
+   "start": 2901.104,
+   "end": 2901.344,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2902.064,
+   "end": 2904.504,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.057,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.219,
+   "low": 1
+  },
+  {
+   "start": 2905.444,
+   "end": 2906.864,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.454,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.133
+  },
+  {
+   "start": 2907.524,
+   "end": 2910.544,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.752,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.217
+  },
+  {
+   "start": 2910.624,
+   "end": 2911.724,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.419,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.148
+  },
+  {
+   "start": 2911.764,
+   "end": 2911.824,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2911.824,
+   "end": 2912.384,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2913.184,
+   "end": 2913.604,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 2914.364,
+   "end": 2918.024,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.766,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.211
+  },
+  {
+   "start": 2918.984,
+   "end": 2919.484,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2919.524,
+   "end": 2919.564,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2919.564,
+   "end": 2921.204,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.649,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.162
+  },
+  {
+   "start": 2922.364,
+   "end": 2925.824,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.821,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.197
+  },
+  {
+   "start": 2926.004,
+   "end": 2928.524,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.768,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.196
+  },
+  {
+   "start": 2929.064,
+   "end": 2938.984,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.831,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.186
+  },
+  {
+   "start": 2939.364,
+   "end": 2944.124,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.68,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.277
+  },
+  {
+   "start": 2944.164,
+   "end": 2948.324,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.66,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.197
+  },
+  {
+   "start": 2949.004,
+   "end": 2950.244,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.489,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.155
+  },
+  {
+   "start": 2950.764,
+   "end": 2952.584,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.473,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.194
+  },
+  {
+   "start": 2953.264,
+   "end": 2962.124,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.755,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.244
+  },
+  {
+   "start": 2962.604,
+   "end": 2962.604,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2962.664,
+   "end": 2963.724,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.41,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.267
+  },
+  {
+   "start": 2963.724,
+   "end": 2964.824,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.354,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.036
+  },
+  {
+   "start": 2965.704,
+   "end": 2970.964,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.721,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.253
+  },
+  {
+   "start": 2971.664,
+   "end": 2975.304,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.662,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.297
+  },
+  {
+   "start": 2975.444,
+   "end": 2980.264,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.741,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.403
+  },
+  {
+   "start": 2980.284,
+   "end": 2980.484,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2980.544,
+   "end": 2981.384,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.181,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.207,
+   "low": 1
+  },
+  {
+   "start": 2981.464,
+   "end": 2983.764,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.624,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.246
+  },
+  {
+   "start": 2984.024,
+   "end": 2984.424,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2984.484,
+   "end": 2985.524,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.507,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.072
+  },
+  {
+   "start": 2985.764,
+   "end": 2988.164,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.776,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.192
+  },
+  {
+   "start": 2988.584,
+   "end": 2990.464,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.709,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.157
+  },
+  {
+   "start": 2991.264,
+   "end": 2995.164,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.751,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.206
+  },
+  {
+   "start": 2995.304,
+   "end": 2996.304,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.622,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.206
+  },
+  {
+   "start": 2997.104,
+   "end": 2997.864,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2998.104,
+   "end": 2999.064,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.239,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.174,
+   "low": 1
+  },
+  {
+   "start": 2999.324,
+   "end": 2999.484,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2999.484,
+   "end": 3001.364,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.597,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.247
+  },
+  {
+   "start": 3001.984,
+   "end": 3008.044,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.805,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.207
+  },
+  {
+   "start": 3008.544,
+   "end": 3009.664,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.596,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.275
+  },
+  {
+   "start": 3010.184,
+   "end": 3014.724,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.67,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.298
+  },
+  {
+   "start": 3015.364,
+   "end": 3019.403,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.781,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.235
+  },
+  {
+   "start": 3019.484,
+   "end": 3022.384,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.679,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.192
+  },
+  {
+   "start": 3023.864,
+   "end": 3026.244,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.773,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.207
+  },
+  {
+   "start": 3026.384,
+   "end": 3027.424,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.207,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.188,
+   "low": 1
+  },
+  {
+   "start": 3027.424,
+   "end": 3027.524,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 3027.544,
+   "end": 3031.824,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.81,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.302
+  },
+  {
+   "start": 3032.344,
+   "end": 3032.524,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 3033.104,
+   "end": 3033.104,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 3033.104,
+   "end": 3036.784,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.821,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.143
+  },
+  {
+   "start": 3036.844,
+   "end": 3044.724,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.859,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.288
+  },
+  {
+   "start": 3045.304,
+   "end": 3045.404,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 3045.704,
+   "end": 3045.704,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 3045.704,
+   "end": 3048.744,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.686,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.287
+  },
+  {
+   "start": 3048.804,
+   "end": 3054.624,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.815,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.271
+  },
+  {
+   "start": 3055.184,
+   "end": 3059.704,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.768,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.237
+  },
+  {
+   "start": 3060.164,
+   "end": 3063.144,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.762,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.146
+  },
+  {
+   "start": 3064.264,
+   "end": 3064.444,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 3065.044,
+   "end": 3068.504,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.755,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.216
+  },
+  {
+   "start": 3069.104,
+   "end": 3074.444,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.838,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.258
+  },
+  {
+   "start": 3074.624,
+   "end": 3076.104,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.662,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.256
+  },
+  {
+   "start": 3076.464,
+   "end": 3078.224,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.657,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.241
+  },
+  {
+   "start": 3078.744,
+   "end": 3079.124,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 3081.664,
+   "end": 3084.064,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.785,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.239
+  },
+  {
+   "start": 3084.684,
+   "end": 3086.304,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.613,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.318
+  },
+  {
+   "start": 3086.984,
+   "end": 3087.664,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 3088.164,
+   "end": 3093.564,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.761,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.191
+  },
+  {
+   "start": 3093.624,
+   "end": 3101.124,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.767,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.194
+  },
+  {
+   "start": 3101.784,
+   "end": 3104.384,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.752,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.264
+  },
+  {
+   "start": 3105.044,
+   "end": 3108.824,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.785,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.281
+  },
+  {
+   "start": 3109.184,
+   "end": 3118.424,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.918,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.276
+  },
+  {
+   "start": 3118.484,
+   "end": 3122.164,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.812,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.257
+  },
+  {
+   "start": 3122.204,
+   "end": 3130.144,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.854,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.31
+  },
+  {
+   "start": 3130.204,
+   "end": 3135.404,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.827,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.237
+  },
+  {
+   "start": 3135.884,
+   "end": 3137.224,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.612,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.308
+  },
+  {
+   "start": 3137.924,
+   "end": 3142.124,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.783,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.272
+  },
+  {
+   "start": 3142.204,
+   "end": 3147.124,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.851,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.357
+  },
+  {
+   "start": 3148.804,
+   "end": 3149.163,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 3150.723,
+   "end": 3155.564,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.757,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.23
+  },
+  {
+   "start": 3156.844,
+   "end": 3157.864,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.356,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.147
+  },
+  {
+   "start": 3157.884,
+   "end": 3159.104,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.333,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.153
+  },
+  {
+   "start": 3159.164,
+   "end": 3159.164,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 3159.164,
+   "end": 3162.244,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.67,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.19
+  },
+  {
+   "start": 3162.604,
+   "end": 3164.864,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.472,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.148
+  },
+  {
+   "start": 3164.904,
+   "end": 3164.944,
+   "label": "speaker_2",
+   "name": "Brad Treeby"
+  },
+  {
+   "start": 3164.944,
+   "end": 3165.964,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.191,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.214,
+   "low": 1
+  },
+  {
+   "start": 3166.884,
+   "end": 3166.904,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 3167.444,
+   "end": 3169.464,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.573,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.152
+  },
+  {
+   "start": 3169.464,
+   "end": 3170.864,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.42,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.304
+  },
+  {
+   "start": 3171.044,
+   "end": 3176.604,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.754,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.175
+  },
+  {
+   "start": 3177.284,
+   "end": 3181.184,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.682,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.194
+  },
+  {
+   "start": 3182.304,
+   "end": 3192.304,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.846,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.371
+  },
+  {
+   "start": 3193.444,
+   "end": 3197.864,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.635,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.149
+  },
+  {
+   "start": 3198.524,
+   "end": 3203.884,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.819,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.208
+  },
+  {
+   "start": 3204.484,
+   "end": 3206.524,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.692,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.231
+  },
+  {
+   "start": 3206.684,
+   "end": 3206.744,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 3207.384,
+   "end": 3207.484,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 3207.484,
+   "end": 3208.544,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.412,
+   "alt": "Brad Treeby",
+   "alt_sim": 0.183
+  },
+  {
+   "start": 3208.584,
+   "end": 3211.164,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.685,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.322
+  },
+  {
+   "start": 3211.544,
+   "end": 3216.564,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.67,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.244
+  },
+  {
+   "start": 3217.084,
+   "end": 3217.944,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.457,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.049
+  },
+  {
+   "start": 3218.564,
+   "end": 3222.424,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.775,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.19
+  },
+  {
+   "start": 3222.944,
+   "end": 3232.984,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.846,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.27
+  },
+  {
+   "start": 3233.024,
+   "end": 3234.684,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.555,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.071
+  },
+  {
+   "start": 3235.084,
+   "end": 3238.224,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.703,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.204
+  },
+  {
+   "start": 3238.284,
+   "end": 3241.844,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.627,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.204
+  },
+  {
+   "start": 3242.264,
+   "end": 3250.184,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.842,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.184
+  },
+  {
+   "start": 3250.544,
+   "end": 3253.404,
+   "label": "speaker_2",
+   "name": "Brad Treeby",
+   "sim": 0.714,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.245
+  }
+ ]
+}

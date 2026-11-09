@@ -1,0 +1,7605 @@
+{
+ "raw": "17",
+ "label_names": {
+  "speaker_0": "Charles Caskey",
+  "speaker_1": "Keith Murphy",
+  "speaker_2": "Miriam Klein-Flügge"
+ },
+ "label_similarity": {
+  "speaker_0": {
+   "Charles Caskey": 0.9014241695404053,
+   "Intro narrator": 0.08956891298294067,
+   "Keith Murphy": 0.20963254570960999
+  },
+  "speaker_1": {
+   "Charles Caskey": 0.28437042236328125,
+   "Intro narrator": 0.09773029386997223,
+   "Keith Murphy": 0.8863533735275269
+  },
+  "speaker_2": {
+   "Charles Caskey": 0.05049988254904747,
+   "Intro narrator": -0.05813997611403465,
+   "Keith Murphy": 0.10097181051969528
+  }
+ },
+ "turns_moved": {
+  "Keith Murphy -> Intro narrator": 2,
+  "Keith Murphy -> Charles Caskey": 4,
+  "Miriam Klein-Flügge -> Charles Caskey": 1
+ },
+ "talk_min": {
+  "Miriam Klein-Flügge": 24.0,
+  "Keith Murphy": 11.3,
+  "Charles Caskey": 7.4,
+  "Intro narrator": 0.2
+ },
+ "low_turns": 13,
+ "turns": [
+  {
+   "start": 0.3,
+   "end": 5.28,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.707,
+   "alt": "Intro narrator",
+   "alt_sim": 0.058
+  },
+  {
+   "start": 5.84,
+   "end": 8.3,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.486,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.112
+  },
+  {
+   "start": 9.78,
+   "end": 10.76,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.161,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.183,
+   "low": 1
+  },
+  {
+   "start": 13.12,
+   "end": 16.44,
+   "label": "speaker_1",
+   "name": "Intro narrator",
+   "sim": 0.709,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.073,
+   "how": "voice"
+  },
+  {
+   "start": 16.58,
+   "end": 22.48,
+   "label": "speaker_1",
+   "name": "Intro narrator",
+   "sim": 0.905,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.076,
+   "how": "voice"
+  },
+  {
+   "start": 22.88,
+   "end": 25.78,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.547,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.179,
+   "how": "voice (sentence)"
+  },
+  {
+   "start": 25.96,
+   "end": 25.98,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge"
+  },
+  {
+   "start": 26.02,
+   "end": 26.5,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 26.56,
+   "end": 32.7,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.69,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.095
+  },
+  {
+   "start": 33.78,
+   "end": 35.38,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.526,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.071
+  },
+  {
+   "start": 35.4,
+   "end": 38.0,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.665,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.103
+  },
+  {
+   "start": 38.14,
+   "end": 42.3,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.743,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.109
+  },
+  {
+   "start": 42.7,
+   "end": 43.96,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.101,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.231,
+   "low": 1
+  },
+  {
+   "start": 44.0,
+   "end": 49.48,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.766,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.048
+  },
+  {
+   "start": 50.14,
+   "end": 54.16,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.757,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.149
+  },
+  {
+   "start": 54.6,
+   "end": 60.5,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.783,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.157
+  },
+  {
+   "start": 60.98,
+   "end": 63.04,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.508,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.057
+  },
+  {
+   "start": 63.9,
+   "end": 65.98,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.474,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.082
+  },
+  {
+   "start": 66.2,
+   "end": 70.7,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.693,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.123
+  },
+  {
+   "start": 71.3,
+   "end": 76.34,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.682,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.092
+  },
+  {
+   "start": 78.52,
+   "end": 78.7,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 78.82,
+   "end": 86.68,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.76,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.101
+  },
+  {
+   "start": 86.9,
+   "end": 89.86,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.54,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.203
+  },
+  {
+   "start": 89.88,
+   "end": 90.18,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 90.7,
+   "end": 93.96,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.796,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.142
+  },
+  {
+   "start": 94.12,
+   "end": 100.56,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.718,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.108
+  },
+  {
+   "start": 101.24,
+   "end": 105.96,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.783,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.186
+  },
+  {
+   "start": 107.02,
+   "end": 111.16,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.755,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.133
+  },
+  {
+   "start": 111.24,
+   "end": 111.28,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 111.3,
+   "end": 111.92,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 114.34,
+   "end": 114.68,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 114.8,
+   "end": 114.88,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge"
+  },
+  {
+   "start": 114.94,
+   "end": 117.36,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.733,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.335
+  },
+  {
+   "start": 118.48,
+   "end": 126.34,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.781,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.2
+  },
+  {
+   "start": 126.9,
+   "end": 126.98,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge"
+  },
+  {
+   "start": 127.04,
+   "end": 130.08,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.694,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.221
+  },
+  {
+   "start": 130.72,
+   "end": 135.48,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.821,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.233
+  },
+  {
+   "start": 136.08,
+   "end": 140.3,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.742,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.166
+  },
+  {
+   "start": 140.86,
+   "end": 145.26,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.734,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.177
+  },
+  {
+   "start": 145.8,
+   "end": 150.04,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.716,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.182
+  },
+  {
+   "start": 150.72,
+   "end": 156.46,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.77,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.29
+  },
+  {
+   "start": 157.2,
+   "end": 157.96,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 157.96,
+   "end": 158.08,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge"
+  },
+  {
+   "start": 158.08,
+   "end": 158.98,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.455,
+   "alt": "Miriam Klein-Flügge",
+   "alt_sim": 0.133
+  },
+  {
+   "start": 159.92,
+   "end": 164.56,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.833,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.097
+  },
+  {
+   "start": 164.6,
+   "end": 166.22,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.749,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.094
+  },
+  {
+   "start": 166.8,
+   "end": 179.9,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.919,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.109
+  },
+  {
+   "start": 180.5,
+   "end": 185.42,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.875,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.048
+  },
+  {
+   "start": 186.26,
+   "end": 193.22,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.8,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.284
+  },
+  {
+   "start": 193.8,
+   "end": 197.46,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.669,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.283
+  },
+  {
+   "start": 197.62,
+   "end": 202.2,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.743,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.179
+  },
+  {
+   "start": 202.74,
+   "end": 208.08,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.743,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.281
+  },
+  {
+   "start": 208.1,
+   "end": 209.24,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.264,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.137
+  },
+  {
+   "start": 209.9,
+   "end": 209.9,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 209.94,
+   "end": 210.12,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 210.12,
+   "end": 211.6,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.593,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.165
+  },
+  {
+   "start": 211.68,
+   "end": 211.82,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 211.82,
+   "end": 213.12,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.431,
+   "alt": "Miriam Klein-Flügge",
+   "alt_sim": 0.093
+  },
+  {
+   "start": 213.64,
+   "end": 214.92,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.515,
+   "alt": "Miriam Klein-Flügge",
+   "alt_sim": 0.177
+  },
+  {
+   "start": 214.92,
+   "end": 216.92,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.695,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.134
+  },
+  {
+   "start": 217.12,
+   "end": 217.26,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 217.88,
+   "end": 225.54,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.757,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.171
+  },
+  {
+   "start": 225.62,
+   "end": 228.08,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.633,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.101
+  },
+  {
+   "start": 228.26,
+   "end": 228.9,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 230.0,
+   "end": 230.34,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 231.36,
+   "end": 233.62,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.584,
+   "alt": "Miriam Klein-Flügge",
+   "alt_sim": 0.115
+  },
+  {
+   "start": 233.66,
+   "end": 236.4,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.822,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.096
+  },
+  {
+   "start": 236.6,
+   "end": 238.06,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.671,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.167
+  },
+  {
+   "start": 238.58,
+   "end": 241.28,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.733,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.09
+  },
+  {
+   "start": 241.68,
+   "end": 242.7,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.521,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.155
+  },
+  {
+   "start": 242.86,
+   "end": 242.86,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 242.86,
+   "end": 243.2,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge"
+  },
+  {
+   "start": 243.52,
+   "end": 243.56,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 243.64,
+   "end": 243.94,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge"
+  },
+  {
+   "start": 243.94,
+   "end": 245.48,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.602,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.172
+  },
+  {
+   "start": 246.24,
+   "end": 246.24,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge"
+  },
+  {
+   "start": 246.28,
+   "end": 247.26,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.35,
+   "alt": "Miriam Klein-Flügge",
+   "alt_sim": 0.108
+  },
+  {
+   "start": 249.16,
+   "end": 252.02,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.483,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.154
+  },
+  {
+   "start": 252.16,
+   "end": 261.04,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.884,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.077
+  },
+  {
+   "start": 261.5,
+   "end": 267.92,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.874,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.083
+  },
+  {
+   "start": 268.58,
+   "end": 269.42,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.525,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.136
+  },
+  {
+   "start": 270.58,
+   "end": 271.94,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.58,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.189
+  },
+  {
+   "start": 272.06,
+   "end": 283.48,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.772,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.202
+  },
+  {
+   "start": 284.16,
+   "end": 286.68,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.624,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.24
+  },
+  {
+   "start": 287.28,
+   "end": 287.68,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 287.7,
+   "end": 287.74,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge"
+  },
+  {
+   "start": 287.76,
+   "end": 288.58,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.246,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.188,
+   "low": 1
+  },
+  {
+   "start": 289.3,
+   "end": 289.4,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 289.4,
+   "end": 293.08,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.691,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.065
+  },
+  {
+   "start": 293.08,
+   "end": 293.7,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 294.1,
+   "end": 294.68,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge"
+  },
+  {
+   "start": 294.76,
+   "end": 294.9,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 294.9,
+   "end": 296.8,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.674,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.029
+  },
+  {
+   "start": 297.36,
+   "end": 300.9,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.815,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.138
+  },
+  {
+   "start": 300.98,
+   "end": 302.72,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.655,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.116
+  },
+  {
+   "start": 303.24,
+   "end": 308.76,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.899,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.129
+  },
+  {
+   "start": 309.26,
+   "end": 311.46,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.776,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.165
+  },
+  {
+   "start": 311.54,
+   "end": 311.56,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 311.56,
+   "end": 313.0,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.556,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.054
+  },
+  {
+   "start": 313.34,
+   "end": 317.68,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.804,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.116
+  },
+  {
+   "start": 318.24,
+   "end": 322.42,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.784,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.084
+  },
+  {
+   "start": 322.52,
+   "end": 329.9,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.904,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.066
+  },
+  {
+   "start": 330.26,
+   "end": 331.94,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.738,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.121
+  },
+  {
+   "start": 332.04,
+   "end": 334.92,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.718,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.125
+  },
+  {
+   "start": 335.68,
+   "end": 337.0,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.399,
+   "alt": "Miriam Klein-Flügge",
+   "alt_sim": 0.142
+  },
+  {
+   "start": 337.04,
+   "end": 337.56,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge"
+  },
+  {
+   "start": 337.56,
+   "end": 340.46,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.748,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.197
+  },
+  {
+   "start": 340.98,
+   "end": 344.78,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.789,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.201
+  },
+  {
+   "start": 345.46,
+   "end": 346.5,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.576,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.15
+  },
+  {
+   "start": 346.62,
+   "end": 350.46,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.814,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.056
+  },
+  {
+   "start": 350.98,
+   "end": 351.1,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge"
+  },
+  {
+   "start": 351.92,
+   "end": 353.86,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.63,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.15
+  },
+  {
+   "start": 354.68,
+   "end": 355.22,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge"
+  },
+  {
+   "start": 355.24,
+   "end": 359.84,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.73,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.309
+  },
+  {
+   "start": 360.14,
+   "end": 362.02,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.784,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.097
+  },
+  {
+   "start": 362.48,
+   "end": 369.96,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.871,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.11
+  },
+  {
+   "start": 370.02,
+   "end": 371.94,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.629,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.09
+  },
+  {
+   "start": 372.66,
+   "end": 376.2,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.825,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.12
+  },
+  {
+   "start": 376.724,
+   "end": 379.804,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.834,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.101
+  },
+  {
+   "start": 379.944,
+   "end": 383.084,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.825,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.068
+  },
+  {
+   "start": 383.484,
+   "end": 385.424,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.815,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.134
+  },
+  {
+   "start": 385.964,
+   "end": 388.244,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.76,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.08
+  },
+  {
+   "start": 388.424,
+   "end": 390.924,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.679,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.143
+  },
+  {
+   "start": 392.464,
+   "end": 393.804,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.516,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.077
+  },
+  {
+   "start": 394.224,
+   "end": 395.604,
+   "label": "speaker_1",
+   "name": "Charles Caskey",
+   "sim": 0.645,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.136,
+   "how": "voice"
+  },
+  {
+   "start": 395.684,
+   "end": 405.004,
+   "label": "speaker_1",
+   "name": "Charles Caskey",
+   "sim": 0.782,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.147,
+   "how": "voice"
+  },
+  {
+   "start": 405.084,
+   "end": 408.524,
+   "label": "speaker_1",
+   "name": "Charles Caskey",
+   "sim": 0.776,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.238,
+   "how": "voice"
+  },
+  {
+   "start": 409.264,
+   "end": 409.324,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge"
+  },
+  {
+   "start": 409.424,
+   "end": 411.444,
+   "label": "speaker_1",
+   "name": "Charles Caskey",
+   "sim": 0.484,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.157,
+   "how": "voice"
+  },
+  {
+   "start": 412.684,
+   "end": 415.164,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.716,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.266
+  },
+  {
+   "start": 415.484,
+   "end": 420.564,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.725,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.224
+  },
+  {
+   "start": 421.124,
+   "end": 424.004,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.692,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.187
+  },
+  {
+   "start": 424.844,
+   "end": 427.284,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.66,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.191
+  },
+  {
+   "start": 428.164,
+   "end": 428.384,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 429.304,
+   "end": 436.704,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.792,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.302
+  },
+  {
+   "start": 437.804,
+   "end": 438.664,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.218,
+   "alt": "Charles Caskey",
+   "alt_sim": -0.022,
+   "low": 1
+  },
+  {
+   "start": 439.604,
+   "end": 442.704,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.685,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.262
+  },
+  {
+   "start": 442.744,
+   "end": 447.304,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.764,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.297
+  },
+  {
+   "start": 447.904,
+   "end": 454.524,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.835,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.245
+  },
+  {
+   "start": 455.084,
+   "end": 457.184,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.702,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.133
+  },
+  {
+   "start": 458.124,
+   "end": 458.344,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 458.364,
+   "end": 458.824,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge"
+  },
+  {
+   "start": 459.084,
+   "end": 462.884,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.794,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.192
+  },
+  {
+   "start": 463.024,
+   "end": 465.044,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.694,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.038
+  },
+  {
+   "start": 465.124,
+   "end": 480.364,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.887,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.088
+  },
+  {
+   "start": 480.744,
+   "end": 484.884,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.799,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.098
+  },
+  {
+   "start": 485.404,
+   "end": 489.164,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.867,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.098
+  },
+  {
+   "start": 489.224,
+   "end": 494.944,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.877,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.11
+  },
+  {
+   "start": 495.504,
+   "end": 497.784,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.773,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.098
+  },
+  {
+   "start": 498.024,
+   "end": 501.564,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.771,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.112
+  },
+  {
+   "start": 502.064,
+   "end": 508.304,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.866,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.104
+  },
+  {
+   "start": 508.904,
+   "end": 513.024,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.809,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.11
+  },
+  {
+   "start": 513.524,
+   "end": 516.644,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.806,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.113
+  },
+  {
+   "start": 516.744,
+   "end": 523.184,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.84,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.061
+  },
+  {
+   "start": 523.444,
+   "end": 527.044,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.714,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.167
+  },
+  {
+   "start": 527.144,
+   "end": 527.164,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge"
+  },
+  {
+   "start": 527.804,
+   "end": 528.064,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge"
+  },
+  {
+   "start": 528.104,
+   "end": 535.284,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.799,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.234
+  },
+  {
+   "start": 535.944,
+   "end": 538.364,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.688,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.219
+  },
+  {
+   "start": 538.864,
+   "end": 540.144,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.354,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.198
+  },
+  {
+   "start": 540.664,
+   "end": 541.824,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.548,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.188
+  },
+  {
+   "start": 542.404,
+   "end": 547.824,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.734,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.228
+  },
+  {
+   "start": 548.664,
+   "end": 549.604,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.521,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.198
+  },
+  {
+   "start": 549.624,
+   "end": 554.504,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.825,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.152
+  },
+  {
+   "start": 555.124,
+   "end": 557.124,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.534,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.05
+  },
+  {
+   "start": 557.824,
+   "end": 561.364,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.8,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.076
+  },
+  {
+   "start": 561.924,
+   "end": 566.424,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.806,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.119
+  },
+  {
+   "start": 566.944,
+   "end": 573.204,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.876,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.116
+  },
+  {
+   "start": 573.744,
+   "end": 580.264,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.766,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.153
+  },
+  {
+   "start": 580.384,
+   "end": 583.664,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.765,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.089
+  },
+  {
+   "start": 584.124,
+   "end": 589.884,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.851,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.101
+  },
+  {
+   "start": 590.384,
+   "end": 598.264,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.88,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.116
+  },
+  {
+   "start": 598.324,
+   "end": 604.244,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.864,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.113
+  },
+  {
+   "start": 604.864,
+   "end": 607.784,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.811,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.061
+  },
+  {
+   "start": 607.844,
+   "end": 611.544,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.787,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.104
+  },
+  {
+   "start": 612.104,
+   "end": 613.524,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.689,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.206
+  },
+  {
+   "start": 614.344,
+   "end": 616.364,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.761,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.05
+  },
+  {
+   "start": 616.424,
+   "end": 622.784,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.873,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.105
+  },
+  {
+   "start": 623.384,
+   "end": 625.524,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.744,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.081
+  },
+  {
+   "start": 625.724,
+   "end": 630.324,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.857,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.059
+  },
+  {
+   "start": 630.564,
+   "end": 635.484,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.859,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.089
+  },
+  {
+   "start": 636.064,
+   "end": 639.444,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.826,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.107
+  },
+  {
+   "start": 640.044,
+   "end": 644.244,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.816,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.132
+  },
+  {
+   "start": 644.324,
+   "end": 647.044,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.717,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.141
+  },
+  {
+   "start": 647.484,
+   "end": 651.164,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.845,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.126
+  },
+  {
+   "start": 651.724,
+   "end": 656.564,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.894,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.169
+  },
+  {
+   "start": 657.144,
+   "end": 661.524,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.895,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.145
+  },
+  {
+   "start": 661.764,
+   "end": 666.144,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.858,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.087
+  },
+  {
+   "start": 666.644,
+   "end": 668.424,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.703,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.14
+  },
+  {
+   "start": 668.644,
+   "end": 669.944,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.488,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.193
+  },
+  {
+   "start": 672.684,
+   "end": 673.024,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 673.784,
+   "end": 680.204,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.687,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.169
+  },
+  {
+   "start": 680.784,
+   "end": 681.164,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge"
+  },
+  {
+   "start": 681.224,
+   "end": 681.384,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 681.704,
+   "end": 683.064,
+   "label": "speaker_2",
+   "name": "Charles Caskey",
+   "sim": 0.552,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.164,
+   "how": "voice"
+  },
+  {
+   "start": 683.344,
+   "end": 686.204,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.683,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.211
+  },
+  {
+   "start": 686.384,
+   "end": 686.384,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge"
+  },
+  {
+   "start": 686.404,
+   "end": 688.564,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.595,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.195
+  },
+  {
+   "start": 689.364,
+   "end": 689.904,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 690.664,
+   "end": 692.404,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.639,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.136
+  },
+  {
+   "start": 693.044,
+   "end": 693.104,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge"
+  },
+  {
+   "start": 693.204,
+   "end": 698.044,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.766,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.194
+  },
+  {
+   "start": 698.184,
+   "end": 698.204,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge"
+  },
+  {
+   "start": 698.724,
+   "end": 703.684,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.798,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.188
+  },
+  {
+   "start": 704.364,
+   "end": 707.404,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.696,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.215
+  },
+  {
+   "start": 707.624,
+   "end": 712.324,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.721,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.211
+  },
+  {
+   "start": 713.064,
+   "end": 713.564,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 713.764,
+   "end": 714.464,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge"
+  },
+  {
+   "start": 714.544,
+   "end": 714.564,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 714.564,
+   "end": 722.724,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.866,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.036
+  },
+  {
+   "start": 722.844,
+   "end": 728.884,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.894,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.065
+  },
+  {
+   "start": 728.924,
+   "end": 733.444,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.76,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.065
+  },
+  {
+   "start": 733.464,
+   "end": 733.464,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 733.864,
+   "end": 738.704,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.785,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.077
+  },
+  {
+   "start": 739.304,
+   "end": 739.344,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 739.364,
+   "end": 739.364,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge"
+  },
+  {
+   "start": 739.864,
+   "end": 741.864,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.457,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.104
+  },
+  {
+   "start": 742.084,
+   "end": 745.564,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.61,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.127
+  },
+  {
+   "start": 745.604,
+   "end": 745.684,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 745.684,
+   "end": 746.844,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.296,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.068
+  },
+  {
+   "start": 746.864,
+   "end": 749.204,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.59,
+   "alt": "Miriam Klein-Flügge",
+   "alt_sim": 0.171
+  },
+  {
+   "start": 750.224,
+   "end": 752.304,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.618,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.119
+  },
+  {
+   "start": 753.024,
+   "end": 760.424,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.908,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.084
+  },
+  {
+   "start": 760.584,
+   "end": 768.244,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.875,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.077
+  },
+  {
+   "start": 768.284,
+   "end": 768.364,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 768.364,
+   "end": 778.264,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.734,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.089
+  },
+  {
+   "start": 778.904,
+   "end": 780.904,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.609,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.114
+  },
+  {
+   "start": 781.744,
+   "end": 789.604,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.788,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.201
+  },
+  {
+   "start": 790.164,
+   "end": 801.084,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.826,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.15
+  },
+  {
+   "start": 801.604,
+   "end": 805.704,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.744,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.156
+  },
+  {
+   "start": 806.484,
+   "end": 813.424,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.803,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.241
+  },
+  {
+   "start": 813.884,
+   "end": 813.944,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge"
+  },
+  {
+   "start": 814.004,
+   "end": 814.364,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 814.924,
+   "end": 816.064,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.447,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.25
+  },
+  {
+   "start": 816.604,
+   "end": 819.924,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.694,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.153
+  },
+  {
+   "start": 820.404,
+   "end": 824.504,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.589,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.103
+  },
+  {
+   "start": 824.724,
+   "end": 826.804,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.533,
+   "alt": "Miriam Klein-Flügge",
+   "alt_sim": -0.025
+  },
+  {
+   "start": 826.844,
+   "end": 827.824,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.204,
+   "alt": "Miriam Klein-Flügge",
+   "alt_sim": 0.077,
+   "low": 1
+  },
+  {
+   "start": 827.824,
+   "end": 838.084,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.755,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.125
+  },
+  {
+   "start": 838.224,
+   "end": 839.844,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.596,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.161
+  },
+  {
+   "start": 839.904,
+   "end": 843.664,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.709,
+   "alt": "Miriam Klein-Flügge",
+   "alt_sim": 0.084
+  },
+  {
+   "start": 845.164,
+   "end": 845.244,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 846.984,
+   "end": 850.284,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.725,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.186
+  },
+  {
+   "start": 850.864,
+   "end": 852.744,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.59,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.123
+  },
+  {
+   "start": 852.764,
+   "end": 855.444,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.674,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.166
+  },
+  {
+   "start": 856.244,
+   "end": 860.964,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.8,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.191
+  },
+  {
+   "start": 861.484,
+   "end": 863.024,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.698,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.252
+  },
+  {
+   "start": 864.724,
+   "end": 866.124,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.409,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.164
+  },
+  {
+   "start": 868.444,
+   "end": 869.204,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 869.484,
+   "end": 869.504,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge"
+  },
+  {
+   "start": 870.664,
+   "end": 873.364,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.76,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.032
+  },
+  {
+   "start": 873.884,
+   "end": 875.244,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.671,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.084
+  },
+  {
+   "start": 875.364,
+   "end": 875.364,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 875.364,
+   "end": 879.844,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.765,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.14
+  },
+  {
+   "start": 879.884,
+   "end": 881.104,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.643,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.085
+  },
+  {
+   "start": 881.484,
+   "end": 887.404,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.803,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.074
+  },
+  {
+   "start": 887.424,
+   "end": 887.884,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 887.944,
+   "end": 889.344,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.524,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.141
+  },
+  {
+   "start": 889.624,
+   "end": 889.784,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 889.804,
+   "end": 894.224,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.757,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.052
+  },
+  {
+   "start": 894.284,
+   "end": 897.484,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.586,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.114
+  },
+  {
+   "start": 897.644,
+   "end": 901.444,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.627,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.059
+  },
+  {
+   "start": 901.564,
+   "end": 901.564,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 901.564,
+   "end": 904.204,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.638,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.038
+  },
+  {
+   "start": 905.764,
+   "end": 906.964,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.453,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.114
+  },
+  {
+   "start": 907.804,
+   "end": 911.244,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.624,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.183
+  },
+  {
+   "start": 912.084,
+   "end": 913.824,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.373,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.284
+  },
+  {
+   "start": 914.284,
+   "end": 914.424,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge"
+  },
+  {
+   "start": 915.664,
+   "end": 917.364,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.646,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.176
+  },
+  {
+   "start": 918.784,
+   "end": 919.124,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 921.664,
+   "end": 922.584,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.232,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.13,
+   "low": 1
+  },
+  {
+   "start": 922.604,
+   "end": 924.684,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.235,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.414,
+   "low": 1
+  },
+  {
+   "start": 926.084,
+   "end": 927.604,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.621,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.041
+  },
+  {
+   "start": 927.684,
+   "end": 931.004,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.647,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.125
+  },
+  {
+   "start": 931.124,
+   "end": 938.324,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.913,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.074
+  },
+  {
+   "start": 938.384,
+   "end": 940.184,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.765,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.104
+  },
+  {
+   "start": 940.244,
+   "end": 941.304,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.577,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.057
+  },
+  {
+   "start": 941.344,
+   "end": 943.164,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.661,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.082
+  },
+  {
+   "start": 943.684,
+   "end": 944.584,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.509,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.102
+  },
+  {
+   "start": 945.344,
+   "end": 951.824,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.807,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.21
+  },
+  {
+   "start": 952.624,
+   "end": 954.284,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.704,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.252
+  },
+  {
+   "start": 954.784,
+   "end": 958.764,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.66,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.154
+  },
+  {
+   "start": 958.764,
+   "end": 958.764,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge"
+  },
+  {
+   "start": 959.404,
+   "end": 959.404,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge"
+  },
+  {
+   "start": 959.444,
+   "end": 960.664,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.535,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.181
+  },
+  {
+   "start": 961.144,
+   "end": 962.244,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.662,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.2
+  },
+  {
+   "start": 962.404,
+   "end": 964.024,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.775,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.203
+  },
+  {
+   "start": 964.064,
+   "end": 964.164,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge"
+  },
+  {
+   "start": 964.324,
+   "end": 966.524,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.737,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.154
+  },
+  {
+   "start": 966.644,
+   "end": 968.544,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.629,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.107
+  },
+  {
+   "start": 968.604,
+   "end": 973.384,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.881,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.092
+  },
+  {
+   "start": 973.444,
+   "end": 977.744,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.823,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.098
+  },
+  {
+   "start": 978.244,
+   "end": 982.764,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.896,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.054
+  },
+  {
+   "start": 983.004,
+   "end": 986.564,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.867,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.062
+  },
+  {
+   "start": 986.984,
+   "end": 993.984,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.91,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.085
+  },
+  {
+   "start": 994.144,
+   "end": 999.084,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.851,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.125
+  },
+  {
+   "start": 999.624,
+   "end": 1002.444,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.818,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.126
+  },
+  {
+   "start": 1002.504,
+   "end": 1002.524,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1002.524,
+   "end": 1005.704,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.864,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.069
+  },
+  {
+   "start": 1006.184,
+   "end": 1008.084,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.656,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.095
+  },
+  {
+   "start": 1008.204,
+   "end": 1014.944,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.901,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.108
+  },
+  {
+   "start": 1015.344,
+   "end": 1017.184,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.727,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.157
+  },
+  {
+   "start": 1017.264,
+   "end": 1021.324,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.767,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.135
+  },
+  {
+   "start": 1021.404,
+   "end": 1028.904,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.88,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.094
+  },
+  {
+   "start": 1029.344,
+   "end": 1034.144,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.827,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.128
+  },
+  {
+   "start": 1034.204,
+   "end": 1037.064,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.764,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.043
+  },
+  {
+   "start": 1037.124,
+   "end": 1038.984,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.782,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.058
+  },
+  {
+   "start": 1039.404,
+   "end": 1048.824,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.919,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.108
+  },
+  {
+   "start": 1049.324,
+   "end": 1056.644,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.916,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.143
+  },
+  {
+   "start": 1057.204,
+   "end": 1061.984,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.872,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.139
+  },
+  {
+   "start": 1062.184,
+   "end": 1064.104,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.844,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.079
+  },
+  {
+   "start": 1064.644,
+   "end": 1066.444,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.692,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.037
+  },
+  {
+   "start": 1066.544,
+   "end": 1071.284,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.89,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.041
+  },
+  {
+   "start": 1071.804,
+   "end": 1074.364,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.761,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.108
+  },
+  {
+   "start": 1075.004,
+   "end": 1078.324,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.851,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.141
+  },
+  {
+   "start": 1078.404,
+   "end": 1081.244,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.829,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.135
+  },
+  {
+   "start": 1081.804,
+   "end": 1083.604,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.665,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.094
+  },
+  {
+   "start": 1083.604,
+   "end": 1087.824,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.792,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.25
+  },
+  {
+   "start": 1088.284,
+   "end": 1089.764,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.65,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.11
+  },
+  {
+   "start": 1089.864,
+   "end": 1092.164,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.804,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.136
+  },
+  {
+   "start": 1092.544,
+   "end": 1095.784,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.853,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.098
+  },
+  {
+   "start": 1095.824,
+   "end": 1097.344,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.726,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.153
+  },
+  {
+   "start": 1097.984,
+   "end": 1098.004,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge"
+  },
+  {
+   "start": 1098.504,
+   "end": 1100.784,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.749,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.064
+  },
+  {
+   "start": 1101.424,
+   "end": 1106.984,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.868,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.108
+  },
+  {
+   "start": 1107.524,
+   "end": 1115.384,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.926,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.091
+  },
+  {
+   "start": 1115.644,
+   "end": 1116.084,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1116.084,
+   "end": 1116.764,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge"
+  },
+  {
+   "start": 1116.864,
+   "end": 1120.664,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.783,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.277
+  },
+  {
+   "start": 1120.804,
+   "end": 1122.124,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.471,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.116
+  },
+  {
+   "start": 1122.184,
+   "end": 1122.544,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge"
+  },
+  {
+   "start": 1122.564,
+   "end": 1126.124,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.729,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.261
+  },
+  {
+   "start": 1126.244,
+   "end": 1127.664,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.461,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.283
+  },
+  {
+   "start": 1128.164,
+   "end": 1132.204,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.669,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.308
+  },
+  {
+   "start": 1132.224,
+   "end": 1133.264,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.353,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.021
+  },
+  {
+   "start": 1133.864,
+   "end": 1134.164,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1134.764,
+   "end": 1136.204,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.378,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.136
+  },
+  {
+   "start": 1136.204,
+   "end": 1136.844,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1138.96,
+   "end": 1147.2,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.82,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.071
+  },
+  {
+   "start": 1147.5,
+   "end": 1150.64,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.787,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.094
+  },
+  {
+   "start": 1150.94,
+   "end": 1154.46,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.667,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.114
+  },
+  {
+   "start": 1154.52,
+   "end": 1163.28,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.904,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.073
+  },
+  {
+   "start": 1163.78,
+   "end": 1166.08,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.737,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.085
+  },
+  {
+   "start": 1166.7,
+   "end": 1167.9,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.734,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.031
+  },
+  {
+   "start": 1168.02,
+   "end": 1170.0,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.704,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.047
+  },
+  {
+   "start": 1170.459,
+   "end": 1173.22,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.779,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.062
+  },
+  {
+   "start": 1173.26,
+   "end": 1180.08,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.788,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.093
+  },
+  {
+   "start": 1180.6,
+   "end": 1184.78,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.824,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.102
+  },
+  {
+   "start": 1185.38,
+   "end": 1193.48,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.892,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.097
+  },
+  {
+   "start": 1194.08,
+   "end": 1200.26,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.906,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.067
+  },
+  {
+   "start": 1200.76,
+   "end": 1202.12,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.712,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.076
+  },
+  {
+   "start": 1202.579,
+   "end": 1207.92,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.852,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.124
+  },
+  {
+   "start": 1207.96,
+   "end": 1209.44,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.658,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.077
+  },
+  {
+   "start": 1209.46,
+   "end": 1212.7,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.672,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.193
+  },
+  {
+   "start": 1213.28,
+   "end": 1215.74,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.678,
+   "alt": "Miriam Klein-Flügge",
+   "alt_sim": 0.15
+  },
+  {
+   "start": 1217.06,
+   "end": 1218.22,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.599,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.16
+  },
+  {
+   "start": 1218.5,
+   "end": 1221.58,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.79,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.04
+  },
+  {
+   "start": 1221.58,
+   "end": 1221.72,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1221.76,
+   "end": 1225.18,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.645,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.127
+  },
+  {
+   "start": 1225.48,
+   "end": 1229.76,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.837,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.09
+  },
+  {
+   "start": 1229.96,
+   "end": 1231.66,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.532,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.067
+  },
+  {
+   "start": 1232.18,
+   "end": 1246.32,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.951,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.084
+  },
+  {
+   "start": 1246.8,
+   "end": 1248.4,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.588,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.057
+  },
+  {
+   "start": 1249.1,
+   "end": 1254.66,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.818,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.07
+  },
+  {
+   "start": 1255.0,
+   "end": 1258.9,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.733,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.217
+  },
+  {
+   "start": 1259.4,
+   "end": 1262.7,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.77,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.266
+  },
+  {
+   "start": 1263.12,
+   "end": 1268.62,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.849,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.239
+  },
+  {
+   "start": 1269.099,
+   "end": 1277.94,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.87,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.235
+  },
+  {
+   "start": 1278.26,
+   "end": 1283.44,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.775,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.207
+  },
+  {
+   "start": 1283.62,
+   "end": 1284.64,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.509,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.169
+  },
+  {
+   "start": 1284.86,
+   "end": 1287.14,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.663,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.171
+  },
+  {
+   "start": 1287.26,
+   "end": 1291.68,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.787,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.069
+  },
+  {
+   "start": 1291.76,
+   "end": 1294.4,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.781,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.144
+  },
+  {
+   "start": 1294.84,
+   "end": 1300.76,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.876,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.122
+  },
+  {
+   "start": 1301.22,
+   "end": 1307.44,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.891,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.107
+  },
+  {
+   "start": 1308.46,
+   "end": 1311.22,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.685,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.139
+  },
+  {
+   "start": 1311.26,
+   "end": 1311.7,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1311.72,
+   "end": 1314.22,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.619,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.115
+  },
+  {
+   "start": 1314.24,
+   "end": 1315.42,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.41,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.151
+  },
+  {
+   "start": 1316.1,
+   "end": 1316.78,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1317.7,
+   "end": 1321.38,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.641,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.121
+  },
+  {
+   "start": 1322.72,
+   "end": 1324.52,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.371,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.104
+  },
+  {
+   "start": 1324.84,
+   "end": 1326.32,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.743,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.102
+  },
+  {
+   "start": 1326.64,
+   "end": 1329.74,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.756,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.115
+  },
+  {
+   "start": 1330.28,
+   "end": 1332.36,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.764,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.104
+  },
+  {
+   "start": 1332.56,
+   "end": 1334.34,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.565,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.138
+  },
+  {
+   "start": 1334.42,
+   "end": 1336.96,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.848,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.088
+  },
+  {
+   "start": 1337.44,
+   "end": 1342.36,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.854,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.09
+  },
+  {
+   "start": 1342.48,
+   "end": 1346.88,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.85,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.052
+  },
+  {
+   "start": 1347.26,
+   "end": 1348.32,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.724,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.112
+  },
+  {
+   "start": 1348.42,
+   "end": 1350.6,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.829,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.138
+  },
+  {
+   "start": 1350.92,
+   "end": 1355.18,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.846,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.104
+  },
+  {
+   "start": 1355.26,
+   "end": 1357.26,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.627,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.055
+  },
+  {
+   "start": 1357.54,
+   "end": 1359.96,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.731,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.05
+  },
+  {
+   "start": 1360.08,
+   "end": 1363.84,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.894,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.066
+  },
+  {
+   "start": 1363.98,
+   "end": 1365.68,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.77,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.038
+  },
+  {
+   "start": 1365.72,
+   "end": 1367.06,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.621,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.041
+  },
+  {
+   "start": 1367.56,
+   "end": 1369.46,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.721,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.06
+  },
+  {
+   "start": 1369.96,
+   "end": 1374.02,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.864,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.065
+  },
+  {
+   "start": 1374.42,
+   "end": 1378.74,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.861,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.095
+  },
+  {
+   "start": 1378.84,
+   "end": 1381.02,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.868,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.107
+  },
+  {
+   "start": 1381.54,
+   "end": 1387.58,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.831,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.093
+  },
+  {
+   "start": 1388.14,
+   "end": 1390.34,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.791,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.084
+  },
+  {
+   "start": 1391.36,
+   "end": 1394.2,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.612,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.081
+  },
+  {
+   "start": 1394.3,
+   "end": 1396.06,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.78,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.073
+  },
+  {
+   "start": 1396.56,
+   "end": 1397.799,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.508,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.011
+  },
+  {
+   "start": 1398.34,
+   "end": 1398.58,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge"
+  },
+  {
+   "start": 1399.119,
+   "end": 1403.16,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.824,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.124
+  },
+  {
+   "start": 1403.74,
+   "end": 1407.3,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.861,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.13
+  },
+  {
+   "start": 1407.34,
+   "end": 1407.48,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1407.52,
+   "end": 1410.46,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.808,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.084
+  },
+  {
+   "start": 1410.98,
+   "end": 1412.22,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.712,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.111
+  },
+  {
+   "start": 1412.72,
+   "end": 1413.58,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.491,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.123
+  },
+  {
+   "start": 1413.64,
+   "end": 1413.72,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1413.72,
+   "end": 1415.08,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.438,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.076
+  },
+  {
+   "start": 1415.08,
+   "end": 1415.96,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.347,
+   "alt": "Miriam Klein-Flügge",
+   "alt_sim": 0.067
+  },
+  {
+   "start": 1415.96,
+   "end": 1415.96,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge"
+  },
+  {
+   "start": 1416.48,
+   "end": 1416.56,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge"
+  },
+  {
+   "start": 1416.6,
+   "end": 1416.8,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1417.6,
+   "end": 1421.56,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.788,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.125
+  },
+  {
+   "start": 1422.06,
+   "end": 1425.1,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.732,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.158
+  },
+  {
+   "start": 1425.6,
+   "end": 1428.06,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.595,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.041
+  },
+  {
+   "start": 1428.66,
+   "end": 1432.48,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.738,
+   "alt": "Miriam Klein-Flügge",
+   "alt_sim": 0.12
+  },
+  {
+   "start": 1432.6,
+   "end": 1433.88,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.591,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.053
+  },
+  {
+   "start": 1433.98,
+   "end": 1439.38,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.828,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.083
+  },
+  {
+   "start": 1439.84,
+   "end": 1441.04,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.392,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.081
+  },
+  {
+   "start": 1441.9,
+   "end": 1442.4,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1442.42,
+   "end": 1442.68,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1443.26,
+   "end": 1444.04,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge"
+  },
+  {
+   "start": 1444.56,
+   "end": 1448.5,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.653,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.151
+  },
+  {
+   "start": 1448.52,
+   "end": 1453.2,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.709,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.187
+  },
+  {
+   "start": 1453.76,
+   "end": 1455.92,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.706,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.04
+  },
+  {
+   "start": 1456.48,
+   "end": 1460.74,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.817,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.088
+  },
+  {
+   "start": 1461.3,
+   "end": 1461.46,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge"
+  },
+  {
+   "start": 1461.54,
+   "end": 1461.54,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1461.54,
+   "end": 1464.54,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.783,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.092
+  },
+  {
+   "start": 1464.64,
+   "end": 1465.66,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.436,
+   "alt": "Miriam Klein-Flügge",
+   "alt_sim": 0.182
+  },
+  {
+   "start": 1465.66,
+   "end": 1466.6,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.436,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.113
+  },
+  {
+   "start": 1467.12,
+   "end": 1467.22,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge"
+  },
+  {
+   "start": 1467.26,
+   "end": 1467.38,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1467.42,
+   "end": 1472.32,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.87,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.083
+  },
+  {
+   "start": 1472.42,
+   "end": 1479.34,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.892,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.073
+  },
+  {
+   "start": 1479.74,
+   "end": 1482.54,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.803,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.078
+  },
+  {
+   "start": 1482.8,
+   "end": 1485.42,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.817,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.08
+  },
+  {
+   "start": 1485.48,
+   "end": 1487.7,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.732,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.112
+  },
+  {
+   "start": 1488.2,
+   "end": 1488.56,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge"
+  },
+  {
+   "start": 1488.64,
+   "end": 1488.92,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1488.92,
+   "end": 1490.5,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.655,
+   "alt": "Keith Murphy",
+   "alt_sim": -0.012
+  },
+  {
+   "start": 1490.88,
+   "end": 1496.5,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.753,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.124
+  },
+  {
+   "start": 1497.0,
+   "end": 1497.74,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1498.38,
+   "end": 1505.88,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.848,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.243
+  },
+  {
+   "start": 1506.34,
+   "end": 1508.98,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.771,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.244
+  },
+  {
+   "start": 1509.04,
+   "end": 1511.6,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.719,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.249
+  },
+  {
+   "start": 1512.3,
+   "end": 1515.3,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.73,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.214
+  },
+  {
+   "start": 1515.58,
+   "end": 1517.84,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.617,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.042
+  },
+  {
+   "start": 1517.9,
+   "end": 1520.84,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.84,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.136
+  },
+  {
+   "start": 1521.3,
+   "end": 1524.62,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.818,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.054
+  },
+  {
+   "start": 1524.98,
+   "end": 1528.56,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.645,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.042
+  },
+  {
+   "start": 1528.6,
+   "end": 1528.68,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1529.18,
+   "end": 1530.74,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.572,
+   "alt": "Miriam Klein-Flügge",
+   "alt_sim": 0.113
+  },
+  {
+   "start": 1530.84,
+   "end": 1532.88,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.536,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.12
+  },
+  {
+   "start": 1533.06,
+   "end": 1534.68,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.567,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.171
+  },
+  {
+   "start": 1535.632,
+   "end": 1539.692,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.842,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.123
+  },
+  {
+   "start": 1539.752,
+   "end": 1543.412,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.782,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.063
+  },
+  {
+   "start": 1543.452,
+   "end": 1545.192,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.681,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.102
+  },
+  {
+   "start": 1545.592,
+   "end": 1548.392,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.583,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.127
+  },
+  {
+   "start": 1548.932,
+   "end": 1549.032,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1549.312,
+   "end": 1557.272,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.894,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.062
+  },
+  {
+   "start": 1557.612,
+   "end": 1558.292,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1558.432,
+   "end": 1559.072,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge"
+  },
+  {
+   "start": 1559.112,
+   "end": 1563.012,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.789,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.185
+  },
+  {
+   "start": 1563.152,
+   "end": 1564.832,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.676,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.137
+  },
+  {
+   "start": 1564.912,
+   "end": 1569.672,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.865,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.148
+  },
+  {
+   "start": 1569.772,
+   "end": 1571.372,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.778,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.139
+  },
+  {
+   "start": 1571.392,
+   "end": 1571.412,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1571.412,
+   "end": 1575.752,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.832,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.099
+  },
+  {
+   "start": 1575.772,
+   "end": 1577.832,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.634,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.155
+  },
+  {
+   "start": 1577.912,
+   "end": 1578.212,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge"
+  },
+  {
+   "start": 1578.352,
+   "end": 1580.592,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.608,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.238
+  },
+  {
+   "start": 1581.212,
+   "end": 1581.432,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge"
+  },
+  {
+   "start": 1581.432,
+   "end": 1581.932,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1583.392,
+   "end": 1584.792,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.559,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.157
+  },
+  {
+   "start": 1585.852,
+   "end": 1588.412,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.719,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.269
+  },
+  {
+   "start": 1588.972,
+   "end": 1595.072,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.749,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.232
+  },
+  {
+   "start": 1595.772,
+   "end": 1596.492,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1596.992,
+   "end": 1599.752,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.717,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.185
+  },
+  {
+   "start": 1600.332,
+   "end": 1604.612,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.679,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.294
+  },
+  {
+   "start": 1604.772,
+   "end": 1606.032,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.425,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.128
+  },
+  {
+   "start": 1606.152,
+   "end": 1606.912,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge"
+  },
+  {
+   "start": 1606.932,
+   "end": 1608.092,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.616,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.23
+  },
+  {
+   "start": 1608.512,
+   "end": 1612.072,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.729,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.157
+  },
+  {
+   "start": 1612.852,
+   "end": 1617.892,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.807,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.108
+  },
+  {
+   "start": 1618.432,
+   "end": 1621.972,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.819,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.116
+  },
+  {
+   "start": 1622.612,
+   "end": 1628.052,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.864,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.12
+  },
+  {
+   "start": 1628.552,
+   "end": 1632.032,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.817,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.113
+  },
+  {
+   "start": 1632.652,
+   "end": 1636.792,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.89,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.096
+  },
+  {
+   "start": 1636.832,
+   "end": 1638.432,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.619,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.076
+  },
+  {
+   "start": 1638.492,
+   "end": 1640.572,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.727,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.11
+  },
+  {
+   "start": 1640.872,
+   "end": 1640.892,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1640.972,
+   "end": 1644.332,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.819,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.107
+  },
+  {
+   "start": 1645.012,
+   "end": 1652.252,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.893,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.089
+  },
+  {
+   "start": 1652.752,
+   "end": 1656.352,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.825,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.113
+  },
+  {
+   "start": 1656.392,
+   "end": 1656.432,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1656.432,
+   "end": 1659.872,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.805,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.112
+  },
+  {
+   "start": 1659.932,
+   "end": 1664.412,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.883,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.068
+  },
+  {
+   "start": 1664.931,
+   "end": 1668.752,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.806,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.087
+  },
+  {
+   "start": 1669.292,
+   "end": 1671.232,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.73,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.05
+  },
+  {
+   "start": 1671.312,
+   "end": 1673.452,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.75,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.105
+  },
+  {
+   "start": 1673.812,
+   "end": 1676.472,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.822,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.117
+  },
+  {
+   "start": 1676.972,
+   "end": 1677.072,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1677.232,
+   "end": 1679.892,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.706,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.04
+  },
+  {
+   "start": 1680.392,
+   "end": 1680.712,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge"
+  },
+  {
+   "start": 1680.812,
+   "end": 1680.892,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1680.892,
+   "end": 1681.272,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge"
+  },
+  {
+   "start": 1681.692,
+   "end": 1682.632,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.296,
+   "alt": "Miriam Klein-Flügge",
+   "alt_sim": 0.118
+  },
+  {
+   "start": 1683.132,
+   "end": 1689.792,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.821,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.236
+  },
+  {
+   "start": 1690.292,
+   "end": 1693.272,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.797,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.164
+  },
+  {
+   "start": 1694.132,
+   "end": 1694.792,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1695.772,
+   "end": 1699.112,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.849,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.061
+  },
+  {
+   "start": 1699.372,
+   "end": 1705.132,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.867,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.073
+  },
+  {
+   "start": 1705.392,
+   "end": 1713.032,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.752,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.215
+  },
+  {
+   "start": 1713.552,
+   "end": 1716.332,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.62,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.221
+  },
+  {
+   "start": 1716.932,
+   "end": 1720.652,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.73,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.148
+  },
+  {
+   "start": 1720.852,
+   "end": 1722.892,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.674,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.224
+  },
+  {
+   "start": 1723.452,
+   "end": 1723.752,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge"
+  },
+  {
+   "start": 1723.752,
+   "end": 1727.392,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.753,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.189
+  },
+  {
+   "start": 1728.272,
+   "end": 1729.272,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.656,
+   "alt": "Miriam Klein-Flügge",
+   "alt_sim": 0.179
+  },
+  {
+   "start": 1730.292,
+   "end": 1732.972,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.609,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.144
+  },
+  {
+   "start": 1733.052,
+   "end": 1736.492,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.86,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.108
+  },
+  {
+   "start": 1736.992,
+   "end": 1738.872,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.765,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.031
+  },
+  {
+   "start": 1739.012,
+   "end": 1747.172,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.927,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.079
+  },
+  {
+   "start": 1747.192,
+   "end": 1747.372,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1747.372,
+   "end": 1749.552,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.752,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.052
+  },
+  {
+   "start": 1750.092,
+   "end": 1751.952,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.733,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.124
+  },
+  {
+   "start": 1751.952,
+   "end": 1753.192,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.618,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.227
+  },
+  {
+   "start": 1753.532,
+   "end": 1753.732,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge"
+  },
+  {
+   "start": 1753.772,
+   "end": 1755.312,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.524,
+   "alt": "Miriam Klein-Flügge",
+   "alt_sim": 0.171
+  },
+  {
+   "start": 1755.312,
+   "end": 1758.812,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.776,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.109
+  },
+  {
+   "start": 1758.952,
+   "end": 1759.392,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1759.392,
+   "end": 1761.952,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.577,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.062
+  },
+  {
+   "start": 1761.992,
+   "end": 1762.072,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1762.172,
+   "end": 1768.312,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.877,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.126
+  },
+  {
+   "start": 1768.892,
+   "end": 1773.252,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.836,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.051
+  },
+  {
+   "start": 1773.312,
+   "end": 1780.272,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.864,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.058
+  },
+  {
+   "start": 1780.392,
+   "end": 1789.552,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.936,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.086
+  },
+  {
+   "start": 1789.592,
+   "end": 1797.752,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.892,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.134
+  },
+  {
+   "start": 1798.172,
+   "end": 1802.072,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.801,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.064
+  },
+  {
+   "start": 1802.572,
+   "end": 1813.892,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.908,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.117
+  },
+  {
+   "start": 1814.512,
+   "end": 1819.232,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.872,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.072
+  },
+  {
+   "start": 1819.352,
+   "end": 1823.812,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.847,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.094
+  },
+  {
+   "start": 1823.832,
+   "end": 1825.752,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.606,
+   "alt": "Miriam Klein-Flügge",
+   "alt_sim": 0.135
+  },
+  {
+   "start": 1825.812,
+   "end": 1834.752,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.805,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.183
+  },
+  {
+   "start": 1835.272,
+   "end": 1839.652,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.736,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.28
+  },
+  {
+   "start": 1840.152,
+   "end": 1841.912,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.677,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.075
+  },
+  {
+   "start": 1842.552,
+   "end": 1844.632,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.656,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.204
+  },
+  {
+   "start": 1844.732,
+   "end": 1846.032,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.497,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.248
+  },
+  {
+   "start": 1846.512,
+   "end": 1852.892,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.785,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.251
+  },
+  {
+   "start": 1853.592,
+   "end": 1856.352,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.727,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.168
+  },
+  {
+   "start": 1856.952,
+   "end": 1860.132,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.787,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.202
+  },
+  {
+   "start": 1860.832,
+   "end": 1863.232,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.696,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.16
+  },
+  {
+   "start": 1863.912,
+   "end": 1869.392,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.816,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.276
+  },
+  {
+   "start": 1870.192,
+   "end": 1870.752,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1871.452,
+   "end": 1878.352,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.789,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.296
+  },
+  {
+   "start": 1878.852,
+   "end": 1882.352,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.703,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.238
+  },
+  {
+   "start": 1882.912,
+   "end": 1884.472,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.688,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.15
+  },
+  {
+   "start": 1884.572,
+   "end": 1887.332,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.679,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.159
+  },
+  {
+   "start": 1887.912,
+   "end": 1890.212,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.688,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.284
+  },
+  {
+   "start": 1890.98,
+   "end": 1894.58,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.773,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.293
+  },
+  {
+   "start": 1895.08,
+   "end": 1895.52,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge"
+  },
+  {
+   "start": 1895.92,
+   "end": 1896.44,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1897.06,
+   "end": 1897.68,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1897.72,
+   "end": 1902.0,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.718,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.129
+  },
+  {
+   "start": 1902.0,
+   "end": 1902.38,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge"
+  },
+  {
+   "start": 1903.12,
+   "end": 1918.54,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.87,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.236
+  },
+  {
+   "start": 1918.66,
+   "end": 1921.32,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.696,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.227
+  },
+  {
+   "start": 1921.98,
+   "end": 1922.56,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1924.78,
+   "end": 1926.48,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.473,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.12
+  },
+  {
+   "start": 1926.56,
+   "end": 1927.04,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge"
+  },
+  {
+   "start": 1927.06,
+   "end": 1928.74,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.556,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.121
+  },
+  {
+   "start": 1928.88,
+   "end": 1930.84,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.451,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.124
+  },
+  {
+   "start": 1931.0,
+   "end": 1933.04,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.37,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.203
+  },
+  {
+   "start": 1933.08,
+   "end": 1948.6,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.827,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.263
+  },
+  {
+   "start": 1948.7,
+   "end": 1950.6,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.568,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.195
+  },
+  {
+   "start": 1951.14,
+   "end": 1955.94,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.745,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.171
+  },
+  {
+   "start": 1956.5,
+   "end": 1957.86,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.623,
+   "alt": "Miriam Klein-Flügge",
+   "alt_sim": 0.093
+  },
+  {
+   "start": 1958.06,
+   "end": 1961.44,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.655,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.236
+  },
+  {
+   "start": 1961.94,
+   "end": 1964.64,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.683,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.249
+  },
+  {
+   "start": 1965.2,
+   "end": 1966.68,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.556,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.119
+  },
+  {
+   "start": 1966.7,
+   "end": 1966.92,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 1967.9,
+   "end": 1969.16,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.486,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.192
+  },
+  {
+   "start": 1969.66,
+   "end": 1970.74,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.696,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.19
+  },
+  {
+   "start": 1971.28,
+   "end": 1974.1,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.738,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.215
+  },
+  {
+   "start": 1974.76,
+   "end": 1975.72,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.368,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.198
+  },
+  {
+   "start": 1976.28,
+   "end": 1981.04,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.702,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.159
+  },
+  {
+   "start": 1981.1,
+   "end": 1982.74,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.558,
+   "alt": "Miriam Klein-Flügge",
+   "alt_sim": 0.045
+  },
+  {
+   "start": 1983.26,
+   "end": 1987.78,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.802,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.172
+  },
+  {
+   "start": 1988.3,
+   "end": 1989.24,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.467,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.154
+  },
+  {
+   "start": 1989.84,
+   "end": 1989.9,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge"
+  },
+  {
+   "start": 1989.9,
+   "end": 1990.4,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 1990.96,
+   "end": 1995.18,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.735,
+   "alt": "Miriam Klein-Flügge",
+   "alt_sim": 0.188
+  },
+  {
+   "start": 1997.0,
+   "end": 2000.94,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.728,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.191
+  },
+  {
+   "start": 2001.48,
+   "end": 2008.52,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.769,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.197
+  },
+  {
+   "start": 2008.64,
+   "end": 2010.22,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.486,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.25
+  },
+  {
+   "start": 2010.6,
+   "end": 2012.8,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.621,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.183
+  },
+  {
+   "start": 2013.08,
+   "end": 2020.22,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.79,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.172
+  },
+  {
+   "start": 2021.18,
+   "end": 2021.18,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2021.199,
+   "end": 2022.32,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.58,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.17
+  },
+  {
+   "start": 2022.38,
+   "end": 2025.76,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.719,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.127
+  },
+  {
+   "start": 2026.34,
+   "end": 2029.46,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.686,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.143
+  },
+  {
+   "start": 2030.08,
+   "end": 2030.24,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2030.78,
+   "end": 2032.7,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.665,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.259
+  },
+  {
+   "start": 2033.22,
+   "end": 2034.86,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.582,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.166
+  },
+  {
+   "start": 2035.52,
+   "end": 2042.44,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.833,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.244
+  },
+  {
+   "start": 2043.78,
+   "end": 2044.94,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.656,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.043
+  },
+  {
+   "start": 2045.24,
+   "end": 2050.6,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.783,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.129
+  },
+  {
+   "start": 2051.2,
+   "end": 2053.32,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.76,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.059
+  },
+  {
+   "start": 2053.4,
+   "end": 2053.4,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2053.4,
+   "end": 2054.46,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.492,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.079
+  },
+  {
+   "start": 2055.4,
+   "end": 2055.98,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge"
+  },
+  {
+   "start": 2056.18,
+   "end": 2056.18,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2056.18,
+   "end": 2059.12,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.826,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.07
+  },
+  {
+   "start": 2059.2,
+   "end": 2060.82,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.729,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.044
+  },
+  {
+   "start": 2060.88,
+   "end": 2068.94,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.896,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.11
+  },
+  {
+   "start": 2069.48,
+   "end": 2072.34,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.802,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.1
+  },
+  {
+   "start": 2072.86,
+   "end": 2077.56,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.877,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.111
+  },
+  {
+   "start": 2078.12,
+   "end": 2082.66,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.831,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.105
+  },
+  {
+   "start": 2083.22,
+   "end": 2091.32,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.895,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.069
+  },
+  {
+   "start": 2091.82,
+   "end": 2094.44,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.826,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.142
+  },
+  {
+   "start": 2095.0,
+   "end": 2098.66,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.84,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.132
+  },
+  {
+   "start": 2099.06,
+   "end": 2101.32,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.754,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.065
+  },
+  {
+   "start": 2101.38,
+   "end": 2105.08,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.837,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.022
+  },
+  {
+   "start": 2105.6,
+   "end": 2106.68,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.658,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.066
+  },
+  {
+   "start": 2106.72,
+   "end": 2106.72,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2106.72,
+   "end": 2108.82,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.702,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.089
+  },
+  {
+   "start": 2109.32,
+   "end": 2109.7,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge"
+  },
+  {
+   "start": 2109.74,
+   "end": 2109.74,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2109.74,
+   "end": 2113.84,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.805,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.008
+  },
+  {
+   "start": 2113.98,
+   "end": 2123.64,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.927,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.1
+  },
+  {
+   "start": 2123.68,
+   "end": 2132.12,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.904,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.058
+  },
+  {
+   "start": 2132.14,
+   "end": 2134.26,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.599,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.275
+  },
+  {
+   "start": 2134.46,
+   "end": 2137.18,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.641,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.275
+  },
+  {
+   "start": 2137.96,
+   "end": 2138.86,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.605,
+   "alt": "Miriam Klein-Flügge",
+   "alt_sim": 0.157
+  },
+  {
+   "start": 2138.94,
+   "end": 2141.14,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.651,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.09
+  },
+  {
+   "start": 2141.18,
+   "end": 2141.26,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2141.28,
+   "end": 2146.54,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.753,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.091
+  },
+  {
+   "start": 2146.58,
+   "end": 2151.16,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.708,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.261
+  },
+  {
+   "start": 2151.7,
+   "end": 2154.12,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.565,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.142
+  },
+  {
+   "start": 2154.62,
+   "end": 2155.18,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2155.2,
+   "end": 2158.6,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.824,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.113
+  },
+  {
+   "start": 2158.6,
+   "end": 2162.22,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.736,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.297
+  },
+  {
+   "start": 2163.5,
+   "end": 2167.04,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.57,
+   "alt": "Miriam Klein-Flügge",
+   "alt_sim": 0.172
+  },
+  {
+   "start": 2167.3,
+   "end": 2167.52,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge"
+  },
+  {
+   "start": 2167.52,
+   "end": 2168.36,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.255,
+   "alt": "Miriam Klein-Flügge",
+   "alt_sim": 0.194
+  },
+  {
+   "start": 2168.76,
+   "end": 2171.26,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.738,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.062
+  },
+  {
+   "start": 2171.26,
+   "end": 2172.24,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.556,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.2
+  },
+  {
+   "start": 2172.26,
+   "end": 2178.02,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.833,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.063
+  },
+  {
+   "start": 2178.08,
+   "end": 2182.16,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.829,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.095
+  },
+  {
+   "start": 2182.58,
+   "end": 2192.44,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.933,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.065
+  },
+  {
+   "start": 2192.98,
+   "end": 2193.66,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge"
+  },
+  {
+   "start": 2194.28,
+   "end": 2197.64,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.852,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.1
+  },
+  {
+   "start": 2197.76,
+   "end": 2200.62,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.825,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.077
+  },
+  {
+   "start": 2200.7,
+   "end": 2202.68,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.694,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.081
+  },
+  {
+   "start": 2203.3,
+   "end": 2204.04,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge"
+  },
+  {
+   "start": 2204.08,
+   "end": 2206.66,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.665,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.336
+  },
+  {
+   "start": 2210.22,
+   "end": 2211.04,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.04,
+   "alt": "Miriam Klein-Flügge",
+   "alt_sim": 0.015,
+   "low": 1
+  },
+  {
+   "start": 2211.74,
+   "end": 2212.34,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2212.34,
+   "end": 2212.62,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2212.82,
+   "end": 2213.0,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2213.5,
+   "end": 2213.8,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2213.84,
+   "end": 2216.24,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.629,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.282
+  },
+  {
+   "start": 2218.16,
+   "end": 2218.56,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2219.34,
+   "end": 2221.32,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.714,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.243
+  },
+  {
+   "start": 2221.66,
+   "end": 2225.28,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.429,
+   "alt": "Miriam Klein-Flügge",
+   "alt_sim": -0.001
+  },
+  {
+   "start": 2225.88,
+   "end": 2226.06,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2226.06,
+   "end": 2226.06,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2226.62,
+   "end": 2227.26,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2228.5,
+   "end": 2228.72,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2228.88,
+   "end": 2229.0,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge"
+  },
+  {
+   "start": 2229.1,
+   "end": 2231.56,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.614,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.265
+  },
+  {
+   "start": 2232.22,
+   "end": 2238.38,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.701,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.238
+  },
+  {
+   "start": 2238.94,
+   "end": 2243.42,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.701,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.263
+  },
+  {
+   "start": 2244.2,
+   "end": 2247.46,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.715,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.237
+  },
+  {
+   "start": 2248.1,
+   "end": 2250.1,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.568,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.256
+  },
+  {
+   "start": 2250.66,
+   "end": 2255.78,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.81,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.28
+  },
+  {
+   "start": 2256.448,
+   "end": 2258.128,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.712,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.187
+  },
+  {
+   "start": 2258.348,
+   "end": 2260.748,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.698,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.245
+  },
+  {
+   "start": 2261.128,
+   "end": 2262.388,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.592,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.167
+  },
+  {
+   "start": 2263.008,
+   "end": 2264.688,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.625,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.131
+  },
+  {
+   "start": 2265.908,
+   "end": 2266.228,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge"
+  },
+  {
+   "start": 2266.228,
+   "end": 2267.268,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.483,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.152
+  },
+  {
+   "start": 2267.308,
+   "end": 2267.568,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge"
+  },
+  {
+   "start": 2268.328,
+   "end": 2268.628,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge"
+  },
+  {
+   "start": 2269.268,
+   "end": 2274.188,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.844,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.103
+  },
+  {
+   "start": 2274.328,
+   "end": 2280.008,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.788,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.14
+  },
+  {
+   "start": 2280.588,
+   "end": 2282.148,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.68,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.077
+  },
+  {
+   "start": 2282.568,
+   "end": 2284.628,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.773,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.132
+  },
+  {
+   "start": 2285.268,
+   "end": 2286.888,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.728,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.049
+  },
+  {
+   "start": 2286.948,
+   "end": 2287.728,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2287.748,
+   "end": 2287.948,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge"
+  },
+  {
+   "start": 2287.988,
+   "end": 2290.428,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.73,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.257
+  },
+  {
+   "start": 2290.508,
+   "end": 2290.688,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge"
+  },
+  {
+   "start": 2290.688,
+   "end": 2293.588,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.757,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.16
+  },
+  {
+   "start": 2293.628,
+   "end": 2294.088,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2294.248,
+   "end": 2294.248,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2294.268,
+   "end": 2295.868,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.6,
+   "alt": "Miriam Klein-Flügge",
+   "alt_sim": 0.154
+  },
+  {
+   "start": 2295.968,
+   "end": 2296.188,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2296.288,
+   "end": 2298.648,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.629,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.077
+  },
+  {
+   "start": 2299.148,
+   "end": 2299.368,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2300.048,
+   "end": 2308.068,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.735,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.147
+  },
+  {
+   "start": 2308.188,
+   "end": 2310.068,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.664,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.116
+  },
+  {
+   "start": 2310.628,
+   "end": 2314.508,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.782,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.185
+  },
+  {
+   "start": 2314.548,
+   "end": 2314.548,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2314.548,
+   "end": 2315.988,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.151,
+   "alt": "Miriam Klein-Flügge",
+   "alt_sim": 0.165,
+   "low": 1
+  },
+  {
+   "start": 2316.288,
+   "end": 2316.508,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2316.528,
+   "end": 2317.428,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.186,
+   "alt": "Miriam Klein-Flügge",
+   "alt_sim": 0.056,
+   "low": 1
+  },
+  {
+   "start": 2317.508,
+   "end": 2317.788,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2317.788,
+   "end": 2318.588,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.346,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.194
+  },
+  {
+   "start": 2319.128,
+   "end": 2325.028,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.743,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.142
+  },
+  {
+   "start": 2325.088,
+   "end": 2327.768,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.66,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.174
+  },
+  {
+   "start": 2327.888,
+   "end": 2332.628,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.631,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.13
+  },
+  {
+   "start": 2333.048,
+   "end": 2334.648,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.545,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.145
+  },
+  {
+   "start": 2335.108,
+   "end": 2342.868,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.759,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.248
+  },
+  {
+   "start": 2343.668,
+   "end": 2348.428,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.792,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.111
+  },
+  {
+   "start": 2348.808,
+   "end": 2352.088,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.64,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.151
+  },
+  {
+   "start": 2353.008,
+   "end": 2357.088,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.752,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.135
+  },
+  {
+   "start": 2357.308,
+   "end": 2357.528,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge"
+  },
+  {
+   "start": 2357.528,
+   "end": 2360.268,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.69,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.24
+  },
+  {
+   "start": 2360.308,
+   "end": 2361.508,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.258,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.075
+  },
+  {
+   "start": 2363.348,
+   "end": 2363.848,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge"
+  },
+  {
+   "start": 2364.008,
+   "end": 2366.648,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.745,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.159
+  },
+  {
+   "start": 2366.688,
+   "end": 2368.008,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.555,
+   "alt": "Charles Caskey",
+   "alt_sim": -0.017
+  },
+  {
+   "start": 2368.028,
+   "end": 2370.128,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.651,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.123
+  },
+  {
+   "start": 2370.228,
+   "end": 2370.248,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge"
+  },
+  {
+   "start": 2370.248,
+   "end": 2371.388,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.642,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.146
+  },
+  {
+   "start": 2371.588,
+   "end": 2375.088,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.779,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.203
+  },
+  {
+   "start": 2375.628,
+   "end": 2379.008,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.695,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.207
+  },
+  {
+   "start": 2379.508,
+   "end": 2383.868,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.763,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.159
+  },
+  {
+   "start": 2384.128,
+   "end": 2385.367,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.605,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.173
+  },
+  {
+   "start": 2385.968,
+   "end": 2386.108,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge"
+  },
+  {
+   "start": 2386.207,
+   "end": 2386.388,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2386.968,
+   "end": 2387.528,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2388.268,
+   "end": 2391.628,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.755,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.201
+  },
+  {
+   "start": 2392.228,
+   "end": 2392.748,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2393.548,
+   "end": 2393.788,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge"
+  },
+  {
+   "start": 2393.848,
+   "end": 2395.848,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.593,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.132
+  },
+  {
+   "start": 2396.848,
+   "end": 2403.048,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.845,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.026
+  },
+  {
+   "start": 2403.588,
+   "end": 2405.668,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.725,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.067
+  },
+  {
+   "start": 2405.728,
+   "end": 2408.328,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.615,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.085
+  },
+  {
+   "start": 2408.408,
+   "end": 2412.808,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.721,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.117
+  },
+  {
+   "start": 2413.548,
+   "end": 2420.808,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.848,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.05
+  },
+  {
+   "start": 2422.268,
+   "end": 2422.268,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge"
+  },
+  {
+   "start": 2422.288,
+   "end": 2424.788,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.527,
+   "alt": "Miriam Klein-Flügge",
+   "alt_sim": 0.05
+  },
+  {
+   "start": 2424.848,
+   "end": 2427.288,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.668,
+   "alt": "Miriam Klein-Flügge",
+   "alt_sim": 0.123
+  },
+  {
+   "start": 2427.828,
+   "end": 2428.708,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.527,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.201
+  },
+  {
+   "start": 2429.268,
+   "end": 2430.048,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2430.968,
+   "end": 2433.648,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.653,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.129
+  },
+  {
+   "start": 2433.788,
+   "end": 2436.188,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.745,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.242
+  },
+  {
+   "start": 2436.868,
+   "end": 2438.608,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.54,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.217
+  },
+  {
+   "start": 2438.948,
+   "end": 2441.608,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.667,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.088
+  },
+  {
+   "start": 2441.668,
+   "end": 2441.788,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge"
+  },
+  {
+   "start": 2441.788,
+   "end": 2442.728,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.126,
+   "alt": "Miriam Klein-Flügge",
+   "alt_sim": 0.043,
+   "low": 1
+  },
+  {
+   "start": 2442.728,
+   "end": 2442.728,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2442.768,
+   "end": 2446.788,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.743,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.147
+  },
+  {
+   "start": 2446.868,
+   "end": 2447.908,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.49,
+   "alt": "Miriam Klein-Flügge",
+   "alt_sim": 0.171
+  },
+  {
+   "start": 2447.948,
+   "end": 2447.968,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge"
+  },
+  {
+   "start": 2447.988,
+   "end": 2449.868,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.657,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.234
+  },
+  {
+   "start": 2449.888,
+   "end": 2449.908,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge"
+  },
+  {
+   "start": 2449.908,
+   "end": 2453.768,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.826,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.227
+  },
+  {
+   "start": 2453.788,
+   "end": 2461.788,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.911,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.101
+  },
+  {
+   "start": 2461.948,
+   "end": 2464.848,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.823,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.103
+  },
+  {
+   "start": 2465.428,
+   "end": 2465.428,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2465.428,
+   "end": 2469.528,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.798,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.085
+  },
+  {
+   "start": 2469.608,
+   "end": 2470.948,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.705,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.037
+  },
+  {
+   "start": 2470.988,
+   "end": 2473.988,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.83,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.086
+  },
+  {
+   "start": 2474.008,
+   "end": 2474.208,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2474.228,
+   "end": 2478.248,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.838,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.037
+  },
+  {
+   "start": 2478.808,
+   "end": 2482.868,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.871,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.058
+  },
+  {
+   "start": 2482.948,
+   "end": 2483.108,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2483.228,
+   "end": 2485.448,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.721,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.094
+  },
+  {
+   "start": 2485.648,
+   "end": 2485.648,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2485.648,
+   "end": 2488.568,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.848,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.082
+  },
+  {
+   "start": 2489.088,
+   "end": 2492.968,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.774,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.078
+  },
+  {
+   "start": 2493.028,
+   "end": 2498.548,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.899,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.074
+  },
+  {
+   "start": 2499.148,
+   "end": 2504.568,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.893,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.148
+  },
+  {
+   "start": 2505.308,
+   "end": 2510.068,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.836,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.086
+  },
+  {
+   "start": 2510.168,
+   "end": 2518.608,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.913,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.064
+  },
+  {
+   "start": 2519.248,
+   "end": 2521.768,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.779,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.073
+  },
+  {
+   "start": 2521.908,
+   "end": 2521.908,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2521.908,
+   "end": 2526.488,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.845,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.039
+  },
+  {
+   "start": 2526.568,
+   "end": 2530.728,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.853,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.129
+  },
+  {
+   "start": 2531.308,
+   "end": 2533.008,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.662,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.165
+  },
+  {
+   "start": 2533.108,
+   "end": 2533.308,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2533.448,
+   "end": 2533.588,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge"
+  },
+  {
+   "start": 2533.648,
+   "end": 2539.248,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.811,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.205
+  },
+  {
+   "start": 2539.868,
+   "end": 2546.688,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.801,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.186
+  },
+  {
+   "start": 2546.728,
+   "end": 2549.288,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.611,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.234
+  },
+  {
+   "start": 2549.808,
+   "end": 2559.628,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.866,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.197
+  },
+  {
+   "start": 2559.688,
+   "end": 2561.848,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.756,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.203
+  },
+  {
+   "start": 2562.448,
+   "end": 2567.728,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.804,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.253
+  },
+  {
+   "start": 2568.268,
+   "end": 2579.988,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.83,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.215
+  },
+  {
+   "start": 2580.568,
+   "end": 2584.328,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.716,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.157
+  },
+  {
+   "start": 2584.828,
+   "end": 2585.948,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.517,
+   "alt": "Miriam Klein-Flügge",
+   "alt_sim": 0.139
+  },
+  {
+   "start": 2586.488,
+   "end": 2590.688,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.767,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.123
+  },
+  {
+   "start": 2590.728,
+   "end": 2596.628,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.757,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.165
+  },
+  {
+   "start": 2597.208,
+   "end": 2598.288,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.421,
+   "alt": "Miriam Klein-Flügge",
+   "alt_sim": 0.082
+  },
+  {
+   "start": 2598.408,
+   "end": 2603.508,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.797,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.147
+  },
+  {
+   "start": 2604.348,
+   "end": 2608.048,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.782,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.15
+  },
+  {
+   "start": 2608.648,
+   "end": 2610.868,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.676,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.197
+  },
+  {
+   "start": 2610.908,
+   "end": 2614.288,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.688,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.242
+  },
+  {
+   "start": 2614.328,
+   "end": 2615.988,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.592,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.084
+  },
+  {
+   "start": 2616.208,
+   "end": 2616.368,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge"
+  },
+  {
+   "start": 2616.908,
+   "end": 2618.168,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.623,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.124
+  },
+  {
+   "start": 2618.228,
+   "end": 2623.728,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.832,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.048
+  },
+  {
+   "start": 2624.408,
+   "end": 2628.228,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.821,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.125
+  },
+  {
+   "start": 2628.908,
+   "end": 2632.668,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.798,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.099
+  },
+  {
+   "start": 2633.188,
+   "end": 2639.368,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.891,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.066
+  },
+  {
+   "start": 2639.428,
+   "end": 2643.748,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.871,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.058
+  },
+  {
+   "start": 2644.388,
+   "end": 2645.528,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.567,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.043
+  },
+  {
+   "start": 2645.888,
+   "end": 2652.388,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.891,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.108
+  },
+  {
+   "start": 2652.968,
+   "end": 2663.028,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.919,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.088
+  },
+  {
+   "start": 2663.628,
+   "end": 2667.048,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.809,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.117
+  },
+  {
+   "start": 2667.308,
+   "end": 2670.788,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.826,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.159
+  },
+  {
+   "start": 2670.928,
+   "end": 2671.308,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge"
+  },
+  {
+   "start": 2671.388,
+   "end": 2673.488,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.701,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.138
+  },
+  {
+   "start": 2673.628,
+   "end": 2680.408,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.861,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.083
+  },
+  {
+   "start": 2681.388,
+   "end": 2683.268,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.682,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.108
+  },
+  {
+   "start": 2683.328,
+   "end": 2691.468,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.901,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.054
+  },
+  {
+   "start": 2691.948,
+   "end": 2698.468,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.917,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.1
+  },
+  {
+   "start": 2698.528,
+   "end": 2698.528,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2698.528,
+   "end": 2704.368,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.885,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.118
+  },
+  {
+   "start": 2704.448,
+   "end": 2706.448,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.752,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.088
+  },
+  {
+   "start": 2707.168,
+   "end": 2711.508,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.808,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.07
+  },
+  {
+   "start": 2711.588,
+   "end": 2714.068,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.727,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.069
+  },
+  {
+   "start": 2714.588,
+   "end": 2714.708,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2714.727,
+   "end": 2716.408,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.703,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.088
+  },
+  {
+   "start": 2716.968,
+   "end": 2720.948,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.864,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.04
+  },
+  {
+   "start": 2721.628,
+   "end": 2723.188,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.776,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.072
+  },
+  {
+   "start": 2723.388,
+   "end": 2726.948,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.808,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.113
+  },
+  {
+   "start": 2727.648,
+   "end": 2742.628,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.837,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.195
+  },
+  {
+   "start": 2743.308,
+   "end": 2745.928,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.737,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.213
+  },
+  {
+   "start": 2745.968,
+   "end": 2749.508,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.796,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.204
+  },
+  {
+   "start": 2749.548,
+   "end": 2751.228,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.636,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.14
+  },
+  {
+   "start": 2751.788,
+   "end": 2755.988,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.803,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.174
+  },
+  {
+   "start": 2757.108,
+   "end": 2757.508,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2758.268,
+   "end": 2760.288,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.726,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.208
+  },
+  {
+   "start": 2760.908,
+   "end": 2764.728,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.737,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.307
+  },
+  {
+   "start": 2765.448,
+   "end": 2766.928,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.622,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.096
+  },
+  {
+   "start": 2766.988,
+   "end": 2774.068,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.82,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.224
+  },
+  {
+   "start": 2774.128,
+   "end": 2776.168,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.547,
+   "alt": "Miriam Klein-Flügge",
+   "alt_sim": 0.092
+  },
+  {
+   "start": 2776.808,
+   "end": 2777.628,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.484,
+   "alt": "Miriam Klein-Flügge",
+   "alt_sim": 0.067
+  },
+  {
+   "start": 2778.528,
+   "end": 2779.768,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.548,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.081
+  },
+  {
+   "start": 2780.468,
+   "end": 2781.488,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.528,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.285
+  },
+  {
+   "start": 2781.868,
+   "end": 2782.128,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge"
+  },
+  {
+   "start": 2782.228,
+   "end": 2782.388,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2783.308,
+   "end": 2788.928,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.719,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.271
+  },
+  {
+   "start": 2789.048,
+   "end": 2793.048,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.734,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.114
+  },
+  {
+   "start": 2793.408,
+   "end": 2793.408,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2793.448,
+   "end": 2793.768,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge"
+  },
+  {
+   "start": 2793.808,
+   "end": 2796.068,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.574,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.162
+  },
+  {
+   "start": 2797.368,
+   "end": 2798.108,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2799.468,
+   "end": 2800.328,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.477,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.067
+  },
+  {
+   "start": 2801.328,
+   "end": 2808.888,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.835,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.307
+  },
+  {
+   "start": 2809.708,
+   "end": 2815.028,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.809,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.27
+  },
+  {
+   "start": 2815.488,
+   "end": 2819.928,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.748,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.148
+  },
+  {
+   "start": 2820.808,
+   "end": 2821.108,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2821.788,
+   "end": 2824.408,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.653,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.269
+  },
+  {
+   "start": 2824.868,
+   "end": 2826.228,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.585,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.153
+  },
+  {
+   "start": 2826.288,
+   "end": 2826.748,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge"
+  },
+  {
+   "start": 2827.528,
+   "end": 2828.268,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2829.608,
+   "end": 2833.188,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.726,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.169
+  },
+  {
+   "start": 2833.768,
+   "end": 2835.868,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.646,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.201
+  },
+  {
+   "start": 2835.988,
+   "end": 2838.988,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.742,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.215
+  },
+  {
+   "start": 2839.028,
+   "end": 2839.108,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge"
+  },
+  {
+   "start": 2839.148,
+   "end": 2839.688,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2840.248,
+   "end": 2842.988,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.785,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.169
+  },
+  {
+   "start": 2843.728,
+   "end": 2846.928,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.704,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.251
+  },
+  {
+   "start": 2847.008,
+   "end": 2847.707,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge"
+  },
+  {
+   "start": 2847.988,
+   "end": 2848.308,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2848.348,
+   "end": 2851.288,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.737,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.045
+  },
+  {
+   "start": 2851.528,
+   "end": 2851.528,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2851.568,
+   "end": 2854.308,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.544,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.052
+  },
+  {
+   "start": 2855.048,
+   "end": 2858.588,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.718,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.129
+  },
+  {
+   "start": 2859.108,
+   "end": 2865.468,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.782,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.112
+  },
+  {
+   "start": 2865.548,
+   "end": 2870.468,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.774,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.073
+  },
+  {
+   "start": 2871.008,
+   "end": 2877.888,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.722,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.025
+  },
+  {
+   "start": 2877.948,
+   "end": 2877.948,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2877.948,
+   "end": 2882.788,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.811,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.052
+  },
+  {
+   "start": 2882.828,
+   "end": 2885.468,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.629,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.046
+  },
+  {
+   "start": 2885.588,
+   "end": 2888.048,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.639,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.073
+  },
+  {
+   "start": 2888.628,
+   "end": 2892.348,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.724,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.045
+  },
+  {
+   "start": 2892.388,
+   "end": 2894.628,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.648,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.018
+  },
+  {
+   "start": 2895.188,
+   "end": 2899.028,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.656,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.083
+  },
+  {
+   "start": 2899.208,
+   "end": 2900.808,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.657,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.031
+  },
+  {
+   "start": 2900.868,
+   "end": 2910.288,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.759,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.196
+  },
+  {
+   "start": 2910.328,
+   "end": 2914.208,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.535,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.144
+  },
+  {
+   "start": 2914.688,
+   "end": 2917.008,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge",
+   "sim": 0.634,
+   "alt": "Charles Caskey",
+   "alt_sim": -0.005
+  },
+  {
+   "start": 2918.228,
+   "end": 2918.748,
+   "label": "speaker_0",
+   "name": "Charles Caskey"
+  },
+  {
+   "start": 2919.048,
+   "end": 2920.528,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.528,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.103
+  },
+  {
+   "start": 2920.568,
+   "end": 2921.588,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.494,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.084
+  },
+  {
+   "start": 2923.748,
+   "end": 2924.728,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.298,
+   "alt": "Charles Caskey",
+   "alt_sim": 0.266
+  },
+  {
+   "start": 2924.908,
+   "end": 2925.588,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge"
+  },
+  {
+   "start": 2926.108,
+   "end": 2926.508,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2927.828,
+   "end": 2928.988,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.15,
+   "alt": "Miriam Klein-Flügge",
+   "alt_sim": 0.063,
+   "low": 1
+  },
+  {
+   "start": 2929.728,
+   "end": 2930.128,
+   "label": "speaker_1",
+   "name": "Keith Murphy"
+  },
+  {
+   "start": 2930.228,
+   "end": 2932.308,
+   "label": "speaker_0",
+   "name": "Charles Caskey",
+   "sim": 0.36,
+   "alt": "Keith Murphy",
+   "alt_sim": 0.047
+  },
+  {
+   "start": 2932.328,
+   "end": 2933.028,
+   "label": "speaker_2",
+   "name": "Miriam Klein-Flügge"
+  },
+  {
+   "start": 2934.188,
+   "end": 2935.908,
+   "label": "speaker_1",
+   "name": "Keith Murphy",
+   "sim": 0.207,
+   "alt": "Miriam Klein-Flügge",
+   "alt_sim": 0.187,
+   "low": 1
+  }
+ ]
+}

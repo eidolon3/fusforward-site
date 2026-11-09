@@ -1,0 +1,19 @@
+# Secrets: the ElevenLabs key lives here. Never commit it.
+.env
+
+# Downloaded and regenerable: episode audio, the speaker-recognition model, Python caches
+audio/
+models/
+__pycache__/
+*.pyc
+*.part
+
+# Working files that the scripts rebuild
+out/clean/
+out/flags/
+out/reports/
+
+# Local zips and OS clutter
+*.zip
+.DS_Store
+Thumbs.db

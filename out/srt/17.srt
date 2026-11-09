@@ -1,0 +1,4227 @@
+1
+00:00:00,300 --> 00:00:03,220
+Charles Caskey: So are we gonna do like a formal introduction to the episode, and we're
+
+2
+00:00:03,260 --> 00:00:05,320
+gonna be like, "Hey, welcome to FUS Forward.
+
+3
+00:00:05,840 --> 00:00:08,300
+It's with Keith and Charles. We're gonna talk about..."
+
+4
+00:00:08,400 --> 00:00:09,540
+[laughs] [laughs]
+
+5
+00:00:09,540 --> 00:00:13,080
+Keith Murphy: I like that a lot. [laughs] [laughs]
+
+6
+00:00:13,280 --> 00:00:15,920
+Intro narrator: Follow Charles Caskey and Keith Murphy-
+
+7
+00:00:15,960 --> 00:00:16,460
+Keith Murphy: I think that's great
+
+8
+00:00:16,560 --> 00:00:22,500
+Intro narrator: ... as they explore the next frontier of ultrasound neuromodulation with FUS Forward.
+
+9
+00:00:22,880 --> 00:00:25,780
+Keith Murphy: Why'd you pick plants? What was the, what was the origin there?
+
+10
+00:00:25,960 --> 00:00:26,460
+Miriam Klein-Flügge: Oh.
+
+11
+00:00:26,020 --> 00:00:26,520
+Keith Murphy: You just love plants.
+
+12
+00:00:26,560 --> 00:00:29,560
+Miriam Klein-Flügge: I mean, I just, you know, A, you have had a lot of good
+
+13
+00:00:29,620 --> 00:00:32,700
+ideas already, so you need to find an orthogonal axis there.
+
+14
+00:00:32,700 --> 00:00:33,740
+[chuckles]
+
+15
+00:00:33,780 --> 00:00:35,380
+Keith Murphy: You're just a gardening girl. Do you garden?
+
+16
+00:00:35,400 --> 00:00:38,000
+Miriam Klein-Flügge: But B, I do, yeah, I do like gardening actually.
+
+17
+00:00:38,140 --> 00:00:41,040
+I wish I had more time for it, but, but green, and green is
+
+18
+00:00:41,080 --> 00:00:42,300
+my favorite color, so.
+
+19
+00:00:42,700 --> 00:00:43,960
+Keith Murphy: Ah, beautiful. Good. Yeah.
+
+20
+00:00:44,000 --> 00:00:46,860
+Miriam Klein-Flügge: I, I do love green. This is, uh, my office, and I, I, I
+
+21
+00:00:46,940 --> 00:00:49,480
+think it makes a big difference to have plants in the office.
+
+22
+00:00:50,140 --> 00:00:53,940
+Keith Murphy: Miriam, you had your firstborn while you were doing your PhD, you once told
+
+23
+00:00:54,000 --> 00:00:56,840
+me. I don't know how you had time to do anything at all, but
+
+24
+00:00:56,900 --> 00:01:00,500
+you've been a, an expert at balancing life and work, maybe.
+
+25
+00:01:00,980 --> 00:01:03,040
+Miriam Klein-Flügge: I, I think no one is ever an expert at that.
+
+26
+00:01:03,060 --> 00:01:05,980
+[chuckles] [chuckles] We try on a daily basis to somehow survive.
+
+27
+00:01:06,200 --> 00:01:08,800
+I think I remember, uh, the person I was working with at the time
+
+28
+00:01:08,840 --> 00:01:11,560
+when I told him that I was expecting a baby, he was like, "You
+
+29
+00:01:11,720 --> 00:01:14,860
+are brave." I was like, "Well, that's exactly the comforting kind of response I
+
+30
+00:01:14,900 --> 00:01:18,460
+was looking for here, thanks." [laughing] [chuckles]
+
+31
+00:01:18,520 --> 00:01:19,020
+Keith Murphy: Not a good-
+
+32
+00:01:18,820 --> 00:01:22,280
+Miriam Klein-Flügge: Um, but yeah, I think that now, nowadays it's a bit more common, I
+
+33
+00:01:22,300 --> 00:01:26,380
+think, 'cause we realize there's never a good time for babies in a scientific
+
+34
+00:01:26,420 --> 00:01:29,680
+career. So you might as well just embrace it whenever you feel like it's
+
+35
+00:01:29,720 --> 00:01:30,220
+the right time.
+
+36
+00:01:29,880 --> 00:01:30,380
+Keith Murphy: Yeah.
+
+37
+00:01:30,700 --> 00:01:33,400
+Miriam Klein-Flügge: Uh, I think now it's much easier for us, so we don't have little
+
+38
+00:01:33,440 --> 00:01:33,960
+kids anymore.
+
+39
+00:01:34,120 --> 00:01:37,360
+Charles Caskey: Later, when they're, when they're older, they're more independent, and it's never gonna be
+
+40
+00:01:37,400 --> 00:01:40,560
+a convenient time to, to wake up in the middle of the night and
+
+41
+00:01:40,660 --> 00:01:45,260
+[chuckles] have, have some, some, uh, new, new human need, ha- you know, address
+
+42
+00:01:45,320 --> 00:01:45,960
+all their needs.
+
+43
+00:01:47,020 --> 00:01:50,660
+Keith Murphy: They've hit the mac and cheese era where they can self-serve and survive, and
+
+44
+00:01:50,720 --> 00:01:51,220
+you can just-
+
+45
+00:01:51,240 --> 00:01:51,740
+Charles Caskey: Yeah. [chuckles]
+
+46
+00:01:51,300 --> 00:01:54,280
+Keith Murphy: ... go back to... [laughing]
+
+47
+00:01:54,340 --> 00:01:54,840
+Charles Caskey: Those mac-
+
+48
+00:01:54,800 --> 00:01:55,300
+Miriam Klein-Flügge: Yeah
+
+49
+00:01:54,940 --> 00:01:56,720
+Charles Caskey: ... microwave mac and cheese go a long way.
+
+50
+00:01:56,780 --> 00:01:58,400
+I think you're right. [chuckles]
+
+51
+00:01:58,480 --> 00:02:02,740
+Keith Murphy: So Miriam, I think the audience would be interesting to know that you came
+
+52
+00:02:02,840 --> 00:02:06,340
+from what we often refer as the Rushworth lineage.
+
+53
+00:02:06,900 --> 00:02:07,400
+Miriam Klein-Flügge: Yeah.
+
+54
+00:02:07,040 --> 00:02:12,520
+Keith Murphy: So Miriam was at Oxford with the OG gang, the s- the second or
+
+55
+00:02:12,640 --> 00:02:18,780
+third revival under Matthew Rushworth, where they were all doing incredible functional experiments in
+
+56
+00:02:18,840 --> 00:02:23,660
+non-human primates. So they were early on to say, "This is more than a
+
+57
+00:02:23,920 --> 00:02:28,860
+psychiatric intervention. This is actually a tool for us to investigate individual nodes of
+
+58
+00:02:28,900 --> 00:02:30,040
+the brain and what they do."
+
+59
+00:02:30,720 --> 00:02:35,840
+And Miriam, did you leave Oxford before coming back as now an associate professor,
+
+60
+00:02:36,240 --> 00:02:37,960
+um, as, as sort of-
+
+61
+00:02:37,960 --> 00:02:38,460
+Miriam Klein-Flügge: No, I left Oxford-
+
+62
+00:02:38,080 --> 00:02:38,980
+Keith Murphy: ... a leader in this field, or?
+
+63
+00:02:39,920 --> 00:02:43,560
+Miriam Klein-Flügge: Yeah, no, I left Oxford between my master's and a post, and then coming
+
+64
+00:02:43,600 --> 00:02:46,220
+back from my postdoc. So I did my PhD at UCL.
+
+65
+00:02:46,800 --> 00:02:51,600
+Um, but, uh, between that time when Jérôme Sallet and Matthew, and then soon
+
+66
+00:02:51,680 --> 00:02:56,760
+after Lennart and Elsa and I all discussed ultrasound, um, I was here as
+
+67
+00:02:56,800 --> 00:02:59,660
+a postdoc first and then just transitioned to have my own group.
+
+68
+00:02:59,760 --> 00:03:03,740
+So, uh, I came in 2014, and then I started my own group just
+
+69
+00:03:03,800 --> 00:03:05,420
+four years ago in 2022.
+
+70
+00:03:06,260 --> 00:03:10,420
+Keith Murphy: That's awesome. Um, Charles, when I met Miriam at Oxford, uh, we had met
+
+71
+00:03:10,460 --> 00:03:14,220
+before, but we spent a lot of time together, and I learned that Oxford
+
+72
+00:03:14,260 --> 00:03:17,460
+is not really like a university per se.
+
+73
+00:03:17,620 --> 00:03:21,740
+It's more of a collection of institutes that sort of put themselves under one
+
+74
+00:03:21,820 --> 00:03:26,180
+name. And I bought an Oxford sweater that said Oxford University, and people are
+
+75
+00:03:26,200 --> 00:03:28,080
+like, "You n- must not be from Oxford."
+
+76
+00:03:28,100 --> 00:03:29,860
+And I'm like, "I'm not." [chuckles]
+
+77
+00:03:29,900 --> 00:03:30,400
+Charles Caskey: Oh.
+
+78
+00:03:29,940 --> 00:03:30,440
+Keith Murphy: I just love this sweater.
+
+79
+00:03:30,120 --> 00:03:31,180
+Charles Caskey: You, you were like a tourist.
+
+80
+00:03:31,360 --> 00:03:31,860
+You were-
+
+81
+00:03:31,680 --> 00:03:32,180
+Keith Murphy: Yeah
+
+82
+00:03:31,820 --> 00:03:32,640
+Charles Caskey: ... you fell into a trap.
+
+83
+00:03:32,720 --> 00:03:34,920
+Yeah, yeah. No, this was a revelation to me.
+
+84
+00:03:34,920 --> 00:03:36,380
+Miriam Klein-Flügge: Because you have that identity with the college.
+
+85
+00:03:36,480 --> 00:03:37,080
+That's right. [chuckles]
+
+86
+00:03:37,120 --> 00:03:40,420
+Charles Caskey: Yeah. Yeah. That's it. That-- I, I, I was confused as well when I,
+
+87
+00:03:40,500 --> 00:03:43,180
+when I started to, like, meet people and they were like, "Well, I'm at
+
+88
+00:03:43,220 --> 00:03:45,540
+Oxford, but I'm at this, this specific component of it."
+
+89
+00:03:45,620 --> 00:03:48,080
+And I was like, "Oh, it's just different than what I realized."
+
+90
+00:03:48,120 --> 00:03:48,620
+[chuckles]
+
+91
+00:03:48,260 --> 00:03:49,940
+Keith Murphy: That is fancy. [chuckles]
+
+92
+00:03:50,000 --> 00:03:50,500
+Charles Caskey: Yeah, yeah.
+
+93
+00:03:51,360 --> 00:03:53,620
+Keith Murphy: Uh, Miriam, which college are you at in your office?
+
+94
+00:03:53,660 --> 00:03:56,400
+Miriam Klein-Flügge: Well, so I'm, I'm the outsider here 'cause I don't teach.
+
+95
+00:03:56,600 --> 00:04:00,560
+I do 100% research, so which also means my position only lasts as long
+
+96
+00:04:00,600 --> 00:04:02,860
+as my funding. Uh, but that's by choice- Hey.
+
+97
+00:04:02,860 --> 00:04:03,360
+... 'cause I-
+
+98
+00:04:03,520 --> 00:04:04,020
+Keith Murphy: Oh
+
+99
+00:04:03,640 --> 00:04:04,140
+Miriam Klein-Flügge: ... I love my research.
+
+100
+00:04:03,940 --> 00:04:06,160
+Charles Caskey: A, a fellow soft money. [chuckles]
+
+101
+00:04:06,240 --> 00:04:06,740
+Miriam Klein-Flügge: Yeah.
+
+102
+00:04:06,280 --> 00:04:08,420
+Keith Murphy: Soft money gang. [chuckles]
+
+103
+00:04:09,160 --> 00:04:12,020
+Miriam Klein-Flügge: Some call it mad, some call it, I don't know, inspiring.
+
+104
+00:04:12,160 --> 00:04:13,100
+I'm not sure which of the two.
+
+105
+00:04:13,540 --> 00:04:17,740
+Um, but, um, so, uh, it means I do not have to teach, and
+
+106
+00:04:17,820 --> 00:04:21,040
+therefore, colleges are mostly where all the teaching takes place for the undergrads.
+
+107
+00:04:21,500 --> 00:04:24,840
+Uh, so I do have sort of an affiliation to Corpus Christi, but I
+
+108
+00:04:24,880 --> 00:04:27,220
+don't spend any time there 'cause I don't have to teach, so it's sort
+
+109
+00:04:27,240 --> 00:04:29,420
+of not really, um, a real thing.
+
+110
+00:04:29,440 --> 00:04:30,520
+[chuckles]
+
+111
+00:04:30,580 --> 00:04:36,780
+Keith Murphy: Okay. Corpus Christi. Very cool. So Oxford took potentially longer than anyone else
+
+112
+00:04:36,940 --> 00:04:41,780
+on the planet to get across their ethics committee that focused ultrasound could be
+
+113
+00:04:41,820 --> 00:04:45,540
+delivered safely to the brain. Miriam, how long was it?
+
+114
+00:04:45,760 --> 00:04:47,680
+How was that battle? Thank God-
+
+115
+00:04:47,700 --> 00:04:48,200
+Miriam Klein-Flügge: Oh
+
+116
+00:04:47,760 --> 00:04:49,400
+Keith Murphy: ... you got over that, that hump.
+
+117
+00:04:49,400 --> 00:04:51,060
+Miriam Klein-Flügge: Um, I'm not sure that we were the lo...
+
+118
+00:04:51,260 --> 00:04:53,080
+Were we the longest? Yeah, I wasn't aware of that actually.
+
+119
+00:04:53,080 --> 00:04:53,980
+Keith Murphy: Who was, who was longer? [chuckles]
+
+120
+00:04:54,100 --> 00:04:54,680
+Miriam Klein-Flügge: Well, I think-
+
+121
+00:04:54,760 --> 00:04:55,260
+Keith Murphy: How long were you?
+
+122
+00:04:54,900 --> 00:04:59,620
+Miriam Klein-Flügge: ... I think what you're referring to maybe, uh, is, uh, Charlie's study with,
+
+123
+00:04:59,760 --> 00:05:02,180
+uh, Elly and Brad. Is that maybe what you're referring to?
+
+124
+00:05:02,300 --> 00:05:07,300
+'Cause, um, I think the struggle was hilariously not the ultrasound component, but because
+
+125
+00:05:07,320 --> 00:05:11,460
+they wanted to do CTs in healthy volunteers, and that was-
+
+126
+00:05:11,540 --> 00:05:12,040
+Keith Murphy: Oh, okay
+
+127
+00:05:11,560 --> 00:05:13,000
+Miriam Klein-Flügge: ... what caused them a big delay.
+
+128
+00:05:13,340 --> 00:05:17,040
+So we were basing all our work on, like, you know, PETRA scans, so
+
+129
+00:05:17,120 --> 00:05:22,420
+just a skull MR, uh, sequence, and therefore, our e-ethics was actually fine.
+
+130
+00:05:22,520 --> 00:05:25,040
+It took us, you know, a little while because it was still with the
+
+131
+00:05:25,280 --> 00:05:29,140
+BrainBox, so our, our system for the first time here in humans, 'cause Charlie's
+
+132
+00:05:29,160 --> 00:05:31,940
+system was different. But I think it took us maybe six, eight months.
+
+133
+00:05:32,040 --> 00:05:34,480
+So I don't know if that's long or not, but I think Charlie's was
+
+134
+00:05:34,540 --> 00:05:35,600
+years. [chuckles]
+
+135
+00:05:35,680 --> 00:05:36,560
+Keith Murphy: Oh. Oh, not bad at all.
+
+136
+00:05:36,760 --> 00:05:37,260
+Yeah, yeah.
+
+137
+00:05:37,040 --> 00:05:37,560
+Miriam Klein-Flügge: No, not bad.
+
+138
+00:05:37,560 --> 00:05:39,840
+Keith Murphy: Yeah. I, maybe I just learned too much from Charlie that it was many
+
+139
+00:05:39,920 --> 00:05:42,900
+years. But she-- I guess she could have gotten away from the CT, but
+
+140
+00:05:42,960 --> 00:05:46,500
+that was so classic at the time as the standard toolkit.
+
+141
+00:05:46,620 --> 00:05:50,000
+Miriam Klein-Flügge: Yeah, I think they wanted the closest to ground truth that you could get.
+
+142
+00:05:50,260 --> 00:05:54,740
+Um, yeah. But m- not sure if she regretted it halfway through [chuckles] the
+
+143
+00:05:54,780 --> 00:05:55,280
+ethics process.
+
+144
+00:05:55,240 --> 00:05:59,100
+Keith Murphy: So six or eight months after you started your lab, you were doing stimulation
+
+145
+00:05:59,260 --> 00:05:59,840
+in humans?
+
+146
+00:06:00,140 --> 00:06:02,020
+Miriam Klein-Flügge: So, so Oxford is, you know, a bit of a beast.
+
+147
+00:06:02,480 --> 00:06:05,800
+Um, yeah, so we took, uh, I think six months to get the purchase
+
+148
+00:06:05,880 --> 00:06:09,600
+through the university internally, and then another three or so for the kit to
+
+149
+00:06:09,640 --> 00:06:13,800
+be delivered. So the first hurdle was to have a system, um, for not
+
+150
+00:06:13,840 --> 00:06:17,240
+the non-human primates, which already existed, but for human Uh, use.
+
+151
+00:06:17,400 --> 00:06:19,800
+And then in parallel, we were writing the ethics.
+
+152
+00:06:19,940 --> 00:06:23,080
+So I think we tried purchasing the system from about summer 2022.
+
+153
+00:06:23,480 --> 00:06:28,240
+We did our first experiments in early spring, summer 2023.
+
+154
+00:06:28,420 --> 00:06:30,920
+So about nine-month, two-year lag. Yeah.
+
+155
+00:06:31,040 --> 00:06:33,800
+[chuckles] Could be worse, could be better.
+
+156
+00:06:34,220 --> 00:06:37,800
+Charles Caskey: That's pretty efficient, I think. I mean, yeah, there's so much that at these
+
+157
+00:06:37,860 --> 00:06:41,860
+large institutes, there's so many barriers to, to getting, to getting a new system,
+
+158
+00:06:42,140 --> 00:06:45,000
+uh, in place and then ready to, ready to use.
+
+159
+00:06:45,080 --> 00:06:48,520
+Sometimes it's literally just the purchasing part somehow, [chuckles] like-
+
+160
+00:06:49,260 --> 00:06:49,760
+Miriam Klein-Flügge: Yeah.
+
+161
+00:06:49,420 --> 00:06:51,440
+Charles Caskey: So yeah, we face this as well.
+
+162
+00:06:51,460 --> 00:06:52,340
+[laughs]
+
+163
+00:06:52,680 --> 00:06:55,160
+Keith Murphy: So the timing for this episode couldn't be better.
+
+164
+00:06:55,480 --> 00:07:00,060
+We were begging Miriam to come on the show before she published what we
+
+165
+00:07:00,200 --> 00:07:02,280
+knew would be a huge paper.
+
+166
+00:07:02,560 --> 00:07:04,000
+It was just published in "Neuron."
+
+167
+00:07:04,840 --> 00:07:07,280
+Miriam, you, you didn't decline, but I think you were a little busy.
+
+168
+00:07:07,320 --> 00:07:13,180
+[laughs] So, so this episode is being recorded after Miriam is now publishing what
+
+169
+00:07:13,240 --> 00:07:15,540
+I'm sure will be a seminal paper in the field.
+
+170
+00:07:15,740 --> 00:07:21,900
+This is now the third paper published in "Neuron" on focused ultrasound
+
+171
+00:07:21,940 --> 00:07:27,940
+neuromodulation. "Neuron" also published the auditory confound papers that came out of the
+
+172
+00:07:28,000 --> 00:07:32,160
+Brain Initiative. So that might have iced "Neuron," and then you coming in and
+
+173
+00:07:32,200 --> 00:07:37,180
+getting this paper shows that they're open for business, and this paper is awesome.
+
+174
+00:07:38,120 --> 00:07:38,620
+Miriam-
+
+175
+00:07:38,360 --> 00:07:39,060
+Miriam Klein-Flügge: Thank you. [laughs]
+
+176
+00:07:39,080 --> 00:07:41,280
+Keith Murphy: ... tell us what it's about, how did you come up with it, and
+
+177
+00:07:41,300 --> 00:07:42,880
+then we'll start ripping the questions.
+
+178
+00:07:43,020 --> 00:07:45,040
+Miriam Klein-Flügge: Okay. Oof. Yeah. Where to even start?
+
+179
+00:07:45,120 --> 00:07:48,220
+So, um, maybe one side of the story is that I have been in
+
+180
+00:07:48,320 --> 00:07:52,200
+love with the amygdala for a long time, and obviously in humans, the only
+
+181
+00:07:52,340 --> 00:07:55,680
+place to go would be patients who have lesions in the amygdala if you
+
+182
+00:07:55,700 --> 00:08:00,140
+want to s- really understand what function it has in a causal, a specific
+
+183
+00:08:00,180 --> 00:08:03,220
+way. And that's not great 'cause they will have a lot of plasticity, and
+
+184
+00:08:03,280 --> 00:08:07,200
+they're few in numbers. Um, and then all our other techniques that I'd worked
+
+185
+00:08:07,240 --> 00:08:09,160
+with before, like TMS, couldn't reach it.
+
+186
+00:08:09,220 --> 00:08:12,940
+So I was obviously super excited when it was clear that in non-human primates
+
+187
+00:08:13,040 --> 00:08:14,940
+we had managed to stimulate this region.
+
+188
+00:08:15,500 --> 00:08:17,780
+Why do I think it's an interesting region?
+
+189
+00:08:18,020 --> 00:08:20,640
+Um, many, so I'll try and keep it short.
+
+190
+00:08:20,720 --> 00:08:23,880
+One is that- [chuckles] ... um, it is one of the key hubs, uh,
+
+191
+00:08:24,060 --> 00:08:29,940
+altered in depression, so it shows abnormal metabolism, heightened metabolism, uh, in depressed, uh,
+
+192
+00:08:30,380 --> 00:08:35,180
+patients, and that's been shown quite a few times, uh, together with another limbic
+
+193
+00:08:35,260 --> 00:08:39,040
+hub, the subgenual ACC. So those seem to be two really important regions for
+
+194
+00:08:39,080 --> 00:08:43,180
+mental health and of course other mood disorders as well, anxiety, et cetera.
+
+195
+00:08:43,440 --> 00:08:47,040
+Keith Murphy: And they show that with PET imaging to, to show that they're hyperactive?
+
+196
+00:08:47,140 --> 00:08:48,060
+Miriam Klein-Flügge: With PET. That's right. Yeah.
+
+197
+00:08:48,100 --> 00:08:53,460
+Keith Murphy: So for the audience, that means that there's higher glucose molecule concentration near that
+
+198
+00:08:53,520 --> 00:08:58,080
+area, and we can detect this with a positron emission tomography if we label
+
+199
+00:08:58,120 --> 00:09:01,820
+those glucose molecules with a, I guess, like, radio decay.
+
+200
+00:09:02,400 --> 00:09:07,300
+Okay. So those regions were super hyperactive, and you think that they're promoting sadness
+
+201
+00:09:07,340 --> 00:09:09,600
+in the brain or some sort of emotional-
+
+202
+00:09:09,620 --> 00:09:13,800
+Miriam Klein-Flügge: They are sort of, you know-- There is plasticity in that network, whatever function
+
+203
+00:09:13,880 --> 00:09:18,740
+that's observed. And, um, and then there's other re- reasons why I think it's
+
+204
+00:09:18,800 --> 00:09:23,060
+a super cool structure. So it's right at the interface between limbic processing, which
+
+205
+00:09:23,100 --> 00:09:27,440
+is, you know, our internal bodily state and our internal emotional well-being, um, and
+
+206
+00:09:27,500 --> 00:09:31,480
+then prefrontal processing, which is, you know, where a lot of cognition happens, a
+
+207
+00:09:31,520 --> 00:09:33,200
+lot of the important decisions we take.
+
+208
+00:09:33,740 --> 00:09:37,580
+Um, and, and so, uh, another thing that is often overlooked is that the
+
+209
+00:09:37,620 --> 00:09:43,660
+amygdala isn't one single region. It's consists of all these really small nuclei.
+
+210
+00:09:44,120 --> 00:09:48,680
+And we had spent some time, um, parcellating the amygdala in its subcomponents, and
+
+211
+00:09:48,720 --> 00:09:53,500
+we know these nuclear divisions matter because they have quite different projection patterns, meaning
+
+212
+00:09:53,860 --> 00:09:57,940
+their connectivity to the rest of the brain is different, suggesting their function is
+
+213
+00:09:57,980 --> 00:10:02,480
+different. So it's not just one hub that subserves one function, but likely quite
+
+214
+00:10:02,520 --> 00:10:06,780
+a few different functions. Um, and so yes, I, I was curious about this
+
+215
+00:10:06,800 --> 00:10:09,940
+region for a long time. So then when ultrasound came along and we felt
+
+216
+00:10:10,020 --> 00:10:14,880
+it was right for use in humans, um, I wanted to do, um, sort
+
+217
+00:10:14,900 --> 00:10:16,360
+of two things in one really.
+
+218
+00:10:16,420 --> 00:10:19,520
+I wanted to do a study because it's the first in my lab with
+
+219
+00:10:19,580 --> 00:10:23,980
+human ultrasound that convinces us that we have made it, uh, you know, we
+
+220
+00:10:24,020 --> 00:10:25,520
+got it to work, so to speak.
+
+221
+00:10:25,720 --> 00:10:29,260
+Um, because I, I believed everyone else's papers, but I want to make sure
+
+222
+00:10:29,300 --> 00:10:30,320
+we're doing it right as well.
+
+223
+00:10:30,560 --> 00:10:34,200
+So we really engaged the circuit, which is why we wanted to have y-
+
+224
+00:10:34,340 --> 00:10:39,440
+different MR measures of the ultrasound effect to really show we've changed the brain.
+
+225
+00:10:40,040 --> 00:10:42,760
+Uh, that was one. But then I thought, well, that would just show that
+
+226
+00:10:42,800 --> 00:10:44,240
+we can do what other people can already do.
+
+227
+00:10:44,320 --> 00:10:47,040
+That's not-- I'm, I'm a curiosity-driven person.
+
+228
+00:10:47,480 --> 00:10:51,160
+Uh, so I also thought, well, isn't there a bit of a weird disconnect,
+
+229
+00:10:51,720 --> 00:10:56,120
+um, which is that in depression, the main problem is not that people have
+
+230
+00:10:56,320 --> 00:11:00,600
+fear. Um, that's maybe true in anxiety or PTSD, but that's not the main
+
+231
+00:11:00,880 --> 00:11:03,540
+issue in depression. And yet it seems to be a hub, and most people,
+
+232
+00:11:03,600 --> 00:11:06,140
+when they talk about the amygdala, talk about fear processing.
+
+233
+00:11:06,640 --> 00:11:08,420
+So at least in humans, in lesion-
+
+234
+00:11:08,640 --> 00:11:09,280
+Keith Murphy: Wait, Miriam, let me ask you.
+
+235
+00:11:09,380 --> 00:11:15,540
+We have-- [laughs] Miriam, I want you to consider Charles'
+
+236
+00:11:15,860 --> 00:11:20,200
+great, great, great, great, great, great, great, great, great, great, great uncle, Makunga Caskey.
+
+237
+00:11:20,780 --> 00:11:21,280
+Miriam Klein-Flügge: Makunga.
+
+238
+00:11:21,220 --> 00:11:21,720
+Keith Murphy: Yeah.
+
+239
+00:11:21,700 --> 00:11:23,060
+Charles Caskey: Big in the family tree. Yeah.
+
+240
+00:11:23,060 --> 00:11:23,560
+[laughs]
+
+241
+00:11:23,340 --> 00:11:26,200
+Keith Murphy: Makunga sitting by a fire in prehistoric times.
+
+242
+00:11:26,380 --> 00:11:26,880
+Miriam Klein-Flügge: Mm-hmm.
+
+243
+00:11:26,400 --> 00:11:32,400
+Keith Murphy: Wooly mammoths running around the plains, spears, loincloths, that kind of thing.
+
+244
+00:11:33,040 --> 00:11:33,540
+Miriam Klein-Flügge: Mm-hmm.
+
+245
+00:11:33,200 --> 00:11:38,040
+Keith Murphy: Under what circumstance would a big, juicy amygdala have helped Makunga?
+
+246
+00:11:38,180 --> 00:11:38,680
+Miriam Klein-Flügge: Mm-hmm.
+
+247
+00:11:38,720 --> 00:11:42,100
+Keith Murphy: And then the, the counter to that is, you know, evolution has brought things
+
+248
+00:11:42,140 --> 00:11:47,000
+in the other direction, where some people have a really small amygdala, like Alex
+
+249
+00:11:47,040 --> 00:11:51,280
+Honnold. When would that have been adaptive, and why has this, this branching path
+
+250
+00:11:51,320 --> 00:11:53,560
+gone in both ways? And Miriam, go.
+
+251
+00:11:53,760 --> 00:11:54,460
+Miriam Klein-Flügge: Yeah, Makunga-
+
+252
+00:11:54,540 --> 00:11:55,040
+Keith Murphy: It's personal
+
+253
+00:11:54,560 --> 00:11:59,220
+Miriam Klein-Flügge: ... would have benefited from a big amygdala for very fast responses, not just
+
+254
+00:11:59,280 --> 00:12:02,720
+to fear, but to any interpretation of em-emotional information, right?
+
+255
+00:12:02,840 --> 00:12:05,880
+So, so fear is often the one that for survival we have to react
+
+256
+00:12:05,920 --> 00:12:08,880
+to the fastest, which is why we call the amygdala the fear center.
+
+257
+00:12:08,920 --> 00:12:12,740
+But if it is important for interpreting emotions fast and deciding what course of
+
+258
+00:12:12,800 --> 00:12:13,440
+action to take-
+
+259
+00:12:13,460 --> 00:12:13,960
+Keith Murphy: Mm-hmm
+
+260
+00:12:13,860 --> 00:12:17,020
+Miriam Klein-Flügge: ... you know, even any other emotion, you know, you know, his very happy
+
+261
+00:12:17,080 --> 00:12:19,260
+wife or partner- [laughs]
+
+262
+00:12:19,300 --> 00:12:19,800
+Keith Murphy: Yeah
+
+263
+00:12:19,360 --> 00:12:21,860
+Miriam Klein-Flügge: ... um, needing a hug 'cause they just had a great day.
+
+264
+00:12:22,080 --> 00:12:25,240
+Maybe that's good to react to that too, even if it's not survival, uh,
+
+265
+00:12:25,400 --> 00:12:25,900
+you know-
+
+266
+00:12:25,600 --> 00:12:26,100
+Keith Murphy: Yes
+
+267
+00:12:25,680 --> 00:12:26,840
+Miriam Klein-Flügge: ... dependent necessarily. Yes.
+
+268
+00:12:26,860 --> 00:12:29,200
+Keith Murphy: So social structure would have benefited Makunga?
+
+269
+00:12:30,220 --> 00:12:36,080
+Miriam Klein-Flügge: Yeah. So I think, I think natural responses to emotional cues and how, yeah,
+
+270
+00:12:36,280 --> 00:12:39,920
+the interpretation that leads to action out of what we see in our social
+
+271
+00:12:39,960 --> 00:12:43,780
+environment. I always, uh, think, you know, there is, there is those days where
+
+272
+00:12:43,840 --> 00:12:46,860
+our line manager might look grumpy, but we still need to talk to them
+
+273
+00:12:46,920 --> 00:12:47,940
+whether we want to or not.
+
+274
+00:12:47,980 --> 00:12:48,480
+And, you know-
+
+275
+00:12:48,280 --> 00:12:48,780
+Keith Murphy: Yeah
+
+276
+00:12:48,360 --> 00:12:51,880
+Miriam Klein-Flügge: ... so sometimes we just need the prefrontal cortex to override what the amygdala
+
+277
+00:12:51,920 --> 00:12:55,060
+is saying and be like, "Yeah, I mean, my natural instinct is don't go
+
+278
+00:12:55,100 --> 00:12:57,040
+close to them, but I, I need something.
+
+279
+00:12:57,060 --> 00:12:58,260
+[chuckles] I need to chat to them."
+
+280
+00:12:58,900 --> 00:13:00,900
+And we can do that, and that's probably quite good.
+
+281
+00:13:01,740 --> 00:13:07,000
+Keith Murphy: I wonder if maybe in, in evolutionary science there is almost selection for distributions
+
+282
+00:13:07,100 --> 00:13:12,340
+rather than one single endpoint. Because in society you may need certain people who
+
+283
+00:13:12,380 --> 00:13:16,760
+are really emotionally engaged and thinking about the group as a whole and their
+
+284
+00:13:16,820 --> 00:13:21,780
+needs, and then you also need Makunga Caskey with a very tiny amygdala who's
+
+285
+00:13:21,820 --> 00:13:25,700
+gonna go and hunt woolly mammoth and not think twice about chucking that spear.
+
+286
+00:13:26,480 --> 00:13:29,340
+Um, so, so I guess, like, could we have ended up in a world
+
+287
+00:13:29,380 --> 00:13:33,420
+where there are both, and can we bias now using your new technologies?
+
+288
+00:13:33,880 --> 00:13:34,380
+Miriam Klein-Flügge: Oh.
+
+289
+00:13:34,000 --> 00:13:37,780
+Keith Murphy: Charles, what-- Wait, Charles, what did Makunga give you?
+
+290
+00:13:37,880 --> 00:13:39,920
+You said you have a small amygdala or big amygdala?
+
+291
+00:13:40,400 --> 00:13:43,920
+Charles Caskey: Oh, it's, it's, um, it's- [laughs] I think it's, I think it's smaller than
+
+292
+00:13:44,040 --> 00:13:46,800
+average. Uh, I think that, that, yeah, I, I haven't get-
+
+293
+00:13:46,840 --> 00:13:47,380
+Keith Murphy: You're a rock climber, aren't you?
+
+294
+00:13:47,380 --> 00:13:47,880
+You're, you're a big risk taker
+
+295
+00:13:47,820 --> 00:13:50,600
+Charles Caskey: ... I've engaged in a lot of activities that it-- But it might be
+
+296
+00:13:50,660 --> 00:13:54,160
+cognitive override now that Miriam's informed me that I, that it might just be
+
+297
+00:13:54,200 --> 00:13:57,280
+my-- It might have just been my youthful brain thinking I needed to be
+
+298
+00:13:57,340 --> 00:13:59,840
+manly, you know? So I was like, "I gotta climb these rocks."
+
+299
+00:13:59,900 --> 00:14:03,000
+So maybe, you know, 'cause I was scared when I was doing a lot
+
+300
+00:14:03,040 --> 00:14:07,880
+of rock climbing [laughs] So, um, so yeah.
+
+301
+00:14:08,020 --> 00:14:10,280
+So I think that that's what I inherited from Makunga.
+
+302
+00:14:10,860 --> 00:14:12,740
+Um, but, but I, I-- But yeah, I think you're right.
+
+303
+00:14:12,760 --> 00:14:15,200
+I mean, uh, about this idea that we do have both.
+
+304
+00:14:15,260 --> 00:14:19,280
+I mean, the people that just went on the Artemis mission, uh, two mission
+
+305
+00:14:19,380 --> 00:14:22,480
+to, you know, going over to the moon, that's-- I don't think your average
+
+306
+00:14:22,600 --> 00:14:26,120
+person [laughs] is, is wanting to do that.
+
+307
+00:14:28,440 --> 00:14:29,200
+It's insane.
+
+308
+00:14:29,480 --> 00:14:33,020
+Miriam Klein-Flügge: Yeah. [laughs] I remember I, I, I went to one of those like high
+
+309
+00:14:33,080 --> 00:14:35,360
+rope, uh, you know, climbing gardens- Oh, very cool ...
+
+310
+00:14:35,400 --> 00:14:38,820
+and they attach you at the back, so you are attached, but you don't
+
+311
+00:14:38,900 --> 00:14:39,840
+see it with your own eyes.
+
+312
+00:14:39,880 --> 00:14:41,100
+It's just you know it's behind you.
+
+313
+00:14:41,480 --> 00:14:44,400
+And I-- and there's a point where you have to jump into the void,
+
+314
+00:14:44,540 --> 00:14:46,880
+and then it sort of catches you, and you sort of, you know, go
+
+315
+00:14:46,940 --> 00:14:47,440
+along with it.
+
+316
+00:14:47,420 --> 00:14:47,920
+Keith Murphy: Whoa. Yeah.
+
+317
+00:14:47,940 --> 00:14:49,340
+Miriam Klein-Flügge: Uh, it's like a zip wire basically.
+
+318
+00:14:49,620 --> 00:14:50,120
+Charles Caskey: Yeah, yeah.
+
+319
+00:14:49,800 --> 00:14:53,440
+Miriam Klein-Flügge: But you have to literally jump into the nowhere knowing you would die if
+
+320
+00:14:53,480 --> 00:14:57,480
+you weren't attached. And I was just thinking this is the best example.
+
+321
+00:14:57,640 --> 00:15:00,580
+I, I really do not feel like jumping is a great idea, but my
+
+322
+00:15:00,620 --> 00:15:01,560
+prefrontal cortex- I don't know. It's a great idea ...
+
+323
+00:15:01,580 --> 00:15:03,060
+tells me I am attached, right?
+
+324
+00:15:03,220 --> 00:15:06,960
+So I will be fine. [laughs] And it's, it's this battle.
+
+325
+00:15:07,800 --> 00:15:11,020
+Charles Caskey: Yeah. It's an amazing experience to be like, "I'm gonna do it anyway.
+
+326
+00:15:11,100 --> 00:15:13,380
+We're g- [laughs] This, this rope's got me."
+
+327
+00:15:13,740 --> 00:15:14,240
+It's-
+
+328
+00:15:14,280 --> 00:15:14,780
+Miriam Klein-Flügge: Yeah.
+
+329
+00:15:15,660 --> 00:15:17,360
+Keith Murphy: What do you think the cavemen were sad about?
+
+330
+00:15:18,780 --> 00:15:21,600
+No meat? [laughs]
+
+331
+00:15:21,660 --> 00:15:22,580
+Miriam Klein-Flügge: It's a good question.
+
+332
+00:15:22,600 --> 00:15:24,680
+Keith Murphy: Miriam, what about, what about depression and sadness?
+
+333
+00:15:26,080 --> 00:15:29,960
+Miriam Klein-Flügge: Yeah. It's a good question. I don't have the answer to why we evolved
+
+334
+00:15:30,400 --> 00:15:34,560
+to have it. I'm sure it has some protective function because sometimes we need
+
+335
+00:15:34,600 --> 00:15:38,320
+to maybe retract from a situation because it's not good for us.
+
+336
+00:15:38,380 --> 00:15:40,180
+It makes us feel not very good.
+
+337
+00:15:40,240 --> 00:15:44,020
+But I'm, I'm speculating here. I don't know the evolutionary story of sadness.
+
+338
+00:15:44,060 --> 00:15:44,580
+Do you, Keith?
+
+339
+00:15:45,340 --> 00:15:49,460
+Keith Murphy: No, I don't. Nevertheless, it is here now, and Miriam, for the first time,
+
+340
+00:15:49,600 --> 00:15:51,820
+has a tool that she can access it with.
+
+341
+00:15:52,620 --> 00:15:54,280
+We'll ask our listeners to drop comments.
+
+342
+00:15:54,780 --> 00:15:56,940
+Why do you think that we have depression?
+
+343
+00:15:57,360 --> 00:15:58,760
+What did the caveman feel sad about?
+
+344
+00:15:58,760 --> 00:15:59,400
+Miriam Klein-Flügge: Good one.
+
+345
+00:15:59,440 --> 00:16:00,660
+Keith Murphy: Okay. We'll bring that back later.
+
+346
+00:16:01,140 --> 00:16:02,240
+Okay. So Miriam, where were we?
+
+347
+00:16:02,400 --> 00:16:03,300
+So you have this new tool.
+
+348
+00:16:03,500 --> 00:16:04,020
+You have ultrasound.
+
+349
+00:16:04,060 --> 00:16:04,560
+Miriam Klein-Flügge: Yes.
+
+350
+00:16:04,320 --> 00:16:06,520
+Keith Murphy: You're getting in the brain, your favorite circuit.
+
+351
+00:16:06,640 --> 00:16:08,540
+Miriam Klein-Flügge: And we want to resolve this disconnect.
+
+352
+00:16:08,600 --> 00:16:12,900
+Surely the amygdala doesn't, doesn't just do fear if it's so important, uh, in
+
+353
+00:16:12,940 --> 00:16:16,220
+depression. But also we knew that already from some animal work, but no one
+
+354
+00:16:16,240 --> 00:16:20,140
+had really been able to show how does the sort of impairment we associate
+
+355
+00:16:20,180 --> 00:16:22,760
+with depression maybe map onto or do they?
+
+356
+00:16:23,000 --> 00:16:26,180
+It's an open question, right? Do they map onto that brain circuit to some
+
+357
+00:16:26,220 --> 00:16:30,380
+extent? And the sort of computations that in my mind, and based on some
+
+358
+00:16:30,420 --> 00:16:33,980
+of the literature we were associating with depression, is affective biases.
+
+359
+00:16:34,140 --> 00:16:38,380
+So for example, um, a depressed person will be less likely to see a
+
+360
+00:16:38,420 --> 00:16:42,440
+neutral face as slightly positive, while a healthy volunteer-
+
+361
+00:16:42,500 --> 00:16:43,000
+Keith Murphy: Mm-hmm
+
+362
+00:16:42,520 --> 00:16:45,700
+Miriam Klein-Flügge: ... will generally interpret a neutral face as slightly positive.
+
+363
+00:16:46,180 --> 00:16:48,080
+And something similar goes with learning.
+
+364
+00:16:48,200 --> 00:16:52,260
+So if I tell someone healthy, "What is your chance of having something bad
+
+365
+00:16:52,300 --> 00:16:54,940
+happen to you or something good happen to you, like winning in the lottery?"
+
+366
+00:16:55,340 --> 00:16:57,180
+They will update more from the good news.
+
+367
+00:16:57,260 --> 00:17:01,320
+That's our optimism, optimism bias kicking in, and that is less pronounced.
+
+368
+00:17:01,400 --> 00:17:06,140
+So people with depression will learn more from the negative information than sort of,
+
+369
+00:17:06,320 --> 00:17:08,900
+um, you know, someone who is healthy or neurotypical.
+
+370
+00:17:09,340 --> 00:17:13,900
+And, um, yeah. So, um, I wondered what about those, uh, kind of mechanisms
+
+371
+00:17:13,980 --> 00:17:17,060
+then? Is the amygdala important for those as well, or is it another circuit?
+
+372
+00:17:17,120 --> 00:17:18,980
+So now we could ask this with causal tools..
+
+373
+00:17:19,400 --> 00:17:23,280
+So we designed this task where people have to judge an emotion of a
+
+374
+00:17:23,320 --> 00:17:26,940
+face, and based on their assessment of what emotion it is, they have to
+
+375
+00:17:26,980 --> 00:17:28,820
+decide if they want to approach or avoid it.
+
+376
+00:17:29,320 --> 00:17:34,000
+Um, and so it taps into these very innate biases that are well described,
+
+377
+00:17:34,040 --> 00:17:38,040
+that when you see a very happy or any positive emotion, uh, face, you
+
+378
+00:17:38,080 --> 00:17:40,760
+want to approach it more than avoid it, and vice versa if you see
+
+379
+00:17:40,800 --> 00:17:44,880
+an angry or fearful face. The, the tendency we have very naturally is to
+
+380
+00:17:44,920 --> 00:17:48,060
+then avoid the negative stimuli. So we thought we could make use of that
+
+381
+00:17:48,140 --> 00:17:51,280
+and design a task where we tap into these very natural biases that are
+
+382
+00:17:51,800 --> 00:17:54,360
+probably serving a h- you know, helpful function.
+
+383
+00:17:55,000 --> 00:17:58,320
+Um, and we also wanted to see if these learning biases might be there.
+
+384
+00:17:58,400 --> 00:18:01,240
+So we had people actually learn what the correct action was.
+
+385
+00:18:01,800 --> 00:18:03,600
+Um, and so basically it was, uh-
+
+386
+00:18:03,600 --> 00:18:05,900
+Keith Murphy: Do you have to tell them like, "You have to walk away if it's
+
+387
+00:18:05,960 --> 00:18:07,820
+scary, and you walk towards it if it's not"?
+
+388
+00:18:08,280 --> 00:18:09,760
+Miriam Klein-Flügge: So they had to figure it out themselves.
+
+389
+00:18:09,860 --> 00:18:12,160
+And so we would sometimes have them do the congruent thing.
+
+390
+00:18:12,540 --> 00:18:15,780
+So at this certain point in time, a happy face needs to be approached.
+
+391
+00:18:15,820 --> 00:18:19,740
+That's congruent, that's natural. Uh, and they had to figure it out based on
+
+392
+00:18:19,780 --> 00:18:23,080
+the feedback we gave them. And but sometimes they would see a happy face,
+
+393
+00:18:23,160 --> 00:18:25,660
+and if, if they approached it, the feedback would be that they got it
+
+394
+00:18:25,700 --> 00:18:28,860
+wrong, and they would work out that at this point in time they need
+
+395
+00:18:28,880 --> 00:18:33,020
+to do the incongruent or, you know, counterintuitive thing, if you like, which is
+
+396
+00:18:33,100 --> 00:18:35,380
+to avoid the happy face. And that's harder-
+
+397
+00:18:35,640 --> 00:18:36,140
+Keith Murphy: This, this was like-
+
+398
+00:18:36,080 --> 00:18:36,760
+Miriam Klein-Flügge: ... and we take longer to do it
+
+399
+00:18:36,860 --> 00:18:39,700
+Keith Murphy: ... two, two buttons, and then you would expand the face on the screen
+
+400
+00:18:39,820 --> 00:18:42,120
+or make it smaller. So it was like an electronic task.
+
+401
+00:18:42,180 --> 00:18:42,680
+Miriam Klein-Flügge: Exactly. Yeah.
+
+402
+00:18:42,560 --> 00:18:45,780
+Keith Murphy: Did you guys consider like the, uh, the glass is half full as a
+
+403
+00:18:45,840 --> 00:18:47,660
+task? Or like, is it empty or is it full?
+
+404
+00:18:48,160 --> 00:18:50,180
+Or was there a, was there a debate in the lab of like, "Well,
+
+405
+00:18:50,240 --> 00:18:52,200
+what's the best task? Why'd you pick human faces?"
+
+406
+00:18:52,220 --> 00:18:53,260
+Miriam Klein-Flügge: Oh, yeah. Oh, yeah. Long debate.
+
+407
+00:18:53,280 --> 00:18:53,780
+[laughs]
+
+408
+00:18:53,860 --> 00:18:54,700
+Keith Murphy: Yeah. [laughs]
+
+409
+00:18:54,760 --> 00:18:56,200
+Miriam Klein-Flügge: I think, I think if, if I had my way-
+
+410
+00:18:56,200 --> 00:18:56,840
+Keith Murphy: One of you guys got killed.
+
+411
+00:18:58,960 --> 00:19:01,560
+Miriam Klein-Flügge: No, it was good debates, but I think if we had waited for everyone
+
+412
+00:19:01,600 --> 00:19:05,300
+to think we have a resolved, you know, or gotten to the perfect task,
+
+413
+00:19:05,360 --> 00:19:07,200
+we would have never started this study to this point.
+
+414
+00:19:07,500 --> 00:19:09,800
+So at one point we had to say, "Look, we're gonna focus on these
+
+415
+00:19:09,840 --> 00:19:14,460
+two processes. That's the task. We're not gonna solve every question with one task.
+
+416
+00:19:14,520 --> 00:19:18,200
+So let's, let's go with this because we can measure these intuitive biases with
+
+417
+00:19:18,260 --> 00:19:23,280
+it, um, at normal, you know, sham under sham task conditions or FUS conditions.
+
+418
+00:19:23,780 --> 00:19:27,900
+Um, and we can, we can measure if people can learn, uh, from feedback."
+
+419
+00:19:28,020 --> 00:19:30,000
+And those were the two things we decided to focus on.
+
+420
+00:19:30,460 --> 00:19:33,060
+Um, and as I said, it was-- Uh, well, I haven't actually said this
+
+421
+00:19:33,080 --> 00:19:37,160
+yet. So we r- applied offline TUS, meaning we didn't have people in the
+
+422
+00:19:37,280 --> 00:19:40,080
+MR as we applied the focused ultrasound.
+
+423
+00:19:40,600 --> 00:19:44,000
+Um, but we moved them in as quickly as we could once we had
+
+424
+00:19:44,080 --> 00:19:49,620
+stimulated them. Um, and our way to kind of control for spatial specificity of
+
+425
+00:19:49,680 --> 00:19:54,560
+our stimulation was to also have them undergo stimulation of the midinsula, which was
+
+426
+00:19:54,620 --> 00:19:59,140
+a good control because the transducer could be placed exactly on the same location
+
+427
+00:19:59,180 --> 00:20:02,120
+here on the temples, uh, to go through the temple window.
+
+428
+00:20:02,580 --> 00:20:05,560
+Um, and then in a third session, and these were all counterbalanced, they would
+
+429
+00:20:05,600 --> 00:20:07,920
+get no stimulation, so it was just a tone played.
+
+430
+00:20:07,960 --> 00:20:09,440
+So that was our sham condition.
+
+431
+00:20:09,460 --> 00:20:13,440
+Keith Murphy: Did you have a goal of whether or not you wanted to turn up
+
+432
+00:20:13,580 --> 00:20:15,740
+the signal from the amygdala or turn it down?
+
+433
+00:20:17,060 --> 00:20:21,040
+Miriam Klein-Flügge: Good question. But no. We were like at this point with our very first
+
+434
+00:20:21,080 --> 00:20:21,580
+initial study- [laughs]
+
+435
+00:20:21,580 --> 00:20:22,080
+Keith Murphy: Just do something
+
+436
+00:20:21,760 --> 00:20:24,880
+Miriam Klein-Flügge: ... and this was before your paper came out, Keith, that we planned it
+
+437
+00:20:24,920 --> 00:20:28,760
+all. Um, we were just happy to accept that we could produce any change
+
+438
+00:20:28,800 --> 00:20:32,280
+in the brain, honestly. At this point, at this point, I was the, uh,
+
+439
+00:20:32,520 --> 00:20:36,780
+probably the most-- My, my biggest fear was not that we did anything unsafe,
+
+440
+00:20:36,860 --> 00:20:39,860
+but that just not enough energy would get in the skull with the sort
+
+441
+00:20:39,880 --> 00:20:44,160
+of system we had and with the, you know, tighter sort of safety guidelines
+
+442
+00:20:44,180 --> 00:20:46,320
+compared our not, our non-human primate work.
+
+443
+00:20:46,800 --> 00:20:50,000
+Um, and you know, they, they're all, you know, it's good that they're there,
+
+444
+00:20:50,100 --> 00:20:53,300
+but I was sort of worried maybe there just isn't gonna be enough energy
+
+445
+00:20:53,420 --> 00:20:54,660
+to do anything to behavior.
+
+446
+00:20:55,000 --> 00:20:57,820
+Charles Caskey: One of the things that I think is one of the coolest and greatest
+
+447
+00:20:57,920 --> 00:21:02,180
+strengths of this paper is that it integrates functional as well as chemical readouts
+
+448
+00:21:02,200 --> 00:21:05,480
+from the MRI. But you're-- We're talking a lot about behavior, and I think
+
+449
+00:21:05,520 --> 00:21:08,620
+having all three of them is what makes it, it so strong.
+
+450
+00:21:09,100 --> 00:21:12,440
+And I was just wondering, uh, some people may not be aware of how
+
+451
+00:21:12,460 --> 00:21:16,820
+behavior is assessed, and we kind of talked about like seeing pictures, responding to
+
+452
+00:21:16,880 --> 00:21:20,160
+them, and things like that. Can you just walk through kind of what a,
+
+453
+00:21:20,420 --> 00:21:23,440
+what a typical subject, it goes through?
+
+454
+00:21:23,620 --> 00:21:25,660
+Like, what are you reading? What are you reading out?
+
+455
+00:21:25,700 --> 00:21:27,140
+Like, and how long is the session?
+
+456
+00:21:27,260 --> 00:21:30,360
+Miriam Klein-Flügge: Yeah, of course. So yeah, in their planning visit, they have nothing to do
+
+457
+00:21:30,420 --> 00:21:34,400
+with the, uh, task yet. So this only happens in the actual ultrasound visits.
+
+458
+00:21:34,840 --> 00:21:39,040
+In the ultrasound visits, they will all be identical no matter which, uh, condition
+
+459
+00:21:39,100 --> 00:21:43,960
+they're, uh, receiving stimulation for. And what will happen is before any, um, TUS
+
+460
+00:21:44,120 --> 00:21:46,920
+is, uh, applied-- Sorry, I will get this wrong so many times.
+
+461
+00:21:47,060 --> 00:21:48,400
+FUS. [laughs]
+
+462
+00:21:48,460 --> 00:21:49,440
+Charles Caskey: No, we can call it TUS.
+
+463
+00:21:49,660 --> 00:21:51,220
+We can call it TUS for in your honor.
+
+464
+00:21:51,260 --> 00:21:51,760
+Keith Murphy: You can call it whatever you want.
+
+465
+00:21:51,720 --> 00:21:54,220
+Miriam Klein-Flügge: For today, for my friend that can't update in real time.
+
+466
+00:21:54,220 --> 00:21:54,720
+[laughs]
+
+467
+00:21:54,240 --> 00:21:55,420
+Keith Murphy: You can call it whatever you want, Miriam.
+
+468
+00:21:56,100 --> 00:21:57,680
+Charles Caskey: We know what you mean. [laughs]
+
+469
+00:21:57,700 --> 00:22:01,380
+Miriam Klein-Flügge: Oh, cool. I'm glad you are so, you know, accepting of these Europeans.
+
+470
+00:22:01,400 --> 00:22:04,520
+[laughs] Um, so, uh, in, in any case.
+
+471
+00:22:04,840 --> 00:22:06,320
+So we will give them a short instruction.
+
+472
+00:22:06,640 --> 00:22:10,620
+So they will play like a little game on a computer, and we will
+
+473
+00:22:10,860 --> 00:22:12,360
+first tell them how it works.
+
+474
+00:22:12,560 --> 00:22:14,340
+Uh, so they will read how it works.
+
+475
+00:22:14,420 --> 00:22:16,480
+Then we will ask them if they've understood it or if they have any
+
+476
+00:22:16,520 --> 00:22:20,480
+questions. And basically, um, then we sort of stand behind them as they play
+
+477
+00:22:20,560 --> 00:22:22,360
+it and talk them through it again.
+
+478
+00:22:22,480 --> 00:22:25,200
+And we say, "Look, here you got this feedback that is a tick, which
+
+479
+00:22:25,240 --> 00:22:26,880
+means you got the response correct.
+
+480
+00:22:27,260 --> 00:22:28,320
+Uh, but now you got a cross.
+
+481
+00:22:28,420 --> 00:22:30,600
+That means you could be making the wrong response."
+
+482
+00:22:30,920 --> 00:22:34,440
+The p- feedback was actually probabilistic, so occasionally you get wrong p- feedback even
+
+483
+00:22:34,480 --> 00:22:37,260
+for the correct response. But, uh, we can glance over that detail.
+
+484
+00:22:37,540 --> 00:22:39,960
+But so basically, we talk them through it in quite a lot of detail.
+
+485
+00:22:40,080 --> 00:22:43,300
+So it's very, very simple 'cause they just see one face on the screen
+
+486
+00:22:43,340 --> 00:22:45,680
+at a time. As Keith said, they press one of two buttons.
+
+487
+00:22:45,720 --> 00:22:48,660
+So they get it all very quickly, and they just need to integrate the
+
+488
+00:22:48,700 --> 00:22:52,020
+feedback they get. And so the two things we measure is just what choice
+
+489
+00:22:52,060 --> 00:22:54,020
+they make and how fast they make that choice.
+
+490
+00:22:54,420 --> 00:22:58,120
+And then once we've applied TUS, they will play the exact same task but
+
+491
+00:22:58,200 --> 00:23:00,580
+in the scanner. So we have a little screen that sits on top of
+
+492
+00:23:00,620 --> 00:23:04,600
+a mirror, uh, which is, you know, you know, then getting the projection from,
+
+493
+00:23:04,960 --> 00:23:09,060
+uh, yeah, so our, our kind of computer program onto the mirror so that
+
+494
+00:23:09,080 --> 00:23:10,340
+they can see it in the scanner.
+
+495
+00:23:11,360 --> 00:23:14,000
+And, um, yeah. And then in the scanner, they have a button box as
+
+496
+00:23:14,040 --> 00:23:16,060
+well. So everything is exactly as we trained them.
+
+497
+00:23:16,560 --> 00:23:21,840
+And then they play it for, um, about 20 minutes, um, first in two
+
+498
+00:23:21,920 --> 00:23:25,120
+blocks, and then for another, uh, 20 minutes a little bit later.
+
+499
+00:23:25,160 --> 00:23:27,300
+So we give them a bit of a break, uh, in between.
+
+500
+00:23:27,340 --> 00:23:27,840
+Charles Caskey: Okay.
+
+501
+00:23:27,520 --> 00:23:29,620
+Miriam Klein-Flügge: But basically, they play about 40 minutes of the task.
+
+502
+00:23:29,660 --> 00:23:32,220
+So we-- they do 500 faces or so.
+
+503
+00:23:32,720 --> 00:23:33,580
+Uh, so it's quite a lot-
+
+504
+00:23:33,640 --> 00:23:34,140
+Charles Caskey: Okay.
+
+505
+00:23:33,720 --> 00:23:35,080
+Miriam Klein-Flügge: Yeah ... of responses. Yeah. So a bit-
+
+506
+00:23:35,080 --> 00:23:35,960
+Charles Caskey: It's a lot of data. Yeah
+
+507
+00:23:35,960 --> 00:23:36,560
+Miriam Klein-Flügge: ... yeah.
+
+508
+00:23:36,600 --> 00:23:40,780
+Charles Caskey: Mm-hmm. Yeah. Okay, cool. To, yeah, it's a task where they come in, they
+
+509
+00:23:40,820 --> 00:23:44,220
+learn the task, they get familiar with it outside of the scanner, and then
+
+510
+00:23:44,260 --> 00:23:47,360
+when they're in the scanner, that's when you-- And in that case, are you
+
+511
+00:23:47,400 --> 00:23:50,960
+making the-- What, what measurements are you making with the MRI in that case?
+
+512
+00:23:50,980 --> 00:23:52,480
+'Cause that's like, that's actually real time.
+
+513
+00:23:52,600 --> 00:23:57,200
+Miriam Klein-Flügge: So yeah. So good question. So in the first half, we actually acquired task
+
+514
+00:23:57,320 --> 00:23:59,380
+fMRI data, which is not in the paper at all.
+
+515
+00:23:59,840 --> 00:24:01,040
+Uh- [laughs] ... but that will come.
+
+516
+00:24:01,040 --> 00:24:01,840
+[laughs]
+
+517
+00:24:01,900 --> 00:24:02,400
+Charles Caskey: Okay, cool.
+
+518
+00:24:02,420 --> 00:24:02,920
+Keith Murphy: That's cool.
+
+519
+00:24:03,260 --> 00:24:05,940
+Miriam Klein-Flügge: It was, uh, it was, uh, yeah, so much data, we at one point
+
+520
+00:24:05,980 --> 00:24:08,080
+decided, "Let's just write the paper on what we've got."
+
+521
+00:24:08,500 --> 00:24:09,000
+Um-
+
+522
+00:24:08,520 --> 00:24:12,320
+Keith Murphy: Oh, so you had some like online effects or not online, but very rapid
+
+523
+00:24:12,400 --> 00:24:13,200
+acting effects.
+
+524
+00:24:13,760 --> 00:24:19,900
+Miriam Klein-Flügge: So not online TUS, uh, but we have measures of their task activation with
+
+525
+00:24:19,960 --> 00:24:23,500
+functional imaging, um- Okay ... which we haven't yet fully analyzed.
+
+526
+00:24:23,560 --> 00:24:24,540
+Yeah. So that's, that's the-
+
+527
+00:24:24,640 --> 00:24:25,660
+Keith Murphy: Oh, gotcha. I thought you were gonna say-
+
+528
+00:24:25,660 --> 00:24:26,160
+Miriam Klein-Flügge: ... good part. We're on it.
+
+529
+00:24:26,200 --> 00:24:27,220
+We're on it. Um-
+
+530
+00:24:27,260 --> 00:24:27,760
+Keith Murphy: So we're good
+
+531
+00:24:27,420 --> 00:24:30,440
+Miriam Klein-Flügge: ... but so basically that, but then also we had them play the task
+
+532
+00:24:30,480 --> 00:24:32,320
+when we acquired the MRS voxels.
+
+533
+00:24:32,420 --> 00:24:36,680
+So MRS just measures metabolites in the brain, and we had MRS measured both
+
+534
+00:24:36,720 --> 00:24:39,340
+in the amygdala and in the insula 'cause those were our two targets.
+
+535
+00:24:39,740 --> 00:24:42,540
+And so each voxel took about 10 minutes to acquire.
+
+536
+00:24:42,800 --> 00:24:45,220
+And so we had them play the task during those two 10 minutes as
+
+537
+00:24:45,260 --> 00:24:48,560
+well. So they were actually engaged in a state, so to speak, while we-
+
+538
+00:24:48,640 --> 00:24:49,140
+Charles Caskey: Oh, yeah
+
+539
+00:24:48,920 --> 00:24:50,500
+Miriam Klein-Flügge: ... acquired those metabolite measures. Yeah.
+
+540
+00:24:50,880 --> 00:24:53,500
+Charles Caskey: So the m-- Okay. So the, so for those who are not familiar with
+
+541
+00:24:53,660 --> 00:24:56,500
+MRS, this is magnetic resonance spectroscopy.
+
+542
+00:24:57,000 --> 00:25:01,620
+Um, I-- Is it, it's, it's the general idea that certain molecules have different,
+
+543
+00:25:01,820 --> 00:25:05,880
+uh, resonance, uh, to the MRI, and you can create an image of them.
+
+544
+00:25:06,340 --> 00:25:08,980
+MRI usually-- I guess you're still getting a water signal.
+
+545
+00:25:09,040 --> 00:25:13,020
+Do you know much about the, the, about, uh, spectroscopy as far as a,
+
+546
+00:25:13,180 --> 00:25:15,300
+as an imaging modality or mainly a user?
+
+547
+00:25:15,580 --> 00:25:17,840
+Miriam Klein-Flügge: More as a user, but we've learned a little bit along the way.
+
+548
+00:25:17,900 --> 00:25:20,000
+Yeah, you still get the water peak, and you have to sort of try
+
+549
+00:25:20,020 --> 00:25:23,560
+and suppress it. Uh, so we tried to optimize the thickness, which was quite
+
+550
+00:25:23,660 --> 00:25:26,820
+hard for the amygdala. No one ever does MRS in the amygdala, and we
+
+551
+00:25:26,840 --> 00:25:28,560
+know now why. [laughs] 'Cause it's impossible.
+
+552
+00:25:28,600 --> 00:25:30,740
+Charles Caskey: Well, y- you all were at 7T too, right?
+
+553
+00:25:30,840 --> 00:25:32,880
+It's a, it's a, a stronger magnet.
+
+554
+00:25:33,060 --> 00:25:34,680
+Wasn't all this done at a human 7T?
+
+555
+00:25:35,630 --> 00:25:38,770
+Miriam Klein-Flügge: We did it at 7T because that was the only chance to get MRS
+
+556
+00:25:38,810 --> 00:25:42,330
+data from the amygdala. But even then, we have like a resident MRS expert,
+
+557
+00:25:42,390 --> 00:25:44,370
+Will Clarke, who was amazing. He was-- He's on the paper.
+
+558
+00:25:44,430 --> 00:25:47,530
+He was very helpful. And he was like, "Oh my, are you sure you
+
+559
+00:25:47,570 --> 00:25:48,830
+want to do this?" [chuckles]
+
+560
+00:25:48,930 --> 00:25:49,430
+Keith Murphy: Yes. [chuckles]
+
+561
+00:25:49,310 --> 00:25:52,250
+Miriam Klein-Flügge: But he was very helpful and, you know, um, but it-- As you noticed,
+
+562
+00:25:52,350 --> 00:25:55,170
+we did not get good signal in everyone, so we had to restrict it
+
+563
+00:25:55,210 --> 00:25:57,270
+to the people where we actually got a decent measurement.
+
+564
+00:25:57,610 --> 00:25:58,290
+Keith Murphy: Wow. Okay. Yeah.
+
+565
+00:25:58,430 --> 00:25:59,070
+Miriam Klein-Flügge: Which wasn't everyone.
+
+566
+00:25:59,110 --> 00:26:01,410
+Keith Murphy: 7T is a beast. Did you have a lot of people like twitching in
+
+567
+00:26:01,430 --> 00:26:03,010
+the scanner and getting really dizzy?
+
+568
+00:26:03,150 --> 00:26:04,830
+I mean, that's a huge magnetic field.
+
+569
+00:26:04,910 --> 00:26:08,310
+Miriam Klein-Flügge: Not a lot, but we had three people drop out 'cause they got quite
+
+570
+00:26:08,350 --> 00:26:11,370
+nauseous going in. So I think it's the going in and out that some-
+
+571
+00:26:11,390 --> 00:26:11,890
+Keith Murphy: Yeah
+
+572
+00:26:11,410 --> 00:26:15,530
+Miriam Klein-Flügge: ... people feel like twitching also, but, but some actually feel quite sick.
+
+573
+00:26:15,690 --> 00:26:16,190
+Um, so.
+
+574
+00:26:15,770 --> 00:26:17,830
+Keith Murphy: My, my back sometimes twitches on the-
+
+575
+00:26:17,910 --> 00:26:18,410
+Miriam Klein-Flügge: Oh, really?
+
+576
+00:26:18,350 --> 00:26:19,170
+Keith Murphy: ... edge of the MRI. Yeah.
+
+577
+00:26:19,210 --> 00:26:20,590
+It's like stimulating some sort of-
+
+578
+00:26:21,210 --> 00:26:21,710
+Miriam Klein-Flügge: Okay
+
+579
+00:26:21,430 --> 00:26:24,150
+Keith Murphy: ... muscle or something. Can be quite painful.
+
+580
+00:26:24,390 --> 00:26:29,650
+Miriam, I want you to consider while telling this story, we're going in with
+
+581
+00:26:29,710 --> 00:26:33,910
+ultrasound with parameters and expectations and measurements, and they don't always line up to
+
+582
+00:26:33,950 --> 00:26:39,170
+what we thought would happen or what, um, even within those measurements, what should
+
+583
+00:26:39,190 --> 00:26:42,610
+have happened. So I think like early on, it's kind of like, let's just
+
+584
+00:26:42,670 --> 00:26:44,610
+explore and s- and look for change.
+
+585
+00:26:44,770 --> 00:26:46,030
+You were just looking for change.
+
+586
+00:26:46,150 --> 00:26:46,910
+Miriam Klein-Flügge: That's right. Yeah.
+
+587
+00:26:46,930 --> 00:26:50,670
+Keith Murphy: Can we perturb the system? So with this MRS, what did you find with
+
+588
+00:26:50,730 --> 00:26:52,070
+GABA in the amygdala?
+
+589
+00:26:52,850 --> 00:26:57,890
+Miriam Klein-Flügge: Yeah. So, um, what we found, basically, we measured two metabolites, glutamate and GABA,
+
+590
+00:26:58,430 --> 00:27:01,970
+um, to sort of have an excitation-inhibition balance measure.
+
+591
+00:27:02,610 --> 00:27:06,230
+Um, and we didn't actually find any change in glutamate, uh, but we did
+
+592
+00:27:06,290 --> 00:27:12,030
+find that after amygdala ultrasound, that GABA was increased in the amygdala.
+
+593
+00:27:12,650 --> 00:27:15,110
+But if you read the full story, you'll see that that is not what
+
+594
+00:27:15,150 --> 00:27:16,790
+happened in the insula, which is interesting.
+
+595
+00:27:16,830 --> 00:27:18,430
+And, you know, if you want, we can come back to it.
+
+596
+00:27:18,490 --> 00:27:20,570
+In the insula, we saw a decrease in GABA.
+
+597
+00:27:20,870 --> 00:27:21,370
+Keith Murphy: Mm-hmm.
+
+598
+00:27:20,970 --> 00:27:22,950
+Miriam Klein-Flügge: Meaning-- And also no change in glutamate.
+
+599
+00:27:23,050 --> 00:27:28,250
+So the, the net E/I balance, excitation-inhibition balance effect that we saw was actually
+
+600
+00:27:28,730 --> 00:27:32,930
+inverted in the two brain regions, which is super interesting to me, but I
+
+601
+00:27:32,950 --> 00:27:36,350
+don't think what most people would necessarily expect if you think about it only-
+
+602
+00:27:36,390 --> 00:27:36,890
+Keith Murphy: Mm-hmm
+
+603
+00:27:36,430 --> 00:27:39,870
+Miriam Klein-Flügge: ... for a short amount of time, 'cause our protocol was actually identical.
+
+604
+00:27:39,930 --> 00:27:44,410
+We stimulated both brain regions for 80 seconds using this five hertz protocol.
+
+605
+00:27:44,930 --> 00:27:48,630
+Uh, so it, it, you know, and the same energy, the same, uh, you
+
+606
+00:27:48,670 --> 00:27:51,230
+know, ISPPA in situ as much as we could.
+
+607
+00:27:51,310 --> 00:27:53,450
+We balanced it out between the two regions, et cetera.
+
+608
+00:27:53,810 --> 00:27:56,470
+So we were trying to be very careful to do everything identical.
+
+609
+00:27:56,970 --> 00:27:57,470
+Keith Murphy: Mm-hmm.
+
+610
+00:27:57,230 --> 00:28:00,710
+Miriam Klein-Flügge: But the effect on the system or on that circuit wasn't-
+
+611
+00:28:00,810 --> 00:28:01,310
+Keith Murphy: Yeah
+
+612
+00:28:00,890 --> 00:28:01,390
+Miriam Klein-Flügge: ... the same.
+
+613
+00:28:01,690 --> 00:28:06,530
+Keith Murphy: Do you think the GABA neurons coming in and synapsing onto your amygdala cell
+
+614
+00:28:06,610 --> 00:28:10,810
+bodies were being, um, excited, or do you think that, uh, is it that
+
+615
+00:28:10,850 --> 00:28:13,270
+the amygdala outputs are GABAergic neurons?
+
+616
+00:28:14,130 --> 00:28:14,790
+What's the deal there?
+
+617
+00:28:15,770 --> 00:28:19,110
+Miriam Klein-Flügge: So good question. The majority of neurons in the amygdala are excitatory.
+
+618
+00:28:19,370 --> 00:28:22,630
+Um, but I don't think we can know really from the data we measured,
+
+619
+00:28:23,110 --> 00:28:25,130
+uh, on which neurons we were having the, the-
+
+620
+00:28:25,390 --> 00:28:29,910
+Keith Murphy: Yeah. Well, I suppose, I suppose you're saying that most of the amygdala neurons
+
+621
+00:28:30,190 --> 00:28:34,170
+projecting out, so sending out their signals, are excitatory.
+
+622
+00:28:34,230 --> 00:28:40,650
+Maybe they're primarily glutamatergic. Does the amygdala receive lots of GABAergic inputs?
+
+623
+00:28:40,850 --> 00:28:42,890
+So per- perhaps you've excited those-
+
+624
+00:28:43,450 --> 00:28:43,950
+Miriam Klein-Flügge: Mm.
+
+625
+00:28:43,750 --> 00:28:47,390
+Keith Murphy: Yeah ... axon projections or something, and they're actually inhibiting the amygdala.
+
+626
+00:28:48,270 --> 00:28:49,270
+Is that an interpretation?
+
+627
+00:28:50,290 --> 00:28:52,970
+Miriam Klein-Flügge: I mean, it's, it's, it's definitely a possible interpretation.
+
+628
+00:28:53,050 --> 00:28:57,330
+There's also a lot of, um, sensory inputs coming into the amygdala, uh, some
+
+629
+00:28:57,350 --> 00:29:01,310
+of which are, are excitatory. And because we stimulated the BLA, which is sort
+
+630
+00:29:01,330 --> 00:29:05,090
+of the more lateral ventral part of the amygdala, the basolateral amygdala, that's where
+
+631
+00:29:05,110 --> 00:29:07,170
+all the inputs come in. Uh, so-
+
+632
+00:29:07,190 --> 00:29:07,690
+Keith Murphy: Mm-hmm
+
+633
+00:29:07,370 --> 00:29:09,550
+Miriam Klein-Flügge: ... it's, it's sort of the input structure of the amygdala.
+
+634
+00:29:10,090 --> 00:29:11,950
+Um, so, so yeah. I think, I think you could be right.
+
+635
+00:29:11,950 --> 00:29:13,190
+Keith Murphy: Wait, where's the GABA coming from, though?
+
+636
+00:29:13,530 --> 00:29:14,030
+Miriam Klein-Flügge: I know.
+
+637
+00:29:13,770 --> 00:29:15,310
+Keith Murphy: Talking a lot of excitatory. Where's the GABA?
+
+638
+00:29:15,310 --> 00:29:15,810
+[chuckles]
+
+639
+00:29:15,310 --> 00:29:18,390
+Miriam Klein-Flügge: Well, there's a lot of-- There's still a lot of inhibition within the amygdala
+
+640
+00:29:18,450 --> 00:29:18,950
+as well.
+
+641
+00:29:18,950 --> 00:29:19,450
+Keith Murphy: Oh, it's, it's
+
+642
+00:29:19,390 --> 00:29:21,950
+Miriam Klein-Flügge: internal to the amygdala. Um, but, but the majority, but the majority-
+
+643
+00:29:21,990 --> 00:29:22,490
+Keith Murphy: Ah
+
+644
+00:29:22,170 --> 00:29:24,470
+Miriam Klein-Flügge: ... is still excitatory neurons. So yeah, I, I, as I, you know, I'm--
+
+645
+00:29:24,650 --> 00:29:28,310
+We are still trying to wrap our head around exactly how we increased GABA.
+
+646
+00:29:28,890 --> 00:29:32,290
+Um, but it seems at least the net effect was that it was an
+
+647
+00:29:32,370 --> 00:29:37,150
+inhibitory effect. And what I liked is that it's at least vaguely consistent with
+
+648
+00:29:37,170 --> 00:29:40,270
+the effect we saw in the network connectivity.
+
+649
+00:29:40,390 --> 00:29:45,030
+So on our resting state connectivity, we also measured how much the amygdala is
+
+650
+00:29:45,070 --> 00:29:49,170
+sort of talking to its usual network, uh, sort of its best friend, so
+
+651
+00:29:49,210 --> 00:29:54,450
+to speak. It's closely connected, um, or mono or, you know, disynaptically connected other
+
+652
+00:29:54,490 --> 00:29:57,750
+targets, uh, like, you know, the hippocampus or the sgACC.
+
+653
+00:29:58,170 --> 00:30:02,690
+And we found that that connectivity was shrunk, so there was less of a
+
+654
+00:30:02,730 --> 00:30:08,310
+correlation between the amygdala's time course and its, you know, neighboring regions or tightly
+
+655
+00:30:08,330 --> 00:30:13,350
+connected regions' time courses, meaning, uh, we probably injected some sort of noise or
+
+656
+00:30:13,390 --> 00:30:18,050
+inhibition to that system. So, so to me, the GABA and the resting state
+
+657
+00:30:18,090 --> 00:30:21,370
+was at least consistent. But unfortunately, in humans, yes, we don't get to look
+
+658
+00:30:21,410 --> 00:30:23,810
+at specific neurons, so that, that is still an open question.
+
+659
+00:30:23,830 --> 00:30:25,750
+Keith Murphy: Well, it's, it's begs the question.
+
+660
+00:30:25,810 --> 00:30:30,030
+It's a really nice venue to say, I think it would be cool to
+
+661
+00:30:30,110 --> 00:30:34,410
+have deep brain electrical implants so that we could monitor specific cell types.
+
+662
+00:30:34,610 --> 00:30:39,010
+So with electrical recordings, we can do something called spike sorting, which you both
+
+663
+00:30:39,050 --> 00:30:43,810
+know very well. You can see the waveforms and tell, is this a glutamatergic
+
+664
+00:30:43,890 --> 00:30:46,030
+neuron in this area? Is this GABAergic?
+
+665
+00:30:46,510 --> 00:30:51,510
+And if you could see whether it's GABAergic neurons becoming more active and inhibiting
+
+666
+00:30:51,570 --> 00:30:57,310
+other neighboring neurons, or that excitatory neurons are just going down, you know, that
+
+667
+00:30:57,350 --> 00:30:59,710
+would be an interesting in vivo experiment.
+
+668
+00:30:59,810 --> 00:31:02,990
+People are-- Like, I've been seeing a lot of debate actually in the field
+
+669
+00:31:03,050 --> 00:31:07,610
+of whether or not we need to do electrical brain interfaces or just ultrasound,
+
+670
+00:31:07,670 --> 00:31:09,390
+like which one's better, as if they're fighting.
+
+671
+00:31:10,190 --> 00:31:14,590
+Um, and Flip Sabes, uh, who I speak to a lot about this, is
+
+672
+00:31:14,650 --> 00:31:19,370
+making the argument that to really understand the brain, you have to both perturb
+
+673
+00:31:19,470 --> 00:31:23,390
+and measure at scale so that there's sort of a, a way to bring
+
+674
+00:31:23,410 --> 00:31:27,170
+these technologies together. I think your experiment's a really perfect example where we could
+
+675
+00:31:27,190 --> 00:31:30,210
+have-- we could use that in future studies to figure this out.
+
+676
+00:31:30,980 --> 00:31:33,580
+Sounds like you're, you're not gonna put a stake in the ground on what's
+
+677
+00:31:33,620 --> 00:31:35,040
+going on there, but [laughs]
+
+678
+00:31:35,080 --> 00:31:35,840
+Miriam Klein-Flügge: Not yet. [laughs]
+
+679
+00:31:35,920 --> 00:31:37,680
+Keith Murphy: Just something-- something's happening.
+
+680
+00:31:37,720 --> 00:31:41,140
+Charles Caskey: I, I like that. The, uh, the-- You're interpreting the information that's available.
+
+681
+00:31:41,220 --> 00:31:42,000
+It's, uh-- Yeah. No, I mean-
+
+682
+00:31:42,000 --> 00:31:43,060
+Miriam Klein-Flügge: That's right. [laughs]
+
+683
+00:31:43,120 --> 00:31:46,420
+Charles Caskey: Like, G- GABA's a central player, and I guess for, for those who hear
+
+684
+00:31:46,460 --> 00:31:50,540
+us saying GABA and, and maybe haven't thought about this molecule before, um, is--
+
+685
+00:31:50,780 --> 00:31:55,160
+the general idea from my understanding is GABA cau- it has an inhibitory effect
+
+686
+00:31:55,240 --> 00:31:58,540
+on ex- uh, like exclusively on excitatory neurons?
+
+687
+00:31:58,660 --> 00:32:01,320
+Or it just-- Is it on any type of neuron?
+
+688
+00:32:01,980 --> 00:32:05,480
+Do we know this? We may not know this.
+
+689
+00:32:05,660 --> 00:32:06,480
+Okay, that's fine.
+
+690
+00:32:06,560 --> 00:32:07,060
+Miriam Klein-Flügge: I think that's a question for-
+
+691
+00:32:07,060 --> 00:32:08,740
+Keith Murphy: Miriam, that was for you. I can answer it if you want.
+
+692
+00:32:08,880 --> 00:32:10,840
+Miriam Klein-Flügge: Uh, I thought that was a perfect question for you, Keith.
+
+693
+00:32:11,000 --> 00:32:13,040
+You're the rodent researcher. I don't deal with neurons.
+
+694
+00:32:13,080 --> 00:32:16,700
+Keith Murphy: Yeah, yeah, yeah. Well, uh, so Charles, the answer is like everything and all
+
+695
+00:32:16,740 --> 00:32:23,120
+of the above, but primarily, um, you know, GABAergic neurons, wherever they are projecting,
+
+696
+00:32:23,600 --> 00:32:27,880
+there will be GABA receptors that primarily listen to the GABA and, and they
+
+697
+00:32:27,900 --> 00:32:33,540
+will be inhibited. They're like chloride channels, so they basically make the neuron, uh,
+
+698
+00:32:33,660 --> 00:32:35,940
+inside more negative, so they're hyperpolarizing.
+
+699
+00:32:36,500 --> 00:32:40,280
+There are exceptions to that. So the nice thing about doing neuroscience is there
+
+700
+00:32:40,300 --> 00:32:43,740
+is always an exception, and if you see something that you don't like or
+
+701
+00:32:43,800 --> 00:32:46,680
+you don't understand- [laughs] ... it could just be the total opposite.
+
+702
+00:32:46,700 --> 00:32:47,840
+Charles Caskey: Could be. [laughs] [laughs]
+
+703
+00:32:47,900 --> 00:32:50,200
+Keith Murphy: Somebody's found evidence that that could be true.
+
+704
+00:32:50,260 --> 00:32:55,040
+There are some, uh, receptors that will receive GABA and actually excite, or you
+
+705
+00:32:55,080 --> 00:32:59,980
+could have a loop where inhibiting a neuron that inhibits your neuron makes your
+
+706
+00:33:00,020 --> 00:33:02,740
+neuron more excited. So they call that disinhibition.
+
+707
+00:33:03,260 --> 00:33:07,780
+So neuroscience is great because you can really explain anything any way you want.
+
+708
+00:33:08,300 --> 00:33:09,240
+Miriam, do you agree with that?
+
+709
+00:33:09,840 --> 00:33:10,340
+Miriam Klein-Flügge: Yes. Yeah. No, that's right.
+
+710
+00:33:09,900 --> 00:33:13,300
+Keith Murphy: Charles, you're gonna-- You're coming up on this pretty quick, but you can explain
+
+711
+00:33:13,620 --> 00:33:16,940
+anything. It's very easy. [laughs] [laughs]
+
+712
+00:33:17,000 --> 00:33:18,280
+Charles Caskey: It's an, it's an unknown space.
+
+713
+00:33:18,360 --> 00:33:20,560
+I mean, yeah, that's ex- that's what makes the brain exciting.
+
+714
+00:33:20,780 --> 00:33:24,300
+Um, hey, can we, can we talk about like one, one thing that I
+
+715
+00:33:24,360 --> 00:33:27,080
+came away from this paper with that I wanna talk about a little bit
+
+716
+00:33:27,140 --> 00:33:28,520
+more, and we, we touched on it earlier.
+
+717
+00:33:28,640 --> 00:33:30,220
+Maybe if we're done with it, that's fine.
+
+718
+00:33:30,600 --> 00:33:32,800
+But I just felt like it reframed the amygdala.
+
+719
+00:33:33,080 --> 00:33:36,720
+I feel like people hear about the amygdala, they know about Alex Honnold, and
+
+720
+00:33:36,740 --> 00:33:40,220
+they're like, "Oh, his amygdala doesn't cause fear or something with the climber."
+
+721
+00:33:40,260 --> 00:33:41,140
+[laughs]
+
+722
+00:33:41,180 --> 00:33:41,680
+Keith Murphy: It doesn't work.
+
+723
+00:33:41,200 --> 00:33:42,320
+Charles Caskey: Yeah. It doesn't work or, yeah.
+
+724
+00:33:42,380 --> 00:33:46,540
+And so w-- and so I think everybody associates the amygdala with fear, whereas
+
+725
+00:33:46,600 --> 00:33:52,700
+this paper seemed to reframe it as like an uncertainty resolver or a--
+
+726
+00:33:53,220 --> 00:33:58,000
+for em, for emotional, emotionally ambiguous stimulus is-- I guess now if you were
+
+727
+00:33:58,020 --> 00:34:01,620
+to replace the, the idea of a fear center, would you call the amygdala
+
+728
+00:34:01,700 --> 00:34:02,440
+something else now?
+
+729
+00:34:03,780 --> 00:34:06,780
+Miriam Klein-Flügge: Oh, that's a big statement. So, but, but I agree with you, Charles, in
+
+730
+00:34:06,840 --> 00:34:12,180
+that I think it, it's, it's an alternative but, um, complementary view.
+
+731
+00:34:12,440 --> 00:34:13,400
+So I, I don't think- Yeah ...
+
+732
+00:34:13,420 --> 00:34:16,180
+we have overwritten [laughs] all the long- Okay ...
+
+733
+00:34:16,200 --> 00:34:19,120
+you know, standing evidence, uh, on the amygdala's role in fear.
+
+734
+00:34:19,200 --> 00:34:20,820
+For sure, it is important in that.
+
+735
+00:34:20,880 --> 00:34:23,800
+But I guess what is important here is that we had these neutral faces
+
+736
+00:34:24,280 --> 00:34:28,680
+in our task, and so they are the most ambiguous face, uh, much harder
+
+737
+00:34:28,720 --> 00:34:32,340
+to give a label to than an obviously happy or obviously angry face.
+
+738
+00:34:32,860 --> 00:34:37,000
+Um, and our finding was actually, and this wasn't something we had 100% expected
+
+739
+00:34:37,040 --> 00:34:41,940
+necessarily, um, that, uh, when we stimulate the amygdala, people are more likely to
+
+740
+00:34:42,000 --> 00:34:46,460
+approach a neutral face. Um, and this is independent of what they were actually
+
+741
+00:34:46,520 --> 00:34:49,080
+meant to be doing, 'cause half the time they should approach it, half the
+
+742
+00:34:49,120 --> 00:34:51,320
+time they should avoid it based on the feedback we give them.
+
+743
+00:34:51,820 --> 00:34:53,680
+The task was fully balanced in that way.
+
+744
+00:34:53,760 --> 00:34:58,660
+But actually just their natural tendency to want to approach a neutral face increased.
+
+745
+00:34:59,060 --> 00:35:01,320
+And so there's multiple ways you could interpret that.
+
+746
+00:35:01,380 --> 00:35:06,400
+So one would be that the neutral faces appeared more happy, so they behaved
+
+747
+00:35:06,460 --> 00:35:08,820
+more- Yeah ... like they would behave for a happy face.
+
+748
+00:35:09,320 --> 00:35:12,100
+You could also- Yep ... interpret it as actually maybe the neutral faces were
+
+749
+00:35:12,120 --> 00:35:16,220
+perceived as less negative. They might have a l- negative component to them given
+
+750
+00:35:16,240 --> 00:35:21,280
+they're ambiguous, and we maybe erase that or, or reduce that negative influence, and
+
+751
+00:35:21,320 --> 00:35:23,640
+then you also would treat them more like a positive face.
+
+752
+00:35:23,680 --> 00:35:27,220
+So I don't think we can distinguish between the two, but ultimately they behaved
+
+753
+00:35:27,680 --> 00:35:32,120
+towards neutral faces more as if they had a positive connotation.
+
+754
+00:35:32,140 --> 00:35:34,260
+Keith Murphy: And so some people were less scared.
+
+755
+00:35:34,460 --> 00:35:37,180
+So it does follow the Alex Honnold hypothesis.
+
+756
+00:35:37,960 --> 00:35:38,860
+Not that they call it that.
+
+757
+00:35:38,940 --> 00:35:41,140
+Miriam Klein-Flügge: I mean, we didn't scare people at all in our task.
+
+758
+00:35:41,180 --> 00:35:41,680
+Keith Murphy: Well, yes.
+
+759
+00:35:41,280 --> 00:35:46,540
+Miriam Klein-Flügge: But their appetitive bias was more like, uh, uh, a positive bias towards a
+
+760
+00:35:46,540 --> 00:35:47,040
+neutral face.
+
+761
+00:35:46,580 --> 00:35:50,220
+Keith Murphy: Well, like an angry face, you know, that is a form of fear, I
+
+762
+00:35:50,260 --> 00:35:52,800
+mean, so to speak, or, you know, I don't wanna go near that.
+
+763
+00:35:52,860 --> 00:35:54,120
+That sounds like fear to me, right?
+
+764
+00:35:54,620 --> 00:35:55,180
+And now they're like-
+
+765
+00:35:55,200 --> 00:35:56,940
+Miriam Klein-Flügge: Yeah, but the change wasn't for the angry faces.
+
+766
+00:35:57,080 --> 00:35:58,600
+There was no change after we contrasted the angry faces.
+
+767
+00:35:58,600 --> 00:36:02,220
+Keith Murphy: Oh, no-- So they didn't approach angry faces more.
+
+768
+00:36:03,500 --> 00:36:07,040
+Did they av-avoid-- Well, sorry, did they avoid them more?
+
+769
+00:36:07,300 --> 00:36:07,800
+Miriam Klein-Flügge: There was no change.
+
+770
+00:36:07,520 --> 00:36:08,360
+Keith Murphy: No change on angry. Oh.
+
+771
+00:36:08,760 --> 00:36:11,260
+Miriam Klein-Flügge: No. So, so no change in angry and hardly any change in happy.
+
+772
+00:36:11,260 --> 00:36:12,040
+Keith Murphy: Oh, that's, that's what you were getting at, Charles.
+
+773
+00:36:12,100 --> 00:36:12,600
+Okay.
+
+774
+00:36:12,260 --> 00:36:14,920
+Miriam Klein-Flügge: And so I think, yeah, if we, if we were to run this study
+
+775
+00:36:14,960 --> 00:36:17,840
+again, there's always so many things we would differently-- we would do differently, isn't
+
+776
+00:36:17,880 --> 00:36:22,160
+it? So, uh, I think our angry and happy were like 100% clear emotions.
+
+777
+00:36:22,580 --> 00:36:25,520
+If we had made them sort of, you know, a little bit less obviously
+
+778
+00:36:25,560 --> 00:36:28,740
+happy or angry, maybe we would have seen a change there too, 'cause I
+
+779
+00:36:28,780 --> 00:36:33,660
+think the critical thing is that you have to actually interpret the, uh, emotion
+
+780
+00:36:34,280 --> 00:36:37,640
+and make a decision on what that means for the behavior that feels natural.
+
+781
+00:36:37,760 --> 00:36:40,620
+And in neutral faces, you still had to sort of give it this interpretation.
+
+782
+00:36:40,700 --> 00:36:44,040
+But for happy and angry, maybe we made it too easy, uh, for people.
+
+783
+00:36:44,080 --> 00:36:46,660
+Keith Murphy: Miriam, could you show us what an ambiguous face looks like?
+
+784
+00:36:46,660 --> 00:36:52,340
+[laughs] [laughs] Oh, God. See? I am good.
+
+785
+00:36:52,340 --> 00:36:52,840
+Charles Caskey: Oh, Keith.
+
+786
+00:36:52,820 --> 00:36:53,800
+Keith Murphy: My, my amygdala-
+
+787
+00:36:53,840 --> 00:36:55,160
+Charles Caskey: I, I would go, I would go towards it.
+
+788
+00:36:55,260 --> 00:36:58,100
+You look mostly friendly. [laughs]
+
+789
+00:36:58,160 --> 00:37:01,320
+Keith Murphy: Charles, Charles has a little less amygdala than myself.
+
+790
+00:37:01,320 --> 00:37:01,820
+[laughs]
+
+791
+00:37:01,660 --> 00:37:03,440
+Charles Caskey: Yeah. Yeah, maybe. I got GABA.
+
+792
+00:37:03,860 --> 00:37:05,280
+I got increased GABA right now-
+
+793
+00:37:05,880 --> 00:37:06,380
+Keith Murphy: GABA and amygdala
+
+794
+00:37:06,060 --> 00:37:07,260
+Charles Caskey: ... [laughs] in my brain.
+
+795
+00:37:08,500 --> 00:37:09,000
+Keith Murphy: Um.
+
+796
+00:37:08,880 --> 00:37:09,380
+Miriam Klein-Flügge: Yeah.
+
+797
+00:37:09,100 --> 00:37:12,920
+Keith Murphy: Uh, wait, guys, this-- Miriam, this is groundbreaking.
+
+798
+00:37:13,200 --> 00:37:17,120
+Not, not because you're-- I mean, it's nice that you're, to some extent, showing
+
+799
+00:37:17,180 --> 00:37:20,520
+a new light on this. I would still call it like a perception of
+
+800
+00:37:20,600 --> 00:37:25,080
+fear is changed, and you are more towards things that are not clear, that
+
+801
+00:37:25,120 --> 00:37:26,300
+could be scary, and we don't know.
+
+802
+00:37:26,420 --> 00:37:33,100
+Now we're going towards them. This does lend itself to the military, um, applications
+
+803
+00:37:33,160 --> 00:37:37,610
+that some people fear, which is to make soldiers that run towards, you know,
+
+804
+00:37:37,690 --> 00:37:40,750
+the battle. Wait, does this look like a fight I'm gonna win or not?
+
+805
+00:37:41,130 --> 00:37:42,390
+They may be running towards it.
+
+806
+00:37:43,010 --> 00:37:44,690
+Um, do you get that question a lot?
+
+807
+00:37:45,910 --> 00:37:46,410
+Miriam Klein-Flügge: I haven't yet.
+
+808
+00:37:46,230 --> 00:37:47,270
+Keith Murphy: I mean, you probably wouldn't endorse it, but-
+
+809
+00:37:47,310 --> 00:37:53,110
+Miriam Klein-Flügge: But I-- Yeah. Oof. Yeah. I, I mean, that is a, yeah, ethical question
+
+810
+00:37:53,150 --> 00:37:56,450
+to some extent, isn't it? Uh, do we-- Is it healthy that humans have
+
+811
+00:37:56,510 --> 00:37:59,530
+a fear response, and it's a natural tendency that you want to protect your
+
+812
+00:37:59,670 --> 00:38:02,150
+wellbeing and your survival in that instance?
+
+813
+00:38:02,570 --> 00:38:03,870
+Um, it, it's a good question.
+
+814
+00:38:03,930 --> 00:38:05,850
+I, I haven't yet gotten it.
+
+815
+00:38:06,070 --> 00:38:06,890
+Um, but I'm sure-
+
+816
+00:38:06,950 --> 00:38:07,730
+Keith Murphy: Or like what about like-
+
+817
+00:38:07,750 --> 00:38:08,250
+Miriam Klein-Flügge: ... I'm sure there are applications
+
+818
+00:38:07,990 --> 00:38:10,110
+Keith Murphy: ... you juice up before a job interview, you know?
+
+819
+00:38:10,250 --> 00:38:10,750
+You like-
+
+820
+00:38:10,510 --> 00:38:11,010
+Miriam Klein-Flügge: Yeah
+
+821
+00:38:10,690 --> 00:38:13,590
+Keith Murphy: ... do a little amygdala suppression, and you go in full-stack confidence.
+
+822
+00:38:13,630 --> 00:38:14,130
+Charles Caskey: Oh, yeah.
+
+823
+00:38:14,250 --> 00:38:14,750
+Keith Murphy: Right?
+
+824
+00:38:14,270 --> 00:38:15,870
+Charles Caskey: Or before you give a talk or like-
+
+825
+00:38:15,970 --> 00:38:16,470
+Keith Murphy: Yeah. [laughs]
+
+826
+00:38:16,290 --> 00:38:18,650
+Charles Caskey: ... just like a, like a, like beta blocker type of thing.
+
+827
+00:38:19,150 --> 00:38:20,010
+Keith Murphy: Yeah. [laughs]
+
+828
+00:38:20,050 --> 00:38:22,390
+Charles Caskey: I, I do think-- I mean, this is-- But I guess what they observed
+
+829
+00:38:22,450 --> 00:38:25,470
+is it, just for the, for the listeners, it was a much more subtle
+
+830
+00:38:25,510 --> 00:38:28,070
+effect in the [chuckles] kind of in the neutral space.
+
+831
+00:38:28,190 --> 00:38:33,450
+We're not, we're not in a place where we're creating, uh, fearless individuals for,
+
+832
+00:38:33,650 --> 00:38:34,550
+for the time that they're- That's true ...
+
+833
+00:38:34,630 --> 00:38:35,990
+in the magnet. But, but-
+
+834
+00:38:36,290 --> 00:38:36,790
+Keith Murphy: But it's a start
+
+835
+00:38:36,530 --> 00:38:37,430
+Charles Caskey: ... but it is, it is a-
+
+836
+00:38:37,510 --> 00:38:38,010
+Keith Murphy: It's a, it's a starting point
+
+837
+00:38:37,790 --> 00:38:39,390
+Charles Caskey: ... it's in that vein. Well, yeah.
+
+838
+00:38:39,410 --> 00:38:42,410
+And well, can I say how much I love Miriam's description of it, which
+
+839
+00:38:42,470 --> 00:38:45,030
+was, you know, the different things that this could mean.
+
+840
+00:38:45,090 --> 00:38:47,770
+Like, what was the exact experience at that moment?
+
+841
+00:38:47,890 --> 00:38:51,090
+Was it, was it that it looked a little more friendly, or was it
+
+842
+00:38:51,130 --> 00:38:52,630
+that it looked a little less scary?
+
+843
+00:38:53,050 --> 00:38:54,650
+Uh, [chuckles] we don't, we just don't, you know.
+
+844
+00:38:55,110 --> 00:38:58,590
+And I think that's a cool thing about this, this sort of, uh, network
+
+845
+00:38:58,650 --> 00:39:04,090
+level sci- uh, science that you're really getting at the mechanisms, and you can't--
+
+846
+00:39:04,230 --> 00:39:07,890
+Yeah, you don't necessarily-- You aren't able to make that final leap until you
+
+847
+00:39:07,910 --> 00:39:11,130
+have the data. Um, and, and this is-- I think you summed up really
+
+848
+00:39:11,170 --> 00:39:15,330
+well this, that, that in spite of the strength of the paper, there's, there's
+
+849
+00:39:15,710 --> 00:39:17,090
+still more to know, um-
+
+850
+00:39:17,310 --> 00:39:17,810
+Miriam Klein-Flügge: Oh, yeah
+
+851
+00:39:17,530 --> 00:39:19,570
+Charles Caskey: ... and, and other designs that could reveal more.
+
+852
+00:39:19,710 --> 00:39:20,270
+So it's very cool.
+
+853
+00:39:20,310 --> 00:39:23,850
+Miriam Klein-Flügge: Absolutely. Yeah. Yeah, no, I, I, I always-
+
+854
+00:39:24,010 --> 00:39:25,390
+Keith Murphy: You only stimulate it for 90 seconds, right?
+
+855
+00:39:25,870 --> 00:39:26,650
+Like 90 seconds of stuff.
+
+856
+00:39:26,690 --> 00:39:28,010
+Miriam Klein-Flügge: We only-- Yeah, we only stimulate it for, yeah, 80 seconds.
+
+857
+00:39:28,030 --> 00:39:30,130
+Keith Murphy: Which I think is a good, you know, that's great-
+
+858
+00:39:30,230 --> 00:39:30,730
+Miriam Klein-Flügge: Oh
+
+859
+00:39:30,250 --> 00:39:34,290
+Keith Murphy: ... for healthy participants. But if you are starting to think about how this
+
+860
+00:39:34,310 --> 00:39:38,170
+could be used in anxiety, I think anxiety is a really clear one here,
+
+861
+00:39:38,250 --> 00:39:41,170
+right? Like people are like, "Ugh, I don't know if this is, you know,
+
+862
+00:39:41,250 --> 00:39:43,870
+blah, blah, blah," and you're just pushing them to be like, "It's fine.
+
+863
+00:39:44,130 --> 00:39:45,370
+I'm gonna go towards this thing."
+
+864
+00:39:45,970 --> 00:39:46,470
+Miriam Klein-Flügge: Yeah.
+
+865
+00:39:46,210 --> 00:39:50,730
+Keith Murphy: Um, how-- You know, would we get a bigger response if we stimulated longer
+
+866
+00:39:50,790 --> 00:39:52,750
+than 90 seconds? Probably.
+
+867
+00:39:53,550 --> 00:39:54,050
+Miriam Klein-Flügge: Yes.
+
+868
+00:39:53,850 --> 00:39:55,850
+Keith Murphy: Are you gonna try that? Are you thinking about it?
+
+869
+00:39:55,930 --> 00:39:56,790
+[chuckles]
+
+870
+00:39:56,850 --> 00:39:59,690
+Miriam Klein-Flügge: Yeah, yeah, we are. Um, yeah, we're hoping to do a study where we
+
+871
+00:39:59,750 --> 00:40:02,650
+stimulate them, you know, for much longer on a given day and for multiple
+
+872
+00:40:02,710 --> 00:40:05,670
+days in a row. But it would be people with low mood.
+
+873
+00:40:05,730 --> 00:40:08,330
+I'm, I'm still on the depression track, although I agree with you, Keith.
+
+874
+00:40:08,410 --> 00:40:12,810
+I think it's, it's super interesting for anxiety and fear, yeah, disorders as well.
+
+875
+00:40:13,550 --> 00:40:16,950
+Um, but yeah, I think, you know, moving from the military applications to clinical
+
+876
+00:40:17,050 --> 00:40:20,810
+applications, I think is much more my [chuckles] sort of line of, uh, work.
+
+877
+00:40:20,850 --> 00:40:22,270
+[laughs] Um-
+
+878
+00:40:22,290 --> 00:40:24,790
+Charles Caskey: That's-- So that's crazy cool though.
+
+879
+00:40:24,850 --> 00:40:29,510
+Like you're-- So 90 seconds. So you basically had an MR session, you had
+
+880
+00:40:29,590 --> 00:40:33,250
+a, a-- then, then you had 90 seconds, and then you had another MR
+
+881
+00:40:33,330 --> 00:40:37,010
+session? Or is it-- What was the time course, uh, between the s- the
+
+882
+00:40:37,210 --> 00:40:41,350
+different measurements and the change? 'Cause 90 seconds is very brief to think that
+
+883
+00:40:41,490 --> 00:40:41,990
+you've-
+
+884
+00:40:41,670 --> 00:40:42,170
+Miriam Klein-Flügge: Yeah
+
+885
+00:40:41,790 --> 00:40:42,730
+Charles Caskey: ... ju- changed-
+
+886
+00:40:42,730 --> 00:40:43,230
+Keith Murphy: Very brief
+
+887
+00:40:42,770 --> 00:40:46,790
+Charles Caskey: ... something that you can measure behaviorally and with two modes of fMRI.
+
+888
+00:40:46,870 --> 00:40:47,910
+That's like really cool.
+
+889
+00:40:47,950 --> 00:40:48,450
+Miriam Klein-Flügge: Yeah.
+
+890
+00:40:47,990 --> 00:40:49,210
+Keith Murphy: That's like popping a pill, you know?
+
+891
+00:40:49,290 --> 00:40:49,870
+That's not even-
+
+892
+00:40:49,890 --> 00:40:50,390
+Miriam Klein-Flügge: Yeah
+
+893
+00:40:49,910 --> 00:40:53,150
+Keith Murphy: ... ultrasound at that point. You just oh, and then we're, we're off, and
+
+894
+00:40:53,150 --> 00:40:53,770
+we're not scared anymore.
+
+895
+00:40:53,790 --> 00:40:56,810
+Miriam Klein-Flügge: Yeah. To be honest, we thought we might only see effects for a much
+
+896
+00:40:56,850 --> 00:41:01,490
+shorter time, and for that reason, we had put two resting state, uh, runs
+
+897
+00:41:01,650 --> 00:41:04,310
+in. One that is the first thing that we do when we put people
+
+898
+00:41:04,350 --> 00:41:07,070
+in the scanner- Uh-huh ... and then one at the very end of our
+
+899
+00:41:07,150 --> 00:41:09,530
+scan session, which was over an hour and a half long.
+
+900
+00:41:09,610 --> 00:41:10,950
+So the scan session itself was long.
+
+901
+00:41:10,990 --> 00:41:12,610
+People were in that scanner for a long, long time.
+
+902
+00:41:13,070 --> 00:41:13,990
+So w-what happened is-
+
+903
+00:41:14,010 --> 00:41:14,510
+Keith Murphy: That's scary
+
+904
+00:41:14,230 --> 00:41:17,670
+Miriam Klein-Flügge: ... we did the 80-second stimulation on both sides, and then we tried to
+
+905
+00:41:17,730 --> 00:41:21,290
+whizz them-- Sorry. We, we tried to whizz them into the scanner, but there's
+
+906
+00:41:21,330 --> 00:41:22,870
+still a lag 'cause, you know, they need to-
+
+907
+00:41:22,950 --> 00:41:23,450
+Charles Caskey: Mm-hmm
+
+908
+00:41:23,230 --> 00:41:25,650
+Miriam Klein-Flügge: ... get their earplugs fitted, and they need to be moving- Yeah ...
+
+909
+00:41:25,670 --> 00:41:29,350
+carefully and padded and whatnot. So there was probably about 10 minutes till we
+
+910
+00:41:29,390 --> 00:41:32,550
+did the first sort of localizer scan and, like they were actually positioned in
+
+911
+00:41:32,590 --> 00:41:36,890
+the scanner. And then about t- uh, 20 minutes roughly, we did that first
+
+912
+00:41:36,970 --> 00:41:41,170
+resting state scan on average. Um, and we saw effects there on that, you
+
+913
+00:41:41,210 --> 00:41:44,570
+know, connectivity, uh, shrinkage that I explained earlier.
+
+914
+00:41:45,310 --> 00:41:48,330
+Um, but then we thought the last scan will sort of tell us if
+
+915
+00:41:48,370 --> 00:41:50,070
+the effect has faded at that point.
+
+916
+00:41:50,170 --> 00:41:54,050
+And actually, the resting state change at the second time point, which is about
+
+917
+00:41:54,170 --> 00:41:58,110
+100 minutes after the actual 80-second stimulation, so more than an hour and a
+
+918
+00:41:58,150 --> 00:42:00,490
+half later, um, that was stronger.
+
+919
+00:42:00,670 --> 00:42:01,910
+So with 80 seconds- Oh ...
+
+920
+00:42:01,950 --> 00:42:06,310
+we think we induced a change that lasted easily probably for two hours or
+
+921
+00:42:06,390 --> 00:42:10,110
+so. But obviously at that point, after the 100 minutes, we stopped scanning, so
+
+922
+00:42:10,150 --> 00:42:12,750
+we, we didn't trace it further down the line.
+
+923
+00:42:12,830 --> 00:42:13,330
+But-
+
+924
+00:42:13,110 --> 00:42:13,610
+Charles Caskey: Yeah.
+
+925
+00:42:13,450 --> 00:42:13,950
+Miriam Klein-Flügge: Yeah.
+
+926
+00:42:13,650 --> 00:42:17,430
+Charles Caskey: That's-- The-- This is a time course that I'm very interested in is because
+
+927
+00:42:17,470 --> 00:42:23,570
+people observe effects that last for days, and then there's also this, this intermediate
+
+928
+00:42:23,610 --> 00:42:26,150
+time course where we're talking about the number of hours, and then we've done
+
+929
+00:42:26,190 --> 00:42:30,990
+some work. It was, um, event-based, but just kind of like mapping between that
+
+930
+00:42:31,090 --> 00:42:34,550
+and then thinking, I just can't wait until you do more and have more
+
+931
+00:42:34,570 --> 00:42:38,410
+of a dose response, and we have more information about what, what is GABA
+
+932
+00:42:38,450 --> 00:42:40,930
+doing over this time course. It's just-- And you have the tools.
+
+933
+00:42:41,010 --> 00:42:44,270
+I, I hope that you're, you're going that direction, and, and I guess you
+
+934
+00:42:44,310 --> 00:42:47,730
+might be because of your interest in translation to psychiatry.
+
+935
+00:42:48,270 --> 00:42:51,450
+Do you see-- How do you s-- And so right now in psychiatry, the
+
+936
+00:42:51,490 --> 00:42:56,590
+main studies I'm aware of use pretty, pretty long duration stimulations in the track
+
+937
+00:42:56,670 --> 00:42:59,990
+for, for multiple days, uh, much longer than 90 seconds.
+
+938
+00:43:00,570 --> 00:43:05,030
+Um, do you envision the, this being something where kind of like, I guess,
+
+939
+00:43:05,230 --> 00:43:06,490
+how to call it? Like a ...
+
+940
+00:43:06,530 --> 00:43:09,890
+an acute bias shift that happens in the moment while there's a-- kinda like
+
+941
+00:43:09,910 --> 00:43:13,170
+what Keith was talking about. Like, maybe you could, if it's depression, maybe there's
+
+942
+00:43:13,190 --> 00:43:18,290
+a s-some sort of state-based intervention that in that time you shift it.
+
+943
+00:43:18,410 --> 00:43:21,330
+Or do you think that this is-- Or do you see the first applications
+
+944
+00:43:21,410 --> 00:43:26,010
+being more like what's out there now, where have this pretty long intervention on
+
+945
+00:43:26,050 --> 00:43:29,890
+the order of multiple, multiple minutes, I think, uh, repeatedly and then kind of
+
+946
+00:43:29,910 --> 00:43:32,410
+a, a longer term? Or is it-- Does it all need to be done
+
+947
+00:43:32,430 --> 00:43:35,990
+for us to, like, e-optimize? Do we just not know right now?
+
+948
+00:43:36,210 --> 00:43:38,170
+Miriam Klein-Flügge: Yeah. So yeah, I think about that a lot.
+
+949
+00:43:38,230 --> 00:43:42,490
+So I think one is surely on the parameter optimization side and how long
+
+950
+00:43:42,550 --> 00:43:45,670
+do we need to stimulate to get s-effects that last this long.
+
+951
+00:43:45,750 --> 00:43:49,410
+But I think one thing that's maybe we can also learn from, uh, the
+
+952
+00:43:49,430 --> 00:43:55,270
+pharmacology, uh, sort of research, um, for example, using SSRIs, uh, there is these
+
+953
+00:43:55,410 --> 00:43:59,370
+much more subtle changes in these affective biases that we just talked about.
+
+954
+00:43:59,430 --> 00:44:02,970
+So how much people learn from negative information or how they interpret an ambiguous
+
+955
+00:44:03,010 --> 00:44:08,570
+neutral face that predict already... So a-as most people probably know, antidepressants, we often
+
+956
+00:44:08,630 --> 00:44:12,010
+only know about two weeks in if they're actually having an effect on people's
+
+957
+00:44:12,070 --> 00:44:16,250
+mood. Um, but it's already in the first couple of days that you can
+
+958
+00:44:16,310 --> 00:44:19,510
+see these changes in these much more subtle measures if you give them a
+
+959
+00:44:19,550 --> 00:44:23,030
+task where they need to, uh, evaluate an ambiguous ef-emotional face.
+
+960
+00:44:23,630 --> 00:44:27,050
+Um, and, and that predicts their response to the SSRI.
+
+961
+00:44:27,310 --> 00:44:30,790
+Charles Caskey: So there's biomarkers in pharmacological space that this kind of-
+
+962
+00:44:30,930 --> 00:44:31,430
+Miriam Klein-Flügge: Exactly
+
+963
+00:44:31,390 --> 00:44:33,490
+Charles Caskey: ... uses a similar paradigm. Okay, cool.
+
+964
+00:44:33,630 --> 00:44:38,250
+Miriam Klein-Flügge: But it also probably means, um, that maybe it's enough-- Well, my hope would
+
+965
+00:44:38,310 --> 00:44:43,270
+be that it's enough to, um, put some plas-plasticity in a circuit.
+
+966
+00:44:43,330 --> 00:44:47,690
+That means maybe you're interpreting things in a slightly more positive way when you're
+
+967
+00:44:47,730 --> 00:44:51,470
+learning or when you're looking at, you know, what you're perceiving in the world.
+
+968
+00:44:51,950 --> 00:44:56,830
+And because from that moment onward, you're, you're having a more positive updating process
+
+969
+00:44:56,870 --> 00:45:01,090
+happening, that induces- Yeah ... you know, a more positive state just based on
+
+970
+00:45:01,130 --> 00:45:04,370
+the brain's own reorganization and interpretation of the world.
+
+971
+00:45:04,450 --> 00:45:07,970
+So, so my hope would be that we don't have to, you know, reapply
+
+972
+00:45:08,050 --> 00:45:11,510
+ultrasound, you know, every week or e-even if it's just every six weeks.
+
+973
+00:45:11,590 --> 00:45:14,070
+I mean, that might still be needed for some patients.
+
+974
+00:45:14,590 --> 00:45:15,090
+Charles Caskey: Mm-hmm.
+
+975
+00:45:14,730 --> 00:45:19,890
+Miriam Klein-Flügge: Uh, but there is a possibility that, uh, just inducing that change in interpretation
+
+976
+00:45:19,930 --> 00:45:23,190
+will already help them down the line, uh, feel better.
+
+977
+00:45:23,390 --> 00:45:26,950
+But yes. I mean, it's, it's absolutely an open, uh, area of research.
+
+978
+00:45:27,650 --> 00:45:31,710
+Charles Caskey: Yeah. And it's similar to, like you mentioned, you know, some people respond to
+
+979
+00:45:31,930 --> 00:45:36,290
+SSRIs and then are able to get off of the SSRIs, and presumably the
+
+980
+00:45:36,330 --> 00:45:39,330
+reason for that is they, in the time that they, uh, were taking them,
+
+981
+00:45:39,370 --> 00:45:44,230
+they maybe learned, yeah, had learned better ways and had better, uh, experiences to,
+
+982
+00:45:44,270 --> 00:45:45,930
+uh, kind of avoid the depressed states.
+
+983
+00:45:45,970 --> 00:45:48,810
+And, and maybe some people do need it longer, and that's a d-- it's
+
+984
+00:45:48,850 --> 00:45:50,930
+a dose question. It's probably gonna vary from individual.
+
+985
+00:45:51,070 --> 00:45:55,010
+So super, super cool and just, uh, this, this conversation is getting me very
+
+986
+00:45:55,030 --> 00:45:57,010
+excited about this. [chuckles]
+
+987
+00:45:57,110 --> 00:46:00,290
+Keith Murphy: Miriam, thank you so much for talking about your paper.
+
+988
+00:46:00,910 --> 00:46:03,990
+Everybody should go read it. We'll put the paper in the show notes.
+
+989
+00:46:04,090 --> 00:46:06,930
+This will be-- I mean, this is gonna open the floodgates.
+
+990
+00:46:06,990 --> 00:46:11,970
+I think the world needs a lot of really rigorous, high-end studies and, and,
+
+991
+00:46:12,170 --> 00:46:14,070
+you know, now people can do longer stimulations.
+
+992
+00:46:14,130 --> 00:46:16,170
+They can expand into different indications.
+
+993
+00:46:16,810 --> 00:46:21,490
+This is incredible. That brings us to our big FUS wins.
+
+994
+00:46:21,870 --> 00:46:22,370
+Miriam Klein-Flügge: Mm-hmm.
+
+995
+00:46:22,230 --> 00:46:28,370
+Keith Murphy: So Charles, I can't remember if you were on this email, but let
+
+996
+00:46:28,410 --> 00:46:28,930
+me see.
+
+997
+00:46:29,050 --> 00:46:32,410
+Charles Caskey: Oh, did, did we get a user-submitted FUS win for the first time in
+
+998
+00:46:32,590 --> 00:46:33,090
+history?
+
+999
+00:46:33,410 --> 00:46:33,910
+Keith Murphy: Yeah.
+
+1000
+00:46:33,450 --> 00:46:33,950
+Miriam Klein-Flügge: Oh, my.
+
+1001
+00:46:33,810 --> 00:46:35,250
+Keith Murphy: Hold on. Let me pull it up.
+
+1002
+00:46:35,350 --> 00:46:37,690
+Let me pull it up. I have it.
+
+1003
+00:46:37,750 --> 00:46:40,330
+I have it. Okay, here we go.
+
+1004
+00:46:41,330 --> 00:46:46,330
+So for the first time in history, we have had a submission from the
+
+1005
+00:46:46,370 --> 00:46:52,870
+FUS community from Corina Cornelissen. Corina's actually a longtime epilepsy FUS researcher
+
+1006
+00:46:52,910 --> 00:46:55,030
+who did some incredible work in mice.
+
+1007
+00:46:55,490 --> 00:46:59,930
+You should go look up her work, "That is LIFU to suppress epileptiform activity."
+
+1008
+00:47:00,810 --> 00:47:04,410
+And lo and behold, she submitted a big FUS win.
+
+1009
+00:47:04,870 --> 00:47:06,230
+Miriam, it was your paper all along.
+
+1010
+00:47:06,290 --> 00:47:07,510
+Miriam Klein-Flügge: Oh, no. [clapping]
+
+1011
+00:47:07,530 --> 00:47:09,530
+Charles Caskey: Oh, I missed. [clapping]
+
+1012
+00:47:09,610 --> 00:47:13,190
+Keith Murphy: Corina, thank you so much for the first real submission in history.
+
+1013
+00:47:13,770 --> 00:47:15,870
+We're really pumped. We hope more people do it.
+
+1014
+00:47:15,990 --> 00:47:18,990
+And she actually moved over to the FUS Foundation as I think-
+
+1015
+00:47:19,030 --> 00:47:19,530
+Miriam Klein-Flügge: Cool
+
+1016
+00:47:19,150 --> 00:47:22,990
+Keith Murphy: ... a research project manager, so congrats to you as well, Corina.
+
+1017
+00:47:23,090 --> 00:47:26,930
+[clapping] Um, Miriam, you also have a big juicy FUS win.
+
+1018
+00:47:27,010 --> 00:47:27,710
+Miriam Klein-Flügge: Yes. Can I have-
+
+1019
+00:47:27,990 --> 00:47:28,490
+Keith Murphy: What do you got for us?
+
+1020
+00:47:28,330 --> 00:47:28,830
+[chuckles]
+
+1021
+00:47:28,350 --> 00:47:31,290
+Miriam Klein-Flügge: Can I, can I have a, a cultural and a scientific one?
+
+1022
+00:47:31,530 --> 00:47:32,030
+Keith Murphy: Yes.
+
+1023
+00:47:31,570 --> 00:47:35,650
+Miriam Klein-Flügge: So, so I wanted to say that, you know, as, um, someone who only
+
+1024
+00:47:35,710 --> 00:47:39,710
+really started out, uh, with ultrasound a couple of years ago, I just think
+
+1025
+00:47:39,770 --> 00:47:44,450
+I've been blown away by the collaboration and cooperation, and I think that is
+
+1026
+00:47:44,510 --> 00:47:46,930
+a big, big FUS win. I don't know if our field would be where
+
+1027
+00:47:46,990 --> 00:47:49,830
+it's at, and I d- I definitely know for sure I wouldn't be where
+
+1028
+00:47:49,950 --> 00:47:53,810
+I am at without just so-- Like it takes, it always says it takes
+
+1029
+00:47:53,870 --> 00:47:55,810
+a village to raise a scientist, but I think it takes a village to
+
+1030
+00:47:55,850 --> 00:47:57,950
+start your first TUS study. And, um- Yeah ...
+
+1031
+00:47:58,050 --> 00:48:00,870
+I want to give a shout-out to, you know, obviously Matthew Rushworth, 'cause without
+
+1032
+00:48:00,930 --> 00:48:02,790
+him and Jérôme and Lennart, I wouldn't be here.
+
+1033
+00:48:02,830 --> 00:48:05,470
+But Elsa Fouragnan, who I know is a good friend of all of us.
+
+1034
+00:48:05,590 --> 00:48:08,750
+We were next to each other for two years during her postdoc here, and,
+
+1035
+00:48:08,810 --> 00:48:12,350
+um, she gave us so much along the way to get us going.
+
+1036
+00:48:12,390 --> 00:48:15,670
+And I just think in general, when I go to conferences, it is a
+
+1037
+00:48:15,730 --> 00:48:19,030
+much more generous community than I'm used to from other fields.
+
+1038
+00:48:19,210 --> 00:48:20,810
+And I just think that is a big win.
+
+1039
+00:48:20,810 --> 00:48:21,310
+[instrumental music]
+
+1040
+00:48:20,870 --> 00:48:26,030
+Keith Murphy: With that, let us all lower our amygdalas and embrace one another in this
+
+1041
+00:48:26,090 --> 00:48:30,290
+great new future beckoned by Miriam and Charles and all of us.
+
+1042
+00:48:30,330 --> 00:48:34,210
+And, um, thank you so much, Miriam, for joining FUS Forward.
+
+1043
+00:48:34,690 --> 00:48:36,230
+Miriam Klein-Flügge: Thank you. I'm a big fan.
+
+1044
+00:48:36,290 --> 00:48:38,110
+Keep it going. [chuckles]
+
+1045
+00:48:38,230 --> 00:48:38,750
+Charles Caskey: Thanks, Miriam.
+
+1046
+00:48:39,050 --> 00:48:40,530
+Keith Murphy: Miriam, say FUS Forward, and then I'll just cut it out.
+
+1047
+00:48:40,570 --> 00:48:41,590
+Charles Caskey: Oh, yeah. We all have to say it.
+
+1048
+00:48:43,430 --> 00:48:43,930
+[chuckles]
+
+1049
+00:48:43,750 --> 00:48:44,730
+Keith Murphy: Go ahead, Miriam. Say it.
+
+1050
+00:48:44,910 --> 00:48:45,590
+Miriam Klein-Flügge: FUS Forward.
+
+1051
+00:48:46,110 --> 00:48:47,330
+Keith Murphy: Nice. [chuckles]
+
+1052
+00:48:47,830 --> 00:48:48,990
+Charles Caskey: She had to say FUS.
+
+1053
+00:48:49,730 --> 00:48:50,230
+Keith Murphy: Yeah.
+
+1054
+00:48:50,230 --> 00:48:52,310
+Charles Caskey: I think we should get Miriam saying TUS Forward.
+
+1055
+00:48:52,330 --> 00:48:54,150
+Miriam Klein-Flügge: Oh, yeah. I should. [laughing]
+
+1056
+00:48:54,190 --> 00:48:55,910
+Keith Murphy: She can say TUS Forward if you really want it.
+
+1057
+00:48:56,090 --> 00:49:02,150
+[laughing] [instrumental music]

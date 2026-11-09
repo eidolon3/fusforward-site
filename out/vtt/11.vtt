@@ -1,0 +1,2733 @@
+WEBVTT
+
+1
+00:00:00.300 --> 00:00:03.220
+<v Charles Caskey>So are we gonna do like a formal introduction to the episode, and we're
+
+2
+00:00:03.260 --> 00:00:05.320
+<v Charles Caskey>gonna be like, "Hey, welcome to FUS Forward.
+
+3
+00:00:05.840 --> 00:00:08.300
+<v Charles Caskey>It's with Keith and Charles. We're gonna talk about..."
+
+4
+00:00:08.400 --> 00:00:09.540
+<v Charles Caskey>[laughs] [laughs]
+
+5
+00:00:09.540 --> 00:00:13.080
+<v Keith Murphy>I like that a lot. [laughs] [laughs]
+
+6
+00:00:13.280 --> 00:00:15.920
+<v Intro narrator>Follow Charles Caskey and Keith Murphy-
+
+7
+00:00:15.960 --> 00:00:16.460
+<v Keith Murphy>I think that's great
+
+8
+00:00:16.560 --> 00:00:22.500
+<v Intro narrator>... as they explore the next frontier of ultrasound neuromodulation with FUS Forward.
+
+9
+00:00:23.500 --> 00:00:24.200
+<v Keith Murphy>You wr- are you writing notes?
+
+10
+00:00:24.240 --> 00:00:28.080
+<v Charles Caskey>Yeah. This one was really quite interesting for me, um, to look back on
+
+11
+00:00:28.100 --> 00:00:28.680
+<v Charles Caskey>and try to figure-
+
+12
+00:00:28.700 --> 00:00:29.460
+<v Keith Murphy>Oh, really? I thought you knew.
+
+13
+00:00:29.660 --> 00:00:32.900
+<v Keith Murphy>I thought you knew exactly how we got here in this mess, this double
+
+14
+00:00:32.920 --> 00:00:33.420
+<v Keith Murphy>PRF mess.
+
+15
+00:00:33.000 --> 00:00:35.880
+<v Charles Caskey>Oh, I knew how we got here, but it was still good to reflect
+
+16
+00:00:35.960 --> 00:00:38.960
+<v Charles Caskey>on. [laughs] [laughs]
+
+17
+00:00:39.080 --> 00:00:42.440
+<v Keith Murphy>Okay. Yeah. That's, that's probably the appropriate way, uh, to launch this.
+
+18
+00:00:42.540 --> 00:00:43.040
+<v Charles Caskey>Okay.
+
+19
+00:00:42.560 --> 00:00:46.800
+<v Keith Murphy>The double PRF, I was unaware that had a term until you said it
+
+20
+00:00:47.060 --> 00:00:49.220
+<v Keith Murphy>on one of the episodes. I can't remember which one.
+
+21
+00:00:49.460 --> 00:00:51.080
+<v Charles Caskey>I re-- I, I'm gonna re-term it now, though.
+
+22
+00:00:51.180 --> 00:00:53.360
+<v Charles Caskey>Now that I've thought about it, I have other candidate things.
+
+23
+00:00:53.620 --> 00:00:56.360
+<v Charles Caskey>I was thinking like nested PRF.
+
+24
+00:00:56.380 --> 00:00:57.180
+<v Charles Caskey>It sounds cooler. [chuckles]
+
+25
+00:00:57.240 --> 00:00:58.540
+<v Keith Murphy>Oh, nested.
+
+26
+00:00:58.860 --> 00:00:59.360
+<v Charles Caskey>Nested. [chuckles]
+
+27
+00:00:59.380 --> 00:01:01.720
+<v Keith Murphy>Okay. That's appropriate. So we screwed up.
+
+28
+00:01:01.860 --> 00:01:03.240
+<v Keith Murphy>Charles screwed up. The-
+
+29
+00:01:03.420 --> 00:01:03.920
+<v Charles Caskey>Yeah.
+
+30
+00:01:03.500 --> 00:01:08.440
+<v Keith Murphy>Okay. So all right, folks. The-- this episode is all about a small comment
+
+31
+00:01:08.460 --> 00:01:11.060
+<v Keith Murphy>that Charles made that was pertinent to us all.
+
+32
+00:01:11.560 --> 00:01:13.820
+<v Keith Murphy>He called it the double PRF.
+
+33
+00:01:14.860 --> 00:01:16.320
+<v Keith Murphy>Charles, explain yourself.
+
+34
+00:01:16.940 --> 00:01:21.640
+<v Charles Caskey>All right. All right. So the double PRF, the nested PRF- [laughs] ...
+
+35
+00:01:21.680 --> 00:01:23.820
+<v Charles Caskey>the two, the two clocks. Do we need them?
+
+36
+00:01:24.320 --> 00:01:26.960
+<v Charles Caskey>Where did they come from? That's what this episode's all about.
+
+37
+00:01:26.980 --> 00:01:29.480
+<v Charles Caskey>And if you have no idea what we're talking about, I'm gonna bring it
+
+38
+00:01:29.520 --> 00:01:35.460
+<v Charles Caskey>to you now. Okay. So ultrasound neuromodulation, there's a branch of groups that, uh...
+
+39
+00:01:35.560 --> 00:01:38.900
+<v Charles Caskey>So early papers, 2008, 2010, somewhere around there.
+
+40
+00:01:39.380 --> 00:01:43.240
+<v Charles Caskey>Uh, since that time, many groups have used these pulses, and it contains a
+
+41
+00:01:43.320 --> 00:01:49.240
+<v Charles Caskey>carrier frequency that is repeated, though many times within a multi-- like 100 or
+
+42
+00:01:49.460 --> 00:01:52.880
+<v Charles Caskey>50 to 100-millisecond range. It has a PRF within that.
+
+43
+00:01:52.960 --> 00:01:59.100
+<v Charles Caskey>So you get-- you'll get like 1,000 pulses within 100, 20, 150 milliseconds,
+
+44
+00:01:59.140 --> 00:02:02.140
+<v Charles Caskey>and each of these little pulses is maybe like 30, 40 cycles.
+
+45
+00:02:02.780 --> 00:02:06.940
+<v Charles Caskey>Um, so yeah. We're in the weeds today, but we gotta go there, um,
+
+46
+00:02:07.060 --> 00:02:09.860
+<v Charles Caskey>because- [laughs] ... [chuckles] like, 'cause this is a real thing.
+
+47
+00:02:09.940 --> 00:02:12.720
+<v Keith Murphy>Wait. So let's-- let, let me just understand this a little bit better.
+
+48
+00:02:13.200 --> 00:02:13.700
+<v Charles Caskey>Yep.
+
+49
+00:02:13.360 --> 00:02:17.960
+<v Keith Murphy>There's really three frequencies here. So there is the carrier, which would be called
+
+50
+00:02:17.980 --> 00:02:20.240
+<v Keith Murphy>a 500 kilohertz. That is the natural-
+
+51
+00:02:20.720 --> 00:02:21.220
+<v Charles Caskey>Yeah
+
+52
+00:02:20.740 --> 00:02:25.740
+<v Keith Murphy>... oscillation of your crystal. There's another frequency that tends to be pretty high,
+
+53
+00:02:26.260 --> 00:02:29.640
+<v Keith Murphy>like let's call it one kilohertz, things that you could hear.
+
+54
+00:02:30.160 --> 00:02:30.660
+<v Charles Caskey>Yeah.
+
+55
+00:02:30.540 --> 00:02:35.500
+<v Keith Murphy>Er. And then that is turned on and off at a much lower frequency.
+
+56
+00:02:35.600 --> 00:02:40.600
+<v Keith Murphy>So there's high carrier. There's some sort of high pulse that they do where
+
+57
+00:02:40.620 --> 00:02:45.520
+<v Keith Murphy>they're pulsing that carrier. And then there's a low frequency that they envelope around
+
+58
+00:02:45.560 --> 00:02:48.420
+<v Keith Murphy>that. I love nested PRF. I think that's more-
+
+59
+00:02:48.420 --> 00:02:48.940
+<v Charles Caskey>'Cause yeah, it's just-
+
+60
+00:02:48.940 --> 00:02:50.560
+<v Keith Murphy>... probably more accurate. [laughs]
+
+61
+00:02:50.600 --> 00:02:51.360
+<v Charles Caskey>It is a double, but.
+
+62
+00:02:51.540 --> 00:02:53.600
+<v Keith Murphy>I-- you know, both terms are accurate, actually.
+
+63
+00:02:53.880 --> 00:02:54.380
+<v Charles Caskey>Oh, yeah.
+
+64
+00:02:54.220 --> 00:02:55.420
+<v Keith Murphy>Double PRF, there are two of them.
+
+65
+00:02:55.920 --> 00:02:56.420
+<v Charles Caskey>Yeah.
+
+66
+00:02:56.020 --> 00:02:59.600
+<v Keith Murphy>P-PRF is pulse repetition frequency, on, off, on, off.
+
+67
+00:03:00.040 --> 00:03:00.540
+<v Charles Caskey>Yep.
+
+68
+00:03:00.160 --> 00:03:05.540
+<v Keith Murphy>And Charles has now more accurately renamed it the nested PRF, which he can
+
+69
+00:03:05.580 --> 00:03:06.320
+<v Keith Murphy>do because he's-
+
+70
+00:03:06.360 --> 00:03:06.860
+<v Charles Caskey>Yeah
+
+71
+00:03:06.480 --> 00:03:08.000
+<v Keith Murphy>... a super-duper expert, and we love him.
+
+72
+00:03:08.420 --> 00:03:09.620
+<v Charles Caskey>Yeah. Thank you. [laughs] Yeah, yeah.
+
+73
+00:03:09.960 --> 00:03:12.060
+<v Charles Caskey>Well, yeah, 'cause you just... You could keep doing it, right?
+
+74
+00:03:12.120 --> 00:03:13.360
+<v Charles Caskey>You could keep splitting these up.
+
+75
+00:03:13.400 --> 00:03:16.500
+<v Charles Caskey>You could just keep going like Russian dolls, just nested all the way down.
+
+76
+00:03:16.500 --> 00:03:19.740
+<v Charles Caskey>[laughs] Just PRF after PRF. We're gonna put a carrier.
+
+77
+00:03:19.820 --> 00:03:21.920
+<v Charles Caskey>We're gonna put a second frequency.
+
+78
+00:03:22.540 --> 00:03:23.040
+<v Charles Caskey>Um-
+
+79
+00:03:22.700 --> 00:03:26.200
+<v Keith Murphy>So, so okay, the reason, though, that this is important and we're talking about
+
+80
+00:03:26.220 --> 00:03:29.960
+<v Keith Murphy>it is because my take, and actually Kim, Kim Butts Pauly's take when we
+
+81
+00:03:30.000 --> 00:03:32.820
+<v Keith Murphy>used to talk about it, is like, well, why the hell are we doing
+
+82
+00:03:32.860 --> 00:03:36.620
+<v Keith Murphy>that? It makes it harder to drive the system because you have to now
+
+83
+00:03:37.100 --> 00:03:41.440
+<v Keith Murphy>have your function generator or your system create this complicated scheme.
+
+84
+00:03:42.140 --> 00:03:47.420
+<v Keith Murphy>And the biomechanistic rationale for that, to me, was never clear.
+
+85
+00:03:48.200 --> 00:03:51.780
+<v Keith Murphy>So we decided collectively that we were gonna play FUS detectives.
+
+86
+00:03:52.080 --> 00:03:53.380
+<v Charles Caskey>Yeah. Oh, man, I forgot my-
+
+87
+00:03:53.520 --> 00:03:54.020
+<v Keith Murphy>FUS detectives
+
+88
+00:03:53.560 --> 00:03:55.820
+<v Charles Caskey>... my, my magnifying glass I had.
+
+89
+00:03:55.960 --> 00:03:57.200
+<v Charles Caskey>Uh. [laughs] [laughs]
+
+90
+00:03:57.300 --> 00:03:58.000
+<v Keith Murphy>Yeah. I don't have one either.
+
+91
+00:03:58.580 --> 00:03:59.740
+<v Keith Murphy>Let's just wear a detective hat.
+
+92
+00:04:00.260 --> 00:04:01.040
+<v Charles Caskey>Yeah. Well, this-
+
+93
+00:04:01.060 --> 00:04:01.560
+<v Keith Murphy>FUS detectives.
+
+94
+00:04:01.380 --> 00:04:04.820
+<v Charles Caskey>Yeah. We've got our detective hats on, which are fitted cool baseball caps.
+
+95
+00:04:05.340 --> 00:04:06.620
+<v Charles Caskey>Um, m- and so-
+
+96
+00:04:06.660 --> 00:04:08.980
+<v Keith Murphy>What's-- Oh, what's the show with the my- FUS Busters.
+
+97
+00:04:09.080 --> 00:04:09.580
+<v Keith Murphy>We're the FUS
+
+98
+00:04:09.400 --> 00:04:10.880
+<v Charles Caskey>Busters. FUS Busters. FUS Busters coming at you.
+
+99
+00:04:10.880 --> 00:04:11.380
+<v Charles Caskey>[laughs]
+
+100
+00:04:11.180 --> 00:04:12.240
+<v Keith Murphy>Da, da, da, da, da, da.
+
+101
+00:04:12.240 --> 00:04:13.860
+<v Keith Murphy>[laughs]
+
+102
+00:04:13.960 --> 00:04:16.920
+<v Charles Caskey>Um, all right, all right. So here, I think your first question is a
+
+103
+00:04:16.960 --> 00:04:21.360
+<v Charles Caskey>pertinent one, and I think we gotta reach back into, uh, recent-ish history to
+
+104
+00:04:21.440 --> 00:04:23.220
+<v Charles Caskey>answer it, is why are we doing this?
+
+105
+00:04:23.440 --> 00:04:27.820
+<v Charles Caskey>Um, okay, so we both did a little, little, uh, independent research on this,
+
+106
+00:04:27.860 --> 00:04:28.960
+<v Charles Caskey>and I presume we found the same thing.
+
+107
+00:04:28.980 --> 00:04:29.640
+<v Keith Murphy>Totally independent.
+
+108
+00:04:30.040 --> 00:04:30.540
+<v Charles Caskey>To-
+
+109
+00:04:30.160 --> 00:04:31.420
+<v Keith Murphy>Well- You didn't look at my show notes, right?
+
+110
+00:04:31.660 --> 00:04:32.160
+<v Keith Murphy>You didn't look.
+
+111
+00:04:31.800 --> 00:04:32.760
+<v Charles Caskey>What? I didn't see them, no.
+
+112
+00:04:32.820 --> 00:04:33.440
+<v Charles Caskey>Did you share them with me?
+
+113
+00:04:33.520 --> 00:04:34.020
+<v Keith Murphy>Okay, good.
+
+114
+00:04:33.780 --> 00:04:34.280
+<v Charles Caskey>I didn't look.
+
+115
+00:04:34.500 --> 00:04:37.040
+<v Keith Murphy>No, I didn't. Well, they're in the drive that is shared in case I-
+
+116
+00:04:37.100 --> 00:04:39.180
+<v Charles Caskey>Oh, cool. No, no. So yeah, this was truly-
+
+117
+00:04:39.220 --> 00:04:39.720
+<v Keith Murphy>I'm glad you didn't look
+
+118
+00:04:39.700 --> 00:04:42.220
+<v Charles Caskey>... truly independent observers. Um, we, uh-
+
+119
+00:04:42.240 --> 00:04:43.600
+<v Keith Murphy>Did we have the same starting point?
+
+120
+00:04:43.700 --> 00:04:45.720
+<v Keith Murphy>Was your lab, your paper by A.
+
+121
+00:04:45.800 --> 00:04:46.300
+<v Keith Murphy>Mishra?
+
+122
+00:04:46.980 --> 00:04:47.480
+<v Charles Caskey>No.
+
+123
+00:04:47.020 --> 00:04:47.700
+<v Keith Murphy>We both started there.
+
+124
+00:04:48.240 --> 00:04:49.160
+<v Charles Caskey>No. Oh, is that where you started?
+
+125
+00:04:49.160 --> 00:04:49.660
+<v Keith Murphy>Oh, that's where I-
+
+126
+00:04:49.220 --> 00:04:49.940
+<v Charles Caskey>Did you go back in time?
+
+127
+00:04:49.980 --> 00:04:50.640
+<v Keith Murphy>That's where I started.
+
+128
+00:04:51.080 --> 00:04:51.580
+<v Charles Caskey>Oh.
+
+129
+00:04:51.740 --> 00:04:53.680
+<v Keith Murphy>Uh, no, no, no. I started modern day.
+
+130
+00:04:54.000 --> 00:04:55.380
+<v Keith Murphy>I started- Oh ... with a paper from...
+
+131
+00:04:55.740 --> 00:04:58.680
+<v Keith Murphy>So Charles is a violator. He uses the double PRF.
+
+132
+00:04:59.320 --> 00:04:59.820
+<v Charles Caskey>Well-
+
+133
+00:04:59.420 --> 00:05:05.920
+<v Keith Murphy>This paper... [both laughing] I, I personally am a very low-frequency, single PRF
+
+134
+00:05:05.960 --> 00:05:06.500
+<v Keith Murphy>kind of guy.
+
+135
+00:05:06.580 --> 00:05:07.080
+<v Charles Caskey>Yeah. Yeah.
+
+136
+00:05:06.800 --> 00:05:07.780
+<v Keith Murphy>You can see it in all my works.
+
+137
+00:05:08.360 --> 00:05:09.120
+<v Charles Caskey>Yeah. Okay.
+
+138
+00:05:09.160 --> 00:05:11.100
+<v Keith Murphy>Okay, wait. Let me say what paper I started with.
+
+139
+00:05:11.440 --> 00:05:11.940
+<v Charles Caskey>Okay.
+
+140
+00:05:11.540 --> 00:05:14.340
+<v Keith Murphy>Mine was from Charles' lab by first author was A.
+
+141
+00:05:14.460 --> 00:05:20.840
+<v Keith Murphy>Mishra. The paper is called Disrupting Nociceptive Information Processing Flow Through Transcranial
+
+142
+00:05:20.940 --> 00:05:24.720
+<v Keith Murphy>Focused Ultrasound Neuromodulation of Thalamic Nuclei: Brain Stimulation.
+
+143
+00:05:25.340 --> 00:05:26.940
+<v Keith Murphy>That was in 2023.
+
+144
+00:05:27.820 --> 00:05:28.380
+<v Charles Caskey>Yeah. Okay.
+
+145
+00:05:28.440 --> 00:05:32.020
+<v Keith Murphy>You used in that paper one kilohertz.
+
+146
+00:05:32.780 --> 00:05:34.660
+<v Keith Murphy>I pulled up a tone so that people could hear it.
+
+147
+00:05:34.800 --> 00:05:39.540
+<v Keith Murphy>Okay, so one kilohertz with a .5 hertz, uh, pulse.
+
+148
+00:05:39.700 --> 00:05:42.780
+<v Keith Murphy>So it would be-- Here's two kilohertz so the audience can hear it.
+
+149
+00:05:42.920 --> 00:05:43.800
+<v Keith Murphy>Tell me if you can hear this.
+
+150
+00:05:43.800 --> 00:05:46.700
+<v Keith Murphy>[high-pitched tone]
+
+151
+00:05:46.940 --> 00:05:48.100
+<v Charles Caskey>Oh. Oh.
+
+152
+00:05:48.160 --> 00:05:51.640
+<v Keith Murphy>You can hear it? Okay. So imagine turning that on and off.
+
+153
+00:05:51.680 --> 00:05:57.980
+<v Keith Murphy>I'll just try that. [high-pitched tone] So that's
+
+154
+00:05:58.040 --> 00:05:59.620
+<v Keith Murphy>kinda what Charles was doing.
+
+155
+00:06:00.420 --> 00:06:00.920
+<v Charles Caskey>Yeah
+
+156
+00:06:00.580 --> 00:06:03.100
+<v Keith Murphy>... with his [laughs] for 16 seconds.
+
+157
+00:06:03.280 --> 00:06:05.180
+<v Charles Caskey>Well, okay. Yeah. [laughs] Yeah, yeah.
+
+158
+00:06:05.360 --> 00:06:07.540
+<v Charles Caskey>Well, okay. All right. No, no, mine were nested, right?
+
+159
+00:06:07.620 --> 00:06:12.420
+<v Charles Caskey>So I had a, a one-third hertz, and then I had a one kilohertz,
+
+160
+00:06:12.580 --> 00:06:14.760
+<v Charles Caskey>and then I had a 650 kilohertz carrier.
+
+161
+00:06:15.320 --> 00:06:15.820
+<v Charles Caskey>Um-
+
+162
+00:06:15.860 --> 00:06:16.420
+<v Keith Murphy>Oh, yes, yes.
+
+163
+00:06:16.500 --> 00:06:17.000
+<v Charles Caskey>Yeah.
+
+164
+00:06:16.700 --> 00:06:17.200
+<v Keith Murphy>Triple. Yeah.
+
+165
+00:06:16.740 --> 00:06:19.480
+<v Charles Caskey>So we-- But yeah, so, um, that, yeah.
+
+166
+00:06:19.560 --> 00:06:25.400
+<v Charles Caskey>So that was 2023. Um, I'll, I wanna jump back to 13 or 14
+
+167
+00:06:25.440 --> 00:06:28.420
+<v Charles Caskey>years before that, um, to Jamie Tyler's papers.
+
+168
+00:06:28.460 --> 00:06:29.460
+<v Charles Caskey>This is where it all comes from.
+
+169
+00:06:29.760 --> 00:06:32.480
+<v Charles Caskey>I started digging back just to the earliest papers that I was reading at
+
+170
+00:06:32.520 --> 00:06:37.100
+<v Charles Caskey>the time we started to think about, uh, FUS neuromodulation, and the main papers
+
+171
+00:06:37.160 --> 00:06:40.620
+<v Charles Caskey>that were really high profile. They've been cited, like, a thousand times.
+
+172
+00:06:41.020 --> 00:06:46.200
+<v Charles Caskey>There's an original, I think, 2008 paper from Jamie Tyler's group that is, uh,
+
+173
+00:06:46.260 --> 00:06:47.780
+<v Charles Caskey>it shows a lot of ex vivo results.
+
+174
+00:06:47.800 --> 00:06:52.300
+<v Charles Caskey>And they u- they didn't really totally use an e- uh, um, a nested
+
+175
+00:06:52.400 --> 00:06:55.580
+<v Charles Caskey>PRF in that one. They used kinda short pulses repeated at, like, 10 hertz
+
+176
+00:06:55.600 --> 00:06:58.400
+<v Charles Caskey>in that one. But the next one, which was in-
+
+177
+00:06:58.500 --> 00:07:01.660
+<v Keith Murphy>Wait, are you talking about the cell or the slice or cell culture?
+
+178
+00:07:01.780 --> 00:07:03.100
+<v Keith Murphy>I think it was the cell culture paper.
+
+179
+00:07:03.500 --> 00:07:05.040
+<v Charles Caskey>There's a s- there's a cell culture- A PLOS One paper ...
+
+180
+00:07:05.060 --> 00:07:06.540
+<v Charles Caskey>but he also-- It's all ex vivo.
+
+181
+00:07:06.620 --> 00:07:09.460
+<v Charles Caskey>It's, like, ex vivo brains and other th- things.
+
+182
+00:07:09.540 --> 00:07:10.560
+<v Charles Caskey>It's the, the first one-
+
+183
+00:07:10.580 --> 00:07:13.640
+<v Keith Murphy>Oh, yeah. So my research shows that this is super important.
+
+184
+00:07:13.900 --> 00:07:17.020
+<v Keith Murphy>He did not use the high double PRF here.
+
+185
+00:07:17.340 --> 00:07:21.920
+<v Keith Murphy>In one of the papers, he said he used a sweeping PRF between zero
+
+186
+00:07:22.060 --> 00:07:22.900
+<v Keith Murphy>and 100.
+
+187
+00:07:23.340 --> 00:07:23.840
+<v Charles Caskey>Yes.
+
+188
+00:07:23.440 --> 00:07:26.420
+<v Keith Murphy>But there was only a single, single PRF, so that's very odd.
+
+189
+00:07:26.520 --> 00:07:30.900
+<v Keith Murphy>If you go all the way back, there is no high-frequency PRF.
+
+190
+00:07:31.720 --> 00:07:36.240
+<v Charles Caskey>Correct. In the 2008 paper, I think.
+
+191
+00:07:36.300 --> 00:07:37.900
+<v Charles Caskey>Is that right? Is that the ex vivo one?
+
+192
+00:07:38.780 --> 00:07:40.400
+<v Keith Murphy>That's the f- that's the one I see.
+
+193
+00:07:40.540 --> 00:07:44.100
+<v Keith Murphy>And what w- I want everyone to remember, and I'm not-- [laughs] I'll explain
+
+194
+00:07:44.140 --> 00:07:49.300
+<v Keith Murphy>why I think it's okay, but those cultures, those slices, they can't hear anything.
+
+195
+00:07:49.780 --> 00:07:50.280
+<v Charles Caskey>Okay.
+
+196
+00:07:49.960 --> 00:07:54.540
+<v Keith Murphy>They have no ears. So they, at that time, there was no double PRF.
+
+197
+00:07:54.820 --> 00:07:57.380
+<v Keith Murphy>The data looked, to my eyes, I, I like it.
+
+198
+00:07:57.460 --> 00:07:59.500
+<v Keith Murphy>I think most people love that work.
+
+199
+00:07:59.700 --> 00:08:00.200
+<v Charles Caskey>Yeah.
+
+200
+00:07:59.720 --> 00:08:01.320
+<v Keith Murphy>It's cited over 800 times.
+
+201
+00:08:01.600 --> 00:08:02.100
+<v Charles Caskey>Yep.
+
+202
+00:08:02.280 --> 00:08:03.100
+<v Keith Murphy>It's in PLOS One.
+
+203
+00:08:03.360 --> 00:08:03.860
+<v Charles Caskey>All right.
+
+204
+00:08:03.580 --> 00:08:05.220
+<v Keith Murphy>Okay. Next, next up, Charles. Where are we at?
+
+205
+00:08:05.700 --> 00:08:09.300
+<v Charles Caskey>All right. So then we only, though, need to go forward by two years
+
+206
+00:08:09.340 --> 00:08:15.560
+<v Charles Caskey>to 2008. Same group. Yusuf, uh, uh, is it Yusuf Tufail from Jamie Tyler's
+
+207
+00:08:15.600 --> 00:08:17.380
+<v Charles Caskey>group. First author paper, 2010.
+
+208
+00:08:17.420 --> 00:08:18.680
+<v Keith Murphy>That's, ah, that's where I landed up, too.
+
+209
+00:08:18.800 --> 00:08:19.300
+<v Keith Murphy>That's exactly right.
+
+210
+00:08:19.000 --> 00:08:22.680
+<v Charles Caskey>That's, this is the first time I saw this, like, truly surface, okay?
+
+211
+00:08:23.320 --> 00:08:23.820
+<v Charles Caskey>And-
+
+212
+00:08:24.060 --> 00:08:24.560
+<v Keith Murphy>Yeah
+
+213
+00:08:24.120 --> 00:08:28.340
+<v Charles Caskey>... and so those were, you know, so when we started writing grants and
+
+214
+00:08:28.480 --> 00:08:31.820
+<v Charles Caskey>thinking more deeply about this, those guys were publishing.
+
+215
+00:08:31.920 --> 00:08:34.900
+<v Charles Caskey>Tho- that paper was quite well-cited and appreciated.
+
+216
+00:08:35.360 --> 00:08:36.780
+<v Charles Caskey>Um, and that did have living animals.
+
+217
+00:08:37.080 --> 00:08:39.380
+<v Charles Caskey>Uh, you know, it was done in preclinical rodent models.
+
+218
+00:08:40.100 --> 00:08:44.500
+<v Charles Caskey>And they, there, yeah, there they used I think it was, like, 100 milliseconds,
+
+219
+00:08:44.580 --> 00:08:47.640
+<v Charles Caskey>maybe 200 milliseconds, and they had a nested PRF within it.
+
+220
+00:08:48.280 --> 00:08:48.780
+<v Charles Caskey>And-
+
+221
+00:08:48.860 --> 00:08:52.680
+<v Keith Murphy>That was the very first time in history that the double PRF was used.
+
+222
+00:08:53.000 --> 00:08:54.700
+<v Charles Caskey>I think so. I think that's, that's-
+
+223
+00:08:54.720 --> 00:08:56.140
+<v Keith Murphy>And the paper, that's what I found.
+
+224
+00:08:56.200 --> 00:09:02.860
+<v Keith Murphy>I'm with you. And the paper, this is important, "Transcranial pulsed ultrasound stimulates intact
+
+225
+00:09:02.980 --> 00:09:03.720
+<v Keith Murphy>brain circuits."
+
+226
+00:09:03.820 --> 00:09:04.380
+<v Charles Caskey>Yep. Yep.
+
+227
+00:09:04.480 --> 00:09:07.720
+<v Keith Murphy>So they went, they went from a sweeping frequency of zero to 100, which
+
+228
+00:09:08.100 --> 00:09:12.540
+<v Keith Murphy>I think is fantastic, all the way up to 1.5 kilohertz.
+
+229
+00:09:12.640 --> 00:09:14.660
+<v Keith Murphy>That's just like what you heard earlier.
+
+230
+00:09:15.160 --> 00:09:15.660
+<v Charles Caskey>Yep. Yep.
+
+231
+00:09:15.720 --> 00:09:18.100
+<v Keith Murphy>So why, why did they jump?
+
+232
+00:09:18.280 --> 00:09:19.300
+<v Keith Murphy>Why did they make that jump?
+
+233
+00:09:19.700 --> 00:09:20.200
+<v Keith Murphy>I have a theory.
+
+234
+00:09:19.880 --> 00:09:20.380
+<v Charles Caskey>Okay.
+
+235
+00:09:20.840 --> 00:09:21.340
+<v Keith Murphy>You wanna go first?
+
+236
+00:09:21.100 --> 00:09:23.760
+<v Charles Caskey>I, I have theories. [laughs] But, and so I didn't find anything in the
+
+237
+00:09:23.800 --> 00:09:24.300
+<v Charles Caskey>papers-
+
+238
+00:09:24.120 --> 00:09:24.620
+<v Keith Murphy>Oh, multiple
+
+239
+00:09:24.460 --> 00:09:25.860
+<v Charles Caskey>... about it, right? So and, you know-
+
+240
+00:09:25.880 --> 00:09:26.740
+<v Keith Murphy>No, they didn't say.
+
+241
+00:09:26.820 --> 00:09:27.320
+<v Charles Caskey>They didn't say.
+
+242
+00:09:26.900 --> 00:09:27.540
+<v Keith Murphy>They didn't say.
+
+243
+00:09:27.580 --> 00:09:30.600
+<v Charles Caskey>Yeah. Okay, cool. So we combed through these, and neither of us found it.
+
+244
+00:09:30.640 --> 00:09:33.720
+<v Charles Caskey>It, there was no specific explanation, so you just kinda had to take it
+
+245
+00:09:33.760 --> 00:09:35.260
+<v Charles Caskey>as this, this is what worked.
+
+246
+00:09:35.300 --> 00:09:40.220
+<v Charles Caskey>And they have all this nice, like, c-Fos data and, like, motor EMG responses
+
+247
+00:09:40.240 --> 00:09:43.920
+<v Charles Caskey>and stuff like that. And so with this, this was just in this work.
+
+248
+00:09:44.200 --> 00:09:48.400
+<v Charles Caskey>And okay, so this, and he, and I think, like, one thing I do
+
+249
+00:09:48.440 --> 00:09:52.380
+<v Charles Caskey>really like about those papers, um, is that they, he kinda set out the
+
+250
+00:09:52.400 --> 00:09:54.120
+<v Charles Caskey>parameter space really well early on.
+
+251
+00:09:54.140 --> 00:09:56.380
+<v Charles Caskey>The same parameters that we debate now.
+
+252
+00:09:56.420 --> 00:09:58.400
+<v Charles Caskey>It's like, how long's the pulse gonna be?
+
+253
+00:09:58.840 --> 00:09:59.820
+<v Charles Caskey>What's the duration?
+
+254
+00:09:59.880 --> 00:10:00.380
+<v Keith Murphy>Mm-hmm.
+
+255
+00:10:00.000 --> 00:10:02.740
+<v Charles Caskey>Stuff like that. So it was, like, this vast parameter space.
+
+256
+00:10:02.740 --> 00:10:03.240
+<v Keith Murphy>Well described.
+
+257
+00:10:03.220 --> 00:10:06.580
+<v Charles Caskey>Yeah, it was well described. Um, so yeah, found it there.
+
+258
+00:10:06.920 --> 00:10:08.760
+<v Charles Caskey>And I, and tons of people started using it.
+
+259
+00:10:08.840 --> 00:10:12.080
+<v Charles Caskey>So then you had, uh, another person that was incredibly active at that time,
+
+260
+00:10:12.200 --> 00:10:16.540
+<v Charles Caskey>still active, um, Seung-Schik Yoo, published tons of papers with that.
+
+261
+00:10:16.860 --> 00:10:19.460
+<v Charles Caskey>And I think the other one that gets cited a lot that's also from
+
+262
+00:10:19.500 --> 00:10:23.140
+<v Charles Caskey>Tyler's group is Wynn Legon's group, or Wynn Legon, first author.
+
+263
+00:10:23.460 --> 00:10:27.520
+<v Charles Caskey>Jam- when he was with Jamie Tyler's lab, they published this one, "Transcranial Focused
+
+264
+00:10:27.580 --> 00:10:32.460
+<v Charles Caskey>Ultrasound Modulates the Activity of Primary Somatosensory Cortex in Humans."
+
+265
+00:10:33.080 --> 00:10:36.780
+<v Charles Caskey>And that one got a ton of citations, and it's in humans.
+
+266
+00:10:36.820 --> 00:10:40.400
+<v Charles Caskey>That was 2014. So you have this one lab that kinda, like, adopt, seems
+
+267
+00:10:40.440 --> 00:10:44.960
+<v Charles Caskey>to have created this nested PRF in 2010, and then continued to use it,
+
+268
+00:10:45.420 --> 00:10:48.680
+<v Charles Caskey>published two or three really well-cited papers.
+
+269
+00:10:48.740 --> 00:10:51.440
+<v Charles Caskey>And it sorta created this wave in the field, and people just started repeating
+
+270
+00:10:51.480 --> 00:10:51.980
+<v Charles Caskey>it.
+
+271
+00:10:52.580 --> 00:10:57.140
+<v Keith Murphy>So in my opinion, the wave came from not that paper we just described,
+
+272
+00:10:57.320 --> 00:11:02.580
+<v Keith Murphy>but a Nature Protocols paper was written on the back of this in mice.
+
+273
+00:11:02.700 --> 00:11:03.200
+<v Charles Caskey>Yeah.
+
+274
+00:11:02.720 --> 00:11:06.360
+<v Keith Murphy>So that uses [clears throat] nearly the exact same parameters.
+
+275
+00:11:06.440 --> 00:11:10.340
+<v Keith Murphy>I think this 1.5 kilohertz at a low frequency pulsing.
+
+276
+00:11:10.480 --> 00:11:13.260
+<v Keith Murphy>So I think people took that as, like, this is gospel.
+
+277
+00:11:13.340 --> 00:11:14.200
+<v Keith Murphy>This is how you do it.
+
+278
+00:11:14.340 --> 00:11:18.880
+<v Keith Murphy>This guy's well respected, and it has propagated infinitely.
+
+279
+00:11:19.020 --> 00:11:19.520
+<v Keith Murphy>[laughs]
+
+280
+00:11:19.440 --> 00:11:19.940
+<v Charles Caskey>Yeah.
+
+281
+00:11:19.500 --> 00:11:21.420
+<v Keith Murphy>Not infinitely, but many times.
+
+282
+00:11:21.880 --> 00:11:23.280
+<v Charles Caskey>And the, and the results are there, right?
+
+283
+00:11:23.320 --> 00:11:24.740
+<v Charles Caskey>Like, you see it and it works, right?
+
+284
+00:11:25.160 --> 00:11:27.440
+<v Charles Caskey>And so we've got, yeah. And they have, like, in that paper-
+
+285
+00:11:27.460 --> 00:11:27.960
+<v Keith Murphy>Well, I mean-
+
+286
+00:11:27.840 --> 00:11:28.340
+<v Charles Caskey>I know what you're-
+
+287
+00:11:28.160 --> 00:11:29.580
+<v Keith Murphy>Do I push back now or later?
+
+288
+00:11:30.000 --> 00:11:31.720
+<v Keith Murphy>So we never answered the question.
+
+289
+00:11:31.960 --> 00:11:35.360
+<v Keith Murphy>So between cell cultures and living mice, why did they suddenly jump up to
+
+290
+00:11:35.400 --> 00:11:42.240
+<v Keith Murphy>a PRF of 1.5 kilohertz? I think, and I'm, actually, I'm pretty sure the
+
+291
+00:11:42.580 --> 00:11:46.720
+<v Keith Murphy>response they were looking at was anesthetized animal motor response.
+
+292
+00:11:46.860 --> 00:11:47.620
+<v Charles Caskey>Oh, here we go.
+
+293
+00:11:47.640 --> 00:11:49.060
+<v Keith Murphy>And I sent-- I, yeah, yeah.
+
+294
+00:11:49.100 --> 00:11:50.660
+<v Keith Murphy>Okay. But I'm not saying it's bad yet.
+
+295
+00:11:50.740 --> 00:11:51.240
+<v Charles Caskey>No,
+
+296
+00:11:50.820 --> 00:11:51.540
+<v Keith Murphy>no. I'm not saying it's bad yet.
+
+297
+00:11:51.720 --> 00:11:52.220
+<v Charles Caskey>No, no.
+
+298
+00:11:52.240 --> 00:11:56.080
+<v Keith Murphy>But I sent, I sent Charles a video in the background of me snapping
+
+299
+00:11:56.120 --> 00:11:59.940
+<v Keith Murphy>my thumb in front of an anesthetized animal, and what you can clearly see
+
+300
+00:12:00.000 --> 00:12:02.280
+<v Keith Murphy>is the paws twitch and the tail goes up.
+
+301
+00:12:02.920 --> 00:12:07.080
+<v Keith Murphy>If an animal is lightly anesthetized, its auditory system remains intact.
+
+302
+00:12:07.980 --> 00:12:12.020
+<v Keith Murphy>Now, I'm not saying, and there are many works that follow onto this and
+
+303
+00:12:12.100 --> 00:12:14.520
+<v Keith Murphy>do motor response that actually show laterality.
+
+304
+00:12:14.980 --> 00:12:18.300
+<v Keith Murphy>So that means if you stimulate left motor cortex, the right leg goes and
+
+305
+00:12:18.340 --> 00:12:20.880
+<v Keith Murphy>vice versa. I think it's good stuff.
+
+306
+00:12:21.080 --> 00:12:25.980
+<v Keith Murphy>I think at the time though, tell me if you disagree, Charles, what was
+
+307
+00:12:26.040 --> 00:12:32.320
+<v Keith Murphy>happening is you were compounding some potentiation of those circuits with ultrasound
+
+308
+00:12:32.780 --> 00:12:37.700
+<v Keith Murphy>displacement of the motor cortex, and you were getting a summative effect that may
+
+309
+00:12:37.740 --> 00:12:40.600
+<v Keith Murphy>have helped push these motor responses.
+
+310
+00:12:40.620 --> 00:12:44.440
+<v Keith Murphy>So I'm not saying it was like, "Oh, it's just auditory confound," because those
+
+311
+00:12:44.500 --> 00:12:46.320
+<v Keith Murphy>later studies I think weeded that out.
+
+312
+00:12:47.120 --> 00:12:50.900
+<v Keith Murphy>But I am saying, and, and you see this a lot with medical devices,
+
+313
+00:12:51.120 --> 00:12:56.120
+<v Keith Murphy>um, that detect submotor EMG. Like if you even think about moving your finger,
+
+314
+00:12:56.260 --> 00:13:00.920
+<v Keith Murphy>sometimes the, the nerves that sort of reach into your fingers will actually have
+
+315
+00:13:00.980 --> 00:13:02.480
+<v Keith Murphy>subthreshold events.
+
+316
+00:13:02.760 --> 00:13:03.260
+<v Charles Caskey>Mm-hmm.
+
+317
+00:13:03.100 --> 00:13:04.240
+<v Keith Murphy>And I think it's kind of like that.
+
+318
+00:13:04.320 --> 00:13:09.860
+<v Keith Murphy>So I'm gonna say it originated because that guy who wrote that paper, it
+
+319
+00:13:09.900 --> 00:13:13.180
+<v Keith Murphy>was Tufail actually. Yeah, I think he just was like, "Why is it working
+
+320
+00:13:13.200 --> 00:13:15.160
+<v Keith Murphy>way better when I use 1.5 kilohertz?"
+
+321
+00:13:15.260 --> 00:13:15.760
+<v Charles Caskey>Yep.
+
+322
+00:13:15.620 --> 00:13:16.820
+<v Keith Murphy>It's because the mice can hear it.
+
+323
+00:13:17.460 --> 00:13:20.700
+<v Keith Murphy>And, uh, ever since, Charles gets stuck in grants.
+
+324
+00:13:20.780 --> 00:13:22.140
+<v Keith Murphy>Tell them about the grants, Charles.
+
+325
+00:13:22.440 --> 00:13:24.520
+<v Keith Murphy>Yeah. Why are you still using the double PRF method?
+
+326
+00:13:24.680 --> 00:13:27.740
+<v Charles Caskey>So, well, so okay, so you gotta think the paper that was published was
+
+327
+00:13:27.880 --> 00:13:30.800
+<v Charles Caskey>2023, um, and it's, uh, you know, what- [chuckles] ...
+
+328
+00:13:30.820 --> 00:13:31.360
+<v Charles Caskey>however many-
+
+329
+00:13:31.440 --> 00:13:32.080
+<v Keith Murphy>Many, many years
+
+330
+00:13:32.080 --> 00:13:32.720
+<v Charles Caskey>... in HP.
+
+331
+00:13:32.720 --> 00:13:33.220
+<v Keith Murphy>Almost a decade.
+
+332
+00:13:33.060 --> 00:13:37.200
+<v Charles Caskey>So we pro- we probably started those studies in 2019 or '18.
+
+333
+00:13:37.200 --> 00:13:38.380
+<v Charles Caskey>[chuckles] So, you know-
+
+334
+00:13:38.420 --> 00:13:38.920
+<v Keith Murphy>Oh, yeah. Yeah
+
+335
+00:13:38.800 --> 00:13:40.360
+<v Charles Caskey>... it takes forever, right? Um- Yeah ...
+
+336
+00:13:40.460 --> 00:13:43.700
+<v Charles Caskey>to analyze the data, get the pu- paper published, uh, take, take the data.
+
+337
+00:13:44.260 --> 00:13:49.340
+<v Charles Caskey>Um, you can't change midstream. So, and this was before or around the time
+
+338
+00:13:49.980 --> 00:13:53.480
+<v Charles Caskey>people started, started even talking about auditory confound.
+
+339
+00:13:53.580 --> 00:13:57.740
+<v Charles Caskey>So auditory confounds, it makes a lot of sense that they could-- that this
+
+340
+00:13:57.760 --> 00:14:03.440
+<v Charles Caskey>would be heard. Okay, so, um, audible range for humans, like 200 hertz to
+
+341
+00:14:03.660 --> 00:14:09.300
+<v Charles Caskey>20 kilohertz or something. Um, a mouse can even hear higher frequencies, and so
+
+342
+00:14:09.340 --> 00:14:12.540
+<v Charles Caskey>I mean, like 1.5 kilohertz is gonna be like right in their range.
+
+343
+00:14:13.160 --> 00:14:17.440
+<v Charles Caskey>And so it was sort of like all this stuff was in motion as
+
+344
+00:14:17.480 --> 00:14:20.520
+<v Charles Caskey>we were planning our studies. And so, and, and so many groups had been
+
+345
+00:14:20.540 --> 00:14:22.220
+<v Charles Caskey>doing it and shown that it, that it worked.
+
+346
+00:14:22.280 --> 00:14:26.060
+<v Charles Caskey>So you sort of, yeah, you sort of get stuck 'cause you couldn't, we
+
+347
+00:14:26.100 --> 00:14:28.300
+<v Charles Caskey>couldn't like pull the plug on exactly what we were doing.
+
+348
+00:14:28.720 --> 00:14:31.660
+<v Charles Caskey>And I think the other part is that we haven't talked about is like
+
+349
+00:14:31.760 --> 00:14:35.180
+<v Charles Caskey>w- and it's not documented, and I'd be very interested to hear like Yusuf,
+
+350
+00:14:35.400 --> 00:14:40.300
+<v Charles Caskey>uh, Tu- or, uh, Tufail's, uh, opinion or maybe Jamie Tyler's, how did they
+
+351
+00:14:40.340 --> 00:14:41.660
+<v Charles Caskey>even start doing this or why?
+
+352
+00:14:41.700 --> 00:14:43.260
+<v Charles Caskey>'Cause it's not like this type of thing.
+
+353
+00:14:43.320 --> 00:14:47.240
+<v Charles Caskey>You have to have a whole extra function generator [chuckles] or something trigger-
+
+354
+00:14:47.280 --> 00:14:47.780
+<v Keith Murphy>I know. It's a thing
+
+355
+00:14:47.620 --> 00:14:50.080
+<v Charles Caskey>... it's not like it happens on accident or by default, right?
+
+356
+00:14:50.140 --> 00:14:51.080
+<v Charles Caskey>Like so. [laughs]
+
+357
+00:14:51.140 --> 00:14:51.640
+<v Keith Murphy>Yeah.
+
+358
+00:14:52.080 --> 00:14:52.720
+<v Charles Caskey>And it's-
+
+359
+00:14:52.780 --> 00:14:54.740
+<v Keith Murphy>Should-- Yeah, we should get them on and ask.
+
+360
+00:14:54.900 --> 00:14:57.220
+<v Keith Murphy>Be like, "Hey, ex-" And not in a bad way, but like, "How, how'd
+
+361
+00:14:57.260 --> 00:14:58.300
+<v Keith Murphy>you, why'd you do that?" [chuckles]
+
+362
+00:14:58.320 --> 00:15:00.420
+<v Charles Caskey>Yeah. What was the rationale? 'Cause I think what you said made a lot
+
+363
+00:15:00.440 --> 00:15:02.240
+<v Charles Caskey>of sense. Like you might have started seeing...
+
+364
+00:15:02.740 --> 00:15:06.400
+<v Charles Caskey>If, if this was a response that like, like you mentioned, uh, there's a
+
+365
+00:15:06.480 --> 00:15:11.600
+<v Charles Caskey>sound that's played maybe that brings a level of alertness to an anesthetized animal,
+
+366
+00:15:12.140 --> 00:15:16.280
+<v Charles Caskey>and then from that alertness, the, the additional factor of neuromod, maybe that, you
+
+367
+00:15:16.320 --> 00:15:17.880
+<v Charles Caskey>know, maybe it just happened by that.
+
+368
+00:15:17.920 --> 00:15:19.840
+<v Charles Caskey>Like maybe, hey, they worked better and that was that.
+
+369
+00:15:20.500 --> 00:15:22.560
+<v Charles Caskey>Um, and then I guess there's the other part.
+
+370
+00:15:22.700 --> 00:15:27.880
+<v Charles Caskey>I guess I always thought that maybe there was this need for longer pulses,
+
+371
+00:15:28.260 --> 00:15:32.320
+<v Charles Caskey>but we still needed to fl- we didn't wanna generate heat is what I
+
+372
+00:15:32.360 --> 00:15:33.500
+<v Charles Caskey>guess, uh, what in my mind-
+
+373
+00:15:33.500 --> 00:15:36.560
+<v Keith Murphy>I hear that heat argument all the time, but it doesn't make any sense
+
+374
+00:15:36.640 --> 00:15:40.200
+<v Keith Murphy>because you can just have continuous wave pulses and shut them off for a
+
+375
+00:15:40.260 --> 00:15:43.440
+<v Keith Murphy>longer period. 'Cause I've heard that argument many times.
+
+376
+00:15:43.860 --> 00:15:44.360
+<v Charles Caskey>Yeah.
+
+377
+00:15:43.920 --> 00:15:48.540
+<v Keith Murphy>I think Seung-Schik made that argument initially, and it's like, well, it has like
+
+378
+00:15:48.580 --> 00:15:49.400
+<v Keith Murphy>nothing to do with the heat.
+
+379
+00:15:49.560 --> 00:15:51.600
+<v Keith Murphy>Just the duty cycle in general is the heat.
+
+380
+00:15:51.920 --> 00:15:54.280
+<v Keith Murphy>You don't have to come up with a fancy pulsing regime to make that
+
+381
+00:15:54.320 --> 00:15:54.820
+<v Keith Murphy>work.
+
+382
+00:15:55.300 --> 00:15:55.920
+<v Charles Caskey>Yeah. Well, like-
+
+383
+00:15:55.960 --> 00:15:56.460
+<v Keith Murphy>Right?
+
+384
+00:15:56.600 --> 00:16:00.300
+<v Charles Caskey>I-- Well- Yeah ... okay, so I, I can't decide on this, uh, because
+
+385
+00:16:00.340 --> 00:16:05.240
+<v Charles Caskey>you can think... So tissue relax, uh, if you're getting-- Tissue relaxes at like,
+
+386
+00:16:05.300 --> 00:16:09.460
+<v Charles Caskey>say, a slower rate than the PRF that's being used.
+
+387
+00:16:09.520 --> 00:16:11.940
+<v Charles Caskey>So the tissue's like, the tissue-
+
+388
+00:16:11.980 --> 00:16:12.480
+<v Keith Murphy>Right
+
+389
+00:16:12.000 --> 00:16:15.940
+<v Charles Caskey>... itself is piling up this displacement and this force and not relaxing back
+
+390
+00:16:15.980 --> 00:16:17.760
+<v Charles Caskey>to its original state as these repeat-
+
+391
+00:16:17.800 --> 00:16:21.800
+<v Keith Murphy>So, so the push out is faster than the p- than the relaxation back.
+
+392
+00:16:22.020 --> 00:16:26.760
+<v Keith Murphy>I think I've actually seen that in, uh, videos of retina from Steve Baccus.
+
+393
+00:16:26.820 --> 00:16:28.480
+<v Keith Murphy>So I'm with you. I get this argument.
+
+394
+00:16:28.980 --> 00:16:29.480
+<v Charles Caskey>So what-
+
+395
+00:16:29.100 --> 00:16:29.860
+<v Keith Murphy>Sorry, proceed.
+
+396
+00:16:30.260 --> 00:16:33.420
+<v Charles Caskey>Or at least it was a, it, it, and if nothing else, even if
+
+397
+00:16:33.480 --> 00:16:39.500
+<v Charles Caskey>whether there's, um, physically, like whether it, the, uh, displacement accumulates, 'cause I
+
+398
+00:16:39.520 --> 00:16:40.620
+<v Charles Caskey>think that it sort of like goes...
+
+399
+00:16:40.800 --> 00:16:42.940
+<v Charles Caskey>I think it does move back pretty fast.
+
+400
+00:16:43.000 --> 00:16:45.580
+<v Charles Caskey>It's not that it displaces faster than it relaxes.
+
+401
+00:16:45.640 --> 00:16:49.820
+<v Charles Caskey>It's just that it doesn't relax fast enough for a one-
+
+402
+00:16:50.280 --> 00:16:50.780
+<v Keith Murphy>Like a reset
+
+403
+00:16:50.520 --> 00:16:52.400
+<v Charles Caskey>... you know, kilo... Yeah, like it doesn't reset.
+
+404
+00:16:52.420 --> 00:16:56.040
+<v Charles Caskey>And so I guess I was thinking like maybe there's a component there.
+
+405
+00:16:56.140 --> 00:17:00.440
+<v Charles Caskey>That could be a rationale. But I think either way, the forces that are
+
+406
+00:17:00.500 --> 00:17:04.180
+<v Charles Caskey>at play when you have a pulsed, uh, PRF, and I haven't done the
+
+407
+00:17:04.220 --> 00:17:09.020
+<v Charles Caskey>simulations, they're gonna be a little bit different, um, compared to a single one.
+
+408
+00:17:09.040 --> 00:17:13.100
+<v Charles Caskey>And I was always scared to veer away from it, um, when there wasn't
+
+409
+00:17:13.160 --> 00:17:14.500
+<v Charles Caskey>a lot of literature to back it up.
+
+410
+00:17:14.540 --> 00:17:17.660
+<v Charles Caskey>And I think the thing that also just really still hasn't been done, it's
+
+411
+00:17:17.720 --> 00:17:21.680
+<v Charles Caskey>not like... So I agree that we wanna minimize audi- auditory confound.
+
+412
+00:17:21.720 --> 00:17:26.000
+<v Charles Caskey>We can't overlook that. We wanna reduce them, and removing this PRF is a
+
+413
+00:17:26.340 --> 00:17:30.660
+<v Charles Caskey>step in the right direction. I think the thing that sticks with me a
+
+414
+00:17:30.700 --> 00:17:35.100
+<v Charles Caskey>little bit is just that, that nobody still has done a study that like
+
+415
+00:17:35.160 --> 00:17:37.620
+<v Charles Caskey>really compares the two and said [chuckles] like, "Oh, this is, you know-
+
+416
+00:17:37.860 --> 00:17:38.360
+<v Keith Murphy>I know
+
+417
+00:17:37.980 --> 00:17:39.240
+<v Charles Caskey>... look at the exact spec."
+
+418
+00:17:39.500 --> 00:17:41.400
+<v Charles Caskey>There is work out there that compared it- Yeah ...
+
+419
+00:17:41.420 --> 00:17:44.520
+<v Charles Caskey>but it's in cell cultures or it's in ex vivo or it's in [chuckles]
+
+420
+00:17:44.580 --> 00:17:48.920
+<v Keith Murphy>There-- The fear is real. If you change that one thing and the experiment
+
+421
+00:17:48.960 --> 00:17:51.160
+<v Keith Murphy>doesn't work, you're like, "Well, goddamn.
+
+422
+00:17:51.680 --> 00:17:53.320
+<v Keith Murphy>Was it because of the double PRF?
+
+423
+00:17:53.360 --> 00:17:54.260
+<v Keith Murphy>We should have put it in."
+
+424
+00:17:54.620 --> 00:17:56.080
+<v Charles Caskey>Well, yeah. Or, and then-
+
+425
+00:17:56.580 --> 00:17:57.140
+<v Keith Murphy>So I get that.
+
+426
+00:17:57.700 --> 00:18:00.560
+<v Charles Caskey>Yeah. I mean, that was-- I think that's the thing that, that kept me
+
+427
+00:18:00.620 --> 00:18:02.760
+<v Charles Caskey>from like just being like, "Oh, well this makes it sound..."
+
+428
+00:18:02.800 --> 00:18:05.980
+<v Charles Caskey>And I guess also another thing is our work is inside of the MRI
+
+429
+00:18:06.200 --> 00:18:09.560
+<v Charles Caskey>and, um, and if you've ever been in an MRI, I was always kind
+
+430
+00:18:09.600 --> 00:18:13.560
+<v Charles Caskey>of of this mindset of like the auditory, like ...
+
+431
+00:18:13.600 --> 00:18:16.880
+<v Charles Caskey>co- you know, the part of the brain that receives sound is already getting
+
+432
+00:18:16.920 --> 00:18:18.680
+<v Charles Caskey>pretty bombarded [chuckles] in our studies.
+
+433
+00:18:19.100 --> 00:18:20.840
+<v Charles Caskey>So the thought that-
+
+434
+00:18:20.840 --> 00:18:21.340
+<v Keith Murphy>Yeah
+
+435
+00:18:20.920 --> 00:18:24.980
+<v Charles Caskey>... this like 1.5 or one kilohertz, uh, pulse or two kilohertz pulse is
+
+436
+00:18:25.000 --> 00:18:29.560
+<v Charles Caskey>gonna be like the thing that changed our experiment, um, I was always kinda
+
+437
+00:18:29.660 --> 00:18:32.300
+<v Charles Caskey>giving myself a little comfort and be like, well, on top of that, there's
+
+438
+00:18:32.340 --> 00:18:35.200
+<v Charles Caskey>also the magnet being like clunk, clunk, [chuckles] like, so.
+
+439
+00:18:35.200 --> 00:18:35.920
+<v Charles Caskey>[laughs]
+
+440
+00:18:35.980 --> 00:18:36.660
+<v Keith Murphy>Yeah. That's true.
+
+441
+00:18:37.680 --> 00:18:38.180
+<v Charles Caskey>Um-
+
+442
+00:18:37.780 --> 00:18:42.320
+<v Keith Murphy>It always-- I feel like all our conversations always come back to having [clears throat]
+
+443
+00:18:42.400 --> 00:18:44.600
+<v Keith Murphy>like an off-target active control.
+
+444
+00:18:46.000 --> 00:18:46.500
+<v Charles Caskey>Y-
+
+445
+00:18:46.080 --> 00:18:49.060
+<v Keith Murphy>Always, which is just a good way to get rid of all these problems.
+
+446
+00:18:49.140 --> 00:18:52.660
+<v Keith Murphy>They hear it or they don't, it doesn't matter because, you know, they're gonna
+
+447
+00:18:52.700 --> 00:18:54.700
+<v Keith Murphy>hear it in both sen- scenarios.
+
+448
+00:18:55.180 --> 00:18:59.320
+<v Charles Caskey>Yep. Yep. So, all right, so we're in this place then, where we, we've--
+
+449
+00:18:59.440 --> 00:19:02.580
+<v Charles Caskey>All right. So maybe we've, maybe we've got to like 2015 or so.
+
+450
+00:19:02.720 --> 00:19:04.940
+<v Charles Caskey>There's a lot of studies that use the active PRF.
+
+451
+00:19:05.480 --> 00:19:10.640
+<v Charles Caskey>The- Lots ... the auditory confound is being recognized a little bit more and
+
+452
+00:19:10.680 --> 00:19:12.180
+<v Charles Caskey>acknowledged. Um-
+
+453
+00:19:12.280 --> 00:19:15.720
+<v Keith Murphy>There are so many studies using it that one time, he wouldn't mind me
+
+454
+00:19:15.740 --> 00:19:19.540
+<v Keith Murphy>saying, there was one time at a conference where Shai Shoham was shocked that
+
+455
+00:19:19.880 --> 00:19:24.060
+<v Keith Murphy>in my studies I didn't use it because I couldn't understand why others were.
+
+456
+00:19:24.200 --> 00:19:26.320
+<v Keith Murphy>I had never done this detective diligence.
+
+457
+00:19:27.040 --> 00:19:28.220
+<v Keith Murphy>And it was just the funniest thing.
+
+458
+00:19:28.280 --> 00:19:29.600
+<v Keith Murphy>I'm like: Well, why are you using it?
+
+459
+00:19:29.680 --> 00:19:30.800
+<v Keith Murphy>He's like: Well, that's what people do.
+
+460
+00:19:30.840 --> 00:19:31.800
+<v Keith Murphy>And I'm like: You're not wrong.
+
+461
+00:19:31.800 --> 00:19:32.860
+<v Keith Murphy>[laughs]
+
+462
+00:19:32.980 --> 00:19:33.880
+<v Charles Caskey>Yeah. Like, yeah, I got this-
+
+463
+00:19:33.880 --> 00:19:35.560
+<v Keith Murphy>Then old man Charles shows up behind me.
+
+464
+00:19:35.580 --> 00:19:36.820
+<v Keith Murphy>He says, "Oh yeah, I love it."
+
+465
+00:19:36.840 --> 00:19:37.420
+<v Keith Murphy>[laughs]
+
+466
+00:19:37.540 --> 00:19:40.840
+<v Charles Caskey>Oh yeah, it's great. Yeah. Well g- yeah, and so then we sort of
+
+467
+00:19:40.960 --> 00:19:44.080
+<v Charles Caskey>like-- Then I feel like the field gained like this like it worked the
+
+468
+00:19:44.120 --> 00:19:47.780
+<v Charles Caskey>first time momentum, you know? It just sort of like- [laughs] You had these
+
+469
+00:19:47.820 --> 00:19:50.300
+<v Charles Caskey>papers that were cited a hun- hundred plus times.
+
+470
+00:19:50.760 --> 00:19:51.440
+<v Keith Murphy>Yeah. Things change.
+
+471
+00:19:51.460 --> 00:19:53.360
+<v Charles Caskey>And, and like it just gained this momentum.
+
+472
+00:19:53.420 --> 00:19:54.960
+<v Charles Caskey>It like became this life of its own.
+
+473
+00:19:55.540 --> 00:19:56.520
+<v Charles Caskey>Um, and
+
+474
+00:19:56.780 --> 00:19:57.460
+<v Keith Murphy>it- It's a beast.
+
+475
+00:19:57.980 --> 00:20:01.260
+<v Charles Caskey>Yeah. And then you're right, like Shai, Shai is a, a, a super, um,
+
+476
+00:20:01.820 --> 00:20:04.060
+<v Charles Caskey>thorough scientist and, and he would def-
+
+477
+00:20:04.280 --> 00:20:04.780
+<v Keith Murphy>Yeah, he is.
+
+478
+00:20:04.660 --> 00:20:05.320
+<v Charles Caskey>He, he's definitely the type of person-
+
+479
+00:20:05.320 --> 00:20:07.920
+<v Keith Murphy>He's also a biophysical mechanism kind of guy.
+
+480
+00:20:08.000 --> 00:20:11.000
+<v Keith Murphy>So I do like, I, I really like what you said.
+
+481
+00:20:11.740 --> 00:20:17.940
+<v Keith Murphy>The tissue, if the extension rate is different from the relaxation rate, then
+
+482
+00:20:18.120 --> 00:20:23.860
+<v Keith Murphy>the, the amount of time that ultrasound stays on would matter, I guess.
+
+483
+00:20:23.960 --> 00:20:27.260
+<v Keith Murphy>I don't-- I think it'd be very interesting to simulate this stuff if you
+
+484
+00:20:27.280 --> 00:20:29.380
+<v Keith Murphy>could back out those two rates.
+
+485
+00:20:30.360 --> 00:20:34.380
+<v Keith Murphy>All right. Well, um, you mentioned another thing that h- I've gone through, and
+
+486
+00:20:34.420 --> 00:20:41.140
+<v Keith Murphy>it's annoying, but sometimes reviewers will come in and say, "Well, please justify
+
+487
+00:20:41.300 --> 00:20:47.100
+<v Keith Murphy>where those parameters came from." And sometimes you just have to fiddle around with
+
+488
+00:20:47.200 --> 00:20:52.540
+<v Keith Murphy>stuff in preliminary experiments and mock-ups, and there's not always a crystal clear rationale,
+
+489
+00:20:52.660 --> 00:20:54.880
+<v Keith Murphy>which has obviously happened in the past.
+
+490
+00:20:55.480 --> 00:20:58.300
+<v Keith Murphy>But what they're really asking you to do is to say, "Who's done this
+
+491
+00:20:58.340 --> 00:20:59.560
+<v Keith Murphy>before and who did you copy?"
+
+492
+00:21:00.340 --> 00:21:00.840
+<v Keith Murphy>Um-
+
+493
+00:21:00.520 --> 00:21:01.020
+<v Charles Caskey>Yeah
+
+494
+00:21:00.560 --> 00:21:01.460
+<v Keith Murphy>... so I don't, I don't know.
+
+495
+00:21:01.520 --> 00:21:04.500
+<v Keith Murphy>Like, how do you feel about that reviewer question, which comes up for people
+
+496
+00:21:04.520 --> 00:21:08.140
+<v Keith Murphy>a lot? It sort of pushes people to just repeat what's been done, so
+
+497
+00:21:08.160 --> 00:21:11.820
+<v Keith Murphy>they don't have to justify it with a parametric suite, which can be expensive
+
+498
+00:21:11.840 --> 00:21:12.380
+<v Keith Murphy>and timely.
+
+499
+00:21:13.360 --> 00:21:17.740
+<v Charles Caskey>Yeah. I mean, I, I think that's 100-- It's, it's a reasonable question from
+
+500
+00:21:17.800 --> 00:21:21.760
+<v Charles Caskey>a reviewer to justify like why you did something, but it, it, I think
+
+501
+00:21:21.800 --> 00:21:25.260
+<v Charles Caskey>it has exactly that effect that you're talking about, that you end up, you
+
+502
+00:21:25.320 --> 00:21:29.080
+<v Charles Caskey>end up just kind of doing things the way they've been done because you
+
+503
+00:21:29.140 --> 00:21:31.920
+<v Charles Caskey>can s- you know, lean on other papers and stuff-
+
+504
+00:21:31.960 --> 00:21:32.460
+<v Keith Murphy>You
+
+505
+00:21:32.020 --> 00:21:32.520
+<v Charles Caskey>just, you just point back ...
+
+506
+00:21:32.020 --> 00:21:34.040
+<v Charles Caskey>but you don't necessarily. What's up?
+
+507
+00:21:34.920 --> 00:21:35.940
+<v Keith Murphy>You just point right back.
+
+508
+00:21:36.500 --> 00:21:39.180
+<v Charles Caskey>Uh, so no, I think it's like a reasonable thing for reviewers to ask,
+
+509
+00:21:39.260 --> 00:21:41.260
+<v Charles Caskey>but it, it does. It does exactly what you're saying.
+
+510
+00:21:41.340 --> 00:21:45.120
+<v Charles Caskey>Like, it keeps us in this, like, it makes it hard to change what
+
+511
+00:21:45.140 --> 00:21:48.580
+<v Charles Caskey>you're doing. Um, and it's hard to get it funded too if you are
+
+512
+00:21:48.620 --> 00:21:51.780
+<v Charles Caskey>saying like, "Hey, we don't..." I mean, you know- Yeah ...
+
+513
+00:21:51.780 --> 00:21:55.260
+<v Charles Caskey>it's the type of thing that moves a, moves a grant from like one
+
+514
+00:21:55.340 --> 00:21:58.000
+<v Charles Caskey>s- you know, one person's like, "Well, they didn't justify their parameters," and then
+
+515
+00:21:58.040 --> 00:22:01.400
+<v Charles Caskey>everybody in the- Yeah ... you know, study section's like, "Oh, well, we're gonna
+
+516
+00:22:01.440 --> 00:22:02.980
+<v Charles Caskey>give that a four instead of a two."
+
+517
+00:22:03.140 --> 00:22:05.020
+<v Charles Caskey>[laughs] Um, and so then you can...
+
+518
+00:22:05.620 --> 00:22:08.320
+<v Charles Caskey>And, and, and, uh, and you were, you, you-- I think the other, I
+
+519
+00:22:08.360 --> 00:22:12.420
+<v Charles Caskey>mean, y- the nested PRF, there's a reason to avoid it, and that's the
+
+520
+00:22:12.480 --> 00:22:17.640
+<v Charles Caskey>auditory confound. You played the, the tone earlier at 1.5 or one kilohertz.
+
+521
+00:22:18.340 --> 00:22:20.100
+<v Charles Caskey>I mean, they can hear that.
+
+522
+00:22:20.220 --> 00:22:24.180
+<v Charles Caskey>This was a big splash in the field, uh, for, for people when they
+
+523
+00:22:24.220 --> 00:22:27.560
+<v Charles Caskey>realized it, and then, and then the, the thought that you would do something
+
+524
+00:22:27.600 --> 00:22:31.160
+<v Charles Caskey>that would make that louder is, [laughs] is-
+
+525
+00:22:31.200 --> 00:22:31.700
+<v Keith Murphy>Mm-hmm
+
+526
+00:22:31.420 --> 00:22:34.500
+<v Charles Caskey>... seem, seems like something you'd absolutely want to avoid.
+
+527
+00:22:35.480 --> 00:22:40.340
+<v Keith Murphy>Yeah. TDCS, as a, as a parallel, has taken an interesting arc.
+
+528
+00:22:41.000 --> 00:22:45.360
+<v Keith Murphy>So early on, there were transcranial direct current stimulation experiments.
+
+529
+00:22:45.420 --> 00:22:50.840
+<v Keith Murphy>It's electrical stimulation at the, uh, I guess like at the skin level.
+
+530
+00:22:51.760 --> 00:22:55.480
+<v Keith Murphy>And the idea there is that if you put enough electrical current, that it
+
+531
+00:22:55.520 --> 00:22:59.800
+<v Keith Murphy>will get under the skull to the cortical areas and change neural activity.
+
+532
+00:23:00.740 --> 00:23:06.800
+<v Keith Murphy>Later, it was revealed that the feeling of this electrical tingling on your skin
+
+533
+00:23:07.200 --> 00:23:09.440
+<v Keith Murphy>might cause a sort of placebo response.
+
+534
+00:23:10.060 --> 00:23:13.580
+<v Keith Murphy>Definitely, I could see that, and I'm sure it's been probably proven in many
+
+535
+00:23:13.680 --> 00:23:20.080
+<v Keith Murphy>papers. Come full circle, now people are realizing that these cranial
+
+536
+00:23:20.200 --> 00:23:24.200
+<v Keith Murphy>nerves actually may impact brain activity.
+
+537
+00:23:24.320 --> 00:23:27.300
+<v Keith Murphy>They may impact autonomic nervous system.
+
+538
+00:23:28.180 --> 00:23:33.540
+<v Keith Murphy>So it's possible that the auditory confound may act in the same way.
+
+539
+00:23:34.120 --> 00:23:39.220
+<v Keith Murphy>People may hear things that have some expectation that the stimulation's doing something.
+
+540
+00:23:39.320 --> 00:23:44.700
+<v Keith Murphy>They might get excited. Their brain may release more BDNF and all these different,
+
+541
+00:23:45.360 --> 00:23:48.840
+<v Keith Murphy>uh, hormones or factors, and then that may actually prime the brain for a
+
+542
+00:23:48.880 --> 00:23:52.820
+<v Keith Murphy>response. In fact, I've been talking to Elsa quite a bit about that lately,
+
+543
+00:23:52.980 --> 00:23:56.300
+<v Keith Murphy>so it's a little bit hard to disentangle those, those things.
+
+544
+00:23:56.480 --> 00:23:59.360
+<v Keith Murphy>Maybe all these fields are facing some of the same issues.
+
+545
+00:24:00.020 --> 00:24:03.160
+<v Charles Caskey>Yeah. We, we've ended up at this point, we did do a study where
+
+546
+00:24:03.220 --> 00:24:08.080
+<v Charles Caskey>we looked at this, uh, specifically at it, where we were testing the nested
+
+547
+00:24:08.160 --> 00:24:11.340
+<v Charles Caskey>PRF versus just a straight pulse that didn't have the nested PRF.
+
+548
+00:24:12.020 --> 00:24:16.100
+<v Charles Caskey>And, um, uh, I guess I, I, I won't give any spoilers 'cause it
+
+549
+00:24:16.140 --> 00:24:16.940
+<v Charles Caskey>may be people are reviewing-
+
+550
+00:24:16.960 --> 00:24:19.060
+<v Keith Murphy>Oh, wait. You did it. You did the experiment.
+
+551
+00:24:19.500 --> 00:24:20.840
+<v Keith Murphy>Out with it, Charles. [laughs]
+
+552
+00:24:20.880 --> 00:24:22.280
+<v Charles Caskey>Well, I, you know, in one-
+
+553
+00:24:22.300 --> 00:24:23.460
+<v Keith Murphy>Hey, come on. You're gonna publish it
+
+554
+00:24:23.460 --> 00:24:24.080
+<v Charles Caskey>... in one model, right?
+
+555
+00:24:24.240 --> 00:24:25.760
+<v Keith Murphy>Like- You're definitely the only guy who did this.
+
+556
+00:24:25.820 --> 00:24:27.160
+<v Keith Murphy>Come on. What, what, what happened?
+
+557
+00:24:27.160 --> 00:24:27.660
+<v Keith Murphy>[laughs]
+
+558
+00:24:27.640 --> 00:24:28.320
+<v Charles Caskey>No, no, no. I don't think I am.
+
+559
+00:24:28.480 --> 00:24:33.380
+<v Charles Caskey>I think that there's some stuff in cell cultures, uh, that, that shows equivalent
+
+560
+00:24:33.880 --> 00:24:36.320
+<v Charles Caskey>calcium between nested PRF.
+
+561
+00:24:36.460 --> 00:24:36.960
+<v Keith Murphy>Ooh.
+
+562
+00:24:36.480 --> 00:24:38.020
+<v Charles Caskey>And that's actually what gave me the confidence to be like-
+
+563
+00:24:38.020 --> 00:24:41.500
+<v Keith Murphy>So it just doesn't matter. So it just doesn't help or hurt is what
+
+564
+00:24:41.520 --> 00:24:42.020
+<v Keith Murphy>you're saying.
+
+565
+00:24:42.500 --> 00:24:46.700
+<v Charles Caskey>Well, no, no. What, no, what we found, um, it-- Well, yeah, I guess
+
+566
+00:24:46.740 --> 00:24:49.920
+<v Charles Caskey>it's not a spoiler. People can look at the, the, you know, the work
+
+567
+00:24:49.940 --> 00:24:51.620
+<v Charles Caskey>when it's out there and, and decide for themselves.
+
+568
+00:24:51.660 --> 00:24:56.020
+<v Charles Caskey>Yeah, we saw activation in the auditory cort- uh, uh, regions of the brain
+
+569
+00:24:56.540 --> 00:25:00.740
+<v Charles Caskey>that were stronger, um, when we used the PRF, as you would expect.
+
+570
+00:25:01.140 --> 00:25:01.940
+<v Charles Caskey>Uh, so [laughs]
+
+571
+00:25:01.960 --> 00:25:02.660
+<v Keith Murphy>That's, indeed.
+
+572
+00:25:02.720 --> 00:25:07.040
+<v Charles Caskey>We, we also saw the activation in the expected regions and, but-
+
+573
+00:25:07.060 --> 00:25:07.840
+<v Keith Murphy>Nice. Okay.
+
+574
+00:25:07.860 --> 00:25:08.360
+<v Charles Caskey>Yeah.
+
+575
+00:25:08.140 --> 00:25:11.480
+<v Keith Murphy>So it didn't kill us. It just, it just threw a little curveball in
+
+576
+00:25:11.520 --> 00:25:12.020
+<v Keith Murphy>there.
+
+577
+00:25:12.940 --> 00:25:15.940
+<v Charles Caskey>Y- Yeah. Yeah. I think it's, I think it's an additive effect in the
+
+578
+00:25:16.000 --> 00:25:18.740
+<v Charles Caskey>same way that any auditory effect, uh, ends up being.
+
+579
+00:25:18.820 --> 00:25:21.400
+<v Charles Caskey>But it, it's, you know, so yeah, it certainly didn't kill us, but it
+
+580
+00:25:21.400 --> 00:25:21.900
+<v Charles Caskey>didn't-
+
+581
+00:25:21.400 --> 00:25:25.300
+<v Keith Murphy>Charles, what a hero. I hope you-- Maybe so your paper's the one where
+
+582
+00:25:25.340 --> 00:25:29.040
+<v Keith Murphy>people can stop using it and be like, "Well, Charles did the hard work.
+
+583
+00:25:29.500 --> 00:25:32.100
+<v Keith Murphy>Calcium would be the same." [laughs]
+
+584
+00:25:32.580 --> 00:25:33.280
+<v Charles Caskey>Maybe. Yeah, maybe.
+
+585
+00:25:33.280 --> 00:25:34.300
+<v Keith Murphy>And effect is still there.
+
+586
+00:25:34.760 --> 00:25:35.880
+<v Charles Caskey>I, I'd love to think that.
+
+587
+00:25:35.900 --> 00:25:36.480
+<v Keith Murphy>No need for the double PRF.
+
+588
+00:25:36.540 --> 00:25:39.340
+<v Charles Caskey>Yeah, but I feel like they're gonna be like, "Well, it's bold fMRI, so
+
+589
+00:25:39.400 --> 00:25:42.360
+<v Charles Caskey>what does that really mean?" [both laughing]
+
+590
+00:25:42.380 --> 00:25:46.960
+<v Keith Murphy>It's possible. So what-- So, uh, if, if people do get behind you, what
+
+591
+00:25:47.000 --> 00:25:49.560
+<v Keith Murphy>is everyone gonna do with all these extra function generators?
+
+592
+00:25:49.800 --> 00:25:51.020
+<v Keith Murphy>eBay is gonna have a surge.
+
+593
+00:25:51.020 --> 00:25:52.020
+<v Keith Murphy>[laughs] New, new players can come in with, you know-
+
+594
+00:25:52.740 --> 00:25:54.820
+<v Charles Caskey>There's, there's always a use for another function generator
+
+595
+00:25:54.820 --> 00:25:57.400
+<v Keith Murphy>... at a reasonable cost. [both laughing] That's right.
+
+596
+00:25:59.220 --> 00:26:03.100
+<v Charles Caskey>I mean, e- ever since Siglent started selling them for, like, a couple hundred
+
+597
+00:26:03.200 --> 00:26:04.700
+<v Charles Caskey>bucks, it was kinda like, uh- [laughs] ...
+
+598
+00:26:04.940 --> 00:26:06.260
+<v Charles Caskey>the, you know, it didn't-- Yeah.
+
+599
+00:26:06.360 --> 00:26:08.220
+<v Charles Caskey>They, you, I just, you can't have enough of them.
+
+600
+00:26:08.240 --> 00:26:09.080
+<v Charles Caskey>[laughs]
+
+601
+00:26:09.160 --> 00:26:11.880
+<v Keith Murphy>Yeah. Yeah. They used to be, like, thousands of dollars.
+
+602
+00:26:11.980 --> 00:26:15.260
+<v Keith Murphy>I f- So Siglent's one? I, uh, maybe that's the company I'm thinking of,
+
+603
+00:26:15.320 --> 00:26:17.740
+<v Keith Murphy>the green box, and they're cheap now.
+
+604
+00:26:17.960 --> 00:26:18.460
+<v Keith Murphy>Oh.
+
+605
+00:26:18.220 --> 00:26:19.400
+<v Charles Caskey>Yeah. They used to be thousands.
+
+606
+00:26:19.420 --> 00:26:21.340
+<v Keith Murphy>That's great. So you don't have to buy from Agilent if you don't want.
+
+607
+00:26:21.340 --> 00:26:21.980
+<v Keith Murphy>[laughs]
+
+608
+00:26:22.040 --> 00:26:25.440
+<v Charles Caskey>Yeah. Yeah, yeah, yeah. Exactly. Agilent's, Agilent makes a good scope.
+
+609
+00:26:25.540 --> 00:26:27.960
+<v Charles Caskey>Uh, it's been copied very-- Or a good, uh, function generator.
+
+610
+00:26:27.980 --> 00:26:29.700
+<v Charles Caskey>It's been copied very well, so.
+
+611
+00:26:29.700 --> 00:26:30.200
+<v Charles Caskey>[laughs]
+
+612
+00:26:30.000 --> 00:26:34.120
+<v Keith Murphy>Yeah. There's something about turning that dial and hearing that clicking noise that, that
+
+613
+00:26:34.160 --> 00:26:36.160
+<v Keith Murphy>you can never really replicate, though.
+
+614
+00:26:36.700 --> 00:26:37.200
+<v Charles Caskey>It, it's true.
+
+615
+00:26:36.880 --> 00:26:38.040
+<v Keith Murphy>You gotta try it once in your life.
+
+616
+00:26:38.040 --> 00:26:41.120
+<v Keith Murphy>[imitates function generator] You turn the dial, you change your PRF.
+
+617
+00:26:41.780 --> 00:26:42.280
+<v Charles Caskey>Satisfying.
+
+618
+00:26:42.220 --> 00:26:43.760
+<v Keith Murphy>Yeah, just like that. Ooh, do that again, Charles.
+
+619
+00:26:43.800 --> 00:26:44.300
+<v Keith Murphy>That was nice.
+
+620
+00:26:44.860 --> 00:26:46.000
+<v Charles Caskey>Click, click, click. [laughs]
+
+621
+00:26:46.060 --> 00:26:50.920
+<v Keith Murphy>Ooh, yes. [laughs] Yes. Okay. So if you don't buy Charles' used Agilent function
+
+622
+00:26:50.980 --> 00:26:53.000
+<v Keith Murphy>generators, you'll never have that satisfaction.
+
+623
+00:26:53.400 --> 00:26:55.200
+<v Charles Caskey>Yeah. Yeah. It's a classic, classic function generator.
+
+624
+00:26:55.240 --> 00:26:56.540
+<v Keith Murphy>All right. So, uh- Okay, yeah.
+
+625
+00:26:56.540 --> 00:26:59.280
+<v Keith Murphy>So- I don't know if we're recommending anything, but you don't have to use
+
+626
+00:26:59.340 --> 00:27:02.320
+<v Keith Murphy>it. Charles is gonna put that paper out super soon.
+
+627
+00:27:02.760 --> 00:27:03.260
+<v Keith Murphy>How soon?
+
+628
+00:27:03.020 --> 00:27:05.200
+<v Charles Caskey>Yeah. Yeah. I think it's, I think it's written up.
+
+629
+00:27:05.220 --> 00:27:05.720
+<v Keith Murphy>How soon will you save us?
+
+630
+00:27:05.720 --> 00:27:06.980
+<v Keith Murphy>[laughs]
+
+631
+00:27:07.020 --> 00:27:11.000
+<v Charles Caskey>Yeah. So hopefully, um, you know, pe- you know, people tr- people did try
+
+632
+00:27:11.080 --> 00:27:13.940
+<v Charles Caskey>both in the, in different preparations, but they didn't really do it in a
+
+633
+00:27:13.960 --> 00:27:18.540
+<v Charles Caskey>hypothesis, uh, oriented way, and, um, I was hesitant to move away from it
+
+634
+00:27:18.680 --> 00:27:21.460
+<v Charles Caskey>then. And I also wanna see the force, uh, calculations.
+
+635
+00:27:21.540 --> 00:27:25.020
+<v Charles Caskey>I wanna see somebody do a simulation where they've chopped up the pulse, they
+
+636
+00:27:25.040 --> 00:27:28.580
+<v Charles Caskey>have a nested PRF, and show me what the radiation force is doing and
+
+637
+00:27:28.700 --> 00:27:29.200
+<v Charles Caskey>d-
+
+638
+00:27:28.780 --> 00:27:29.480
+<v Keith Murphy>Yeah. Do that
+
+639
+00:27:29.480 --> 00:27:29.980
+<v Charles Caskey>... in those.
+
+640
+00:27:29.980 --> 00:27:31.160
+<v Keith Murphy>Oh, I would love to see that.
+
+641
+00:27:31.260 --> 00:27:33.540
+<v Keith Murphy>That's a nice master's project, I think.
+
+642
+00:27:33.880 --> 00:27:34.460
+<v Charles Caskey>It would be so cool.
+
+643
+00:27:34.480 --> 00:27:35.020
+<v Keith Murphy>If you're out there looking for one.
+
+644
+00:27:35.520 --> 00:27:36.020
+<v Charles Caskey>Yeah.
+
+645
+00:27:35.700 --> 00:27:36.520
+<v Keith Murphy>I would love to see that.
+
+646
+00:27:36.680 --> 00:27:37.180
+<v Charles Caskey>I mean-
+
+647
+00:27:36.720 --> 00:27:37.780
+<v Keith Murphy>I would cite the hell out of it.
+
+648
+00:27:38.400 --> 00:27:40.060
+<v Charles Caskey>Right. Yeah. It's, like, very citable.
+
+649
+00:27:40.340 --> 00:27:44.300
+<v Charles Caskey>It's, would help, you know, answer an, an unknown question.
+
+650
+00:27:44.840 --> 00:27:48.820
+<v Charles Caskey>And so it, so it's, it, it's been, uh, you know, I think it's
+
+651
+00:27:48.880 --> 00:27:52.160
+<v Charles Caskey>not, like, completely dead. I think there's still work to do, but it's probably,
+
+652
+00:27:52.220 --> 00:27:54.660
+<v Charles Caskey>like, hard to fund that work, and it's- [laughs]
+
+653
+00:27:54.660 --> 00:27:55.160
+<v Keith Murphy>Yeah.
+
+654
+00:27:54.740 --> 00:27:55.740
+<v Charles Caskey>And, and if it works without it-
+
+655
+00:27:55.760 --> 00:27:57.140
+<v Keith Murphy>No one's gonna fund that. [laughs]
+
+656
+00:27:57.180 --> 00:27:58.640
+<v Charles Caskey>Yeah. Ooh, right. Like, I get, yeah.
+
+657
+00:27:58.700 --> 00:27:59.880
+<v Charles Caskey>We're, nobody's gonna be like, "Oh, we should-"
+
+658
+00:27:59.900 --> 00:28:01.960
+<v Keith Murphy>That's why you're a hero for having done this work.
+
+659
+00:28:02.080 --> 00:28:04.040
+<v Keith Murphy>That's why I can't, you know, I, uh, for one...
+
+660
+00:28:04.800 --> 00:28:05.760
+<v Keith Murphy>No, I can believe that you did it.
+
+661
+00:28:05.840 --> 00:28:08.200
+<v Keith Murphy>I'm glad you did it. I think you're gonna get tons of citations.
+
+662
+00:28:08.220 --> 00:28:10.300
+<v Charles Caskey>Uh, you know, there was literally nothing heroic about it.
+
+663
+00:28:10.340 --> 00:28:13.620
+<v Charles Caskey>It's that I wanted to move away from it, but, like, as a group,
+
+664
+00:28:13.700 --> 00:28:16.500
+<v Charles Caskey>we were all like, "Well, we've done all this work this other way, and
+
+665
+00:28:16.540 --> 00:28:20.900
+<v Charles Caskey>it worked." So, like, [both laughing] what, what, what-- Like, it was kinda like even
+
+666
+00:28:20.920 --> 00:28:23.580
+<v Charles Caskey>though I'm the PI of the lab, everybody was like, "Why would we change
+
+667
+00:28:23.640 --> 00:28:24.980
+<v Charles Caskey>this?" Um, [laughs] so.
+
+668
+00:28:25.060 --> 00:28:30.440
+<v Keith Murphy>Oh, yeah. It's, uh, God. For our system, I just told people who partner
+
+669
+00:28:30.480 --> 00:28:33.760
+<v Keith Murphy>with us and collaborate, I'm like, "You just don't have the option."
+
+670
+00:28:33.860 --> 00:28:34.420
+<v Keith Murphy>[laughs]
+
+671
+00:28:34.480 --> 00:28:34.980
+<v Charles Caskey>Yeah. Yeah.
+
+672
+00:28:34.520 --> 00:28:36.600
+<v Keith Murphy>Like, I'm not gonna, we're not gonna do it for you.
+
+673
+00:28:36.840 --> 00:28:39.680
+<v Keith Murphy>We're like, "You're n- and you're not gonna convince us that you need it."
+
+674
+00:28:39.700 --> 00:28:40.480
+<v Keith Murphy>[laughs]
+
+675
+00:28:40.540 --> 00:28:44.040
+<v Charles Caskey>Yeah. And you know, now at this point, there are human studies that show
+
+676
+00:28:44.080 --> 00:28:49.640
+<v Charles Caskey>neuromodulation of essential tremor, of depression, and other things that don't use it.
+
+677
+00:28:49.780 --> 00:28:53.820
+<v Charles Caskey>And so there-- I mean, once you start getting human data that shows that
+
+678
+00:28:53.880 --> 00:28:57.260
+<v Charles Caskey>it still works without it, it's kinda like then you start to think like,
+
+679
+00:28:57.280 --> 00:28:58.280
+<v Charles Caskey>"Well, why would we have it?"
+
+680
+00:28:58.420 --> 00:29:00.940
+<v Charles Caskey>Un- unless it's like- [laughs] [laughs] It's like-
+
+681
+00:29:00.960 --> 00:29:04.760
+<v Keith Murphy>When you put it like that, I think we can call this myth FUS
+
+682
+00:29:04.960 --> 00:29:05.500
+<v Keith Murphy>busted.
+
+683
+00:29:05.600 --> 00:29:18.020
+<v Charles Caskey>FUS busted. [both laughing] [upbeat music]

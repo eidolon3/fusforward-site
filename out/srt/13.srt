@@ -1,0 +1,6103 @@
+1
+00:00:00,300 --> 00:00:03,220
+Charles Caskey: So are we gonna do like a formal introduction to the episode, and we're
+
+2
+00:00:03,260 --> 00:00:05,320
+gonna be like, "Hey, welcome to FUS Forward.
+
+3
+00:00:05,840 --> 00:00:08,300
+It's with Keith and Charles. We're gonna talk about..."
+
+4
+00:00:08,400 --> 00:00:09,540
+[laughs] [laughs]
+
+5
+00:00:09,540 --> 00:00:13,080
+Keith Murphy: I like that a lot. [laughs] [laughs]
+
+6
+00:00:13,280 --> 00:00:15,920
+Intro narrator: Follow Charles Caskey and Keith Murphy-
+
+7
+00:00:15,960 --> 00:00:16,460
+Keith Murphy: I think that's great
+
+8
+00:00:16,560 --> 00:00:22,500
+Intro narrator: ... as they explore the next frontier of ultrasound neuromodulation with FUS Forward.
+
+9
+00:00:22,920 --> 00:00:25,160
+Charles Caskey: I, I definitely was a BlackBerry user-
+
+10
+00:00:25,320 --> 00:00:25,820
+Amy Kruse: Oh, yeah
+
+11
+00:00:25,380 --> 00:00:27,260
+Charles Caskey: ... for a long time and, uh, yeah, yeah.
+
+12
+00:00:27,300 --> 00:00:29,460
+They're, they're pretty, pretty darn good, the, um-
+
+13
+00:00:29,560 --> 00:00:31,240
+Amy Kruse: Yeah. I was so fast on that keyboard.
+
+14
+00:00:31,520 --> 00:00:35,600
+Like, you could not. [laughs]
+
+15
+00:00:35,660 --> 00:00:38,780
+Charles Caskey: So Amy, I don't know if you know or recall 'cause you probably do
+
+16
+00:00:38,840 --> 00:00:40,880
+a ton of these things, but we've been on a call before.
+
+17
+00:00:41,260 --> 00:00:41,760
+Um-
+
+18
+00:00:41,380 --> 00:00:41,880
+Amy Kruse: Really?
+
+19
+00:00:42,380 --> 00:00:46,460
+Charles Caskey: Yes. You were on the EOC for, um, a Blueprint MedTech project for-
+
+20
+00:00:46,520 --> 00:00:47,320
+Amy Kruse: Oh, yeah, of course
+
+21
+00:00:47,360 --> 00:00:47,860
+Charles Caskey: ... that I'm on.
+
+22
+00:00:47,400 --> 00:00:49,420
+Amy Kruse: Yeah. Yeah. They haven't fired us, actually.
+
+23
+00:00:49,560 --> 00:00:53,080
+Charles Caskey: We are also, knock on wood, still going strong with the program- Yeah.
+
+24
+00:00:53,080 --> 00:00:57,320
+Yeah ... uh, but also s- are experiencing all the, these fluctuations and delays
+
+25
+00:00:57,480 --> 00:00:57,980
+and-
+
+26
+00:00:57,680 --> 00:00:58,180
+Amy Kruse: Yeah
+
+27
+00:00:57,940 --> 00:00:58,800
+Charles Caskey: ... uh, and stuff so.
+
+28
+00:00:58,840 --> 00:01:01,340
+Keith Murphy: Did, did it work, Amy? Did you fund Charles or did you give him
+
+29
+00:01:01,340 --> 00:01:01,840
+the X?
+
+30
+00:01:01,360 --> 00:01:02,980
+Amy Kruse: Oh, we don't-- I don't do any funding.
+
+31
+00:01:03,280 --> 00:01:09,160
+I just only comment on the processes of the Blueprint MedTech program.
+
+32
+00:01:09,940 --> 00:01:10,440
+Charles Caskey: Uh-huh.
+
+33
+00:01:10,000 --> 00:01:14,320
+Amy Kruse: So we're sort of an ex- we're an EOC, an external advisory committee so.
+
+34
+00:01:14,540 --> 00:01:15,040
+Charles Caskey: Yep.
+
+35
+00:01:15,300 --> 00:01:15,800
+Amy Kruse: Um.
+
+36
+00:01:15,640 --> 00:01:17,340
+Keith Murphy: Amy's like, "That Charles, he's, he's smooth."
+
+37
+00:01:17,360 --> 00:01:19,940
+Amy Kruse: We pretty much tell them they're going too slow all the time.
+
+38
+00:01:20,020 --> 00:01:21,420
+That's what we do. [laughs]
+
+39
+00:01:21,420 --> 00:01:21,920
+Keith Murphy: Oh. [laughs]
+
+40
+00:01:21,680 --> 00:01:22,460
+Charles Caskey: Yeah, yeah. Exactly.
+
+41
+00:01:23,040 --> 00:01:24,380
+Amy Kruse: That is pretty much what we do.
+
+42
+00:01:24,540 --> 00:01:26,300
+Yeah. [laughs] [laughs]
+
+43
+00:01:26,380 --> 00:01:30,360
+Charles Caskey: She, she kindly, uh, was on standby while I was lambasting about how, uh,
+
+44
+00:01:30,560 --> 00:01:32,640
+how he-- I think we had a, an MD on the call.
+
+45
+00:01:32,680 --> 00:01:35,860
+He's like, "Yeah, you know, somebody might use that device if they were on
+
+46
+00:01:35,960 --> 00:01:38,240
+death's door and couldn't refuse it."
+
+47
+00:01:38,380 --> 00:01:39,720
+I was like, I was like, "Oh my gosh.
+
+48
+00:01:39,920 --> 00:01:40,820
+What?" [laughs]
+
+49
+00:01:40,880 --> 00:01:41,720
+Keith Murphy: Couldn't refuse it.
+
+50
+00:01:43,500 --> 00:01:44,000
+Amy Kruse: Yeah.
+
+51
+00:01:43,660 --> 00:01:45,760
+Charles Caskey: Um, and um, so we've been working on that.
+
+52
+00:01:45,760 --> 00:01:46,260
+[laughs]
+
+53
+00:01:46,240 --> 00:01:47,920
+Amy Kruse: Okay. [laughs]
+
+54
+00:01:47,980 --> 00:01:51,220
+Keith Murphy: All right. That's good, good stuff, Charles.
+
+55
+00:01:51,280 --> 00:01:51,780
+[laughs]
+
+56
+00:01:51,820 --> 00:01:52,320
+Amy Kruse: Good stuff,
+
+57
+00:01:51,840 --> 00:01:54,400
+Keith Murphy: Charles. Amy, bless your heart for keeping Charles moving.
+
+58
+00:01:54,820 --> 00:02:00,920
+Everybody who's joining, we have a legend in our midst, an ultrasound investor, Amy
+
+59
+00:02:01,040 --> 00:02:07,320
+Kruse. Amy earned a PhD in neuroscience from the University of Illinois Urbana-Champaign, Champaña?
+
+60
+00:02:07,480 --> 00:02:09,440
+Amy Kruse: Urbana, Urbana-Champaign.
+
+61
+00:02:09,480 --> 00:02:10,140
+Keith Murphy: Urbana.
+
+62
+00:02:10,480 --> 00:02:11,200
+Amy Kruse: Urbana. [laughs]
+
+63
+00:02:11,240 --> 00:02:15,820
+Keith Murphy: She focused on memory and learning systems, and then she moved over to DARPA,
+
+64
+00:02:16,440 --> 00:02:21,860
+where she created and oversaw the agency's first performance-oriented neuroscience programs.
+
+65
+00:02:22,040 --> 00:02:27,680
+Then she moves over to be the CTO of Cubic Global Defenses and CSO
+
+66
+00:02:27,860 --> 00:02:30,080
+of Optios. I don't know if those were at the same time.
+
+67
+00:02:30,160 --> 00:02:30,660
+Amy Kruse: No, they were-
+
+68
+00:02:30,820 --> 00:02:31,320
+Keith Murphy: Were you-
+
+69
+00:02:30,920 --> 00:02:32,220
+Amy Kruse: ... quite separate. Quite separate.
+
+70
+00:02:32,420 --> 00:02:33,040
+Keith Murphy: Quite separate.
+
+71
+00:02:33,220 --> 00:02:33,720
+Amy Kruse: Quite separate.
+
+72
+00:02:33,760 --> 00:02:38,000
+Keith Murphy: And then she'll tell us about the journey, but then she decided that she
+
+73
+00:02:38,020 --> 00:02:40,900
+would become the world's greatest neurotech investor.
+
+74
+00:02:41,080 --> 00:02:45,200
+[laughs] Started as a, a general partner at Prime Movers Lab, leading the life
+
+75
+00:02:45,280 --> 00:02:49,620
+sciences investment and human augmentation and longevity department.
+
+76
+00:02:50,220 --> 00:02:56,680
+And then more recently, she moved over to start Satori Investment's first neuro-focused program,
+
+77
+00:02:56,780 --> 00:03:01,280
+so it's called Satori Neuro. She serves as the general partner and chief investment
+
+78
+00:03:01,380 --> 00:03:03,680
+officer. I think you built that from scratch if I-
+
+79
+00:03:03,720 --> 00:03:04,220
+Amy Kruse: Yes
+
+80
+00:03:03,940 --> 00:03:04,700
+Keith Murphy: ... if I can remember.
+
+81
+00:03:04,960 --> 00:03:05,460
+Amy Kruse: Yep. Yep.
+
+82
+00:03:05,740 --> 00:03:06,240
+Charles Caskey: Cool.
+
+83
+00:03:06,200 --> 00:03:08,460
+Keith Murphy: So lots-- I mean, you've seen it all.
+
+84
+00:03:08,740 --> 00:03:09,240
+I think-
+
+85
+00:03:09,120 --> 00:03:09,620
+Amy Kruse: It's true
+
+86
+00:03:09,540 --> 00:03:11,840
+Keith Murphy: ... everyone can resonate with some part of your life.
+
+87
+00:03:11,860 --> 00:03:13,440
+[laughs] We got lots of questions.
+
+88
+00:03:13,960 --> 00:03:16,940
+Charles, you're, you're welcome to kick us off unless you want me to.
+
+89
+00:03:17,900 --> 00:03:23,360
+Charles Caskey: Um, yeah, absolutely. As somebody that's in the university, uh, research, academic medical center
+
+90
+00:03:23,420 --> 00:03:28,240
+research side, um, there's a kind of a divide over to the, the tech
+
+91
+00:03:28,360 --> 00:03:32,660
+space, and I see Satori and I, I see words and th- and statements
+
+92
+00:03:32,720 --> 00:03:39,260
+like conscious capitalism and values-driven investment, and these things seem
+
+93
+00:03:39,520 --> 00:03:42,220
+like exactly the right way to do it.
+
+94
+00:03:42,360 --> 00:03:46,100
+Or these are, these are phrases that, that, that, that excite me because-
+
+95
+00:03:46,140 --> 00:03:46,640
+Amy Kruse: Sure
+
+96
+00:03:46,200 --> 00:03:48,820
+Charles Caskey: ... things in the investment world sometimes scare me because-
+
+97
+00:03:48,860 --> 00:03:49,360
+Amy Kruse: Sure
+
+98
+00:03:48,960 --> 00:03:49,540
+Charles Caskey: ... they're sort of like-
+
+99
+00:03:49,580 --> 00:03:51,220
+Amy Kruse: Me too, actually. [laughs]
+
+100
+00:03:51,240 --> 00:03:53,200
+Charles Caskey: Yeah. Well, it, it seems, it, it's great.
+
+101
+00:03:53,300 --> 00:03:56,360
+Yeah. It seems clear by how you've, how you've done things at Satori.
+
+102
+00:03:56,580 --> 00:03:59,180
+Uh, and so I guess, I mean, I guess I would just start out
+
+103
+00:03:59,240 --> 00:04:04,180
+with asking like, you know, how do you go about finding investments that are
+
+104
+00:04:04,220 --> 00:04:08,160
+aligned with your values? Not just like, is this a fundable thing that's like,
+
+105
+00:04:08,440 --> 00:04:11,460
+you know, people will put money in and yay, we've got money and do
+
+106
+00:04:11,520 --> 00:04:12,020
+that.
+
+107
+00:04:12,200 --> 00:04:12,800
+Amy Kruse: Yeah. Yeah, yeah.
+
+108
+00:04:13,040 --> 00:04:13,540
+Charles Caskey: Yay.
+
+109
+00:04:13,800 --> 00:04:17,200
+Amy Kruse: Well, it's about... I mean, I, I think, you know, I often tell people
+
+110
+00:04:17,220 --> 00:04:22,780
+the reason I'm a venture investor is because I believe that, you know, directing
+
+111
+00:04:22,920 --> 00:04:27,380
+capital towards companies in this space is the right thing to do to move
+
+112
+00:04:27,420 --> 00:04:33,140
+the entire field forward, right? You know, I've been in neurotech now for over
+
+113
+00:04:33,180 --> 00:04:39,080
+two decades and have been eagerly awaiting the birth and success of a larger
+
+114
+00:04:39,220 --> 00:04:44,740
+neurotechnology industry. And so I feel very aligned with the way that I invest
+
+115
+00:04:44,780 --> 00:04:50,600
+because I, I have both a, um, thinking about individual investments in individual companies,
+
+116
+00:04:50,760 --> 00:04:55,300
+right, and, and, and working with founders and, and bringing technology forward, but also
+
+117
+00:04:55,340 --> 00:04:59,780
+think about how it fits together in the larger neurotechnology ecosystem, what we're trying
+
+118
+00:04:59,800 --> 00:05:06,340
+to accomplish. Conscious capitalism is really about the use of capital for
+
+119
+00:05:06,460 --> 00:05:11,500
+outcomes that benefit many. Within Satori Neuro, the focus is mental health, brain health,
+
+120
+00:05:11,940 --> 00:05:17,500
+neurotechnology, thinking broadly about how we bring solutions to bear in those spaces.
+
+121
+00:05:17,900 --> 00:05:21,900
+You know, convincing investors that these are good investments, right?
+
+122
+00:05:21,940 --> 00:05:25,700
+This is a growing field and, and something worth, uh, worth investing in.
+
+123
+00:05:25,880 --> 00:05:29,520
+And at the same time, knowing that the companies and the CEOs and the
+
+124
+00:05:29,560 --> 00:05:35,000
+founders are bringing solutions to market that benefit mental health conditions, you know, serious,
+
+125
+00:05:35,580 --> 00:05:39,740
+uh, brain issues, you know, other, other things like that, as well as wellness
+
+126
+00:05:39,960 --> 00:05:45,860
+and, uh, science-backed approaches for stress and sleep and, and things like that.
+
+127
+00:05:45,960 --> 00:05:46,460
+So-
+
+128
+00:05:46,360 --> 00:05:46,860
+Charles Caskey: Yep
+
+129
+00:05:46,580 --> 00:05:50,560
+Amy Kruse: ... um, I definitely wake up every morning very aligned with, you know, how
+
+130
+00:05:50,620 --> 00:05:54,020
+I'm, uh, using my time and applying capital to, to make this happen.
+
+131
+00:05:55,080 --> 00:05:58,540
+Charles Caskey: Awesome. Yeah, that's ex- uh, that-- thank you for that description of kind of
+
+132
+00:05:58,600 --> 00:06:00,600
+what conscious investing means to you.
+
+133
+00:06:01,040 --> 00:06:05,750
+And so it seems like it's sort of Trying to scale neurotech, uh, with-
+
+134
+00:06:05,870 --> 00:06:10,230
+without compromising values. So, so it's, uh, putting in, you know, in your time
+
+135
+00:06:10,970 --> 00:06:13,810
+and making sure that that's, that's what it's aligned with is-
+
+136
+00:06:13,890 --> 00:06:14,390
+Amy Kruse: Yeah
+
+137
+00:06:13,950 --> 00:06:17,070
+Charles Caskey: ... is, are those values. And, um, that's-- I think that's really cool.
+
+138
+00:06:17,110 --> 00:06:20,530
+And it, it's cool to s- hear you say that about not only the
+
+139
+00:06:20,570 --> 00:06:23,090
+medical space, but also the wellness space as- Yep ...
+
+140
+00:06:23,110 --> 00:06:27,830
+particularly in BCI, I feel like a brain computer interface and well, it, that
+
+141
+00:06:27,870 --> 00:06:29,750
+there's just, there's kind of a lot of overlap.
+
+142
+00:06:29,790 --> 00:06:34,110
+We talked about the FDA approval recently of, was, is it Swoop?
+
+143
+00:06:34,190 --> 00:06:35,530
+Was that one that came from the-
+
+144
+00:06:35,550 --> 00:06:36,050
+Keith Murphy: Flow.
+
+145
+00:06:36,170 --> 00:06:36,670
+Amy Kruse: Flow.
+
+146
+00:06:36,470 --> 00:06:36,970
+Charles Caskey: Was it Flow?
+
+147
+00:06:36,830 --> 00:06:37,550
+Amy Kruse: Flow Neuroscience, yep.
+
+148
+00:06:37,590 --> 00:06:40,090
+Charles Caskey: Flow, Flow. That's right. I think Noah Philip had visited us and he's like,
+
+149
+00:06:40,290 --> 00:06:43,070
+he's like, "Yeah, it kind of can start to look like a clinical trial,
+
+150
+00:06:43,670 --> 00:06:47,290
+uh, that without any of the guardrails if, if sort of a device is
+
+151
+00:06:47,330 --> 00:06:51,390
+deployed to, to people." But, um, it, it's-- there's got to be a way
+
+152
+00:06:51,430 --> 00:06:54,450
+to do it, uh, that with a-- aligned with like really good values.
+
+153
+00:06:54,470 --> 00:06:54,970
+And I think-
+
+154
+00:06:54,790 --> 00:06:55,290
+Amy Kruse: Right
+
+155
+00:06:54,930 --> 00:06:55,670
+Charles Caskey: ... that's cool that that's what you're-
+
+156
+00:06:55,690 --> 00:06:59,950
+Amy Kruse: Well, and I, I think there's an inherent, you know, both opportunity and challenge
+
+157
+00:06:59,990 --> 00:07:04,910
+in the neurotechnology space, right? Because, you know, oftentimes as an investor and, and
+
+158
+00:07:04,970 --> 00:07:09,610
+talking to other folks, you know, there-- you can get very indication focused within
+
+159
+00:07:10,090 --> 00:07:13,690
+an investment lens and say like, "Oh, your device does X," and that's the
+
+160
+00:07:13,750 --> 00:07:19,010
+only thing it does. And neurotechnology, right, is like a platform, [chuckles] right?
+
+161
+00:07:19,110 --> 00:07:19,610
+Charles Caskey: Mm-hmm.
+
+162
+00:07:19,150 --> 00:07:21,830
+Amy Kruse: If I can, if I can tickle this part of your brain, I can
+
+163
+00:07:21,870 --> 00:07:23,190
+tickle that part of your brain, you know.
+
+164
+00:07:23,230 --> 00:07:29,570
+And, and so, you know, communicating to folks the opportunity space around both addressing
+
+165
+00:07:29,650 --> 00:07:35,810
+clinical outcomes as well as thinking about wellness and optimization and,
+
+166
+00:07:36,210 --> 00:07:40,070
+you know, potentially, you know, in the long term, potentially even enhancement, right?
+
+167
+00:07:40,130 --> 00:07:44,070
+Like where I came from at DARPA, you know, I started out in human
+
+168
+00:07:44,150 --> 00:07:45,970
+performance optimization, right?
+
+169
+00:07:46,050 --> 00:07:46,550
+Charles Caskey: Mm-hmm.
+
+170
+00:07:46,090 --> 00:07:50,830
+Amy Kruse: Thinking about sleep and memory and complex decision-making, and I feel like we're, we've,
+
+171
+00:07:51,130 --> 00:07:56,210
+we're now starting to have the tools to really address some of those, um,
+
+172
+00:07:56,470 --> 00:07:58,110
+you know, some of those questions, right?
+
+173
+00:07:58,170 --> 00:07:58,670
+Charles Caskey: Yeah.
+
+174
+00:07:58,190 --> 00:08:01,250
+Amy Kruse: That, that, you know, 20 years ago we, [chuckles] we were like, "How are
+
+175
+00:08:01,270 --> 00:08:02,290
+we gonna do this?" You know?
+
+176
+00:08:02,330 --> 00:08:07,150
+And I mean, the fact that, you know, we have a, an FDA-approved, you
+
+177
+00:08:07,210 --> 00:08:13,750
+know, transcranial direct current stimulation system, a neuromodulation system that's take-home, right?
+
+178
+00:08:13,810 --> 00:08:14,310
+Charles Caskey: Mm-hmm.
+
+179
+00:08:13,870 --> 00:08:16,730
+Amy Kruse: That can be prescribed, I think is really exciting because I think-
+
+180
+00:08:17,310 --> 00:08:17,810
+Charles Caskey: Yeah.
+
+181
+00:08:17,350 --> 00:08:22,050
+Amy Kruse: I think the future of, you know, neurotechnology and maybe mental health care and
+
+182
+00:08:22,090 --> 00:08:26,330
+other things is getting closer and closer to the human where they are versus
+
+183
+00:08:26,370 --> 00:08:31,610
+having them come to some fancy schmancy specialized, you know, clinic somewhere in some
+
+184
+00:08:32,230 --> 00:08:33,750
+fancy university or something like that.
+
+185
+00:08:33,790 --> 00:08:38,370
+You know what I mean? Like I'm, I'm very motivated by-- I'm motivated by
+
+186
+00:08:38,610 --> 00:08:41,890
+getting solutions closer to the humans that need them.
+
+187
+00:08:42,450 --> 00:08:46,910
+Charles Caskey: Yeah. And, and we can be so in, uh, y- the democratization and the
+
+188
+00:08:47,010 --> 00:08:51,610
+access ca- um, of these technologies, I think in the academic side we can
+
+189
+00:08:51,790 --> 00:08:55,590
+be siloed off and kind of for- it's easy sometimes to forget that not
+
+190
+00:08:55,630 --> 00:08:58,430
+everybody has a academic medical center down the street.
+
+191
+00:08:58,590 --> 00:08:59,090
+Amy Kruse: Right.
+
+192
+00:08:58,950 --> 00:08:59,450
+Charles Caskey: And-
+
+193
+00:08:59,250 --> 00:08:59,750
+Amy Kruse: Yeah.
+
+194
+00:08:59,390 --> 00:09:01,810
+Charles Caskey: And, uh, and, and even if they did, that not everybody would be able
+
+195
+00:09:01,850 --> 00:09:02,890
+to access that.
+
+196
+00:09:03,170 --> 00:09:03,670
+Amy Kruse: Right.
+
+197
+00:09:03,230 --> 00:09:07,570
+Charles Caskey: And so I think that, that, that that's a big component of the, yeah,
+
+198
+00:09:07,610 --> 00:09:11,290
+a big value is like making sure that these technologies have the impact in
+
+199
+00:09:11,350 --> 00:09:13,910
+society that they could have, the good, the positive impact.
+
+200
+00:09:13,950 --> 00:09:14,450
+And so-
+
+201
+00:09:14,730 --> 00:09:15,230
+Amy Kruse: Right
+
+202
+00:09:14,830 --> 00:09:16,070
+Charles Caskey: ... thanks for going through that.
+
+203
+00:09:16,070 --> 00:09:20,770
+Keith Murphy: I, I was, uh, I was talking with One Mind Lived Experience Council yesterday,
+
+204
+00:09:20,950 --> 00:09:24,910
+and it sort of occurred to me that when a lot of neurotechnology companies
+
+205
+00:09:25,030 --> 00:09:30,650
+start, they go to physicians and they go to surgeons and brain scientists and
+
+206
+00:09:30,710 --> 00:09:33,630
+really ask like, "What would you use and what do you think about this
+
+207
+00:09:33,690 --> 00:09:37,050
+tech?" But the reality is what they should have been asking was what the
+
+208
+00:09:37,110 --> 00:09:38,710
+people needed in the first place.
+
+209
+00:09:39,150 --> 00:09:42,470
+And I think, I think coming from those different lenses, you get very different
+
+210
+00:09:42,510 --> 00:09:46,770
+technologies. You get something that lives in a clinic and is massive and, and
+
+211
+00:09:47,170 --> 00:09:48,870
+maybe even scary in some cases-
+
+212
+00:09:49,270 --> 00:09:49,770
+Amy Kruse: Mm-hmm
+
+213
+00:09:49,330 --> 00:09:55,110
+Keith Murphy: ... versus something like Flow, which of course may have less precision or ability
+
+214
+00:09:55,150 --> 00:09:58,670
+to modulate, but, but really allows you to do different things.
+
+215
+00:09:58,990 --> 00:10:04,110
+Amy, what-- along these lines, in your mind, if you start to think 10
+
+216
+00:10:04,130 --> 00:10:08,330
+or 15 years out and the world survives and there's no apocalypse.
+
+217
+00:10:08,350 --> 00:10:08,850
+[chuckles]
+
+218
+00:10:08,370 --> 00:10:10,610
+Amy Kruse: The world survives. [laughs]
+
+219
+00:10:10,730 --> 00:10:13,050
+Keith Murphy: It's okay, we're not, uh, we're not death covered.
+
+220
+00:10:13,050 --> 00:10:13,970
+Amy Kruse: And the AI apocalypse is avoided.
+
+221
+00:10:14,690 --> 00:10:17,570
+Keith Murphy: It, it d- if it doesn't-- if the apocalypse doesn't happen-
+
+222
+00:10:17,750 --> 00:10:18,250
+Amy Kruse: Okay
+
+223
+00:10:17,830 --> 00:10:24,050
+Keith Murphy: ... what do you see the transition between treatment and cognitive enhancement
+
+224
+00:10:24,090 --> 00:10:26,610
+of healthy being to look like?
+
+225
+00:10:27,070 --> 00:10:29,110
+Is that transition rapid? Is it fast?
+
+226
+00:10:29,170 --> 00:10:30,370
+Is it driven by hype?
+
+227
+00:10:31,310 --> 00:10:31,810
+Amy Kruse: So-
+
+228
+00:10:31,330 --> 00:10:33,270
+Keith Murphy: How, how are you gonna help make that happen as well?
+
+229
+00:10:33,310 --> 00:10:33,810
+Amy Kruse: I-
+
+230
+00:10:33,410 --> 00:10:34,090
+Keith Murphy: What's your role in that?
+
+231
+00:10:34,410 --> 00:10:40,130
+Amy Kruse: I have very-- I have-- I'm very consistent, so [chuckles] the things I say,
+
+232
+00:10:40,950 --> 00:10:44,710
+um, are very consistent and so I will say [laughs] no, it's, I mean,
+
+233
+00:10:44,770 --> 00:10:45,290
+like, I think it's-
+
+234
+00:10:45,310 --> 00:10:45,810
+Keith Murphy: That's very important. So she has said this before.
+
+235
+00:10:45,610 --> 00:10:48,830
+Amy Kruse: I think it's imp- it's important to me to be, uh, you know, internally
+
+236
+00:10:48,850 --> 00:10:50,110
+consistent. Um-
+
+237
+00:10:50,210 --> 00:10:50,710
+Charles Caskey: Oh, yeah.
+
+238
+00:10:51,190 --> 00:10:51,890
+Amy Kruse: And- [laughs]
+
+239
+00:10:51,950 --> 00:10:52,610
+Charles Caskey: I'm, I'm on board.
+
+240
+00:10:52,650 --> 00:10:54,190
+Amy Kruse: You know, otherwise we got issues, you know?
+
+241
+00:10:54,210 --> 00:10:55,470
+Keith Murphy: I'm glad you gave that disclaimer.
+
+242
+00:10:55,610 --> 00:10:58,650
+I love this. I'm really excited about what you're gonna say.
+
+243
+00:10:58,670 --> 00:10:59,330
+[laughs]
+
+244
+00:10:59,430 --> 00:10:59,930
+Amy Kruse: Oh.
+
+245
+00:11:00,150 --> 00:11:02,210
+Keith Murphy: I hope it's consistent. [laughs]
+
+246
+00:11:02,330 --> 00:11:08,890
+Amy Kruse: So as someone who has been working on, as I mentioned, creating a neurotechnology,
+
+247
+00:11:09,030 --> 00:11:12,250
+vibrant neurotechnology industry for decades, right?
+
+248
+00:11:12,470 --> 00:11:12,970
+Keith Murphy: Mm-hmm.
+
+249
+00:11:12,690 --> 00:11:15,210
+Amy Kruse: I also realize that humans are lazy.
+
+250
+00:11:16,070 --> 00:11:21,930
+And so- [laughs] So we have technologies out there right now that humans can
+
+251
+00:11:22,050 --> 00:11:24,710
+use to augment their cognition, right?
+
+252
+00:11:24,830 --> 00:11:25,450
+To augment their-
+
+253
+00:11:25,610 --> 00:11:26,110
+Keith Murphy: Mm-hmm
+
+254
+00:11:25,670 --> 00:11:27,890
+Amy Kruse: ... performance and everything else. We have neurofeedback.
+
+255
+00:11:27,930 --> 00:11:29,030
+We have all, we have all kinds of stuff.
+
+256
+00:11:29,150 --> 00:11:30,730
+We have, we've had it, we have meditation.
+
+257
+00:11:30,830 --> 00:11:32,190
+We've had it for millennia.
+
+258
+00:11:32,230 --> 00:11:33,430
+Keith Murphy: Meditation's fantastic.
+
+259
+00:11:33,550 --> 00:11:37,970
+Amy Kruse: Millennia, right? Uh, causes brain changes, you know, all kinds of good stuff.
+
+260
+00:11:38,590 --> 00:11:44,790
+Um, also, humans are lazy. [laughs] And so I believe this is why,
+
+261
+00:11:44,990 --> 00:11:49,010
+you know, I'm a table, table pounder for neuromodulation.
+
+262
+00:11:49,590 --> 00:11:55,230
+I believe we're moving to a future where an individual could use a, you
+
+263
+00:11:55,270 --> 00:11:59,210
+know, system at home, take home system, go-- maybe even go to a, you
+
+264
+00:11:59,250 --> 00:12:01,590
+know, I don't know, med spa, something like that, right?
+
+265
+00:12:01,630 --> 00:12:02,490
+Like I'm not, I'm, I'm-
+
+266
+00:12:02,530 --> 00:12:03,030
+Keith Murphy: Yeah
+
+267
+00:12:02,670 --> 00:12:04,690
+Amy Kruse: ... separating it from the clinical piece and I'm saying-
+
+268
+00:12:04,950 --> 00:12:05,450
+Keith Murphy: Mm-hmm
+
+269
+00:12:05,170 --> 00:12:09,090
+Amy Kruse: ... we are, we are moving to a place where people can potentially augment
+
+270
+00:12:09,110 --> 00:12:14,570
+their cognitive states, their emotional states, um, and dial them into what they want
+
+271
+00:12:14,610 --> 00:12:15,900
+to be. Uh.
+
+272
+00:12:16,120 --> 00:12:16,620
+Keith Murphy: Mm-hmm.
+
+273
+00:12:16,340 --> 00:12:19,940
+Amy Kruse: Sort of at will, right? Meaning of their own, of their own volition.
+
+274
+00:12:20,100 --> 00:12:22,000
+Some people get super freaked out about this.
+
+275
+00:12:22,800 --> 00:12:25,000
+I just think, I think it's inevitable, right?
+
+276
+00:12:25,260 --> 00:12:28,260
+And so, you know, if I think about it, we've been using-- we as
+
+277
+00:12:28,340 --> 00:12:32,520
+humans have been using all kinds of tools to augment our consciousness for a
+
+278
+00:12:32,580 --> 00:12:37,900
+long time. We use music, we use dance, we use all sorts of things
+
+279
+00:12:38,040 --> 00:12:41,160
+to put ourselves into different states.
+
+280
+00:12:41,420 --> 00:12:45,720
+Um, obviously, you know, I'm also an investor in the psychedelic medicine ecosystem m-
+
+281
+00:12:45,920 --> 00:12:50,060
+for clinical purposes. But we, you know, humans have been augmenting their states for,
+
+282
+00:12:50,300 --> 00:12:55,920
+for millennia, again. And I think that is part of where neurotechnology is headed,
+
+283
+00:12:56,320 --> 00:12:56,820
+is-
+
+284
+00:12:56,840 --> 00:12:57,340
+Keith Murphy: Mm-hmm
+
+285
+00:12:57,100 --> 00:13:03,140
+Amy Kruse: ... humans augmenting their cognitive and emotional states in ways that they-- specific
+
+286
+00:13:03,220 --> 00:13:05,160
+ways that they want. Um.
+
+287
+00:13:05,220 --> 00:13:09,460
+Keith Murphy: Yeah. And do you, do you see it as us as a community, uh,
+
+288
+00:13:09,580 --> 00:13:14,720
+creating so much traction and so many indications and developing such a strong safety
+
+289
+00:13:14,840 --> 00:13:19,640
+profile that they then all start converting to wellness devices, or that people go
+
+290
+00:13:19,680 --> 00:13:22,460
+to Costa Rica or wherever they don't regulate this stuff.
+
+291
+00:13:22,860 --> 00:13:23,620
+They start there.
+
+292
+00:13:23,800 --> 00:13:24,300
+Amy Kruse: I would, I would-
+
+293
+00:13:23,820 --> 00:13:24,560
+Keith Murphy: They move it back
+
+294
+00:13:24,560 --> 00:13:29,160
+Amy Kruse: ... I would prefer, uh, as an, as an investor in this space, I,
+
+295
+00:13:29,300 --> 00:13:33,740
+I, I very much-- You know, everything that's in my portfolio and everything that
+
+296
+00:13:33,800 --> 00:13:36,620
+I look at, the science and it has to be, it has to be
+
+297
+00:13:36,720 --> 00:13:40,940
+solid. It has to be great, because I'm not gonna make a recommendation, you
+
+298
+00:13:41,000 --> 00:13:43,640
+know, for someone to use a particular system.
+
+299
+00:13:43,760 --> 00:13:47,740
+I'm not gonna use a particular system if those safety and efficacy signals aren't
+
+300
+00:13:47,780 --> 00:13:53,320
+there. Again, probably starting with something clinical and working backwards, but some people have
+
+301
+00:13:53,360 --> 00:13:58,220
+gone the opposite direction, right? They've, they've-- When, when the, when the device or
+
+302
+00:13:58,260 --> 00:14:03,120
+when the in, you know, uh, intervention is significantly low risk, you know, then-
+
+303
+00:14:03,300 --> 00:14:03,800
+Keith Murphy: Mm-hmm
+
+304
+00:14:03,460 --> 00:14:06,320
+Amy Kruse: ... go ahead and, you know, try that, and then maybe they bootstrap their
+
+305
+00:14:06,360 --> 00:14:08,080
+way up into, into something clinical.
+
+306
+00:14:08,140 --> 00:14:10,500
+So I think it's, I think it's gone both ways, but for the things
+
+307
+00:14:10,580 --> 00:14:16,180
+I think we're talking about, maybe using, you know, low-intensity focused ultrasound or TMS
+
+308
+00:14:16,260 --> 00:14:21,060
+or, or things like that, um, definitely wanna see the, the safety and efficacy
+
+309
+00:14:21,100 --> 00:14:24,920
+and clinical signals first before we, you know, kind of bootstrap our way back,
+
+310
+00:14:25,200 --> 00:14:26,250
+right, to- [chuckles]
+
+311
+00:14:26,300 --> 00:14:26,800
+Keith Murphy: Yeah
+
+312
+00:14:26,380 --> 00:14:30,440
+Amy Kruse: ... to wellness devices, so. But, you know, people are gonna do what people
+
+313
+00:14:30,500 --> 00:14:31,900
+do, so [laughing]
+
+314
+00:14:32,020 --> 00:14:32,860
+Keith Murphy: They will. They do it.
+
+315
+00:14:32,880 --> 00:14:33,380
+Charles Caskey: It's true.
+
+316
+00:14:33,520 --> 00:14:34,660
+Keith Murphy: Those lazy bastards.
+
+317
+00:14:34,660 --> 00:14:37,940
+Amy Kruse: People are... Yeah, I know. Those lazy bastards actually do whatever the hell they
+
+318
+00:14:37,980 --> 00:14:41,000
+want as well, so it's, you know, humans.
+
+319
+00:14:41,040 --> 00:14:44,720
+Charles Caskey: This-- Yeah. I lo- two of the things you said made me think of
+
+320
+00:14:44,780 --> 00:14:47,060
+a, a kind of t- different parallel thought streams.
+
+321
+00:14:47,200 --> 00:14:49,700
+One is like in the, in the wearable space.
+
+322
+00:14:49,780 --> 00:14:53,880
+My, my wife is, uh, was, was very active in, in that, in her,
+
+323
+00:14:54,000 --> 00:14:58,740
+during her PhD. And so she built like basically like a, a Fitbit, uh,
+
+324
+00:14:58,840 --> 00:14:59,660
+from an Arduino.
+
+325
+00:14:59,920 --> 00:15:00,420
+Amy Kruse: Sure. Yeah, yeah, yeah.
+
+326
+00:15:00,260 --> 00:15:03,420
+Charles Caskey: And, um, was doing measurements with that, and she built, you know, kinda had
+
+327
+00:15:03,460 --> 00:15:06,180
+a website interface. So it's essentially very similar to like what we would have
+
+328
+00:15:06,220 --> 00:15:07,560
+now, like I have this Coros watch.
+
+329
+00:15:08,020 --> 00:15:08,520
+Amy Kruse: Yeah.
+
+330
+00:15:08,060 --> 00:15:09,840
+Charles Caskey: Um, you know, it's got a nice interface and everything.
+
+331
+00:15:09,900 --> 00:15:13,460
+But then she did a, a, a human, a healthy or a human trial
+
+332
+00:15:13,600 --> 00:15:16,880
+for fitness, and we-- that's basically what she found was like, she's like, "Oh
+
+333
+00:15:16,940 --> 00:15:18,960
+yeah, all this works. We can do heart rate variability.
+
+334
+00:15:19,020 --> 00:15:20,540
+We can do accelerometer. We can do all this."
+
+335
+00:15:20,800 --> 00:15:24,860
+She's like, "Getting people motivated to do it is like totally impossible."
+
+336
+00:15:24,880 --> 00:15:25,380
+[laughing]
+
+337
+00:15:25,160 --> 00:15:25,840
+Amy Kruse: Right. Yeah.
+
+338
+00:15:25,920 --> 00:15:27,020
+Charles Caskey: So like, it's, I think you're spot on that.
+
+339
+00:15:27,280 --> 00:15:30,320
+Amy Kruse: If we, if we had behavior change solved, you know, maybe that's where-
+
+340
+00:15:30,340 --> 00:15:30,960
+Charles Caskey: Yeah
+
+341
+00:15:30,960 --> 00:15:31,460
+Amy Kruse: ... the AI-
+
+342
+00:15:31,320 --> 00:15:31,820
+Charles Caskey: Yeah
+
+343
+00:15:31,460 --> 00:15:33,180
+Amy Kruse: ... overlords will help us, so.
+
+344
+00:15:33,220 --> 00:15:35,500
+Charles Caskey: Yeah. Get in your, your 10 minutes of meditation in the morning.
+
+345
+00:15:35,580 --> 00:15:36,880
+Go do your exercise.
+
+346
+00:15:36,960 --> 00:15:37,460
+Amy Kruse: Yeah.
+
+347
+00:15:37,240 --> 00:15:37,740
+Charles Caskey: Yeah. Do all the things.
+
+348
+00:15:37,440 --> 00:15:41,320
+Amy Kruse: Like we kinda know, like [laughs] we kinda know we're supposed to be doing
+
+349
+00:15:41,320 --> 00:15:41,820
+this, right.
+
+350
+00:15:41,320 --> 00:15:41,960
+Charles Caskey: Yeah. Don't, don't drink too much.
+
+351
+00:15:42,020 --> 00:15:44,500
+Don't take too many drugs. [laughing] Yeah.
+
+352
+00:15:44,800 --> 00:15:48,600
+Keith Murphy: Um, Amy, where-- Uh, sorry, Charles, did you have another or?
+
+353
+00:15:48,700 --> 00:15:49,200
+Amy Kruse: He had two points.
+
+354
+00:15:49,240 --> 00:15:50,440
+Charles Caskey: Well, the other, well the other thought-
+
+355
+00:15:50,460 --> 00:15:51,540
+Keith Murphy: Yeah, I heard two actually. Go ahead.
+
+356
+00:15:51,560 --> 00:15:52,060
+Yeah.
+
+357
+00:15:51,700 --> 00:15:56,320
+Charles Caskey: Yeah. The other thought is just this idea as is we-- though we have
+
+358
+00:15:56,340 --> 00:16:01,420
+known and we, um, historically with the, throughout the, the history of humans about
+
+359
+00:16:01,460 --> 00:16:05,540
+things that we can do and, and seek out, um, ways to either alleviate
+
+360
+00:16:05,640 --> 00:16:10,700
+stress, improve sleep, do, um, do things via, um, you know, you mentioned music,
+
+361
+00:16:10,880 --> 00:16:14,560
+uh, and that we certainly have a lot of drugs in that, that are--
+
+362
+00:16:15,140 --> 00:16:17,340
+We've evolved to accept these things.
+
+363
+00:16:17,440 --> 00:16:21,820
+Uh, like our, we, we, our body's very good if we ingest a poison
+
+364
+00:16:21,860 --> 00:16:23,940
+at not like having it go straight to our brain.
+
+365
+00:16:24,000 --> 00:16:27,940
+And so, um, and some, again, I mean, going back to Noah Philip here,
+
+366
+00:16:28,000 --> 00:16:30,240
+and he, I think he made a, a super interesting point.
+
+367
+00:16:30,300 --> 00:16:35,900
+So he's a, um, uh, he's a psychiatrist, um, and, uh, he, he was
+
+368
+00:16:35,960 --> 00:16:40,320
+like, you know, we haven't, our brains had, did not evolve to receive e-external
+
+369
+00:16:40,400 --> 00:16:41,740
+energy being input to it.
+
+370
+00:16:41,820 --> 00:16:42,320
+Amy Kruse: Ah.
+
+371
+00:16:41,840 --> 00:16:43,220
+Charles Caskey: So I think that's at least one distinction.
+
+372
+00:16:43,220 --> 00:16:45,560
+Amy Kruse: Ooh, that's a spicy take on that.
+
+373
+00:16:46,260 --> 00:16:46,760
+Charles Caskey: Y-you-
+
+374
+00:16:46,660 --> 00:16:50,680
+Amy Kruse: I mean, we're constantly radiated by the sun and gamma rays, so [laughing]
+
+375
+00:16:50,900 --> 00:16:52,100
+Charles Caskey: And, and yeah. Well, and, and yeah.
+
+376
+00:16:52,100 --> 00:16:52,600
+Keith Murphy: Oh, yeah.
+
+377
+00:16:52,320 --> 00:16:53,060
+Charles Caskey: It's not, it's not-
+
+378
+00:16:53,100 --> 00:16:53,600
+Keith Murphy: We forget
+
+379
+00:16:53,200 --> 00:16:55,560
+Charles Caskey: ... totally, yeah. There, there, it's not totally true.
+
+380
+00:16:55,700 --> 00:16:56,280
+I think that's right.
+
+381
+00:16:56,400 --> 00:16:56,900
+Amy Kruse: No.
+
+382
+00:16:56,420 --> 00:16:59,080
+Charles Caskey: We also, we also bombard ourselves with sound.
+
+383
+00:16:59,120 --> 00:17:00,500
+This reminds me, I don't know if you guys know-
+
+384
+00:17:00,540 --> 00:17:01,040
+Amy Kruse: Right
+
+385
+00:17:00,560 --> 00:17:03,860
+Charles Caskey: ... the band Swans, but it's an incredibly loud band.
+
+386
+00:17:04,180 --> 00:17:06,800
+And I was talking to a guy, and he was at a Swans show,
+
+387
+00:17:06,840 --> 00:17:08,900
+and he said, he was like: Yeah, I just like got in this mode.
+
+388
+00:17:08,940 --> 00:17:11,380
+And so it's like a band that's like, if you don't wear earplugs, you
+
+389
+00:17:11,420 --> 00:17:13,060
+will lose some dB on your, your hearing.
+
+390
+00:17:13,800 --> 00:17:14,300
+Amy Kruse: Yeah, yeah.
+
+391
+00:17:14,420 --> 00:17:14,920
+Keith Murphy: Wow.
+
+392
+00:17:14,440 --> 00:17:15,820
+Charles Caskey: But he was like, he was like: Yeah, I was at a show.
+
+393
+00:17:15,900 --> 00:17:19,140
+I just felt like something like, like I could tell my leg was wet.
+
+394
+00:17:19,180 --> 00:17:21,460
+And he was like holding a can of beer or something, and he's like:
+
+395
+00:17:21,520 --> 00:17:24,200
+Yeah, like apparently my hand just closed around it just like-
+
+396
+00:17:24,240 --> 00:17:24,980
+Keith Murphy: Oh, man
+
+397
+00:17:25,020 --> 00:17:25,800
+Charles Caskey: ... I didn't know, and I'm sitting-
+
+398
+00:17:25,820 --> 00:17:26,420
+Keith Murphy: From the sound?
+
+399
+00:17:26,860 --> 00:17:27,360
+Amy Kruse: Yeah.
+
+400
+00:17:27,240 --> 00:17:29,820
+Charles Caskey: I'm sitting there thinking as an ultrasound person, I'm like, I was like: I
+
+401
+00:17:29,860 --> 00:17:33,100
+bet you have like standing waves in your head [chuckles] or something across this.
+
+402
+00:17:33,140 --> 00:17:33,640
+Keith Murphy: Whoa.
+
+403
+00:17:33,220 --> 00:17:36,560
+Charles Caskey: Yeah. So you're right. I mean, we, we, it's not that we're completely naive.
+
+404
+00:17:36,660 --> 00:17:37,280
+Like our brains-
+
+405
+00:17:37,280 --> 00:17:37,780
+Amy Kruse: Right
+
+406
+00:17:37,320 --> 00:17:37,900
+Charles Caskey: ... have dealt with-
+
+407
+00:17:38,360 --> 00:17:38,860
+Amy Kruse: Right
+
+408
+00:17:38,400 --> 00:17:39,940
+Charles Caskey: ... uh, different energies, uh, you know.
+
+409
+00:17:40,300 --> 00:17:43,140
+Keith Murphy: You know, Charles, we've never talked about this on the show, and Amy's the
+
+410
+00:17:43,360 --> 00:17:44,640
+perfect person to disclose-
+
+411
+00:17:44,700 --> 00:17:45,200
+Charles Caskey: Oh
+
+412
+00:17:44,720 --> 00:17:46,900
+Keith Murphy: ... this highly confidential information. [laughs]
+
+413
+00:17:46,900 --> 00:17:47,400
+Charles Caskey: Lord.
+
+414
+00:17:46,940 --> 00:17:50,380
+Keith Murphy: Do you guys re- do you guys remember the brown noise or whatever?
+
+415
+00:17:50,580 --> 00:17:55,320
+The noise that they would blast at ships and everybody would, um, you know,
+
+416
+00:17:55,600 --> 00:17:59,260
+clench their bowels and like that was a weapon or something.
+
+417
+00:17:59,340 --> 00:18:00,220
+Amy, you've heard of that.
+
+418
+00:18:01,040 --> 00:18:01,540
+Amy Kruse: Yeah.
+
+419
+00:18:01,840 --> 00:18:03,500
+Keith Murphy: It's not, it's not Havana syndrome.
+
+420
+00:18:03,540 --> 00:18:04,420
+It's a whole different thing.
+
+421
+00:18:04,480 --> 00:18:05,860
+Amy Kruse: No, it's in the before times.
+
+422
+00:18:06,520 --> 00:18:07,020
+Yeah.
+
+423
+00:18:06,620 --> 00:18:07,280
+Keith Murphy: Yeah, yeah. Was it real?
+
+424
+00:18:07,360 --> 00:18:07,860
+Charles Caskey: Before.
+
+425
+00:18:08,080 --> 00:18:08,600
+Keith Murphy: Did it happen?
+
+426
+00:18:08,840 --> 00:18:12,360
+Amy Kruse: There were, there's all kind... I mean, people have been working on sonic weapons
+
+427
+00:18:12,400 --> 00:18:13,300
+for a long time.
+
+428
+00:18:13,980 --> 00:18:14,480
+Keith Murphy: Oh, they have?
+
+429
+00:18:14,420 --> 00:18:17,340
+Amy Kruse: The, the-- Oh, yeah. The Russians were quite good at it as well.
+
+430
+00:18:17,380 --> 00:18:21,240
+They had like these gigahertz pulses that could make people do all sorts of
+
+431
+00:18:22,120 --> 00:18:22,620
+Keith Murphy: Whoa.
+
+432
+00:18:22,580 --> 00:18:23,300
+Amy Kruse: Things. Yeah.
+
+433
+00:18:23,720 --> 00:18:24,220
+Keith Murphy: Okay. Wild.
+
+434
+00:18:23,940 --> 00:18:25,020
+Amy Kruse: What, you didn't know about that, Keith?
+
+435
+00:18:25,220 --> 00:18:27,940
+Something Keith didn't know about? [laughing]
+
+436
+00:18:28,040 --> 00:18:29,320
+Keith Murphy: I don't know. I sort of saw it.
+
+437
+00:18:29,340 --> 00:18:30,860
+Amy Kruse: I'm gonna write this one down.
+
+438
+00:18:30,960 --> 00:18:32,300
+[laughing]
+
+439
+00:18:32,400 --> 00:18:36,220
+Keith Murphy: All right. So, so Swans and, uh, Russian [laughs]
+
+440
+00:18:36,280 --> 00:18:37,280
+Amy Kruse: Russian gigahertz pulses.
+
+441
+00:18:37,280 --> 00:18:37,780
+Keith Murphy: And confidence level.
+
+442
+00:18:37,600 --> 00:18:38,840
+Amy Kruse: Look it up on the internets.
+
+443
+00:18:39,280 --> 00:18:39,780
+Keith Murphy: Yeah.
+
+444
+00:18:39,800 --> 00:18:40,300
+Amy Kruse: Yeah.
+
+445
+00:18:39,860 --> 00:18:40,360
+Keith Murphy: Yeah.
+
+446
+00:18:40,140 --> 00:18:40,640
+Amy Kruse: That's [laughs]
+
+447
+00:18:40,560 --> 00:18:44,340
+Charles Caskey: Yeah. We're, we're gonna throw, throw a s- a sample of the, the brown
+
+448
+00:18:44,460 --> 00:18:46,380
+sound on the podcast. [laughs]
+
+449
+00:18:46,460 --> 00:18:48,960
+Keith Murphy: Should see if our viewers start, start dumping.
+
+450
+00:18:48,980 --> 00:18:49,900
+[laughs]
+
+451
+00:18:49,980 --> 00:18:51,660
+Amy Kruse: Exactly. Yeah.
+
+452
+00:18:52,660 --> 00:18:54,040
+Charles Caskey: Sorry, we will get back on task.
+
+453
+00:18:54,360 --> 00:18:54,920
+Amy Kruse: You people.
+
+454
+00:18:55,220 --> 00:18:58,900
+Keith Murphy: Okay. Um, I think, I think very on task would be, Amy, for our
+
+455
+00:18:58,960 --> 00:19:05,020
+listenership, where does ultrasound fit in your thinking about the broader neurotechnology
+
+456
+00:19:05,100 --> 00:19:10,800
+community? And if you were to advise people on what style of grant or
+
+457
+00:19:10,920 --> 00:19:16,560
+pursuits to go after, be it like combinatorial therapies or state dependence excites you
+
+458
+00:19:16,600 --> 00:19:21,340
+the most, people will, will take this to heart, so don't, don't give them
+
+459
+00:19:21,360 --> 00:19:21,860
+bad advice.
+
+460
+00:19:22,040 --> 00:19:23,720
+Amy Kruse: Don't give them bad advice. Um.
+
+461
+00:19:26,720 --> 00:19:28,700
+So two-- Actually, I want to say two things.
+
+462
+00:19:28,800 --> 00:19:34,040
+One is that I think, you know, even as compared to five years ago,
+
+463
+00:19:34,940 --> 00:19:38,700
+um, certainly 10 years ago, but five years ago for sure, uh, I think
+
+464
+00:19:38,760 --> 00:19:45,560
+low-intensity focused ultrasound has become to be more understood as, as a modulatory,
+
+465
+00:19:45,880 --> 00:19:50,180
+neuromodulatory tool, right? I think, I think there was a period of time there
+
+466
+00:19:50,200 --> 00:19:52,920
+where people were like, "What?" [laughs] You know?
+
+467
+00:19:53,180 --> 00:19:53,680
+Keith Murphy: Definitely.
+
+468
+00:19:53,520 --> 00:19:56,600
+Amy Kruse: Now I think we're-- Now I at least think we're, you're in the-- And
+
+469
+00:19:56,620 --> 00:20:02,920
+then, and then now you're in the, in the, um, differentiation between ablative ultrasound,
+
+470
+00:20:03,700 --> 00:20:08,160
+you know, approaches for, you know, treatment of, of, of, uh, you know, very
+
+471
+00:20:08,260 --> 00:20:13,180
+specific brain disorders or conditions, whether that's, you know, a tumor or Parkinson's or
+
+472
+00:20:13,220 --> 00:20:17,580
+something like that, as opposed to, you know, separating out the low-intensity focused ultrasound
+
+473
+00:20:17,660 --> 00:20:21,680
+piece. So I think we're in a space where people understand, um, a little
+
+474
+00:20:21,720 --> 00:20:26,900
+bit more about, about that. I think I have told folks when I describe,
+
+475
+00:20:27,200 --> 00:20:31,340
+you know, sort of where we are in this space is, you know, we-we're
+
+476
+00:20:31,400 --> 00:20:36,660
+benefiting from the insights of systems neuroscience and the work that's going on to
+
+477
+00:20:36,720 --> 00:20:39,080
+look at very specific brain regions.
+
+478
+00:20:39,320 --> 00:20:43,480
+I don't, I don't think we know everything [laughs] yet.
+
+479
+00:20:44,000 --> 00:20:45,700
+I think we know some great targets, right?
+
+480
+00:20:45,820 --> 00:20:46,480
+Which is again-
+
+481
+00:20:46,540 --> 00:20:47,040
+Keith Murphy: Mm-hmm
+
+482
+00:20:46,720 --> 00:20:51,540
+Amy Kruse: ... part of our discussion around clinical efficacy and what we've learned from, you
+
+483
+00:20:51,560 --> 00:20:53,360
+know, a variety of different sources.
+
+484
+00:20:53,460 --> 00:20:58,580
+And so, you know, I think about it a little bit from a mapping
+
+485
+00:20:58,640 --> 00:21:03,020
+perspective. Like, we're still just, you know, we're like, we know the Earth is
+
+486
+00:21:03,100 --> 00:21:04,420
+round, right?
+
+487
+00:21:04,820 --> 00:21:05,320
+Keith Murphy: Mm-hmm.
+
+488
+00:21:04,860 --> 00:21:06,740
+Amy Kruse: And we know there's a continent over there.
+
+489
+00:21:07,040 --> 00:21:07,540
+You know, like we-
+
+490
+00:21:07,640 --> 00:21:08,140
+Keith Murphy: Mm-hmm
+
+491
+00:21:07,800 --> 00:21:11,740
+Amy Kruse: ... you know, we're still mapping what I would say are the nodes and
+
+492
+00:21:11,780 --> 00:21:15,860
+the coastline and, and maybe the islands and o- other things that are, that
+
+493
+00:21:15,880 --> 00:21:20,300
+are in there. So, so I oftentimes as an investor, you know, I get
+
+494
+00:21:20,340 --> 00:21:23,060
+people saying like, "The brain is too complicated.
+
+495
+00:21:23,140 --> 00:21:25,780
+We can't know anything or do anything."
+
+496
+00:21:25,980 --> 00:21:26,640
+Right? And I-
+
+497
+00:21:26,760 --> 00:21:27,260
+Keith Murphy: Oh, wow
+
+498
+00:21:27,100 --> 00:21:31,280
+Amy Kruse: ... counterbalance with like, "Yes, yes, the brain is complicated."
+
+499
+00:21:31,360 --> 00:21:35,600
+[laughs] But there are, there are some very specific things that we know that
+
+500
+00:21:35,660 --> 00:21:40,240
+have, you know, mapping and clinical outcomes and clinical effic-efficacy.
+
+501
+00:21:40,360 --> 00:21:45,240
+And so I think it's the marriage of those two pieces together where, you
+
+502
+00:21:45,280 --> 00:21:49,440
+know, I encourage people to think about, you know, new targets or what are
+
+503
+00:21:49,500 --> 00:21:53,000
+things- Mm-hmm ... that they're interested in and, um, because you do-- It's the
+
+504
+00:21:53,040 --> 00:21:55,420
+same kind of thing like we've seen in the psychedelic medicine space.
+
+505
+00:21:55,460 --> 00:21:57,440
+Like everybody's going after treatment-resistant depression.
+
+506
+00:21:57,520 --> 00:22:01,180
+You now have like, I don't know, 25 molecules [laughs] going after treatment-
+
+507
+00:22:01,420 --> 00:22:01,920
+Keith Murphy: Yeah
+
+508
+00:22:01,500 --> 00:22:06,320
+Amy Kruse: ... re-resistant depression, right? Like, you know, the poor dos- dorsolateral prefrontal cortex, man,
+
+509
+00:22:06,380 --> 00:22:08,320
+that thing is really getting a workout, you know?
+
+510
+00:22:08,540 --> 00:22:09,040
+Like [laughs]
+
+511
+00:22:08,980 --> 00:22:09,900
+Keith Murphy: Really big workout.
+
+512
+00:22:10,080 --> 00:22:13,400
+Amy Kruse: Really big workout. So, so I just, you know, I think about it in
+
+513
+00:22:13,420 --> 00:22:17,360
+the, in the context of like what we know, what we're, what we're gaining
+
+514
+00:22:17,380 --> 00:22:22,180
+knowledge around. Um, I think, you know, I think it's an open question around,
+
+515
+00:22:22,320 --> 00:22:26,720
+you know, the, um, sources of capital, sources of funding in this space right
+
+516
+00:22:26,760 --> 00:22:30,360
+now. Um, obviously ARPA-H has been really active.
+
+517
+00:22:30,700 --> 00:22:35,120
+Um, DARPA has been kind of in and out of the neurotechnology, you know,
+
+518
+00:22:35,320 --> 00:22:39,740
+space. But as you know, most ARPAs, um, are driven by the program managers
+
+519
+00:22:39,780 --> 00:22:41,280
+that are there, right? So-
+
+520
+00:22:41,440 --> 00:22:41,940
+Keith Murphy: Mm-hmm
+
+521
+00:22:41,450 --> 00:22:42,040
+Amy Kruse: ... it's not like-
+
+522
+00:22:42,200 --> 00:22:42,700
+Keith Murphy: Yeah
+
+523
+00:22:42,280 --> 00:22:44,960
+Amy Kruse: ... you can't say like, "Oh, so-and-so isn't working on X anymore."
+
+524
+00:22:45,020 --> 00:22:46,580
+It's like, well, maybe they don't have a program manager.
+
+525
+00:22:46,640 --> 00:22:49,000
+Maybe we need to recruit more program managers.
+
+526
+00:22:49,020 --> 00:22:49,720
+[laughs]
+
+527
+00:22:49,780 --> 00:22:51,160
+Keith Murphy: Oh, you know what? ARPA-H is-
+
+528
+00:22:51,160 --> 00:22:52,100
+Amy Kruse: For all of our ARPAs, you know?
+
+529
+00:22:52,260 --> 00:22:52,760
+Yeah.
+
+530
+00:22:52,500 --> 00:22:56,640
+Keith Murphy: Yeah. ARPA-H is pretty big on recruiting the younger generation of neurotech.
+
+531
+00:22:56,780 --> 00:22:57,280
+I-
+
+532
+00:22:56,940 --> 00:22:57,440
+Amy Kruse: Yeah
+
+533
+00:22:57,040 --> 00:22:58,680
+Keith Murphy: ... for people listening, I think-
+
+534
+00:22:58,900 --> 00:22:59,400
+Amy Kruse: Yes
+
+535
+00:22:59,020 --> 00:23:01,140
+Keith Murphy: ... consider that as a career choice potentially, right?
+
+536
+00:23:01,500 --> 00:23:04,880
+Amy Kruse: Yes. Absolutely. I mean, it was an, it was an incredible career choice for
+
+537
+00:23:04,920 --> 00:23:10,360
+me. As somebody who was motivated by applied problems and wanting-
+
+538
+00:23:10,380 --> 00:23:10,880
+Keith Murphy: Mm
+
+539
+00:23:10,400 --> 00:23:14,340
+Amy Kruse: ... to use neuroscience and neurotechnology in a, in, in like really like how
+
+540
+00:23:14,360 --> 00:23:20,780
+do I move the needle ways, I cannot recommend more, uh, engaging
+
+541
+00:23:20,860 --> 00:23:24,560
+as an ARPA, whether that's through DARPA or ARPA-H, you know, a- as a
+
+542
+00:23:24,600 --> 00:23:29,800
+program manager. It was an incredibly fulfilling experience, and it leaves sort of what
+
+543
+00:23:29,860 --> 00:23:35,320
+I call like the thumbprint of, of speed and innovation on your brain that
+
+544
+00:23:35,380 --> 00:23:38,240
+you don't, that doesn't leave you, you know?
+
+545
+00:23:38,400 --> 00:23:38,900
+Keith Murphy: Yeah.
+
+546
+00:23:38,460 --> 00:23:43,220
+Amy Kruse: And so, you know, that same sort of energy is what I bring to
+
+547
+00:23:43,260 --> 00:23:45,800
+venture investing. Venture investing moves very fast, right?
+
+548
+00:23:45,820 --> 00:23:49,060
+Like companies open, you know, start, go, fundraise, blah, blah, blah.
+
+549
+00:23:49,140 --> 00:23:53,340
+You know, like it's really a speed, um, that some people may not be
+
+550
+00:23:53,420 --> 00:23:57,560
+accustomed to if they're from a, a little bit more of an academic background
+
+551
+00:23:57,620 --> 00:24:00,140
+or, or something that may have, have moved a little bit slower.
+
+552
+00:24:00,380 --> 00:24:04,580
+And so that w- to me was just an in-incredible experience, so.
+
+553
+00:24:05,880 --> 00:24:08,520
+Keith Murphy: I have, uh, Charles, if you have-- I have a question for both of
+
+554
+00:24:08,600 --> 00:24:09,100
+you.
+
+555
+00:24:08,840 --> 00:24:09,340
+Charles Caskey: Sure.
+
+556
+00:24:08,880 --> 00:24:13,680
+Keith Murphy: I'd love a quick take. Amy, you, God, you Have so many beautiful insights
+
+557
+00:24:13,700 --> 00:24:15,300
+and it's making me really rethink things.
+
+558
+00:24:15,860 --> 00:24:17,980
+If you're young and in the ultrasound space and-
+
+559
+00:24:18,020 --> 00:24:20,780
+Amy Kruse: He's like, "I'm quitting and I'm joining ARPA as a program."
+
+560
+00:24:21,040 --> 00:24:21,760
+Keith Murphy: I'm, I'm, I'm-- No,
+
+561
+00:24:21,780 --> 00:24:22,500
+Amy Kruse: I'm coming to Satori. No, Keith, you can't.
+
+562
+00:24:22,520 --> 00:24:23,480
+We need, we need you. We need you.
+
+563
+00:24:23,560 --> 00:24:24,620
+[chuckles]
+
+564
+00:24:24,660 --> 00:24:25,640
+Keith Murphy: Well, I'll, I'll keep trucking.
+
+565
+00:24:25,760 --> 00:24:26,280
+Amy Kruse: Okay. Please.
+
+566
+00:24:26,320 --> 00:24:30,980
+Keith Murphy: But I think a, a lot of young ultrasound engineers, scientists, et cetera, ask
+
+567
+00:24:31,180 --> 00:24:33,600
+if I wanted to start a company in the space because I like the
+
+568
+00:24:33,660 --> 00:24:35,520
+idea of a startup. You know, what could I do?
+
+569
+00:24:35,600 --> 00:24:39,120
+There's so many devices already. They all look like things I would've done.
+
+570
+00:24:39,760 --> 00:24:42,940
+And, and I could be wrong about this, but I say, "Hey, take a
+
+571
+00:24:42,980 --> 00:24:46,600
+look at DBS for any given brain area or TMS.
+
+572
+00:24:47,100 --> 00:24:50,620
+It's taken us 20 to 30 years to have any semblance of how to
+
+573
+00:24:50,700 --> 00:24:53,520
+use it. We still don't really understand what the pulsing is doing."
+
+574
+00:24:53,580 --> 00:24:54,080
+Amy Kruse: Yep.
+
+575
+00:24:54,480 --> 00:24:59,400
+Keith Murphy: I believe that people could spend a lifetime on a single brain area and
+
+576
+00:24:59,440 --> 00:25:04,060
+exploring how to really interact with it, what the state is that the treatment
+
+577
+00:25:04,120 --> 00:25:09,200
+is going to occur under. Yeah, putting together some patents, but eventually looking towards
+
+578
+00:25:09,420 --> 00:25:14,300
+potentially being acquired by existing companies that may already have ultrasound infrastructure.
+
+579
+00:25:14,880 --> 00:25:19,900
+But really nailing as trade secrets or just first to market how you do
+
+580
+00:25:19,940 --> 00:25:23,400
+that treatment and how you really nail it, because I, I think this field's
+
+581
+00:25:23,460 --> 00:25:25,840
+so young. I just think that'd be a fun way for them to get
+
+582
+00:25:25,920 --> 00:25:29,880
+in. I guess, do you guys have a better entry point for them, one?
+
+583
+00:25:30,720 --> 00:25:32,740
+And two, do you agree with me at all?
+
+584
+00:25:32,900 --> 00:25:36,860
+[chuckles] Or is old Papa Keith just going on the wacky train?
+
+585
+00:25:37,440 --> 00:25:40,180
+Charles Caskey: I, I, I like that. Um, I'm trying to think of what-- I, you
+
+586
+00:25:40,200 --> 00:25:45,500
+know, I, for, from my, from where I exist, it's, the-- I don't get
+
+587
+00:25:45,560 --> 00:25:49,380
+this exact question very frequently. For me, it's, it's, I haven't had as many
+
+588
+00:25:49,440 --> 00:25:52,920
+people interested in pioneering their own efforts on startup.
+
+589
+00:25:53,060 --> 00:25:56,380
+I think they're happy that there are companies moving into this space and that
+
+590
+00:25:56,420 --> 00:25:57,560
+they can apply their skills.
+
+591
+00:25:57,600 --> 00:25:58,100
+Keith Murphy: I love that.
+
+592
+00:25:57,660 --> 00:25:59,380
+Charles Caskey: I'd be interested in Amy's perspective.
+
+593
+00:26:00,100 --> 00:26:03,760
+Amy Kruse: Yeah, no, I mean, I mean, you know, how-- I think about how lucky
+
+594
+00:26:03,800 --> 00:26:08,040
+we are to be in a space right now where there are neurotechnology companies
+
+595
+00:26:08,120 --> 00:26:08,620
+for our [chuckles]
+
+596
+00:26:08,560 --> 00:26:09,060
+Charles Caskey: Yeah.
+
+597
+00:26:08,960 --> 00:26:09,740
+Keith Murphy: This is the start.
+
+598
+00:26:09,800 --> 00:26:12,540
+Amy Kruse: For our students that, you know, like to go to.
+
+599
+00:26:12,680 --> 00:26:15,060
+You know, I, I mean, I think about where I was in my career
+
+600
+00:26:15,120 --> 00:26:19,160
+after I finished my PhD and wanting to do something, like I mentioned, wanting
+
+601
+00:26:19,180 --> 00:26:23,100
+to do something applied and not having a landing spot, right?
+
+602
+00:26:23,220 --> 00:26:25,400
+So, so it's-- I'm, I'm, you know, grateful and-
+
+603
+00:26:25,440 --> 00:26:26,960
+Keith Murphy: Oh, it just didn't exist back then, you're saying.
+
+604
+00:26:27,000 --> 00:26:27,820
+Amy Kruse: No. Right. It didn't exist.
+
+605
+00:26:27,840 --> 00:26:28,500
+Keith Murphy: I guess you built-
+
+606
+00:26:28,740 --> 00:26:29,240
+Amy Kruse: That's how old I am.
+
+607
+00:26:29,200 --> 00:26:30,140
+Keith Murphy: You, you're helping build it. Yeah.
+
+608
+00:26:30,220 --> 00:26:31,420
+Amy Kruse: Yeah, exactly. [chuckles] [chuckles]
+
+609
+00:26:31,440 --> 00:26:32,540
+Keith Murphy: That's not what I was saying, but-
+
+610
+00:26:32,580 --> 00:26:33,580
+Amy Kruse: Not at all. Thanks, Keith.
+
+611
+00:26:33,620 --> 00:26:34,120
+Keith Murphy: I carry-
+
+612
+00:26:33,860 --> 00:26:35,260
+Amy Kruse: Papa Keith. Thanks, Papa Keith.
+
+613
+00:26:35,320 --> 00:26:35,920
+Charles Caskey: Papa Keith.
+
+614
+00:26:35,960 --> 00:26:36,460
+Keith Murphy: Papa Keith.
+
+615
+00:26:36,480 --> 00:26:36,980
+Amy Kruse: Mommy old.
+
+616
+00:26:36,900 --> 00:26:37,940
+Keith Murphy: I like it. That's gonna stick.
+
+617
+00:26:37,940 --> 00:26:43,840
+[chuckles] Um, wow, yeah. Wait, Amy, was that part of your inspiration, though?
+
+618
+00:26:43,920 --> 00:26:45,640
+You were like, "Hey, this doesn't exist."
+
+619
+00:26:45,640 --> 00:26:46,140
+Amy Kruse: Yes.
+
+620
+00:26:45,680 --> 00:26:46,880
+Keith Murphy: "I wanna help fund-"
+
+621
+00:26:46,940 --> 00:26:47,440
+Amy Kruse: Yes.
+
+622
+00:26:47,040 --> 00:26:49,360
+Keith Murphy: "... so many companies that people actually have an outlet."
+
+623
+00:26:49,700 --> 00:26:50,200
+Amy Kruse: Yeah.
+
+624
+00:26:49,860 --> 00:26:51,400
+Keith Murphy: That neurotechnology is a viable career path.
+
+625
+00:26:51,440 --> 00:26:54,060
+Amy Kruse: Yeah. Yeah. I mean, that w- so much of what we funded back at
+
+626
+00:26:54,100 --> 00:26:58,180
+DARPA, I re- I, I, I was of an era when a DARPA program
+
+627
+00:26:58,220 --> 00:27:03,220
+manager could start and run essentially as many programs as they had the time,
+
+628
+00:27:03,340 --> 00:27:05,800
+energy, and life goals to do.
+
+629
+00:27:05,900 --> 00:27:06,400
+Keith Murphy: Right.
+
+630
+00:27:05,920 --> 00:27:10,200
+Amy Kruse: And so I started seven programs when I was at DARPA and managed nine.
+
+631
+00:27:11,120 --> 00:27:15,520
+Um, and so yeah, like really put a lot of capital into the system
+
+632
+00:27:15,680 --> 00:27:19,300
+to, to get a lot of that stuff started and, and little, little nuggets
+
+633
+00:27:19,360 --> 00:27:22,120
+of that are, are sort of all over the, all over the industry.
+
+634
+00:27:22,200 --> 00:27:22,700
+Keith Murphy: Oh, yeah.
+
+635
+00:27:22,220 --> 00:27:26,120
+Amy Kruse: So, so to, to go back to the, the question around, you know, what
+
+636
+00:27:26,140 --> 00:27:29,960
+would you advise, like, I think part of what we're talking about, about a
+
+637
+00:27:30,000 --> 00:27:35,140
+healthy neurotechnology industry is that there will be a place to roll up insights
+
+638
+00:27:35,280 --> 00:27:40,240
+and intellectual property and, you know, the, the things that we're, that we're talking
+
+639
+00:27:40,300 --> 00:27:46,300
+about. So I don't know that I would discourage someone from, you know, starting
+
+640
+00:27:46,340 --> 00:27:51,040
+another company, but just say, you know, if, if you, if you're motivated to
+
+641
+00:27:51,080 --> 00:27:55,820
+do it, it really behooves you to do a fantastic job of landscaping.
+
+642
+00:27:56,580 --> 00:27:57,080
+Keith Murphy: Mm-hmm.
+
+643
+00:27:56,700 --> 00:27:59,760
+Amy Kruse: You know, what's already out there, what-- You know, I can't tell you the
+
+644
+00:27:59,800 --> 00:28:02,360
+number of times you talk to a startup and they've got, "Ta-da!"
+
+645
+00:28:02,860 --> 00:28:04,960
+You know, and you're like, "Do you know that there are four of those?"
+
+646
+00:28:05,020 --> 00:28:06,480
+[chuckles] Like, you know, "I just talked to-"
+
+647
+00:28:07,340 --> 00:28:07,840
+Keith Murphy: Oh, yeah.
+
+648
+00:28:07,480 --> 00:28:07,980
+Amy Kruse: "... talked to four of them."
+
+649
+00:28:08,060 --> 00:28:10,920
+You know, so, so really, you know, that is one of the things that
+
+650
+00:28:11,280 --> 00:28:16,020
+I, I engage in as an investor, is making sure if I'm feel confident
+
+651
+00:28:16,060 --> 00:28:18,320
+about an investment, that I've really landscaped that space.
+
+652
+00:28:18,400 --> 00:28:21,100
+I understand the companies that are out there, what's been done, what's worked, what's
+
+653
+00:28:21,120 --> 00:28:22,660
+failed, what, you know, that kind of thing.
+
+654
+00:28:23,240 --> 00:28:27,600
+Um, and so anybody that's motivated to, to start something new, you know, I
+
+655
+00:28:27,680 --> 00:28:31,540
+always encourage them to make sure they know the landscape so that when those
+
+656
+00:28:31,580 --> 00:28:33,540
+questions come up about how it's differentiated.
+
+657
+00:28:33,640 --> 00:28:37,280
+And if you, you go like, "Wow, actually this has been done," you know,
+
+658
+00:28:37,360 --> 00:28:38,180
+how do I best use-
+
+659
+00:28:38,260 --> 00:28:38,760
+Keith Murphy: Sure.
+
+660
+00:28:38,300 --> 00:28:40,180
+Amy Kruse: Then, then what company is doing it best?
+
+661
+00:28:40,260 --> 00:28:43,640
+Maybe I go, you know, and approach that company and say, "I think I
+
+662
+00:28:43,660 --> 00:28:47,160
+have some insights here that might, you, you know, that might benefit you, and,
+
+663
+00:28:47,480 --> 00:28:48,780
+you know, maybe we can work together."
+
+664
+00:28:48,820 --> 00:28:53,260
+Because I think the startup world is pretty fluid that way, right?
+
+665
+00:28:53,360 --> 00:28:54,160
+In terms of-
+
+666
+00:28:54,300 --> 00:28:54,800
+Keith Murphy: Mm-hmm
+
+667
+00:28:54,360 --> 00:28:58,900
+Amy Kruse: ... you know, it's not like a big, you know, publicly traded, you know,
+
+668
+00:28:59,600 --> 00:29:03,680
+you know, biomedical engineering Medtronic type of-- M-mean, not meaning Medtronic specifically, but meaning-
+
+669
+00:29:03,720 --> 00:29:04,220
+Charles Caskey: Yeah
+
+670
+00:29:03,900 --> 00:29:06,760
+Amy Kruse: ... you know, that, that type of company where there's like, there's this slot
+
+671
+00:29:06,780 --> 00:29:09,400
+and then there's that slot and then there's this thing and then there's that
+
+672
+00:29:09,460 --> 00:29:11,980
+job. You know, Keith, in, in the startup world it's-
+
+673
+00:29:12,740 --> 00:29:13,240
+Keith Murphy: Oh, yeah
+
+674
+00:29:12,940 --> 00:29:15,120
+Amy Kruse: ... chief cook, bottle washer, you know.
+
+675
+00:29:15,260 --> 00:29:18,280
+[chuckles] [chuckles] Luggage carrier, you know.
+
+676
+00:29:18,380 --> 00:29:19,320
+[chuckles] Like all these-
+
+677
+00:29:19,360 --> 00:29:20,320
+Keith Murphy: Gotta have a luggage carrier.
+
+678
+00:29:20,520 --> 00:29:23,700
+Amy Kruse: I know. I know. Yeah. So, yeah.
+
+679
+00:29:24,960 --> 00:29:26,400
+Somebody's gotta carry those Pelican cases.
+
+680
+00:29:26,420 --> 00:29:26,920
+[chuckles]
+
+681
+00:29:26,480 --> 00:29:29,720
+Keith Murphy: It, uh, so community, it, it behooves you.
+
+682
+00:29:30,320 --> 00:29:33,880
+Take a look around. But I think what you're both saying is there's a
+
+683
+00:29:33,940 --> 00:29:37,780
+million ways to take what you are passionate about and want to contribute to
+
+684
+00:29:37,820 --> 00:29:40,120
+get into the industry. Thanks to, to you both.
+
+685
+00:29:40,520 --> 00:29:43,040
+You know Elsa Fouragnan, who is a big-
+
+686
+00:29:43,600 --> 00:29:44,100
+Amy Kruse: Yes
+
+687
+00:29:43,620 --> 00:29:46,120
+Keith Murphy: ... player in our field and a, and a great friend of the show.
+
+688
+00:29:46,840 --> 00:29:48,660
+You funded her. You knew that, I guess.
+
+689
+00:29:48,820 --> 00:29:50,420
+I didn't know until she brought, she brought it up.
+
+690
+00:29:50,480 --> 00:29:54,140
+Amy Kruse: No, I didn't know until she told me that she was at that company
+
+691
+00:29:54,260 --> 00:29:54,820
+that had gotten DARPA funding.
+
+692
+00:29:54,840 --> 00:30:00,080
+Keith Murphy: You funded her to do AI and squirrel mind control to, to find and
+
+693
+00:30:00,400 --> 00:30:02,160
+catch bugs and acorns?
+
+694
+00:30:02,540 --> 00:30:03,040
+Amy Kruse: No.
+
+695
+00:30:02,600 --> 00:30:03,140
+Keith Murphy: Something like that?
+
+696
+00:30:03,320 --> 00:30:04,840
+Amy Kruse: No, it wasn't squirrel mind control.
+
+697
+00:30:05,020 --> 00:30:07,640
+Keith Murphy: No? [laughs] It was AI something.
+
+698
+00:30:08,000 --> 00:30:10,100
+Amy Kruse: It was EE, it was an EEG system.
+
+699
+00:30:10,580 --> 00:30:11,080
+It was EEG systems.
+
+700
+00:30:11,100 --> 00:30:15,120
+Keith Murphy: Oh, was it? No AI? 'Cause she was AI before AI was, was cool.
+
+701
+00:30:15,140 --> 00:30:16,980
+Amy Kruse: No, this is in the before-before times.
+
+702
+00:30:17,440 --> 00:30:18,680
+Keith Murphy: Before-before. What was it?
+
+703
+00:30:18,720 --> 00:30:19,220
+Amy Kruse: Yeah.
+
+704
+00:30:18,880 --> 00:30:19,620
+Keith Murphy: It was EEG what?
+
+705
+00:30:19,920 --> 00:30:23,940
+Amy Kruse: Yeah, it was like an EEG-- It was a portable EEG company, uh, focused
+
+706
+00:30:24,020 --> 00:30:29,440
+on- Some, you know, obviously at DARPA we were measuring a lot of, uh,
+
+707
+00:30:29,780 --> 00:30:32,320
+people's brain activity in real situations.
+
+708
+00:30:32,480 --> 00:30:36,560
+So, you know, getting out of the lab and out of the shielded room
+
+709
+00:30:36,660 --> 00:30:40,280
+and into, uh, actual sort of operational spaces.
+
+710
+00:30:40,320 --> 00:30:43,280
+And so one of the, the company that she was working with was actually
+
+711
+00:30:43,340 --> 00:30:47,000
+a company that had buil- built a very early version of a portable EEG
+
+712
+00:30:47,080 --> 00:30:48,840
+system that could be used-
+
+713
+00:30:48,880 --> 00:30:49,380
+Charles Caskey: Oh
+
+714
+00:30:48,900 --> 00:30:49,920
+Amy Kruse: ... for some of our training.
+
+715
+00:30:50,260 --> 00:30:51,140
+Yeah. Yeah.
+
+716
+00:30:51,280 --> 00:30:51,780
+Charles Caskey: Cool.
+
+717
+00:30:51,520 --> 00:30:54,040
+Amy Kruse: We, we did cool stuff. We, I still have-
+
+718
+00:30:54,060 --> 00:30:54,560
+Charles Caskey: Yeah, you did
+
+719
+00:30:54,340 --> 00:30:57,160
+Amy Kruse: ... you know, I, I have a, I have actually, occasionally somebody asks me
+
+720
+00:30:57,200 --> 00:31:00,040
+to give a talk on like what we did before, and you like pull
+
+721
+00:31:00,080 --> 00:31:01,740
+it out and you're like, "This is actually pretty cool."
+
+722
+00:31:01,940 --> 00:31:02,440
+[chuckles] You know?
+
+723
+00:31:02,780 --> 00:31:03,800
+Charles Caskey: Yeah. That's nice.
+
+724
+00:31:04,120 --> 00:31:06,120
+Amy Kruse: Like, yeah, that wasn't so bad, you know?
+
+725
+00:31:06,760 --> 00:31:07,260
+Um-
+
+726
+00:31:06,840 --> 00:31:10,060
+Charles Caskey: It's, it's so nice, yeah, like when the projects are done and you're like,
+
+727
+00:31:10,100 --> 00:31:11,880
+"Oh, that was actually like a contribution."
+
+728
+00:31:11,920 --> 00:31:12,420
+Amy Kruse: That was-
+
+729
+00:31:12,140 --> 00:31:12,700
+Charles Caskey: "That, that was legit."
+
+730
+00:31:12,700 --> 00:31:13,200
+Amy Kruse: That was cool. Yeah.
+
+731
+00:31:12,940 --> 00:31:13,760
+Charles Caskey: Yeah. [laughs]
+
+732
+00:31:13,780 --> 00:31:14,280
+Amy Kruse: Right.
+
+733
+00:31:14,020 --> 00:31:14,600
+Charles Caskey: Nailed that one.
+
+734
+00:31:14,860 --> 00:31:15,360
+Amy Kruse: Yeah. Well, it's-
+
+735
+00:31:15,040 --> 00:31:18,920
+Charles Caskey: Can we dig deeper on this topic of, of, of, of, of startups and,
+
+736
+00:31:19,000 --> 00:31:19,500
+and stuff?
+
+737
+00:31:19,820 --> 00:31:20,320
+Amy Kruse: Yeah.
+
+738
+00:31:19,840 --> 00:31:21,140
+Charles Caskey: Or go... Oh, sorry, go ahead, Amy.
+
+739
+00:31:21,260 --> 00:31:21,760
+Are you, are you working on that?
+
+740
+00:31:21,380 --> 00:31:24,120
+Amy Kruse: No, no, no. I was just gonna say like, for example, back, back to
+
+741
+00:31:24,160 --> 00:31:27,960
+the Flow Neuroscience question, comment that we were talking about before with tDCS.
+
+742
+00:31:28,400 --> 00:31:33,220
+My program at DARPA, Accelerated Learning, was the first program to use tDCS to
+
+743
+00:31:33,280 --> 00:31:37,640
+enhance human performance and decision-making in, in sort of that context.
+
+744
+00:31:37,940 --> 00:31:41,620
+And so- Cool ... so later when people would buy like tDCS systems like
+
+745
+00:31:41,680 --> 00:31:45,380
+off Amazon, you know, and they'd go online, there'd be like the DARPA montage.
+
+746
+00:31:45,500 --> 00:31:46,460
+You know, like arrange-
+
+747
+00:31:46,460 --> 00:31:46,960
+Charles Caskey: Oh, okay
+
+748
+00:31:46,480 --> 00:31:49,560
+Amy Kruse: ... your electrodes this way for like [chuckles] the DARPA effect.
+
+749
+00:31:49,600 --> 00:31:51,360
+Charles Caskey: It's like a seed that germinated and continued.
+
+750
+00:31:51,400 --> 00:31:52,440
+Amy Kruse: Yeah, I know. And I was like-
+
+751
+00:31:52,580 --> 00:31:53,080
+Charles Caskey: Yeah. Yeah
+
+752
+00:31:52,860 --> 00:31:53,480
+Amy Kruse: ... yeah, but it was like-
+
+753
+00:31:53,640 --> 00:31:54,540
+Charles Caskey: You're like, "I was part of that."
+
+754
+00:31:54,600 --> 00:31:55,780
+Amy Kruse: The DARPA effect, you know?
+
+755
+00:31:56,280 --> 00:31:58,080
+Charles Caskey: Yeah. No, it's, it made a wave, you know?
+
+756
+00:31:58,140 --> 00:31:59,480
+Right. And, and it kept, kept going.
+
+757
+00:31:59,540 --> 00:32:00,040
+That's cool.
+
+758
+00:32:00,220 --> 00:32:00,720
+Amy Kruse: Right.
+
+759
+00:32:00,540 --> 00:32:05,120
+Charles Caskey: On this, on this topic, it seems like we're, we're talking about people that
+
+760
+00:32:06,120 --> 00:32:09,780
+go towards startup, and you said the idea of like exploring the landscape being
+
+761
+00:32:10,180 --> 00:32:12,360
+one characteristic or something you really look for.
+
+762
+00:32:12,940 --> 00:32:17,260
+I guess I was wondering, um, i- in, in finding people that are gonna
+
+763
+00:32:17,300 --> 00:32:21,880
+be leaders of startups, I was wondering what characteristics beyond that, like is, is
+
+764
+00:32:21,920 --> 00:32:25,560
+it like self-awareness? Are there traits that are red flags?
+
+765
+00:32:25,620 --> 00:32:29,280
+Are there where you're like, "This isn't the type of person," um, and you
+
+766
+00:32:29,320 --> 00:32:30,880
+know, uh, that, that should be doing this?
+
+767
+00:32:30,920 --> 00:32:33,620
+Like even if the science is great, like there, are there, are there places
+
+768
+00:32:33,680 --> 00:32:36,340
+where you're like, you know, full green light or are there places where you
+
+769
+00:32:36,360 --> 00:32:37,160
+kind of hesitate?
+
+770
+00:32:37,820 --> 00:32:44,820
+Amy Kruse: Yeah. No, I mean, not, not everyone, uh, certainly has the desire
+
+771
+00:32:44,860 --> 00:32:47,700
+or capacity, right, to be a founder.
+
+772
+00:32:47,800 --> 00:32:49,280
+Like it's a really hard job.
+
+773
+00:32:49,280 --> 00:32:50,220
+[laughs]
+
+774
+00:32:50,240 --> 00:32:50,740
+Charles Caskey: Mm-hmm.
+
+775
+00:32:50,740 --> 00:32:52,960
+Amy Kruse: It's a, it's a really hard job, right?
+
+776
+00:32:53,180 --> 00:32:58,380
+And so, you know, um, definitely look for people that have that sort of
+
+777
+00:32:58,440 --> 00:33:03,120
+self-awareness, uh, and understanding of what they're good at and what they're not good
+
+778
+00:33:03,220 --> 00:33:03,780
+at. Because-
+
+779
+00:33:04,020 --> 00:33:04,520
+Charles Caskey: Mm
+
+780
+00:33:04,220 --> 00:33:09,920
+Amy Kruse: ... the, especially in the earliest stages, right, a founder is really assembling a
+
+781
+00:33:10,000 --> 00:33:14,860
+team, and at the earliest stages, an investor is investing in that team.
+
+782
+00:33:15,000 --> 00:33:20,700
+There's usually some bright idea, some great idea, right, and the team, right?
+
+783
+00:33:20,760 --> 00:33:21,260
+Charles Caskey: Mm-hmm.
+
+784
+00:33:20,940 --> 00:33:25,200
+Amy Kruse: And so, you know, is the founder self-aware to know what they know, what
+
+785
+00:33:25,220 --> 00:33:28,480
+they don't know, you know, how they're gonna solve that problem?
+
+786
+00:33:28,660 --> 00:33:32,820
+Do they, you know, are they motivated but need additional technical support?
+
+787
+00:33:32,940 --> 00:33:36,820
+Are they motivated but not, maybe not as comfortable on the business side?
+
+788
+00:33:36,880 --> 00:33:40,320
+And so, you know, I mean, I've, I've, I've heard-- You know, I've had
+
+789
+00:33:40,340 --> 00:33:42,020
+people come to me and they're like, "Do you think I should get an
+
+790
+00:33:42,140 --> 00:33:44,560
+MBA?" I was like, "Get an MBA just to do that thing?"
+
+791
+00:33:44,660 --> 00:33:47,740
+Like, no, there's people. [both laugh] Like, you know, you get a co-founder who like,
+
+792
+00:33:47,820 --> 00:33:48,860
+you know... But you know what I mean?
+
+793
+00:33:48,900 --> 00:33:53,080
+Like there, sometimes there's an assumption that like you have to have every single
+
+794
+00:33:53,240 --> 00:33:54,840
+skill set like in your-
+
+795
+00:33:54,860 --> 00:33:55,360
+Charles Caskey: Mm-hmm
+
+796
+00:33:54,980 --> 00:34:00,980
+Amy Kruse: ... own person, and I think that it's really the motivation to take this,
+
+797
+00:34:01,740 --> 00:34:06,280
+whatever it is, out into the world and move it forward in a way
+
+798
+00:34:06,340 --> 00:34:10,280
+that, um, you know, that, that moves at speed, right?
+
+799
+00:34:10,340 --> 00:34:10,840
+Charles Caskey: Mm-hmm.
+
+800
+00:34:10,520 --> 00:34:14,600
+Amy Kruse: So if you a- ask me like another, another trait is, is there's a
+
+801
+00:34:15,000 --> 00:34:17,360
+healthy amount of impatience, right-
+
+802
+00:34:17,480 --> 00:34:17,980
+Charles Caskey: Mm
+
+803
+00:34:17,520 --> 00:34:19,960
+Amy Kruse: ... that a founder has, right?
+
+804
+00:34:20,060 --> 00:34:20,560
+Like they-
+
+805
+00:34:20,340 --> 00:34:20,840
+Charles Caskey: Yep
+
+806
+00:34:20,440 --> 00:34:23,500
+Amy Kruse: ... they, you know, you can't just say, "No, I'll get to it tomorrow,"
+
+807
+00:34:23,580 --> 00:34:24,920
+or like, "Oh, it'll happen later."
+
+808
+00:34:25,000 --> 00:34:25,500
+Charles Caskey: Yeah.
+
+809
+00:34:25,380 --> 00:34:29,260
+Amy Kruse: Or like there's just this like relentless, you know, kind of like, "No, this
+
+810
+00:34:29,320 --> 00:34:31,640
+has to happen," and okay, that doesn't work.
+
+811
+00:34:31,680 --> 00:34:34,760
+Like you've, you've heard of the, the, you know, the phrase about pivoting, companies
+
+812
+00:34:34,840 --> 00:34:35,620
+pivoting, right? Like-
+
+813
+00:34:35,860 --> 00:34:36,360
+Charles Caskey: Yeah
+
+814
+00:34:35,920 --> 00:34:39,520
+Amy Kruse: ... how quickly do you respond or react to, you know, what's happening in
+
+815
+00:34:39,560 --> 00:34:42,280
+the, in the world and in the environment and in the feedback that you're
+
+816
+00:34:42,320 --> 00:34:45,760
+getting. Um, and so, you know, the other thing is just, you know, and
+
+817
+00:34:45,880 --> 00:34:50,720
+I, I say this as someone who, who works with a lot of CEOs
+
+818
+00:34:50,740 --> 00:34:53,780
+and founders and, and I love that work, right?
+
+819
+00:34:54,020 --> 00:34:54,520
+Charles Caskey: Mm-hmm.
+
+820
+00:34:54,240 --> 00:34:59,500
+Amy Kruse: It is, is the topic of sort of coachability and the ability to have
+
+821
+00:34:59,540 --> 00:35:03,940
+conversations around what's working or what's not or taking feedback-
+
+822
+00:35:04,320 --> 00:35:05,040
+Charles Caskey: Mm-hmm
+
+823
+00:35:05,040 --> 00:35:07,940
+Amy Kruse: ... um, whether that's from your investors that you trust or whether that's from
+
+824
+00:35:08,360 --> 00:35:11,640
+other CEOs that you might be in a, you know, kind of in a,
+
+825
+00:35:11,920 --> 00:35:14,700
+a, you know, sort of a peer relationship with.
+
+826
+00:35:14,780 --> 00:35:15,300
+You know, I think-
+
+827
+00:35:15,340 --> 00:35:15,840
+Charles Caskey: Mm-hmm
+
+828
+00:35:15,360 --> 00:35:21,000
+Amy Kruse: ... taking feedback and, you know, integrating it and listening and learning is really,
+
+829
+00:35:21,480 --> 00:35:25,740
+uh, really a, a, a fundamental skill set, I think, for a, for a
+
+830
+00:35:25,840 --> 00:35:29,800
+great, a great founder. Um, and then of course, you know, like you say,
+
+831
+00:35:29,860 --> 00:35:34,260
+there's the, there's the science, there's the technical acumen, there's whatever they're sort of
+
+832
+00:35:34,300 --> 00:35:37,940
+bringing to the table that's usually less of an issue, right-
+
+833
+00:35:37,960 --> 00:35:38,460
+Charles Caskey: Mm-hmm
+
+834
+00:35:38,000 --> 00:35:41,820
+Amy Kruse: ... than some- sometimes more of the, uh, interpersonal-
+
+835
+00:35:42,440 --> 00:35:42,940
+Charles Caskey: Yeah
+
+836
+00:35:42,600 --> 00:35:44,540
+Amy Kruse: ... uh, issues that, that founders face.
+
+837
+00:35:44,600 --> 00:35:45,400
+'Cause it is a-
+
+838
+00:35:45,540 --> 00:35:46,040
+Charles Caskey: I, I-
+
+839
+00:35:45,580 --> 00:35:47,240
+Amy Kruse: It is a- Yeah ... challenging job, for sure.
+
+840
+00:35:47,480 --> 00:35:52,060
+Charles Caskey: I love the response. So we basically, we have kind of like self-awareness on
+
+841
+00:35:52,560 --> 00:35:56,820
+skills and traits, uh, coachability. That, that's a, that's a really good one, like
+
+842
+00:35:56,860 --> 00:36:02,500
+being open to hearing people. It, it sometimes, uh, for y- people are really
+
+843
+00:36:02,540 --> 00:36:05,180
+confident in their own skills, that can be tough.
+
+844
+00:36:05,380 --> 00:36:08,130
+Uh, and- Oh, oh, and, uh, healthy impatience.
+
+845
+00:36:08,210 --> 00:36:08,710
+Amy Kruse: Right.
+
+846
+00:36:08,290 --> 00:36:10,530
+Charles Caskey: I, I like the, I like that phrase, a healthy impatience.
+
+847
+00:36:10,650 --> 00:36:11,150
+Amy Kruse: Yeah.
+
+848
+00:36:10,690 --> 00:36:11,730
+Keith Murphy: Healthy impatience.
+
+849
+00:36:11,790 --> 00:36:12,290
+Amy Kruse: Healthy impatience.
+
+850
+00:36:12,090 --> 00:36:12,750
+Keith Murphy: That's cool.
+
+851
+00:36:13,270 --> 00:36:15,190
+Charles Caskey: Yeah. Well, 'cause you're just like, "Ah, this doesn't work.
+
+852
+00:36:15,270 --> 00:36:16,650
+We, we need to make it work."
+
+853
+00:36:16,850 --> 00:36:19,250
+Like, and not like, "Ah, this will eventually get solved."
+
+854
+00:36:19,250 --> 00:36:20,670
+Amy Kruse: Right. You're solution-seeking, right?
+
+855
+00:36:20,710 --> 00:36:21,210
+Charles Caskey: Yeah.
+
+856
+00:36:20,730 --> 00:36:22,590
+Amy Kruse: You're a solution-seeking type of-
+
+857
+00:36:22,630 --> 00:36:23,130
+Charles Caskey: Mm-hmm
+
+858
+00:36:22,750 --> 00:36:25,830
+Amy Kruse: ... type of person. You have that healthy impatience, where like, "Oh, that's not
+
+859
+00:36:25,870 --> 00:36:27,030
+working. Why is that not working?"
+
+860
+00:36:27,550 --> 00:36:28,050
+You know?
+
+861
+00:36:27,830 --> 00:36:28,330
+Charles Caskey: Yeah.
+
+862
+00:36:28,270 --> 00:36:31,650
+Keith Murphy: When I, uh, when I-- I love that you're saying that, Amy, and that
+
+863
+00:36:31,750 --> 00:36:32,770
+you picked up on it, Charles.
+
+864
+00:36:32,870 --> 00:36:36,410
+When I mentor, it's a weird thing that I teach a lot when I'm
+
+865
+00:36:36,450 --> 00:36:42,770
+mentoring young people. I'm like, "Your greatest asset in your PhD is total impatience,
+
+866
+00:36:42,870 --> 00:36:47,050
+not reckless, but total impatience." And if somebody doesn't answer an email, they have
+
+867
+00:36:47,090 --> 00:36:49,690
+plausible deniability. "I had a really big inbox.
+
+868
+00:36:49,750 --> 00:36:50,690
+I didn't see it," blah, blah, blah.
+
+869
+00:36:50,750 --> 00:36:53,070
+I'm like, you go show up and you knock on their door.
+
+870
+00:36:53,730 --> 00:36:56,570
+For one, it's hard to decline somebody who's like sitting in front of you
+
+871
+00:36:56,610 --> 00:37:00,490
+having a conversation, but then they, they sort of start to develop a relationship
+
+872
+00:37:00,530 --> 00:37:05,130
+and rejection becomes more visceral. It's so easy to reject over email.
+
+873
+00:37:05,210 --> 00:37:06,150
+You don't even have to answer.
+
+874
+00:37:06,650 --> 00:37:10,330
+Like that's why LinkedIn and all these AI companies that are messaging about every
+
+875
+00:37:10,410 --> 00:37:14,510
+single product, I think they're going up in flames because there's just no way
+
+876
+00:37:14,550 --> 00:37:16,750
+to access people remotely anymore.
+
+877
+00:37:17,070 --> 00:37:17,570
+Amy Kruse: Yeah.
+
+878
+00:37:17,090 --> 00:37:18,230
+Keith Murphy: I'm going a little tangential here-
+
+879
+00:37:18,250 --> 00:37:19,630
+Amy Kruse: No, no, no. It's, you're, you're actually-
+
+880
+00:37:19,630 --> 00:37:20,510
+Keith Murphy: ... but Amy, I, I totally resonate with what you're saying
+
+881
+00:37:20,510 --> 00:37:23,830
+Amy Kruse: ... you're actually bringing up a really interesting point and, you know, it, it
+
+882
+00:37:23,870 --> 00:37:28,430
+was, it was a very interesting experience for me because I started investing during
+
+883
+00:37:28,490 --> 00:37:29,830
+COVID, right?
+
+884
+00:37:29,890 --> 00:37:30,410
+Keith Murphy: Oh my God.
+
+885
+00:37:30,510 --> 00:37:31,010
+Charles Caskey: Mm-hmm.
+
+886
+00:37:30,590 --> 00:37:31,090
+Keith Murphy: That must've been hard. Yeah.
+
+887
+00:37:30,810 --> 00:37:36,910
+Amy Kruse: So I literally started investing during COVID and, you know, w- was not
+
+888
+00:37:36,930 --> 00:37:42,030
+really able to meet founders and people in person, you know, spend the type
+
+889
+00:37:42,090 --> 00:37:46,350
+of time with them that you might, you know, uh, under normal circumstances.
+
+890
+00:37:46,570 --> 00:37:47,530
+It did two things.
+
+891
+00:37:47,670 --> 00:37:48,170
+Keith Murphy: Yeah.
+
+892
+00:37:47,710 --> 00:37:52,230
+Amy Kruse: So first of all, it broke down what I would've, what I would call
+
+893
+00:37:52,250 --> 00:37:54,550
+like the geographic barriers. So there was a very-
+
+894
+00:37:54,610 --> 00:37:55,110
+Keith Murphy: Hmm
+
+895
+00:37:54,690 --> 00:38:00,210
+Amy Kruse: ... dominant sort of Silicon Valley energy to, to startups sort of prior to
+
+896
+00:38:00,250 --> 00:38:02,670
+that point, like you had to move to Silicon Valley to be a successful
+
+897
+00:38:02,750 --> 00:38:06,250
+startup. I think, I think COVID broke that, right?
+
+898
+00:38:06,330 --> 00:38:06,830
+Keith Murphy: Mm-hmm.
+
+899
+00:38:06,730 --> 00:38:12,550
+Amy Kruse: Which was great, right? I have companies and founders all over the country, but-
+
+900
+00:38:12,750 --> 00:38:13,250
+Keith Murphy: Mm-hmm
+
+901
+00:38:12,970 --> 00:38:17,090
+Amy Kruse: ... what a challenge was, was that we got out of the habit of
+
+902
+00:38:17,530 --> 00:38:21,630
+sort of seeing each other and communicating with each other in person and meeting
+
+903
+00:38:21,670 --> 00:38:25,810
+in person to really, you know, Charles, to your point, like what do you
+
+904
+00:38:25,850 --> 00:38:29,670
+look for in a founder? Like there's a difference between sitting in front of
+
+905
+00:38:29,730 --> 00:38:33,930
+a founder and seeing the fire in their eyes and going like- Yeah ...
+
+906
+00:38:33,950 --> 00:38:37,430
+"Oh, okay. You've got, you've got the thing," right?
+
+907
+00:38:37,570 --> 00:38:38,390
+That it just doesn't-
+
+908
+00:38:38,430 --> 00:38:38,930
+Keith Murphy: Mm-hmm
+
+909
+00:38:38,670 --> 00:38:42,910
+Amy Kruse: ... like it, that really doesn't necessarily come through in Zoom, and so-
+
+910
+00:38:43,090 --> 00:38:43,590
+Charles Caskey: Yeah
+
+911
+00:38:43,250 --> 00:38:45,570
+Amy Kruse: ... you know, it's funny because people are like, "Oh, Amy, you're always on
+
+912
+00:38:45,610 --> 00:38:47,630
+the road. You're everywhere. Blah, blah, blah."
+
+913
+00:38:47,670 --> 00:38:49,450
+[laughs] You know, it's like, I was like, "Well, how do you think I'm
+
+914
+00:38:49,490 --> 00:38:51,570
+gonna meet people?" You know? Like [chuckles] you know?
+
+915
+00:38:51,670 --> 00:38:52,170
+Charles Caskey: Yeah. Yeah.
+
+916
+00:38:52,170 --> 00:38:56,050
+Amy Kruse: You know, um, so I, but I do think that, that there's a value
+
+917
+00:38:56,130 --> 00:39:00,990
+to, you know, spending time with founders in person and for founders like, you
+
+918
+00:39:01,030 --> 00:39:03,630
+know, Keith, what it made me think of what you said like knock on
+
+919
+00:39:03,670 --> 00:39:07,430
+somebody's door, I'd be like, yeah, you know, like it is, "Hey, can I
+
+920
+00:39:07,470 --> 00:39:09,990
+see you at this meeting?" Or, "Do you have time to, to sit down
+
+921
+00:39:10,030 --> 00:39:11,730
+and chat?" Or, "Can we make a..."
+
+922
+00:39:11,830 --> 00:39:13,610
+You know, "I know we're gonna be at the same conference.
+
+923
+00:39:13,690 --> 00:39:17,210
+Can we have 15 minutes?" You know, like there are, there are definitely asks
+
+924
+00:39:17,250 --> 00:39:19,510
+that people can make to get a little bit of face time that I
+
+925
+00:39:19,550 --> 00:39:23,870
+think are worth it because back to being human, we are-
+
+926
+00:39:23,890 --> 00:39:24,390
+Charles Caskey: Yeah
+
+927
+00:39:24,130 --> 00:39:24,830
+Amy Kruse: ... human. [laughs]
+
+928
+00:39:24,870 --> 00:39:25,370
+Keith Murphy: Yeah.
+
+929
+00:39:25,370 --> 00:39:27,310
+Charles Caskey: Well, yeah. I, I, I love-
+
+930
+00:39:27,490 --> 00:39:27,990
+Keith Murphy: Amazing. [laughs]
+
+931
+00:39:27,510 --> 00:39:31,370
+Charles Caskey: ... you know, have observed exactly what you talked about through like the restrictions
+
+932
+00:39:31,410 --> 00:39:32,710
+and stuff we went through with COVID.
+
+933
+00:39:32,770 --> 00:39:38,930
+It strengthened our ability g- geographically, but it, it reduced that, the, um, that
+
+934
+00:39:39,050 --> 00:39:43,250
+in-person component. And I, I, and, and you know, the in-person, it starts to
+
+935
+00:39:43,350 --> 00:39:46,550
+seem inconvenient. And a statement I saw a few weeks ago, I don't know,
+
+936
+00:39:46,650 --> 00:39:49,150
+probably on Reddit or floating around online, is like the, I think it was
+
+937
+00:39:49,210 --> 00:39:54,210
+something like the price or inconvenience is the price of community or it's like
+
+938
+00:39:54,250 --> 00:39:54,750
+that-
+
+939
+00:39:54,390 --> 00:39:54,890
+Amy Kruse: Hmm.
+
+940
+00:39:54,410 --> 00:39:55,130
+Charles Caskey: Wow ... that you have to-
+
+941
+00:39:55,190 --> 00:39:55,690
+Keith Murphy: Wow. Yeah
+
+942
+00:39:55,410 --> 00:39:58,670
+Charles Caskey: ... if you're like, you find yourself like running, like you say, you travel
+
+943
+00:39:58,730 --> 00:40:01,870
+a lot or you do this or that, like there was a time in,
+
+944
+00:40:02,510 --> 00:40:05,430
+in COVID or, you know, while we were really not able to travel as
+
+945
+00:40:05,490 --> 00:40:07,350
+much where I was k- I was kinda like, "I don't know how much
+
+946
+00:40:07,410 --> 00:40:08,950
+I'll even really go to conferences again."
+
+947
+00:40:09,270 --> 00:40:11,450
+But then I like lived through a year of that and I was like,
+
+948
+00:40:11,570 --> 00:40:12,730
+I was like, "No. Oh gosh-"
+
+949
+00:40:12,730 --> 00:40:13,230
+Amy Kruse: Oh my God
+
+950
+00:40:12,970 --> 00:40:14,570
+Charles Caskey: ... "no, I have to see these people."
+
+951
+00:40:14,830 --> 00:40:15,650
+Yeah, I have to see people face to face.
+
+952
+00:40:15,690 --> 00:40:18,990
+Amy Kruse: The, the, the words virtual conference strike fear- Oh ...
+
+953
+00:40:19,030 --> 00:40:20,690
+into my heart. Yeah. [laughs]
+
+954
+00:40:20,710 --> 00:40:24,790
+Charles Caskey: Yeah. Yeah, exactly. I was like, "Oh no, the, the whole mesh is just
+
+955
+00:40:24,810 --> 00:40:26,610
+gonna like completely evaporate if we-"
+
+956
+00:40:26,610 --> 00:40:27,190
+Amy Kruse: Not a virtual conference.
+
+957
+00:40:27,310 --> 00:40:27,810
+Charles Caskey: Yeah.
+
+958
+00:40:27,490 --> 00:40:27,990
+Amy Kruse: Yeah.
+
+959
+00:40:27,850 --> 00:40:32,570
+Charles Caskey: Yeah. [chuckles] So, um, no, I totally, uh, yeah, l- love hearing how that,
+
+960
+00:40:32,890 --> 00:40:37,310
+you know, affects the, the founder, uh, and the capital, you know, VC investment,
+
+961
+00:40:37,510 --> 00:40:39,510
+um, the philosophy as well.
+
+962
+00:40:39,570 --> 00:40:41,950
+Amy Kruse: Yeah. Yeah, yeah, yeah. Yeah. It's been really-
+
+963
+00:40:41,970 --> 00:40:42,470
+Charles Caskey: Is, is, um-
+
+964
+00:40:42,170 --> 00:40:44,630
+Amy Kruse: ... it's been really interesting to see how it's all evolved, you know?
+
+965
+00:40:45,290 --> 00:40:45,790
+Charles Caskey: Mm-hmm.
+
+966
+00:40:46,290 --> 00:40:52,570
+Keith Murphy: S- speaking of evolution, have you seen a big shift away from
+
+967
+00:40:52,750 --> 00:41:00,350
+software-only companies yet? I'm really blown away by, I
+
+968
+00:41:00,390 --> 00:41:05,350
+guess, how much, how much these agentic AIs can actually complete viable work that
+
+969
+00:41:05,390 --> 00:41:11,210
+passes all quality tests, and now software-only companies feel like there's this, there's this
+
+970
+00:41:11,250 --> 00:41:16,010
+very famous sort of article that I think said every time ChatGPT comes out
+
+971
+00:41:16,050 --> 00:41:19,110
+with a new release or Anthropic, you know, 100 companies die.
+
+972
+00:41:19,810 --> 00:41:22,370
+Do you feel like that may happen in the neuro space, and are you
+
+973
+00:41:22,430 --> 00:41:24,470
+now looking for hardware-centric companies?
+
+974
+00:41:24,830 --> 00:41:29,970
+Amy Kruse: Um, so I was, I was not really a software-centric investor-
+
+975
+00:41:30,090 --> 00:41:31,030
+Keith Murphy: Y- never have been
+
+976
+00:41:31,110 --> 00:41:31,610
+Amy Kruse: ... previously.
+
+977
+00:41:31,550 --> 00:41:33,150
+Keith Murphy: Right So you've just always been ahead of the [laughs]
+
+978
+00:41:33,210 --> 00:41:35,890
+Amy Kruse: Well, no, I mean, I, I mean, I, I guess there's, there are probably
+
+979
+00:41:35,930 --> 00:41:39,590
+things somebody ac- act- I, uh, one of the companies in my portfolio, somebody
+
+980
+00:41:39,690 --> 00:41:43,590
+said like, "Oh, we don't invest in software-only companies," and I was like Well,
+
+981
+00:41:43,630 --> 00:41:47,270
+there's a human, like [chuckles] it's like just a, there's a human in the
+
+982
+00:41:47,350 --> 00:41:50,410
+loop, you know? Like it's not just a software, you know.
+
+983
+00:41:50,990 --> 00:41:51,490
+Charles Caskey: Yeah.
+
+984
+00:41:51,010 --> 00:41:54,010
+Amy Kruse: You know, so to me, like I, I guess I think about, you know,
+
+985
+00:41:54,150 --> 00:41:56,790
+software-only companies a little bit, a little bit differently.
+
+986
+00:41:56,870 --> 00:42:00,970
+But I, I typically don't invest in software-only companies.
+
+987
+00:42:01,070 --> 00:42:05,490
+They, they always have-- even if it's a services company, there's still a human
+
+988
+00:42:05,530 --> 00:42:07,050
+in the loop or a-
+
+989
+00:42:07,050 --> 00:42:07,550
+Charles Caskey: Mm-hmm
+
+990
+00:42:07,290 --> 00:42:09,030
+Amy Kruse: ... human, human component to that.
+
+991
+00:42:09,570 --> 00:42:13,630
+Um, somebody asked a provocative question the other night around, uh, uh, I was
+
+992
+00:42:13,670 --> 00:42:17,210
+at the One Mind Accelerator kickoff, and somebody asked, you know, in, in 2030,
+
+993
+00:42:17,290 --> 00:42:22,270
+are all, for mild, uh, cases of, of depression and anxiety, are all therapists
+
+994
+00:42:22,290 --> 00:42:24,690
+gonna be AI therapists or something like that, you know?
+
+995
+00:42:24,730 --> 00:42:27,390
+And I'm-- I don't, I don't think we're moving that way.
+
+996
+00:42:27,610 --> 00:42:31,310
+I think, I think we may be in a phase, you know, but I
+
+997
+00:42:31,350 --> 00:42:34,610
+think we're still, I think we're still gonna live in a world, you know,
+
+998
+00:42:35,070 --> 00:42:38,910
+Charles, based on, on the comment that you made, like inconvenience is the [chuckles]
+
+999
+00:42:38,950 --> 00:42:40,370
+price for, for community.
+
+1000
+00:42:40,370 --> 00:42:40,870
+Charles Caskey: Yeah.
+
+1001
+00:42:40,470 --> 00:42:47,170
+Amy Kruse: Like I do think that there's something really fundamental about human connection that, um,
+
+1002
+00:42:47,770 --> 00:42:51,930
+may be something that, you know, there's a resurgence of as we go through
+
+1003
+00:42:51,990 --> 00:42:55,030
+this sort of tumultuous AI agent phase.
+
+1004
+00:42:56,030 --> 00:42:58,890
+Charles Caskey: Oh, yeah. Like we might have to experience what it's like to not have
+
+1005
+00:42:58,950 --> 00:43:00,830
+it to be like, "Wait, we're missing something here."
+
+1006
+00:43:00,830 --> 00:43:01,370
+Amy Kruse: Yeah, yeah. Actually-
+
+1007
+00:43:01,370 --> 00:43:02,150
+Charles Caskey: "And we really need to bring this back."
+
+1008
+00:43:02,150 --> 00:43:03,390
+Amy Kruse: ... I want that back, you know?
+
+1009
+00:43:03,510 --> 00:43:04,010
+Charles Caskey: Yeah, yeah.
+
+1010
+00:43:04,030 --> 00:43:04,530
+Keith Murphy: Yeah.
+
+1011
+00:43:04,350 --> 00:43:06,050
+Amy Kruse: Um, as we did after COVID, right?
+
+1012
+00:43:06,090 --> 00:43:07,750
+And you're like- Yeah ... "Maybe I'll never go to a conference again."
+
+1013
+00:43:07,770 --> 00:43:08,270
+And you're like-
+
+1014
+00:43:08,270 --> 00:43:08,770
+Charles Caskey: Yeah
+
+1015
+00:43:08,290 --> 00:43:09,030
+Amy Kruse: ... "Oh my God."
+
+1016
+00:43:09,550 --> 00:43:10,210
+Charles Caskey: Yeah, like this is never-
+
+1017
+00:43:10,250 --> 00:43:11,110
+Amy Kruse: Get me out of here, you know?
+
+1018
+00:43:11,270 --> 00:43:11,770
+Like, yeah.
+
+1019
+00:43:11,610 --> 00:43:12,110
+Charles Caskey: Yeah.
+
+1020
+00:43:11,710 --> 00:43:13,650
+Amy Kruse: Like get me out of this Zoom hole that I'm in, right?
+
+1021
+00:43:13,750 --> 00:43:14,250
+Yeah, so.
+
+1022
+00:43:14,470 --> 00:43:14,970
+Charles Caskey: Yeah.
+
+1023
+00:43:15,070 --> 00:43:15,570
+Amy Kruse: Um-
+
+1024
+00:43:15,690 --> 00:43:18,830
+Keith Murphy: I think, I think at this point there's enough evidence out there to suggest
+
+1025
+00:43:18,890 --> 00:43:23,450
+that people interacting with computers, even if there's a screen with a picture on
+
+1026
+00:43:23,510 --> 00:43:25,610
+it, is really bad for mental health.
+
+1027
+00:43:26,710 --> 00:43:30,650
+So maybe these-- Yeah, maybe these companies are in trouble.
+
+1028
+00:43:31,690 --> 00:43:34,890
+Charles Caskey: I, I just got scared thinking of the amount of time that I stare
+
+1029
+00:43:34,910 --> 00:43:35,990
+at screens. [chuckles]
+
+1030
+00:43:36,050 --> 00:43:37,350
+Keith Murphy: I know. It's not good.
+
+1031
+00:43:37,490 --> 00:43:37,990
+Amy Kruse: Yeah. I could use some intervention.
+
+1032
+00:43:37,550 --> 00:43:39,090
+Keith Murphy: I think the evidence is there that it is not good.
+
+1033
+00:43:39,130 --> 00:43:39,990
+Charles Caskey: Pointing at your phone.
+
+1034
+00:43:40,110 --> 00:43:43,330
+Amy Kruse: Right. Yeah. This is the instrument of doom, you know?
+
+1035
+00:43:43,350 --> 00:43:43,910
+Keith Murphy: The devil.
+
+1036
+00:43:44,610 --> 00:43:50,110
+Charles Caskey: Yeah. It, it's just-- Well, you know, it-- Everywhere you go now, I mean,
+
+1037
+00:43:50,190 --> 00:43:53,530
+and, and this isn't anything profound or new, it's just the-- But if y-
+
+1038
+00:43:54,210 --> 00:43:59,950
+15 years ago, people weren't literally always like consulting their phone for stuff.
+
+1039
+00:43:59,990 --> 00:44:05,390
+Like I, I oftentimes even, I don't know, driving around Nashville, like I sometimes
+
+1040
+00:44:05,430 --> 00:44:07,050
+I'm like, "Oh no, don't put something in the maps."
+
+1041
+00:44:07,130 --> 00:44:08,270
+Like you should remember how to like-
+
+1042
+00:44:08,370 --> 00:44:08,870
+Keith Murphy: I know
+
+1043
+00:44:08,590 --> 00:44:09,970
+Charles Caskey: ... the exits that you need or get-
+
+1044
+00:44:09,990 --> 00:44:10,490
+Keith Murphy: God
+
+1045
+00:44:10,130 --> 00:44:11,590
+Charles Caskey: ... go north, south, east, and west.
+
+1046
+00:44:11,670 --> 00:44:14,550
+Amy Kruse: Well, I'm, I'm very lucky. I'm married to a cartographer.
+
+1047
+00:44:14,630 --> 00:44:15,750
+He makes maps for a living.
+
+1048
+00:44:15,770 --> 00:44:16,270
+[chuckles]
+
+1049
+00:44:15,930 --> 00:44:16,430
+Charles Caskey: Nice.
+
+1050
+00:44:16,410 --> 00:44:20,550
+Amy Kruse: And so we always travel with hard copy, as he calls it.
+
+1051
+00:44:20,710 --> 00:44:21,610
+Hard, hard copy.
+
+1052
+00:44:21,630 --> 00:44:22,390
+Keith Murphy: Is that, is that right, Amy?
+
+1053
+00:44:22,690 --> 00:44:24,190
+Amy Kruse: Yeah. We al- we always have an ac-
+
+1054
+00:44:24,190 --> 00:44:25,630
+Keith Murphy: He rolls out the map on the dashboard
+
+1055
+00:44:25,670 --> 00:44:26,370
+Amy Kruse: ... actual map.
+
+1056
+00:44:26,890 --> 00:44:28,390
+Charles Caskey: Yeah. Dude, this-- Yeah.
+
+1057
+00:44:28,430 --> 00:44:32,250
+Amy Kruse: And, you know, and so like, he's like, you know, he looks at me
+
+1058
+00:44:32,270 --> 00:44:35,830
+and he's like, "You know, Google Maps can be wrong," you know?
+
+1059
+00:44:35,890 --> 00:44:36,390
+[laughing] [laughs]
+
+1060
+00:44:36,270 --> 00:44:36,790
+Keith Murphy: That's so right.
+
+1061
+00:44:37,510 --> 00:44:39,670
+Amy Kruse: I'm like, "I know, dear, but I don't have the map."
+
+1062
+00:44:39,830 --> 00:44:40,870
+Keith Murphy: I've never had anyone say that.
+
+1063
+00:44:40,870 --> 00:44:41,630
+Amy Kruse: You know? Like, but I do-
+
+1064
+00:44:41,790 --> 00:44:42,290
+Keith Murphy: I love it.
+
+1065
+00:44:41,970 --> 00:44:46,170
+Amy Kruse: You know, it's funny because there was a study when, uh, the navigation systems
+
+1066
+00:44:46,230 --> 00:44:49,790
+first came out that I believe they did, it was a cognitive neuroscience study
+
+1067
+00:44:49,810 --> 00:44:54,770
+where they showed that your frontal, essentially your frontal navigation systems were completely disengaged-
+
+1068
+00:44:54,770 --> 00:44:55,510
+[chuckles]
+
+1069
+00:44:55,590 --> 00:44:56,090
+Charles Caskey: Yeah. You, you stop
+
+1070
+00:44:56,090 --> 00:45:00,150
+Amy Kruse: ... if you used an autonomous, you know, uh, navigation system, which makes me
+
+1071
+00:45:00,210 --> 00:45:04,850
+think, actually, Keith, back to your comment about agentic AI systems, like what, what
+
+1072
+00:45:04,890 --> 00:45:07,090
+parts of our brain are we deactivating?
+
+1073
+00:45:08,050 --> 00:45:08,550
+Um-
+
+1074
+00:45:08,710 --> 00:45:09,250
+Keith Murphy: Oh, God. Too many.
+
+1075
+00:45:09,290 --> 00:45:09,790
+Amy Kruse: In order to-
+
+1076
+00:45:09,310 --> 00:45:11,730
+Charles Caskey: Yeah. And when are we gonna find out that they're not like...
+
+1077
+00:45:12,230 --> 00:45:12,730
+Yeah.
+
+1078
+00:45:12,770 --> 00:45:13,270
+Amy Kruse: Right.
+
+1079
+00:45:12,930 --> 00:45:13,950
+Keith Murphy: Oh, dementia is coming for us all.
+
+1080
+00:45:13,970 --> 00:45:16,750
+Amy Kruse: We're all gonna end up in like one part of the country or something,
+
+1081
+00:45:16,790 --> 00:45:17,850
+and we'll go, "How did we get here?"
+
+1082
+00:45:17,990 --> 00:45:20,190
+You know? "My agentic AI sent me here," you know?
+
+1083
+00:45:20,290 --> 00:45:20,790
+Like-
+
+1084
+00:45:20,570 --> 00:45:21,470
+Charles Caskey: It just followed directions.
+
+1085
+00:45:21,910 --> 00:45:23,930
+Amy Kruse: Yeah. I just followed the directions, you know.
+
+1086
+00:45:24,590 --> 00:45:27,070
+It booked me a plane ticket, and I got here, you know?
+
+1087
+00:45:27,070 --> 00:45:27,570
+[laughs]
+
+1088
+00:45:27,310 --> 00:45:30,430
+Charles Caskey: I don't know why I'm here.
+
+1089
+00:45:30,990 --> 00:45:32,770
+No, it's so-- Oh, that's so amazing.
+
+1090
+00:45:32,870 --> 00:45:34,790
+No, like, yeah, I, I don't know.
+
+1091
+00:45:34,890 --> 00:45:38,450
+And maps, maps totally work. That was-- I, I, I had an internship in
+
+1092
+00:45:38,590 --> 00:45:40,890
+Rochester, and I was living in Texas at the time.
+
+1093
+00:45:41,230 --> 00:45:44,230
+This would've been like, uh, around 2004 or something.
+
+1094
+00:45:44,310 --> 00:45:46,370
+So we didn't really have this, we-- maps.
+
+1095
+00:45:46,410 --> 00:45:47,790
+And we got all, I got all the way up there.
+
+1096
+00:45:47,850 --> 00:45:50,310
+I was like, "Man, that's like, that would be bold now to just set
+
+1097
+00:45:50,390 --> 00:45:52,950
+out across America with a trucker's atlas and a map."
+
+1098
+00:45:52,970 --> 00:45:53,690
+Amy Kruse: That's what we did.
+
+1099
+00:45:53,790 --> 00:45:54,290
+Keith Murphy: Yeah, that's crazy.
+
+1100
+00:45:54,250 --> 00:45:56,390
+Amy Kruse: That's how I got to Maryland.
+
+1101
+00:45:56,490 --> 00:45:56,990
+Charles Caskey: Like-
+
+1102
+00:45:56,870 --> 00:45:57,370
+Amy Kruse: You know?
+
+1103
+00:45:57,310 --> 00:45:57,970
+Charles Caskey: Yeah, yeah. Totally.
+
+1104
+00:45:58,170 --> 00:45:58,750
+Amy Kruse: Like you just go-
+
+1105
+00:45:58,810 --> 00:45:59,310
+Charles Caskey: It worked, yes
+
+1106
+00:45:59,270 --> 00:46:00,390
+Amy Kruse: ... "Well, we'll go this way," you know?
+
+1107
+00:46:00,390 --> 00:46:01,250
+[chuckles]
+
+1108
+00:46:01,250 --> 00:46:01,750
+Charles Caskey: Yeah.
+
+1109
+00:46:01,290 --> 00:46:04,190
+Amy Kruse: Take I-40, you know, all the way till you hit the mountains, and then...
+
+1110
+00:46:04,950 --> 00:46:05,450
+You know?
+
+1111
+00:46:05,250 --> 00:46:08,090
+Charles Caskey: Yeah. Totally. But yeah, I would never do that now.
+
+1112
+00:46:08,210 --> 00:46:09,910
+But yeah, maybe I should to not let-
+
+1113
+00:46:09,930 --> 00:46:10,430
+Amy Kruse: Why?
+
+1114
+00:46:10,010 --> 00:46:13,330
+Charles Caskey: ... my, uh, frontal, yeah, my navigation systems atrophy.
+
+1115
+00:46:13,350 --> 00:46:13,850
+[chuckles]
+
+1116
+00:46:13,830 --> 00:46:18,390
+Amy Kruse: Exactly. Exactly. Yeah. I, I just had-- That was a funny, that was a
+
+1117
+00:46:18,430 --> 00:46:21,610
+funny thought that like an agentic AI system would send you on vacation somewhere
+
+1118
+00:46:21,650 --> 00:46:23,850
+that you never picked. You know, you just end up there like...
+
+1119
+00:46:23,850 --> 00:46:26,290
+"You said you wanted to go to the beach."
+
+1120
+00:46:26,410 --> 00:46:26,910
+You know? Like-
+
+1121
+00:46:26,910 --> 00:46:28,150
+Charles Caskey: "You like the, you like the beach.
+
+1122
+00:46:28,490 --> 00:46:29,130
+You like the..."
+
+1123
+00:46:30,190 --> 00:46:30,690
+Amy Kruse: You know. Yeah.
+
+1124
+00:46:31,430 --> 00:46:31,930
+Charles Caskey: Yeah.
+
+1125
+00:46:31,730 --> 00:46:35,130
+Amy Kruse: Anyway. But it d- but it does feel like, I mean, when I talk
+
+1126
+00:46:35,190 --> 00:46:40,710
+to people who, who have a heavy use of, uh, right now, agentic AI
+
+1127
+00:46:40,770 --> 00:46:47,050
+systems, I do-- There is a lot of abdication of cognitive oversight,
+
+1128
+00:46:47,490 --> 00:46:49,090
+I would say. So...
+
+1129
+00:46:49,310 --> 00:46:54,690
+Keith Murphy: I, I feel like profit-driven apps and companies are creating so many holes that
+
+1130
+00:46:54,910 --> 00:46:58,850
+people like all of us, Amy, you in particular, are always gonna have great
+
+1131
+00:46:58,930 --> 00:47:03,410
+jobs. And so for the, for, for the listeners, a, a limited partner is
+
+1132
+00:47:03,470 --> 00:47:08,730
+someone that someone like Amy goes to and says, "Here's what I want to
+
+1133
+00:47:08,790 --> 00:47:10,390
+do with a huge pot of money.
+
+1134
+00:47:10,590 --> 00:47:12,530
+If you invest, I will do exactly that."
+
+1135
+00:47:13,110 --> 00:47:17,350
+Even sometimes if you don't think it's going to create as massive returns as
+
+1136
+00:47:17,390 --> 00:47:18,890
+something that's really bad for people.
+
+1137
+00:47:19,330 --> 00:47:23,110
+Like at some point, you know, the cigarette industry was a really good investment
+
+1138
+00:47:23,270 --> 00:47:24,490
+even though people knew it was bad.
+
+1139
+00:47:24,930 --> 00:47:28,350
+Is the reverse happening for you, Amy, where people are like, "I don't know
+
+1140
+00:47:28,430 --> 00:47:32,710
+if your crazy, wacky brain stuff is gonna make me money, but I believe
+
+1141
+00:47:33,270 --> 00:47:36,170
+so wholeheartedly in your mission that I want to give you money for it."
+
+1142
+00:47:36,470 --> 00:47:39,470
+Does that happen a lot? Or do people really want returns also?
+
+1143
+00:47:39,590 --> 00:47:40,210
+What's the, what's the balance there?
+
+1144
+00:47:40,230 --> 00:47:42,010
+Amy Kruse: I think they, I mean, I think they want both.
+
+1145
+00:47:42,290 --> 00:47:46,050
+I mean, I think there's a lot of folks that are also, you know,
+
+1146
+00:47:46,170 --> 00:47:48,550
+mission or thematic or topic aligned.
+
+1147
+00:47:49,030 --> 00:47:52,010
+Um, people care a lot about mental health and the brain and, and sort
+
+1148
+00:47:52,030 --> 00:47:53,570
+of where all tho- those things are headed.
+
+1149
+00:47:53,950 --> 00:47:59,220
+The reason that people invest in You know, a sector or subject matter expert
+
+1150
+00:47:59,280 --> 00:48:01,820
+is because I think they believe in the space or they're interested in a
+
+1151
+00:48:01,900 --> 00:48:06,380
+space and know that they're not able to kind of understand those, uh, particular
+
+1152
+00:48:06,420 --> 00:48:09,260
+opportunities or deals on their own, right?
+
+1153
+00:48:09,340 --> 00:48:12,860
+And so, you know, as a, as somebody who'd invested me, they'd say, "Hey,
+
+1154
+00:48:12,940 --> 00:48:15,540
+Amy, you're a neuroscientist. You've been in the space for a really long time.
+
+1155
+00:48:15,600 --> 00:48:19,500
+You know the founders and you know the, the ecosystem really well.
+
+1156
+00:48:19,780 --> 00:48:22,660
+We think you're the right person, you know, could be the right person to
+
+1157
+00:48:22,680 --> 00:48:27,000
+help us, you know, enter into this space and navigate into this space and,
+
+1158
+00:48:27,500 --> 00:48:29,140
+um, and start making investments there."
+
+1159
+00:48:29,400 --> 00:48:34,320
+So I think there's a lot of curiosity, you know, around, you know, the
+
+1160
+00:48:34,340 --> 00:48:39,960
+brain and mental health and neurodegeneration and, you know, eventually maybe even optimization or,
+
+1161
+00:48:40,080 --> 00:48:43,100
+or human performance. But the, you know, for me, the clinical things are so
+
+1162
+00:48:43,120 --> 00:48:47,120
+pressing right now that there's plenty of, plenty of work to do [chuckles] right-
+
+1163
+00:48:47,340 --> 00:48:47,840
+Charles Caskey: Yeah
+
+1164
+00:48:47,860 --> 00:48:49,240
+Amy Kruse: ... on those topics alone, so.
+
+1165
+00:48:50,100 --> 00:48:53,000
+Charles Caskey: Well, and so how do you think about that in terms, I guess, as
+
+1166
+00:48:53,040 --> 00:48:59,060
+a follow-up, like between, uh, just the long timelines that, that realistically we probably
+
+1167
+00:48:59,100 --> 00:49:00,720
+have with some of these technologies?
+
+1168
+00:49:00,800 --> 00:49:02,860
+You know, when you talk with investors, I'd be curious how you kind of
+
+1169
+00:49:02,880 --> 00:49:06,760
+balance what is probably a long timeline for some things with wanting to, you
+
+1170
+00:49:06,800 --> 00:49:10,500
+know, the investment to have impact and maybe, maybe, maybe returns.
+
+1171
+00:49:10,700 --> 00:49:12,880
+Uh, eventually some people want returns.
+
+1172
+00:49:12,920 --> 00:49:13,420
+I was-
+
+1173
+00:49:13,440 --> 00:49:17,300
+Amy Kruse: Yeah, I mean, most funds, most early stage funds, when you set them up,
+
+1174
+00:49:17,480 --> 00:49:20,140
+they on paper have a 10-year time horizon.
+
+1175
+00:49:20,980 --> 00:49:21,480
+Charles Caskey: Oh, okay.
+
+1176
+00:49:21,300 --> 00:49:23,020
+Amy Kruse: So yeah. So when somebody invests-
+
+1177
+00:49:23,060 --> 00:49:23,660
+Charles Caskey: That's a lot of time
+
+1178
+00:49:23,680 --> 00:49:26,060
+Amy Kruse: ... in a, in a, in an early stage fund, there's sort of an
+
+1179
+00:49:26,120 --> 00:49:29,940
+acknowledgement, you know, that their capital will be, will be in that, you know,
+
+1180
+00:49:30,120 --> 00:49:32,320
+in that, in that fund for, for that time horizon.
+
+1181
+00:49:32,540 --> 00:49:38,540
+That said, there are opportunities obviously for, for things to, uh, exit sooner
+
+1182
+00:49:38,640 --> 00:49:39,140
+or-
+
+1183
+00:49:39,000 --> 00:49:39,500
+Charles Caskey: Yeah
+
+1184
+00:49:39,120 --> 00:49:41,820
+Amy Kruse: ... you know, I think we're seeing, I think we'll see a lot of
+
+1185
+00:49:41,860 --> 00:49:45,480
+interest in the M&A space, whether or not we get to the point where
+
+1186
+00:49:45,520 --> 00:49:50,660
+we have massive, uh, neurotechnology IPOs in the next, you know, five, five to
+
+1187
+00:49:50,720 --> 00:49:52,640
+seven years, like that would be awesome, right?
+
+1188
+00:49:52,880 --> 00:49:56,700
+Um, that would actually help me a lot because- [laughs] No, because part of,
+
+1189
+00:49:56,760 --> 00:50:00,720
+part of the, part of the question that investors ask, like you're, you're asking
+
+1190
+00:50:00,800 --> 00:50:06,500
+a, a fundamental question about how investors in funds think about those, those opportunities
+
+1191
+00:50:06,560 --> 00:50:10,200
+and, and one of the things you, you talk about, right, is the exits
+
+1192
+00:50:10,240 --> 00:50:14,200
+that have happened in the space and, and what gives you, you know, confidence.
+
+1193
+00:50:14,500 --> 00:50:18,400
+It's a little bit easier to do in the biotechnology space, right?
+
+1194
+00:50:18,460 --> 00:50:20,940
+Because it's a well-trodden path, right?
+
+1195
+00:50:21,000 --> 00:50:24,020
+You have big pharma, you have early stage companies.
+
+1196
+00:50:24,520 --> 00:50:26,920
+Big pharma really doesn't do their own R&D anymore.
+
+1197
+00:50:27,020 --> 00:50:29,940
+They rely on early stage companies to do that R&D.
+
+1198
+00:50:30,320 --> 00:50:34,880
+There's a healthy M&A sort of ecosystem where you can say, "Oh, if it
+
+1199
+00:50:34,900 --> 00:50:37,200
+gets to this clinical stage, it might have this price point," you know.
+
+1200
+00:50:37,980 --> 00:50:38,480
+Charles Caskey: Oh, yeah.
+
+1201
+00:50:38,200 --> 00:50:42,020
+Amy Kruse: You know. And so, so from a biotechnology perspective, I think as an investor,
+
+1202
+00:50:42,140 --> 00:50:46,880
+it's a little bit... Now, the sentiment around biotechnology has, has, you know, you
+
+1203
+00:50:46,920 --> 00:50:50,320
+know, waxed and waned, right? But, but at least there's a well-trodden path.
+
+1204
+00:50:50,740 --> 00:50:51,240
+Charles Caskey: Mm-hmm.
+
+1205
+00:50:50,760 --> 00:50:56,900
+Amy Kruse: We have not yet trodden that path specifically for neurotechnology
+
+1206
+00:50:56,960 --> 00:50:58,900
+at this point. I think we're close, right?
+
+1207
+00:50:59,000 --> 00:50:59,500
+There's-
+
+1208
+00:50:59,300 --> 00:50:59,800
+Charles Caskey: Yeah
+
+1209
+00:50:59,360 --> 00:51:05,560
+Amy Kruse: ... there's definitely probably in the, you know, implanted brain computer interface space, I
+
+1210
+00:51:05,600 --> 00:51:10,220
+think that's probably where we might see, you know, some of the next IPOs
+
+1211
+00:51:10,260 --> 00:51:14,860
+or other, you know, sort of big moves that happen with probably neuromodulation and
+
+1212
+00:51:14,880 --> 00:51:17,780
+other things, you know, sort of a little bit lagging behind that.
+
+1213
+00:51:17,820 --> 00:51:21,440
+But that's, you know, that's part of the conversation around where is this all
+
+1214
+00:51:21,500 --> 00:51:23,780
+headed? Like, how do, how do these things exit?
+
+1215
+00:51:23,940 --> 00:51:24,680
+You know, how do they make-
+
+1216
+00:51:24,780 --> 00:51:25,280
+Charles Caskey: Cool.
+
+1217
+00:51:25,240 --> 00:51:28,320
+Amy Kruse: Yeah ... how do they turn into, you know, billion dollar companies, right?
+
+1218
+00:51:28,460 --> 00:51:28,960
+Charles Caskey: Mm-hmm.
+
+1219
+00:51:28,740 --> 00:51:33,920
+Keith Murphy: Uh, oddly enough, um, for ultrasound listeners, HistoSonics is something you can point to.
+
+1220
+00:51:34,060 --> 00:51:37,280
+Correct. Yep. So HistoSonics is in principle similar to us.
+
+1221
+00:51:37,820 --> 00:51:42,500
+It's to use focused ultrasound surgically anywhere you want in the body to do
+
+1222
+00:51:42,540 --> 00:51:48,680
+these non-invasive outpatient procedures, and it looks philosophically the same as us because they
+
+1223
+00:51:48,700 --> 00:51:51,920
+got approved to do one thing in one part of the body, but it's
+
+1224
+00:51:51,960 --> 00:51:53,520
+a platform that can go anywhere.
+
+1225
+00:51:53,660 --> 00:51:56,840
+It looks like a futuristic grand scheme.
+
+1226
+00:51:57,280 --> 00:52:00,340
+And like Amy, correct me if I'm wrong, but they, they were s-- I
+
+1227
+00:52:00,380 --> 00:52:04,260
+forget if they were acquired or invested in for major, major stake for like
+
+1228
+00:52:04,260 --> 00:52:05,400
+$1.5 billion.
+
+1229
+00:52:05,640 --> 00:52:06,140
+Amy Kruse: Yeah.
+
+1230
+00:52:05,780 --> 00:52:06,900
+Keith Murphy: So we can at least point to that.
+
+1231
+00:52:06,940 --> 00:52:08,400
+It's not neuro, but it's the same-
+
+1232
+00:52:08,880 --> 00:52:09,380
+Amy Kruse: Yeah
+
+1233
+00:52:08,980 --> 00:52:09,840
+Keith Murphy: ... type of thesis.
+
+1234
+00:52:09,940 --> 00:52:10,440
+Amy Kruse: Yeah, yeah.
+
+1235
+00:52:10,360 --> 00:52:10,860
+Keith Murphy: You agree?
+
+1236
+00:52:10,560 --> 00:52:12,840
+Amy Kruse: Exactly. Yeah, I agree. I agree with that.
+
+1237
+00:52:12,960 --> 00:52:13,460
+Keith Murphy: Yeah.
+
+1238
+00:52:13,060 --> 00:52:15,660
+Amy Kruse: So yeah, so that's, I mean, that, but that's part of the, like, uh,
+
+1239
+00:52:15,820 --> 00:52:18,020
+but then why would you want to put your money into an early stage
+
+1240
+00:52:18,040 --> 00:52:22,120
+[chuckles] because, because this, because we're still on this part of the curve, right?
+
+1241
+00:52:22,260 --> 00:52:22,800
+And so if you get-
+
+1242
+00:52:22,820 --> 00:52:23,320
+Charles Caskey: Yeah
+
+1243
+00:52:23,040 --> 00:52:24,500
+Amy Kruse: ... you, you know, if you invest here-
+
+1244
+00:52:24,900 --> 00:52:25,400
+Charles Caskey: Yeah
+
+1245
+00:52:24,920 --> 00:52:28,620
+Amy Kruse: ... you know, you have the, the opportunity to, to potentially ride that, ride
+
+1246
+00:52:28,660 --> 00:52:29,160
+that wave up.
+
+1247
+00:52:28,980 --> 00:52:31,420
+Keith Murphy: Amy's bending her hand very hard backwards.
+
+1248
+00:52:31,560 --> 00:52:33,620
+Wow, your fingers are, oh my God, they're flexible.
+
+1249
+00:52:33,640 --> 00:52:34,140
+Charles Caskey: Look, that's impressive.
+
+1250
+00:52:34,160 --> 00:52:35,220
+Keith Murphy: Look at that. Jesus.
+
+1251
+00:52:35,260 --> 00:52:36,120
+Charles Caskey: Yeah. [chuckles]
+
+1252
+00:52:36,120 --> 00:52:39,660
+Keith Murphy: Mine don't do that. [chuckles] So a lot of practice.
+
+1253
+00:52:40,020 --> 00:52:40,520
+Charles Caskey: Oh. Oh, yeah.
+
+1254
+00:52:40,180 --> 00:52:41,480
+Keith Murphy: Showing that exponential growth.
+
+1255
+00:52:41,800 --> 00:52:42,300
+Charles Caskey: Yeah, yeah.
+
+1256
+00:52:42,160 --> 00:52:44,560
+Keith Murphy: It's been showing that since the early days at DARPA.
+
+1257
+00:52:44,580 --> 00:52:45,160
+[laughs] [laughs]
+
+1258
+00:52:45,160 --> 00:52:48,600
+Amy Kruse: I was like, yeah. You have to bring your own props.
+
+1259
+00:52:48,680 --> 00:52:51,720
+You know, it's a, it's a, it's a podcast, you know, so you have-
+
+1260
+00:52:51,720 --> 00:52:52,800
+[laughs]
+
+1261
+00:52:52,860 --> 00:52:53,880
+Charles Caskey: It's a pod- You have to bring your own props.
+
+1262
+00:52:54,500 --> 00:52:56,980
+We, we haven't got to that stage yet where we have our, you know,
+
+1263
+00:52:57,320 --> 00:52:58,460
+you have to bring your own still.
+
+1264
+00:52:58,460 --> 00:53:00,400
+[laughs] Um, but yeah.
+
+1265
+00:53:00,420 --> 00:53:04,280
+Keith Murphy: By the way, everyone, Charles violated today's theme, which was animal print.
+
+1266
+00:53:04,480 --> 00:53:06,140
+That's why I'm wearing giraffe.
+
+1267
+00:53:06,240 --> 00:53:06,740
+Charles Caskey: I did not.
+
+1268
+00:53:06,620 --> 00:53:08,280
+Keith Murphy: Charles has no animal print. [laughs]
+
+1269
+00:53:08,320 --> 00:53:11,040
+Charles Caskey: I know. Th- th- th-- This is, it's tortoiseshell.
+
+1270
+00:53:11,140 --> 00:53:11,920
+Tortoise is an animal.
+
+1271
+00:53:11,940 --> 00:53:14,780
+Amy Kruse: He claims he has tortoiseshell frames on.
+
+1272
+00:53:14,880 --> 00:53:16,160
+Keith Murphy: You can't, you can't see it though.
+
+1273
+00:53:16,320 --> 00:53:18,220
+Charles Caskey: All right. All right. No, no, yeah.
+
+1274
+00:53:18,240 --> 00:53:19,400
+Keith Murphy: Charles, disappointing.
+
+1275
+00:53:19,860 --> 00:53:23,760
+Charles Caskey: Yeah, yeah. My wife said I could not take our cow skin rug a-
+
+1276
+00:53:23,880 --> 00:53:26,580
+and wear [laughs] I'm sorry.
+
+1277
+00:53:26,580 --> 00:53:28,160
+Keith Murphy: True. Charles, that would've been great.
+
+1278
+00:53:28,580 --> 00:53:29,080
+Charles Caskey: I, I thought about it.
+
+1279
+00:53:28,900 --> 00:53:31,200
+Keith Murphy: Charles' wife, bummer. We're disappointed.
+
+1280
+00:53:31,220 --> 00:53:32,320
+Charles Caskey: But yeah, yeah. I'll talk to her.
+
+1281
+00:53:32,360 --> 00:53:34,560
+This is, this is the-- She's come up twice on this podcast.
+
+1282
+00:53:34,600 --> 00:53:36,760
+This is the first time she's ever come up, so, [laughs] so-
+
+1283
+00:53:36,840 --> 00:53:37,600
+Amy Kruse: It's funny
+
+1284
+00:53:37,600 --> 00:53:41,800
+Charles Caskey: ... um, yeah, I was, I was vetoed on that, and then I thought
+
+1285
+00:53:42,120 --> 00:53:45,120
+I, I, I had really wanted a pair of, uh, tortoiseshell, so I actually
+
+1286
+00:53:45,180 --> 00:53:46,360
+ordered them for the episode. [laughs]
+
+1287
+00:53:46,420 --> 00:53:47,000
+Amy Kruse: Oh, wow.
+
+1288
+00:53:47,000 --> 00:53:47,500
+Keith Murphy: Oh, that was selfish.
+
+1289
+00:53:47,400 --> 00:53:48,860
+Amy Kruse: Okay, so it was a special purchase.
+
+1290
+00:53:48,900 --> 00:53:51,000
+Charles Caskey: It was selfish. [laughs]
+
+1291
+00:53:51,080 --> 00:53:53,780
+Amy Kruse: It wasn't... Okay. Well, let... We'll give you a half pass.
+
+1292
+00:53:53,840 --> 00:53:55,140
+Charles Caskey: Give me a little pass. All right.
+
+1293
+00:53:55,180 --> 00:53:56,000
+Amy Kruse: A, a half pass. Half pass.
+
+1294
+00:53:56,300 --> 00:53:57,260
+Charles Caskey: Half pass. All right.
+
+1295
+00:53:57,440 --> 00:53:58,000
+Amy Kruse: Half pass.
+
+1296
+00:53:58,180 --> 00:54:03,160
+Keith Murphy: Um, guys, since, since we're running pretty long here, I wanna move into the
+
+1297
+00:54:03,220 --> 00:54:06,040
+next segment of the show. So I wanna try something new.
+
+1298
+00:54:06,540 --> 00:54:10,960
+New because we've never had an investor Of such great prestige on the show,
+
+1299
+00:54:11,080 --> 00:54:14,220
+and we really wanna put her skills to the test with a game that
+
+1300
+00:54:14,280 --> 00:54:16,020
+we call Pony Up or Pass.
+
+1301
+00:54:16,040 --> 00:54:20,140
+[upbeat music] Charles, you're [laughs] you're also a contestant on this show.
+
+1302
+00:54:20,420 --> 00:54:20,920
+Charles Caskey: Oh, great.
+
+1303
+00:54:20,900 --> 00:54:22,600
+Keith Murphy: I don't know. [laughs]
+
+1304
+00:54:22,640 --> 00:54:23,140
+Amy Kruse: Oh, great.
+
+1305
+00:54:23,140 --> 00:54:24,540
+Keith Murphy: I don't know if this is gonna be good or not.
+
+1306
+00:54:24,680 --> 00:54:25,180
+We gotta-
+
+1307
+00:54:24,800 --> 00:54:26,260
+Amy Kruse: Well, we're gonna... It's an experiment.
+
+1308
+00:54:27,140 --> 00:54:27,640
+Charles Caskey: Yeah.
+
+1309
+00:54:27,740 --> 00:54:32,080
+Keith Murphy: It... [laughs] In this, in this round of Pony Up or Pass, I'm going
+
+1310
+00:54:32,140 --> 00:54:36,640
+to read up a short blurb about 10 different early-stage startups.
+
+1311
+00:54:37,360 --> 00:54:41,760
+Both of you, within a few seconds, have to either pony up or pass,
+
+1312
+00:54:42,360 --> 00:54:44,500
+and at the end of the game, we're gonna see how much you got
+
+1313
+00:54:44,560 --> 00:54:45,900
+correct out of these 10.
+
+1314
+00:54:46,500 --> 00:54:47,000
+Charles Caskey: Oh.
+
+1315
+00:54:46,540 --> 00:54:50,320
+Keith Murphy: So Charles, Charles, just because you don't know the terms of the industry, the
+
+1316
+00:54:50,420 --> 00:54:51,060
+biz, which Amy does-
+
+1317
+00:54:51,100 --> 00:54:55,080
+Charles Caskey: Yeah, yeah, yeah. Are you gonna tell me what pony up or pass means?
+
+1318
+00:54:55,080 --> 00:54:56,760
+[laughs]
+
+1319
+00:54:56,820 --> 00:54:57,740
+Keith Murphy: Amy, why don't you tell him?
+
+1320
+00:54:57,760 --> 00:54:58,700
+Amy Kruse: Great, great start to the game.
+
+1321
+00:54:58,900 --> 00:55:04,220
+Yeah, like no, essentially, no. Essentially pony up would mean, I assume, invest, and
+
+1322
+00:55:04,240 --> 00:55:07,740
+then pass would be everything we do every day, we just say no.
+
+1323
+00:55:08,040 --> 00:55:08,760
+So. [laughs]
+
+1324
+00:55:08,820 --> 00:55:09,800
+Keith Murphy: That's absolutely right.
+
+1325
+00:55:10,200 --> 00:55:10,700
+Charles Caskey: Does anybody know the-
+
+1326
+00:55:10,560 --> 00:55:11,340
+Keith Murphy: Amy has done a lot of that
+
+1327
+00:55:11,340 --> 00:55:14,820
+Charles Caskey: ... etymology of pony up? Because it's kind of a funny term.
+
+1328
+00:55:14,820 --> 00:55:17,020
+[laughs]
+
+1329
+00:55:17,120 --> 00:55:18,460
+Keith Murphy: I actually have never thought about it.
+
+1330
+00:55:18,620 --> 00:55:19,260
+I have no idea.
+
+1331
+00:55:19,560 --> 00:55:20,660
+Charles Caskey: We'll be looking that up later.
+
+1332
+00:55:20,820 --> 00:55:21,320
+Um, but-
+
+1333
+00:55:20,860 --> 00:55:23,680
+Amy Kruse: Yeah. We'll be, we'll be looking up pony up.
+
+1334
+00:55:24,040 --> 00:55:24,580
+Maybe, maybe-
+
+1335
+00:55:24,600 --> 00:55:25,100
+Charles Caskey: Pony up
+
+1336
+00:55:24,820 --> 00:55:27,820
+Amy Kruse: ... people traded ponies, and then so you're, you know, like-
+
+1337
+00:55:28,020 --> 00:55:29,180
+Charles Caskey: Yeah. Yeah, yeah. It's like p- pony up and-
+
+1338
+00:55:29,200 --> 00:55:30,680
+Amy Kruse: You want that, you want that land?
+
+1339
+00:55:30,900 --> 00:55:32,400
+Pony up. [laughs]
+
+1340
+00:55:32,440 --> 00:55:32,940
+Charles Caskey: Pony up.
+
+1341
+00:55:32,820 --> 00:55:34,660
+Keith Murphy: Pony up. Ponies up. [laughs]
+
+1342
+00:55:34,720 --> 00:55:36,460
+Charles Caskey: Bring 'em. [laughs]
+
+1343
+00:55:36,500 --> 00:55:37,800
+Keith Murphy: All right. You guys ready to get started?
+
+1344
+00:55:38,000 --> 00:55:38,500
+Amy Kruse: Always.
+
+1345
+00:55:38,140 --> 00:55:38,640
+Charles Caskey: I'm ready. Uh-
+
+1346
+00:55:38,660 --> 00:55:39,160
+Amy Kruse: Born ready
+
+1347
+00:55:39,000 --> 00:55:39,960
+Charles Caskey: ... yeah, I mean. [laughs]
+
+1348
+00:55:39,980 --> 00:55:40,780
+Amy Kruse: Born ready.
+
+1349
+00:55:40,920 --> 00:55:43,260
+Keith Murphy: Okay. We'll score, we'll score the round offline.
+
+1350
+00:55:43,380 --> 00:55:43,880
+You ready?
+
+1351
+00:55:43,800 --> 00:55:44,300
+Amy Kruse: Thank you.
+
+1352
+00:55:44,580 --> 00:55:48,620
+Keith Murphy: All right, round one. A 19-year-old Stanford dropout says she can run 200 blood
+
+1353
+00:55:48,680 --> 00:55:50,020
+tests from a single finger prick.
+
+1354
+00:55:50,240 --> 00:55:54,540
+No more vials. Her board includes two former secretaries of state, and she raises
+
+1355
+00:55:54,560 --> 00:55:56,580
+$6 million. Pony up or pass?
+
+1356
+00:55:56,640 --> 00:55:57,140
+Go.
+
+1357
+00:55:58,180 --> 00:55:58,780
+Amy Kruse: Pass.
+
+1358
+00:55:59,180 --> 00:55:59,680
+Charles Caskey: Pass.
+
+1359
+00:55:59,300 --> 00:56:02,940
+Keith Murphy: Both of you are correct. That was Elizabeth Holmes with Theranos.
+
+1360
+00:56:02,960 --> 00:56:06,360
+The tech never worked, and now she's in prison for 11 years for fraud.
+
+1361
+00:56:06,420 --> 00:56:12,480
+Two, Brown University student builds a $400 brainwave-reading headband that you wear to
+
+1362
+00:56:12,520 --> 00:56:15,600
+bed while you are during your lightest phase of sleep.
+
+1363
+00:56:15,960 --> 00:56:19,300
+They raise $30 million and Regis Philbin wore it on live TV.
+
+1364
+00:56:19,400 --> 00:56:20,440
+Do you pony up or pass?
+
+1365
+00:56:21,100 --> 00:56:21,600
+Amy Kruse: Pass.
+
+1366
+00:56:22,280 --> 00:56:23,620
+Charles Caskey: I'm... I was gonna pass on that one.
+
+1367
+00:56:23,680 --> 00:56:26,160
+Keith Murphy: Pass. Everybody is correct. Zeo Inc.
+
+1368
+00:56:26,360 --> 00:56:28,900
+ended up shu- shutting down in 2013.
+
+1369
+00:56:29,000 --> 00:56:32,700
+Amy Kruse: And people lost their data. Actually, the, the part that upset people most about
+
+1370
+00:56:32,780 --> 00:56:35,980
+Zeo was that a lot of biohackers were using it, and, like, all their
+
+1371
+00:56:36,020 --> 00:56:36,820
+data disappeared.
+
+1372
+00:56:37,140 --> 00:56:41,700
+Keith Murphy: A surgeon and two engineers want to build 1,000-pound four-arm surgery robot that costs
+
+1373
+00:56:41,760 --> 00:56:45,060
+a million dollars per unit. It came from a Pentagon project.
+
+1374
+00:56:45,420 --> 00:56:47,700
+Competitors already in market. Do we invest?
+
+1375
+00:56:47,760 --> 00:56:48,840
+Do we pony up or pass?
+
+1376
+00:56:49,020 --> 00:56:49,520
+Amy Kruse: Pony up.
+
+1377
+00:56:50,980 --> 00:56:51,840
+Charles Caskey: I'm gonna say pass.
+
+1378
+00:56:51,940 --> 00:56:53,180
+Keith Murphy: It's Intuitive Surgical.
+
+1379
+00:56:53,240 --> 00:56:53,760
+Charles Caskey: The Da Vinci?
+
+1380
+00:56:53,760 --> 00:56:54,400
+Keith Murphy: The Da Vinci robot.
+
+1381
+00:56:54,580 --> 00:56:55,080
+Charles Caskey: Yeah. This is the Da Vinci.
+
+1382
+00:56:54,720 --> 00:56:55,220
+[laughs]
+
+1383
+00:56:54,880 --> 00:56:57,040
+Keith Murphy: 9,000 plus installed worldwide.
+
+1384
+00:56:57,540 --> 00:56:58,040
+Charles Caskey: Oh.
+
+1385
+00:56:57,640 --> 00:57:02,160
+Keith Murphy: Company is worth $180 billion now and has their own investment arm.
+
+1386
+00:57:02,860 --> 00:57:03,660
+Charles Caskey: Wow. Okay.
+
+1387
+00:57:04,720 --> 00:57:07,700
+Keith Murphy: Round six? Round five. Round five.
+
+1388
+00:57:07,740 --> 00:57:13,080
+An aerospace engineer who designed rocket parts says he'll build a fully implantable artificial
+
+1389
+00:57:13,160 --> 00:57:15,340
+heart with no wires or tubes.
+
+1390
+00:57:15,720 --> 00:57:16,820
+That is all I will say.
+
+1391
+00:57:16,980 --> 00:57:17,840
+Pony up or pass?
+
+1392
+00:57:17,900 --> 00:57:18,400
+Amy Kruse: Pony up.
+
+1393
+00:57:18,480 --> 00:57:19,760
+Keith Murphy: Amy ponies up. Charles?
+
+1394
+00:57:20,100 --> 00:57:21,300
+Charles Caskey: I, I was gonna pony up, too.
+
+1395
+00:57:21,500 --> 00:57:22,320
+[laughs]
+
+1396
+00:57:22,380 --> 00:57:27,520
+Keith Murphy: Pony up is correct. This is AbioMed, the first artificial heart and the world's
+
+1397
+00:57:27,580 --> 00:57:32,340
+smallest heart pump, acquired by Johnson & Johnson for $16.8 billion.
+
+1398
+00:57:32,540 --> 00:57:33,120
+Charles Caskey: Ooh, this is great. Yeah.
+
+1399
+00:57:33,180 --> 00:57:39,480
+Keith Murphy: Round seven. A neurosurgeon with zero radiation experience hires engineers to reshape cancer
+
+1400
+00:57:39,540 --> 00:57:42,900
+treatment by sculpting radiation beams to match tumor shapes.
+
+1401
+00:57:43,080 --> 00:57:44,160
+Do we pony up or pass?
+
+1402
+00:57:44,280 --> 00:57:44,780
+Amy Kruse: Pony up.
+
+1403
+00:57:44,860 --> 00:57:46,180
+Charles Caskey: We p- we pony up. Yeah.
+
+1404
+00:57:46,200 --> 00:57:46,700
+Amy Kruse: Pony up.
+
+1405
+00:57:46,580 --> 00:57:47,220
+Keith Murphy: We pony up. This is-
+
+1406
+00:57:47,240 --> 00:57:47,740
+Amy Kruse: CyberKnife
+
+1407
+00:57:47,620 --> 00:57:48,560
+Keith Murphy: ... this is Nomos.
+
+1408
+00:57:48,560 --> 00:57:49,720
+Amy Kruse: CyberKnife? [laughs]
+
+1409
+00:57:49,760 --> 00:57:55,920
+Keith Murphy: This is Nomos Corporation. They pioneered IMRT, now the gold standard in cancer radiation-
+
+1410
+00:57:56,020 --> 00:57:57,860
+Yeah ... in virtually every cancer center on Earth.
+
+1411
+00:57:58,200 --> 00:58:01,320
+Is that a derivative, or did they come into CyberKnife?
+
+1412
+00:58:01,600 --> 00:58:02,100
+Amy Kruse: I don't know.
+
+1413
+00:58:02,000 --> 00:58:02,500
+Keith Murphy: Is that not
+
+1414
+00:58:02,480 --> 00:58:04,460
+Amy Kruse: CyberKnife? I was, I was thinking of, of that, like, when I heard it.
+
+1415
+00:58:04,540 --> 00:58:05,480
+I was like, oh, that's a thing.
+
+1416
+00:58:08,900 --> 00:58:09,400
+Yeah.
+
+1417
+00:58:09,620 --> 00:58:10,620
+Charles Caskey: Ooh, good song coming up.
+
+1418
+00:58:11,120 --> 00:58:11,620
+Amy Kruse: Yeah.
+
+1419
+00:58:11,180 --> 00:58:11,680
+Charles Caskey: Okay.
+
+1420
+00:58:11,460 --> 00:58:11,960
+Amy Kruse: It's a bop.
+
+1421
+00:58:11,720 --> 00:58:12,240
+Charles Caskey: Yeah. Very interesting.
+
+1422
+00:58:12,440 --> 00:58:18,160
+Keith Murphy: Round nine. This is relevant. People will pay thousands to have focused ultrasound blasted
+
+1423
+00:58:18,240 --> 00:58:20,720
+under their skin to tighten up their face.
+
+1424
+00:58:20,880 --> 00:58:22,600
+Do we pony up or pass?
+
+1425
+00:58:22,780 --> 00:58:23,280
+Charles Caskey: It's just me?
+
+1426
+00:58:23,000 --> 00:58:23,880
+Keith Murphy: Charles, you go first. Yeah.
+
+1427
+00:58:23,900 --> 00:58:26,120
+Charles Caskey: Uh, we po- we pony up, and we move to Arizona.
+
+1428
+00:58:26,120 --> 00:58:28,340
+[laughs]
+
+1429
+00:58:28,380 --> 00:58:31,600
+Keith Murphy: Pony up. Amy, do you wanna join Charles on this crazy train?
+
+1430
+00:58:32,320 --> 00:58:33,360
+Amy Kruse: Uh, no. I'll pass. Thanks.
+
+1431
+00:58:34,440 --> 00:58:35,900
+Keith Murphy: This one was a pony up.
+
+1432
+00:58:36,080 --> 00:58:41,300
+Solta Medical went public in 2010 and was acquired for $250 million.
+
+1433
+00:58:41,640 --> 00:58:45,860
+The company is called Ultherapy, and it's still one of the top non-invasive skin
+
+1434
+00:58:45,920 --> 00:58:46,980
+treatments worldwide.
+
+1435
+00:58:47,080 --> 00:58:49,600
+Amy Kruse: I don't invest in cosmetic surgery, to be clear.
+
+1436
+00:58:49,660 --> 00:58:50,160
+Charles Caskey: It... I,
+
+1437
+00:58:50,220 --> 00:58:51,660
+Amy Kruse: I- So I pass. [laughs] Specifically.
+
+1438
+00:58:52,480 --> 00:58:53,960
+Charles Caskey: Oh. This was a value alignment.
+
+1439
+00:58:53,980 --> 00:58:54,480
+Keith Murphy: That's fair.
+
+1440
+00:58:54,040 --> 00:58:57,560
+Charles Caskey: Oh, this is good. I, I knew it was successful because people in the...
+
+1441
+00:58:57,580 --> 00:58:59,400
+You know, it's, it's known in the ultrasound community.
+
+1442
+00:58:59,420 --> 00:59:00,700
+[laughs] It's like-
+
+1443
+00:59:00,720 --> 00:59:03,040
+Keith Murphy: All right. Amy goes first for the very last round.
+
+1444
+00:59:03,220 --> 00:59:10,040
+An Israeli company fights hospital infections by weaving copper into fabric pillowcases and
+
+1445
+00:59:10,260 --> 00:59:10,900
+gowns.
+
+1446
+00:59:11,620 --> 00:59:12,120
+Charles Caskey: Ooh.
+
+1447
+00:59:11,700 --> 00:59:13,000
+Keith Murphy: Amy, do we pony up or pass?
+
+1448
+00:59:13,180 --> 00:59:13,680
+Amy Kruse: Pass.
+
+1449
+00:59:15,120 --> 00:59:16,760
+Keith Murphy: Amy passes. Charles, pony up or pass?
+
+1450
+00:59:16,760 --> 00:59:17,820
+Charles Caskey: I think I'm passing on this too.
+
+1451
+00:59:19,020 --> 00:59:20,720
+Keith Murphy: Okay. We have a loss from both of you.
+
+1452
+00:59:20,840 --> 00:59:21,340
+Charles Caskey: Oh.
+
+1453
+00:59:20,900 --> 00:59:26,720
+Keith Murphy: Cupron Inc., now in the tw- top 25 of US hospitals for copper-infused linens.
+
+1454
+00:59:27,240 --> 00:59:29,440
+Amy Kruse: Definitely not any hospitals I've been in.
+
+1455
+00:59:29,440 --> 00:59:30,220
+[laughs]
+
+1456
+00:59:33,100 --> 00:59:36,040
+Keith Murphy: Guys, you both- [laughs] [laughs] You both, you both scored, you both scored well
+
+1457
+00:59:36,120 --> 00:59:42,140
+over 70%, and this scoring rubric says that you're both venture capitalist savants.
+
+1458
+00:59:42,300 --> 00:59:44,140
+Amy Kruse: Put that on my LinkedIn profile.
+
+1459
+00:59:44,400 --> 00:59:49,440
+Charles Caskey: Yeah. [laughs] VC savant. [laughs]
+
+1460
+00:59:49,520 --> 00:59:53,920
+Amy Kruse: Actually, the best thing, the best thing I've ever been called, so I was
+
+1461
+00:59:54,000 --> 00:59:59,260
+at a, a meeting in Mountain View, uh, and I met Astro Teller from
+
+1462
+00:59:59,360 --> 01:00:02,850
+Google X And I was explaining like, you know, 'cause he knew all about
+
+1463
+01:00:02,870 --> 01:00:05,990
+the DARPA stuff and everything else, and, you know, I said, "Somebody," I said,
+
+1464
+01:00:06,050 --> 01:00:09,490
+"Somebody called me the, like, grandmother of neurotechnology" or whatever he said.
+
+1465
+01:00:09,590 --> 01:00:10,770
+He said, "You're not the grandmother."
+
+1466
+01:00:10,890 --> 01:00:11,510
+Keith Murphy: The grandmother.
+
+1467
+01:00:11,530 --> 01:00:13,650
+Amy Kruse: "You're the, you're the fairy godmother of neurotechnology."
+
+1468
+01:00:13,710 --> 01:00:14,570
+Charles Caskey: Oh, yeah. That's-
+
+1469
+01:00:14,850 --> 01:00:16,550
+Keith Murphy: Whoa. Fairy godmother.
+
+1470
+01:00:16,570 --> 01:00:17,070
+Amy Kruse: And I was like-- I know.
+
+1471
+01:00:16,890 --> 01:00:17,750
+When Astro Teller-
+
+1472
+01:00:17,810 --> 01:00:18,310
+Keith Murphy: I love that
+
+1473
+01:00:17,870 --> 01:00:20,610
+Amy Kruse: ... calls you the fairy godmother of neurotechnology, I'm like-
+
+1474
+01:00:20,670 --> 01:00:21,290
+Keith Murphy: Oh, that is so good.
+
+1475
+01:00:21,310 --> 01:00:24,130
+Amy Kruse: Yeah, definitely putting that on my LinkedIn [chuckles]
+
+1476
+01:00:24,190 --> 01:00:26,950
+Charles Caskey: Yeah, I like that. I like that a lot, and it doesn't have the,
+
+1477
+01:00:27,070 --> 01:00:28,310
+the sort of age connotation that grandmother has.
+
+1478
+01:00:28,370 --> 01:00:32,050
+Amy Kruse: No, exactly. Fairy godmother could be like 1,000 years old, you know?
+
+1479
+01:00:32,250 --> 01:00:32,750
+Keith Murphy: Yeah, yeah,
+
+1480
+01:00:32,550 --> 01:00:33,050
+Amy Kruse: yeah. But she like-
+
+1481
+01:00:32,850 --> 01:00:33,350
+Keith Murphy: It's like-
+
+1482
+01:00:33,990 --> 01:00:34,490
+Amy Kruse: You know
+
+1483
+01:00:34,210 --> 01:00:35,270
+Keith Murphy: ... older than time itself.
+
+1484
+01:00:35,310 --> 01:00:36,150
+Amy Kruse: Yeah, exactly.
+
+1485
+01:00:37,590 --> 01:00:41,770
+Keith Murphy: Um, all right. Amy, we, we wanna not only thank you so much for
+
+1486
+01:00:41,970 --> 01:00:47,570
+joining the show as our first, uh, investor in, and honestly, like, the seeds
+
+1487
+01:00:47,590 --> 01:00:51,590
+to so many neurotech companies that are thriving, but we'd also like to give
+
+1488
+01:00:51,630 --> 01:00:57,310
+you the opportunity to give out this week's FUS win, [upbeat music] which k- it
+
+1489
+01:00:57,330 --> 01:00:59,170
+doesn't have to be at f- about FUS at all.
+
+1490
+01:00:59,270 --> 01:01:03,270
+This is just you picking something that you consider a big win in our
+
+1491
+01:01:03,370 --> 01:01:06,550
+space, in other spaces that you wanna give a shout-out to.
+
+1492
+01:01:07,350 --> 01:01:07,850
+Amy Kruse: Wow.
+
+1493
+01:01:07,830 --> 01:01:09,410
+Keith Murphy: And then we'll put some fun music behind it.
+
+1494
+01:01:09,470 --> 01:01:09,970
+Amy Kruse: FUS win.
+
+1495
+01:01:09,750 --> 01:01:10,250
+Keith Murphy: It's real.
+
+1496
+01:01:10,210 --> 01:01:10,910
+Amy Kruse: A FUS win.
+
+1497
+01:01:10,930 --> 01:01:11,430
+Keith Murphy: Yeah.
+
+1498
+01:01:12,090 --> 01:01:14,630
+Amy Kruse: I mean, I do-- I think, you know, w- going back to what we
+
+1499
+01:01:14,670 --> 01:01:19,690
+talked about earlier, like the Flow Neuroscience, you know, FDA approval for a take-home
+
+1500
+01:01:20,050 --> 01:01:23,050
+neuromodulation device, I think it's a, I think it's a win.
+
+1501
+01:01:23,110 --> 01:01:27,790
+I think it's a win for the neurotechnology community and neuromodulation community, and I
+
+1502
+01:01:27,810 --> 01:01:30,650
+think it's gonna be a win for patients because I think if it helps,
+
+1503
+01:01:30,730 --> 01:01:35,070
+uh, blaze a trail or a pathway for, uh, for more at-home treatments for
+
+1504
+01:01:35,110 --> 01:01:36,970
+individuals, I'm, I'm a big fan.
+
+1505
+01:01:37,070 --> 01:01:38,350
+Keith Murphy: Flow Neuroscience..
+
+1506
+01:01:38,390 --> 01:01:39,250
+Charles Caskey: Flow Neuroscience.
+
+1507
+01:01:39,290 --> 01:01:40,350
+Keith Murphy: Big congrats. [clapping]
+
+1508
+01:01:40,370 --> 01:01:45,110
+Charles Caskey: Big congrats, and now the only company to receive two FUS wins 'cause I
+
+1509
+01:01:45,170 --> 01:01:47,330
+think you gave that one out [chuckles] on another episode.
+
+1510
+01:01:47,390 --> 01:01:48,150
+Amy Kruse: Oh, funny.
+
+1511
+01:01:48,870 --> 01:01:51,070
+Keith Murphy: No, Noah gave it, Noah gave it to himself.
+
+1512
+01:01:51,250 --> 01:01:52,710
+Charles Caskey: Oh, right. Oh, yeah [laughs]
+
+1513
+01:01:52,730 --> 01:01:53,990
+Amy Kruse: He gave it to himself?
+
+1514
+01:01:54,350 --> 01:01:56,010
+Keith Murphy: No, Noah's had some huge wins, and-
+
+1515
+01:01:56,170 --> 01:01:56,670
+Amy Kruse: Yeah
+
+1516
+01:01:56,310 --> 01:01:57,770
+Keith Murphy: ... I actually wanna bring him back on.
+
+1517
+01:01:58,130 --> 01:02:04,990
+[upbeat music]
+
+1518
+01:02:05,150 --> 01:02:07,790
+Noah Philip: I am definitely not a narwhal.
+
+1519
+01:02:09,030 --> 01:02:13,890
+I think if I was a narwhal-- Maybe I am.
+
+1520
+01:02:14,050 --> 01:02:20,130
+Maybe, maybe actually, maybe I've got, maybe I've got a calling as
+
+1521
+01:02:20,190 --> 01:02:23,910
+a narwhal. I think, you know, I've heard they use their tusks to, like,
+
+1522
+01:02:24,230 --> 01:02:30,310
+navigate through underwater ice caves, and I feel like the, the regulatory, uh,
+
+1523
+01:02:30,650 --> 01:02:33,750
+burden that I've been working through over the last couple years is kind of
+
+1524
+01:02:33,790 --> 01:02:37,890
+like an underwater ice cave. You can't quite see where the boundaries are, but,
+
+1525
+01:02:38,130 --> 01:02:41,410
+but you're just sort of poking and prodding your, your way through.
+
+1526
+01:02:42,110 --> 01:02:46,610
+Um, although, but thankfully, that experience is just about done, which is pretty good.

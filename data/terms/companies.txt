@@ -1,0 +1,63 @@
+# Companies in focused ultrasound and neurotech, so the transcriber spells them right. Add new ones here.
+Alpheus Medical
+Bellwether Biotech
+Carthera
+Cordance Medical
+Lotus Neuro
+Petal Surgical
+Quantanosis.ai
+Attune Neurosciences
+BCI-Sonics
+BrainSonix
+Ceretas
+Forest Neurotech
+Gestala
+Grey Matter Neurosciences
+Insightec
+Mellow Labs
+Mendea Technologies
+Merge Labs
+NaviFUS
+NeurGear
+NeuroHarmonics
+Neusician Sleep
+Neusleep
+Nudge
+Openwater
+Prophetic
+Sanmai Technologies
+SonoMind
+SonoNeu
+Spire Therapeutic
+Symphony Neurotech
+Ultra Bionics
+Deepson Bio
+Delsona Therapeutics
+FUSMobile
+INIA Biosciences
+Neumous
+NovusTX Devices
+Port Therapeutics
+Sonovis Therapy
+Sound Wave Innovation
+Therasonic
+SecondWave Systems
+Surf Therapeutics
+Axilum Robotics
+Cephasonics Ultrasound
+ClearPoint Neuro
+Daxsonics Ultrasound
+FUS Instruments
+Image Guided Therapy
+Onda
+PI Ceramic
+Piezo Technologies
+Precision Acoustics
+RebrAIn
+Ritec
+Sonic Concepts
+Verasonics
+Vermon
+Zeta Surgical
+imec
+Storz Medical

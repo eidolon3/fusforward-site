@@ -1,0 +1,3838 @@
+
+PMID- 42479377
+OWN - NLM
+STAT- Publisher
+LR  - 20260721
+IS  - 1995-8218 (Electronic)
+IS  - 1995-8218 (Linking)
+DP  - 2026 Jul 21
+TI  - A Multiregional Functional Ultrasound Dataset of Brain Responses to Innocuous and 
+      Noxious Mechanical Stimulation in Awake Mice.
+LID - 10.1007/s12264-026-01674-7 [doi]
+AB  - Mechanical stimulation is a widely used sensory paradigm for investigating the 
+      neural mechanisms underlying somatosensation, ranging from innocuous tactile 
+      perception to nociceptive processing. Studying how such stimuli are represented 
+      across distributed brain networks requires imaging approaches capable of 
+      capturing large-scale neural dynamics with high spatiotemporal resolution. 
+      Functional ultrasound imaging (fUS) has recently emerged as a powerful 
+      neuroimaging technique that enables highly sensitive detection of cerebral 
+      hemodynamic changes across multiple brain regions in awake animals. Here, we 
+      present a multiregional fUS imaging dataset that characterizes hemodynamic 
+      responses to graded mechanical stimulation in awake mice. Mechanical stimuli 
+      ranging from innocuous touch to noxious intensity levels (0.16-4.0 g; six levels) 
+      were delivered to the hind paw while fUS recordings were acquired from three 
+      coronal imaging planes sampling key cortical, thalamic, and midbrain regions in 
+      eight mice. The dataset includes raw ultrasound recordings, processed, normalized 
+      hemodynamic time-series signals (DeltaI/I(0), where I denotes the power Doppler 
+      intensity and I(0) denotes the baseline signal), region-of-interest (ROI) masks, 
+      ROI-averaged signals, and functional connectivity matrices derived from multiple 
+      stimulus intensities. In addition, fiber photometry recordings were obtained from 
+      selected brain regions in a separate cohort of eight mice under the same 
+      stimulation paradigm to provide complementary measurements of neuronal Ca(2+) 
+      activity. This dataset provides a unique resource for studying large-scale 
+      sensory processing, neurovascular coupling, and stimulus-associated changes in 
+      interregional coupling. It may also facilitate future research in pain 
+      neuroscience, development and testing of computational models of brain networks, 
+      and multimodal neuroimaging analyses. The complete dataset occupies approximately 
+      13 GB and is available at https://doi.org/10.57760/sciencedb.30552 .
+CI  - (c) 2026. The Author(s).
+FAU - Zheng, Hanming
+AU  - Zheng H
+AD  - Biomedical Imaging Laboratory (BIG), Department of Electrical and Computer 
+      Engineering, University of Macau, Macao, 999078, China.
+AD  - Guangdong Institute of Intelligence Science and Technology, Zhuhai, 519031, 
+      China.
+FAU - Yang, Jin
+AU  - Yang J
+AD  - Guangdong Institute of Intelligence Science and Technology, Zhuhai, 519031, 
+      China.
+FAU - He, Dongming
+AU  - He D
+AD  - Guangdong Institute of Intelligence Science and Technology, Zhuhai, 519031, 
+      China.
+FAU - Chen, Yan
+AU  - Chen Y
+AUID- ORCID: 0009-0004-8782-8843
+AD  - Guangdong Institute of Intelligence Science and Technology, Zhuhai, 519031, 
+      China.
+FAU - Liu, Xiaodong
+AU  - Liu X
+AD  - Department of Anaesthesia and Intensive Care, Li Ka Shing Institute of Health 
+      Sciences, Peter Hung Pain Research Institute, The Chinese University of Hong 
+      Kong, Hong Kong, 999077, China.
+FAU - Mok, Greta S P
+AU  - Mok GSP
+AD  - Biomedical Imaging Laboratory (BIG), Department of Electrical and Computer 
+      Engineering, University of Macau, Macao, 999078, China. gretamok@um.edu.mo.
+AD  - Center for Cognitive and Brain Sciences, Institute of Collaborative Innovation, 
+      University of Macau, Macao, 999078, China. gretamok@um.edu.mo.
+FAU - Qiu, Zhihai
+AU  - Qiu Z
+AUID- ORCID: 0000-0003-1694-5706
+AD  - Guangdong Institute of Intelligence Science and Technology, Zhuhai, 519031, 
+      China. qiuzhihai@gdiist.cn.
+LA  - eng
+PT  - Journal Article
+DEP - 20260721
+PL  - Singapore
+TA  - Neurosci Bull
+JT  - Neuroscience bulletin
+JID - 101256850
+SB  - IM
+OTO - NOTNLM
+OT  - Functional connectivity
+OT  - Functional ultrasound imaging
+OT  - Mechanical stimulation
+OT  - Mouse brain
+OT  - Neurovascular coupling
+OT  - Nociception
+OT  - Open neuroscience resource
+OT  - Somatosensory processing
+COIS- Conflict of interest: The authors declare that they have no competing financial 
+      interests or personal relationships that could have influenced the work reported 
+      in this study. Ethics Approval: All procedures were approved by the Animal Care 
+      and Use Committee of the Guangdong Institute of Intelligence Science and 
+      Technology and conducted in accordance with the National Institutes of Health 
+      Guide for the Care and Use of Laboratory Animals. All efforts were made to 
+      minimize animal suffering and to reduce the number of animals used.
+EDAT- 2026/07/21 12:35
+MHDA- 2026/07/21 12:35
+CRDT- 2026/07/21 11:20
+PHST- 2026/03/19 00:00 [received]
+PHST- 2026/05/21 00:00 [accepted]
+PHST- 2026/07/21 12:35 [medline]
+PHST- 2026/07/21 12:35 [pubmed]
+PHST- 2026/07/21 11:20 [entrez]
+AID - 10.1007/s12264-026-01674-7 [pii]
+AID - 10.1007/s12264-026-01674-7 [doi]
+PST - aheadofprint
+SO  - Neurosci Bull. 2026 Jul 21. doi: 10.1007/s12264-026-01674-7.
+
+PMID- 41998192
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20260806
+LR  - 20260813
+IS  - 1476-5578 (Electronic)
+IS  - 1359-4184 (Print)
+IS  - 1359-4184 (Linking)
+VI  - 31
+IP  - 9
+DP  - 2026 Sep
+TI  - Rapid rescue of despair behaviors by sonogenetic neuromodulation of the mPFC-DRN 
+      pathway.
+PG  - 5279-5292
+LID - 10.1038/s41380-026-03616-1 [doi]
+AB  - Sonogenetics combines genetic tools and low-intensity ultrasound to 
+      non-invasively modulate specific neuronal populations and circuits, exhibiting 
+      potential for treating brain diseases. This study examines sonogenetics' 
+      potential in a mouse depression model, targeting excitatory medial prefrontal 
+      cortex (mPFC) neurons projecting to the dorsal raphe nucleus (DRN). Projecting 
+      neurons were induced to express a mechanosensitive ion channel (MscL-G22S), and 
+      alterations in patterns of neuronal activation and despair-like behaviors upon 
+      sonication were evaluated. Sonogenetics selectively activated targeted excitatory 
+      mPFC neurons projecting to the DRN, enhancing real-time DRN neuronal activity and 
+      serotonin release, with no observed tissue damage or astrocytic/microglial 
+      activation. Tail suspension and forced swim tests revealed that sonogenetically 
+      activating this pathway rapidly reversed despair-like behaviors in stressed mice, 
+      whereas effects observed upon mPFC sonication were abrogated by functionally 
+      silencing downstream DRN neurons, and this effect is fully recapitulated by 
+      selective inhibition of DRN serotonergic neurons alone. Collectively, this study 
+      constitutes the first demonstration of the potential for a circuit-targeted 
+      sonogenetic therapeutic approach for relieving despair behaviors.
+CI  - (c) 2026. The Author(s).
+FAU - Lei, Ting
+AU  - Lei T
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hong 
+      Kong SAR, 999077, China.
+FAU - Xian, Quanxiang
+AU  - Xian Q
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hong 
+      Kong SAR, 999077, China.
+FAU - Li, Danni
+AU  - Li D
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hong 
+      Kong SAR, 999077, China.
+FAU - Su, Min
+AU  - Su M
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hong 
+      Kong SAR, 999077, China.
+FAU - Wu, Yong
+AU  - Wu Y
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hong 
+      Kong SAR, 999077, China.
+FAU - Hou, Xuandi
+AU  - Hou X
+AUID- ORCID: 0000-0002-9718-6539
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hong 
+      Kong SAR, 999077, China.
+FAU - Jing, Jianing
+AU  - Jing J
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hong 
+      Kong SAR, 999077, China.
+FAU - Jiang, Yizhou
+AU  - Jiang Y
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hong 
+      Kong SAR, 999077, China.
+FAU - Huang, Xiaohui
+AU  - Huang X
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hong 
+      Kong SAR, 999077, China.
+FAU - Wong, Kin Fung
+AU  - Wong KF
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hong 
+      Kong SAR, 999077, China.
+FAU - Zhu, Jiejun
+AU  - Zhu J
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hong 
+      Kong SAR, 999077, China.
+AD  - Guangdong Institute of Intelligence Science and Technology, Hengqin, Zhuhai, 
+      Guangdong, 519031, China.
+FAU - Guo, Jinghui
+AU  - Guo J
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hong 
+      Kong SAR, 999077, China.
+FAU - Qiu, Zhihai
+AU  - Qiu Z
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hong 
+      Kong SAR, 999077, China.
+AD  - Guangdong Institute of Intelligence Science and Technology, Hengqin, Zhuhai, 
+      Guangdong, 519031, China.
+FAU - Sun, Lei
+AU  - Sun L
+AUID- ORCID: 0000-0001-7047-9529
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hong 
+      Kong SAR, 999077, China. lei.sun@polyu.edu.hk.
+LA  - eng
+PT  - Journal Article
+DEP - 20260417
+PL  - England
+TA  - Mol Psychiatry
+JT  - Molecular psychiatry
+JID - 9607835
+RN  - 333DO1RDJY (Serotonin)
+SB  - IM
+MH  - Animals
+MH  - *Prefrontal Cortex/metabolism/physiology
+MH  - Male
+MH  - Mice
+MH  - *Dorsal Raphe Nucleus/metabolism/physiology
+MH  - Neurons/metabolism/physiology
+MH  - *Depression/therapy/metabolism/genetics
+MH  - Serotonin/metabolism
+MH  - Disease Models, Animal
+MH  - Mice, Inbred C57BL
+MH  - Neural Pathways/physiology
+MH  - Serotonergic Neurons/metabolism
+MH  - Hindlimb Suspension
+MH  - Behavior, Animal/physiology
+PMC - PMC13442019
+COIS- Competing interests: The authors declare no competing interests.
+EDAT- 2026/04/18 07:10
+MHDA- 2026/08/06 11:36
+PMCR- 2026/04/17
+CRDT- 2026/04/17 23:23
+PHST- 2025/03/18 00:00 [received]
+PHST- 2026/04/09 00:00 [accepted]
+PHST- 2026/03/17 00:00 [revised]
+PHST- 2026/08/06 11:36 [medline]
+PHST- 2026/04/18 07:10 [pubmed]
+PHST- 2026/04/17 23:23 [entrez]
+PHST- 2026/04/17 00:00 [pmc-release]
+AID - 10.1038/s41380-026-03616-1 [pii]
+AID - 3616 [pii]
+AID - 10.1038/s41380-026-03616-1 [doi]
+PST - ppublish
+SO  - Mol Psychiatry. 2026 Sep;31(9):5279-5292. doi: 10.1038/s41380-026-03616-1. Epub 
+      2026 Apr 17.
+
+PMID- 41853842
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20260711
+LR  - 20260813
+IS  - 2198-3844 (Electronic)
+IS  - 2198-3844 (Linking)
+VI  - 13
+IP  - 26
+DP  - 2026 May
+TI  - Ultrasound Modulation of Visual Circuits in Mice Independent of Auditory 
+      Confound.
+PG  - e15991
+LID - 10.1002/advs.202515991 [doi]
+LID - e15991
+AB  - Despite its growing potential as a noninvasive neuromodulation technology, the 
+      fundamental biophysical mechanism of focused ultrasound neuromodulation (FUN) 
+      remains elusive. Progress has been hampered by a persistent auditory confound, 
+      making it difficult to isolate the direct mechanical effects on neural circuits. 
+      To overcome this barrier, we employed two-photon calcium imaging (2PCI) in the 
+      primary visual cortex (V1) of deafened mice. Here, this study identifies a sparse 
+      (<1.5%) and spatially distributed population of neurons that is robustly and 
+      directly activated by ultrasound in a pressure-dependent manner. Crucially, this 
+      sparse, direct activation is sufficient to modulate the broader visual circuit, 
+      altering the response dynamics of neighboring neurons to visual stimuli. By 
+      unequivocally decoupling direct neuromodulation from auditory artifacts, the 
+      findings identify a key cellular substrate for FUN and establish a robust 
+      framework for future studies. This work paves the way for targeted investigations 
+      into the precise biophysical mechanisms governing the interaction between 
+      ultrasound and neurons.
+CI  - (c) 2026 The Author(s). Advanced Science published by Wiley-VCH GmbH.
+FAU - He, Jiaru
+AU  - He J
+AUID- ORCID: 0000-0002-0463-3740
+AD  - Guangdong Institute of Intelligence Science and Technology, Zhuhai, Guangdong, P. 
+      R. China.
+FAU - Zhu, Jiejun
+AU  - Zhu J
+AD  - Guangdong Institute of Intelligence Science and Technology, Zhuhai, Guangdong, P. 
+      R. China.
+FAU - Wang, Xinxin
+AU  - Wang X
+AD  - Faculty of Health Sciences/Centre For Cognitive and Brain Sciences, University of 
+      Macau, Macao, SAR, P. R. China.
+FAU - Chen, Zihao
+AU  - Chen Z
+AD  - Guangdong Institute of Intelligence Science and Technology, Zhuhai, Guangdong, P. 
+      R. China.
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hung 
+      Hom, Hong Kong SAR, P. R. China.
+FAU - Yang, Jin
+AU  - Yang J
+AD  - Guangdong Institute of Intelligence Science and Technology, Zhuhai, Guangdong, P. 
+      R. China.
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hung 
+      Hom, Hong Kong SAR, P. R. China.
+FAU - Yuan, Zhen
+AU  - Yuan Z
+AD  - Faculty of Health Sciences/Centre For Cognitive and Brain Sciences, University of 
+      Macau, Macao, SAR, P. R. China.
+FAU - Xu, Hongzhi
+AU  - Xu H
+AD  - Department of Neurosurgery, Huashan Hospital, Shanghai Medical College, National 
+      Center for Neurological Disorders, Shanghai Key Laboratory of Brain Function and 
+      Restoration and Neural Regeneration, Shanghai Clinical Medical Center of 
+      Neurosurgery, Fudan University, Neurosurgical Institute of Fudan University, 
+      Department of Neurosurgery & Neurocritical Care, Huashan Hospital, Shanghai 
+      Medical College, Fudan University, Shanghai, P. R. China.
+FAU - Sun, Lei
+AU  - Sun L
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hung 
+      Hom, Hong Kong SAR, P. R. China.
+FAU - Qiu, Zhihai
+AU  - Qiu Z
+AUID- ORCID: 0000-0003-1694-5706
+AD  - Guangdong Institute of Intelligence Science and Technology, Zhuhai, Guangdong, P. 
+      R. China.
+LA  - eng
+GR  - 32371151/National Natural Science Foundation of China/
+GR  - 2021B0909050004/Guangdong High Level Innovation Research Institute/
+GR  - C5053-22GF/Hong Kong Research Grants Council Collaborative Research Fund/
+GR  - 15224323/General Research Fund/
+GR  - 15104520/General Research Fund/
+GR  - 25ZR1401043/Shanghai Natural Science Foundation/
+GR  - MHP/014/19/Hong Kong Innovation Technology Fund/
+GR  - G-SACD/Hong Kong Polytechnic University/
+GR  - 1-CDJM/Hong Kong Polytechnic University/
+PT  - Journal Article
+DEP - 20260319
+PL  - Germany
+TA  - Adv Sci (Weinh)
+JT  - Advanced science (Weinheim, Baden-Wurttemberg, Germany)
+JID - 101664569
+SB  - IM
+MH  - Animals
+MH  - Mice
+MH  - *Visual Cortex/physiology
+MH  - *Neurons/physiology
+MH  - Photic Stimulation/methods
+MH  - *Primary Visual Cortex/physiology
+MH  - *Ultrasonic Waves
+PMC - PMC13159160
+OTO - NOTNLM
+OT  - auditory confound
+OT  - two-photon imaging
+OT  - ultrasound neuromodulation
+OT  - visual stimulation
+COIS- The authors declare no conflict of interest.
+EDAT- 2026/03/19 07:11
+MHDA- 2026/05/08 18:33
+PMCR- 2026/03/19
+CRDT- 2026/03/19 05:08
+PHST- 2026/02/06 00:00 [revised]
+PHST- 2025/08/20 00:00 [received]
+PHST- 2026/02/24 00:00 [accepted]
+PHST- 2026/05/08 18:33 [medline]
+PHST- 2026/03/19 07:11 [pubmed]
+PHST- 2026/03/19 05:08 [entrez]
+PHST- 2026/03/19 00:00 [pmc-release]
+AID - ADVS74666 [pii]
+AID - 10.1002/advs.202515991 [doi]
+PST - ppublish
+SO  - Adv Sci (Weinh). 2026 May;13(26):e15991. doi: 10.1002/advs.202515991. Epub 2026 
+      Mar 19.
+
+PMID- 41377656
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20251211
+LR  - 20251213
+IS  - 2589-0042 (Electronic)
+IS  - 2589-0042 (Linking)
+VI  - 28
+IP  - 12
+DP  - 2025 Dec 19
+TI  - Impact of endogenous sonosensation on in vivo sonogenetics.
+PG  - 114030
+LID - 10.1016/j.isci.2025.114030 [doi]
+LID - 114030
+AB  - Sonogenetics is a promising paradigm that uses non-invasive ultrasound to 
+      modulate neurons expressing sonosensitive proteins. However, the brain's varying 
+      endogenous sonosensitivity presents a challenge for its precise application. We 
+      first mapped this intrinsic sensitivity, identifying the somatosensory cortex as 
+      particularly responsive. Using an MscL-G22S-based approach in the somatosensory 
+      cortex, we found that ultrasound non-specifically activated both excitatory and 
+      inhibitory neurons in control mice, preventing behavioral output. In contrast, in 
+      MscL-expressing mice, ultrasound selectively activated excitatory neurons while 
+      suppressing inhibitory ones, thereby shifting the net neural response to 
+      successfully drive whisker movement. This effect was independent of auditory 
+      confounds or astrocytic involvement. Our study highlights that accounting for 
+      endogenous sonosensitivity is critical and demonstrates that optimized 
+      sonogenetic tools can achieve precise neuromodulation despite this inherent 
+      challenge.
+CI  - (c) 2025 The Author(s).
+FAU - Xian, Quanxiang
+AU  - Xian Q
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hung 
+      Hom, Hong Kong SAR 999077, P.R. China.
+FAU - Li, Danni
+AU  - Li D
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hung 
+      Hom, Hong Kong SAR 999077, P.R. China.
+FAU - Zhao, Xinyi
+AU  - Zhao X
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hung 
+      Hom, Hong Kong SAR 999077, P.R. China.
+FAU - Zhao, Dongshuai
+AU  - Zhao D
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hung 
+      Hom, Hong Kong SAR 999077, P.R. China.
+FAU - Jiang, Yizhou
+AU  - Jiang Y
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hung 
+      Hom, Hong Kong SAR 999077, P.R. China.
+FAU - Jing, Jianing
+AU  - Jing J
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hung 
+      Hom, Hong Kong SAR 999077, P.R. China.
+FAU - Hou, Xuandi
+AU  - Hou X
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hung 
+      Hom, Hong Kong SAR 999077, P.R. China.
+FAU - Huang, Xiaohui
+AU  - Huang X
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hung 
+      Hom, Hong Kong SAR 999077, P.R. China.
+FAU - Wong, Kin Fung
+AU  - Wong KF
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hung 
+      Hom, Hong Kong SAR 999077, P.R. China.
+FAU - Murugappan, Suresh
+AU  - Murugappan S
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hung 
+      Hom, Hong Kong SAR 999077, P.R. China.
+FAU - Qiu, Zhihai
+AU  - Qiu Z
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hung 
+      Hom, Hong Kong SAR 999077, P.R. China.
+AD  - Guangdong Institute of Intelligence Science and Technology, Hengqin, Zhuhai, 
+      Guangdong 519031, China.
+FAU - Sun, Lei
+AU  - Sun L
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hung 
+      Hom, Hong Kong SAR 999077, P.R. China.
+LA  - eng
+PT  - Journal Article
+DEP - 20251112
+PL  - United States
+TA  - iScience
+JT  - iScience
+JID - 101724038
+PMC - PMC12688701
+OTO - NOTNLM
+OT  - Molecular neuroscience
+OT  - Sensory neuroscience
+OT  - Ultrasound technology
+COIS- The authors declare no competing interests.
+EDAT- 2025/12/11 07:43
+MHDA- 2025/12/11 07:44
+PMCR- 2025/11/12
+CRDT- 2025/12/11 05:25
+PHST- 2025/06/06 00:00 [received]
+PHST- 2025/09/06 00:00 [revised]
+PHST- 2025/11/10 00:00 [accepted]
+PHST- 2025/12/11 07:44 [medline]
+PHST- 2025/12/11 07:43 [pubmed]
+PHST- 2025/12/11 05:25 [entrez]
+PHST- 2025/11/12 00:00 [pmc-release]
+AID - S2589-0042(25)02291-6 [pii]
+AID - 114030 [pii]
+AID - 10.1016/j.isci.2025.114030 [doi]
+PST - epublish
+SO  - iScience. 2025 Nov 12;28(12):114030. doi: 10.1016/j.isci.2025.114030. eCollection 
+      2025 Dec 19.
+
+PMID- 40375922
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20260924
+IS  - 2639-5274 (Electronic)
+IS  - 2639-5274 (Linking)
+VI  - 8
+DP  - 2025
+TI  - Functional Ultrasound Imaging of Auditory Responses in Comatose Patients.
+PG  - 0709
+LID - 10.34133/research.0709 [doi]
+LID - 0709
+AB  - Bedside monitoring of brain function in severely brain-injured patients remains a 
+      critical clinical challenge. We demonstrate the translational potential of 
+      functional ultrasound (fUS) imaging for this purpose. In 6 comatose patients 
+      (Glasgow coma scale </= 8) with cranial windows after decompressive craniectomy, we 
+      used a 7.8-MHz transducer optimized for cortical depths of 1.5 to 4 cm to perform 
+      real-time fUS during auditory stimulation. We observed task-related increases in 
+      regional cerebral blood flow (rCBF) in relevant brain regions (P < 0.001, t 
+      test), which correlated with subsequent neurological recovery at 9-month 
+      follow-up. These findings establish fUS as a sensitive and portable tool for 
+      bedside brain function assessment, offering potential for improved 
+      prognostication, treatment guidance, and development of targeted rehabilitative 
+      strategies.
+CI  - Copyright (c) 2025 Zihao Chen et al.
+FAU - Chen, Zihao
+AU  - Chen Z
+AUID- ORCID: 0009-0005-0766-6715
+AD  - Guangdong Institute of Intelligence Science and Technology, Hengqin, Zhuhai, 
+      Guangdong 519031, P. R. China.
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hong 
+      Kong SAR 999077, P. R. China.
+FAU - Li, Na
+AU  - Li N
+AD  - Guangdong Institute of Intelligence Science and Technology, Hengqin, Zhuhai, 
+      Guangdong 519031, P. R. China.
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hong 
+      Kong SAR 999077, P. R. China.
+FAU - Xi, Caihua
+AU  - Xi C
+AD  - Department of Neurosurgery, Huashan Hospital, Shanghai Medical College, Fudan 
+      University; National Center for Neurological Disorders; Shanghai Key Laboratory 
+      of Brain Function and Restoration and Neural Regeneration; Neurosurgical 
+      Institute of Fudan University; Shanghai Clinical Medical Center of Neurosurgery; 
+      Department of Neurosurgery & Neurocritical Care, Huashan Hospital, Shanghai 
+      Medical College, Fudan University, Shanghai, P. R. China.
+FAU - He, Jiaru
+AU  - He J
+AD  - Guangdong Institute of Intelligence Science and Technology, Hengqin, Zhuhai, 
+      Guangdong 519031, P. R. China.
+FAU - Zhu, Jiejun
+AU  - Zhu J
+AD  - Guangdong Institute of Intelligence Science and Technology, Hengqin, Zhuhai, 
+      Guangdong 519031, P. R. China.
+FAU - Wu, Gang
+AU  - Wu G
+AD  - Department of Neurosurgery, Huashan Hospital, Shanghai Medical College, Fudan 
+      University; National Center for Neurological Disorders; Shanghai Key Laboratory 
+      of Brain Function and Restoration and Neural Regeneration; Neurosurgical 
+      Institute of Fudan University; Shanghai Clinical Medical Center of Neurosurgery; 
+      Department of Neurosurgery & Neurocritical Care, Huashan Hospital, Shanghai 
+      Medical College, Fudan University, Shanghai, P. R. China.
+FAU - Xia, Jinzhao
+AU  - Xia J
+AD  - Guangdong Institute of Intelligence Science and Technology, Hengqin, Zhuhai, 
+      Guangdong 519031, P. R. China.
+FAU - Fei, Chunlong
+AU  - Fei C
+AD  - School of Microelectronics, Xidian University, Xi'an, Shannxi, P. R. China.
+FAU - Sun, Lei
+AU  - Sun L
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hong 
+      Kong SAR 999077, P. R. China.
+FAU - Xu, Hongzhi
+AU  - Xu H
+AD  - Department of Neurosurgery, Huashan Hospital, Shanghai Medical College, Fudan 
+      University; National Center for Neurological Disorders; Shanghai Key Laboratory 
+      of Brain Function and Restoration and Neural Regeneration; Neurosurgical 
+      Institute of Fudan University; Shanghai Clinical Medical Center of Neurosurgery; 
+      Department of Neurosurgery & Neurocritical Care, Huashan Hospital, Shanghai 
+      Medical College, Fudan University, Shanghai, P. R. China.
+FAU - Qiu, Zhihai
+AU  - Qiu Z
+AD  - Guangdong Institute of Intelligence Science and Technology, Hengqin, Zhuhai, 
+      Guangdong 519031, P. R. China.
+LA  - eng
+PT  - Journal Article
+DEP - 20250515
+PL  - United States
+TA  - Research (Wash D C)
+JT  - Research (Washington, D.C.)
+JID - 101747148
+PMC - PMC12079190
+COIS- Competing interests: The authors declare that they have no competing interests.
+EDAT- 2025/05/16 11:41
+MHDA- 2025/05/16 11:42
+PMCR- 2025/05/15
+CRDT- 2025/05/16 04:24
+PHST- 2025/03/06 00:00 [received]
+PHST- 2025/04/19 00:00 [revised]
+PHST- 2025/04/27 00:00 [accepted]
+PHST- 2025/05/16 11:42 [medline]
+PHST- 2025/05/16 11:41 [pubmed]
+PHST- 2025/05/16 04:24 [entrez]
+PHST- 2025/05/15 00:00 [pmc-release]
+AID - 0709 [pii]
+AID - 10.34133/research.0709 [doi]
+PST - epublish
+SO  - Research (Wash D C). 2025 May 15;8:0709. doi: 10.34133/research.0709. eCollection 
+      2025.
+
+PMID- 39876007
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250129
+LR  - 20250528
+IS  - 2050-7283 (Electronic)
+IS  - 2050-7283 (Linking)
+VI  - 13
+IP  - 1
+DP  - 2025 Jan 28
+TI  - Construction and initial validations of the major decision-making self-efficacy 
+      scale (MDMSES) for Chinese high school students.
+PG  - 81
+LID - 10.1186/s40359-025-02405-9 [doi]
+LID - 81
+AB  - BACKGROUND: Major decision-making self-efficacy (MDMSE) is an important indicator 
+      of students' ability to make effective decisions in specialty selection. It has 
+      implications for students' personal growth and career counselling interventions. 
+      While the previous MDMSES has been widely used in the context of China's New 
+      College Entrance Examination reform, the increased choice of majors and 
+      advancement of career planning necessitate a new scale to assess high school 
+      students' MDMSE levels. METHODS: Scale items were generated based on a literature 
+      review, student interviews, and expert reviews. Exploratory Factor Analysis and 
+      Confirmatory Factor Analysis were used to assess the appropriateness of the 
+      scale's structure, and network analysis was used to calculate concurrent 
+      validity. Retest reliability was calculated to evaluate stability. RESULTS: The 
+      MDMSES contains 24 items with five factors (Information Acquisition, Decision 
+      Persistence, Self-Determination, Self-Evaluation, and Social Support). The 
+      results show that the scale has a good five-factor structure (chi(2)/df = 1.91, 
+      CFI = 0.92, TLI = 0.91, RMSEA = 0.05, and SRMR = 0.06), and the internal 
+      consistency reliability of the total scale is 0.91. CONCLUSION: The scale 
+      development results satisfied the psychometric and statistical criteria, allowing 
+      the scale to be used as a means of detection to support intervention efforts for 
+      individuals with low MDMSE levels.
+CI  - (c) 2025. The Author(s).
+FAU - Li, Jingwen
+AU  - Li J
+AD  - School of Mental Health and Psychological Sciences, Anhui Medical University, 
+      Hefei, China.
+FAU - Zhang, Yanan
+AU  - Zhang Y
+AD  - School of Mental Health and Psychological Sciences, Anhui Medical University, 
+      Hefei, China.
+FAU - Gao, Limei
+AU  - Gao L
+AD  - School of Mental Health and Psychological Sciences, Anhui Medical University, 
+      Hefei, China.
+FAU - Qiu, Zhihai
+AU  - Qiu Z
+AD  - School of Mental Health and Psychological Sciences, Anhui Medical University, 
+      Hefei, China.
+FAU - Zhou, Yu
+AU  - Zhou Y
+AD  - School of Mental Health and Psychological Sciences, Anhui Medical University, 
+      Hefei, China.
+FAU - Guo, Ying
+AU  - Guo Y
+AD  - No.1 High School, Hefei, China.
+FAU - Hao, Tong
+AU  - Hao T
+AD  - School of Mental Health and Psychological Sciences, Anhui Medical University, 
+      Hefei, China.
+FAU - Li, Yongyi
+AU  - Li Y
+AD  - School of Mental Health and Psychological Sciences, Anhui Medical University, 
+      Hefei, China.
+FAU - Bian, Yu
+AU  - Bian Y
+AD  - School of Mental Health and Psychological Sciences, Anhui Medical University, 
+      Hefei, China.
+FAU - Li, Dandan
+AU  - Li D
+AD  - School of Mental Health and Psychological Sciences, Anhui Medical University, 
+      Hefei, China. 2021500075@ahmu.edu.cn.
+AD  - Department of Psychology, The Second Affiliated Hospital of Anhui Medical 
+      University, The School of Mental Health and Psychological Sciences, Anhui Medical 
+      University, Hefei, China. 2021500075@ahmu.edu.cn.
+AD  - Anhui Province Key Laboratory of Cognition and Neuropsychiatric Disorders, Hefei, 
+      China. 2021500075@ahmu.edu.cn.
+AD  - Collaborative Innovation Center of Neuropsychiatric Disorders and Mental Health, 
+      Hefei, China. 2021500075@ahmu.edu.cn.
+FAU - Zhu, Chunyan
+AU  - Zhu C
+AD  - School of Mental Health and Psychological Sciences, Anhui Medical University, 
+      Hefei, China. 1995500038@ahmu.edu.cn.
+AD  - Department of Psychology, The Second Affiliated Hospital of Anhui Medical 
+      University, The School of Mental Health and Psychological Sciences, Anhui Medical 
+      University, Hefei, China. 1995500038@ahmu.edu.cn.
+AD  - Institute of Artificial Intelligence, Hefei Comprehensive National Science 
+      Center, Hefei, China. 1995500038@ahmu.edu.cn.
+AD  - Anhui Province Key Laboratory of Cognition and Neuropsychiatric Disorders, Hefei, 
+      China. 1995500038@ahmu.edu.cn.
+AD  - Collaborative Innovation Center of Neuropsychiatric Disorders and Mental Health, 
+      Hefei, China. 1995500038@ahmu.edu.cn.
+LA  - eng
+GR  - 2022xkjT016/the Basic and Clinical Collaborative Research Enhancement Programme 
+      of Anhui Medical University/
+GR  - 82301735/National Natural Science Fund/
+GR  - GXXT-2021-003/the University Synergy Innovation Program of Anhui Province/
+PT  - Journal Article
+PT  - Validation Study
+DEP - 20250128
+PL  - England
+TA  - BMC Psychol
+JT  - BMC psychology
+JID - 101627676
+RN  - Chinese people
+SB  - IM
+MH  - Humans
+MH  - *Self Efficacy
+MH  - Adolescent
+MH  - Male
+MH  - Female
+MH  - China
+MH  - *Students/psychology
+MH  - Psychometrics/instrumentation
+MH  - Reproducibility of Results
+MH  - *Decision Making
+MH  - Factor Analysis, Statistical
+MH  - Surveys and Questionnaires
+MH  - *Career Choice
+MH  - East Asian People
+PMC - PMC11773702
+OTO - NOTNLM
+OT  - Career development
+OT  - Decision-making
+OT  - High school students
+OT  - Major choice
+OT  - Self-efficacy
+COIS- Declarations. Ethics approval and consent to participate: Informed consent had 
+      been collected from the parents or legal guardians of all participants. The data 
+      collection and parental informed consent forms of this study were reviewed and 
+      approved by The Ethics Committee of Anhui Medical University (Project ID: 
+      84230087). Consent for publication: Not applicable. Competing interests: The 
+      authors declare no competing interests.
+EDAT- 2025/01/29 00:20
+MHDA- 2025/01/29 06:20
+PMCR- 2025/01/28
+CRDT- 2025/01/28 23:41
+PHST- 2024/09/08 00:00 [received]
+PHST- 2025/01/20 00:00 [accepted]
+PHST- 2025/01/29 06:20 [medline]
+PHST- 2025/01/29 00:20 [pubmed]
+PHST- 2025/01/28 23:41 [entrez]
+PHST- 2025/01/28 00:00 [pmc-release]
+AID - 10.1186/s40359-025-02405-9 [pii]
+AID - 2405 [pii]
+AID - 10.1186/s40359-025-02405-9 [doi]
+PST - epublish
+SO  - BMC Psychol. 2025 Jan 28;13(1):81. doi: 10.1186/s40359-025-02405-9.
+
+PMID- 39448062
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20241106
+LR  - 20250407
+IS  - 1948-7193 (Electronic)
+IS  - 1948-7193 (Linking)
+VI  - 15
+IP  - 21
+DP  - 2024 Nov 6
+TI  - Ultrasound Neuromodulation for Sleep and Neurological Disorder Therapy: A Path to 
+      Clinical Translation.
+PG  - 3797-3799
+LID - 10.1021/acschemneuro.4c00687 [doi]
+AB  - Ultrasound neuromodulation is a promising noninvasive technique capable of 
+      penetrating the skull and precisely targeting deep brain regions with millimeter 
+      accuracy. Recent studies have demonstrated that transcranial ultrasound 
+      stimulation (TUS) of sleep-related brain areas can induce sleep in mice and even 
+      trigger a reversible, hibernation-like state without causing damage. Beyond its 
+      utility in preclinical models of central nervous system diseases, such as 
+      epilepsy, tremors, Alzheimer's disease, and depression, TUS holds significant 
+      potential for clinical translation. Given that many neurological disorders, 
+      including Alzheimer's and Parkinson's disease, are associated with sleep 
+      abnormalities, leveraging clinical TUS applications for these diseases also 
+      creates a pathway for translating this technology to sleep modulation in human 
+      use. These findings highlight the potential for ultrasound neuromodulation to 
+      advance neuroscience research and clinical applications in sleep control.
+FAU - Zheng, Hanming
+AU  - Zheng H
+AD  - Biomedical Imaging Laboratory (BIG), Department of Electrical and Computer 
+      Engineering, University of Macau, Taipa, Macau 999078, China.
+AD  - Guangdong Institute of Intelligence Science and Technology, Hengqin, Zhuhai, 
+      Guangdong 519031, China.
+FAU - He, Jiaru
+AU  - He J
+AD  - Guangdong Institute of Intelligence Science and Technology, Hengqin, Zhuhai, 
+      Guangdong 519031, China.
+FAU - Mok, Greta S P
+AU  - Mok GSP
+AD  - Biomedical Imaging Laboratory (BIG), Department of Electrical and Computer 
+      Engineering, University of Macau, Taipa, Macau 999078, China.
+AD  - Center for Cognitive and Brain Sciences, Institute of Collaborative Innovation, 
+      University of Macau, Taipa, Macau 999078, China.
+FAU - Qiu, Zhihai
+AU  - Qiu Z
+AD  - Guangdong Institute of Intelligence Science and Technology, Hengqin, Zhuhai, 
+      Guangdong 519031, China.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20241024
+PL  - United States
+TA  - ACS Chem Neurosci
+JT  - ACS chemical neuroscience
+JID - 101525337
+SB  - IM
+MH  - Humans
+MH  - Animals
+MH  - *Sleep Wake Disorders/therapy
+MH  - *Nervous System Diseases/therapy
+MH  - Translational Research, Biomedical/methods
+MH  - Ultrasonic Therapy/methods
+MH  - Sleep/physiology
+MH  - Brain
+OTO - NOTNLM
+OT  - clinical translation
+OT  - sleep
+OT  - treatment
+OT  - ultrasound neuromodulation
+EDAT- 2024/10/25 00:21
+MHDA- 2024/11/06 06:22
+CRDT- 2024/10/24 20:12
+PHST- 2024/11/06 06:22 [medline]
+PHST- 2024/10/25 00:21 [pubmed]
+PHST- 2024/10/24 20:12 [entrez]
+AID - 10.1021/acschemneuro.4c00687 [doi]
+PST - ppublish
+SO  - ACS Chem Neurosci. 2024 Nov 6;15(21):3797-3799. doi: 
+      10.1021/acschemneuro.4c00687. Epub 2024 Oct 24.
+
+PMID- 39311619
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240923
+LR  - 20260404
+IS  - 1940-087X (Electronic)
+IS  - 1940-087X (Linking)
+IP  - 211
+DP  - 2024 Sep 6
+TI  - Simultaneous Focused Ultrasound Neuromodulation and Fiber Photometry Recording in 
+      Free-Moving Mouse.
+LID - 10.3791/67090 [doi]
+AB  - Focused ultrasound neuromodulation (FUN) represents a promising approach for 
+      non-invasive perturbation of neuronal circuits at deep brain regions. It is 
+      compatible with most of the existing modalities for monitoring brain functions in 
+      vivo. Integration with brain function recording modalities not only enables us to 
+      address orders and disorders of specific brain functions with closed-loop 
+      feedback but also provides us with mechanistic insights about FUN itself. Here, 
+      we provide a modified, simple, dependable, and robust protocol for the 
+      simultaneous application of FUN and fiber photometry GCaMP6s fluorescence 
+      recording in free-moving mice. This involves the fabrication of a well-sized 
+      single transducer and its temporary placement on the mice, along with the secure 
+      fixation of a fiber optical implant to facilitate the smooth passage of the 
+      transducer. The combination of FUN and fiber photometry provides for the optical 
+      recording of neural circuitry responses upon FUN in real-time in deep brain 
+      regions. To demonstrate the efficiency of this protocol, Thy1-GCaMP6s mice were 
+      used as an example to record the neuroactivity in the anterior thalamic nucleus 
+      during FUN while the mice are freely moving. We believe that this protocol can 
+      promote the widespread use of FUN in both the neuroscience field and the 
+      biomedical ultrasound field.
+FAU - Li, Na
+AU  - Li N
+AD  - Guangdong Institute of Intelligence Science and Technology; School of 
+      Microelectronics, Xidian University.
+FAU - Chen, Zihao
+AU  - Chen Z
+AD  - Guangdong Institute of Intelligence Science and Technology; Department of 
+      Biomedical Engineering, The Hong Kong Polytechnic University.
+FAU - Zhu, Jiejun
+AU  - Zhu J
+AD  - Guangdong Institute of Intelligence Science and Technology.
+FAU - Zheng, Hanming
+AU  - Zheng H
+AD  - Guangdong Institute of Intelligence Science and Technology; Centre for Cognitive 
+      and Brain Sciences and Ministry of Education Frontiers Science Center for 
+      Precision Oncology, University of Macau.
+FAU - Xia, Jinzhao
+AU  - Xia J
+AD  - Guangdong Institute of Intelligence Science and Technology; Deep Brain Technology 
+      Co., Ltd.
+FAU - Yuan, Zhen
+AU  - Yuan Z
+AD  - Centre for Cognitive and Brain Sciences and Ministry of Education Frontiers 
+      Science Center for Precision Oncology, University of Macau.
+FAU - Fei, Chunlong
+AU  - Fei C
+AD  - School of Microelectronics, Xidian University; clfei@xidian.edu.cn.
+FAU - Sun, Lei
+AU  - Sun L
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University; 
+      lei.sun@polyu.edu.hk.
+FAU - Qiu, Zhihai
+AU  - Qiu Z
+AD  - Guangdong Institute of Intelligence Science and Technology; qiuzhihai@gdiist.cn.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Video-Audio Media
+DEP - 20240906
+PL  - United States
+TA  - J Vis Exp
+JT  - Journal of visualized experiments : JoVE
+JID - 101313252
+SB  - IM
+MH  - Animals
+MH  - Mice
+MH  - *Photometry/instrumentation/methods
+MH  - Brain/physiology/diagnostic imaging
+EDAT- 2024/09/23 12:48
+MHDA- 2024/09/23 12:49
+CRDT- 2024/09/23 09:05
+PHST- 2024/09/23 12:49 [medline]
+PHST- 2024/09/23 12:48 [pubmed]
+PHST- 2024/09/23 09:05 [entrez]
+AID - 10.3791/67090 [doi]
+PST - epublish
+SO  - J Vis Exp. 2024 Sep 6;(211). doi: 10.3791/67090.
+
+PMID- 38480733
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240315
+LR  - 20260927
+IS  - 2041-1723 (Electronic)
+IS  - 2041-1723 (Linking)
+VI  - 15
+IP  - 1
+DP  - 2024 Mar 13
+TI  - Nanobubble-actuated ultrasound neuromodulation for selectively shaping behavior 
+      in mice.
+PG  - 2253
+LID - 10.1038/s41467-024-46461-y [doi]
+LID - 2253
+AB  - Ultrasound is an acoustic wave which can noninvasively penetrate the skull to 
+      deep brain regions, enabling neuromodulation. However, conventional ultrasound's 
+      spatial resolution is diffraction-limited and low-precision. Here, we report 
+      acoustic nanobubble-mediated ultrasound stimulation capable of localizing 
+      ultrasound's effects to only the desired brain region in male mice. By varying 
+      the delivery site of nanobubbles, ultrasound could activate specific regions of 
+      the mouse motor cortex, evoking EMG signaling and limb movement, and could also, 
+      separately, activate one of two nearby deep brain regions to elicit distinct 
+      behaviors (freezing or rotation). Sonicated neurons displayed reversible, 
+      low-latency calcium responses and increased c-Fos expression in the 
+      sub-millimeter-scale region with nanobubbles present. Ultrasound stimulation of 
+      the relevant region also modified depression-like behavior in a mouse model. We 
+      also provide evidence of a role for mechanosensitive ion channels. Altogether, 
+      our treatment scheme allows spatially-targetable, repeatable and 
+      temporally-precise activation of deep brain circuits for neuromodulation without 
+      needing genetic modification.
+CI  - (c) 2024. The Author(s).
+FAU - Hou, Xuandi
+AU  - Hou X
+AUID- ORCID: 0000-0002-9718-6539
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hung 
+      Hom, 999077, Hong Kong SAR, PR China.
+FAU - Jing, Jianing
+AU  - Jing J
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hung 
+      Hom, 999077, Hong Kong SAR, PR China.
+FAU - Jiang, Yizhou
+AU  - Jiang Y
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hung 
+      Hom, 999077, Hong Kong SAR, PR China.
+FAU - Huang, Xiaohui
+AU  - Huang X
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hung 
+      Hom, 999077, Hong Kong SAR, PR China.
+FAU - Xian, Quanxiang
+AU  - Xian Q
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hung 
+      Hom, 999077, Hong Kong SAR, PR China.
+FAU - Lei, Ting
+AU  - Lei T
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hung 
+      Hom, 999077, Hong Kong SAR, PR China.
+FAU - Zhu, Jiejun
+AU  - Zhu J
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hung 
+      Hom, 999077, Hong Kong SAR, PR China.
+AD  - Guangdong Institute of Intelligence Science and Technology, Hengqin, Zhuhai, 
+      519031, Guangdong, China.
+FAU - Wong, Kin Fung
+AU  - Wong KF
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hung 
+      Hom, 999077, Hong Kong SAR, PR China.
+FAU - Zhao, Xinyi
+AU  - Zhao X
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hung 
+      Hom, 999077, Hong Kong SAR, PR China.
+FAU - Su, Min
+AU  - Su M
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hung 
+      Hom, 999077, Hong Kong SAR, PR China.
+FAU - Li, Danni
+AU  - Li D
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hung 
+      Hom, 999077, Hong Kong SAR, PR China.
+FAU - Liu, Langzhou
+AU  - Liu L
+AUID- ORCID: 0000-0001-6176-3640
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hung 
+      Hom, 999077, Hong Kong SAR, PR China.
+FAU - Qiu, Zhihai
+AU  - Qiu Z
+AD  - Guangdong Institute of Intelligence Science and Technology, Hengqin, Zhuhai, 
+      519031, Guangdong, China.
+FAU - Sun, Lei
+AU  - Sun L
+AUID- ORCID: 0000-0001-7047-9529
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hung 
+      Hom, 999077, Hong Kong SAR, PR China. lei.sun@polyu.edu.hk.
+LA  - eng
+GR  - 1-CD76/Hong Kong Polytechnic University (Hong Kong PolyU)/
+GR  - 1-ZVW8/Hong Kong Polytechnic University (Hong Kong PolyU)/
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20240313
+PL  - England
+TA  - Nat Commun
+JT  - Nature communications
+JID - 101528555
+SB  - IM
+MH  - Male
+MH  - Animals
+MH  - Mice
+MH  - *Brain/diagnostic imaging/physiology
+MH  - Ultrasonography
+MH  - *Skull
+MH  - Ultrasonic Waves
+MH  - Movement
+PMC - PMC10937988
+COIS- The authors declare no competing interests.
+EDAT- 2024/03/14 06:46
+MHDA- 2024/03/15 06:43
+PMCR- 2024/03/13
+CRDT- 2024/03/14 00:57
+PHST- 2023/02/24 00:00 [received]
+PHST- 2024/02/28 00:00 [accepted]
+PHST- 2024/03/15 06:43 [medline]
+PHST- 2024/03/14 06:46 [pubmed]
+PHST- 2024/03/14 00:57 [entrez]
+PHST- 2024/03/13 00:00 [pmc-release]
+AID - 10.1038/s41467-024-46461-y [pii]
+AID - 46461 [pii]
+AID - 10.1038/s41467-024-46461-y [doi]
+PST - epublish
+SO  - Nat Commun. 2024 Mar 13;15(1):2253. doi: 10.1038/s41467-024-46461-y.
+
+PMID- 37656645
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240122
+LR  - 20241213
+IS  - 1558-2531 (Electronic)
+IS  - 0018-9294 (Linking)
+VI  - 71
+IP  - 2
+DP  - 2024 Feb
+TI  - Ultra-High Frequency Self-Focusing Ultrasonic Sensors With Half-Concave Geometry 
+      for Visualization of Mouse Brain Atrophy.
+PG  - 524-530
+LID - 10.1109/TBME.2023.3308574 [doi]
+AB  - Ultra-high frequency (>100 MHz) acoustic waves feature biocompatibility and high 
+      sensitivity and allow biomedical imaging and acoustic tweezers. Primarily, 
+      excellent spatial resolution and broad bandwidth at ultra-high frequency is the 
+      goal for pathological research and cell selection at the cellular level. Here, we 
+      propose an efficient approach to visualize mouse brain atrophy by self-focused 
+      ultrasonic sensors at ultra-high frequency with ultra-broad bandwidth. The 
+      numerical models of geometry and theoretically predicted acoustic parameters for 
+      half-concave piezoelectric elements are calculated by the differential method, 
+      which agrees with measured results (lateral resolution: 24 mum, and bandwidth: 
+      115% at -6 dB). Compared with the brain slices of 2-month-old mouse, the atrophy 
+      visualization of the 6-month-old mouse brain was realized by C-mode imaging with 
+      an acoustic microscopy system, which is a potential prospect for diagnosis and 
+      treatment of Alzheimer's disease (AD) combined with neuroscience. Meanwhile, the 
+      acoustic properties of the brain slices were quantitatively measured by the 
+      acoustic microscopy. These encouraging results demonstrate the promising 
+      application for high-resolution imaging in vitro biological tissue with 
+      ultra-high frequency self-focusing ultrasonic sensors.
+FAU - Zhao, Jianxin
+AU  - Zhao J
+FAU - Fei, Chunlong
+AU  - Fei C
+FAU - He, Jingrong
+AU  - He J
+FAU - He, Dongming
+AU  - He D
+FAU - Wang, Yecheng
+AU  - Wang Y
+FAU - Chen, Jun
+AU  - Chen J
+FAU - Li, Zhaoxi
+AU  - Li Z
+FAU - Quan, Yi
+AU  - Quan Y
+FAU - Zhao, Tianlong
+AU  - Zhao T
+FAU - Lou, Lifei
+AU  - Lou L
+FAU - Qiu, Zhihai
+AU  - Qiu Z
+FAU - Yang, Yintang
+AU  - Yang Y
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+DEP - 20240119
+PL  - United States
+TA  - IEEE Trans Biomed Eng
+JT  - IEEE transactions on bio-medical engineering
+JID - 0012737
+SB  - IM
+MH  - Mice
+MH  - Animals
+MH  - *Ultrasonics
+MH  - *Diagnostic Imaging
+MH  - Acoustics
+MH  - Brain/diagnostic imaging
+MH  - Atrophy
+EDAT- 2023/09/01 18:41
+MHDA- 2024/01/22 06:43
+CRDT- 2023/09/01 12:53
+PHST- 2024/01/22 06:43 [medline]
+PHST- 2023/09/01 18:41 [pubmed]
+PHST- 2023/09/01 12:53 [entrez]
+AID - 10.1109/TBME.2023.3308574 [doi]
+PST - ppublish
+SO  - IEEE Trans Biomed Eng. 2024 Feb;71(2):524-530. doi: 10.1109/TBME.2023.3308574. 
+      Epub 2024 Jan 19.
+
+PMID- 37216521
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230524
+LR  - 20230605
+IS  - 1091-6490 (Electronic)
+IS  - 0027-8424 (Print)
+IS  - 0027-8424 (Linking)
+VI  - 120
+IP  - 22
+DP  - 2023 May 30
+TI  - Modulation of deep neural circuits with sonogenetics.
+PG  - e2220575120
+LID - 10.1073/pnas.2220575120 [doi]
+LID - e2220575120
+AB  - Noninvasive control of neuronal activity in the deep brain can be illuminating 
+      for probing brain function and treating dysfunctions. Here, we present a 
+      sonogenetic approach for controlling distinct mouse behavior with circuit 
+      specificity and subsecond temporal resolution. Targeted neurons in subcortical 
+      regions were made to express a mutant large conductance mechanosensitive ion 
+      channel (MscL-G22S), enabling ultrasound to trigger activity in MscL-expressing 
+      neurons in the dorsal striatum and increase locomotion in freely moving mice. 
+      Ultrasound stimulation of MscL-expressing neurons in the ventral tegmental area 
+      could activate the mesolimbic pathway to trigger dopamine release in the nucleus 
+      accumbens and modulate appetitive conditioning. Moreover, sonogenetic stimulation 
+      of the subthalamic nuclei of Parkinson's disease model mice improved their motor 
+      coordination and mobile time. Neuronal responses to ultrasound pulse trains were 
+      rapid, reversible, and repeatable. We also confirmed that the MscL-G22S mutant is 
+      more effective to sensitize neurons to ultrasound compared to the wild-type MscL. 
+      Altogether, we lay out a sonogenetic approach which can selectively manipulate 
+      targeted cells to activate defined neural pathways, affect specific behaviors, 
+      and relieve symptoms of neurodegenerative disease.
+FAU - Xian, Quanxiang
+AU  - Xian Q
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hung 
+      Hom, Hong Kong SAR 999077, P.R. China.
+FAU - Qiu, Zhihai
+AU  - Qiu Z
+AUID- ORCID: 0000-0003-1694-5706
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hung 
+      Hom, Hong Kong SAR 999077, P.R. China.
+AD  - Guangdong Institute of Intelligence Science and Technology, Hengqin, Zhuhai, 
+      Guangdong 519031, P.R. China.
+FAU - Murugappan, Suresh
+AU  - Murugappan S
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hung 
+      Hom, Hong Kong SAR 999077, P.R. China.
+FAU - Kala, Shashwati
+AU  - Kala S
+AUID- ORCID: 0000-0002-5318-0434
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hung 
+      Hom, Hong Kong SAR 999077, P.R. China.
+FAU - Wong, Kin Fung
+AU  - Wong KF
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hung 
+      Hom, Hong Kong SAR 999077, P.R. China.
+FAU - Li, Danni
+AU  - Li D
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hung 
+      Hom, Hong Kong SAR 999077, P.R. China.
+FAU - Li, Guofeng
+AU  - Li G
+AD  - Paul C. Lauterbur Research Center for Biomedical Imaging, Institute of Biomedical 
+      and Health Engineering, Shenzhen Institutes of Advanced Technology, Chinese 
+      Academy of Sciences, Shenzhen 518055, P.R. China.
+FAU - Jiang, Yizhou
+AU  - Jiang Y
+AUID- ORCID: 0000-0002-7023-6540
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hung 
+      Hom, Hong Kong SAR 999077, P.R. China.
+FAU - Wu, Yong
+AU  - Wu Y
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hung 
+      Hom, Hong Kong SAR 999077, P.R. China.
+FAU - Su, Min
+AU  - Su M
+AUID- ORCID: 0000-0001-5950-9547
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hung 
+      Hom, Hong Kong SAR 999077, P.R. China.
+FAU - Hou, Xuandi
+AU  - Hou X
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hung 
+      Hom, Hong Kong SAR 999077, P.R. China.
+FAU - Zhu, Jiejun
+AU  - Zhu J
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hung 
+      Hom, Hong Kong SAR 999077, P.R. China.
+AD  - Guangdong Institute of Intelligence Science and Technology, Hengqin, Zhuhai, 
+      Guangdong 519031, P.R. China.
+FAU - Guo, Jinghui
+AU  - Guo J
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hung 
+      Hom, Hong Kong SAR 999077, P.R. China.
+FAU - Qiu, Weibao
+AU  - Qiu W
+AD  - Paul C. Lauterbur Research Center for Biomedical Imaging, Institute of Biomedical 
+      and Health Engineering, Shenzhen Institutes of Advanced Technology, Chinese 
+      Academy of Sciences, Shenzhen 518055, P.R. China.
+FAU - Sun, Lei
+AU  - Sun L
+AUID- ORCID: 0000-0001-7047-9529
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hung 
+      Hom, Hong Kong SAR 999077, P.R. China.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20230522
+PL  - United States
+TA  - Proc Natl Acad Sci U S A
+JT  - Proceedings of the National Academy of Sciences of the United States of America
+JID - 7505876
+RN  - VTD58H1Z2X (Dopamine)
+SB  - IM
+MH  - Mice
+MH  - Animals
+MH  - *Neurodegenerative Diseases
+MH  - Brain
+MH  - *Subthalamic Nucleus/physiology
+MH  - Nucleus Accumbens
+MH  - Dopamine/physiology
+MH  - Neural Pathways
+PMC - PMC10235981
+OTO - NOTNLM
+OT  - MscL-G22S
+OT  - neural circuits
+OT  - neuromodulation
+OT  - sonogenetics
+OT  - ultrasound
+COIS- The authors declare no competing interest.
+EDAT- 2023/05/22 19:11
+MHDA- 2023/05/24 06:42
+PMCR- 2023/05/22
+CRDT- 2023/05/22 15:13
+PHST- 2023/05/24 06:42 [medline]
+PHST- 2023/05/22 19:11 [pubmed]
+PHST- 2023/05/22 15:13 [entrez]
+PHST- 2023/05/22 00:00 [pmc-release]
+AID - 202220575 [pii]
+AID - 10.1073/pnas.2220575120 [doi]
+PST - ppublish
+SO  - Proc Natl Acad Sci U S A. 2023 May 30;120(22):e2220575120. doi: 
+      10.1073/pnas.2220575120. Epub 2023 May 22.
+
+PMID- 37098060
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230427
+LR  - 20230510
+IS  - 1091-6490 (Electronic)
+IS  - 0027-8424 (Print)
+IS  - 0027-8424 (Linking)
+VI  - 120
+IP  - 18
+DP  - 2023 May 2
+TI  - The mechanosensitive ion channel Piezo1 contributes to ultrasound 
+      neuromodulation.
+PG  - e2300291120
+LID - 10.1073/pnas.2300291120 [doi]
+LID - e2300291120
+AB  - Transcranial low-intensity ultrasound is a promising neuromodulation modality, 
+      with the advantages of noninvasiveness, deep penetration, and high spatiotemporal 
+      accuracy. However, the underlying biological mechanism of ultrasonic 
+      neuromodulation remains unclear, hindering the development of efficacious 
+      treatments. Here, the well-known Piezo1 was studied through a conditional 
+      knockout mouse model as a major mediator for ultrasound neuromodulation ex vivo 
+      and in vivo. We showed that Piezo1 knockout (P1KO) in the right motor cortex of 
+      mice significantly reduced ultrasound-induced neuronal calcium responses, limb 
+      movement, and muscle electromyogram (EMG) responses. We also detected higher 
+      Piezo1 expression in the central amygdala (CEA), which was found to be more 
+      sensitive to ultrasound stimulation than the cortex was. Knocking out the Piezo1 
+      in CEA neurons showed a significant reduction of response under ultrasound 
+      stimulation, while knocking out astrocytic Piezo1 showed no-obvious changes in 
+      neuronal responses. Additionally, we excluded an auditory confound by monitoring 
+      auditory cortical activation and using smooth waveform ultrasound with randomized 
+      parameters to stimulate P1KO ipsilateral and contralateral regions of the same 
+      brain and recording evoked movement in the corresponding limb. Thus, we 
+      demonstrate that Piezo1 is functionally expressed in different brain regions and 
+      that it is an important mediator of ultrasound neuromodulation in the brain, 
+      laying the ground for further mechanistic studies of ultrasound.
+FAU - Zhu, Jiejun
+AU  - Zhu J
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hong 
+      Kong SAR 999077, China.
+AD  - Guangdong Institute of Intelligence Science and Technology, Hengqin, Zhuhai, 
+      Guangdong 519031, China.
+FAU - Xian, Quanxiang
+AU  - Xian Q
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hong 
+      Kong SAR 999077, China.
+FAU - Hou, Xuandi
+AU  - Hou X
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hong 
+      Kong SAR 999077, China.
+FAU - Wong, Kin Fung
+AU  - Wong KF
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hong 
+      Kong SAR 999077, China.
+FAU - Zhu, Tingting
+AU  - Zhu T
+AD  - Guangdong Institute of Intelligence Science and Technology, Hengqin, Zhuhai, 
+      Guangdong 519031, China.
+FAU - Chen, Zihao
+AU  - Chen Z
+AD  - Guangdong Institute of Intelligence Science and Technology, Hengqin, Zhuhai, 
+      Guangdong 519031, China.
+FAU - He, Dongming
+AU  - He D
+AD  - Guangdong Institute of Intelligence Science and Technology, Hengqin, Zhuhai, 
+      Guangdong 519031, China.
+FAU - Kala, Shashwati
+AU  - Kala S
+AUID- ORCID: 0000-0002-5318-0434
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hong 
+      Kong SAR 999077, China.
+FAU - Murugappan, Suresh
+AU  - Murugappan S
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hong 
+      Kong SAR 999077, China.
+FAU - Jing, Jianing
+AU  - Jing J
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hong 
+      Kong SAR 999077, China.
+FAU - Wu, Yong
+AU  - Wu Y
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hong 
+      Kong SAR 999077, China.
+FAU - Zhao, Xinyi
+AU  - Zhao X
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hong 
+      Kong SAR 999077, China.
+FAU - Li, Danni
+AU  - Li D
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hong 
+      Kong SAR 999077, China.
+FAU - Guo, Jinghui
+AU  - Guo J
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hong 
+      Kong SAR 999077, China.
+FAU - Qiu, Zhihai
+AU  - Qiu Z
+AUID- ORCID: 0000-0003-1694-5706
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hong 
+      Kong SAR 999077, China.
+AD  - Guangdong Institute of Intelligence Science and Technology, Hengqin, Zhuhai, 
+      Guangdong 519031, China.
+FAU - Sun, Lei
+AU  - Sun L
+AUID- ORCID: 0000-0001-7047-9529
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hong 
+      Kong SAR 999077, China.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20230425
+PL  - United States
+TA  - Proc Natl Acad Sci U S A
+JT  - Proceedings of the National Academy of Sciences of the United States of America
+JID - 7505876
+RN  - 0 (Ion Channels)
+RN  - 0 (Piezo1 protein, mouse)
+SB  - IM
+MH  - Mice
+MH  - Animals
+MH  - *Brain/physiology
+MH  - *Auditory Cortex/metabolism
+MH  - Ultrasonography
+MH  - Neurons/metabolism
+MH  - Mice, Knockout
+MH  - Ion Channels/genetics/metabolism
+PMC - PMC10161134
+OTO - NOTNLM
+OT  - Piezo1
+OT  - focused ultrasound
+OT  - mechanosensitive ion channels
+OT  - sonogenetics
+OT  - transcranial ultrasound neuromodulation
+COIS- The authors declare no competing interest.
+EDAT- 2023/04/25 18:42
+MHDA- 2023/04/27 06:42
+PMCR- 2023/04/25
+CRDT- 2023/04/25 13:43
+PHST- 2023/04/27 06:42 [medline]
+PHST- 2023/04/25 18:42 [pubmed]
+PHST- 2023/04/25 13:43 [entrez]
+PHST- 2023/04/25 00:00 [pmc-release]
+AID - 202300291 [pii]
+AID - 10.1073/pnas.2300291120 [doi]
+PST - ppublish
+SO  - Proc Natl Acad Sci U S A. 2023 May 2;120(18):e2300291120. doi: 
+      10.1073/pnas.2300291120. Epub 2023 Apr 25.
+
+PMID- 36950590
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20230324
+IS  - 2405-8440 (Print)
+IS  - 2405-8440 (Electronic)
+IS  - 2405-8440 (Linking)
+VI  - 9
+IP  - 3
+DP  - 2023 Mar
+TI  - Measuring sound velocity based on acoustic resonance using multiple narrow band 
+      transducers.
+PG  - e14227
+LID - 10.1016/j.heliyon.2023.e14227 [doi]
+LID - e14227
+AB  - The sound velocity in a medium is closely related to its material properties, 
+      including its composition, structure, density, pressure, and temperature. Various 
+      methods have been developed to determine the sound velocity through materials. 
+      Among them, a strategy based on ultrasound resonance frequency has been most 
+      widely used due to the simplicity. However, it requires a transducer with a wide 
+      bandwidth to cover enough resonance frequencies to perform the consequent 
+      calculations. In this paper, we develop a resonance method for measuring sound 
+      velocity, using multi-frequency narrow-band transducers breaking through the 
+      limitation of transducer bandwidth on the utilization of the resonance method. We 
+      use different transducers at different center frequencies and with different 
+      bandwidth to measure the sound velocity in 100-mum and 400-mum thick steel pieces. 
+      The measurement results of different combinations are in good agreement, 
+      verifying that the use of multi-frequency narrow-band transducer combinations. 
+      Given that most therapeutic transducers have a narrow bandwidth, this method can 
+      be used during intracranial ultrasound stimulation to optimize targeting by 
+      non-invasively measuring the sound velocity in the skull, especially at thinner 
+      locations.
+CI  - (c) 2023 The Authors.
+FAU - Li, Na
+AU  - Li N
+AD  - School of Microelectronics, Xidian University, Xi'an; Guangdong Institute of 
+      Intelligence Science and Technology, Hengqin, Zhuhai, Guangdong 519031, China.
+AD  - Guangdong Institute of Intelligence Science and Technology, Hengqin, Zhuhai, 
+      Guangdong 519031, China.
+FAU - Chen, Zihao
+AU  - Chen Z
+AD  - School of Microelectronics, Xidian University, Xi'an; Guangdong Institute of 
+      Intelligence Science and Technology, Hengqin, Zhuhai, Guangdong 519031, China.
+AD  - Guangdong Institute of Intelligence Science and Technology, Hengqin, Zhuhai, 
+      Guangdong 519031, China.
+FAU - Zhu, Jiejun
+AU  - Zhu J
+AD  - Guangdong Institute of Intelligence Science and Technology, Hengqin, Zhuhai, 
+      Guangdong 519031, China.
+FAU - Choi, Mi Hyun
+AU  - Choi MH
+AD  - Department of Bioengineering, Stanford University, CA, USA.
+FAU - Yang, Jin
+AU  - Yang J
+AD  - Guangdong Institute of Intelligence Science and Technology, Hengqin, Zhuhai, 
+      Guangdong 519031, China.
+AD  - Key Laboratory of Opto-Electronics Information Technology, Ministry of Education, 
+      School of Precision In-strument & Opto-Electronics Engineering, Tianjin 
+      University, Tianjin 300072, China.
+FAU - Yuan, Zhen
+AU  - Yuan Z
+AD  - Faculty of Health Sciences, Centre for Cognitive and Brain Sciences, University 
+      of Macau, Macau SAR China.
+FAU - Sun, Lei
+AU  - Sun L
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hung 
+      Hom, Hong Kong SAR, PR China.
+FAU - Fei, Chunlong
+AU  - Fei C
+AD  - School of Microelectronics, Xidian University, Xi'an; Guangdong Institute of 
+      Intelligence Science and Technology, Hengqin, Zhuhai, Guangdong 519031, China.
+FAU - Qiu, Zhihai
+AU  - Qiu Z
+AD  - School of Microelectronics, Xidian University, Xi'an; Guangdong Institute of 
+      Intelligence Science and Technology, Hengqin, Zhuhai, Guangdong 519031, China.
+AD  - Guangdong Institute of Intelligence Science and Technology, Hengqin, Zhuhai, 
+      Guangdong 519031, China.
+LA  - eng
+PT  - Journal Article
+DEP - 20230301
+PL  - England
+TA  - Heliyon
+JT  - Heliyon
+JID - 101672560
+PMC - PMC10025888
+OTO - NOTNLM
+OT  - Multiple frequencies
+OT  - Multiple ultrasound transducers
+OT  - Resonance frequency
+OT  - Sound velocity measurement
+COIS- The authors declare no conflict of interest.
+EDAT- 2023/03/24 06:00
+MHDA- 2023/03/24 06:01
+PMCR- 2023/03/01
+CRDT- 2023/03/23 02:29
+PHST- 2022/11/08 00:00 [received]
+PHST- 2023/02/24 00:00 [revised]
+PHST- 2023/02/26 00:00 [accepted]
+PHST- 2023/03/23 02:29 [entrez]
+PHST- 2023/03/24 06:00 [pubmed]
+PHST- 2023/03/24 06:01 [medline]
+PHST- 2023/03/01 00:00 [pmc-release]
+AID - S2405-8440(23)01434-2 [pii]
+AID - e14227 [pii]
+AID - 10.1016/j.heliyon.2023.e14227 [doi]
+PST - epublish
+SO  - Heliyon. 2023 Mar 1;9(3):e14227. doi: 10.1016/j.heliyon.2023.e14227. eCollection 
+      2023 Mar.
+
+PMID- 36343238
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20221109
+LR  - 20260305
+IS  - 1091-6490 (Electronic)
+IS  - 0027-8424 (Print)
+IS  - 0027-8424 (Linking)
+VI  - 119
+IP  - 46
+DP  - 2022 Nov 16
+TI  - A tool for monitoring cell type-specific focused ultrasound neuromodulation and 
+      control of chronic epilepsy.
+PG  - e2206828119
+LID - 10.1073/pnas.2206828119 [doi]
+LID - e2206828119
+AB  - Focused ultrasound (FUS) is a powerful tool for noninvasive modulation of deep 
+      brain activity with promising therapeutic potential for refractory epilepsy; 
+      however, tools for examining FUS effects on specific cell types within the deep 
+      brain do not yet exist. Consequently, how cell types within heterogeneous 
+      networks can be modulated and whether parameters can be identified to bias these 
+      networks in the context of complex behaviors remains unknown. To address this, we 
+      developed a fiber Photometry Coupled focused Ultrasound System (PhoCUS) for 
+      simultaneously monitoring FUS effects on neural activity of subcortical 
+      genetically targeted cell types in freely behaving animals. We identified a 
+      parameter set that selectively increases activity of parvalbumin interneurons 
+      while suppressing excitatory neurons in the hippocampus. A net inhibitory effect 
+      localized to the hippocampus was further confirmed through whole brain metabolic 
+      imaging. Finally, these inhibitory selective parameters achieved significant 
+      spike suppression in the kainate model of chronic temporal lobe epilepsy, opening 
+      the door for future noninvasive therapies.
+FAU - Murphy, Keith R
+AU  - Murphy KR
+AD  - Department of Psychiatry and Behavioral Sciences, Stanford University, Stanford, 
+      CA 94305.
+FAU - Farrell, Jordan S
+AU  - Farrell JS
+AD  - Department of Neurosurgery, Stanford University, Stanford, CA 94305.
+FAU - Gomez, Juan L
+AU  - Gomez JL
+AD  - Biobehavioral Imaging and Molecular Neuropsychopharmacology Unit, National 
+      Institute on Drug Abuse, Baltimore, MD 21224.
+AD  - Department of Radiology, Johns Hopkins University School of Medicine, Baltimore, 
+      MD 21205.
+FAU - Stedman, Quintin G
+AU  - Stedman QG
+AD  - Department of Electrical Engineering, Stanford University, Stanford, CA 94305.
+FAU - Li, Ningrui
+AU  - Li N
+AD  - Department of Radiology, Stanford University, Stanford, CA 94305.
+FAU - Leung, Steven A
+AU  - Leung SA
+AD  - Department of Radiology, Stanford University, Stanford, CA 94305.
+FAU - Good, Cameron H
+AU  - Good CH
+AD  - Querrey Simpson Institute for Bioelectronics, Northwestern University, Evanston, 
+      IL 60601.
+FAU - Qiu, Zhihai
+AU  - Qiu Z
+AD  - Department of Radiology, Stanford University, Stanford, CA 94305.
+FAU - Firouzi, Kamyar
+AU  - Firouzi K
+AD  - Department of Electrical Engineering, Stanford University, Stanford, CA 94305.
+FAU - Butts Pauly, Kim
+AU  - Butts Pauly K
+AD  - Department of Radiology, Stanford University, Stanford, CA 94305.
+FAU - Khuri-Yakub, Butrus Pierre T
+AU  - Khuri-Yakub BPT
+AD  - Department of Electrical Engineering, Stanford University, Stanford, CA 94305.
+FAU - Michaelides, Michael
+AU  - Michaelides M
+AD  - Biobehavioral Imaging and Molecular Neuropsychopharmacology Unit, National 
+      Institute on Drug Abuse, Baltimore, MD 21224.
+AD  - Department of Radiology, Johns Hopkins University School of Medicine, Baltimore, 
+      MD 21205.
+FAU - Soltesz, Ivan
+AU  - Soltesz I
+AD  - Department of Neurosurgery, Stanford University, Stanford, CA 94305.
+FAU - de Lecea, Luis
+AU  - de Lecea L
+AD  - Department of Psychiatry and Behavioral Sciences, Stanford University, Stanford, 
+      CA 94305.
+LA  - eng
+GR  - F32 HL149458/HL/NHLBI NIH HHS/United States
+GR  - R21 DA055056/DA/NIDA NIH HHS/United States
+GR  - R00 NS126725/NS/NINDS NIH HHS/United States
+GR  - K99 NS126725/NS/NINDS NIH HHS/United States
+GR  - R01 MH116470/MH/NIMH NIH HHS/United States
+GR  - R01 HL150566/HL/NHLBI NIH HHS/United States
+GR  - R01 NS121106/NS/NINDS NIH HHS/United States
+GR  - T32 HL110952/HL/NHLBI NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+DEP - 20221107
+PL  - United States
+TA  - Proc Natl Acad Sci U S A
+JT  - Proceedings of the National Academy of Sciences of the United States of America
+JID - 7505876
+SB  - IM
+MH  - Animals
+MH  - *Epilepsy/therapy
+MH  - Brain/diagnostic imaging/physiology
+MH  - Ultrasonography
+MH  - *Epilepsy, Temporal Lobe
+MH  - Hippocampus/diagnostic imaging
+PMC - PMC9674244
+OTO - NOTNLM
+OT  - epilepsy
+OT  - focused ultrasound
+OT  - neuromodulation
+OT  - neuroscience
+OT  - photometry
+COIS- Competing interest statement: K.R.M., Q.G.S., K.F., B.P.T.K.-Y., and L.d.L. are 
+      co-inventors on a patent application assigned to Stanford University containing 
+      disclosures related to the technology described in this article.
+EDAT- 2022/11/08 06:00
+MHDA- 2022/11/10 06:00
+PMCR- 2023/05/07
+CRDT- 2022/11/07 15:23
+PHST- 2022/11/07 15:23 [entrez]
+PHST- 2022/11/08 06:00 [pubmed]
+PHST- 2022/11/10 06:00 [medline]
+PHST- 2023/05/07 00:00 [pmc-release]
+AID - 202206828 [pii]
+AID - 10.1073/pnas.2206828119 [doi]
+PST - ppublish
+SO  - Proc Natl Acad Sci U S A. 2022 Nov 16;119(46):e2206828119. doi: 
+      10.1073/pnas.2206828119. Epub 2022 Nov 7.
+
+PMID- 36150220
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20221001
+IS  - 2198-3844 (Electronic)
+IS  - 2198-3844 (Linking)
+VI  - 9
+IP  - 27
+DP  - 2022 Sep
+TI  - Photonic Nanojet-Mediated Optogenetics.
+PG  - e2204667
+LID - 10.1002/advs.202204667 [doi]
+LID - 2204667
+FAU - Guo, Jinghui
+AU  - Guo J
+FAU - Wu, Yong
+AU  - Wu Y
+FAU - Gong, Zhiyong
+AU  - Gong Z
+FAU - Chen, Xixi
+AU  - Chen X
+FAU - Cao, Fei
+AU  - Cao F
+FAU - Kala, Shashwati
+AU  - Kala S
+FAU - Qiu, Zhihai
+AU  - Qiu Z
+FAU - Zhao, Xinyi
+AU  - Zhao X
+FAU - Chen, Jun-Jiang
+AU  - Chen JJ
+FAU - He, Dongming
+AU  - He D
+FAU - Chen, Taiheng
+AU  - Chen T
+FAU - Zeng, Rui
+AU  - Zeng R
+FAU - Zhu, Jiejun
+AU  - Zhu J
+FAU - Wong, Kin Fung
+AU  - Wong KF
+FAU - Murugappan, Suresh
+AU  - Murugappan S
+FAU - Zhu, Ting
+AU  - Zhu T
+FAU - Xian, Quanxiang
+AU  - Xian Q
+FAU - Hou, Xuandi
+AU  - Hou X
+FAU - Ruan, Ye Chun
+AU  - Ruan YC
+FAU - Li, Baojun
+AU  - Li B
+FAU - Li, Yu Chao
+AU  - Li YC
+FAU - Zhang, Yao
+AU  - Zhang Y
+FAU - Sun, Lei
+AU  - Sun L
+LA  - eng
+PT  - Published Erratum
+PL  - Germany
+TA  - Adv Sci (Weinh)
+JT  - Advanced science (Weinheim, Baden-Wurttemberg, Germany)
+JID - 101664569
+SB  - IM
+EFR - Adv Sci (Weinh). 2022 Apr;9(12):e2104140. doi: 10.1002/advs.202104140. PMID: 
+      35187865
+PMC - PMC9507377
+EDAT- 2022/09/24 06:00
+MHDA- 2022/09/24 06:01
+PMCR- 2022/09/23
+CRDT- 2022/09/23 18:02
+PHST- 2022/09/23 18:02 [entrez]
+PHST- 2022/09/24 06:00 [pubmed]
+PHST- 2022/09/24 06:01 [medline]
+PHST- 2022/09/23 00:00 [pmc-release]
+AID - ADVS4461 [pii]
+AID - 10.1002/advs.202204667 [doi]
+PST - ppublish
+SO  - Adv Sci (Weinh). 2022 Sep;9(27):e2204667. doi: 10.1002/advs.202204667.
+
+PMID- 36130679
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20221018
+LR  - 20221024
+IS  - 1876-4754 (Electronic)
+IS  - 1876-4754 (Linking)
+VI  - 15
+IP  - 5
+DP  - 2022 Sep-Oct
+TI  - Sonogenetics: Recent advances and future directions.
+PG  - 1308-1317
+LID - S1935-861X(22)00206-6 [pii]
+LID - 10.1016/j.brs.2022.09.002 [doi]
+AB  - Sonogenetics refers to the use of genetically encoded, ultrasound-responsive 
+      mediators for noninvasive and selective control of neural activity. It is a 
+      promising tool for studying neural circuits. However, due to its infancy, basic 
+      studies and developments are still underway, including gauging key in vivo 
+      performance metrics such as spatiotemporal resolution, selectivity, specificity, 
+      and safety. In this paper, we summarize recent findings on sonogenetics to 
+      highlight technical hurdles that have been cleared, challenges that remain, and 
+      future directions for optimization.
+CI  - Copyright (c) 2022 The Authors. Published by Elsevier Inc. All rights reserved.
+FAU - Liu, Tianyi
+AU  - Liu T
+AD  - Guangdong Institute of Intelligence Science and Technology, Hengqin, Zhuhai, 
+      Guangdong, 519031, China.
+FAU - Choi, Mi Hyun
+AU  - Choi MH
+AD  - Department of Bioengineering, Stanford University, CA, USA.
+FAU - Zhu, Jiejun
+AU  - Zhu J
+AD  - Guangdong Institute of Intelligence Science and Technology, Hengqin, Zhuhai, 
+      Guangdong, 519031, China.
+FAU - Zhu, Tingting
+AU  - Zhu T
+AD  - Guangdong Institute of Intelligence Science and Technology, Hengqin, Zhuhai, 
+      Guangdong, 519031, China.
+FAU - Yang, Jin
+AU  - Yang J
+AD  - Guangdong Institute of Intelligence Science and Technology, Hengqin, Zhuhai, 
+      Guangdong, 519031, China.
+FAU - Li, Na
+AU  - Li N
+AD  - Guangdong Institute of Intelligence Science and Technology, Hengqin, Zhuhai, 
+      Guangdong, 519031, China; School of Microelectronics, Xidian University, Xi'an, 
+      China.
+FAU - Chen, Zihao
+AU  - Chen Z
+AD  - Guangdong Institute of Intelligence Science and Technology, Hengqin, Zhuhai, 
+      Guangdong, 519031, China; School of Microelectronics, Xidian University, Xi'an, 
+      China.
+FAU - Xian, Quanxiang
+AU  - Xian Q
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hung 
+      Hom, Hong Kong SAR, China.
+FAU - Hou, Xuandi
+AU  - Hou X
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hung 
+      Hom, Hong Kong SAR, China.
+FAU - He, Dongmin
+AU  - He D
+AD  - Guangdong Institute of Intelligence Science and Technology, Hengqin, Zhuhai, 
+      Guangdong, 519031, China.
+FAU - Guo, Jinghui
+AU  - Guo J
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hung 
+      Hom, Hong Kong SAR, China; Department of Physiology, Faculty of Medicine, Jinan 
+      University, Guangzhou, China.
+FAU - Fei, Chunlong
+AU  - Fei C
+AD  - School of Microelectronics, Xidian University, Xi'an, China.
+FAU - Sun, Lei
+AU  - Sun L
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hung 
+      Hom, Hong Kong SAR, China. Electronic address: lei.sun@polyu.edu.hk.
+FAU - Qiu, Zhihai
+AU  - Qiu Z
+AD  - Guangdong Institute of Intelligence Science and Technology, Hengqin, Zhuhai, 
+      Guangdong, 519031, China. Electronic address: qiuzhihai@gdiist.cn.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+DEP - 20220918
+PL  - United States
+TA  - Brain Stimul
+JT  - Brain stimulation
+JID - 101465726
+SB  - IM
+MH  - *Brain/diagnostic imaging
+MH  - Ultrasonography
+COIS- Declaration of competing interest Z.Q., J.G., J. Z., and L.S. have submitted a 
+      patent application titled "A Non-invasive method for selective neural stimulation 
+      by ultrasound" with the USPTO dated April 10, 2018, assigned application number 
+      15/949,991, which relates to the ultrasound setup used in all the experiments. 
+      The authors declare no further financial interests.
+EDAT- 2022/09/22 06:00
+MHDA- 2022/10/19 06:00
+CRDT- 2022/09/21 19:24
+PHST- 2022/05/28 00:00 [received]
+PHST- 2022/08/15 00:00 [revised]
+PHST- 2022/09/06 00:00 [accepted]
+PHST- 2022/09/22 06:00 [pubmed]
+PHST- 2022/10/19 06:00 [medline]
+PHST- 2022/09/21 19:24 [entrez]
+AID - S1935-861X(22)00206-6 [pii]
+AID - 10.1016/j.brs.2022.09.002 [doi]
+PST - ppublish
+SO  - Brain Stimul. 2022 Sep-Oct;15(5):1308-1317. doi: 10.1016/j.brs.2022.09.002. Epub 
+      2022 Sep 18.
+
+PMID- 35846635
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20220719
+IS  - 1664-1078 (Print)
+IS  - 1664-1078 (Electronic)
+IS  - 1664-1078 (Linking)
+VI  - 13
+DP  - 2022
+TI  - Associations of Parenting Style and Resilience With Depression and Anxiety 
+      Symptoms in Chinese Middle School Students.
+PG  - 897339
+LID - 10.3389/fpsyg.2022.897339 [doi]
+LID - 897339
+AB  - BACKGROUND: Parenting style and resilience are independently associated with 
+      symptoms of depression and anxiety. However, no study has tested the interaction 
+      effects between the patterns of parenting style and resilience on mental health 
+      in adolescent populations. Therefore, this study aimed to explore the interaction 
+      effects between the patterns of parenting style and resilience on 
+      depression/anxiety symptoms among middle school students in China. METHODS: A 
+      sample of 2,179 Chinese middle school students were included in this study. 
+      Latent profile analysis (LPA) was used to examine parenting style patterns. 
+      Multivariable logistic regression was used to analyze the associations of 
+      different parenting patterns and resilience with depression/anxiety symptoms, as 
+      well as the interaction effect. RESULTS: Latent profile analysis results showed 
+      that the most suitable model included three-profile solution, which were labeled 
+      as positive parenting, negative parenting, and moderate parenting. Subsequent 
+      analyses indicated that students across profiles exhibited significant 
+      differences in their depression/anxiety symptoms. Specifically, compared to 
+      moderate parenting, negative parenting was positively associated with 
+      depression/anxiety symptoms, while positive parenting was negatively associated 
+      with these symptoms. Moreover, low levels of resilience were positively 
+      associated with depression/anxiety symptoms compared to a high level of 
+      resilience. Although the interaction effect was not significant, there were 
+      differences in the associations between different parenting patterns and symptoms 
+      of depression and anxiety when stratifying resilience. CONCLUSION: The present 
+      study identified three-profile solution of parenting styles among Chinese middle 
+      school students using LPA as a person-centered approach. Future interventions 
+      targeting depression/anxiety symptoms in adolescents may consider the potential 
+      influence of patterns of parenting styles, or improved resilience, to achieve 
+      better intervention outcomes.
+CI  - Copyright (c) 2022 Qiu, Guo, Wang and Zhang.
+FAU - Qiu, Zhihai
+AU  - Qiu Z
+AD  - The School of Mental Health and Psychological Sciences, Anhui Medical University, 
+      Hefei, China.
+FAU - Guo, Ying
+AU  - Guo Y
+AD  - Psychological Center of Hefei No.1 High Senser School, Hefei, China.
+FAU - Wang, Jun
+AU  - Wang J
+AD  - Department of Maternal, Child and Adolescent Health, School of Public Health, 
+      Anhui Medical University, Hefei, China.
+AD  - MOE Key Laboratory of Population Health Across Life Cycle, Anhui Provincial Key 
+      Laboratory of Population Health and Aristogenics, Hefei, China.
+FAU - Zhang, Hongbo
+AU  - Zhang H
+AD  - Department of Maternal, Child and Adolescent Health, School of Public Health, 
+      Anhui Medical University, Hefei, China.
+LA  - eng
+PT  - Journal Article
+DEP - 20220701
+PL  - Switzerland
+TA  - Front Psychol
+JT  - Frontiers in psychology
+JID - 101550902
+PMC - PMC9285101
+OTO - NOTNLM
+OT  - anxiety symptoms
+OT  - depression symptoms
+OT  - latent profile analysis (LPA)
+OT  - parenting style
+OT  - resilience
+COIS- The authors declare that the research was conducted in the absence of any 
+      commercial or financial relationships that could be construed as a potential 
+      conflict of interest.
+EDAT- 2022/07/19 06:00
+MHDA- 2022/07/19 06:01
+PMCR- 2022/07/01
+CRDT- 2022/07/18 04:05
+PHST- 2022/03/30 00:00 [received]
+PHST- 2022/06/14 00:00 [accepted]
+PHST- 2022/07/18 04:05 [entrez]
+PHST- 2022/07/19 06:00 [pubmed]
+PHST- 2022/07/19 06:01 [medline]
+PHST- 2022/07/01 00:00 [pmc-release]
+AID - 10.3389/fpsyg.2022.897339 [doi]
+PST - epublish
+SO  - Front Psychol. 2022 Jul 1;13:897339. doi: 10.3389/fpsyg.2022.897339. eCollection 
+      2022.
+
+PMID- 35801172
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20220716
+IS  - 1662-4548 (Print)
+IS  - 1662-453X (Electronic)
+IS  - 1662-453X (Linking)
+VI  - 16
+DP  - 2022
+TI  - An Optimized Miniaturized Ultrasound Transducer for Transcranial Neuromodulation.
+PG  - 893108
+LID - 10.3389/fnins.2022.893108 [doi]
+LID - 893108
+AB  - Transcranial ultrasound stimulation (TUS) is a young neuromodulation technology, 
+      which uses ultrasound to achieve non-invasive stimulation or inhibition of deep 
+      intracranial brain regions, with the advantages of non-invasive, deep 
+      penetration, and high resolution. It is widely considered to be one of the most 
+      promising techniques for probing brain function and treating brain diseases. In 
+      preclinical studies, developing miniaturized transducers to facilitate 
+      neuromodulation in freely moving small animals is critical for understanding the 
+      mechanism and exploring potential applications. In this article, a miniaturized 
+      transducer with a half-concave structure is proposed. Based on the finite element 
+      simulation models established by PZFlex software, several ultrasound transducers 
+      with different concave curvatures were designed and analyzed. Based on the 
+      simulation results, half-concave focused ultrasonic transducers with curvature 
+      radii of 5 mm and 7.5 mm were fabricated. Additionally, the emission acoustic 
+      fields of the ultrasonic transducers with different structures were characterized 
+      at their thickness resonance frequencies of 1 MHz using a multifunctional 
+      ultrasonic test platform built in the laboratory. To verify the practical ability 
+      for neuromodulation, different ultrasound transducers were used to induce muscle 
+      activity in mice. As a result, the stimulation success rates were (32 +/- 10)%, (65 
+      +/- 8)%, and (84 +/- 7)%, respectively, by using flat, #7, and #5 transducers, which 
+      shows the simulation and experimental results have a good agreement and that the 
+      miniaturized half-concave transducer could effectively converge the acoustic 
+      energy and achieve precise and effective ultrasonic neuromodulation.
+CI  - Copyright (c) 2022 Hou, Wu, Fei, Qiu, Li, Sun, Zheng and Yang.
+FAU - Hou, Chenxue
+AU  - Hou C
+AD  - School of Microeletronics, Xidian University, Xi'an, China.
+FAU - Wu, Yan
+AU  - Wu Y
+AD  - School of Microeletronics, Xidian University, Xi'an, China.
+FAU - Fei, Chunlong
+AU  - Fei C
+AD  - School of Microeletronics, Xidian University, Xi'an, China.
+FAU - Qiu, Zhihai
+AU  - Qiu Z
+AD  - Guangdong Institute of Intelligence Science and Technology, Zhuhai, China.
+FAU - Li, Zhaoxi
+AU  - Li Z
+AD  - School of Microeletronics, Xidian University, Xi'an, China.
+FAU - Sun, Xinhao
+AU  - Sun X
+AD  - School of Microeletronics, Xidian University, Xi'an, China.
+FAU - Zheng, Chenxi
+AU  - Zheng C
+AD  - School of Microeletronics, Xidian University, Xi'an, China.
+FAU - Yang, Yintang
+AU  - Yang Y
+AD  - School of Microeletronics, Xidian University, Xi'an, China.
+LA  - eng
+PT  - Journal Article
+DEP - 20220621
+PL  - Switzerland
+TA  - Front Neurosci
+JT  - Frontiers in neuroscience
+JID - 101478481
+PMC - PMC9253503
+OTO - NOTNLM
+OT  - FEM simulation
+OT  - converge acoustic energy
+OT  - half-concave structure
+OT  - neuromodulation
+OT  - ultrasonic transducer
+COIS- The authors declare that the research was conducted in the absence of any 
+      commercial or financial relationships that could be construed as a potential 
+      conflict of interest.
+EDAT- 2022/07/09 06:00
+MHDA- 2022/07/09 06:01
+PMCR- 2022/01/01
+CRDT- 2022/07/08 03:01
+PHST- 2022/03/10 00:00 [received]
+PHST- 2022/05/26 00:00 [accepted]
+PHST- 2022/07/08 03:01 [entrez]
+PHST- 2022/07/09 06:00 [pubmed]
+PHST- 2022/07/09 06:01 [medline]
+PHST- 2022/01/01 00:00 [pmc-release]
+AID - 10.3389/fnins.2022.893108 [doi]
+PST - epublish
+SO  - Front Neurosci. 2022 Jun 21;16:893108. doi: 10.3389/fnins.2022.893108. 
+      eCollection 2022.
+
+PMID- 35187865
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220426
+LR  - 20220923
+IS  - 2198-3844 (Electronic)
+IS  - 2198-3844 (Linking)
+VI  - 9
+IP  - 12
+DP  - 2022 Apr
+TI  - Photonic Nanojet-Mediated Optogenetics.
+PG  - e2104140
+LID - 10.1002/advs.202104140 [doi]
+LID - 2104140
+AB  - Optogenetics has become a widely used technique in neuroscience research, capable 
+      of controlling neuronal activity with high spatiotemporal precision and cell-type 
+      specificity. Expressing exogenous opsins in the selected cells can induce 
+      neuronal activation upon light irradiation, and the activation depends on the 
+      power of incident light. However, high optical power can also lead to off-target 
+      neuronal activation or even cell damage. Limiting the incident power, but 
+      enhancing power distribution to the targeted neurons, can improve optogenetic 
+      efficiency and reduce off-target effects. Here, the use of optical lenses made of 
+      polystyrene microspheres is demonstrated to achieve effective focusing of the 
+      incident light of relatively low power to neighboring neurons via photonic jets. 
+      The presence of microspheres significantly localizes and enhances the power 
+      density to the target neurons both in vitro and ex vivo, resulting in increased 
+      inward current and evoked action potentials. In vivo results show optogenetic 
+      stimulation with microspheres that can evoke significantly more motor behavior 
+      and neuronal activation at lowered power density. In all, a proof-of-concept of a 
+      strategy is demonstrated to increase the efficacy of optogenetic neuromodulation 
+      using pulses of reduced optical power.
+CI  - (c) 2022 The Authors. Advanced Science published by Wiley-VCH GmbH.
+FAU - Guo, Jinghui
+AU  - Guo J
+AD  - Department of Physiology, School of Medicine, Jinan University, Guangzhou, 
+      510632, China.
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hong 
+      Kong SAR, 999077, China.
+FAU - Wu, Yong
+AU  - Wu Y
+AD  - Department of Physiology, School of Medicine, Jinan University, Guangzhou, 
+      510632, China.
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hong 
+      Kong SAR, 999077, China.
+FAU - Gong, Zhiyong
+AU  - Gong Z
+AD  - Institute of Nanophotonics, Jinan University, Guangzhou, 511443, China.
+FAU - Chen, Xixi
+AU  - Chen X
+AD  - Institute of Nanophotonics, Jinan University, Guangzhou, 511443, China.
+FAU - Cao, Fei
+AU  - Cao F
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hong 
+      Kong SAR, 999077, China.
+FAU - Kala, Shashwati
+AU  - Kala S
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hong 
+      Kong SAR, 999077, China.
+FAU - Qiu, Zhihai
+AU  - Qiu Z
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hong 
+      Kong SAR, 999077, China.
+FAU - Zhao, Xinyi
+AU  - Zhao X
+AD  - Department of Physiology, School of Medicine, Jinan University, Guangzhou, 
+      510632, China.
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hong 
+      Kong SAR, 999077, China.
+FAU - Chen, Jun-Jiang
+AU  - Chen JJ
+AD  - Department of Physiology, School of Medicine, Jinan University, Guangzhou, 
+      510632, China.
+FAU - He, Dongming
+AU  - He D
+AD  - Department of Physiology, School of Medicine, Jinan University, Guangzhou, 
+      510632, China.
+FAU - Chen, Taiheng
+AU  - Chen T
+AD  - Department of Physiology, School of Medicine, Jinan University, Guangzhou, 
+      510632, China.
+FAU - Zeng, Rui
+AU  - Zeng R
+AD  - Department of Physiology, School of Medicine, Jinan University, Guangzhou, 
+      510632, China.
+FAU - Zhu, Jiejun
+AU  - Zhu J
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hong 
+      Kong SAR, 999077, China.
+FAU - Wong, Kin Fung
+AU  - Wong KF
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hong 
+      Kong SAR, 999077, China.
+FAU - Murugappan, Suresh
+AU  - Murugappan S
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hong 
+      Kong SAR, 999077, China.
+FAU - Zhu, Ting
+AU  - Zhu T
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hong 
+      Kong SAR, 999077, China.
+FAU - Xian, Quanxiang
+AU  - Xian Q
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hong 
+      Kong SAR, 999077, China.
+FAU - Hou, Xuandi
+AU  - Hou X
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hong 
+      Kong SAR, 999077, China.
+FAU - Ruan, Ye Chun
+AU  - Ruan YC
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hong 
+      Kong SAR, 999077, China.
+FAU - Li, Baojun
+AU  - Li B
+AD  - Institute of Nanophotonics, Jinan University, Guangzhou, 511443, China.
+FAU - Li, Yu Chao
+AU  - Li YC
+AD  - Institute of Nanophotonics, Jinan University, Guangzhou, 511443, China.
+FAU - Zhang, Yao
+AU  - Zhang Y
+AD  - Institute of Nanophotonics, Jinan University, Guangzhou, 511443, China.
+FAU - Sun, Lei
+AU  - Sun L
+AUID- ORCID: 0000-0001-7047-9529
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hong 
+      Kong SAR, 999077, China.
+LA  - eng
+GR  - 2018B030331001/Key-Area Research and Development Program of Guangdong Province/
+GR  - 15104520/Hong Kong Research Grants Council General Research Fund/
+GR  - 15102417/Hong Kong Research Grants Council General Research Fund/
+GR  - 15326416/Hong Kong Research Grants Council General Research Fund/
+GR  - MRP/018/18X/Hong Kong Innovation Technology Fund/
+GR  - MHP/014/19/Hong Kong Innovation Technology Fund/
+GR  - 1-ZE1K/Hong Kong Polytechnic University/
+GR  - 1-ZVW8/Hong Kong Polytechnic University/
+GR  - 1-CD76/Research Institute of Smart Ageing/
+GR  - 11621107/Fundamental Research Funds for the Central Universities/
+GR  - 21619331/Fundamental Research Funds for the Central Universities/
+GR  - 202002030179/Jinan University and the Science and Technology Program of 
+      Guangzhou/
+PT  - Journal Article
+DEP - 20220220
+PL  - Germany
+TA  - Adv Sci (Weinh)
+JT  - Advanced science (Weinheim, Baden-Wurttemberg, Germany)
+JID - 101664569
+RN  - 0 (Opsins)
+SB  - IM
+EIN - Adv Sci (Weinh). 2022 Sep;9(27):e2204667. doi: 10.1002/advs.202204667. PMID: 
+      36150220
+MH  - Action Potentials
+MH  - Neurons/physiology
+MH  - *Opsins
+MH  - *Optogenetics/methods
+MH  - Photons
+PMC - PMC9036029
+OTO - NOTNLM
+OT  - light focusing
+OT  - microspheres
+OT  - optogenetics
+OT  - photonic nanojets
+COIS- The authors declare no conflict of interest.
+EDAT- 2022/02/22 06:00
+MHDA- 2022/04/27 06:00
+PMCR- 2022/02/20
+CRDT- 2022/02/21 06:11
+PHST- 2022/02/04 00:00 [revised]
+PHST- 2021/09/16 00:00 [received]
+PHST- 2022/02/22 06:00 [pubmed]
+PHST- 2022/04/27 06:00 [medline]
+PHST- 2022/02/21 06:11 [entrez]
+PHST- 2022/02/20 00:00 [pmc-release]
+AID - ADVS3662 [pii]
+AID - 10.1002/advs.202104140 [doi]
+PST - ppublish
+SO  - Adv Sci (Weinh). 2022 Apr;9(12):e2104140. doi: 10.1002/advs.202104140. Epub 2022 
+      Feb 20.
+
+PMID- 34832726
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20240404
+IS  - 2072-666X (Print)
+IS  - 2072-666X (Electronic)
+IS  - 2072-666X (Linking)
+VI  - 12
+IP  - 11
+DP  - 2021 Oct 26
+TI  - Evolvable Acoustic Field Generated by a Transducer with 3D-Printed Fresnel Lens.
+LID - 10.3390/mi12111315 [doi]
+LID - 1315
+AB  - Evolvable acoustic fields are considered an effective method for solving 
+      technical problems related to fields such as biological imaging, particle 
+      manipulation, drug therapy and intervention. However, because of technical 
+      difficulties and the limited technology available for realizing flexible 
+      adjustments of sound fields, few studies have reported on this aspect in recent 
+      years. Herein, we propose a novel solution, using a Fresnel lens-focused 
+      ultrasonic transducer for generating excited-signal-dependent acoustic pressure 
+      patterns. Finite element analysis (FEA) is used to predict the performance of a 
+      transducer with a Fresnel lens. The Fresnel lens is printed using 3D additive 
+      manufacturing. Normalized intensity maps of the acoustic pressure fields are 
+      characterized from the Fresnel lens-focused transducer under various numbers of 
+      excited-signal cycles. The results demonstrate that under different cycle 
+      excitations, a temporal evolution acoustic intensity can be generated and 
+      regulated by an ultrasound transducer with a 3D Fresnel lens. This acoustical 
+      pattern control method is not only simple to realize but also has considerable 
+      application prospects.
+FAU - Wang, Danfeng
+AU  - Wang D
+AD  - School of Mechanical and Electrical Engineering, Central South University, 
+      Changsha 410083, China.
+FAU - Lin, Pengfei
+AU  - Lin P
+AD  - School of Microeletronics, Xidian University, Xi'an 710071, China.
+FAU - Chen, Zeyu
+AU  - Chen Z
+AD  - School of Mechanical and Electrical Engineering, Central South University, 
+      Changsha 410083, China.
+FAU - Fei, Chunlong
+AU  - Fei C
+AD  - School of Microeletronics, Xidian University, Xi'an 710071, China.
+FAU - Qiu, Zhihai
+AU  - Qiu Z
+AD  - Interdisciplinary Division of Biomedical Engineering, The Hong Kong Ploytechnic 
+      University, Hong Kong 999077, China.
+FAU - Chen, Qiang
+AU  - Chen Q
+AUID- ORCID: 0000-0002-0791-8389
+AD  - School of Microeletronics, Xidian University, Xi'an 710071, China.
+FAU - Sun, Xinhao
+AU  - Sun X
+AD  - School of Microeletronics, Xidian University, Xi'an 710071, China.
+FAU - Wu, Yan
+AU  - Wu Y
+AD  - School of Microeletronics, Xidian University, Xi'an 710071, China.
+FAU - Sun, Lei
+AU  - Sun L
+AD  - Interdisciplinary Division of Biomedical Engineering, The Hong Kong Ploytechnic 
+      University, Hong Kong 999077, China.
+LA  - eng
+GR  - JCKY2019210B003/the Key Projects of National Defense Basic Research Program of 
+      National Defense Science and Industry Administration/
+GR  - 2020SK 2003/the Department of Science and Technology of Hunan Province, High-tech 
+      Industry Science and Technology Innovation Leading Program/
+GR  - 2020JM-205/the Natural Science Foundations of Shaanxi Province/
+GR  - 20190105/the Shaanxi Provincial Association of Science and Technology Young 
+      Talents Support Project/
+GR  - XJS211105, JBF211103/the Fundamental Research Funds for the Central Universities/
+GR  - 2020YJ004/Management Science and Technology Project of Hunan Province/
+GR  - 2020CX004/Central South University, Innovation Driven Program team project/
+GR  - 2020zzts784/Emergency and Fundamental Research Funds for Central Universities of 
+      the Central South University/
+PT  - Journal Article
+DEP - 20211026
+PL  - Switzerland
+TA  - Micromachines (Basel)
+JT  - Micromachines
+JID - 101640903
+PMC - PMC8617849
+OTO - NOTNLM
+OT  - 3D printed Fresnel lens
+OT  - evolvable acoustic field
+OT  - finite element analysis
+OT  - ultrasonic transducer
+COIS- The authors declare no conflict of interest.
+EDAT- 2021/11/28 06:00
+MHDA- 2021/11/28 06:01
+PMCR- 2021/10/26
+CRDT- 2021/11/27 01:19
+PHST- 2021/08/24 00:00 [received]
+PHST- 2021/10/06 00:00 [revised]
+PHST- 2021/10/08 00:00 [accepted]
+PHST- 2021/11/27 01:19 [entrez]
+PHST- 2021/11/28 06:00 [pubmed]
+PHST- 2021/11/28 06:01 [medline]
+PHST- 2021/10/26 00:00 [pmc-release]
+AID - mi12111315 [pii]
+AID - micromachines-12-01315 [pii]
+AID - 10.3390/mi12111315 [doi]
+PST - epublish
+SO  - Micromachines (Basel). 2021 Oct 26;12(11):1315. doi: 10.3390/mi12111315.
+
+PMID- 34546652
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220301
+LR  - 20220301
+IS  - 2198-3844 (Electronic)
+IS  - 2198-3844 (Linking)
+VI  - 8
+IP  - 21
+DP  - 2021 Nov
+TI  - Precise Ultrasound Neuromodulation in a Deep Brain Region Using Nano Gas Vesicles 
+      as Actuators.
+PG  - e2101934
+LID - 10.1002/advs.202101934 [doi]
+LID - 2101934
+AB  - Ultrasound is a promising new modality for non-invasive neuromodulation. Applied 
+      transcranially, it can be focused down to the millimeter or centimeter range. The 
+      ability to improve the treatment's spatial resolution to a targeted brain region 
+      could help to improve its effectiveness, depending upon the application. The 
+      present paper details a neurostimulation scheme using gas-filled nanostructures, 
+      gas vesicles (GVs), as actuators for improving the efficacy and precision of 
+      ultrasound stimuli. Sonicated primary neurons display dose-dependent, repeatable 
+      Ca(2+) responses, closely synced to stimuli, and increased nuclear expression of 
+      the activation marker c-Fos in the presence of GVs. GV-mediated ultrasound 
+      triggered rapid and reversible Ca(2+) responses in vivo and could selectively 
+      evoke neuronal activation in a deep-seated brain region. Further investigation 
+      indicate that mechanosensitive ion channels are important mediators of this 
+      effect. GVs themselves and the treatment scheme are also found not to induce 
+      significant cytotoxicity, apoptosis, or membrane poration in treated cells. 
+      Altogether, this study demonstrates a simple and effective method to achieve 
+      enhanced and better-targeted neurostimulation with non-invasive low-intensity 
+      ultrasound.
+CI  - (c) 2021 The Authors. Advanced Science published by Wiley-VCH GmbH.
+FAU - Hou, Xuandi
+AU  - Hou X
+AUID- ORCID: 0000-0002-9718-6539
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hung 
+      Hom, Hong Kong SAR, 999077, P. R. China.
+FAU - Qiu, Zhihai
+AU  - Qiu Z
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hung 
+      Hom, Hong Kong SAR, 999077, P. R. China.
+FAU - Xian, Quanxiang
+AU  - Xian Q
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hung 
+      Hom, Hong Kong SAR, 999077, P. R. China.
+FAU - Kala, Shashwati
+AU  - Kala S
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hung 
+      Hom, Hong Kong SAR, 999077, P. R. China.
+FAU - Jing, Jianing
+AU  - Jing J
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hung 
+      Hom, Hong Kong SAR, 999077, P. R. China.
+FAU - Wong, Kin Fung
+AU  - Wong KF
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hung 
+      Hom, Hong Kong SAR, 999077, P. R. China.
+FAU - Zhu, Jiejun
+AU  - Zhu J
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hung 
+      Hom, Hong Kong SAR, 999077, P. R. China.
+FAU - Guo, Jinghui
+AU  - Guo J
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hung 
+      Hom, Hong Kong SAR, 999077, P. R. China.
+FAU - Zhu, Ting
+AU  - Zhu T
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hung 
+      Hom, Hong Kong SAR, 999077, P. R. China.
+FAU - Yang, Minyi
+AU  - Yang M
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hung 
+      Hom, Hong Kong SAR, 999077, P. R. China.
+FAU - Sun, Lei
+AU  - Sun L
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hung 
+      Hom, Hong Kong SAR, 999077, P. R. China.
+LA  - eng
+GR  - 1-ZE1K/Hong Kong Polytechnic University/
+GR  - 1-BBAU/Hong Kong Polytechnic University/
+GR  - MRP/018/18X/Innovation and Technology Commission - Hong Kong/
+GR  - 2018B030331001/Science and Technology Planning Project of Guangdong Province/
+GR  - 15102417/Hong Kong Research Grant Council General Research Fund/
+GR  - 15104520/Hong Kong Research Grant Council General Research Fund/
+GR  - 15326416/Hong Kong Research Grant Council General Research Fund/
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20210921
+PL  - Germany
+TA  - Adv Sci (Weinh)
+JT  - Advanced science (Weinheim, Baden-Wurttemberg, Germany)
+JID - 101664569
+RN  - 0 (Gases)
+RN  - 0 (Luminescent Proteins)
+RN  - 0 (Unilamellar Liposomes)
+RN  - SY7Q814VUP (Calcium)
+SB  - IM
+MH  - Anabaena/metabolism
+MH  - Animals
+MH  - Calcium/metabolism
+MH  - Cells, Cultured
+MH  - Embryo, Mammalian/cytology
+MH  - Gases/chemistry
+MH  - Luminescent Proteins/metabolism
+MH  - Male
+MH  - Mice
+MH  - Mice, Inbred C57BL
+MH  - Nanostructures/*chemistry
+MH  - Neurons/cytology/metabolism/radiation effects
+MH  - Rats
+MH  - *Ultrasonic Waves
+MH  - Unilamellar Liposomes/*chemistry/metabolism
+MH  - Ventral Tegmental Area/*metabolism/pathology/radiation effects
+PMC - PMC8564444
+OTO - NOTNLM
+OT  - low-frequency ultrasound
+OT  - nano gas vesicles
+OT  - transcranial ultrasound stimulation
+OT  - ultrasonic neuromodulation
+COIS- The authors declare no conflict of interest.
+EDAT- 2021/09/22 06:00
+MHDA- 2022/03/03 06:00
+PMCR- 2021/09/21
+CRDT- 2021/09/21 12:52
+PHST- 2021/08/12 00:00 [revised]
+PHST- 2021/05/10 00:00 [received]
+PHST- 2021/09/22 06:00 [pubmed]
+PHST- 2022/03/03 06:00 [medline]
+PHST- 2021/09/21 12:52 [entrez]
+PHST- 2021/09/21 00:00 [pmc-release]
+AID - ADVS3019 [pii]
+AID - 10.1002/advs.202101934 [doi]
+PST - ppublish
+SO  - Adv Sci (Weinh). 2021 Nov;8(21):e2101934. doi: 10.1002/advs.202101934. Epub 2021 
+      Sep 21.
+
+PMID- 34530143
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20211214
+LR  - 20211214
+IS  - 1878-7568 (Electronic)
+IS  - 1742-7061 (Linking)
+VI  - 136
+DP  - 2021 Dec
+TI  - Gas-filled protein nanostructures as cavitation nuclei for molecule-specific 
+      sonodynamic therapy.
+PG  - 533-545
+LID - S1742-7061(21)00599-7 [pii]
+LID - 10.1016/j.actbio.2021.09.010 [doi]
+AB  - Sonodynamic therapy (SDT) is a promising alternative for cancer therapy, 
+      understood to exert cytotoxicity through cavitation and subsequent production of 
+      large amounts of reactive oxygen species (ROS). Gas-filled protein nanostructures 
+      (gas vesicles or GVs) produced by cyanobacteria have a hollow structure similar 
+      to microbubbles and have demonstrated comparable enhancement of ultrasound 
+      imaging contrast. We thus hypothesized that GVs may act as stable nuclei for 
+      inertial cavitation to enhance SDT with improved enhanced permeability and 
+      retention (EPR) effects due to their nanometer scale. The function of GVs to 
+      mediate cavitation, ROS production, and cell-targeted toxicity under SDT was 
+      determined. In solution, we found that GVs successfully increased cavitation and 
+      enhanced ROS production in a dose- and time-dependent manner. Then, GV surfaces 
+      were modified (FGVs) to specifically target CD44(+) cells and accumulate 
+      preferentially at the tumor site. In vitro sonodynamic therapy (SDT) showed ROS 
+      production and tumor cell toxicity substantially elevated in the presence of 
+      FGVs, and the addition of FGVs was found to enhance cavitation and subsequently 
+      inhibit tumor growth and exert greater damage to tumors under SDT in vivo. Our 
+      results thus demonstrate that FGVs can function as stable, nanosized, nuclei for 
+      spatially accurate and cell-targeted SDT. STATEMENT OF SIGNIFICANCE: The 
+      initiation of inertial cavitation is critical for ROS generation and subsequent 
+      cellular toxicity in SDT. Thus, precise control of the occurrence of cavitation 
+      is a key factor in increasing SDT's therapeutic efficacy. We explored 
+      nanometer-sized gas vesicles (GVs) as a new class of cavitation nuclei for 
+      molecule-specific sonodynamic therapy. Our results showed that GV-mediated SDT 
+      treatment enabled targeted disruption of specific cells expressing a known 
+      surface marker within the area of insonation, providing a spatially specific and 
+      targeted SDT treatment.
+CI  - Copyright (c) 2021 The Author(s). Published by Elsevier Ltd.. All rights reserved.
+FAU - Song, Lin
+AU  - Song L
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hung 
+      Hom Room ST409, Hong Kong SAR, PR China; School of Basic Medicine, Qingdao 
+      University, Qingdao, PR China.
+FAU - Hou, Xuandi
+AU  - Hou X
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hung 
+      Hom Room ST409, Hong Kong SAR, PR China.
+FAU - Wong, Kin Fung
+AU  - Wong KF
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hung 
+      Hom Room ST409, Hong Kong SAR, PR China.
+FAU - Yang, Yaoheng
+AU  - Yang Y
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hung 
+      Hom Room ST409, Hong Kong SAR, PR China.
+FAU - Qiu, Zhihai
+AU  - Qiu Z
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hung 
+      Hom Room ST409, Hong Kong SAR, PR China.
+FAU - Wu, Yong
+AU  - Wu Y
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hung 
+      Hom Room ST409, Hong Kong SAR, PR China.
+FAU - Hou, Shang
+AU  - Hou S
+AD  - School of Microelectronics, Xidian University, Xi'an, PR China.
+FAU - Fei, Chunlong
+AU  - Fei C
+AD  - School of Microelectronics, Xidian University, Xi'an, PR China.
+FAU - Guo, Jinghui
+AU  - Guo J
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hung 
+      Hom Room ST409, Hong Kong SAR, PR China.
+FAU - Sun, Lei
+AU  - Sun L
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hung 
+      Hom Room ST409, Hong Kong SAR, PR China. Electronic address: 
+      lei.sun@polyu.edu.hk.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20210913
+PL  - England
+TA  - Acta Biomater
+JT  - Acta biomaterialia
+JID - 101233144
+RN  - 0 (Reactive Oxygen Species)
+SB  - IM
+MH  - Cell Line, Tumor
+MH  - Microbubbles
+MH  - *Nanostructures
+MH  - Reactive Oxygen Species
+MH  - *Ultrasonic Therapy
+OTO - NOTNLM
+OT  - Cavitation
+OT  - Sonodynamic therapy
+OT  - Ultrasound
+COIS- Declaration of Competing Interest The authors declare that they have no known 
+      competing financial interests or personal relationships that could have appeared 
+      to influence the work reported in this paper.
+EDAT- 2021/09/17 06:00
+MHDA- 2021/12/15 06:00
+CRDT- 2021/09/16 20:15
+PHST- 2021/03/19 00:00 [received]
+PHST- 2021/09/06 00:00 [revised]
+PHST- 2021/09/07 00:00 [accepted]
+PHST- 2021/09/17 06:00 [pubmed]
+PHST- 2021/12/15 06:00 [medline]
+PHST- 2021/09/16 20:15 [entrez]
+AID - S1742-7061(21)00599-7 [pii]
+AID - 10.1016/j.actbio.2021.09.010 [doi]
+PST - ppublish
+SO  - Acta Biomater. 2021 Dec;136:533-545. doi: 10.1016/j.actbio.2021.09.010. Epub 2021 
+      Sep 13.
+
+PMID- 33796870
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220321
+LR  - 20220321
+IS  - 2666-1667 (Electronic)
+IS  - 2666-1667 (Linking)
+VI  - 2
+IP  - 2
+DP  - 2021 Jun 18
+TI  - Protocol for the sonogenetic stimulation of mouse brain by non-invasive 
+      ultrasound.
+PG  - 100393
+LID - 10.1016/j.xpro.2021.100393 [doi]
+LID - 100393
+AB  - Manipulating specific neural activity by targeted ultrasound intervention is a 
+      powerful method to gain causal insight into brain functions and treat brain 
+      disorders. The technique of sonogenetics enables controlling of cells that are 
+      genetically modulated with ultrasound-sensitive ion channels. Here, we detail the 
+      preparations, surgical procedures, ultrasound stimulation process, and 
+      simultaneous electromyogram (EMG) measurement necessary for successful 
+      sonogenetic stimulation in mice. For complete details on the use and execution of 
+      this protocol, please refer to Qiu et al. (2020).
+CI  - (c) 2021 The Author(s).
+FAU - Xian, Quanxiang
+AU  - Xian Q
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hong 
+      Kong S.A.R., China.
+FAU - Qiu, Zhihai
+AU  - Qiu Z
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hong 
+      Kong S.A.R., China.
+FAU - Kala, Shashwati
+AU  - Kala S
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hong 
+      Kong S.A.R., China.
+FAU - Guo, Jinghui
+AU  - Guo J
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hong 
+      Kong S.A.R., China.
+FAU - Zhu, Jiejun
+AU  - Zhu J
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hong 
+      Kong S.A.R., China.
+FAU - Wong, Kin Fung
+AU  - Wong KF
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hong 
+      Kong S.A.R., China.
+FAU - Guo, Sean Shu Yi
+AU  - Guo SSY
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hong 
+      Kong S.A.R., China.
+FAU - Zhu, Ting
+AU  - Zhu T
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hong 
+      Kong S.A.R., China.
+FAU - Hou, Xuandi
+AU  - Hou X
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hong 
+      Kong S.A.R., China.
+FAU - Sun, Lei
+AU  - Sun L
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hong 
+      Kong S.A.R., China.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20210316
+PL  - United States
+TA  - STAR Protoc
+JT  - STAR protocols
+JID - 101769501
+MH  - Animals
+MH  - *Brain/metabolism/physiology/radiation effects
+MH  - Electromyography
+MH  - Fluorescent Antibody Technique
+MH  - *Genetic Techniques
+MH  - Mice
+MH  - Neurons/metabolism/radiation effects
+MH  - *Ultrasonic Waves
+PMC - PMC7995654
+OTO - NOTNLM
+OT  - Genetics
+OT  - Microscopy
+OT  - Model Organisms
+OT  - Neuroscience
+COIS- The authors declare no competing interests.
+EDAT- 2021/04/03 06:00
+MHDA- 2021/04/03 06:01
+PMCR- 2021/03/16
+CRDT- 2021/04/02 06:40
+PHST- 2021/04/02 06:40 [entrez]
+PHST- 2021/04/03 06:00 [pubmed]
+PHST- 2021/04/03 06:01 [medline]
+PHST- 2021/03/16 00:00 [pmc-release]
+AID - S2666-1667(21)00100-3 [pii]
+AID - 100393 [pii]
+AID - 10.1016/j.xpro.2021.100393 [doi]
+PST - epublish
+SO  - STAR Protoc. 2021 Mar 16;2(2):100393. doi: 10.1016/j.xpro.2021.100393. 
+      eCollection 2021 Jun 18.
+
+PMID- 33556006
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20211025
+LR  - 20211025
+IS  - 1525-8955 (Electronic)
+IS  - 0885-3010 (Linking)
+VI  - 68
+IP  - 6
+DP  - 2021 Jun
+TI  - Behavioral and Functional Assessment of Ultrasound Neuromodulation on 
+      Caenorhabditis Elegans.
+PG  - 2150-2154
+LID - 10.1109/TUFFC.2021.3057873 [doi]
+AB  - Ultrasound brain stimulation is a promising modality for probing brain function 
+      and treating brain diseases. However, its mechanism is as yet unclear, and in 
+      vivo effects are not well-understood. Here, we present a top-down strategy for 
+      assessing ultrasound bioeffects in vivo, using Caenorhabditis elegans. Behavioral 
+      and functional changes of single worms and of large populations upon ultrasound 
+      stimulation were studied. Worms were observed to significantly increase their 
+      average speed upon ultrasound stimulation, adapting to it upon continued 
+      treatment. Worms also generated more reversal turns when ultrasound was ON, and 
+      within a minute post-stimulation, they performed significantly more reversal and 
+      omega turns than prior to ultrasound. In addition, in vivo calcium imaging showed 
+      that the neural activity in the worms' heads and tails was increased 
+      significantly by ultrasound stimulation. In all, we conclude that ultrasound can 
+      directly activate the neurons of worms in vivo, in both of their major neuronal 
+      ganglia, and modify their behavior.
+FAU - Xian, Quanxiang
+AU  - Xian Q
+FAU - Qiu, Zhihai
+AU  - Qiu Z
+FAU - Kala, Shashwati
+AU  - Kala S
+FAU - Wong, Kin Fung
+AU  - Wong KF
+FAU - Guo, Jinghui
+AU  - Guo J
+FAU - Sun, Lei
+AU  - Sun L
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20210525
+PL  - United States
+TA  - IEEE Trans Ultrason Ferroelectr Freq Control
+JT  - IEEE transactions on ultrasonics, ferroelectrics, and frequency control
+JID - 9882735
+RN  - SY7Q814VUP (Calcium)
+SB  - IM
+MH  - Animals
+MH  - *Caenorhabditis elegans
+MH  - *Calcium
+EDAT- 2021/02/09 06:00
+MHDA- 2021/10/26 06:00
+CRDT- 2021/02/08 17:10
+PHST- 2021/02/09 06:00 [pubmed]
+PHST- 2021/10/26 06:00 [medline]
+PHST- 2021/02/08 17:10 [entrez]
+AID - 10.1109/TUFFC.2021.3057873 [doi]
+PST - ppublish
+SO  - IEEE Trans Ultrason Ferroelectr Freq Control. 2021 Jun;68(6):2150-2154. doi: 
+      10.1109/TUFFC.2021.3057873. Epub 2021 May 25.
+
+PMID- 33490898
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20210126
+IS  - 2589-0042 (Electronic)
+IS  - 2589-0042 (Linking)
+VI  - 24
+IP  - 1
+DP  - 2021 Jan 22
+TI  - The forbidden band and size selectivity of acoustic radiation force trapping.
+PG  - 101988
+LID - 10.1016/j.isci.2020.101988 [doi]
+LID - 101988
+AB  - Acoustic micro-beams produced by highly focused ultrasound transducer have been 
+      investigated for micro-particle and cell manipulation. Here we report the 
+      selective trapping of microspheres via the acoustic force using the single 
+      acoustical beam. The forbidden band theory of acoustic radiation force trapping 
+      is proposed, which indicates that the trapping of particles via the acoustic beam 
+      is directly related to the particle diameter-to-beam wavelength ratio as well as 
+      excitation frequency of the ultrasonic acoustic tweezers. Three tightly focused 
+      LiNbO(3) transducers with different center frequencies were fabricated for use as 
+      selective single beam acoustic tweezers (SBATs). These SBATs were capable of 
+      selectively manipulating microspheres of sizes 5-45 mum by adjusting the 
+      wavelength of acoustic beam. Our observations could introduce new avenues for 
+      research in biology and biophysics by promoting the development of a tool for 
+      selectively manipulating microspheres or cells of certain selected sizes, by 
+      carefully setting the acoustic beam shape and wavelength.
+CI  - (c) 2020 The Authors.
+FAU - Li, Zhaoxi
+AU  - Li Z
+AD  - School of Microelectronics, Xidian University, Xi'an, China.
+FAU - Wang, Danfeng
+AU  - Wang D
+AD  - School of Mechanical and Electrical Engineering, Central South University, 
+      Changsha, China.
+FAU - Fei, Chunlong
+AU  - Fei C
+AD  - School of Microelectronics, Xidian University, Xi'an, China.
+AD  - Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen 
+      518055, China.
+FAU - Qiu, Zhihai
+AU  - Qiu Z
+AD  - Department of Radiology, Stanford University, Stanford, CA, USA.
+FAU - Hou, Chenxue
+AU  - Hou C
+AD  - School of Microelectronics, Xidian University, Xi'an, China.
+FAU - Wu, Runcong
+AU  - Wu R
+AD  - School of Microelectronics, Xidian University, Xi'an, China.
+FAU - Li, Di
+AU  - Li D
+AD  - School of Microelectronics, Xidian University, Xi'an, China.
+FAU - Zhang, Qidong
+AU  - Zhang Q
+AD  - School of Microelectronics, Xidian University, Xi'an, China.
+FAU - Chen, Dongdong
+AU  - Chen D
+AD  - School of Microelectronics, Xidian University, Xi'an, China.
+FAU - Chen, Zeyu
+AU  - Chen Z
+AD  - School of Mechanical and Electrical Engineering, Central South University, 
+      Changsha, China.
+FAU - Feng, Wei
+AU  - Feng W
+AD  - Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen 
+      518055, China.
+FAU - Yang, Yintang
+AU  - Yang Y
+AD  - School of Microelectronics, Xidian University, Xi'an, China.
+LA  - eng
+PT  - Journal Article
+DEP - 20201226
+PL  - United States
+TA  - iScience
+JT  - iScience
+JID - 101724038
+PMC - PMC7809519
+OTO - NOTNLM
+OT  - Biochemistry Methods
+OT  - Biophysics
+OT  - Ultrasound Technology
+COIS- The authors declare no competing interests.
+EDAT- 2021/01/26 06:00
+MHDA- 2021/01/26 06:01
+PMCR- 2020/12/26
+CRDT- 2021/01/25 05:47
+PHST- 2020/10/14 00:00 [received]
+PHST- 2020/11/22 00:00 [revised]
+PHST- 2020/12/18 00:00 [accepted]
+PHST- 2021/01/25 05:47 [entrez]
+PHST- 2021/01/26 06:00 [pubmed]
+PHST- 2021/01/26 06:01 [medline]
+PHST- 2020/12/26 00:00 [pmc-release]
+AID - S2589-0042(20)31185-8 [pii]
+AID - 101988 [pii]
+AID - 10.1016/j.isci.2020.101988 [doi]
+PST - epublish
+SO  - iScience. 2020 Dec 26;24(1):101988. doi: 10.1016/j.isci.2020.101988. eCollection 
+      2021 Jan 22.
+
+PMID- 33406437
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20210114
+IS  - 2211-1247 (Electronic)
+VI  - 34
+IP  - 1
+DP  - 2021 Jan 5
+TI  - Targeted Neurostimulation in Mouse Brains with Non-invasive Ultrasound.
+PG  - 108595
+LID - S2211-1247(20)31584-9 [pii]
+LID - 10.1016/j.celrep.2020.108595 [doi]
+FAU - Qiu, Zhihai
+AU  - Qiu Z
+FAU - Kala, Shashwati
+AU  - Kala S
+FAU - Guo, Jinghui
+AU  - Guo J
+FAU - Xian, Quanxiang
+AU  - Xian Q
+FAU - Zhu, Jiejun
+AU  - Zhu J
+FAU - Zhu, Ting
+AU  - Zhu T
+FAU - Hou, Xuandi
+AU  - Hou X
+FAU - Wong, Kin Fung
+AU  - Wong KF
+FAU - Yang, Minyi
+AU  - Yang M
+FAU - Wang, Haoru
+AU  - Wang H
+FAU - Sun, Lei
+AU  - Sun L
+LA  - eng
+PT  - Published Erratum
+PL  - United States
+TA  - Cell Rep
+JT  - Cell reports
+JID - 101573691
+SB  - IM
+EFR - Cell Rep. 2020 Aug 18;32(7):108033. doi: 10.1016/j.celrep.2020.108033. PMID: 
+      32814040
+EDAT- 2021/01/07 06:00
+MHDA- 2021/01/07 06:01
+CRDT- 2021/01/06 20:04
+PHST- 2021/01/06 20:04 [entrez]
+PHST- 2021/01/07 06:00 [pubmed]
+PHST- 2021/01/07 06:01 [medline]
+AID - S2211-1247(20)31584-9 [pii]
+AID - 10.1016/j.celrep.2020.108595 [doi]
+PST - ppublish
+SO  - Cell Rep. 2021 Jan 5;34(1):108595. doi: 10.1016/j.celrep.2020.108595.
+
+PMID- 32814040
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210528
+LR  - 20210528
+IS  - 2211-1247 (Electronic)
+VI  - 32
+IP  - 7
+DP  - 2020 Aug 18
+TI  - Targeted Neurostimulation in Mouse Brains with Non-invasive Ultrasound.
+PG  - 108033
+LID - S2211-1247(20)31018-4 [pii]
+LID - 10.1016/j.celrep.2020.108033 [doi]
+AB  - Recently developed brain stimulation techniques have significantly advanced our 
+      ability to manipulate the brain's function. However, stimulating specific neurons 
+      in a desired region without significant surgical invasion remains a challenge. 
+      Here, we demonstrate a neuron-specific and region-targeted neural excitation 
+      strategy using non-invasive ultrasound through activation of heterologously 
+      expressed mechanosensitive ion channels (MscL-G22S). Low-intensity ultrasound is 
+      significantly better at inducing Ca(2+) influx and neuron activation in vitro and 
+      at evoking electromyogram (EMG) responses in vivo in targeted cells expressing 
+      MscL-G22S. Neurons in the cerebral cortex or dorsomedial striatum of mice are 
+      made to express MscL-G22S and stimulated ultrasonically. We find significant 
+      upregulation of c-Fos in neuron nuclei only in the regions expressing MscL-G22S 
+      compared with the non-MscL controls, as well as in various other regions in the 
+      same brain. Thus, we detail an effective approach for activating specific regions 
+      and cell types in intact mouse brains by sensitizing them to ultrasound using a 
+      mechanosensitive ion channel.
+CI  - Copyright (c) 2020 The Author(s). Published by Elsevier Inc. All rights reserved.
+FAU - Qiu, Zhihai
+AU  - Qiu Z
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hong 
+      Kong SAR, P. R. China, 999077.
+FAU - Kala, Shashwati
+AU  - Kala S
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hong 
+      Kong SAR, P. R. China, 999077.
+FAU - Guo, Jinghui
+AU  - Guo J
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hong 
+      Kong SAR, P. R. China, 999077.
+FAU - Xian, Quanxiang
+AU  - Xian Q
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hong 
+      Kong SAR, P. R. China, 999077.
+FAU - Zhu, Jiejun
+AU  - Zhu J
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hong 
+      Kong SAR, P. R. China, 999077.
+FAU - Zhu, Ting
+AU  - Zhu T
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hong 
+      Kong SAR, P. R. China, 999077.
+FAU - Hou, Xuandi
+AU  - Hou X
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hong 
+      Kong SAR, P. R. China, 999077.
+FAU - Wong, Kin Fung
+AU  - Wong KF
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hong 
+      Kong SAR, P. R. China, 999077.
+FAU - Yang, Minyi
+AU  - Yang M
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hong 
+      Kong SAR, P. R. China, 999077.
+FAU - Wang, Haoru
+AU  - Wang H
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hong 
+      Kong SAR, P. R. China, 999077.
+FAU - Sun, Lei
+AU  - Sun L
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hong 
+      Kong SAR, P. R. China, 999077. Electronic address: lei.sun@polyu.edu.hk.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Cell Rep
+JT  - Cell reports
+JID - 101573691
+SB  - IM
+EIN - Cell Rep. 2021 Jan 5;34(1):108595. doi: 10.1016/j.celrep.2020.108595. PMID: 
+      33406437
+MH  - Animals
+MH  - Brain/*diagnostic imaging
+MH  - Mice
+MH  - Neurons/*metabolism
+MH  - Ultrasonography/*methods
+OTO - NOTNLM
+OT  - MscL-G22S
+OT  - mechanosensitive ion channel
+OT  - noninvasive neuromodulation
+OT  - targeted neurostimulation
+OT  - transcranial ultrasound stimulation
+COIS- Declaration of Interests The authors have submitted a patent application titled 
+      "A non-invasive method for selective neural stimulation by ultrasound" with the 
+      U.S. Patent and Trade Office, dated April 10, 2018, assigned application number 
+      15/949,991.
+EDAT- 2020/08/20 06:00
+MHDA- 2021/05/29 06:00
+CRDT- 2020/08/20 06:00
+PHST- 2019/06/28 00:00 [received]
+PHST- 2019/09/11 00:00 [revised]
+PHST- 2020/07/23 00:00 [accepted]
+PHST- 2020/08/20 06:00 [entrez]
+PHST- 2020/08/20 06:00 [pubmed]
+PHST- 2021/05/29 06:00 [medline]
+AID - S2211-1247(20)31018-4 [pii]
+AID - 10.1016/j.celrep.2020.108033 [doi]
+PST - ppublish
+SO  - Cell Rep. 2020 Aug 18;32(7):108033. doi: 10.1016/j.celrep.2020.108033.
+
+PMID- 32268236
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210519
+LR  - 20210519
+IS  - 1878-7568 (Electronic)
+IS  - 1742-7061 (Linking)
+VI  - 108
+DP  - 2020 May
+TI  - Biogenic nanobubbles for effective oxygen delivery and enhanced photodynamic 
+      therapy of cancer.
+PG  - 313-325
+LID - S1742-7061(20)30175-6 [pii]
+LID - 10.1016/j.actbio.2020.03.034 [doi]
+AB  - Tumor hypoxia is believed to be a factor limiting successful outcomes of 
+      oxygen-consuming cancer therapy, thereby reducing patient survival. A key 
+      strategy to overcome tumor hypoxia is to increase the prevalence of oxygen at the 
+      tumor site. Oxygen-containing microbubbles/nanobubbles have been developed to 
+      supply oxygen and enhance the effects of therapies such as radiotherapy and 
+      photodynamic therapy. However, the application of these bubbles is constrained by 
+      their poor stability, requiring major workarounds to increase their half-lives. 
+      In this study, we explore the potential of biogenic gas vesicles (GVs) as a new 
+      kind of oxygen carrier to alleviate tumor hypoxia. GVs, which are naturally 
+      formed, gas-filled, protein-shelled compartments, were modified on the surface of 
+      their protein shells by a layer of liposome. A substantial improvement of oxygen 
+      concentration was observed in hypoxic solution, in hypoxic cells, as well as in 
+      subcutaneous tumors when lipid-GVs(O(2)) were added/tail-injected. Significant 
+      enhancement of tumor cell apoptosis and necrosis was also observed during 
+      photodynamic therapy (PDT) in the presence of lipid-GVs(O(2)) both in vitro and 
+      in vivo. Lipid-GVs(O(2)) alone induced no obvious change in cell viability in 
+      vitro or any apparent pathological abnormalities after mice were tail-injected 
+      with them. In all, lipid-GVs exhibited promising performance for intravenous gas 
+      delivery, enhanced PDT efficacy and low toxicity, a quality that may be applied 
+      to alleviate hypoxia in cancers, as well as hypoxia-related clinical treatments. 
+      STATEMENT OF SIGNIFICANCE: The development of stable oxygen-filled 
+      micro/nanobubbles capable of delivering oxygen to tumor sites is a major hurdle 
+      to enhancing the efficacy of cancer therapy. Currently, micro/nanobubbles are 
+      limited by their instability when oxygen is encapsulated, creating a large 
+      pressure gradient and surface tension. To improve stability, we modified the 
+      surfaces of GVs, a biogenic stable nanoscale hollow structure, as a new class of 
+      oxygen carriers. Lipid-coated GVs were found to be stable in solution and 
+      effective O(2) carriers. This will overcome the limitations of coalescence, short 
+      circulation time of synthetic bubbles during application. Our surface-modified 
+      GVs demonstrated low toxicity in vitro cell in vivo, while also being able to 
+      overcome hypoxia-associated therapy resistance when combined with photodynamic 
+      therapy.
+CI  - Copyright (c) 2020. Published by Elsevier Ltd.
+FAU - Song, Lin
+AU  - Song L
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hung 
+      Hom, Hong Kong Special Administrative Region.
+FAU - Wang, Guohao
+AU  - Wang G
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hung 
+      Hom, Hong Kong Special Administrative Region.
+FAU - Hou, Xuandi
+AU  - Hou X
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hung 
+      Hom, Hong Kong Special Administrative Region.
+FAU - Kala, Shashwati
+AU  - Kala S
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hung 
+      Hom, Hong Kong Special Administrative Region.
+FAU - Qiu, Zhihai
+AU  - Qiu Z
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hung 
+      Hom, Hong Kong Special Administrative Region.
+FAU - Wong, Kin Fung
+AU  - Wong KF
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hung 
+      Hom, Hong Kong Special Administrative Region.
+FAU - Cao, Fei
+AU  - Cao F
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hung 
+      Hom, Hong Kong Special Administrative Region.
+FAU - Sun, Lei
+AU  - Sun L
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hung 
+      Hom, Hong Kong Special Administrative Region. Electronic address: 
+      lei.sun@polyu.edu.hk.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20200405
+PL  - England
+TA  - Acta Biomater
+JT  - Acta biomaterialia
+JID - 101233144
+RN  - S88TT14065 (Oxygen)
+SB  - IM
+MH  - Animals
+MH  - Cell Line, Tumor
+MH  - Humans
+MH  - Hypoxia/drug therapy
+MH  - Mice
+MH  - Microbubbles
+MH  - *Neoplasms/drug therapy
+MH  - Oxygen
+MH  - *Photochemotherapy
+OTO - NOTNLM
+OT  - Gas vesicles
+OT  - Nanobubbles
+OT  - Oxygen delivery
+OT  - Photodynamic therapy
+OT  - Tumor hypoxia
+COIS- Declaration of Competing Interest The authors declare that they have no known 
+      competing financial interests or personal relationships that could have appeared 
+      to influence the work reported in this paper.
+EDAT- 2020/04/09 06:00
+MHDA- 2021/05/20 06:00
+CRDT- 2020/04/09 06:00
+PHST- 2019/11/19 00:00 [received]
+PHST- 2020/03/21 00:00 [revised]
+PHST- 2020/03/24 00:00 [accepted]
+PHST- 2020/04/09 06:00 [pubmed]
+PHST- 2021/05/20 06:00 [medline]
+PHST- 2020/04/09 06:00 [entrez]
+AID - S1742-7061(20)30175-6 [pii]
+AID - 10.1016/j.actbio.2020.03.034 [doi]
+PST - ppublish
+SO  - Acta Biomater. 2020 May;108:313-325. doi: 10.1016/j.actbio.2020.03.034. Epub 2020 
+      Apr 5.
+
+PMID- 31707258
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20200928
+IS  - 2589-0042 (Electronic)
+IS  - 2589-0042 (Linking)
+VI  - 21
+DP  - 2019 Nov 22
+TI  - The Mechanosensitive Ion Channel Piezo1 Significantly Mediates In Vitro 
+      Ultrasonic Stimulation of Neurons.
+PG  - 448-457
+LID - S2589-0042(19)30417-1 [pii]
+LID - 10.1016/j.isci.2019.10.037 [doi]
+AB  - Ultrasound brain stimulation is a promising modality for probing brain function 
+      and treating brain disease non-invasively and with high spatiotemporal 
+      resolution. However, the mechanism underlying its effects remains unclear. Here, 
+      we examine the role that the mouse piezo-type mechanosensitive ion channel 
+      component 1 (Piezo1) plays in mediating the in vitro effects of ultrasound in 
+      mouse primary cortical neurons and a neuronal cell line. We show that ultrasound 
+      alone could activate heterologous and endogenous Piezo1, initiating calcium 
+      influx and increased nuclear c-Fos expression in primary neurons but not when 
+      pre-treated with a Piezo1 inhibitor. We also found that ultrasound significantly 
+      increased the expression of the important proteins phospho-CaMKII, phospho-CREB, 
+      and c-Fos in a neuronal cell line, but Piezo1 knockdown significantly reduced 
+      this effect. Our findings demonstrate that the activity of mechanosensitive ion 
+      channels such as Piezo1 stimulated by ultrasound is an important contributor to 
+      its ability to stimulate cells in vitro.
+CI  - Copyright (c) 2019 The Author(s). Published by Elsevier Inc. All rights reserved.
+FAU - Qiu, Zhihai
+AU  - Qiu Z
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hong 
+      Kong SAR 999077, P. R. China.
+FAU - Guo, Jinghui
+AU  - Guo J
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hong 
+      Kong SAR 999077, P. R. China; Department of Physiology, School of Medicine, Jinan 
+      University, Guangzhou, China.
+FAU - Kala, Shashwati
+AU  - Kala S
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hong 
+      Kong SAR 999077, P. R. China.
+FAU - Zhu, Jiejun
+AU  - Zhu J
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hong 
+      Kong SAR 999077, P. R. China.
+FAU - Xian, Quanxiang
+AU  - Xian Q
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hong 
+      Kong SAR 999077, P. R. China.
+FAU - Qiu, Weibao
+AU  - Qiu W
+AD  - Paul C. Lauterbur Research Center for Biomedical Imaging, Institute of Biomedical 
+      and Health Engineering, Shenzhen Institutes of Advanced Technology, Chinese 
+      Academy of Sciences, Shenzhen, P. R. China.
+FAU - Li, Guofeng
+AU  - Li G
+AD  - Paul C. Lauterbur Research Center for Biomedical Imaging, Institute of Biomedical 
+      and Health Engineering, Shenzhen Institutes of Advanced Technology, Chinese 
+      Academy of Sciences, Shenzhen, P. R. China.
+FAU - Zhu, Ting
+AU  - Zhu T
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hong 
+      Kong SAR 999077, P. R. China.
+FAU - Meng, Long
+AU  - Meng L
+AD  - Paul C. Lauterbur Research Center for Biomedical Imaging, Institute of Biomedical 
+      and Health Engineering, Shenzhen Institutes of Advanced Technology, Chinese 
+      Academy of Sciences, Shenzhen, P. R. China.
+FAU - Zhang, Rui
+AU  - Zhang R
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hong 
+      Kong SAR 999077, P. R. China.
+FAU - Chan, Hsiao Chang
+AU  - Chan HC
+AD  - Department of Physiology, School of Medicine, Jinan University, Guangzhou, China.
+FAU - Zheng, Hairong
+AU  - Zheng H
+AD  - Paul C. Lauterbur Research Center for Biomedical Imaging, Institute of Biomedical 
+      and Health Engineering, Shenzhen Institutes of Advanced Technology, Chinese 
+      Academy of Sciences, Shenzhen, P. R. China. Electronic address: 
+      hr.zheng@siat.ac.cn.
+FAU - Sun, Lei
+AU  - Sun L
+AD  - Department of Biomedical Engineering, The Hong Kong Polytechnic University, Hong 
+      Kong SAR 999077, P. R. China. Electronic address: lei.sun@polyu.edu.hk.
+LA  - eng
+PT  - Journal Article
+DEP - 20191023
+PL  - United States
+TA  - iScience
+JT  - iScience
+JID - 101724038
+PMC - PMC6849147
+OTO - NOTNLM
+OT  - Cellular Neuroscience
+OT  - Molecular Neuroscience
+OT  - Neuroscience
+OT  - Sensory Neuroscience
+COIS- Z.Q., J.G., S.K., J. Z., Q. Z., and L.S. have submitted a patent application 
+      titled "A Non-invasive method for selective neural stimulation by ultrasound" 
+      with the USPTO dated April 10, 2018, assigned application number 15/949,991, 
+      which relates to the ultrasound setup used in all the experiments. The authors 
+      declare no further financial interests.
+EDAT- 2019/11/11 06:00
+MHDA- 2019/11/11 06:01
+PMCR- 2019/10/23
+CRDT- 2019/11/11 06:00
+PHST- 2019/05/03 00:00 [received]
+PHST- 2019/09/04 00:00 [revised]
+PHST- 2019/10/18 00:00 [accepted]
+PHST- 2019/11/11 06:00 [pubmed]
+PHST- 2019/11/11 06:01 [medline]
+PHST- 2019/11/11 06:00 [entrez]
+PHST- 2019/10/23 00:00 [pmc-release]
+AID - S2589-0042(19)30417-1 [pii]
+AID - 10.1016/j.isci.2019.10.037 [doi]
+PST - ppublish
+SO  - iScience. 2019 Nov 22;21:448-457. doi: 10.1016/j.isci.2019.10.037. Epub 2019 Oct 
+      23.
+
+PMID- 30231241
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20181016
+LR  - 20260127
+IS  - 1421-9778 (Electronic)
+IS  - 1015-8987 (Linking)
+VI  - 49
+IP  - 5
+DP  - 2018
+TI  - PINK1/Parkin-Mediated Mitophagy Promotes Resistance to Sonodynamic Therapy.
+PG  - 1825-1839
+LID - 10.1159/000493629 [doi]
+AB  - BACKGROUND/AIMS: Sonodynamic therapy (SDT), based on the synergistic effect of 
+      low-intensity ultrasound and sonosensitizer, is a potential approach for 
+      non-invasive treatment of cancers. In SDT, mitochondria played a crucial role in 
+      cell fate determination. However, mitochondrial activities and their response to 
+      SDT remain elusive. The purpose of this study was to examine the response of 
+      mitochondria to SDT in tumor cells. METHODS: A human breast adenocarcinoma cell 
+      line - MCF-7 cells were subjected to 5-aminolevulinic acid (ALA)-SDT, with an 
+      average ultrasonic intensity of 0.25W/cm2. Mitochondrial dynamics and redox 
+      balance were examined by confocal immunofluorescence microscopy and western blot. 
+      The occurrence of mitophagy was determined by confocal immunofluorescence 
+      microscopy. RESULTS: Our results showed that ALA-SDT could induce mitochondrial 
+      dysfunction through mitochondrial depolarization and fragmentation and lead to 
+      mitophagy. The Parkin-dependent signaling pathway was involved and promoted 
+      resistance to ALA-SDT induced cell death. Finally, excessive production of ROS 
+      was found to be necessary for the initiation of mitophagy. CONCLUSION: Taken 
+      together, we conclude that ROS produced by 5-ALA-SDT could initiate 
+      PINK1/Parkin-mediated mitophagy which may exert a protective effect against 
+      5-ALA-SDT-induced cell death in MCF-7 cells.
+CI  - (c) 2018 The Author(s). Published by S. Karger AG, Basel.
+FAU - Song, Lin
+AU  - Song L
+FAU - Huang, Yongmin
+AU  - Huang Y
+FAU - Hou, Xuandi
+AU  - Hou X
+FAU - Yang, Yaoheng
+AU  - Yang Y
+FAU - Kala, Shashwati
+AU  - Kala S
+FAU - Qiu, Zhihai
+AU  - Qiu Z
+FAU - Zhang, Rui
+AU  - Zhang R
+FAU - Sun, Lei
+AU  - Sun L
+LA  - eng
+PT  - Journal Article
+DEP - 20180919
+PL  - Germany
+TA  - Cell Physiol Biochem
+JT  - Cellular physiology and biochemistry : international journal of experimental 
+      cellular physiology, biochemistry, and pharmacology
+JID - 9113221
+RN  - 88755TAZ87 (Aminolevulinic Acid)
+RN  - 0 (Photosensitizing Agents)
+RN  - EC 2.7.- (Protein Kinases)
+RN  - 0 (RNA, Small Interfering)
+RN  - 0 (Reactive Oxygen Species)
+RN  - EC 2.3.2.27 (Ubiquitin-Protein Ligases)
+RN  - EC 2.7.11.1 (PTEN-Induced Putative Kinase)
+RN  - EC 2.3.2.27 (parkin protein)
+SB  - IM
+MH  - Aminolevulinic Acid/pharmacology
+MH  - Apoptosis/drug effects
+MH  - Humans
+MH  - MCF-7 Cells
+MH  - Membrane Potential, Mitochondrial/drug effects
+MH  - Mitochondria/drug effects/metabolism
+MH  - Mitophagy/*drug effects
+MH  - Photosensitizing Agents/*pharmacology
+MH  - Protein Kinases/*metabolism
+MH  - RNA Interference
+MH  - RNA, Small Interfering/metabolism
+MH  - Reactive Oxygen Species/metabolism
+MH  - Signal Transduction/drug effects
+MH  - Sonication/*methods
+MH  - Ubiquitin-Protein Ligases/antagonists & inhibitors/genetics/*metabolism
+MH  - PTEN-Induced Putative Kinase
+OTO - NOTNLM
+OT  - Mitochondrial dynamics
+OT  - Mitophagy
+OT  - PINK1/Parkin signaling pathway
+OT  - ROS
+OT  - Sonodynamic therapy
+EDAT- 2018/09/20 06:00
+MHDA- 2018/10/17 06:00
+CRDT- 2018/09/20 06:00
+PHST- 2017/11/21 00:00 [received]
+PHST- 2018/09/11 00:00 [accepted]
+PHST- 2018/09/20 06:00 [pubmed]
+PHST- 2018/10/17 06:00 [medline]
+PHST- 2018/09/20 06:00 [entrez]
+AID - 000493629 [pii]
+AID - 10.1159/000493629 [doi]
+PST - ppublish
+SO  - Cell Physiol Biochem. 2018;49(5):1825-1839. doi: 10.1159/000493629. Epub 2018 Sep 
+      19.
+
+PMID- 28889941
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180716
+LR  - 20180720
+IS  - 1879-291X (Electronic)
+IS  - 0301-5629 (Linking)
+VI  - 43
+IP  - 12
+DP  - 2017 Dec
+TI  - Ultrasonic Characteristics and Cellular Properties of Anabaena Gas Vesicles.
+PG  - 2862-2870
+LID - S0301-5629(17)30365-4 [pii]
+LID - 10.1016/j.ultrasmedbio.2017.08.004 [doi]
+AB  - Ultrasound imaging is a common modality in clinical examination and biomedical 
+      research, but has not played a significant role in molecular imaging for lack of 
+      an appropriate contrast agent. Recently, biogenic gas vesicles (GVs), naturally 
+      formed by cyanobacteria and haloarchaea, have exhibited great potential as an 
+      ultrasound molecular imaging probe with a much smaller size ( approximately 100 nm) and 
+      improved imaging contrast. However, the basic acoustic and biological properties 
+      of GVs remain unclear, which hinders future application. Here, we studied the 
+      fundamental acoustic properties of a rod-shaped gas vesicle from Anabaena, a kind 
+      of cyanobacterium, including attenuation, oscillation resonance, and scattering, 
+      as well as biological behaviors (cellular internalization and cytotoxicity). We 
+      found that GVs have two resonance peaks (85 and 120 MHz). We also observed a 
+      significant non-linear effect and its pressure dependence as well. Ultrasound 
+      B-mode imaging reveals sufficient echogenicity of GVs for ultrasound imaging 
+      enhancement at high frequencies. Biological characterization also reveals 
+      endocytosis and non-toxicity.
+CI  - Copyright (c) 2017 World Federation for Ultrasound in Medicine and Biology. 
+      Published by Elsevier Inc. All rights reserved.
+FAU - Yang, Yaoheng
+AU  - Yang Y
+AD  - Interdisciplinary Division of Biomedical Engineering, The Hong Kong Polytechnic 
+      University, Hung Hong, Hong Kong SA.
+FAU - Qiu, Zhihai
+AU  - Qiu Z
+AD  - Interdisciplinary Division of Biomedical Engineering, The Hong Kong Polytechnic 
+      University, Hung Hong, Hong Kong SA.
+FAU - Hou, Xuandi
+AU  - Hou X
+AD  - Interdisciplinary Division of Biomedical Engineering, The Hong Kong Polytechnic 
+      University, Hung Hong, Hong Kong SA.
+FAU - Sun, Lei
+AU  - Sun L
+AD  - Interdisciplinary Division of Biomedical Engineering, The Hong Kong Polytechnic 
+      University, Hung Hong, Hong Kong SA. Electronic address: sun.lei@polyu.edu.hk.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20170908
+PL  - England
+TA  - Ultrasound Med Biol
+JT  - Ultrasound in medicine & biology
+JID - 0410553
+RN  - 0 (Proteins)
+RN  - 0 (gas vesicle protein)
+SB  - IM
+MH  - Anabaena/*physiology
+MH  - Cell Culture Techniques
+MH  - Proteins/*physiology
+MH  - Ultrasonography/*methods
+OTO - NOTNLM
+OT  - Acoustic characterization
+OT  - Contrast agent
+OT  - Gas vesicle
+OT  - Molecular imaging
+OT  - Nanobubble
+OT  - Resonance frequency
+OT  - Scattering property
+OT  - Ultrasound
+EDAT- 2017/09/12 06:00
+MHDA- 2018/07/17 06:00
+CRDT- 2017/09/12 06:00
+PHST- 2016/10/03 00:00 [received]
+PHST- 2017/07/24 00:00 [revised]
+PHST- 2017/08/08 00:00 [accepted]
+PHST- 2017/09/12 06:00 [pubmed]
+PHST- 2018/07/17 06:00 [medline]
+PHST- 2017/09/12 06:00 [entrez]
+AID - S0301-5629(17)30365-4 [pii]
+AID - 10.1016/j.ultrasmedbio.2017.08.004 [doi]
+PST - ppublish
+SO  - Ultrasound Med Biol. 2017 Dec;43(12):2862-2870. doi: 
+      10.1016/j.ultrasmedbio.2017.08.004. Epub 2017 Sep 8.
+
+PMID- 27526164
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20171103
+LR  - 20191210
+IS  - 0065-2598 (Print)
+IS  - 0065-2598 (Linking)
+VI  - 923
+DP  - 2016
+TI  - Determination of Optical and Microvascular Parameters of Port Wine Stains Using 
+      Diffuse Reflectance Spectroscopy.
+PG  - 359-365
+LID - 10.1007/978-3-319-38810-6_47 [doi]
+AB  - Characterizing port wine stains (PWS) with its optical parameters [i.e. 
+      absorption coefficient (mu a) and reduced scattering coefficient (mu s')] and 
+      microvascular parameters [i.e. blood volume fraction (BVF), mean vessel diameter 
+      (MVD), and oxygen saturation (StO2)] is extremely important for elucidating the 
+      mechanisms for its light-based treatments, such as pulsed dye laser and 
+      photodynamic therapy. In this study, a customized diffuse reflectance 
+      spectroscopy (DRS) probe with an appropriate source-detector distance was used to 
+      measure the diffuse reflectance spectra of PWS lesions in clinical practice. The 
+      results demonstrate that optical parameters of different types of PWS lesions can 
+      be accurately extracted by fitting the DRS with diffusion equation. Since the 
+      sampling depth of the probe coincides with the depth distribution of abnormal 
+      vasculature in PWS, the obtained microvascular parameters of PWS lesions that 
+      changed from pink to purple are in agreement with the corresponding physiological 
+      conditions. This study suggests that DRS can be utilized to quantitatively 
+      determine the optical and microvascular parameters of PWS lesions, which have the 
+      potential for planning the protocol and predicting the efficiency for light-based 
+      PWS treatments.
+FAU - Qiu, Zhihai
+AU  - Qiu Z
+AD  - MOE Key Laboratory of OptoElectronic Science and Technology for Medicine, Fujian 
+      Provincial Key Laboratory for Photonics Technology, Fujian Normal University, 
+      Fuzhou, 350007, China.
+FAU - Yao, Guangping
+AU  - Yao G
+AD  - MOE Key Laboratory of OptoElectronic Science and Technology for Medicine, Fujian 
+      Provincial Key Laboratory for Photonics Technology, Fujian Normal University, 
+      Fuzhou, 350007, China.
+FAU - Chen, Defu
+AU  - Chen D
+AD  - Department of Laser Medicine, Chinese PLA General Hospital, Beijing, 100853, 
+      China.
+FAU - Wang, Ying
+AU  - Wang Y
+AD  - Department of Laser Medicine, Chinese PLA General Hospital, Beijing, 100853, 
+      China.
+FAU - Gu, Ying
+AU  - Gu Y
+AD  - Department of Laser Medicine, Chinese PLA General Hospital, Beijing, 100853, 
+      China.
+FAU - Li, Buhong
+AU  - Li B
+AD  - MOE Key Laboratory of OptoElectronic Science and Technology for Medicine, Fujian 
+      Provincial Key Laboratory for Photonics Technology, Fujian Normal University, 
+      Fuzhou, 350007, China. bhli@fjnu.edu.cn.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Validation Study
+PL  - United States
+TA  - Adv Exp Med Biol
+JT  - Advances in experimental medicine and biology
+JID - 0121103
+RN  - 0 (Biomarkers)
+RN  - S88TT14065 (Oxygen)
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Biomarkers/blood
+MH  - Child
+MH  - Child, Preschool
+MH  - Feasibility Studies
+MH  - Female
+MH  - Humans
+MH  - Infant
+MH  - Male
+MH  - *Microcirculation
+MH  - Optics and Photonics/*methods
+MH  - Oxygen/*blood
+MH  - Port-Wine Stain/diagnosis/*metabolism/physiopathology/therapy
+MH  - Predictive Value of Tests
+MH  - Prognosis
+MH  - Signal Processing, Computer-Assisted
+MH  - Skin/*blood supply
+MH  - Spectrum Analysis/*methods
+MH  - Young Adult
+OTO - NOTNLM
+OT  - Diffuse reflectance spectroscopy
+OT  - Microvascular parameters
+OT  - Optical parameters
+OT  - Port wine stains
+EDAT- 2016/08/16 06:00
+MHDA- 2017/11/04 06:00
+CRDT- 2016/08/16 06:00
+PHST- 2016/08/16 06:00 [entrez]
+PHST- 2016/08/16 06:00 [pubmed]
+PHST- 2017/11/04 06:00 [medline]
+AID - 10.1007/978-3-319-38810-6_47 [doi]
+PST - ppublish
+SO  - Adv Exp Med Biol. 2016;923:359-365. doi: 10.1007/978-3-319-38810-6_47.
+
+PMID- 27382286
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20160706
+LR  - 20201001
+IS  - 1176-6328 (Print)
+IS  - 1178-2021 (Electronic)
+IS  - 1176-6328 (Linking)
+VI  - 12
+DP  - 2016
+TI  - Deep brain stimulation of pallidal versus subthalamic for patients with 
+      Parkinson's disease: a meta-analysis of controlled clinical trials.
+PG  - 1435-44
+LID - 10.2147/NDT.S105513 [doi]
+AB  - BACKGROUND: Parkinson's disease (PD) is a common neurodegenerative disorder that 
+      affects many people every year. Deep brain stimulation (DBS) is an effective 
+      nonpharmacological method to treat PD motor symptoms. This meta-analysis was 
+      conducted to evaluate the efficacy of subthalamic nucleus (STN)-DBS versus globus 
+      pallidus internus (GPi)-DBS in treating advanced PD. METHODS: Controlled clinical 
+      trials that compared STN-DBS to GPi-DBS for short-term treatment of PD in adults 
+      were researched up to November 2015. The primary outcomes were the Unified 
+      Parkinson's Disease Rating Scale Section (UPDRS) III score and the 
+      levodopa-equivalent dosage (LED) after DBS. The secondary outcomes were the UPDRS 
+      II score and the Beck Depression Inventory (BDI) score. RESULTS: Totally, 13 
+      studies containing 1,148 PD patients were included in this meta-analysis to 
+      compare STN-DBS versus GPi-DBS. During the off-medication state, the pooled 
+      weighted mean difference (WMD) of UPDRS III and II scores were -2.18 (95% CI 
+      =-5.11 to 0.74) and -1.96 (95% CI =-3.84 to -0.08), respectively. During the 
+      on-medication state, the pooled WMD of UPDRS III and II scores were 0.15 (95% CI 
+      =-1.14 to 1.44) and 1.01 (95% CI =0.12 to 1.89), respectively. After DBS, the 
+      pooled WMD of LED and BDI were -254.48 (95% CI =-341.66) and 2.29 (95% CI =0.83 
+      to 3.75), respectively. CONCLUSION: These results indicate that during the 
+      off-medication state, the STN-DBS might be superior to GPi-DBS in improving the 
+      motor function and activities of daily living for PD patients; but during the 
+      on-medication state, the opposite result is observed. Meanwhile, the STN-DBS is 
+      superior at reducing the LED, whereas the GPi-DBS shows a significantly greater 
+      reduction in BDI score after DBS.
+FAU - Xu, Fan
+AU  - Xu F
+AD  - Interdisciplinary Division of Biomedical Engineering, The Hong Kong Polytechnic 
+      University, Hung Hom, Hong Kong SAR, People's Republic of China.
+FAU - Ma, Wenbin
+AU  - Ma W
+AD  - Department of Neurology, Binzhou Medical University Hospital, Binzhou, Shandong, 
+      People's Republic of China.
+FAU - Huang, Yongmin
+AU  - Huang Y
+AD  - Interdisciplinary Division of Biomedical Engineering, The Hong Kong Polytechnic 
+      University, Hung Hom, Hong Kong SAR, People's Republic of China.
+FAU - Qiu, Zhihai
+AU  - Qiu Z
+AD  - Interdisciplinary Division of Biomedical Engineering, The Hong Kong Polytechnic 
+      University, Hung Hom, Hong Kong SAR, People's Republic of China.
+FAU - Sun, Lei
+AU  - Sun L
+AD  - Interdisciplinary Division of Biomedical Engineering, The Hong Kong Polytechnic 
+      University, Hung Hom, Hong Kong SAR, People's Republic of China.
+LA  - eng
+PT  - Journal Article
+DEP - 20160622
+PL  - New Zealand
+TA  - Neuropsychiatr Dis Treat
+JT  - Neuropsychiatric disease and treatment
+JID - 101240304
+PMC - PMC4922776
+OTO - NOTNLM
+OT  - Parkinson disease
+OT  - deep brain stimulation
+OT  - globus pallidus internus
+OT  - subthalamic nucleus
+EDAT- 2016/07/07 06:00
+MHDA- 2016/07/07 06:01
+PMCR- 2016/06/22
+CRDT- 2016/07/07 06:00
+PHST- 2016/07/07 06:00 [entrez]
+PHST- 2016/07/07 06:00 [pubmed]
+PHST- 2016/07/07 06:01 [medline]
+PHST- 2016/06/22 00:00 [pmc-release]
+AID - ndt-12-1435 [pii]
+AID - 10.2147/NDT.S105513 [doi]
+PST - epublish
+SO  - Neuropsychiatr Dis Treat. 2016 Jun 22;12:1435-44. doi: 10.2147/NDT.S105513. 
+      eCollection 2016.
+
+PMID- 18842048
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20081224
+LR  - 20250529
+IS  - 1520-5126 (Electronic)
+IS  - 0002-7863 (Print)
+IS  - 0002-7863 (Linking)
+VI  - 130
+IP  - 44
+DP  - 2008 Nov 5
+TI  - A diazirine-based nucleoside analogue for efficient DNA interstrand 
+      photocross-linking.
+PG  - 14398-9
+LID - 10.1021/ja805445j [doi]
+AB  - A diazirine-based nucleoside analogue (DBN) efficiently forms DNA interstand 
+      cross-linking under near-UV irradiation. This new base analogue may find broad 
+      applications in biotechnology and phototherapy.
+FAU - Qiu, Zhihai
+AU  - Qiu Z
+AD  - Department of Chemistry, The University of Chicago, 929 East 57th Street, 
+      Chicago, Illinois 60637, USA.
+FAU - Lu, Lianghua
+AU  - Lu L
+FAU - Jian, Xing
+AU  - Jian X
+FAU - He, Chuan
+AU  - He C
+LA  - eng
+GR  - R01 GM071440/GM/NIGMS NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20081009
+PL  - United States
+TA  - J Am Chem Soc
+JT  - Journal of the American Chemical Society
+JID - 7503056
+RN  - 0 (Nucleosides)
+RN  - 60A625P70P (Diazomethane)
+RN  - 9007-49-2 (DNA)
+SB  - IM
+MH  - DNA/*chemistry/*radiation effects
+MH  - Diazomethane/*analogs & derivatives/chemical synthesis/chemistry
+MH  - Models, Molecular
+MH  - Nucleosides/chemical synthesis/*chemistry
+MH  - Photochemical Processes
+MH  - Thermodynamics
+MH  - Ultraviolet Rays
+PMC - PMC2945524
+MID - NIHMS237210
+EDAT- 2008/10/10 09:00
+MHDA- 2008/12/25 09:00
+PMCR- 2010/09/25
+CRDT- 2008/10/10 09:00
+PHST- 2008/10/10 09:00 [pubmed]
+PHST- 2008/12/25 09:00 [medline]
+PHST- 2008/10/10 09:00 [entrez]
+PHST- 2010/09/25 00:00 [pmc-release]
+AID - 10.1021/ja805445j [doi]
+PST - ppublish
+SO  - J Am Chem Soc. 2008 Nov 5;130(44):14398-9. doi: 10.1021/ja805445j. Epub 2008 Oct 
+      9.
+
+PMID- 15638251
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20050503
+LR  - 20190814
+IS  - 0024-4201 (Print)
+IS  - 0024-4201 (Linking)
+VI  - 39
+IP  - 8
+DP  - 2004 Aug
+TI  - Dioxirane oxidation of 3beta-substituted delta5-steroids.
+PG  - 805-9
+AB  - This article reviews the utility of dioxiranes in the oxidation of 
+      3beta-substituted delta5-sterols. Dioxiranes are the smallest cyclic peroxides 
+      that contain a carbon atom. They can be generated in situ from Oxone 
+      (2KHSO5.KHSO4.K2SO4) and a ketone. Dioxiranes are versatile oxidizing agents. The 
+      most common reaction of dioxiranes is epoxidation, with nearly 1:1 ratios of 
+      alpha/beta isomer products in all cases. delta5-Steroids with different side 
+      chains were epoxidized by dioxiranes generated in situ from several commercially 
+      available ketones. Although ketones function as catalyst, they were used in about 
+      an equivalent amount or large excess to accelerate the reaction.
+FAU - Parish, Edward J
+AU  - Parish EJ
+AD  - Department of Chemistry, Auburn University, Auburn, Alabama 36849, USA. 
+      parisej@auburn.edu
+FAU - Qiu, Zhihai
+AU  - Qiu Z
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PL  - United States
+TA  - Lipids
+JT  - Lipids
+JID - 0060450
+RN  - 0 (Epoxy Compounds)
+RN  - 0 (Ketones)
+RN  - 0 (Steroids)
+RN  - 157-26-6 (dioxirane)
+SB  - IM
+MH  - Animals
+MH  - Epoxy Compounds/*chemistry
+MH  - Ketones/chemistry
+MH  - Oxidation-Reduction
+MH  - Steroids/*chemistry
+RF  - 60
+EDAT- 2005/01/11 09:00
+MHDA- 2005/05/04 09:00
+CRDT- 2005/01/11 09:00
+PHST- 2005/01/11 09:00 [pubmed]
+PHST- 2005/05/04 09:00 [medline]
+PHST- 2005/01/11 09:00 [entrez]
+AID - 10.1007/s11745-004-1300-9 [doi]
+PST - ppublish
+SO  - Lipids. 2004 Aug;39(8):805-9. doi: 10.1007/s11745-004-1300-9.
+
+PMID- 15638250
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20050503
+LR  - 20220716
+IS  - 0024-4201 (Print)
+IS  - 0024-4201 (Linking)
+VI  - 39
+IP  - 8
+DP  - 2004 Aug
+TI  - Review of chemical syntheses of 7-keto-delta5-sterols.
+PG  - 801-4
+AB  - Steroids bearing ketone functionality at carbon-7 are found commonly in nature, 
+      and the most prevalent of these are the 7-keto-delta5-sterols. These substances 
+      have diverse biological properties and are present in biological samples and food 
+      products. For the purpose of studying this class of oxysterols, many chemical 
+      methods, involving the chemical oxidation of delta5-sterols to the corresponding 
+      7-keto-delta5-sterol derivatives have been developed to produce these compounds. 
+      We have undertaken a review and evaluation of chemical methods for the synthesis 
+      of these compounds and have endeavored to enhance one of these procedures to 
+      yield products for chemical and biological investigations.
+FAU - Parish, Edward J
+AU  - Parish EJ
+AD  - Department of Chemistry, Auburn University, Auburn, Alabama 36849, USA. 
+      parisej@auburn.edu
+FAU - Kizito, Stephen A
+AU  - Kizito SA
+FAU - Qiu, Zhihai
+AU  - Qiu Z
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PL  - United States
+TA  - Lipids
+JT  - Lipids
+JID - 0060450
+RN  - 0 (Sterols)
+SB  - IM
+MH  - Animals
+MH  - Sterols/*chemical synthesis/chemistry
+RF  - 63
+EDAT- 2005/01/11 09:00
+MHDA- 2005/05/04 09:00
+CRDT- 2005/01/11 09:00
+PHST- 2005/01/11 09:00 [pubmed]
+PHST- 2005/05/04 09:00 [medline]
+PHST- 2005/01/11 09:00 [entrez]
+AID - 10.1007/s11745-004-1299-y [doi]
+PST - ppublish
+SO  - Lipids. 2004 Aug;39(8):801-4. doi: 10.1007/s11745-004-1299-y.
+
+PMID- 12617475
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20031217
+LR  - 20190814
+IS  - 0024-4201 (Print)
+IS  - 0024-4201 (Linking)
+VI  - 37
+IP  - 12
+DP  - 2002 Dec
+TI  - New chemical syntheses of cholest-4,6-dien-3-one.
+PG  - 1197-200
+AB  - Steroidal dienones represent a significant class of compounds that are useful 
+      intermediates in the further functionalization of the steroid nucleus. Their 
+      chemical synthesis can be problematic owing to the lack of a simplified method of 
+      preparation and the occurrence of impurities that can be difficult to remove. We 
+      have endeavored to develop new methods of chemical synthesis of 
+      cholest-4,6-dien-3-one that would yield a product of high purity.
+FAU - Parish, Edward J
+AU  - Parish EJ
+AD  - Department of Chemistry, Auburn University, Alabama 36849-5312, USA. 
+      parisej@auburn.edu
+FAU - Sun, Hang
+AU  - Sun H
+FAU - Lu, Ding
+AU  - Lu D
+FAU - Kizito, Stephen A
+AU  - Kizito SA
+FAU - Qiu, Zhihai
+AU  - Qiu Z
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - Lipids
+JT  - Lipids
+JID - 0060450
+RN  - 0 (Cholestenones)
+RN  - 0 (Steroids)
+RN  - 566-93-8 (4,6-cholestadien-3-one)
+SB  - IM
+MH  - Cholestenones/*chemical synthesis/chemistry
+MH  - Steroids/*chemical synthesis
+EDAT- 2003/03/06 04:00
+MHDA- 2003/12/18 05:00
+CRDT- 2003/03/06 04:00
+PHST- 2003/03/06 04:00 [pubmed]
+PHST- 2003/12/18 05:00 [medline]
+PHST- 2003/03/06 04:00 [entrez]
+AID - 10.1007/s11745-002-1021-0 [doi]
+PST - ppublish
+SO  - Lipids. 2002 Dec;37(12):1197-200. doi: 10.1007/s11745-002-1021-0.

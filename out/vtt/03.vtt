@@ -1,0 +1,7057 @@
+WEBVTT
+
+1
+00:00:00.300 --> 00:00:03.220
+<v Charles Caskey>So are we gonna do like a formal introduction to the episode, and we're
+
+2
+00:00:03.260 --> 00:00:05.320
+<v Charles Caskey>gonna be like, "Hey, welcome to FUS Forward.
+
+3
+00:00:05.840 --> 00:00:08.300
+<v Charles Caskey>It's with Keith and Charles. We're gonna talk about..."
+
+4
+00:00:08.400 --> 00:00:09.540
+<v Charles Caskey>[laughs] [laughs]
+
+5
+00:00:09.540 --> 00:00:13.080
+<v Keith Murphy>I like that a lot. [laughs] [laughs]
+
+6
+00:00:13.280 --> 00:00:15.920
+<v Intro narrator>Follow Charles Caskey and Keith Murphy-
+
+7
+00:00:15.960 --> 00:00:16.460
+<v Keith Murphy>I think that's great
+
+8
+00:00:16.560 --> 00:00:22.500
+<v Intro narrator>... as they explore the next frontier of ultrasound neuromodulation with FUS Forward.
+
+9
+00:00:23.680 --> 00:00:24.520
+<v Keith Murphy>All right. Let Charles find some sun-
+
+10
+00:00:24.540 --> 00:00:25.040
+<v Charles Caskey>All right. I'm just gonna go-
+
+11
+00:00:24.940 --> 00:00:25.820
+<v Keith Murphy>... some sunnies with no polarization
+
+12
+00:00:25.820 --> 00:00:28.880
+<v Charles Caskey>... blind, blind. Uh, I think they're all gonna be that way, so.
+
+13
+00:00:29.240 --> 00:00:29.740
+<v Keith Murphy>Do you need-
+
+14
+00:00:29.660 --> 00:00:30.160
+<v Elsa Fouragnan>Yeah
+
+15
+00:00:29.700 --> 00:00:31.380
+<v Keith Murphy>... do you need to see your screen for anything?
+
+16
+00:00:32.080 --> 00:00:33.960
+<v Charles Caskey>Well, I like to see y'all's reactions to stuff.
+
+17
+00:00:34.020 --> 00:00:35.880
+<v Charles Caskey>Yeah, yeah. [laughs] [laughs]
+
+18
+00:00:36.060 --> 00:00:38.300
+<v Keith Murphy>Uh, that is, that is helpful for a good podcast.
+
+19
+00:00:38.960 --> 00:00:39.980
+<v Keith Murphy>All right. So here we are.
+
+20
+00:00:40.580 --> 00:00:44.600
+<v Keith Murphy>We have Elsa Fouragnan for our very first guest episode.
+
+21
+00:00:45.160 --> 00:00:50.040
+<v Keith Murphy>A, a dear friend, colleague, amazing scientist, engineer.
+
+22
+00:00:50.740 --> 00:00:52.340
+<v Keith Murphy>Oh my God, so many things to say.
+
+23
+00:00:52.780 --> 00:00:53.960
+<v Keith Murphy>Elsa, we, we met-
+
+24
+00:00:54.180 --> 00:00:54.680
+<v Elsa Fouragnan>You're very kind
+
+25
+00:00:54.540 --> 00:00:55.720
+<v Keith Murphy>... how many, how many years ago?
+
+26
+00:00:55.800 --> 00:00:57.260
+<v Keith Murphy>We met at FUN '22.
+
+27
+00:00:58.400 --> 00:00:59.660
+<v Elsa Fouragnan>We met in Germany.
+
+28
+00:01:00.200 --> 00:01:03.980
+<v Keith Murphy>In Germany. We were s- we were, uh, testing out the NeuroFUS in the
+
+29
+00:01:04.020 --> 00:01:04.940
+<v Keith Murphy>lobby, testing out the-
+
+30
+00:01:04.960 --> 00:01:05.460
+<v Elsa Fouragnan>Oh, yeah
+
+31
+00:01:05.200 --> 00:01:05.700
+<v Keith Murphy>... ShamPad.
+
+32
+00:01:05.920 --> 00:01:06.540
+<v Elsa Fouragnan>That's true.
+
+33
+00:01:06.940 --> 00:01:08.560
+<v Keith Murphy>How long have you and Charles known each other?
+
+34
+00:01:09.420 --> 00:01:10.000
+<v Elsa Fouragnan>Um...
+
+35
+00:01:10.960 --> 00:01:12.820
+<v Charles Caskey>I f- oh, how did we meet?
+
+36
+00:01:12.940 --> 00:01:18.980
+<v Charles Caskey>In 2019. Must've been October 2019 when Lennart hosted everybody at Oxford.
+
+37
+00:01:19.040 --> 00:01:19.680
+<v Charles Caskey>Were you at that one?
+
+38
+00:01:20.460 --> 00:01:24.460
+<v Elsa Fouragnan>Oh, yeah. I was there, but I don't think I knew anybody at this
+
+39
+00:01:24.520 --> 00:01:25.540
+<v Elsa Fouragnan>stage. I mean, I would-
+
+40
+00:01:25.600 --> 00:01:26.700
+<v Charles Caskey>Oh, yeah. We didn't know each other-
+
+41
+00:01:26.700 --> 00:01:27.200
+<v Elsa Fouragnan>... follow my friend
+
+42
+00:01:26.940 --> 00:01:30.540
+<v Charles Caskey>... but we were co-localized for the first time perhaps.
+
+43
+00:01:30.540 --> 00:01:31.040
+<v Charles Caskey>[laughs]
+
+44
+00:01:30.580 --> 00:01:33.220
+<v Elsa Fouragnan>Yeah, that was true. We were in the same building, yes.
+
+45
+00:01:33.740 --> 00:01:36.380
+<v Keith Murphy>That was the OG conference. I wish I could've been there for that.
+
+46
+00:01:36.900 --> 00:01:37.500
+<v Keith Murphy>When the first time-
+
+47
+00:01:37.520 --> 00:01:38.020
+<v Charles Caskey>Yeah, it was cool
+
+48
+00:01:37.960 --> 00:01:42.840
+<v Keith Murphy>... Le- Lennart brought everybody together for the first time in ultrasound neuromodulation.
+
+49
+00:01:43.300 --> 00:01:46.900
+<v Keith Murphy>At that time, you know, we always say people don't, you know, they don't
+
+50
+00:01:46.920 --> 00:01:48.740
+<v Keith Murphy>know what to think about ultrasound neuromodulation.
+
+51
+00:01:49.280 --> 00:01:52.020
+<v Keith Murphy>At that time, no one even knew it was a thing, right?
+
+52
+00:01:52.400 --> 00:01:56.420
+<v Keith Murphy>You guys were like pioneers. I had not even heard of Neuromod yet.
+
+53
+00:01:56.900 --> 00:01:57.500
+<v Elsa Fouragnan>Y- yeah. We did the-
+
+54
+00:01:57.600 --> 00:01:58.100
+<v Keith Murphy>Oh, no. I haven't
+
+55
+00:01:58.020 --> 00:02:02.320
+<v Elsa Fouragnan>... ITRUSST roundtable, and we were just talking about acronym for like half an
+
+56
+00:02:02.420 --> 00:02:03.760
+<v Elsa Fouragnan>hour. [laughs] [laughs]
+
+57
+00:02:03.820 --> 00:02:05.920
+<v Keith Murphy>Oh my God. [laughs]
+
+58
+00:02:05.980 --> 00:02:08.060
+<v Charles Caskey>Yeah, I didn't think this was gonna go anywhere at that point when once-
+
+59
+00:02:08.100 --> 00:02:09.700
+<v Elsa Fouragnan>But actually we still haven't moved
+
+60
+00:02:09.720 --> 00:02:10.460
+<v Charles Caskey>... once we did that. Yeah, yeah.
+
+61
+00:02:10.580 --> 00:02:12.020
+<v Charles Caskey>[laughs] I was like, "Oh, no."
+
+62
+00:02:12.580 --> 00:02:15.060
+<v Charles Caskey>That was my first taste of, uh, consensus committees.
+
+63
+00:02:15.120 --> 00:02:16.880
+<v Charles Caskey>[laughs]
+
+64
+00:02:16.900 --> 00:02:17.400
+<v Elsa Fouragnan>Yeah.
+
+65
+00:02:16.920 --> 00:02:17.420
+<v Keith Murphy>Here we are. Here it is, like-
+
+66
+00:02:17.340 --> 00:02:19.880
+<v Charles Caskey>We landed on TUS, and nobody uses that.
+
+67
+00:02:19.900 --> 00:02:20.680
+<v Charles Caskey>[laughs]
+
+68
+00:02:20.760 --> 00:02:22.080
+<v Elsa Fouragnan>Well, in Europe we do-
+
+69
+00:02:22.080 --> 00:02:22.580
+<v Keith Murphy>Maybe
+
+70
+00:02:22.160 --> 00:02:26.000
+<v Elsa Fouragnan>... but you guys in America decided that FUS, FUS forever.
+
+71
+00:02:26.800 --> 00:02:29.140
+<v Keith Murphy>Transcranial ultrasound's a very European thing.
+
+72
+00:02:29.420 --> 00:02:32.600
+<v Keith Murphy>FUS is American. Charles, we're FUS boys all the way.
+
+73
+00:02:32.700 --> 00:02:33.200
+<v Keith Murphy>[laughs]
+
+74
+00:02:33.200 --> 00:02:34.040
+<v Charles Caskey>FUS boys, yeah.
+
+75
+00:02:34.040 --> 00:02:34.540
+<v Keith Murphy>FUS boys.
+
+76
+00:02:34.220 --> 00:02:35.000
+<v Charles Caskey>On this side of the pond.
+
+77
+00:02:35.040 --> 00:02:35.540
+<v Keith Murphy>Through and through.
+
+78
+00:02:35.520 --> 00:02:36.700
+<v Charles Caskey>Yeah. [laughs]
+
+79
+00:02:36.740 --> 00:02:40.580
+<v Elsa Fouragnan>But then there is a problem because FUSI is becoming more and more used,
+
+80
+00:02:40.720 --> 00:02:41.440
+<v Elsa Fouragnan>so there is the-
+
+81
+00:02:41.520 --> 00:02:42.020
+<v Keith Murphy>What's FUSI?
+
+82
+00:02:41.660 --> 00:02:44.820
+<v Elsa Fouragnan>... issue there. FUSI is func- uh, functional ultrasound imaging.
+
+83
+00:02:44.940 --> 00:02:46.400
+<v Keith Murphy>Oh, yeah. People confuse that.
+
+84
+00:02:46.460 --> 00:02:48.860
+<v Elsa Fouragnan>So FUSI and FUS is, is confusing.
+
+85
+00:02:49.060 --> 00:02:53.080
+<v Elsa Fouragnan>I even prefer FUN. I've always preferred FUN because-
+
+86
+00:02:53.100 --> 00:02:53.600
+<v Keith Murphy>Fun of uh-
+
+87
+00:02:53.200 --> 00:02:56.040
+<v Elsa Fouragnan>... it's more about the bioeffect neuromodulation, right?
+
+88
+00:02:56.300 --> 00:02:57.040
+<v Elsa Fouragnan>'Cause the stimulation-
+
+89
+00:02:57.080 --> 00:02:57.580
+<v Keith Murphy>Yeah
+
+90
+00:02:57.100 --> 00:02:58.620
+<v Elsa Fouragnan>... is the, the hardware thingy.
+
+91
+00:02:59.240 --> 00:03:03.400
+<v Elsa Fouragnan>But, um, the effect actually is mainly gonna be modulation.
+
+92
+00:03:03.640 --> 00:03:07.540
+<v Keith Murphy>I once gave a whole pitch, 40 minutes into the pitch, um, this woman
+
+93
+00:03:07.620 --> 00:03:11.060
+<v Keith Murphy>goes, "So how do you change the brain with imaging?"
+
+94
+00:03:11.760 --> 00:03:14.260
+<v Keith Murphy>And I was like, "Oh, God, I did a-- I must've done a really
+
+95
+00:03:14.360 --> 00:03:18.280
+<v Keith Murphy>shit job with this pitch [laughs] because we're not doing any imaging, and, uh,
+
+96
+00:03:18.480 --> 00:03:21.740
+<v Keith Murphy>you're confusing the two acronyms." And we basically got off the call at that
+
+97
+00:03:21.780 --> 00:03:26.080
+<v Keith Murphy>point. Awful. [laughs] All right. So let's, let's jump in.
+
+98
+00:03:26.220 --> 00:03:30.420
+<v Keith Murphy>Elsa, um, we're gonna do something that I think we'll do with many of
+
+99
+00:03:30.460 --> 00:03:36.380
+<v Keith Murphy>our guests, is we'd love to just hear about how a computational neuroscientist gets
+
+100
+00:03:36.420 --> 00:03:37.940
+<v Keith Murphy>into focused ultrasound, 'cause it-
+
+101
+00:03:38.520 --> 00:03:39.020
+<v Elsa Fouragnan>Mm-hmm
+
+102
+00:03:38.620 --> 00:03:41.300
+<v Keith Murphy>... a lot of people who get into this have nothing to do with
+
+103
+00:03:41.360 --> 00:03:44.800
+<v Keith Murphy>ultrasound and, you know, they just study the brain, they just study simulations.
+
+104
+00:03:45.600 --> 00:03:47.580
+<v Keith Murphy>Uh, how does someone make that transition?
+
+105
+00:03:47.740 --> 00:03:50.180
+<v Keith Murphy>Where does it all begin? Take us back.
+
+106
+00:03:51.840 --> 00:03:57.280
+<v Elsa Fouragnan>Yeah. I mean, even for me personally, there was an, another jump because my
+
+107
+00:03:57.600 --> 00:04:01.120
+<v Elsa Fouragnan>background is in AI at the time when AI was absolutely not unpopular.
+
+108
+00:04:01.200 --> 00:04:01.880
+<v Elsa Fouragnan>[laughs]
+
+109
+00:04:01.940 --> 00:04:02.440
+<v Keith Murphy>Early.
+
+110
+00:04:02.260 --> 00:04:06.920
+<v Elsa Fouragnan>And, and, uh, and I, then I worked as an engineer for two years
+
+111
+00:04:07.080 --> 00:04:10.160
+<v Elsa Fouragnan>in BCI by complete chance, basically.
+
+112
+00:04:10.300 --> 00:04:15.160
+<v Elsa Fouragnan>I was, um, my role was to classify EEG data along different s- you
+
+113
+00:04:15.200 --> 00:04:19.980
+<v Elsa Fouragnan>know, um, dimensions. And I realized at this point I knew nothing about the
+
+114
+00:04:20.060 --> 00:04:23.520
+<v Elsa Fouragnan>brain. I could not comprehend how we knew so little about it.
+
+115
+00:04:24.040 --> 00:04:28.880
+<v Elsa Fouragnan>And as an engineer, I think I was slightly frustrated by the high multidimensional
+
+116
+00:04:28.960 --> 00:04:34.000
+<v Elsa Fouragnan>complexity of it, so decided to do a PhD in computational neuroscience.
+
+117
+00:04:34.500 --> 00:04:36.980
+<v Keith Murphy>Charles, does the mic sound weird right now?
+
+118
+00:04:37.020 --> 00:04:38.580
+<v Charles Caskey>E- Elsa, is she still-
+
+119
+00:04:38.700 --> 00:04:39.200
+<v Keith Murphy>It sounds weird.
+
+120
+00:04:38.800 --> 00:04:41.020
+<v Charles Caskey>Yeah, I was wondering if it-- I was hoping it was like weird audio
+
+121
+00:04:41.080 --> 00:04:41.980
+<v Charles Caskey>compression. You were doing-
+
+122
+00:04:42.040 --> 00:04:43.780
+<v Keith Murphy>Elsa, can you pull, pull that mic in a little bit?
+
+123
+00:04:43.860 --> 00:04:44.360
+<v Charles Caskey>Anything at this point?
+
+124
+00:04:44.340 --> 00:04:45.440
+<v Elsa Fouragnan>Maybe I was too close.
+
+125
+00:04:46.420 --> 00:04:46.920
+<v Keith Murphy>I don't know.
+
+126
+00:04:46.580 --> 00:04:47.080
+<v Charles Caskey>Maybe.
+
+127
+00:04:46.900 --> 00:04:47.400
+<v Keith Murphy>Now it sounds good.
+
+128
+00:04:47.080 --> 00:04:48.840
+<v Charles Caskey>Yeah, maybe so. Yeah. It, yeah.
+
+129
+00:04:49.220 --> 00:04:49.820
+<v Charles Caskey>So I'm gonna-
+
+130
+00:04:50.700 --> 00:04:51.420
+<v Keith Murphy>Uh, we're gonna, we're gonna cut this part of the podcast.
+
+131
+00:04:51.420 --> 00:04:52.940
+<v Elsa Fouragnan>But I really want this. Wow.
+
+132
+00:04:53.240 --> 00:04:56.300
+<v Charles Caskey>I, I like, I, I like, uh, I like Elsa's history a lot, so
+
+133
+00:04:56.360 --> 00:04:58.300
+<v Charles Caskey>I don't want, I, I wanna make sure that we have it.
+
+134
+00:04:58.320 --> 00:04:58.820
+<v Charles Caskey>[laughs]
+
+135
+00:04:58.800 --> 00:04:59.300
+<v Keith Murphy>Yeah.
+
+136
+00:04:59.060 --> 00:05:02.480
+<v Charles Caskey>'Cause y- yeah, I, I met-- 'Cause by the time I met Elsa, she
+
+137
+00:05:02.520 --> 00:05:07.700
+<v Charles Caskey>was like very much presented to me as a full neuroscientist 'cause she was
+
+138
+00:05:07.740 --> 00:05:10.140
+<v Charles Caskey>like surrounded by neuroscientists, blending in with them.
+
+139
+00:05:10.660 --> 00:05:15.560
+<v Charles Caskey>Um, and so [laughs] uh, I didn't even know this about Elsa until like
+
+140
+00:05:15.640 --> 00:05:18.200
+<v Charles Caskey>last year, I think, at the, uh, you know, we, we were at a
+
+141
+00:05:18.240 --> 00:05:20.360
+<v Charles Caskey>conference and, and she was telling me about like kind of her background.
+
+142
+00:05:20.380 --> 00:05:23.020
+<v Charles Caskey>I was like, "Oh. Well, that makes a lot of sense why you were
+
+143
+00:05:23.040 --> 00:05:23.540
+<v Charles Caskey>doing what you were doing."
+
+144
+00:05:23.320 --> 00:05:24.040
+<v Keith Murphy>Who, who are you surrounded by?
+
+145
+00:05:24.220 --> 00:05:26.260
+<v Charles Caskey>The Rushworth-- I mean, would it have been tho-those folks?
+
+146
+00:05:26.540 --> 00:05:28.120
+<v Charles Caskey>Uh, uh...
+
+147
+00:05:28.140 --> 00:05:28.640
+<v Keith Murphy>Who is it?
+
+148
+00:05:28.400 --> 00:05:29.400
+<v Elsa Fouragnan>The Rushworth group maybe.
+
+149
+00:05:29.480 --> 00:05:29.980
+<v Keith Murphy>Yeah.
+
+150
+00:05:30.480 --> 00:05:33.100
+<v Charles Caskey>Yeah, yeah. So Lennart, uh, just all, all that crew.
+
+151
+00:05:33.240 --> 00:05:36.900
+<v Charles Caskey>I mean, Jérôme Sallet, um, it's, uh, folks like that, yeah.
+
+152
+00:05:37.040 --> 00:05:39.740
+<v Charles Caskey>I always, I always look back, uh, and think, I think I told Elsa
+
+153
+00:05:39.800 --> 00:05:43.540
+<v Charles Caskey>this, like that lab was probably a lot of fun, just like the, the,
+
+154
+00:05:43.900 --> 00:05:48.260
+<v Charles Caskey>the cool people that were in it [laughs] and the smart people, um, you
+
+155
+00:05:48.280 --> 00:05:48.800
+<v Charles Caskey>know, writing good papers.
+
+156
+00:05:48.840 --> 00:05:55.020
+<v Keith Murphy>It was, it was literally, it was Jérôme, Miriam, Lennart, you, someone
+
+157
+00:05:55.040 --> 00:05:55.540
+<v Keith Murphy>else too, right?
+
+158
+00:05:55.120 --> 00:05:58.720
+<v Elsa Fouragnan>Alessandro, who is, uh, in Neurospin now in Paris.
+
+159
+00:05:59.420 --> 00:06:00.680
+<v Elsa Fouragnan>Uh, Davide Folloni, who's-
+
+160
+00:06:00.680 --> 00:06:01.200
+<v Keith Murphy>Oh, did he, did he-
+
+161
+00:06:01.200 --> 00:06:01.700
+<v Elsa Fouragnan>Yeah
+
+162
+00:06:01.360 --> 00:06:04.920
+<v Keith Murphy>... did Davide, didn't-- Did they all go on to continue doing ultrasound?
+
+163
+00:06:05.400 --> 00:06:10.800
+<v Elsa Fouragnan>Actually, no. Davide's, uh, he, he moved on a, a postdoc in, um, studying
+
+164
+00:06:10.820 --> 00:06:12.860
+<v Elsa Fouragnan>non-human primate in, in New York.
+
+165
+00:06:13.020 --> 00:06:16.660
+<v Elsa Fouragnan>But he's coming back with his fellowship to do ultrasound now, so he will
+
+166
+00:06:16.680 --> 00:06:17.180
+<v Elsa Fouragnan>be back.
+
+167
+00:06:16.720 --> 00:06:18.460
+<v Keith Murphy>Once you're in, you never leave.
+
+168
+00:06:20.510 --> 00:06:26.230
+<v Elsa Fouragnan>I mean, it, it depends. Surely some fields just don't make it, and that,
+
+169
+00:06:26.570 --> 00:06:28.370
+<v Elsa Fouragnan>that one is kind of the opposite, right?
+
+170
+00:06:28.430 --> 00:06:32.770
+<v Elsa Fouragnan>We're all witnessing such a, an incredible-
+
+171
+00:06:33.390 --> 00:06:33.890
+<v Charles Caskey>Yeah
+
+172
+00:06:33.750 --> 00:06:36.750
+<v Elsa Fouragnan>... you know, exponential growth. [chuckles]
+
+173
+00:06:36.850 --> 00:06:40.150
+<v Charles Caskey>Yeah. Yeah. So I wanna, I wanna ma- I wanna make sure we don't,
+
+174
+00:06:40.390 --> 00:06:42.010
+<v Charles Caskey>uh, miss your, miss your story.
+
+175
+00:06:42.110 --> 00:06:44.530
+<v Charles Caskey>So you were an AI engineer.
+
+176
+00:06:44.950 --> 00:06:51.270
+<v Charles Caskey>You ha- You were doing EEG, uh, classification, um, 20 years before you
+
+177
+00:06:51.330 --> 00:06:55.210
+<v Charles Caskey>d- uh, 100 companies failed doing this in the last few years probably.
+
+178
+00:06:55.270 --> 00:06:55.770
+<v Charles Caskey>[chuckles]
+
+179
+00:06:55.530 --> 00:06:56.030
+<v Elsa Fouragnan>Yeah.
+
+180
+00:06:55.630 --> 00:07:01.730
+<v Charles Caskey>Um, yeah. And so then you're like, okay, the brain network analysis, uh, uh,
+
+181
+00:07:01.870 --> 00:07:05.350
+<v Charles Caskey>engineering, big unknown. You joined a neuroscience lab.
+
+182
+00:07:05.390 --> 00:07:06.930
+<v Charles Caskey>Was that at your postdoc level of training?
+
+183
+00:07:07.390 --> 00:07:08.830
+<v Elsa Fouragnan>No, I was PhD actually.
+
+184
+00:07:08.890 --> 00:07:09.390
+<v Charles Caskey>Okay.
+
+185
+00:07:08.950 --> 00:07:13.350
+<v Elsa Fouragnan>So I, I completely retrained. So I did an engineering degree, which was like,
+
+186
+00:07:13.470 --> 00:07:19.850
+<v Elsa Fouragnan>you know, master level, and then worked, uh, for DARPA actually, um, for
+
+187
+00:07:19.910 --> 00:07:23.190
+<v Elsa Fouragnan>two years. There is another an- anecdote there, but we can talk about it
+
+188
+00:07:23.230 --> 00:07:27.650
+<v Elsa Fouragnan>later. So at my program manager at DARPA, I met her like two years
+
+189
+00:07:27.710 --> 00:07:32.810
+<v Elsa Fouragnan>ago. Now she's all in ultrasound neuromodulation, [chuckles] so it's so weird.
+
+190
+00:07:32.930 --> 00:07:36.990
+<v Elsa Fouragnan>Um, but yeah, it-- I think it was very useful for me to have
+
+191
+00:07:37.050 --> 00:07:41.790
+<v Elsa Fouragnan>all this computational background, uh, when I started my PhD because I was interested
+
+192
+00:07:41.830 --> 00:07:46.150
+<v Elsa Fouragnan>in computations of the brain, uh, which is something we don't really talk about
+
+193
+00:07:46.350 --> 00:07:49.450
+<v Elsa Fouragnan>too much, um, in, in our field of ultrasound.
+
+194
+00:07:49.530 --> 00:07:53.930
+<v Elsa Fouragnan>But I think they're, they're very important, and one day we'll, we'll bring all
+
+195
+00:07:53.990 --> 00:07:55.430
+<v Elsa Fouragnan>of this together. Yeah and-
+
+196
+00:07:55.450 --> 00:07:59.210
+<v Keith Murphy>The first time somebody showed you ultrasound, were you, were you nervous?
+
+197
+00:07:59.270 --> 00:08:00.330
+<v Keith Murphy>Were you scared? How did it...?
+
+198
+00:08:00.870 --> 00:08:05.270
+<v Elsa Fouragnan>Well, so the, the whole-- all the settings in Oxford where I was in,
+
+199
+00:08:05.390 --> 00:08:11.550
+<v Elsa Fouragnan>um, Matthew Rushworth's lab was, um, the one that Jean-François Aubry had developed
+
+200
+00:08:11.590 --> 00:08:15.490
+<v Elsa Fouragnan>in Paris, um, with a lot of his colleagues.
+
+201
+00:08:15.530 --> 00:08:20.870
+<v Elsa Fouragnan>And we were somehow, um, replicating and working with, with his help, uh, in
+
+202
+00:08:20.930 --> 00:08:22.410
+<v Elsa Fouragnan>putting all of this together in macaque.
+
+203
+00:08:22.450 --> 00:08:24.930
+<v Elsa Fouragnan>And we went really, you know, step by step.
+
+204
+00:08:25.030 --> 00:08:29.670
+<v Elsa Fouragnan>First it was just looking at resting state fMRI, so just looking at connectivity
+
+205
+00:08:29.730 --> 00:08:34.510
+<v Elsa Fouragnan>differences and, and so on, what we called connectivity fingerprints of different parts of
+
+206
+00:08:34.550 --> 00:08:37.850
+<v Elsa Fouragnan>the brain. And that was replicated across many studies.
+
+207
+00:08:37.890 --> 00:08:42.010
+<v Elsa Fouragnan>And then we went, you know, more and more ambitious thinking, okay, those circuits
+
+208
+00:08:42.050 --> 00:08:47.290
+<v Elsa Fouragnan>now that we see can-- where effects can happen, uh, they are responsible for
+
+209
+00:08:47.350 --> 00:08:50.490
+<v Elsa Fouragnan>certain cognitive process. Can we alter those cognitive process?
+
+210
+00:08:50.550 --> 00:08:52.270
+<v Elsa Fouragnan>Can we do it in a controlled fashion?
+
+211
+00:08:52.950 --> 00:08:56.530
+<v Elsa Fouragnan>And it went up and up, and it went crescendo in terms of, you
+
+212
+00:08:56.590 --> 00:09:02.370
+<v Elsa Fouragnan>know, level of readout and, and, um, and interest because obviously as soon as
+
+213
+00:09:02.410 --> 00:09:05.390
+<v Elsa Fouragnan>you start tapping onto cognition, that's, that's the next step, right?
+
+214
+00:09:05.450 --> 00:09:11.590
+<v Elsa Fouragnan>It's not just neuronal signals. It's actually the downstream effect, uh, on behavior.
+
+215
+00:09:11.750 --> 00:09:14.710
+<v Elsa Fouragnan>And I think, yeah, that was the projection.
+
+216
+00:09:14.750 --> 00:09:16.750
+<v Elsa Fouragnan>Like, we were like, "Okay, this is, this is it.
+
+217
+00:09:16.790 --> 00:09:18.770
+<v Elsa Fouragnan>Like we've arrived. This is amazing."
+
+218
+00:09:19.670 --> 00:09:20.730
+<v Elsa Fouragnan>Um, and-
+
+219
+00:09:20.870 --> 00:09:23.650
+<v Keith Murphy>Something, [clears throat] something the Rushworth lab does a lot.
+
+220
+00:09:23.790 --> 00:09:27.230
+<v Keith Murphy>So, um, to take a jump here, if you're in animal models like a
+
+221
+00:09:27.270 --> 00:09:33.310
+<v Keith Murphy>mouse, you can, you can stereotactically, and the word stereotactic means you've mechanically
+
+222
+00:09:33.390 --> 00:09:37.530
+<v Keith Murphy>fixed the head, and you have little landmarks on the skull, and you can
+
+223
+00:09:37.590 --> 00:09:41.170
+<v Keith Murphy>use a robot or a, a mechanical arm to steer around in the brain.
+
+224
+00:09:41.770 --> 00:09:46.110
+<v Keith Murphy>And you can inject things like viruses or agents that will kill parts of
+
+225
+00:09:46.150 --> 00:09:49.590
+<v Keith Murphy>the brain. So if you kill those little areas and you see a change,
+
+226
+00:09:49.670 --> 00:09:51.990
+<v Keith Murphy>you now know, okay, this area is functionally involved in it.
+
+227
+00:09:52.510 --> 00:09:56.110
+<v Keith Murphy>You can't really do that with humans and non-human primates.
+
+228
+00:09:56.770 --> 00:09:58.410
+<v Keith Murphy>And for you, that was like a huge issue.
+
+229
+00:09:59.710 --> 00:10:03.430
+<v Elsa Fouragnan>Yeah, yeah. But at, at the same time, the, the nice thing about the
+
+230
+00:10:03.490 --> 00:10:06.670
+<v Elsa Fouragnan>non, non-human primate model is that it's really, really close to what we can
+
+231
+00:10:06.710 --> 00:10:10.630
+<v Elsa Fouragnan>do in humans. So if we could achieve that, um, you know, the neuronavigation,
+
+232
+00:10:10.690 --> 00:10:15.770
+<v Elsa Fouragnan>so we did use neuronavigation. They-- These animals had the head, head post to
+
+233
+00:10:15.850 --> 00:10:17.170
+<v Elsa Fouragnan>actually be fixed in the scanner.
+
+234
+00:10:17.970 --> 00:10:23.110
+<v Elsa Fouragnan>Um, so yeah. I mean, I think this, the non-invasiveness is a s- is
+
+235
+00:10:23.170 --> 00:10:27.250
+<v Elsa Fouragnan>a strength of the technique, but you had also to somehow master it, right?
+
+236
+00:10:27.410 --> 00:10:31.230
+<v Elsa Fouragnan>So, um, we have run acoustic simulation through the skull.
+
+237
+00:10:31.310 --> 00:10:34.070
+<v Elsa Fouragnan>There was a lot of work that was done in order for it to
+
+238
+00:10:34.130 --> 00:10:35.810
+<v Elsa Fouragnan>happen. It's not just, yeah.
+
+239
+00:10:36.510 --> 00:10:37.010
+<v Charles Caskey>Yeah.
+
+240
+00:10:36.690 --> 00:10:37.190
+<v Elsa Fouragnan>You put it into the-
+
+241
+00:10:36.710 --> 00:10:40.250
+<v Keith Murphy>Are there other, are there other tools that allow you to shut little brain
+
+242
+00:10:40.310 --> 00:10:42.910
+<v Keith Murphy>areas off in large animals or humans?
+
+243
+00:10:43.190 --> 00:10:45.930
+<v Keith Murphy>Or is this like, is, is ultrasound really the only one?
+
+244
+00:10:46.730 --> 00:10:49.710
+<v Charles Caskey>Well, le- I mean, lesioning would be a precedent probably.
+
+245
+00:10:49.830 --> 00:10:54.370
+<v Charles Caskey>But um, and then as far as more modern tools, maybe s- been some
+
+246
+00:10:54.410 --> 00:11:00.030
+<v Charles Caskey>exploration of, uh, designer receptor, designer drug type of situations that might be inhibitory.
+
+247
+00:11:00.470 --> 00:11:02.270
+<v Charles Caskey>Does anything else come to your mind, Elsa?
+
+248
+00:11:02.490 --> 00:11:03.350
+<v Charles Caskey>I don't know. That's, that's...
+
+249
+00:11:04.330 --> 00:11:07.670
+<v Elsa Fouragnan>No, I think, yeah, yeah. What you're saying is true, like microlesioning if you
+
+250
+00:11:07.710 --> 00:11:10.450
+<v Elsa Fouragnan>want it to be ultra-precise. Um, yeah.
+
+251
+00:11:11.290 --> 00:11:14.650
+<v Charles Caskey>Yeah. So it, it, yeah. And, and I think that, that you touched on
+
+252
+00:11:14.690 --> 00:11:18.350
+<v Charles Caskey>something else, which is, which, which was similar to my experience with this when
+
+253
+00:11:18.670 --> 00:11:21.530
+<v Charles Caskey>working with, um, non-human primate researchers.
+
+254
+00:11:21.570 --> 00:11:23.950
+<v Charles Caskey>We did our first studies, and they were like, "This is a really robust
+
+255
+00:11:23.990 --> 00:11:28.230
+<v Charles Caskey>response." And I'm sitting there, I'm like an ultrasound person, like at the, uh--
+
+256
+00:11:28.250 --> 00:11:30.850
+<v Charles Caskey>Really my background up to that point was entirely in ultrasound.
+
+257
+00:11:31.370 --> 00:11:33.070
+<v Charles Caskey>And I'm like, "Uh, what do you mean?"
+
+258
+00:11:33.390 --> 00:11:36.090
+<v Charles Caskey>[chuckles] Like they, they-- But it's sort of the s- same thing.
+
+259
+00:11:36.130 --> 00:11:39.890
+<v Charles Caskey>They were like, "No, we gotta keep doing these experiments because this is very
+
+260
+00:11:39.990 --> 00:11:43.050
+<v Charles Caskey>measurable outcome, and it's something we couldn't do before."
+
+261
+00:11:43.090 --> 00:11:45.030
+<v Charles Caskey>And it was, uh, just a lot of enthusiasm.
+
+262
+00:11:45.230 --> 00:11:45.730
+<v Charles Caskey>Um-
+
+263
+00:11:45.270 --> 00:11:47.050
+<v Keith Murphy>How was the outcome, Charles? Was it strong?
+
+264
+00:11:47.310 --> 00:11:48.430
+<v Keith Murphy>Or for you it was like, "What?
+
+265
+00:11:48.510 --> 00:11:49.090
+<v Keith Murphy>What are we looking at?"
+
+266
+00:11:49.490 --> 00:11:51.050
+<v Charles Caskey>I think it's, it was pretty similar.
+
+267
+00:11:51.090 --> 00:11:55.710
+<v Charles Caskey>I mean, we were doing fMRI with the, uh, in, in sonicating regions of
+
+268
+00:11:55.750 --> 00:11:59.510
+<v Charles Caskey>the brain and, and analyzing the changes and just looking at network level changes.
+
+269
+00:12:00.090 --> 00:12:02.630
+<v Charles Caskey>Um, this is around a similar time.
+
+270
+00:12:02.690 --> 00:12:07.070
+<v Charles Caskey>I think JF Aubry's group, as Elsa mentioned, had a saccade paper.
+
+271
+00:12:07.530 --> 00:12:08.030
+<v Elsa Fouragnan>Yeah.
+
+272
+00:12:07.550 --> 00:12:12.870
+<v Charles Caskey>And I think that that really inspired other, um, other researchers in the cognition
+
+273
+00:12:12.950 --> 00:12:16.710
+<v Charles Caskey>area to really look at this and see if you could, what could be
+
+274
+00:12:16.730 --> 00:12:21.330
+<v Charles Caskey>done with it. And then that immediately brought forth this question about how do
+
+275
+00:12:21.370 --> 00:12:24.130
+<v Charles Caskey>you do it? How do you know how much sound you're getting in?
+
+276
+00:12:24.370 --> 00:12:27.010
+<v Charles Caskey>How do you-- What are the transmitters gonna be shaped like?
+
+277
+00:12:27.270 --> 00:12:28.570
+<v Charles Caskey>How, what does your beam look like?
+
+278
+00:12:28.670 --> 00:12:32.850
+<v Charles Caskey>Uh, what safety concerns? And I think that was sort of Yeah.
+
+279
+00:12:32.910 --> 00:12:38.330
+<v Charles Caskey>And a pretty immediate next step, but not every-- The closest reference point was
+
+280
+00:12:38.370 --> 00:12:41.770
+<v Charles Caskey>transcranial ablation. There was a lot of literature out there, but it hadn't really
+
+281
+00:12:41.790 --> 00:12:46.170
+<v Charles Caskey>been mapped to these, like, smaller transducers, and the software was...
+
+282
+00:12:46.650 --> 00:12:50.370
+<v Charles Caskey>k-Wave was available, but it was, it wasn't, it was not as developed as
+
+283
+00:12:50.410 --> 00:12:52.730
+<v Charles Caskey>it is now. But it was still an awesome package, but it c- it
+
+284
+00:12:52.750 --> 00:12:55.610
+<v Charles Caskey>was a little more DIY and less of a community, for sure.
+
+285
+00:12:56.810 --> 00:12:57.310
+<v Elsa Fouragnan>Yep.
+
+286
+00:12:59.090 --> 00:13:04.690
+<v Keith Murphy>So Elsa, your background, you, uh, you're a young buck in a, a big
+
+287
+00:13:04.810 --> 00:13:10.850
+<v Keith Murphy>lab, Matthew Rushworth, very famous. You guys are testing functionally what happens when you
+
+288
+00:13:10.890 --> 00:13:12.430
+<v Keith Murphy>shut off different parts of the brain.
+
+289
+00:13:12.990 --> 00:13:15.710
+<v Keith Murphy>I think his whole lab has sort of followed that trajectory.
+
+290
+00:13:16.390 --> 00:13:19.750
+<v Keith Murphy>And at some point, the young Elsa leaves the lab.
+
+291
+00:13:20.150 --> 00:13:24.750
+<v Keith Murphy>She's off on her own. Was Plymouth University the first place you went?
+
+292
+00:13:26.150 --> 00:13:27.770
+<v Elsa Fouragnan>Yeah. But this is personal, right?
+
+293
+00:13:27.830 --> 00:13:31.730
+<v Elsa Fouragnan>My husband moved here, and then I was like: Is it really also a
+
+294
+00:13:31.750 --> 00:13:36.090
+<v Elsa Fouragnan>place for me? And, uh, we just started thinking, and actually I, I just
+
+295
+00:13:36.130 --> 00:13:39.870
+<v Elsa Fouragnan>got very lucky. Again, there's so much luck [chuckles] in my life sometimes.
+
+296
+00:13:39.890 --> 00:13:40.390
+<v Keith Murphy>No, so much.
+
+297
+00:13:40.370 --> 00:13:45.770
+<v Elsa Fouragnan>But the, the Brain Research Imaging Centre, which now I'm the director of, was
+
+298
+00:13:45.850 --> 00:13:50.990
+<v Elsa Fouragnan>actually in its planned form. Um, so I participated in the creation of the
+
+299
+00:13:51.090 --> 00:13:55.610
+<v Elsa Fouragnan>center and, you know, even drew my own lab, like scratch, from scratch.
+
+300
+00:13:55.670 --> 00:14:00.210
+<v Elsa Fouragnan>It was amazing. And, and it was absolutely the right place for me because
+
+301
+00:14:00.250 --> 00:14:03.630
+<v Elsa Fouragnan>they-- I had lots of freedom to do a lot of things.
+
+302
+00:14:03.810 --> 00:14:07.570
+<v Elsa Fouragnan>Uh, the university, you know, really supported the research we were doing.
+
+303
+00:14:07.670 --> 00:14:12.710
+<v Elsa Fouragnan>So yeah, really been, um, a, a great decision [chuckles] we made.
+
+304
+00:14:13.230 --> 00:14:15.450
+<v Elsa Fouragnan>But, uh, the other thing, of course, is the fact that I got my
+
+305
+00:14:15.570 --> 00:14:20.290
+<v Elsa Fouragnan>first fellowship, and that was a seven-year pure research, uh, fellowship.
+
+306
+00:14:20.790 --> 00:14:25.630
+<v Elsa Fouragnan>And it was all down to translating what we had found in non-human primates
+
+307
+00:14:25.670 --> 00:14:31.430
+<v Elsa Fouragnan>to humans. So a bit daunting because I started absolutely from scratch, you know,
+
+308
+00:14:31.510 --> 00:14:33.470
+<v Elsa Fouragnan>and you're looking around and you're like, "How?
+
+309
+00:14:33.650 --> 00:14:36.270
+<v Elsa Fouragnan>Why? What do I do? Why did I say I was going to do
+
+310
+00:14:36.310 --> 00:14:39.590
+<v Elsa Fouragnan>this?" [laughing] Um-
+
+311
+00:14:39.710 --> 00:14:41.930
+<v Charles Caskey>No, no, yeah. And you were right-- you were, like, the right person.
+
+312
+00:14:41.970 --> 00:14:43.850
+<v Charles Caskey>You mentioned you were at the right place, but yeah, I think you were
+
+313
+00:14:43.870 --> 00:14:47.510
+<v Charles Caskey>the right person also to be there, just with your background and your interests
+
+314
+00:14:47.550 --> 00:14:50.210
+<v Charles Caskey>and your prior, prior work. And so, but yeah.
+
+315
+00:14:50.330 --> 00:14:55.850
+<v Charles Caskey>So you basically made just a, a complete leap from Rushworth lab, uh, primate
+
+316
+00:14:55.890 --> 00:14:59.290
+<v Charles Caskey>work to we're gonna, I'm gonna be planning this center if we're gonna be
+
+317
+00:14:59.330 --> 00:15:01.590
+<v Charles Caskey>doing this work in humans. Is that, that was kinda-
+
+318
+00:15:01.590 --> 00:15:05.090
+<v Elsa Fouragnan>Yeah, that's exactly right. I think I wrote this fellowship with a lot of,
+
+319
+00:15:05.170 --> 00:15:08.250
+<v Elsa Fouragnan>uh, passion and enthusiasm, and when I got it, I was like, "Oh my
+
+320
+00:15:08.350 --> 00:15:10.950
+<v Elsa Fouragnan>God. [laughing] Now, now I have to do it."
+
+321
+00:15:11.450 --> 00:15:11.950
+<v Elsa Fouragnan>No, but, um-
+
+322
+00:15:11.630 --> 00:15:13.310
+<v Keith Murphy>Do you guys ever have imposter syndrome?
+
+323
+00:15:13.630 --> 00:15:16.390
+<v Keith Murphy>I feel like you two are just so, like, you've achieved so much.
+
+324
+00:15:16.450 --> 00:15:17.410
+<v Keith Murphy>You guys ever go through that?
+
+325
+00:15:18.310 --> 00:15:20.010
+<v Keith Murphy>Even early in your careers? Yeah, both.
+
+326
+00:15:20.130 --> 00:15:21.910
+<v Keith Murphy>Oh, both shaking their heads. Wow.
+
+327
+00:15:21.970 --> 00:15:22.930
+<v Charles Caskey>Oh, yeah. Yeah, yeah.
+
+328
+00:15:22.990 --> 00:15:24.810
+<v Keith Murphy>Matt and Charles, you too? Jesus.
+
+329
+00:15:25.530 --> 00:15:29.490
+<v Charles Caskey>Oh, gosh. No, no, yeah. This is, I, yeah, I think I'll, I'll let
+
+330
+00:15:29.550 --> 00:15:33.630
+<v Charles Caskey>Elsa speak about it. But yeah, when people entrust you to e-enact these things,
+
+331
+00:15:33.670 --> 00:15:35.630
+<v Charles Caskey>and I think it's exactly what you're, what Elsa mentioned.
+
+332
+00:15:35.690 --> 00:15:39.070
+<v Charles Caskey>You, you write it, you write things in your grants or, you know, I
+
+333
+00:15:39.090 --> 00:15:42.910
+<v Charles Caskey>guess in your case, Keith, business proposals, uh, or grant applications, and you're like,
+
+334
+00:15:43.610 --> 00:15:45.010
+<v Charles Caskey>really wanna see these things happen.
+
+335
+00:15:45.070 --> 00:15:47.090
+<v Charles Caskey>But then when you actually, like, get a fish on the line, you're like,
+
+336
+00:15:47.110 --> 00:15:48.990
+<v Charles Caskey>"Oh, I gotta reel this thing in and get it in the boat," and
+
+337
+00:15:49.170 --> 00:15:50.930
+<v Charles Caskey>like actually do the work. You're like, "Ah."
+
+338
+00:15:50.930 --> 00:15:52.010
+<v Charles Caskey>[laughing]
+
+339
+00:15:52.050 --> 00:15:54.450
+<v Keith Murphy>Elsa, same for you? You also at some point?
+
+340
+00:15:54.930 --> 00:15:57.490
+<v Elsa Fouragnan>I would say even the imposter syndrome doesn't get better.
+
+341
+00:15:57.530 --> 00:16:00.450
+<v Elsa Fouragnan>The higher up you go, the more they come, [chuckles] you know?
+
+342
+00:16:00.510 --> 00:16:01.910
+<v Keith Murphy>Oh, it's getting worse. [laughs]
+
+343
+00:16:02.190 --> 00:16:05.750
+<v Charles Caskey>Well, the worry just goes proportional to the, to the, like-
+
+344
+00:16:06.430 --> 00:16:06.930
+<v Elsa Fouragnan>Yeah
+
+345
+00:16:06.570 --> 00:16:07.830
+<v Charles Caskey>... the expectations rise.
+
+346
+00:16:07.830 --> 00:16:08.330
+<v Keith Murphy>Yeah, it's a lot of people depending on you.
+
+347
+00:16:08.110 --> 00:16:09.230
+<v Charles Caskey>The, yeah. So-
+
+348
+00:16:09.250 --> 00:16:12.710
+<v Elsa Fouragnan>But I, you know, I was, I was also, um, surrounded by the right
+
+349
+00:16:12.810 --> 00:16:15.030
+<v Elsa Fouragnan>people. Like, my fellowship is not just me.
+
+350
+00:16:15.510 --> 00:16:20.290
+<v Elsa Fouragnan>I was mentored by Jean-François Aubry, who was the person who told me, you
+
+351
+00:16:20.330 --> 00:16:23.850
+<v Elsa Fouragnan>know, "If you do ultrasound, you need a hydrophone tank," helped me, you know,
+
+352
+00:16:24.310 --> 00:16:30.330
+<v Elsa Fouragnan>with everything, the physics, the, uh, and all my previous colleagues from Oxford also
+
+353
+00:16:30.370 --> 00:16:32.770
+<v Elsa Fouragnan>part of it. Um, so yeah.
+
+354
+00:16:32.950 --> 00:16:36.110
+<v Elsa Fouragnan>You know, fellowships sometimes are a bit misleading 'cause you see that one person
+
+355
+00:16:36.150 --> 00:16:39.390
+<v Elsa Fouragnan>that's on top of it, but the reality is it's an enormous team behind,
+
+356
+00:16:39.450 --> 00:16:39.950
+<v Elsa Fouragnan>right?
+
+357
+00:16:40.230 --> 00:16:40.730
+<v Keith Murphy>Yeah.
+
+358
+00:16:40.310 --> 00:16:40.810
+<v Elsa Fouragnan>So, um-
+
+359
+00:16:41.310 --> 00:16:44.490
+<v Keith Murphy>If you're new, if you're, like, new to ultrasound, I feel like maybe c-
+
+360
+00:16:44.990 --> 00:16:46.390
+<v Keith Murphy>really brief, could you give advice?
+
+361
+00:16:46.470 --> 00:16:51.210
+<v Keith Murphy>Like, someone's a, uh, an expert in some field, like maybe they wanna really
+
+362
+00:16:51.250 --> 00:16:55.030
+<v Keith Murphy>help, I don't know, uh, anxiety.
+
+363
+00:16:55.090 --> 00:16:56.770
+<v Keith Murphy>Everybody's, like, got anxiety these days.
+
+364
+00:16:57.250 --> 00:17:00.690
+<v Keith Murphy>They really wanna work on, on anxiety, and they, like, see focused ultrasound.
+
+365
+00:17:01.170 --> 00:17:03.710
+<v Keith Murphy>They can't just jump in. What do they do?
+
+366
+00:17:04.910 --> 00:17:09.310
+<v Elsa Fouragnan>I-- My advice would be to jump in because y-you need to have the
+
+367
+00:17:09.350 --> 00:17:12.530
+<v Elsa Fouragnan>drive, obviously, and, and a bit of imagination [chuckles] when, when you-
+
+368
+00:17:12.550 --> 00:17:14.630
+<v Keith Murphy>Well, j-jump in, but, but how?
+
+369
+00:17:14.810 --> 00:17:16.970
+<v Keith Murphy>Toes first? Do they put their knees in?
+
+370
+00:17:17.790 --> 00:17:19.470
+<v Elsa Fouragnan>But I think it's, it's easier now.
+
+371
+00:17:19.530 --> 00:17:20.670
+<v Elsa Fouragnan>I don't know what you think, Charles.
+
+372
+00:17:20.830 --> 00:17:25.610
+<v Elsa Fouragnan>There, there's still a lot of uncertainty ar-ar- you know, around hardware and how
+
+373
+00:17:25.650 --> 00:17:29.330
+<v Elsa Fouragnan>to actually use what in what context and...
+
+374
+00:17:30.690 --> 00:17:32.890
+<v Elsa Fouragnan>But, but it's also extremely exciting.
+
+375
+00:17:32.950 --> 00:17:37.610
+<v Elsa Fouragnan>It's a nice community. You know, there's, um, there's quite a lot of help
+
+376
+00:17:37.710 --> 00:17:42.190
+<v Elsa Fouragnan>available, I would say. And it, it might take a bit of courage and
+
+377
+00:17:43.190 --> 00:17:45.310
+<v Elsa Fouragnan>again, try to solve problems, right?
+
+378
+00:17:45.490 --> 00:17:47.390
+<v Elsa Fouragnan>Solve problem after one after another.
+
+379
+00:17:47.610 --> 00:17:51.650
+<v Elsa Fouragnan>So the first thing, for example, in our case, was the fact that we
+
+380
+00:17:51.690 --> 00:17:56.930
+<v Elsa Fouragnan>had to think about coupling. We had to think about interfacing with the person,
+
+381
+00:17:56.990 --> 00:17:58.790
+<v Elsa Fouragnan>'cause I had a transducer, and that was it.
+
+382
+00:17:59.070 --> 00:18:02.110
+<v Elsa Fouragnan>And, and, and I had to think very carefully, like, what we're doing with
+
+383
+00:18:02.150 --> 00:18:03.410
+<v Elsa Fouragnan>this? Like, where do we position it?
+
+384
+00:18:03.470 --> 00:18:05.070
+<v Elsa Fouragnan>How do we go into it, uh, how to do it safely?
+
+385
+00:18:05.090 --> 00:18:05.790
+<v Keith Murphy>What do you mean coupling?
+
+386
+00:18:07.410 --> 00:18:10.730
+<v Elsa Fouragnan>Um, just interfacing with the, with the head, with the...
+
+387
+00:18:11.270 --> 00:18:12.630
+<v Elsa Fouragnan>So, uh-
+
+388
+00:18:12.710 --> 00:18:14.670
+<v Charles Caskey>Are you, are you trying, are you trying to get a lesson out of,
+
+389
+00:18:14.810 --> 00:18:15.470
+<v Charles Caskey>out of Elsa, Keith?
+
+390
+00:18:15.490 --> 00:18:16.910
+<v Keith Murphy>Yeah, I'm always trying to get a lesson.
+
+391
+00:18:16.970 --> 00:18:17.470
+<v Elsa Fouragnan>I kind of want to.
+
+392
+00:18:17.170 --> 00:18:18.170
+<v Charles Caskey>Yeah. Well, I-
+
+393
+00:18:18.570 --> 00:18:19.950
+<v Keith Murphy>People might not know. You never know.
+
+394
+00:18:19.950 --> 00:18:20.450
+<v Keith Murphy>[laughs]
+
+395
+00:18:20.330 --> 00:18:22.730
+<v Charles Caskey>No, no, no, I think I'm, I'm, I'm encouraging it.
+
+396
+00:18:22.830 --> 00:18:25.130
+<v Charles Caskey>Yeah, I think that, uh, this, this, the, the-
+
+397
+00:18:25.230 --> 00:18:29.130
+<v Elsa Fouragnan>I'll, I'll tell you a story is that in, in n- in non-human primates,
+
+398
+00:18:29.330 --> 00:18:31.530
+<v Elsa Fouragnan>we're shaving our animals, right? It's easy.
+
+399
+00:18:31.770 --> 00:18:34.270
+<v Elsa Fouragnan>The coupling i-is not a problem really.
+
+400
+00:18:34.870 --> 00:18:38.410
+<v Elsa Fouragnan>You're n- in non-human primate labs and, and you shave your animal, and that's
+
+401
+00:18:38.470 --> 00:18:43.910
+<v Elsa Fouragnan>it. Problem solved. No hair. [chuckles] And if you actually, if your vision is
+
+402
+00:18:44.110 --> 00:18:47.910
+<v Elsa Fouragnan>that ultrasound neuromodulation is for everybody, you have to think about ...
+
+403
+00:18:47.950 --> 00:18:53.590
+<v Elsa Fouragnan>hair, different types of hair, uh, different types of entry to, you know, to,
+
+404
+00:18:53.730 --> 00:18:55.470
+<v Elsa Fouragnan>to whatever your trajectory is going to be.
+
+405
+00:18:55.590 --> 00:19:01.210
+<v Elsa Fouragnan>So, um, this sounds very trivial, but it was actually a long process of
+
+406
+00:19:01.270 --> 00:19:06.150
+<v Elsa Fouragnan>thinking about it carefully. And, um, and then how do you couple your transducer
+
+407
+00:19:06.210 --> 00:19:10.250
+<v Elsa Fouragnan>to the, to the head now if, if your hair is nicely prepped?
+
+408
+00:19:10.310 --> 00:19:15.370
+<v Elsa Fouragnan>Like, do you use a, a balloon, a gel pad, a silicone pad, whatever?
+
+409
+00:19:15.470 --> 00:19:17.350
+<v Elsa Fouragnan>You know, you, you have to think about this thing carefully.
+
+410
+00:19:17.490 --> 00:19:20.830
+<v Keith Murphy>Remember, uh, we wrote, uh... Charles, I don't remember if you were part of
+
+411
+00:19:20.870 --> 00:19:24.830
+<v Keith Murphy>this, maybe, but the practical guide we wrote, Elsa was writing kind of the
+
+412
+00:19:24.890 --> 00:19:29.090
+<v Keith Murphy>how-to on gel. And, uh, you know, it's, it's not like we've sat around
+
+413
+00:19:29.110 --> 00:19:31.610
+<v Keith Murphy>and studied how to comb gel into someone's hair.
+
+414
+00:19:32.210 --> 00:19:36.550
+<v Keith Murphy>So we wrote it very much like, you know, out of pocket, "Hey, like,
+
+415
+00:19:36.710 --> 00:19:40.050
+<v Keith Murphy>use your finger to brush it into the hair and, like, listen for, for
+
+416
+00:19:40.170 --> 00:19:43.910
+<v Keith Murphy>air bubbles." And one of the reviewers who we'll probably get on a guest
+
+417
+00:19:43.970 --> 00:19:46.330
+<v Keith Murphy>later, he's like, "What the hell are you guys talking about?"
+
+418
+00:19:46.390 --> 00:19:48.610
+<v Keith Murphy>[laughs] It's like, "You're listening with your ear?"
+
+419
+00:19:49.130 --> 00:19:50.550
+<v Keith Murphy>And we're like, "Yeah, kind of."
+
+420
+00:19:50.610 --> 00:19:51.610
+<v Keith Murphy>[laughs]
+
+421
+00:19:51.690 --> 00:19:54.710
+<v Charles Caskey>Well, that sounds like great practical advice to me.
+
+422
+00:19:55.030 --> 00:19:59.410
+<v Charles Caskey>Uh, yeah, I don't know, uh, what, what was up with that, but [laughs]
+
+423
+00:19:59.950 --> 00:20:03.030
+<v Elsa Fouragnan>But can I, can I also say something that I think is a gender
+
+424
+00:20:03.110 --> 00:20:03.850
+<v Elsa Fouragnan>agenda thing?
+
+425
+00:20:04.230 --> 00:20:04.750
+<v Keith Murphy>Yeah, is that-
+
+426
+00:20:04.850 --> 00:20:08.450
+<v Elsa Fouragnan>Like, if m- most of my lab members are, are female.
+
+427
+00:20:09.070 --> 00:20:09.570
+<v Keith Murphy>Mm-hmm.
+
+428
+00:20:09.210 --> 00:20:14.930
+<v Elsa Fouragnan>And, um, if I tell them, "Look, part, part your hair two mil, um,
+
+429
+00:20:15.170 --> 00:20:18.110
+<v Elsa Fouragnan>and, and just go sequential," they will understand what I'm saying.
+
+430
+00:20:18.590 --> 00:20:19.090
+<v Keith Murphy>Uh-huh.
+
+431
+00:20:18.810 --> 00:20:21.310
+<v Elsa Fouragnan>I said it to a man, it would be like part- parting party what?
+
+432
+00:20:21.370 --> 00:20:23.510
+<v Keith Murphy>Charles has never parted his hair in his whole life.
+
+433
+00:20:23.530 --> 00:20:24.610
+<v Keith Murphy>[laughs]
+
+434
+00:20:24.670 --> 00:20:25.490
+<v Charles Caskey>What does it even mean-
+
+435
+00:20:25.530 --> 00:20:26.030
+<v Keith Murphy>Charles, do you part your hair?
+
+436
+00:20:26.010 --> 00:20:29.170
+<v Charles Caskey>... to part the hair? [laughs] I, I have three, I have three sisters,
+
+437
+00:20:29.250 --> 00:20:29.810
+<v Charles Caskey>man. [laughs]
+
+438
+00:20:29.910 --> 00:20:31.150
+<v Keith Murphy>Oh, yeah, you've been parting hair.
+
+439
+00:20:31.190 --> 00:20:34.850
+<v Charles Caskey>Yeah, pretty, pretty well versed on, on hair treatment, although, yeah, I did, I,
+
+440
+00:20:35.090 --> 00:20:36.650
+<v Charles Caskey>I stopped parting mine many years ago.
+
+441
+00:20:36.670 --> 00:20:38.570
+<v Charles Caskey>[laughs] Um-
+
+442
+00:20:38.610 --> 00:20:41.430
+<v Keith Murphy>Oh, you know what? There are some old photos of you where you have
+
+443
+00:20:41.470 --> 00:20:44.350
+<v Keith Murphy>a nice thick mop and you're, you part them right down the middle, right?
+
+444
+00:20:44.570 --> 00:20:45.990
+<v Charles Caskey>The... Oh, yeah. That's, that's right.
+
+445
+00:20:46.170 --> 00:20:48.690
+<v Charles Caskey>I did do the... That was the, the hippie mop, uh, phase.
+
+446
+00:20:48.750 --> 00:20:50.170
+<v Charles Caskey>But yeah, I didn't, I was- [laughs] ...
+
+447
+00:20:50.190 --> 00:20:52.750
+<v Charles Caskey>uh, I, I'm not gonna claim for a moment though that I know as
+
+448
+00:20:52.790 --> 00:20:56.880
+<v Charles Caskey>much as, as, as, as somebody that actually has [laughs] is female and has
+
+449
+00:20:57.350 --> 00:20:58.570
+<v Charles Caskey>combed their hair their whole life.
+
+450
+00:20:58.650 --> 00:21:00.810
+<v Charles Caskey>Uh, just, just have the basics, though.
+
+451
+00:21:01.230 --> 00:21:05.890
+<v Elsa Fouragnan>I think m- my, my experience is that any type of hair can be
+
+452
+00:21:05.930 --> 00:21:09.770
+<v Elsa Fouragnan>dealt with. Um, there is no hair that are easier than others.
+
+453
+00:21:10.430 --> 00:21:16.270
+<v Elsa Fouragnan>But for prep and, you know, learning how to do this properly, women are
+
+454
+00:21:16.370 --> 00:21:18.530
+<v Elsa Fouragnan>starting already at the expert level-
+
+455
+00:21:18.530 --> 00:21:19.210
+<v Keith Murphy>Man, very interesting
+
+456
+00:21:19.230 --> 00:21:20.810
+<v Elsa Fouragnan>... whereas we have, we have to train our-
+
+457
+00:21:21.890 --> 00:21:22.410
+<v Keith Murphy>Train the men
+
+458
+00:21:22.410 --> 00:21:23.670
+<v Elsa Fouragnan>... guys in the lab a bit more.
+
+459
+00:21:24.470 --> 00:21:24.970
+<v Keith Murphy>Yeah.
+
+460
+00:21:25.730 --> 00:21:26.230
+<v Elsa Fouragnan>Um, yeah.
+
+461
+00:21:26.610 --> 00:21:27.450
+<v Keith Murphy>It's funny, you know-
+
+462
+00:21:28.030 --> 00:21:28.530
+<v Charles Caskey>But look, there's-
+
+463
+00:21:28.150 --> 00:21:30.690
+<v Keith Murphy>We're having a... I'm, like, in my head, and I think we're having a
+
+464
+00:21:30.730 --> 00:21:33.990
+<v Keith Murphy>different conversation here. I'm talking about, like, self-application.
+
+465
+00:21:34.430 --> 00:21:37.190
+<v Keith Murphy>You guys are thinking like, "Oh, to run the experiment."
+
+466
+00:21:38.150 --> 00:21:41.490
+<v Charles Caskey>I think, wait, isn't self-application running the experiment on yourself?
+
+467
+00:21:41.490 --> 00:21:41.990
+<v Charles Caskey>[laughs]
+
+468
+00:21:42.010 --> 00:21:42.910
+<v Keith Murphy>Yeah. Yeah, yeah.
+
+469
+00:21:43.030 --> 00:21:43.530
+<v Charles Caskey>So-
+
+470
+00:21:43.130 --> 00:21:47.130
+<v Keith Murphy>Well, I'm thinking like at home someday when people are-
+
+471
+00:21:47.230 --> 00:21:47.730
+<v Charles Caskey>Oh
+
+472
+00:21:47.430 --> 00:21:51.230
+<v Keith Murphy>... doing, you know, like, or, or in any c- uh, yeah, I guess,
+
+473
+00:21:51.310 --> 00:21:55.150
+<v Keith Murphy>I don't know. My perspective is always thinking way into the future where this
+
+474
+00:21:55.210 --> 00:21:56.290
+<v Keith Murphy>is a home tech, and then-
+
+475
+00:21:57.010 --> 00:22:00.650
+<v Elsa Fouragnan>Yeah, I was t- talking about running experiment, but I think even if you
+
+476
+00:22:00.710 --> 00:22:06.750
+<v Elsa Fouragnan>go back to this idea of having, you know, um, at-home device, my guess
+
+477
+00:22:06.810 --> 00:22:08.690
+<v Elsa Fouragnan>is that it's gonna be easier for m- for women.
+
+478
+00:22:08.750 --> 00:22:11.090
+<v Elsa Fouragnan>If there is anything hard to do with the hair-
+
+479
+00:22:11.450 --> 00:22:12.150
+<v Keith Murphy>They're gonna nail it.
+
+480
+00:22:13.030 --> 00:22:13.530
+<v Elsa Fouragnan>Yeah.
+
+481
+00:22:13.290 --> 00:22:17.770
+<v Charles Caskey>Yeah. That's [laughs] makes... I'm, yeah, I'm convinced.
+
+482
+00:22:17.870 --> 00:22:19.270
+<v Charles Caskey>This, this makes a lot of sense to me.
+
+483
+00:22:19.330 --> 00:22:21.010
+<v Keith Murphy>It does. My eyes are opened.
+
+484
+00:22:21.590 --> 00:22:27.170
+<v Keith Murphy>You know, Andrew Thomas gets recruited for studies across the, the whole English countryside
+
+485
+00:22:27.210 --> 00:22:30.790
+<v Keith Murphy>because he has no hair. He's always like, "Oh yeah, I'm getting recruited for
+
+486
+00:22:30.850 --> 00:22:33.030
+<v Keith Murphy>everything." Oh, my, my fake accent's terrible.
+
+487
+00:22:33.030 --> 00:22:36.010
+<v Keith Murphy>[laughs] But he... Put him in the tent.
+
+488
+00:22:36.010 --> 00:22:37.990
+<v Elsa Fouragnan>It's the same for my hus- it's the same for my husband.
+
+489
+00:22:38.050 --> 00:22:38.550
+<v Elsa Fouragnan>He's always in-
+
+490
+00:22:38.450 --> 00:22:40.150
+<v Keith Murphy>Aaron gets recruited? Is he in the studies?
+
+491
+00:22:40.150 --> 00:22:41.730
+<v Elsa Fouragnan>Every, every participant ever.
+
+492
+00:22:43.530 --> 00:22:45.610
+<v Keith Murphy>Get Aaron in here. Um, all right.
+
+493
+00:22:45.650 --> 00:22:46.150
+<v Charles Caskey>Yeah.
+
+494
+00:22:45.730 --> 00:22:47.830
+<v Keith Murphy>So let's, let's shift modes to the experiment.
+
+495
+00:22:48.010 --> 00:22:51.530
+<v Elsa Fouragnan>Um, no, but let's, let me just, uh, back, back up to just say
+
+496
+00:22:51.630 --> 00:22:55.050
+<v Elsa Fouragnan>one, one other thing that I think is, is quite cool, and this is
+
+497
+00:22:55.130 --> 00:22:58.150
+<v Elsa Fouragnan>just like li- life and what life throw at you, right?
+
+498
+00:22:58.530 --> 00:22:59.030
+<v Keith Murphy>There is a lot.
+
+499
+00:22:58.950 --> 00:23:02.390
+<v Elsa Fouragnan>I got my fellowship, and then COVID happened.
+
+500
+00:23:02.910 --> 00:23:03.410
+<v Charles Caskey>Oh.
+
+501
+00:23:03.370 --> 00:23:03.870
+<v Keith Murphy>Oh, God.
+
+502
+00:23:03.870 --> 00:23:06.590
+<v Charles Caskey>Okay. Yeah, no, we, we have to keep talking about this 'cause I think
+
+503
+00:23:06.610 --> 00:23:07.390
+<v Charles Caskey>there's two topics-
+
+504
+00:23:07.390 --> 00:23:07.890
+<v Elsa Fouragnan>But it is very cool
+
+505
+00:23:07.450 --> 00:23:10.690
+<v Charles Caskey>... that I'd love, yeah, this part, and then also access.
+
+506
+00:23:11.070 --> 00:23:14.250
+<v Charles Caskey>Yeah, we didn't finish-- I don't feel like we closed the loop on access
+
+507
+00:23:14.330 --> 00:23:16.090
+<v Charles Caskey>or how do you start ultrasound?
+
+508
+00:23:16.190 --> 00:23:16.690
+<v Charles Caskey>So-
+
+509
+00:23:16.490 --> 00:23:16.990
+<v Elsa Fouragnan>Yes. Yeah
+
+510
+00:23:16.550 --> 00:23:17.930
+<v Charles Caskey>... yeah, let's, let's... All right.
+
+511
+00:23:18.030 --> 00:23:21.430
+<v Charles Caskey>So you got your fellowship. COVID, COVID has, has hit.
+
+512
+00:23:21.530 --> 00:23:24.410
+<v Charles Caskey>This is like 2020, 2021. Okay.
+
+513
+00:23:24.950 --> 00:23:25.830
+<v Charles Caskey>So how was that?
+
+514
+00:23:26.210 --> 00:23:30.090
+<v Elsa Fouragnan>Yeah, exactly. And I, I still look at it and think it was a
+
+515
+00:23:30.130 --> 00:23:36.270
+<v Elsa Fouragnan>blessing, absolutely a blessing because Siti Yaakub, um, who is first author on many
+
+516
+00:23:36.370 --> 00:23:37.910
+<v Elsa Fouragnan>papers that we published together-
+
+517
+00:23:37.990 --> 00:23:42.590
+<v Keith Murphy>Bes- besides the mass death and, and carnage in the world, [laughs] but for
+
+518
+00:23:42.650 --> 00:23:43.150
+<v Keith Murphy>the lab.
+
+519
+00:23:43.090 --> 00:23:44.890
+<v Charles Caskey>Well, oh, yeah. [laughs]
+
+520
+00:23:45.070 --> 00:23:45.650
+<v Keith Murphy>Sometimes things work out.
+
+521
+00:23:45.650 --> 00:23:47.570
+<v Charles Caskey>To be clear, you're talking about COVID, not Siti.
+
+522
+00:23:47.590 --> 00:23:53.370
+<v Charles Caskey>[laughs] Yeah, yeah. So you're saying the, the- So- ...
+
+523
+00:23:53.390 --> 00:23:54.510
+<v Charles Caskey>the reduced action. Yeah.
+
+524
+00:23:55.310 --> 00:23:58.710
+<v Elsa Fouragnan>No, what I'm saying is that, uh, yeah, Siti happened to join me when
+
+525
+00:23:58.750 --> 00:24:01.570
+<v Elsa Fouragnan>as soon as I got my fellowship, then COVID happened, and we were stuck
+
+526
+00:24:01.670 --> 00:24:04.070
+<v Elsa Fouragnan>because we couldn't do a- any experimental work.
+
+527
+00:24:04.670 --> 00:24:09.110
+<v Elsa Fouragnan>But the blessing really looking back is the fact that for one year we
+
+528
+00:24:09.150 --> 00:24:12.630
+<v Elsa Fouragnan>had nothing to do except thinking about acoustic simulation- Oh, cool ...
+
+529
+00:24:12.650 --> 00:24:16.910
+<v Elsa Fouragnan>thinking about MR pictures. So that's when we developed, you know, that deep learning
+
+530
+00:24:16.990 --> 00:24:20.030
+<v Elsa Fouragnan>technique to go from a T1-weighted image to a, a CT case.
+
+531
+00:24:20.070 --> 00:24:21.630
+<v Keith Murphy>Can you, can you break that down a little bit?
+
+532
+00:24:22.370 --> 00:24:24.350
+<v Keith Murphy>No one's-- Like, for people who might not know what you're talking about.
+
+533
+00:24:24.410 --> 00:24:26.430
+<v Elsa Fouragnan>Yeah, I can. Um, so-
+
+534
+00:24:26.450 --> 00:24:26.950
+<v Keith Murphy>High level
+
+535
+00:24:26.550 --> 00:24:30.150
+<v Elsa Fouragnan>... obviously, you know, the, the gold standard for, uh, for skull image would
+
+536
+00:24:30.190 --> 00:24:33.450
+<v Elsa Fouragnan>be a CT scan, but then you have to expose your healthy participants to
+
+537
+00:24:33.530 --> 00:24:35.930
+<v Elsa Fouragnan>ionizing radiation. Some of you don't want to do this.
+
+538
+00:24:36.510 --> 00:24:38.930
+<v Elsa Fouragnan>So we thought, well, what we have instead-
+
+539
+00:24:38.930 --> 00:24:41.800
+<v Keith Murphy>CT, CT because it's bone. It's a picture of a bone And so you
+
+540
+00:24:41.840 --> 00:24:42.920
+<v Keith Murphy>get that density and speed of sound
+
+541
+00:24:42.920 --> 00:24:46.440
+<v Elsa Fouragnan>Yeah. So CT scans are the really crisp, beautiful pictures of the skull, and,
+
+542
+00:24:46.460 --> 00:24:50.080
+<v Elsa Fouragnan>and you can run acoustic simulation through it at, uh, you know, a higher
+
+543
+00:24:50.180 --> 00:24:53.380
+<v Elsa Fouragnan>resolution than you would do with other MR pictures.
+
+544
+00:24:53.460 --> 00:24:58.500
+<v Elsa Fouragnan>But MR pictures are nice because you're not doing anything to your participant and,
+
+545
+00:24:59.120 --> 00:25:01.060
+<v Elsa Fouragnan>and we have a ton of those pictures.
+
+546
+00:25:01.180 --> 00:25:05.380
+<v Elsa Fouragnan>So we just thought with Siti Yaakub, my, my postdoc, "Well, can we do
+
+547
+00:25:05.440 --> 00:25:10.660
+<v Elsa Fouragnan>anything with those T1-weighted image?" Um, and they are classically found also in TMS
+
+548
+00:25:10.760 --> 00:25:15.200
+<v Elsa Fouragnan>labs, so we thought, like, if we could find a tool to just move
+
+549
+00:25:15.260 --> 00:25:18.860
+<v Elsa Fouragnan>from those images to skull image, that would be really useful.
+
+550
+00:25:18.960 --> 00:25:23.360
+<v Elsa Fouragnan>So yeah, so we did this, uh, because we wanted to do acoustic simulation,
+
+551
+00:25:23.420 --> 00:25:25.960
+<v Elsa Fouragnan>and we really wanted to take safety seriously.
+
+552
+00:25:26.040 --> 00:25:29.620
+<v Elsa Fouragnan>I think that was the main-- my main concern coming from a non-human primate
+
+553
+00:25:29.680 --> 00:25:32.600
+<v Elsa Fouragnan>lab was we're gonna be underdosing because-
+
+554
+00:25:32.620 --> 00:25:33.120
+<v Keith Murphy>Hmm
+
+555
+00:25:32.640 --> 00:25:34.780
+<v Elsa Fouragnan>... we don't have the same regulation at all.
+
+556
+00:25:35.360 --> 00:25:39.060
+<v Elsa Fouragnan>And the FDA, like, you know, traditionally doesn't expect there is a skull in
+
+557
+00:25:39.100 --> 00:25:40.520
+<v Elsa Fouragnan>the way, right? So [chuckles]
+
+558
+00:25:40.620 --> 00:25:41.120
+<v Keith Murphy>Yeah.
+
+559
+00:25:41.020 --> 00:25:41.860
+<v Elsa Fouragnan>You are going to be-
+
+560
+00:25:41.880 --> 00:25:42.380
+<v Keith Murphy>It's true
+
+561
+00:25:42.120 --> 00:25:46.280
+<v Elsa Fouragnan>... massively underdosing. Um, so we wanted to be super safe, but we also
+
+562
+00:25:46.320 --> 00:25:49.440
+<v Elsa Fouragnan>wanted to be doing something. So it felt to us that acoustic simulation is-
+
+563
+00:25:49.460 --> 00:25:52.680
+<v Keith Murphy>That's, that's a tightrope. That's a hard line to walk in the field.
+
+564
+00:25:52.740 --> 00:25:56.140
+<v Keith Murphy>It's like, yeah, you can be really, really safe, but then you're just gonna
+
+565
+00:25:56.180 --> 00:25:58.860
+<v Keith Murphy>have trouble getting effect size. So you, you had to think about that.
+
+566
+00:25:59.580 --> 00:26:03.920
+<v Elsa Fouragnan>Yeah. And it's a big deal because, again, like in non-human primate, we're not
+
+567
+00:26:03.960 --> 00:26:10.240
+<v Elsa Fouragnan>really-- we don't have the same regulatory burden, so it was just easier to-
+
+568
+00:26:10.440 --> 00:26:10.940
+<v Keith Murphy>Yeah.
+
+569
+00:26:10.560 --> 00:26:11.320
+<v Charles Caskey>Yeah. It, that-
+
+570
+00:26:11.420 --> 00:26:11.920
+<v Elsa Fouragnan>Yep.
+
+571
+00:26:11.760 --> 00:26:16.680
+<v Charles Caskey>And, and so y'all were establishing these tools for simulation during kind of this,
+
+572
+00:26:17.080 --> 00:26:17.580
+<v Charles Caskey>this downtime.
+
+573
+00:26:17.460 --> 00:26:19.200
+<v Elsa Fouragnan>During this dark period [chuckles] of COVID.
+
+574
+00:26:19.200 --> 00:26:19.700
+<v Elsa Fouragnan>Yeah.
+
+575
+00:26:19.220 --> 00:26:20.980
+<v Charles Caskey>Yeah, yeah. Right. You're stuck at your computer.
+
+576
+00:26:21.400 --> 00:26:24.640
+<v Charles Caskey>You got-- Yeah, you maybe jump on Slack or something with people during the
+
+577
+00:26:24.680 --> 00:26:26.740
+<v Charles Caskey>day, and then you say, "Oh, cool.
+
+578
+00:26:26.800 --> 00:26:29.420
+<v Charles Caskey>Well, we now have this transducer simulated."
+
+579
+00:26:29.520 --> 00:26:30.720
+<v Charles Caskey>Yeah, we, we had a similar thing.
+
+580
+00:26:30.760 --> 00:26:33.120
+<v Charles Caskey>It was sort of like some- one person could go in the lab and,
+
+581
+00:26:33.160 --> 00:26:38.020
+<v Charles Caskey>like, make some hydrophone measurements a-and then, like, go back home, simulate for a
+
+582
+00:26:38.080 --> 00:26:40.420
+<v Charles Caskey>week, and it was sort of this coordinated dance.
+
+583
+00:26:40.520 --> 00:26:42.200
+<v Charles Caskey>But it-- That would've been hard.
+
+584
+00:26:42.320 --> 00:26:46.120
+<v Charles Caskey>I think it would've been difficult to prioritize if everything had been moving at
+
+585
+00:26:46.160 --> 00:26:48.880
+<v Charles Caskey>the same time. But if we were kind of like-- We c- we were
+
+586
+00:26:48.940 --> 00:26:53.380
+<v Charles Caskey>able to be very strategic. Um, and the students, uh, you mentioned Siti, uh,
+
+587
+00:26:54.180 --> 00:26:57.200
+<v Charles Caskey>was-- Who was-- Is Siti, was Siti a, a PhD student at that time?
+
+588
+00:26:57.320 --> 00:26:58.180
+<v Elsa Fouragnan>Postdoc, postdoc.
+
+589
+00:26:58.220 --> 00:27:01.580
+<v Charles Caskey>Postdoc. Okay. Yeah. I mean, so I also found that people were really motivated
+
+590
+00:27:01.680 --> 00:27:03.440
+<v Charles Caskey>because there was something to do, [chuckles] you know?
+
+591
+00:27:03.500 --> 00:27:06.140
+<v Charles Caskey>That was-- Um, and so yeah.
+
+592
+00:27:06.240 --> 00:27:10.860
+<v Charles Caskey>The, so that was kind of your-- Y-you feel like that extra time helped
+
+593
+00:27:10.900 --> 00:27:15.220
+<v Charles Caskey>you guys establish what you were doing, um-
+
+594
+00:27:15.300 --> 00:27:15.800
+<v Elsa Fouragnan>Yeah
+
+595
+00:27:15.380 --> 00:27:20.100
+<v Charles Caskey>... effectively. So e-overcoming the barrier of getting a CT, particularly since you were
+
+596
+00:27:20.140 --> 00:27:23.820
+<v Charles Caskey>interested in healthy subjects, great paper, and cool technique.
+
+597
+00:27:24.440 --> 00:27:28.120
+<v Charles Caskey>Um, and then getting it kind of linked, I guess, to some sort of,
+
+598
+00:27:28.680 --> 00:27:33.340
+<v Charles Caskey>uh, Brainsight or image guidance and thinking more about that and okay, cool.
+
+599
+00:27:33.900 --> 00:27:34.400
+<v Charles Caskey>And then so-
+
+600
+00:27:34.040 --> 00:27:38.120
+<v Elsa Fouragnan>And also I build my, um, my hydrophone tank in my garage at this-
+
+601
+00:27:38.300 --> 00:27:38.800
+<v Charles Caskey>Yeah. [laughs]
+
+602
+00:27:38.480 --> 00:27:40.180
+<v Elsa Fouragnan>... at this time. [laughs]
+
+603
+00:27:40.240 --> 00:27:40.740
+<v Keith Murphy>Sure. I love that.
+
+604
+00:27:40.480 --> 00:27:43.200
+<v Charles Caskey>I totally had an ultrasound scanner at my house during that time.
+
+605
+00:27:43.240 --> 00:27:44.980
+<v Charles Caskey>The Verasonics was at my house.
+
+606
+00:27:45.000 --> 00:27:49.780
+<v Charles Caskey>[laughs] Like, so, um, yeah. So you, you had an ultrasound tank you, that
+
+607
+00:27:49.820 --> 00:27:52.540
+<v Charles Caskey>you, you built up in your garage [laughs] and that was-- Yeah.
+
+608
+00:27:52.940 --> 00:27:53.940
+<v Charles Caskey>Got it up to the lab.
+
+609
+00:27:53.980 --> 00:27:54.500
+<v Charles Caskey>Very cool.
+
+610
+00:27:54.560 --> 00:27:58.060
+<v Elsa Fouragnan>I think, I think, um, you know, looking back, if, if I, if, if,
+
+611
+00:27:58.660 --> 00:28:02.600
+<v Elsa Fouragnan>if it wasn't COVID and it, it hadn't been somehow imposed on us, this
+
+612
+00:28:02.640 --> 00:28:05.320
+<v Elsa Fouragnan>period when we had to think very, very carefully about what we were doing,
+
+613
+00:28:05.400 --> 00:28:07.920
+<v Elsa Fouragnan>because maybe we would have rushed otherwise and-
+
+614
+00:28:08.160 --> 00:28:08.660
+<v Keith Murphy>Yeah
+
+615
+00:28:08.400 --> 00:28:13.120
+<v Elsa Fouragnan>... crossed, you know, crossed layers that actually really didn't have to be crossed.
+
+616
+00:28:13.180 --> 00:28:15.600
+<v Elsa Fouragnan>We ne- we needed to think about this stuff very carefully.
+
+617
+00:28:16.180 --> 00:28:16.680
+<v Elsa Fouragnan>Um-
+
+618
+00:28:16.240 --> 00:28:20.460
+<v Keith Murphy>It's funny. I, uh, I-- Same thing for me, except when COVID happened to
+
+619
+00:28:20.560 --> 00:28:24.200
+<v Keith Murphy>us and I couldn't do animal experiments, I just started writing grants for, to
+
+620
+00:28:24.240 --> 00:28:28.140
+<v Keith Murphy>start Attune. And I always look back and I'm like: Man, terrible time, but
+
+621
+00:28:28.180 --> 00:28:31.120
+<v Keith Murphy>it for- it was a forcing function for a lot of oddities that you
+
+622
+00:28:31.700 --> 00:28:34.420
+<v Keith Murphy>wouldn't have done otherwise, or you would've, you know, kicked them down the line.
+
+623
+00:28:34.560 --> 00:28:37.560
+<v Charles Caskey>Yeah. Like the pri-- It changed the way you prioritized what you were gonna
+
+624
+00:28:37.600 --> 00:28:41.300
+<v Charles Caskey>do, whereas you might have been doing these things simultaneously and not doing as
+
+625
+00:28:41.340 --> 00:28:43.020
+<v Charles Caskey>good of a job on any given one of them.
+
+626
+00:28:43.400 --> 00:28:43.900
+<v Keith Murphy>Yeah.
+
+627
+00:28:43.860 --> 00:28:49.040
+<v Charles Caskey>Um, so I'm curious, Elsa, so you ha- so you got-- You were getting
+
+628
+00:28:49.080 --> 00:28:54.800
+<v Charles Caskey>these things going. When did you, from the day you started the, the directorship,
+
+629
+00:28:54.900 --> 00:29:00.320
+<v Charles Caskey>or no, not, not the directorship, the, the fellowship, to your first, uh, first
+
+630
+00:29:00.440 --> 00:29:02.540
+<v Charles Caskey>patient or, or subject sonicated?
+
+631
+00:29:03.000 --> 00:29:07.320
+<v Elsa Fouragnan>Um, well, so if it, if we're not talking about me being a participant,
+
+632
+00:29:07.360 --> 00:29:08.980
+<v Elsa Fouragnan>because I did myself very quickly.
+
+633
+00:29:09.300 --> 00:29:09.800
+<v Elsa Fouragnan>Um-
+
+634
+00:29:09.340 --> 00:29:13.320
+<v Charles Caskey>Okay. Well, only say, only say things that you wouldn't mind people hearing.
+
+635
+00:29:13.320 --> 00:29:16.780
+<v Charles Caskey>[laughs] Uh, I mean, 'cause it, if that's regula- uh, if it, that's okay
+
+636
+00:29:16.800 --> 00:29:18.360
+<v Charles Caskey>with your regulatory committee, then yeah.
+
+637
+00:29:18.540 --> 00:29:20.280
+<v Charles Caskey>I think that's perfectly okay to talk about.
+
+638
+00:29:20.280 --> 00:29:23.800
+<v Keith Murphy>I think, I think, uh, IRBs approve self, they ca- uh, what do they
+
+639
+00:29:23.840 --> 00:29:28.480
+<v Keith Murphy>call it? Protocol validation. It just really means, like, try it on yourself if
+
+640
+00:29:28.520 --> 00:29:29.920
+<v Keith Murphy>you want. We've approved you to do it.
+
+641
+00:29:30.360 --> 00:29:35.020
+<v Keith Murphy>In the US we're, we do that quite a bit under regulatory approval.
+
+642
+00:29:35.320 --> 00:29:37.300
+<v Charles Caskey>Right. Right. I'm not, I underst- I'm, I'm just saying-
+
+643
+00:29:37.320 --> 00:29:38.300
+<v Keith Murphy>No, no. It's not
+
+644
+00:29:38.320 --> 00:29:39.500
+<v Charles Caskey>... you might not wanna say it.
+
+645
+00:29:39.500 --> 00:29:40.980
+<v Charles Caskey>[laughs]
+
+646
+00:29:41.040 --> 00:29:43.380
+<v Keith Murphy>Elsa, you wanna say it? I'll cut it if you don't want it.
+
+647
+00:29:43.440 --> 00:29:43.940
+<v Elsa Fouragnan>I mean-
+
+648
+00:29:43.540 --> 00:29:44.040
+<v Keith Murphy>But I do.
+
+649
+00:29:43.620 --> 00:29:44.440
+<v Elsa Fouragnan>No, I'm, I'm always-
+
+650
+00:29:44.440 --> 00:29:44.940
+<v Keith Murphy>I do it all the time.
+
+651
+00:29:45.740 --> 00:29:49.320
+<v Keith Murphy>Hey, did you guys ever stimulate a brain area for the first time on
+
+652
+00:29:49.380 --> 00:29:53.340
+<v Keith Murphy>yourself? 'Cause I claimed dorsomedial hypothalamus for humans.
+
+653
+00:29:54.000 --> 00:29:55.580
+<v Keith Murphy>I, I posit to this day-
+
+654
+00:29:55.580 --> 00:29:56.100
+<v Elsa Fouragnan>Did you say accumbens, Charles?
+
+655
+00:29:56.100 --> 00:29:57.980
+<v Keith Murphy>Oh, you were the first accumbens person-
+
+656
+00:29:58.100 --> 00:29:58.600
+<v Charles Caskey>Yeah
+
+657
+00:29:58.200 --> 00:29:59.780
+<v Keith Murphy>... in the world? Oh, hell yeah.
+
+658
+00:29:59.780 --> 00:30:01.160
+<v Keith Murphy>[laughs] Charles, what do you got?
+
+659
+00:30:01.660 --> 00:30:03.280
+<v Keith Murphy>What's your brain region? [laughs]
+
+660
+00:30:03.340 --> 00:30:05.080
+<v Charles Caskey>I, I've never sonicated my brain.
+
+661
+00:30:05.160 --> 00:30:05.660
+<v Charles Caskey>[laughs]
+
+662
+00:30:05.320 --> 00:30:09.240
+<v Keith Murphy>What? No. [laughs] Charles. Loser.
+
+663
+00:30:09.460 --> 00:30:10.180
+<v Charles Caskey>Out of the room. Out of the room.
+
+664
+00:30:11.000 --> 00:30:13.760
+<v Keith Murphy>Yeah. Go. All right. You're gonna have to take off the sunnies and leave,
+
+665
+00:30:13.840 --> 00:30:14.340
+<v Keith Murphy>Charles.
+
+666
+00:30:14.420 --> 00:30:15.220
+<v Charles Caskey>Out of the podcast.
+
+667
+00:30:15.240 --> 00:30:17.140
+<v Keith Murphy>All right. Charles, pick a brain region.
+
+668
+00:30:17.220 --> 00:30:17.980
+<v Keith Murphy>We'll, we'll get it.
+
+669
+00:30:18.740 --> 00:30:21.820
+<v Charles Caskey>Um, yeah, I was really surprised when I, when I started to meet people.
+
+670
+00:30:22.020 --> 00:30:24.880
+<v Charles Caskey>I mean, I'm, I'm open to it, uh, at this point, but I didn't
+
+671
+00:30:24.920 --> 00:30:26.660
+<v Charles Caskey>know that this was a thing that people did.
+
+672
+00:30:26.980 --> 00:30:27.480
+<v Charles Caskey>Um [laughs]
+
+673
+00:30:27.060 --> 00:30:29.740
+<v Keith Murphy>It's like we're talking about, like, smoking cigarettes behind the dumpster.
+
+674
+00:30:30.180 --> 00:30:31.160
+<v Keith Murphy>We're like, "You know, it's cool."
+
+675
+00:30:31.180 --> 00:30:32.380
+<v Keith Murphy>[laughs]
+
+676
+00:30:32.400 --> 00:30:35.160
+<v Charles Caskey>Right. Yeah. Like, uh, this whole world was, uh, yeah.
+
+677
+00:30:35.200 --> 00:30:38.220
+<v Keith Murphy>Oh, Charles? Yeah, he doesn't, uh, he doesn't partake.
+
+678
+00:30:38.220 --> 00:30:38.880
+<v Keith Murphy>[laughs]
+
+679
+00:30:38.920 --> 00:30:39.420
+<v Charles Caskey>He does-
+
+680
+00:30:39.420 --> 00:30:39.920
+<v Keith Murphy>He does.
+
+681
+00:30:39.720 --> 00:30:40.220
+<v Charles Caskey>He does. He does.
+
+682
+00:30:40.200 --> 00:30:40.700
+<v Keith Murphy>Sober guy.
+
+683
+00:30:40.700 --> 00:30:41.260
+<v Charles Caskey>Yeah. No.
+
+684
+00:30:41.300 --> 00:30:41.800
+<v Keith Murphy>Good guy.
+
+685
+00:30:41.780 --> 00:30:42.280
+<v Charles Caskey>Yeah.
+
+686
+00:30:41.940 --> 00:30:43.080
+<v Keith Murphy>He's sober, though. [laughs]
+
+687
+00:30:43.140 --> 00:30:46.100
+<v Charles Caskey>Sober. Yeah, yeah. I'm a straight edge on the, on the FUS to the
+
+688
+00:30:46.180 --> 00:30:48.040
+<v Charles Caskey>brain. No, no, I'm, I'm open to it now.
+
+689
+00:30:48.080 --> 00:30:51.120
+<v Charles Caskey>I just, uh, this was not in my lexicon- [laughs] ...
+
+690
+00:30:51.140 --> 00:30:54.180
+<v Charles Caskey>'cause most of the things I had worked up from that point, um, were
+
+691
+00:30:54.760 --> 00:30:56.340
+<v Charles Caskey>Yeah, I'm in a medical center, so like-
+
+692
+00:30:56.400 --> 00:30:56.900
+<v Keith Murphy>Oh, you know-
+
+693
+00:30:56.780 --> 00:30:57.760
+<v Charles Caskey>... everything's healthcare related.
+
+694
+00:30:57.840 --> 00:30:58.500
+<v Keith Murphy>First, first time-
+
+695
+00:30:58.520 --> 00:30:59.940
+<v Charles Caskey>So only sick people get the treatments.
+
+696
+00:31:00.120 --> 00:31:00.620
+<v Charles Caskey>So [chuckles]
+
+697
+00:31:00.480 --> 00:31:04.440
+<v Keith Murphy>First time I was ever stimulated was from, from Elsa in the lobby, FUN
+
+698
+00:31:04.980 --> 00:31:06.060
+<v Keith Murphy>''22. So Charles-
+
+699
+00:31:06.080 --> 00:31:06.580
+<v Elsa Fouragnan>Yeah, and we got told off
+
+700
+00:31:06.380 --> 00:31:07.460
+<v Keith Murphy>... maybe next time you see Elsa.
+
+701
+00:31:08.260 --> 00:31:08.760
+<v Keith Murphy>Well-
+
+702
+00:31:08.880 --> 00:31:09.380
+<v Elsa Fouragnan>Oh.
+
+703
+00:31:08.900 --> 00:31:10.860
+<v Keith Murphy>We-- Yeah, people were not happy about that.
+
+704
+00:31:12.140 --> 00:31:13.100
+<v Keith Murphy>But, uh, it was fun though.
+
+705
+00:31:13.120 --> 00:31:14.180
+<v Keith Murphy>[laughing]
+
+706
+00:31:14.240 --> 00:31:14.960
+<v Elsa Fouragnan>We, we got told off.
+
+707
+00:31:14.980 --> 00:31:16.800
+<v Keith Murphy>We don't recommend it. Yeah. [chuckles]
+
+708
+00:31:16.860 --> 00:31:19.280
+<v Elsa Fouragnan>This is, this is how, uh, my friendship with Keith started.
+
+709
+00:31:19.380 --> 00:31:21.260
+<v Elsa Fouragnan>I had to stimulate his brain first.
+
+710
+00:31:21.300 --> 00:31:21.800
+<v Elsa Fouragnan>[chuckles]
+
+711
+00:31:21.560 --> 00:31:24.300
+<v Charles Caskey>Oh, wow. That's, that's a g- that's a nexus.
+
+712
+00:31:24.340 --> 00:31:25.860
+<v Charles Caskey>Yeah, it's a beginning. Yeah, like that.
+
+713
+00:31:25.920 --> 00:31:27.720
+<v Keith Murphy>Yeah. Bonded for life through stim.
+
+714
+00:31:29.640 --> 00:31:31.400
+<v Keith Murphy>Charles, what gets you next time we see you?
+
+715
+00:31:31.540 --> 00:31:32.620
+<v Keith Murphy>We'll under IRB approval.
+
+716
+00:31:32.660 --> 00:31:33.160
+<v Charles Caskey>Sounds good.
+
+717
+00:31:33.380 --> 00:31:33.880
+<v Keith Murphy>We'll bring you in.
+
+718
+00:31:33.860 --> 00:31:37.360
+<v Charles Caskey>Yeah, yeah. So I've been, I've been doing more like comfort and usability testing,
+
+719
+00:31:37.400 --> 00:31:39.480
+<v Charles Caskey>and I've been like in our device and stuff.
+
+720
+00:31:39.580 --> 00:31:43.560
+<v Charles Caskey>So yeah, we're, we're, we're, we're finally getting to-- getting down that path of
+
+721
+00:31:43.720 --> 00:31:47.100
+<v Charles Caskey>the... Yeah, it was-- This was not something I had planned to do, um,
+
+722
+00:31:47.200 --> 00:31:48.900
+<v Charles Caskey>when I started down this road.
+
+723
+00:31:49.020 --> 00:31:50.800
+<v Charles Caskey>[laughing]
+
+724
+00:31:50.880 --> 00:31:51.400
+<v Keith Murphy>Ultrasound's wild.
+
+725
+00:31:51.420 --> 00:31:55.580
+<v Elsa Fouragnan>Well, for me it was, it was somehow part of my, uh, vision and
+
+726
+00:31:55.720 --> 00:31:57.620
+<v Elsa Fouragnan>maybe ethical ground is that- Yeah ...
+
+727
+00:31:57.660 --> 00:31:59.480
+<v Elsa Fouragnan>look, I'm gonna be doing this in humans.
+
+728
+00:31:59.680 --> 00:32:03.000
+<v Elsa Fouragnan>I, I want to, I wanna make sure it's, it's safe.
+
+729
+00:32:03.060 --> 00:32:04.480
+<v Elsa Fouragnan>I wanna make sure that, you know...
+
+730
+00:32:04.860 --> 00:32:10.680
+<v Elsa Fouragnan>Um, and also, I guess from a development point of view, it's easier to
+
+731
+00:32:10.720 --> 00:32:13.360
+<v Elsa Fouragnan>completely feel everything about it than you can-
+
+732
+00:32:13.380 --> 00:32:13.880
+<v Charles Caskey>Mm-hmm
+
+733
+00:32:13.660 --> 00:32:18.040
+<v Elsa Fouragnan>... completely, you know, uh, iterate on, on what works, what doesn't, or how-
+
+734
+00:32:18.200 --> 00:32:19.340
+<v Elsa Fouragnan>Yeah ... how it feels actually.
+
+735
+00:32:20.240 --> 00:32:20.740
+<v Elsa Fouragnan>Um, yeah.
+
+736
+00:32:20.560 --> 00:32:24.600
+<v Keith Murphy>So- some people don't-- They still to this day do not know about the
+
+737
+00:32:24.640 --> 00:32:27.700
+<v Keith Murphy>clicking sound. If you c-- I mean, everybody probably knows this now.
+
+738
+00:32:27.720 --> 00:32:32.000
+<v Keith Murphy>If you cover your ears, you can hear the ultrasound almost like coming from
+
+739
+00:32:32.020 --> 00:32:34.960
+<v Keith Murphy>the center of your brain 'cause it's bouncing around the inner surface of your
+
+740
+00:32:35.060 --> 00:32:37.600
+<v Keith Murphy>skull, and it's really hard to localize it.
+
+741
+00:32:38.080 --> 00:32:41.720
+<v Keith Murphy>And if you've never tried ultrasound, you don't really know what we're talking about.
+
+742
+00:32:42.140 --> 00:32:42.640
+<v Keith Murphy>And the-
+
+743
+00:32:42.580 --> 00:32:43.080
+<v Elsa Fouragnan>Yeah
+
+744
+00:32:42.660 --> 00:32:46.460
+<v Keith Murphy>... the peripheral sensation too. Um, uh, you know, we're not here saying, "Hey,
+
+745
+00:32:46.540 --> 00:32:48.360
+<v Keith Murphy>go try this on your own unregulated."
+
+746
+00:32:48.480 --> 00:32:52.100
+<v Keith Murphy>If you're in a well-controlled lab, you should probably try it out just to
+
+747
+00:32:52.160 --> 00:32:55.280
+<v Keith Murphy>know like what all these things are like, so you know what the animals
+
+748
+00:32:55.380 --> 00:32:59.380
+<v Keith Murphy>or the humans are going through, so you can actually control for these confounds.
+
+749
+00:33:00.140 --> 00:33:00.640
+<v Keith Murphy>And Ben-
+
+750
+00:33:00.620 --> 00:33:01.120
+<v Elsa Fouragnan>Yeah.
+
+751
+00:33:00.680 --> 00:33:07.120
+<v Keith Murphy>Ben Kop and Lennart Verhagen, they have really beautiful papers showing that these
+
+752
+00:33:07.560 --> 00:33:12.320
+<v Keith Murphy>sounds and these feelings on your skin can actually create artifactual shifts in brain
+
+753
+00:33:12.380 --> 00:33:14.900
+<v Keith Murphy>activity, can really mess experiments up.
+
+754
+00:33:16.100 --> 00:33:18.920
+<v Elsa Fouragnan>Yeah. There's, there's a lot of, um, beautiful paper, right?
+
+755
+00:33:19.020 --> 00:33:24.660
+<v Elsa Fouragnan>Showing that, that any, any sound actually received by a nervous system will create
+
+756
+00:33:24.700 --> 00:33:29.980
+<v Elsa Fouragnan>activity. Sometimes it's because of micro movements actually generated by the onsets of the,
+
+757
+00:33:30.180 --> 00:33:35.360
+<v Elsa Fouragnan>of the sound cue or just, you know, sound related, uh, but, but those
+
+758
+00:33:35.740 --> 00:33:38.360
+<v Elsa Fouragnan>had been confounded with ultrasound for a long time, right?
+
+759
+00:33:38.900 --> 00:33:39.400
+<v Keith Murphy>Mm-hmm.
+
+760
+00:33:39.060 --> 00:33:42.060
+<v Elsa Fouragnan>So, um, it was, um, very important to disentangle the two.
+
+761
+00:33:42.700 --> 00:33:47.020
+<v Elsa Fouragnan>But on the work we, we've done, uh, mainly because we're looking at, um,
+
+762
+00:33:47.340 --> 00:33:50.980
+<v Elsa Fouragnan>delayed effects, so effects that are happening after the ultrasound is finished.
+
+763
+00:33:51.860 --> 00:33:56.360
+<v Elsa Fouragnan>We don't really think that those sound confounds are too problematic because we start
+
+764
+00:33:56.400 --> 00:33:59.880
+<v Elsa Fouragnan>looking at brain activity sometimes 20 minute post sonication, right?
+
+765
+00:34:00.480 --> 00:34:01.080
+<v Elsa Fouragnan>So we, we think-
+
+766
+00:34:01.280 --> 00:34:01.780
+<v Keith Murphy>You recommend that?
+
+767
+00:34:01.400 --> 00:34:02.700
+<v Elsa Fouragnan>... at this point they have vanished.
+
+768
+00:34:02.880 --> 00:34:03.380
+<v Elsa Fouragnan>Hmm?
+
+769
+00:34:03.560 --> 00:34:08.000
+<v Keith Murphy>You recommend that? People trying new experiments, maybe they just focus more on offline?
+
+770
+00:34:09.480 --> 00:34:11.780
+<v Elsa Fouragnan>Um, it completely depends on your research question.
+
+771
+00:34:11.860 --> 00:34:16.620
+<v Elsa Fouragnan>We were interested in plasticity. We were interested in delayed effect potentially translating into
+
+772
+00:34:16.660 --> 00:34:22.760
+<v Elsa Fouragnan>clinical long-lasting effect. Um, but I mean, acute effects are incredibly important
+
+773
+00:34:22.820 --> 00:34:25.800
+<v Elsa Fouragnan>if you want to, I don't know, spam the parameter space or...
+
+774
+00:34:26.560 --> 00:34:30.580
+<v Elsa Fouragnan>You-- There is so much interesting things that could be done at, at both
+
+775
+00:34:30.680 --> 00:34:31.620
+<v Elsa Fouragnan>level, I think.
+
+776
+00:34:31.660 --> 00:34:33.820
+<v Keith Murphy>Yeah. Charles, if you could-
+
+777
+00:34:33.900 --> 00:34:34.400
+<v Charles Caskey>Yes
+
+778
+00:34:33.960 --> 00:34:37.440
+<v Keith Murphy>... stimulate any part of your brain for the first time, plant the flag
+
+779
+00:34:37.740 --> 00:34:40.080
+<v Keith Murphy>like a moon landing, what would you pick and why?
+
+780
+00:34:41.640 --> 00:34:42.880
+<v Charles Caskey>Oh, um, I,
+
+781
+00:34:42.880 --> 00:34:44.160
+<v Keith Murphy>I- 'Cause me and Elsa already got ours
+
+782
+00:34:44.160 --> 00:34:44.660
+<v Charles Caskey>... don't have an opinion on this.
+
+783
+00:34:44.580 --> 00:34:45.780
+<v Keith Murphy>We got ours. [laughing]
+
+784
+00:34:45.840 --> 00:34:48.740
+<v Charles Caskey>What, what's the, what's the part that's gonna like make me get really good
+
+785
+00:34:48.860 --> 00:34:53.280
+<v Charles Caskey>sleep and like f- and not worry about like grant stress-
+
+786
+00:34:53.280 --> 00:34:54.100
+<v Keith Murphy>I got something for you
+
+787
+00:34:54.140 --> 00:34:55.600
+<v Charles Caskey>... and like be a good, be a good mentor.
+
+788
+00:34:55.740 --> 00:34:58.560
+<v Charles Caskey>Like, what's the part... Yeah, whatever part that is, that's the part I wanna
+
+789
+00:34:58.600 --> 00:35:00.860
+<v Charles Caskey>like be able to like pump up with ultrasound.
+
+790
+00:35:00.880 --> 00:35:01.380
+<v Charles Caskey>[chuckles]
+
+791
+00:35:01.200 --> 00:35:05.880
+<v Keith Murphy>I, I think you just described the future where devices can stimulate many areas
+
+792
+00:35:05.960 --> 00:35:07.260
+<v Keith Murphy>and do all of those things.
+
+793
+00:35:07.940 --> 00:35:11.500
+<v Charles Caskey>That's, yeah. I mean, I, I've, I've heard this future, this future painted, and
+
+794
+00:35:11.560 --> 00:35:14.080
+<v Charles Caskey>I, and I, I want, I want to live to see it and contribute
+
+795
+00:35:14.140 --> 00:35:15.160
+<v Charles Caskey>to it. Yeah. I, I like-
+
+796
+00:35:15.160 --> 00:35:16.180
+<v Keith Murphy>I hope you live to see it.
+
+797
+00:35:16.960 --> 00:35:20.360
+<v Charles Caskey>Well, yeah. Well, you know, some, some things take a long time.
+
+798
+00:35:20.400 --> 00:35:20.900
+<v Charles Caskey>Like-
+
+799
+00:35:20.540 --> 00:35:21.220
+<v Keith Murphy>You okay, Charles?
+
+800
+00:35:21.220 --> 00:35:21.720
+<v Charles Caskey>... I don't know, cathode, cathode ray tube.
+
+801
+00:35:21.680 --> 00:35:22.780
+<v Keith Murphy>You look pale, dude.
+
+802
+00:35:23.580 --> 00:35:24.480
+<v Charles Caskey>What's up? It could take-
+
+803
+00:35:24.540 --> 00:35:25.040
+<v Keith Murphy>You look pale
+
+804
+00:35:24.840 --> 00:35:28.240
+<v Charles Caskey>... 50 years. [laughing] Like, yeah, I'm gonna try.
+
+805
+00:35:28.500 --> 00:35:30.240
+<v Keith Murphy>He looks good. You don't have this on video.
+
+806
+00:35:30.340 --> 00:35:32.380
+<v Keith Murphy>Charles is doing great. Don't worry about it.
+
+807
+00:35:32.400 --> 00:35:32.900
+<v Keith Murphy>[laughing]
+
+808
+00:35:33.400 --> 00:35:34.700
+<v Charles Caskey>Okay. I guess that made it sound like-
+
+809
+00:35:34.740 --> 00:35:35.420
+<v Keith Murphy>He's not gonna die on you.
+
+810
+00:35:36.200 --> 00:35:38.960
+<v Charles Caskey>I, I guess I was not sure how far away this future was.
+
+811
+00:35:39.040 --> 00:35:41.840
+<v Charles Caskey>I do hope that... Yeah, uh, that's not a statement on my health.
+
+812
+00:35:41.860 --> 00:35:44.600
+<v Charles Caskey>[chuckles] Like it's, um-
+
+813
+00:35:44.640 --> 00:35:48.660
+<v Elsa Fouragnan>So yeah, I was saying, you know, those moments where we're talking about thinking
+
+814
+00:35:48.700 --> 00:35:51.400
+<v Elsa Fouragnan>about acoustic simulation a lot, thinking about the skull problem.
+
+815
+00:35:51.920 --> 00:35:56.260
+<v Elsa Fouragnan>Then we do our first paper on resting state, which is quite simple, right?
+
+816
+00:35:56.360 --> 00:36:01.760
+<v Elsa Fouragnan>Participants go into the scanner after receiving ultrasound, and we look at neurochemistry, GABA
+
+817
+00:36:01.800 --> 00:36:05.700
+<v Elsa Fouragnan>concentration, and connectivity fingerprint. People are doing nothing in the scanner.
+
+818
+00:36:06.340 --> 00:36:10.020
+<v Elsa Fouragnan>And then we move to like what I found it the most exciting.
+
+819
+00:36:10.660 --> 00:36:16.280
+<v Elsa Fouragnan>Um, can we actually change a brain circuit that's extremely well known, uh, that
+
+820
+00:36:16.340 --> 00:36:21.960
+<v Elsa Fouragnan>is the core of so many mental health problem and adaptive decisions and so
+
+821
+00:36:22.020 --> 00:36:27.220
+<v Elsa Fouragnan>on? There's like the, the one brain network that's responsible for so many things,
+
+822
+00:36:27.260 --> 00:36:30.320
+<v Elsa Fouragnan>and we know so well its neural computation.
+
+823
+00:36:30.920 --> 00:36:33.720
+<v Elsa Fouragnan>I can talk about what I mean by neural computation a bit later, but...
+
+824
+00:36:34.220 --> 00:36:39.560
+<v Elsa Fouragnan>So we have this beautiful, you know, model of a circuit, but it's so
+
+825
+00:36:39.660 --> 00:36:43.840
+<v Elsa Fouragnan>deep that never eb- anybody had stimulated that in humans.
+
+826
+00:36:44.720 --> 00:36:46.260
+<v Elsa Fouragnan>Um, and it all comes together.
+
+827
+00:36:46.460 --> 00:36:51.100
+<v Elsa Fouragnan>So that's like my whole PhD was on reward circuitry and reward computation.
+
+828
+00:36:52.000 --> 00:36:57.140
+<v Elsa Fouragnan>And now we have the ability to actually, you know, perturb this brain region-
+
+829
+00:36:57.380 --> 00:37:01.200
+<v Elsa Fouragnan>Yeah ... that is very deep in the brain and see if we change
+
+830
+00:37:01.540 --> 00:37:07.270
+<v Elsa Fouragnan>a high-level cognitive process To me, that's almost like the best work I've ever
+
+831
+00:37:07.350 --> 00:37:09.430
+<v Elsa Fouragnan>done, and I think it's the best work I've ever done.
+
+832
+00:37:09.930 --> 00:37:14.990
+<v Elsa Fouragnan>Great. And we do it with, in a very controlled fashion, knowing exactly how
+
+833
+00:37:15.030 --> 00:37:19.390
+<v Elsa Fouragnan>this brain region is supposed to, you know, respond to cues in the world
+
+834
+00:37:19.510 --> 00:37:22.430
+<v Elsa Fouragnan>and, yeah, and we saw amazing results.
+
+835
+00:37:22.830 --> 00:37:27.050
+<v Keith Murphy>The decision is, like, reward-based or it has to do with being addicted or
+
+836
+00:37:27.830 --> 00:37:28.330
+<v Keith Murphy>how does it relate to addiction?
+
+837
+00:37:28.170 --> 00:37:31.050
+<v Elsa Fouragnan>So it's a technical-- It's-- You can call it a gambling task if you
+
+838
+00:37:31.110 --> 00:37:32.870
+<v Elsa Fouragnan>want to in, in simple term.
+
+839
+00:37:32.990 --> 00:37:34.330
+<v Elsa Fouragnan>Let-let's call it that. It's the- Yeah.
+
+840
+00:37:34.990 --> 00:37:36.190
+<v Elsa Fouragnan>We can call it a gambling task.
+
+841
+00:37:36.230 --> 00:37:39.810
+<v Elsa Fouragnan>But- [laughs] ... in, uh, in, in the jargon we call it a probabilistic
+
+842
+00:37:39.870 --> 00:37:41.150
+<v Elsa Fouragnan>learning task. So, um-
+
+843
+00:37:41.170 --> 00:37:42.330
+<v Keith Murphy>I, I like gambling task
+
+844
+00:37:42.330 --> 00:37:44.530
+<v Elsa Fouragnan>... gambling task. So it's just a, a task where-
+
+845
+00:37:44.570 --> 00:37:48.850
+<v Keith Murphy>You have these guys in the scanner, they're rolling dice, they're throwing cash on
+
+846
+00:37:48.870 --> 00:37:49.370
+<v Keith Murphy>the table.
+
+847
+00:37:49.410 --> 00:37:52.210
+<v Elsa Fouragnan>Well, they have-- It's like you have gambles and you just have to, to
+
+848
+00:37:52.250 --> 00:37:55.930
+<v Elsa Fouragnan>pick one gamble or another one and, and you have a, a probability of
+
+849
+00:37:55.990 --> 00:37:57.850
+<v Elsa Fouragnan>getting a reward out of it.
+
+850
+00:37:57.850 --> 00:38:02.650
+<v Elsa Fouragnan>Yeah. And then you learn that through, uh, reinforcement, so you just go trial
+
+851
+00:38:02.670 --> 00:38:04.550
+<v Elsa Fouragnan>and error and, and you learn from that.
+
+852
+00:38:04.950 --> 00:38:07.390
+<v Elsa Fouragnan>And these tasks have been studied forever.
+
+853
+00:38:07.990 --> 00:38:14.010
+<v Elsa Fouragnan>Uh, they are extremely robust to the differences across species, so even a small
+
+854
+00:38:14.090 --> 00:38:17.610
+<v Elsa Fouragnan>animal can do those type of task up to, you know, humans.
+
+855
+00:38:17.690 --> 00:38:22.990
+<v Elsa Fouragnan>[chuckles] Mm-hmm. Yeah. And, um, and they are very, very powerful to actually take
+
+856
+00:38:23.090 --> 00:38:27.890
+<v Elsa Fouragnan>all of those dopaminergic signaling and, and, and basically lightening them up.
+
+857
+00:38:27.910 --> 00:38:29.310
+<v Elsa Fouragnan>[chuckles] So you-
+
+858
+00:38:29.970 --> 00:38:34.290
+<v Charles Caskey>So for people listening that maybe haven't seen this before, can you describe what,
+
+859
+00:38:34.710 --> 00:38:38.030
+<v Charles Caskey>uh, what is a-- w- like, kind of what does the participant see during
+
+860
+00:38:38.070 --> 00:38:41.430
+<v Charles Caskey>one of these and, like, what, what's a reward for, for a human?
+
+861
+00:38:41.470 --> 00:38:45.550
+<v Charles Caskey>Are you getting, like, $5? Are you getting tokens and you win the game?
+
+862
+00:38:45.630 --> 00:38:47.870
+<v Charles Caskey>Or you, you know- Yeah. How does-- Can you just talk a little bit
+
+863
+00:38:47.890 --> 00:38:50.330
+<v Charles Caskey>about like what is, what is actually going on for the s- for the
+
+864
+00:38:50.370 --> 00:38:51.030
+<v Charles Caskey>subject in this?
+
+865
+00:38:51.870 --> 00:38:55.210
+<v Elsa Fouragnan>It's, it's very interesting. So again, this decades and decades of work, right?
+
+866
+00:38:55.330 --> 00:39:00.170
+<v Elsa Fouragnan>But humans have evolved now to consider money as almost primary reward.
+
+867
+00:39:00.530 --> 00:39:06.870
+<v Elsa Fouragnan>So primary reward is juice, food, sex, uh, things that are
+
+868
+00:39:06.910 --> 00:39:08.150
+<v Elsa Fouragnan>supposed to be, you know, important.
+
+869
+00:39:08.170 --> 00:39:09.770
+<v Charles Caskey>We have a natural inclination to seek out.
+
+870
+00:39:09.790 --> 00:39:11.550
+<v Keith Murphy>Also survival. We love juice and we love food.
+
+871
+00:39:11.570 --> 00:39:12.870
+<v Keith Murphy>[laughs] We love sex.
+
+872
+00:39:13.490 --> 00:39:14.510
+<v Charles Caskey>Yeah. Yeah. But juice above all.
+
+873
+00:39:14.650 --> 00:39:16.730
+<v Charles Caskey>[laughs] But survival. Deep, deep-seated urges.
+
+874
+00:39:16.810 --> 00:39:17.550
+<v Charles Caskey>Yeah, yeah. [laughs]
+
+875
+00:39:17.630 --> 00:39:21.410
+<v Elsa Fouragnan>Love the juice. And money's supposed, money's supposed to be a secondary reward, uh,
+
+876
+00:39:21.550 --> 00:39:23.610
+<v Elsa Fouragnan>but the brain now does not make the difference.
+
+877
+00:39:23.690 --> 00:39:27.510
+<v Elsa Fouragnan>So you give money to participants, it-- they think it's juice, basically.
+
+878
+00:39:27.710 --> 00:39:28.270
+<v Elsa Fouragnan>[laughs]
+
+879
+00:39:28.310 --> 00:39:31.450
+<v Keith Murphy>Do you give-- I thought monkeys were getting juice, but you're giving humans the
+
+880
+00:39:31.510 --> 00:39:32.010
+<v Keith Murphy>juice?
+
+881
+00:39:32.830 --> 00:39:36.590
+<v Elsa Fouragnan>So there was a study done by, uh, an old colleague of mine, Guillaume
+
+882
+00:39:36.670 --> 00:39:41.790
+<v Elsa Fouragnan>Sescousse, where he tried to look at differences between sex, which was pictures, um,
+
+883
+00:39:42.950 --> 00:39:48.130
+<v Elsa Fouragnan>uh, juice, uh, sugary juice, and money, and he found no difference basically.
+
+884
+00:39:48.170 --> 00:39:48.670
+<v Elsa Fouragnan>Really?
+
+885
+00:39:49.170 --> 00:39:53.870
+<v Keith Murphy>Wow. Yeah. That's weird. [laughs] I don't know if I like juice that much.
+
+886
+00:39:53.910 --> 00:39:55.390
+<v Keith Murphy>[laughs]
+
+887
+00:39:55.430 --> 00:39:58.010
+<v Elsa Fouragnan>Well, if you're thirsty, I can tell you that you- Yeah, yeah ...
+
+888
+00:39:58.030 --> 00:39:58.790
+<v Elsa Fouragnan>you will like juice.
+
+889
+00:39:58.830 --> 00:40:01.910
+<v Charles Caskey>You-- Yeah, yeah, yeah. It's just you're, you're satiated all the time, so you
+
+890
+00:40:01.930 --> 00:40:02.430
+<v Charles Caskey>get-- Yeah, you know.
+
+891
+00:40:01.930 --> 00:40:04.610
+<v Keith Murphy>Please come to the session parched, bone dry.
+
+892
+00:40:04.630 --> 00:40:08.330
+<v Charles Caskey>[laughs] Yeah. [laughs] I mean, that's wh- that's, that's the norm in, in behaving
+
+893
+00:40:08.410 --> 00:40:12.010
+<v Charles Caskey>studies is there will be a period of, uh, where you don't have a
+
+894
+00:40:12.050 --> 00:40:13.930
+<v Charles Caskey>fasting period, right? And then- You try them out.
+
+895
+00:40:13.950 --> 00:40:15.210
+<v Charles Caskey>Yeah, and then you're really motivated.
+
+896
+00:40:15.250 --> 00:40:16.990
+<v Keith Murphy>It, it tunes in. Put them in a sauna before the study.
+
+897
+00:40:18.190 --> 00:40:21.410
+<v Charles Caskey>Yeah. Or yes, prime something. So, so these people are playing-- Is it a
+
+898
+00:40:21.430 --> 00:40:23.010
+<v Charles Caskey>video game that they're playing in this study?
+
+899
+00:40:23.170 --> 00:40:25.790
+<v Elsa Fouragnan>Yeah. It's, it's sort of a, like, a, a little game.
+
+900
+00:40:26.110 --> 00:40:29.870
+<v Elsa Fouragnan>Um, we just ask them, "Try to make as much money as possible."
+
+901
+00:40:29.950 --> 00:40:33.170
+<v Elsa Fouragnan>There will be different gambles. You have to choose between the different gambles, and
+
+902
+00:40:33.190 --> 00:40:36.370
+<v Elsa Fouragnan>they just learn. They learn by trial and error which gamble is the best.
+
+903
+00:40:37.090 --> 00:40:42.110
+<v Elsa Fouragnan>And, and because humans are highly motivated to get money, they are excellent at
+
+904
+00:40:42.150 --> 00:40:43.490
+<v Elsa Fouragnan>tasks like this. Like- Yeah ...
+
+905
+00:40:43.510 --> 00:40:47.750
+<v Elsa Fouragnan>you don't need to be, you know, super smart to, to do those tasks.
+
+906
+00:40:47.810 --> 00:40:52.370
+<v Elsa Fouragnan>They are extremely simple. It's just a matter of basically learning which, which cue's
+
+907
+00:40:52.410 --> 00:40:58.190
+<v Elsa Fouragnan>the best. Um, and every time basically you make a decision, which is simply
+
+908
+00:40:58.230 --> 00:41:03.130
+<v Elsa Fouragnan>clicking a button that's, you know, representing a cue on the screen, you either
+
+909
+00:41:03.170 --> 00:41:07.090
+<v Elsa Fouragnan>get a reward on the screen which tells you how much money you've made
+
+910
+00:41:07.350 --> 00:41:10.090
+<v Elsa Fouragnan>or not, like a little sad face or...
+
+911
+00:41:10.230 --> 00:41:16.250
+<v Elsa Fouragnan>[chuckles] Yeah. And, and that is enough to completely perturb your dopaminergic circuit
+
+912
+00:41:16.330 --> 00:41:19.410
+<v Elsa Fouragnan>basically. So you're-- Every time you're gonna see the cue, you're gonna have a
+
+913
+00:41:19.470 --> 00:41:22.610
+<v Elsa Fouragnan>little bit of dopamine surge, and every time you receive a reward, you are
+
+914
+00:41:22.650 --> 00:41:27.190
+<v Elsa Fouragnan>gonna have dopaminergic surge, and there is a c- a computation that happens between
+
+915
+00:41:27.230 --> 00:41:32.750
+<v Elsa Fouragnan>the two. So, uh, after a while, the, the dopaminergic surge only happens at
+
+916
+00:41:32.790 --> 00:41:37.650
+<v Elsa Fouragnan>the time of the cue when you've perfectly learned, and this, uh, thing is
+
+917
+00:41:37.690 --> 00:41:40.510
+<v Elsa Fouragnan>called a prediction error at the time of feedback.
+
+918
+00:41:40.630 --> 00:41:46.770
+<v Elsa Fouragnan>So feedback is al- one of the most well-understood computation
+
+919
+00:41:46.810 --> 00:41:50.190
+<v Elsa Fouragnan>of the brain, and I love to use the word computation because it properly
+
+920
+00:41:50.270 --> 00:41:56.390
+<v Elsa Fouragnan>is a mathematical formula there, where at the beginning of a learning journey, you
+
+921
+00:41:56.430 --> 00:42:00.870
+<v Elsa Fouragnan>don't really know what's gonna happen after you click a button and you get
+
+922
+00:42:00.930 --> 00:42:05.010
+<v Elsa Fouragnan>a gamble. Mm-hmm. But after a while, because you've selected it multiple, multiple times,
+
+923
+00:42:05.170 --> 00:42:09.610
+<v Elsa Fouragnan>you know for sure this gamble is gonna give me a reward certainly, right?
+
+924
+00:42:10.310 --> 00:42:14.790
+<v Elsa Fouragnan>And the brain there is gonna signal to you how much, how, how much
+
+925
+00:42:14.850 --> 00:42:17.770
+<v Elsa Fouragnan>you're expecting to get the reward when you see the cue.
+
+926
+00:42:17.870 --> 00:42:19.790
+<v Elsa Fouragnan>Mm-hmm. And it's a beautiful transfer.
+
+927
+00:42:20.190 --> 00:42:22.930
+<v Elsa Fouragnan>So at the beginning of the task when you know nothing, you see this
+
+928
+00:42:23.430 --> 00:42:27.830
+<v Elsa Fouragnan>signal at the time of the reward and it transfer back to the moment
+
+929
+00:42:27.910 --> 00:42:29.830
+<v Elsa Fouragnan>of the cue after a while.
+
+930
+00:42:30.350 --> 00:42:36.130
+<v Elsa Fouragnan>And it's- Cool. Yeah ... absolutely, you know, super well-known, understood mechanisms, and you
+
+931
+00:42:36.170 --> 00:42:41.210
+<v Elsa Fouragnan>can observe that in humans by just looking at those signals, um, in anticipatory
+
+932
+00:42:41.330 --> 00:42:42.790
+<v Elsa Fouragnan>phase and in the reward phase.
+
+933
+00:42:43.430 --> 00:42:44.730
+<v Elsa Fouragnan>It's, it's crystal clear.
+
+934
+00:42:45.230 --> 00:42:48.050
+<v Keith Murphy>But so far- Are we getting, are we getting reward before we get the
+
+935
+00:42:48.110 --> 00:42:49.850
+<v Keith Murphy>juice in anticipation- Yeah. So- ...
+
+936
+00:42:49.870 --> 00:42:51.310
+<v Keith Murphy>or, or after we enjoy the juice?
+
+937
+00:42:51.470 --> 00:42:51.970
+<v Keith Murphy>Which one?
+
+938
+00:42:51.970 --> 00:42:56.290
+<v Elsa Fouragnan>So y- if you think about addiction and, and all the problem of, um,
+
+939
+00:42:56.530 --> 00:43:01.570
+<v Elsa Fouragnan>of compulsivity is that actually you get all those dopaminergic surge prior to even
+
+940
+00:43:01.610 --> 00:43:05.570
+<v Elsa Fouragnan>getting the drug. It's when you know you're gonna get the drug that you
+
+941
+00:43:05.610 --> 00:43:07.730
+<v Elsa Fouragnan>have all this, um, this energy.
+
+942
+00:43:07.730 --> 00:43:11.070
+<v Charles Caskey>It starts to flood your brain with joy anyway or the, or I guess
+
+943
+00:43:11.190 --> 00:43:13.450
+<v Charles Caskey>I don't know if joy is the right word, but yeah, you get-- So
+
+944
+00:43:13.490 --> 00:43:17.610
+<v Charles Caskey>you're saying that- The feeling of the reward, this is the transfer you're talking
+
+945
+00:43:17.650 --> 00:43:21.330
+<v Charles Caskey>about, goes earlier in time to where, I don't know, if you're playing blackjack
+
+946
+00:43:21.350 --> 00:43:25.070
+<v Charles Caskey>and you see that you get some good cards, you get excited in that
+
+947
+00:43:25.130 --> 00:43:27.390
+<v Charles Caskey>moment whether you've won the round or not.
+
+948
+00:43:27.610 --> 00:43:30.410
+<v Charles Caskey>Uh, you're, you know, you're like, "Oh, I'm pretty sure a payout's gonna come.
+
+949
+00:43:30.550 --> 00:43:32.910
+<v Charles Caskey>I'm, like, excited." [laughs]
+
+950
+00:43:32.970 --> 00:43:36.570
+<v Elsa Fouragnan>Exactly, exactly. It's this anticipation that feels good.
+
+951
+00:43:36.970 --> 00:43:37.470
+<v Charles Caskey>Yeah.
+
+952
+00:43:37.010 --> 00:43:40.590
+<v Elsa Fouragnan>It's not even getting the stuff that feels good anymore after a while.
+
+953
+00:43:40.610 --> 00:43:43.950
+<v Charles Caskey>Interesting. And so you guys then modulated this, it sounds like.
+
+954
+00:43:44.010 --> 00:43:45.850
+<v Charles Caskey>This was the, one of the goals of the paper.
+
+955
+00:43:46.250 --> 00:43:50.330
+<v Keith Murphy>Charles, if you could have any kind of juice, what juice would you pick
+
+956
+00:43:50.370 --> 00:43:50.870
+<v Keith Murphy>and why?
+
+957
+00:43:51.650 --> 00:43:52.970
+<v Charles Caskey>Oh, probably pineapple.
+
+958
+00:43:53.030 --> 00:43:53.530
+<v Elsa Fouragnan>No.
+
+959
+00:43:53.570 --> 00:43:54.950
+<v Keith Murphy>Ew, Charles.
+
+960
+00:43:54.950 --> 00:43:55.450
+<v Charles Caskey>What? Come on. Pineapple's-
+
+961
+00:43:55.490 --> 00:43:56.970
+<v Keith Murphy>What the hell? What the hell is wrong with you?
+
+962
+00:43:57.650 --> 00:43:59.270
+<v Charles Caskey>Have you ever been to a pineapple field?
+
+963
+00:43:59.550 --> 00:44:01.450
+<v Keith Murphy>Don't join Elsa's study. She doesn't want you.
+
+964
+00:44:01.530 --> 00:44:02.810
+<v Keith Murphy>[laughs]
+
+965
+00:44:02.930 --> 00:44:04.870
+<v Elsa Fouragnan>I'm French. Only wine. [laughs]
+
+966
+00:44:04.950 --> 00:44:08.250
+<v Charles Caskey>Yeah, only wine. That's right.
+
+967
+00:44:08.250 --> 00:44:09.330
+<v Keith Murphy>Pineapple guy over here.
+
+968
+00:44:09.330 --> 00:44:10.630
+<v Charles Caskey>Grape juice is good, too. Yeah, no, no.
+
+969
+00:44:10.670 --> 00:44:14.250
+<v Keith Murphy>Okay. So where were we? [laughs]
+
+970
+00:44:14.350 --> 00:44:15.310
+<v Elsa Fouragnan>Um, no, so-
+
+971
+00:44:15.330 --> 00:44:16.150
+<v Keith Murphy>I was doing... Run, run, run, run, run, run.
+
+972
+00:44:17.250 --> 00:44:20.970
+<v Elsa Fouragnan>Okay. Back to the reward computation of the brain that we know extremely well.
+
+973
+00:44:21.750 --> 00:44:27.010
+<v Elsa Fouragnan>In animal study, it's been perturbed, like, physically, you know, with electrodes and stuff,
+
+974
+00:44:27.090 --> 00:44:30.530
+<v Elsa Fouragnan>and they can see how you can perturb completely a reward computation when you
+
+975
+00:44:30.550 --> 00:44:35.690
+<v Elsa Fouragnan>do this. In humans, we have tons and tons of fMRI data showing that
+
+976
+00:44:36.170 --> 00:44:42.510
+<v Elsa Fouragnan>correlation between brain activity and prediction error, but no causal ever,
+
+977
+00:44:42.890 --> 00:44:48.230
+<v Elsa Fouragnan>uh, causal perturbation. So it's not, like, a groundbreaking idea to think, well, let's
+
+978
+00:44:48.270 --> 00:44:52.930
+<v Elsa Fouragnan>take this amazing reward computation that we know so, so very well and take
+
+979
+00:44:52.970 --> 00:44:55.230
+<v Elsa Fouragnan>this method that allows us to go deep in the brain.
+
+980
+00:44:55.310 --> 00:44:57.370
+<v Elsa Fouragnan>But to me, it just made sense.
+
+981
+00:44:57.430 --> 00:44:58.990
+<v Elsa Fouragnan>It was, like, the first step, right?
+
+982
+00:44:59.050 --> 00:45:02.470
+<v Elsa Fouragnan>Let's do s- let's do something that we know extremely well and see if
+
+983
+00:45:02.530 --> 00:45:04.810
+<v Elsa Fouragnan>it works, because that would convince me.
+
+984
+00:45:05.470 --> 00:45:05.970
+<v Charles Caskey>Yeah.
+
+985
+00:45:06.470 --> 00:45:10.070
+<v Elsa Fouragnan>I-- Rather than just going for actually, um, a signal in the brain that's
+
+986
+00:45:10.110 --> 00:45:13.990
+<v Elsa Fouragnan>not super well understood and that's not linked to a cognitive process that well.
+
+987
+00:45:14.590 --> 00:45:16.090
+<v Elsa Fouragnan>Here we have that, right? We have this-
+
+988
+00:45:16.130 --> 00:45:16.630
+<v Charles Caskey>Yeah
+
+989
+00:45:16.950 --> 00:45:21.110
+<v Elsa Fouragnan>... very good match. Let's now see if by te- perturbing this brain region
+
+990
+00:45:21.170 --> 00:45:25.250
+<v Elsa Fouragnan>with ultrasound, we, we, we see a change in this process and, and it's
+
+991
+00:45:25.290 --> 00:45:28.670
+<v Elsa Fouragnan>exactly what we observed, and we observed it across multiple scales.
+
+992
+00:45:28.750 --> 00:45:33.150
+<v Elsa Fouragnan>So behavior, the computations of the brain that I was telling you about, you
+
+993
+00:45:33.190 --> 00:45:36.550
+<v Elsa Fouragnan>can also do it with a computational model, and we saw how it was
+
+994
+00:45:36.610 --> 00:45:40.090
+<v Elsa Fouragnan>perturbed by the ultrasound, and then we had the brain signal.
+
+995
+00:45:40.850 --> 00:45:42.730
+<v Elsa Fouragnan>It's just, it's just so beautiful.
+
+996
+00:45:42.750 --> 00:45:43.250
+<v Elsa Fouragnan>[laughs]
+
+997
+00:45:43.210 --> 00:45:47.070
+<v Keith Murphy>It has so much. I mean, you're gonna talk about this, but to say
+
+998
+00:45:47.130 --> 00:45:53.010
+<v Keith Murphy>that you could actually finely tune that reward signaling in the brain has massive
+
+999
+00:45:53.070 --> 00:45:54.430
+<v Keith Murphy>applications for the world.
+
+1000
+00:45:56.030 --> 00:46:00.470
+<v Elsa Fouragnan>It is, and I, I'm, I'm someone who firmly believe in transdiagnostic traits.
+
+1001
+00:46:00.690 --> 00:46:04.250
+<v Elsa Fouragnan>So if you think about mental health, we usually tend to classify them as,
+
+1002
+00:46:04.370 --> 00:46:05.650
+<v Elsa Fouragnan>oh, well, you have addiction here.
+
+1003
+00:46:05.730 --> 00:46:08.190
+<v Elsa Fouragnan>We have ADHD here. We have OCD.
+
+1004
+00:46:08.450 --> 00:46:10.330
+<v Elsa Fouragnan>We have eating disorder. But-
+
+1005
+00:46:10.510 --> 00:46:11.890
+<v Keith Murphy>Can OCD-- Is, is OCD reward?
+
+1006
+00:46:12.930 --> 00:46:15.750
+<v Elsa Fouragnan>Well, OCD is a problem of decision-making and learning, right?
+
+1007
+00:46:15.910 --> 00:46:18.690
+<v Elsa Fouragnan>So 100% linked to that brain region.
+
+1008
+00:46:19.490 --> 00:46:25.610
+<v Elsa Fouragnan>Um, and nucleus accumbens is a DBS target for so many disorders, for eating
+
+1009
+00:46:25.670 --> 00:46:31.050
+<v Elsa Fouragnan>disorder. OCD had been done. Addiction obviously were the primary, you know, candidate.
+
+1010
+00:46:31.370 --> 00:46:35.850
+<v Elsa Fouragnan>But again, what I was saying about transdiagnostic traits is if you're thinking about
+
+1011
+00:46:35.910 --> 00:46:41.850
+<v Elsa Fouragnan>problems of compulsivity, that cut across so many mental health problem.
+
+1012
+00:46:42.210 --> 00:46:42.710
+<v Keith Murphy>Yeah.
+
+1013
+00:46:42.550 --> 00:46:46.270
+<v Elsa Fouragnan>So in fact, if we are thinking more neural circuits and think, well, we
+
+1014
+00:46:46.330 --> 00:46:50.970
+<v Elsa Fouragnan>have this tool that can perturb compulsivity in one way or another, that will
+
+1015
+00:46:51.030 --> 00:46:55.430
+<v Elsa Fouragnan>have impact for many, many, um, disorders of the brain.
+
+1016
+00:46:55.830 --> 00:46:58.430
+<v Keith Murphy>What about Charles's pineapple addiction? Can you help him?
+
+1017
+00:46:58.430 --> 00:47:01.870
+<v Keith Murphy>[laughs] Charles?
+
+1018
+00:47:02.430 --> 00:47:03.570
+<v Elsa Fouragnan>I can help you, Charles.
+
+1019
+00:47:03.890 --> 00:47:05.850
+<v Keith Murphy>Maybe that's, maybe that's [laughs] maybe that's where we start.
+
+1020
+00:47:06.270 --> 00:47:07.990
+<v Keith Murphy>I think that's probably the most important-
+
+1021
+00:47:08.150 --> 00:47:08.650
+<v Charles Caskey>She already gave me a solution.
+
+1022
+00:47:08.470 --> 00:47:11.610
+<v Charles Caskey>Wine. French wine. We're [laughs] It's good.
+
+1023
+00:47:11.650 --> 00:47:13.470
+<v Keith Murphy>There are important problems in this day and age.
+
+1024
+00:47:13.730 --> 00:47:16.750
+<v Keith Murphy>Charles's pineapple addiction, for me, is very important.
+
+1025
+00:47:16.770 --> 00:47:18.070
+<v Keith Murphy>[laughs]
+
+1026
+00:47:18.730 --> 00:47:19.230
+<v Charles Caskey>Champagne problems.
+
+1027
+00:47:19.230 --> 00:47:20.150
+<v Keith Murphy>We couldn't be doing this podcast.
+
+1028
+00:47:20.270 --> 00:47:24.710
+<v Keith Murphy>[laughs] That's wild. So, uh, okay.
+
+1029
+00:47:24.810 --> 00:47:28.670
+<v Keith Murphy>So you have this framework that, you know, you're saying it's, it's, uh, it's
+
+1030
+00:47:28.770 --> 00:47:32.050
+<v Keith Murphy>obvious. I didn't, I don't know that that's even obvious to, to say that
+
+1031
+00:47:32.070 --> 00:47:34.150
+<v Keith Murphy>we can precisely intervene in the brain.
+
+1032
+00:47:34.150 --> 00:47:34.950
+<v Keith Murphy>And this-
+
+1033
+00:47:34.950 --> 00:47:36.790
+<v Elsa Fouragnan>It was one of the comment-- One of the comment of my reviewer was
+
+1034
+00:47:36.830 --> 00:47:38.830
+<v Elsa Fouragnan>like, "What's groundbreaking about this?"
+
+1035
+00:47:39.190 --> 00:47:39.690
+<v Charles Caskey>Yeah.
+
+1036
+00:47:39.290 --> 00:47:39.890
+<v Elsa Fouragnan>I was like, "What?"
+
+1037
+00:47:40.050 --> 00:47:41.630
+<v Keith Murphy>Well, nobody's ever done it for starters.
+
+1038
+00:47:41.650 --> 00:47:44.210
+<v Charles Caskey>I, I, I wanna comment, I wanna comment on that, that c- that component
+
+1039
+00:47:44.290 --> 00:47:48.230
+<v Charles Caskey>actually. I, 'cause I think it's great that you used an established circuit, didn't
+
+1040
+00:47:48.270 --> 00:47:51.710
+<v Charles Caskey>try to show something new about the circuit, so, but had a lot of
+
+1041
+00:47:51.730 --> 00:47:56.090
+<v Charles Caskey>data. Because this is an urge I find that can be hard for neuroscientists
+
+1042
+00:47:56.130 --> 00:48:02.810
+<v Charles Caskey>to resist, is to [laughs] like, uh, neuroscientists and, uh, cognitive neuroscientists, behavioral, are
+
+1043
+00:48:02.870 --> 00:48:06.670
+<v Charles Caskey>always looking to find the next thing in a network or, like, another part.
+
+1044
+00:48:07.070 --> 00:48:12.110
+<v Charles Caskey>But the idea of using a really well-established network, tons of data as the
+
+1045
+00:48:12.150 --> 00:48:15.910
+<v Charles Caskey>basis, and then I, I think that it's-- I just think it was a,
+
+1046
+00:48:16.030 --> 00:48:17.650
+<v Charles Caskey>yeah, it's a great, great decision.
+
+1047
+00:48:18.270 --> 00:48:22.230
+<v Charles Caskey>Uh, rather than trying to say, "Well, we're gonna look at this new node
+
+1048
+00:48:22.390 --> 00:48:25.670
+<v Charles Caskey>of the network and see how it fits in with this new technology," to
+
+1049
+00:48:25.730 --> 00:48:30.310
+<v Charles Caskey>me it feels like adding two variables to something we already barely know stuff.
+
+1050
+00:48:30.390 --> 00:48:35.250
+<v Charles Caskey>So to avoid doing that I think is both strategic and elegant experimental design.
+
+1051
+00:48:35.310 --> 00:48:35.810
+<v Elsa Fouragnan>Thanks, Charles.
+
+1052
+00:48:35.330 --> 00:48:36.270
+<v Keith Murphy>[laughs] That's a good reviewer.
+
+1053
+00:48:36.290 --> 00:48:36.790
+<v Elsa Fouragnan>Thank you.
+
+1054
+00:48:37.070 --> 00:48:37.610
+<v Keith Murphy>A+.
+
+1055
+00:48:38.230 --> 00:48:39.970
+<v Elsa Fouragnan>We forgive you for your pineapple...
+
+1056
+00:48:40.270 --> 00:48:40.770
+<v Elsa Fouragnan>[laughs]
+
+1057
+00:48:40.510 --> 00:48:44.210
+<v Keith Murphy>Yeah. You're forgiven, Charles. You, you pineapple away over there.
+
+1058
+00:48:44.230 --> 00:48:45.410
+<v Keith Murphy>[laughs]
+
+1059
+00:48:45.750 --> 00:48:47.010
+<v Charles Caskey>Sweet talk my way out of it.
+
+1060
+00:48:48.390 --> 00:48:50.250
+<v Elsa Fouragnan>I, I very, very much agree with you.
+
+1061
+00:48:50.430 --> 00:48:55.750
+<v Elsa Fouragnan>I think from my, my point of view was I wanna be convinced.
+
+1062
+00:48:55.990 --> 00:48:59.690
+<v Elsa Fouragnan>There's, there's no better way for me to be convinced than to, you know,
+
+1063
+00:48:59.790 --> 00:49:03.430
+<v Elsa Fouragnan>perturb the, the circuit that I've been working on for 15 years now that
+
+1064
+00:49:03.510 --> 00:49:05.930
+<v Elsa Fouragnan>I know so very well, and there is so much evidence.
+
+1065
+00:49:06.350 --> 00:49:09.650
+<v Elsa Fouragnan>But obviously the next step, and Keith and I talked about it in, uh,
+
+1066
+00:49:09.790 --> 00:49:13.450
+<v Elsa Fouragnan>in the paper that we wrote, uh, in PLOS Biology, is of course there's
+
+1067
+00:49:13.490 --> 00:49:15.370
+<v Elsa Fouragnan>so very little we know about the brain.
+
+1068
+00:49:15.590 --> 00:49:17.290
+<v Elsa Fouragnan>The brain is absolutely a mystery.
+
+1069
+00:49:17.830 --> 00:49:21.790
+<v Elsa Fouragnan>So we could use TUS as a search tool and not just as a
+
+1070
+00:49:21.910 --> 00:49:26.530
+<v Elsa Fouragnan>rescue tool. I think- Obviously, I understand why a lot of people want to
+
+1071
+00:49:26.590 --> 00:49:29.810
+<v Elsa Fouragnan>use it in a therapeutic fashion because it could be completely groundbreaking.
+
+1072
+00:49:29.850 --> 00:49:31.330
+<v Elsa Fouragnan>It could help millions of people.
+
+1073
+00:49:31.890 --> 00:49:36.330
+<v Elsa Fouragnan>But as a cognitive neuroscientist, I know that I will use this tool to
+
+1074
+00:49:36.370 --> 00:49:40.610
+<v Elsa Fouragnan>better understand the brain, right? Because now I can go and perturb those circuits
+
+1075
+00:49:40.710 --> 00:49:45.250
+<v Elsa Fouragnan>deep in the brain or even do multi-site intervention in order to better refine
+
+1076
+00:49:45.290 --> 00:49:46.870
+<v Elsa Fouragnan>my model about how it works.
+
+1077
+00:49:47.690 --> 00:49:48.190
+<v Elsa Fouragnan>So-
+
+1078
+00:49:49.050 --> 00:49:50.250
+<v Charles Caskey>Yeah. It, yeah.
+
+1079
+00:49:50.270 --> 00:49:50.770
+<v Elsa Fouragnan>Yeah.
+
+1080
+00:49:50.430 --> 00:49:53.410
+<v Charles Caskey>So and, and I think now you have a foundation.
+
+1081
+00:49:53.590 --> 00:49:58.190
+<v Charles Caskey>You, you-- And your, yours and others' prior works help create this foundation to
+
+1082
+00:49:58.230 --> 00:50:00.410
+<v Charles Caskey>say, like, "What is it doing to a system we understand?"
+
+1083
+00:50:00.470 --> 00:50:03.950
+<v Charles Caskey>And then it becomes easier to apply it to a system that we may
+
+1084
+00:50:03.990 --> 00:50:06.350
+<v Charles Caskey>not, where we have more, more variables or unknowns.
+
+1085
+00:50:07.050 --> 00:50:07.550
+<v Elsa Fouragnan>Exactly.
+
+1086
+00:50:07.310 --> 00:50:10.350
+<v Keith Murphy>Do, do you think people will be more comfortable picking this up as a
+
+1087
+00:50:10.390 --> 00:50:15.850
+<v Keith Murphy>treatment later, um, as you start to build the foundational mechanisms for what's actually
+
+1088
+00:50:15.910 --> 00:50:19.850
+<v Keith Murphy>happening in, in sensing reward? The fact that you can model it and put
+
+1089
+00:50:19.870 --> 00:50:23.990
+<v Keith Murphy>an equation behind it and show the perturbation, it's-- I think it's so much
+
+1090
+00:50:24.010 --> 00:50:28.450
+<v Keith Murphy>more elegant than the way we've thought about treatments previously, where we're just looking
+
+1091
+00:50:28.510 --> 00:50:31.850
+<v Keith Murphy>for an effect and we're looking for a MADRS or some sort of clinical
+
+1092
+00:50:31.990 --> 00:50:33.810
+<v Keith Murphy>scale. Here you're really-
+
+1093
+00:50:33.890 --> 00:50:35.250
+<v Charles Caskey>I think scientists will-
+
+1094
+00:50:35.250 --> 00:50:36.110
+<v Keith Murphy>... backtracking what's happening. Yeah
+
+1095
+00:50:36.110 --> 00:50:41.470
+<v Charles Caskey>... and, and doctors probably, um, care about that, and engineers, but I don't
+
+1096
+00:50:41.490 --> 00:50:45.110
+<v Charles Caskey>know that the aver- uh, that the average person, uh, is, is-
+
+1097
+00:50:46.010 --> 00:50:46.510
+<v Keith Murphy>They're not gonna care maybe
+
+1098
+00:50:46.170 --> 00:50:47.090
+<v Charles Caskey>... They-- I don't, I just don't know.
+
+1099
+00:50:47.170 --> 00:50:48.670
+<v Charles Caskey>I don't know. I think they care if it works.
+
+1100
+00:50:49.150 --> 00:50:49.650
+<v Charles Caskey>Uh-
+
+1101
+00:50:49.190 --> 00:50:52.890
+<v Elsa Fouragnan>I don't know if, uh... Yeah, I, I, I agree with you, Charles, but
+
+1102
+00:50:52.990 --> 00:50:57.990
+<v Elsa Fouragnan>I also think that people are now more and more aware of, of cognitive
+
+1103
+00:50:58.270 --> 00:50:59.570
+<v Elsa Fouragnan>restructuring through-
+
+1104
+00:50:59.590 --> 00:51:00.090
+<v Charles Caskey>Mm.
+
+1105
+00:51:00.370 --> 00:51:02.150
+<v Elsa Fouragnan>... little games on your phone and so on.
+
+1106
+00:51:02.190 --> 00:51:06.210
+<v Elsa Fouragnan>You know, like you start playing Mahjong or something, and all of a sudden
+
+1107
+00:51:06.250 --> 00:51:08.730
+<v Elsa Fouragnan>you receive all those ads. "Oh, you wanna boost your memory?
+
+1108
+00:51:08.830 --> 00:51:11.270
+<v Elsa Fouragnan>You wanna boost learning? You wanna boost X and Y?
+
+1109
+00:51:11.470 --> 00:51:15.450
+<v Elsa Fouragnan>Then use these apps." And people buy this because there's something true about it,
+
+1110
+00:51:15.530 --> 00:51:16.030
+<v Elsa Fouragnan>right?
+
+1111
+00:51:16.170 --> 00:51:16.670
+<v Charles Caskey>Yep.
+
+1112
+00:51:16.290 --> 00:51:22.430
+<v Elsa Fouragnan>If you're, um, let's say, working a certain brain circuit through
+
+1113
+00:51:22.490 --> 00:51:26.710
+<v Elsa Fouragnan>an app that is just playing with your memory, pe- people won't, won't have
+
+1114
+00:51:26.750 --> 00:51:30.230
+<v Elsa Fouragnan>any issue believing that, well, first you put the ultrasound machine on and then
+
+1115
+00:51:30.270 --> 00:51:33.450
+<v Elsa Fouragnan>you play a game, and I'm gonna be rewiring your circuit.
+
+1116
+00:51:33.790 --> 00:51:34.290
+<v Elsa Fouragnan>You know?
+
+1117
+00:51:34.050 --> 00:51:34.550
+<v Charles Caskey>Cool. Okay.
+
+1118
+00:51:34.190 --> 00:51:34.690
+<v Elsa Fouragnan>I think-
+
+1119
+00:51:35.090 --> 00:51:35.590
+<v Charles Caskey>Yeah
+
+1120
+00:51:35.230 --> 00:51:36.910
+<v Elsa Fouragnan>... people will, will, will buy that, I think.
+
+1121
+00:51:36.950 --> 00:51:41.030
+<v Keith Murphy>Can you, can you walk through that hypothetical as like a, a later application?
+
+1122
+00:51:41.110 --> 00:51:43.090
+<v Elsa Fouragnan>Yeah, it's completely my vision, I think.
+
+1123
+00:51:43.230 --> 00:51:43.730
+<v Elsa Fouragnan>If we-
+
+1124
+00:51:43.630 --> 00:51:44.130
+<v Keith Murphy>Let's hear it
+
+1125
+00:51:43.790 --> 00:51:50.010
+<v Elsa Fouragnan>... if we want to perfectly capitalize on what we think TUS is doing,
+
+1126
+00:51:50.110 --> 00:51:52.230
+<v Elsa Fouragnan>so or FUS. So ultrasound-
+
+1127
+00:51:52.910 --> 00:51:53.410
+<v Keith Murphy>FUS
+
+1128
+00:51:53.150 --> 00:51:55.810
+<v Elsa Fouragnan>... may induce neuroplasticity. We, we observed it.
+
+1129
+00:51:56.570 --> 00:51:58.630
+<v Elsa Fouragnan>Let's say, no, ultrasound induced neuroplasticity.
+
+1130
+00:51:58.650 --> 00:52:00.230
+<v Keith Murphy>Get your TUS out of here on this podcast.
+
+1131
+00:52:00.290 --> 00:52:01.290
+<v Keith Murphy>We're FUS- [laughs]
+
+1132
+00:52:01.410 --> 00:52:01.910
+<v Elsa Fouragnan>Sorry
+
+1133
+00:52:01.490 --> 00:52:02.870
+<v Keith Murphy>... FUS forward. FUS forward.
+
+1134
+00:52:02.910 --> 00:52:03.510
+<v Elsa Fouragnan>FUS. So-
+
+1135
+00:52:03.530 --> 00:52:06.130
+<v Keith Murphy>Right, Charles? [laughs]
+
+1136
+00:52:06.490 --> 00:52:06.990
+<v Charles Caskey>TUS forward or something.
+
+1137
+00:52:06.510 --> 00:52:07.590
+<v Keith Murphy>It's good to have you, Elsa.
+
+1138
+00:52:07.830 --> 00:52:09.990
+<v Keith Murphy>FUS down the memory. [laughs]
+
+1139
+00:52:10.230 --> 00:52:10.730
+<v Elsa Fouragnan>I'll re-
+
+1140
+00:52:10.530 --> 00:52:11.030
+<v Charles Caskey>TUS forward
+
+1141
+00:52:10.610 --> 00:52:12.370
+<v Elsa Fouragnan>... I'll restart this, this idea.
+
+1142
+00:52:12.510 --> 00:52:13.670
+<v Elsa Fouragnan>So, um- [laughs]
+
+1143
+00:52:15.170 --> 00:52:16.350
+<v Keith Murphy>What's... So sorry, go ahead.
+
+1144
+00:52:17.050 --> 00:52:21.910
+<v Elsa Fouragnan>I think-- No. So yeah, the vision I have is that, um, ultrasound is
+
+1145
+00:52:21.970 --> 00:52:27.010
+<v Elsa Fouragnan>inducing very subtle effect in very precise part of the brain, and that means
+
+1146
+00:52:27.050 --> 00:52:31.990
+<v Elsa Fouragnan>that the, the amplitude of its effect cognitively is gonna be very tiny.
+
+1147
+00:52:32.590 --> 00:52:36.990
+<v Elsa Fouragnan>But we know it induces neuroplasticity in those circuit for a short amount of
+
+1148
+00:52:37.050 --> 00:52:42.570
+<v Elsa Fouragnan>time. So if we want to use, uh, ultrasound in order to remodel those
+
+1149
+00:52:42.790 --> 00:52:47.590
+<v Elsa Fouragnan>circuits, my guess is that you, you will have to use ultrasound first and
+
+1150
+00:52:47.710 --> 00:52:52.490
+<v Elsa Fouragnan>then remodel the circuit, and that can be done through some sort of training,
+
+1151
+00:52:52.590 --> 00:52:58.050
+<v Elsa Fouragnan>cognitive, uh, maybe behavioral therapy or whatever, or just a task that you're doing
+
+1152
+00:52:58.090 --> 00:52:58.590
+<v Elsa Fouragnan>on your phone.
+
+1153
+00:52:58.590 --> 00:52:59.090
+<v Charles Caskey>Mm-hmm.
+
+1154
+00:52:58.610 --> 00:53:02.830
+<v Elsa Fouragnan>Like a memory task or something after you've been stimulated in your hippocampus, for
+
+1155
+00:53:02.870 --> 00:53:03.790
+<v Elsa Fouragnan>example, which is-
+
+1156
+00:53:03.910 --> 00:53:04.410
+<v Charles Caskey>Yeah
+
+1157
+00:53:04.070 --> 00:53:05.910
+<v Elsa Fouragnan>... the memory part of the brain, right?
+
+1158
+00:53:06.250 --> 00:53:09.470
+<v Charles Caskey>It's like prime the brain for the restructuring maybe or do...
+
+1159
+00:53:09.610 --> 00:53:13.330
+<v Charles Caskey>Yeah, and then, and then link it though to cognitive tasks that then-
+
+1160
+00:53:13.390 --> 00:53:13.890
+<v Elsa Fouragnan>Yeah
+
+1161
+00:53:13.430 --> 00:53:14.890
+<v Charles Caskey>... work that network and, yeah.
+
+1162
+00:53:14.930 --> 00:53:17.570
+<v Elsa Fouragnan>Because why would TUS on its own be enough?
+
+1163
+00:53:17.910 --> 00:53:19.950
+<v Elsa Fouragnan>Uh, I'm, I'm not too sure about this.
+
+1164
+00:53:20.270 --> 00:53:20.770
+<v Elsa Fouragnan>Like-
+
+1165
+00:53:21.570 --> 00:53:23.750
+<v Keith Murphy>But do you have to make, do you have to make it negative?
+
+1166
+00:53:24.170 --> 00:53:26.650
+<v Keith Murphy>How do you like-- So wait, so you guys are both on board, but
+
+1167
+00:53:26.710 --> 00:53:30.550
+<v Keith Murphy>I'm, I'm a little confused. Do you have to somehow make the reward in
+
+1168
+00:53:30.590 --> 00:53:36.470
+<v Keith Murphy>the brain not rewarding while, right after you've s- reduced the activity in this
+
+1169
+00:53:36.530 --> 00:53:38.370
+<v Keith Murphy>reward center? Like play, play through that.
+
+1170
+00:53:39.850 --> 00:53:43.650
+<v Elsa Fouragnan>Okay, so let me put this in the context of Charles' pineapple juice addiction,
+
+1171
+00:53:43.750 --> 00:53:48.730
+<v Elsa Fouragnan>right? So [laughs] what I'm, what I'm trying to say is if I stimulate
+
+1172
+00:53:48.790 --> 00:53:54.590
+<v Elsa Fouragnan>Charles' nucleus accumbens and then he goes on with his life, maybe this is
+
+1173
+00:53:54.630 --> 00:53:56.290
+<v Elsa Fouragnan>not gonna change his pineapple addiction.
+
+1174
+00:53:56.350 --> 00:54:01.830
+<v Elsa Fouragnan>[laughs] But if I stimulate him right before I give him another juice- [laughs]
+
+1175
+00:54:01.830 --> 00:54:03.710
+<v Elsa Fouragnan>[laughs] ... French wine from Bordeaux.
+
+1176
+00:54:04.070 --> 00:54:04.650
+<v Keith Murphy>We know that.
+
+1177
+00:54:05.110 --> 00:54:11.190
+<v Elsa Fouragnan>Um, then at this point I'm reinforcing that, uh, that maybe reward cue association,
+
+1178
+00:54:11.270 --> 00:54:11.770
+<v Elsa Fouragnan>right?
+
+1179
+00:54:11.830 --> 00:54:12.330
+<v Keith Murphy>Okay.
+
+1180
+00:54:11.870 --> 00:54:16.470
+<v Elsa Fouragnan>So what I'm trying to say is that inducing neuroplasticity in a circuit might
+
+1181
+00:54:16.490 --> 00:54:19.290
+<v Elsa Fouragnan>not be enough to have clinical translation.
+
+1182
+00:54:19.770 --> 00:54:23.550
+<v Elsa Fouragnan>You might want to actually do something with the circuit right when it is
+
+1183
+00:54:23.870 --> 00:54:29.070
+<v Elsa Fouragnan>in that neuroplastic window. So you-- I, I have a feeling that it would
+
+1184
+00:54:29.130 --> 00:54:31.070
+<v Elsa Fouragnan>just make so much sense that-
+
+1185
+00:54:31.110 --> 00:54:31.610
+<v Charles Caskey>Yeah
+
+1186
+00:54:31.310 --> 00:54:34.650
+<v Elsa Fouragnan>... one would, you know, capitalize on this moment where the brain is a
+
+1187
+00:54:34.710 --> 00:54:36.730
+<v Elsa Fouragnan>bit more susceptible for change-
+
+1188
+00:54:36.810 --> 00:54:37.310
+<v Keith Murphy>Okay
+
+1189
+00:54:36.950 --> 00:54:37.610
+<v Elsa Fouragnan>... to rewire.
+
+1190
+00:54:37.630 --> 00:54:40.770
+<v Keith Murphy>But, but you need to have Charles to do something that is not drinking
+
+1191
+00:54:40.810 --> 00:54:45.210
+<v Keith Murphy>pineapple juice. So here you're making him addicted to Bordeaux wine, but in another
+
+1192
+00:54:45.250 --> 00:54:49.190
+<v Keith Murphy>world, you might have Charles go on a-- You might put a, a pineapple
+
+1193
+00:54:49.230 --> 00:54:51.910
+<v Keith Murphy>in front of him. He says, "Ooh, I really want that pineapple."
+
+1194
+00:54:52.450 --> 00:54:56.410
+<v Keith Murphy>But you, you have your accumbens plastic and you say, "Charles, no.
+
+1195
+00:54:57.110 --> 00:54:58.930
+<v Keith Murphy>No. You're gonna go on a jog.
+
+1196
+00:55:00.110 --> 00:55:00.850
+<v Keith Murphy>You're gonna go on a..." Or you're gonna do something really good.
+
+1197
+00:55:00.890 --> 00:55:04.930
+<v Elsa Fouragnan>That's a, that's another possibility, or I give you a, a f- an electric
+
+1198
+00:55:05.030 --> 00:55:06.430
+<v Elsa Fouragnan>shock while I give you pineapple.
+
+1199
+00:55:06.570 --> 00:55:07.070
+<v Keith Murphy>Oh. Ooh.
+
+1200
+00:55:06.990 --> 00:55:09.270
+<v Charles Caskey>Like a... Yeah. So that'd be like a negative association.
+
+1201
+00:55:09.310 --> 00:55:09.810
+<v Charles Caskey>Yeah, that's it.
+
+1202
+00:55:09.570 --> 00:55:10.870
+<v Elsa Fouragnan>Yeah. And I stimulate your amygdala right before-
+
+1203
+00:55:10.910 --> 00:55:12.950
+<v Keith Murphy>So you electrocute him while he's drinking the pine.
+
+1204
+00:55:12.950 --> 00:55:13.450
+<v Keith Murphy>[laughs]
+
+1205
+00:55:13.090 --> 00:55:16.490
+<v Charles Caskey>Well, yeah, or, or take away my money, uh, after something, you know?
+
+1206
+00:55:16.490 --> 00:55:19.550
+<v Charles Caskey>[laughs] Like, yeah. Sorry, you reached for the pineapple juice.
+
+1207
+00:55:19.550 --> 00:55:20.050
+<v Keith Murphy>So Charles is poor. He's addicted.
+
+1208
+00:55:19.610 --> 00:55:22.030
+<v Charles Caskey>You have $5,000 less in your bank account.
+
+1209
+00:55:22.050 --> 00:55:23.410
+<v Charles Caskey>[laughs] It's like-
+
+1210
+00:55:23.470 --> 00:55:23.970
+<v Elsa Fouragnan>Exactly
+
+1211
+00:55:24.330 --> 00:55:27.310
+<v Charles Caskey>Uh, no, this is, I, I think, yeah, it has to be integrated.
+
+1212
+00:55:27.350 --> 00:55:30.530
+<v Charles Caskey>I mean, I'm gonna dive into a topic that maybe none of us know
+
+1213
+00:55:30.590 --> 00:55:35.010
+<v Charles Caskey>about, but maybe, uh... So, uh, other therapies like, I don't know, what are
+
+1214
+00:55:35.030 --> 00:55:37.810
+<v Charles Caskey>they called? EMDR? Is that like a light therapy?
+
+1215
+00:55:38.350 --> 00:55:41.970
+<v Charles Caskey>And does it, y- does it-- So that stimulates something in the brain that
+
+1216
+00:55:42.250 --> 00:55:43.950
+<v Charles Caskey>is that the hypothesis that, that...
+
+1217
+00:55:44.270 --> 00:55:48.350
+<v Charles Caskey>And then does a therapist talk to a person during that or something, or
+
+1218
+00:55:48.390 --> 00:55:49.930
+<v Charles Caskey>is it, or, or immediately after?
+
+1219
+00:55:50.010 --> 00:55:52.990
+<v Charles Caskey>Is this a similar type of thing where you've put the brain in a
+
+1220
+00:55:53.050 --> 00:55:57.290
+<v Charles Caskey>certain state, and then you have a cognitive therapy session that...
+
+1221
+00:55:57.330 --> 00:55:59.310
+<v Charles Caskey>Is it, is it, is it that type of thing?
+
+1222
+00:55:59.710 --> 00:56:00.210
+<v Charles Caskey>Uh-
+
+1223
+00:55:59.750 --> 00:56:01.230
+<v Elsa Fouragnan>Yeah, that's, that's the, that's the vision.
+
+1224
+00:56:01.310 --> 00:56:04.470
+<v Elsa Fouragnan>But I'm, I mean, I come from computational neuroscience world where I think-
+
+1225
+00:56:04.750 --> 00:56:05.250
+<v Charles Caskey>Yeah
+
+1226
+00:56:04.810 --> 00:56:09.070
+<v Elsa Fouragnan>... if you have gamified task, you can be really, really in control of
+
+1227
+00:56:09.110 --> 00:56:10.430
+<v Elsa Fouragnan>the circuit you're playing with.
+
+1228
+00:56:10.830 --> 00:56:11.330
+<v Charles Caskey>Yeah.
+
+1229
+00:56:11.130 --> 00:56:16.170
+<v Elsa Fouragnan>Um, so, you know, you could think about memory tasks or attentional task or-
+
+1230
+00:56:16.310 --> 00:56:16.810
+<v Charles Caskey>Mm-hmm
+
+1231
+00:56:16.330 --> 00:56:21.930
+<v Elsa Fouragnan>... learning task or quite, uh, risky decision task or task that will induce
+
+1232
+00:56:22.030 --> 00:56:22.990
+<v Elsa Fouragnan>regret or-
+
+1233
+00:56:23.130 --> 00:56:23.630
+<v Charles Caskey>Mm-hmm.
+
+1234
+00:56:23.530 --> 00:56:26.750
+<v Elsa Fouragnan>And then you just play with very different parts of the brain actually with
+
+1235
+00:56:26.790 --> 00:56:28.810
+<v Elsa Fouragnan>those tasks. And they are simple, um- Yeah ...
+
+1236
+00:56:28.830 --> 00:56:30.450
+<v Elsa Fouragnan>and you can easily do them on your phone.
+
+1237
+00:56:31.210 --> 00:56:31.710
+<v Charles Caskey>Yeah.
+
+1238
+00:56:31.270 --> 00:56:36.250
+<v Elsa Fouragnan>So I think the future will see a lot of this where really smart
+
+1239
+00:56:36.290 --> 00:56:41.730
+<v Elsa Fouragnan>computational model of the brain that are linked to task, uh, will be also,
+
+1240
+00:56:42.010 --> 00:56:47.330
+<v Elsa Fouragnan>you know, put together with high precision neurotechnology like ultrasound stimulation.
+
+1241
+00:56:48.130 --> 00:56:52.790
+<v Charles Caskey>Yeah. And we kind of have precursors for this, uh, with, with wearables, with,
+
+1242
+00:56:53.030 --> 00:56:56.590
+<v Charles Caskey>I mean, just as you said, there's already some apps that are trying to
+
+1243
+00:56:56.630 --> 00:57:00.310
+<v Charles Caskey>engage these parts. It's like we're just, we're not, we're building the bridge between,
+
+1244
+00:57:00.930 --> 00:57:05.470
+<v Charles Caskey>between the two, and that requires scientific understanding, so understanding the more about the
+
+1245
+00:57:05.510 --> 00:57:09.530
+<v Charles Caskey>circuits, how to perturb them, what do they do when they're perturbed.
+
+1246
+00:57:10.310 --> 00:57:10.810
+<v Charles Caskey>Um,
+
+1247
+00:57:11.110 --> 00:57:11.610
+<v Elsa Fouragnan>yeah. And, yeah.
+
+1248
+00:57:11.330 --> 00:57:12.490
+<v Charles Caskey>I mean, I think, I agree.
+
+1249
+00:57:12.530 --> 00:57:14.150
+<v Charles Caskey>It's a, it's fascinating direction.
+
+1250
+00:57:14.430 --> 00:57:17.970
+<v Elsa Fouragnan>And I think that there is, uh, so something that's coming now with AI
+
+1251
+00:57:18.070 --> 00:57:22.930
+<v Elsa Fouragnan>more and more, right? Is the fact that we have multi-feature integration, so it's
+
+1252
+00:57:22.970 --> 00:57:26.150
+<v Elsa Fouragnan>not just gonna be like people making decision that you can actually track and
+
+1253
+00:57:26.210 --> 00:57:29.170
+<v Elsa Fouragnan>see, you know, how did they do this, and I'm gonna assume that their
+
+1254
+00:57:29.230 --> 00:57:32.450
+<v Elsa Fouragnan>brain is doing this. But actually, you can look at pupil dilation, you can
+
+1255
+00:57:32.530 --> 00:57:34.030
+<v Elsa Fouragnan>do, look at facial expression.
+
+1256
+00:57:34.110 --> 00:57:34.610
+<v Charles Caskey>Mm-hmm.
+
+1257
+00:57:34.550 --> 00:57:38.190
+<v Elsa Fouragnan>You could extract galvanic response, that super cheap sensors.
+
+1258
+00:57:38.650 --> 00:57:41.510
+<v Elsa Fouragnan>You know, you could just have like something on your, on your finger or
+
+1259
+00:57:41.570 --> 00:57:45.610
+<v Elsa Fouragnan>something. And it's gonna be cheap because we will have the computational power to
+
+1260
+00:57:45.630 --> 00:57:46.770
+<v Elsa Fouragnan>put all of this together.
+
+1261
+00:57:47.430 --> 00:57:47.930
+<v Charles Caskey>Yeah.
+
+1262
+00:57:47.470 --> 00:57:52.270
+<v Elsa Fouragnan>And I, I'm sure that the, the next five, 10 years, we're gonna see
+
+1263
+00:57:52.350 --> 00:57:55.670
+<v Elsa Fouragnan>more and more of that, like independent of, of ultrasound stimulation, right?
+
+1264
+00:57:56.350 --> 00:57:56.850
+<v Charles Caskey>Right.
+
+1265
+00:57:56.450 --> 00:58:02.030
+<v Elsa Fouragnan>Uh, where massive, uh, models are gonna extract information from the whole body, the
+
+1266
+00:58:02.070 --> 00:58:07.470
+<v Elsa Fouragnan>whole physiology, and try to process it and understand what, what's person state at
+
+1267
+00:58:07.550 --> 00:58:12.470
+<v Elsa Fouragnan>every single time point. And our job will be now to say, "Well, we
+
+1268
+00:58:12.530 --> 00:58:14.350
+<v Elsa Fouragnan>know the dynamic of the physiology.
+
+1269
+00:58:14.410 --> 00:58:19.330
+<v Elsa Fouragnan>W- we, we can infer what, what brain state they are in, and then
+
+1270
+00:58:19.390 --> 00:58:22.790
+<v Elsa Fouragnan>we can use ultrasound at the same time to interface with this."
+
+1271
+00:58:24.190 --> 00:58:25.910
+<v Charles Caskey>Yeah. It just seems like another part.
+
+1272
+00:58:26.150 --> 00:58:26.650
+<v Elsa Fouragnan>Does that make sense?
+
+1273
+00:58:26.190 --> 00:58:27.490
+<v Charles Caskey>Yeah, yeah. It totally makes sense.
+
+1274
+00:58:27.550 --> 00:58:30.170
+<v Charles Caskey>I mean, and it, and it, it, I can't, I can't help.
+
+1275
+00:58:30.230 --> 00:58:34.590
+<v Charles Caskey>I, I don't wanna have a deep conversation about the, the potential, uh, ethics,
+
+1276
+00:58:34.690 --> 00:58:39.370
+<v Charles Caskey>uh, as it relates to how reward circuits are already leveraged with, uh, with
+
+1277
+00:58:39.510 --> 00:58:42.990
+<v Charles Caskey>social media and other things. I mean, they're taking way more readouts than we
+
+1278
+00:58:43.050 --> 00:58:44.550
+<v Charles Caskey>ever realize, and it, it's similar- Yeah ...
+
+1279
+00:58:44.570 --> 00:58:46.830
+<v Charles Caskey>it's a similar massive integration of knowledge.
+
+1280
+00:58:47.350 --> 00:58:51.010
+<v Charles Caskey>When I'm on Instagram or something, it can see how long did I stare
+
+1281
+00:58:51.050 --> 00:58:54.150
+<v Charles Caskey>at one photo versus another. That's probably all getting cataloged.
+
+1282
+00:58:54.610 --> 00:58:57.530
+<v Charles Caskey>Was I looking at, you know, pineapples endlessly- [laughs] ...
+
+1283
+00:58:57.570 --> 00:58:59.090
+<v Charles Caskey>and then I just kept clicking on them?
+
+1284
+00:58:59.450 --> 00:59:03.770
+<v Charles Caskey>It learns that about me. [laughs] And like, and so, uh, and, and it,
+
+1285
+00:59:03.870 --> 00:59:07.790
+<v Charles Caskey>but it's, it's through this mul- these multi-input integrations.
+
+1286
+00:59:07.830 --> 00:59:12.150
+<v Charles Caskey>And you, I think you're right, like that's very different than a decision tree
+
+1287
+00:59:12.250 --> 00:59:15.850
+<v Charles Caskey>that, or a binary tree where we think of just one decision versus another,
+
+1288
+00:59:15.950 --> 00:59:20.690
+<v Charles Caskey>track that for one purpose. Uh, you can, with AI, you can just integrate
+
+1289
+00:59:20.790 --> 00:59:25.590
+<v Charles Caskey>so much more knowledge, and this just adds a way to almost directly write
+
+1290
+00:59:25.650 --> 00:59:28.130
+<v Charles Caskey>back to the, to the, to the brain.
+
+1291
+00:59:28.770 --> 00:59:32.370
+<v Charles Caskey>Um, and so yeah, I think that that totally makes sense as a, as
+
+1292
+00:59:32.470 --> 00:59:34.810
+<v Charles Caskey>kind of, as a future, future possibility.
+
+1293
+00:59:35.550 --> 00:59:36.050
+<v Elsa Fouragnan>Yep.
+
+1294
+00:59:36.310 --> 00:59:38.430
+<v Keith Murphy>Have you guys seen, uh, A Clockwork Orange?
+
+1295
+00:59:39.450 --> 00:59:39.950
+<v Charles Caskey>Oh, yeah.
+
+1296
+00:59:40.010 --> 00:59:40.510
+<v Elsa Fouragnan>Oh, yeah.
+
+1297
+00:59:41.250 --> 00:59:46.210
+<v Keith Murphy>So are we living that or are we trying to build a, a more
+
+1298
+00:59:46.270 --> 00:59:47.590
+<v Keith Murphy>comfortable version of that?
+
+1299
+00:59:48.910 --> 00:59:51.830
+<v Charles Caskey>Oh, are you talking about the part where they [laughs] hold the guy's eyes
+
+1300
+00:59:51.890 --> 00:59:54.750
+<v Charles Caskey>open and he's, uh, forced to watch all this stuff to...
+
+1301
+00:59:54.750 --> 00:59:55.970
+<v Charles Caskey>[laughs]
+
+1302
+00:59:56.030 --> 01:00:00.210
+<v Keith Murphy>Yeah. So they, it, they give, uh, some sort of drug or compound that
+
+1303
+01:00:00.470 --> 01:00:02.950
+<v Keith Murphy>makes them so sick while they're watching the movie.
+
+1304
+01:00:03.450 --> 01:00:05.870
+<v Keith Murphy>They, they latch their eyes open and force them.
+
+1305
+01:00:06.590 --> 01:00:07.090
+<v Charles Caskey>Yeah.
+
+1306
+01:00:06.610 --> 01:00:12.430
+<v Keith Murphy>I guess in, in one context, that is, is literally associating a negative with,
+
+1307
+01:00:12.890 --> 01:00:14.330
+<v Keith Murphy>uh, you know, the, the-
+
+1308
+01:00:14.390 --> 01:00:14.890
+<v Charles Caskey>Yeah, yeah
+
+1309
+01:00:14.770 --> 01:00:17.670
+<v Keith Murphy>... the acts of violence. They're trying to make it a negative for them.
+
+1310
+01:00:18.230 --> 01:00:23.770
+<v Keith Murphy>We're kind of thinking about doing something more subtle, and I think the neuroethics
+
+1311
+01:00:23.810 --> 01:00:28.510
+<v Keith Murphy>of that are a little bit dubious, but I don't feel uncomfortable with, with
+
+1312
+01:00:28.790 --> 01:00:33.290
+<v Keith Murphy>slightly tilting the brain in different ways to help, you know, facilitate what we
+
+1313
+01:00:33.310 --> 01:00:35.270
+<v Keith Murphy>think is good and bad. How do you guys feel about it?
+
+1314
+01:00:35.270 --> 01:00:37.310
+<v Charles Caskey>Well, I think it's already happening at such a huge scale.
+
+1315
+01:00:37.370 --> 01:00:37.870
+<v Charles Caskey>I don't, I think the neuro-
+
+1316
+01:00:37.730 --> 01:00:38.870
+<v Keith Murphy>Yeah. Charles, you just said it, right?
+
+1317
+01:00:39.150 --> 01:00:40.150
+<v Charles Caskey>Yeah. It's like the-
+
+1318
+01:00:40.170 --> 01:00:43.350
+<v Keith Murphy>In, Instagram is messing up. Elsa, you're doing it in your, your studies with,
+
+1319
+01:00:43.450 --> 01:00:47.030
+<v Keith Murphy>uh, gambling and addiction. The world is, is kind of putting us in a
+
+1320
+01:00:47.070 --> 01:00:49.550
+<v Keith Murphy>bad position, and maybe this is just one tool.
+
+1321
+01:00:49.570 --> 01:00:53.330
+<v Elsa Fouragnan>And, and it's not like we, we don't have ways of, uh, modulating our
+
+1322
+01:00:53.390 --> 01:00:57.910
+<v Elsa Fouragnan>brain, right? We are over, you know, prescribed drugs, uh-
+
+1323
+01:00:57.970 --> 01:00:58.470
+<v Charles Caskey>Yeah
+
+1324
+01:00:58.010 --> 01:00:59.410
+<v Elsa Fouragnan>... as a species in general.
+
+1325
+01:00:59.510 --> 01:01:05.530
+<v Elsa Fouragnan>We just, um, you know, we love to perturb our brain at really-
+
+1326
+01:01:05.590 --> 01:01:08.410
+<v Elsa Fouragnan>Yeah ... really large scale. So I, I feel like with ultrasound it's gonna
+
+1327
+01:01:08.450 --> 01:01:12.330
+<v Elsa Fouragnan>be actually maybe disappointing for some people because they might think, "Oh, I'm gonna
+
+1328
+01:01:12.350 --> 01:01:13.650
+<v Elsa Fouragnan>put ultrasound on my nucleus accumbens.
+
+1329
+01:01:13.690 --> 01:01:17.270
+<v Elsa Fouragnan>I'm gonna have this surge of dopamine and I'm gonna feel so good."
+
+1330
+01:01:17.770 --> 01:01:20.530
+<v Elsa Fouragnan>And it's not. It's gonna be much more subtle, and it's a good thing
+
+1331
+01:01:20.550 --> 01:01:22.810
+<v Elsa Fouragnan>that it's subtle because it means that it's precise, right?
+
+1332
+01:01:23.470 --> 01:01:23.970
+<v Elsa Fouragnan>So that's the-
+
+1333
+01:01:23.630 --> 01:01:26.270
+<v Charles Caskey>Yeah. Maybe controllable a bit more and yeah.
+
+1334
+01:01:26.370 --> 01:01:28.430
+<v Charles Caskey>That's, uh, yeah, 'cause I, I think it's a great point.
+
+1335
+01:01:28.470 --> 01:01:34.080
+<v Charles Caskey>It's just basically already happening. And yeah, I've, I've had M- uh, han- more
+
+1336
+01:01:34.120 --> 01:01:37.340
+<v Charles Caskey>than one person reach out to me recently about...
+
+1337
+01:01:37.840 --> 01:01:41.380
+<v Charles Caskey>I, I can't tell if this is a business proposal, if they've read, like,
+
+1338
+01:01:41.580 --> 01:01:45.740
+<v Charles Caskey>sci-fi books or what. Um, b- but basically about, "Oh, can we make this
+
+1339
+01:01:45.780 --> 01:01:48.920
+<v Charles Caskey>like a recrea-- Can we make ultrasound a recreational thing?"
+
+1340
+01:01:49.000 --> 01:01:49.500
+<v Charles Caskey>I-
+
+1341
+01:01:49.200 --> 01:01:49.700
+<v Keith Murphy>Really?
+
+1342
+01:01:49.380 --> 01:01:52.060
+<v Charles Caskey>Have you guys e- ever encountered that, of people's interest-
+
+1343
+01:01:52.220 --> 01:01:52.720
+<v Keith Murphy>Oh, all the time.
+
+1344
+01:01:52.420 --> 01:01:54.240
+<v Charles Caskey>All the time. Uh, yeah. I mean, that's my thing.
+
+1345
+01:01:54.380 --> 01:01:55.580
+<v Charles Caskey>Usually I'm like, I'm like, "I don't know.
+
+1346
+01:01:55.620 --> 01:01:57.120
+<v Charles Caskey>It just doesn't sound that interesting- Not now.
+
+1347
+01:01:57.120 --> 01:01:58.920
+<v Charles Caskey>[laughs] ... and it's probably not how it's gonna work."
+
+1348
+01:01:59.360 --> 01:02:02.040
+<v Charles Caskey>And so, [laughs] but, um, uh, yeah.
+
+1349
+01:02:02.260 --> 01:02:02.760
+<v Charles Caskey>So, uh-
+
+1350
+01:02:02.580 --> 01:02:05.800
+<v Keith Murphy>Pl-pl-- I would, I always say plausibly, of course, but I think that that's
+
+1351
+01:02:05.840 --> 01:02:07.620
+<v Keith Murphy>the least of our worries right now.
+
+1352
+01:02:07.740 --> 01:02:08.680
+<v Keith Murphy>Although maybe it's not.
+
+1353
+01:02:08.820 --> 01:02:14.040
+<v Elsa Fouragnan>I-- Yeah. W- we will have to educate people on the fact that ultrasound
+
+1354
+01:02:14.080 --> 01:02:20.140
+<v Elsa Fouragnan>effects are not massive, and that is a strength because it's highly precise
+
+1355
+01:02:20.180 --> 01:02:23.440
+<v Elsa Fouragnan>in the brain, and therefore you don't have those, you know, massive side effects
+
+1356
+01:02:23.560 --> 01:02:27.700
+<v Elsa Fouragnan>all over the place. Um, but maybe some people will be slightly disappointed.
+
+1357
+01:02:27.920 --> 01:02:32.440
+<v Elsa Fouragnan>And I guess at the beginning, you know, Charles, surely you, you, you know,
+
+1358
+01:02:32.520 --> 01:02:36.080
+<v Elsa Fouragnan>experienced that, is, "Oh, well, you don't get a muscle tweet-- uh, twitch."
+
+1359
+01:02:36.160 --> 01:02:40.100
+<v Elsa Fouragnan>And, and it's very disappointing because you want to have that, you know, black
+
+1360
+01:02:40.120 --> 01:02:40.940
+<v Elsa Fouragnan>and white response-
+
+1361
+01:02:41.020 --> 01:02:41.520
+<v Charles Caskey>Yeah. Yeah
+
+1362
+01:02:41.140 --> 01:02:41.840
+<v Elsa Fouragnan>... to ultrasound.
+
+1363
+01:02:42.160 --> 01:02:42.660
+<v Keith Murphy>Mm-hmm.
+
+1364
+01:02:42.600 --> 01:02:44.260
+<v Elsa Fouragnan>And it's not. It's much more subtle.
+
+1365
+01:02:44.700 --> 01:02:47.980
+<v Elsa Fouragnan>Um, so I'm not too sure we're gonna go to recreational.
+
+1366
+01:02:48.680 --> 01:02:51.100
+<v Elsa Fouragnan>But augmented cognition, sure. I get that.
+
+1367
+01:02:51.160 --> 01:02:51.660
+<v Charles Caskey>Yeah.
+
+1368
+01:02:51.400 --> 01:02:52.140
+<v Elsa Fouragnan>You know? Um-
+
+1369
+01:02:52.300 --> 01:02:56.900
+<v Charles Caskey>Yeah. That's, uh-- And, and, and I think, yeah, I think everybody, uh, like,
+
+1370
+01:02:57.040 --> 01:03:01.300
+<v Charles Caskey>one, yeah, I think that having a big effect, it-- sure, it's satisfying, I
+
+1371
+01:03:01.360 --> 01:03:03.760
+<v Charles Caskey>guess. But, uh, it, it's not necessary.
+
+1372
+01:03:04.540 --> 01:03:07.860
+<v Charles Caskey>Um, and yeah, we're just all trying to, to, to figure it out.
+
+1373
+01:03:07.920 --> 01:03:11.920
+<v Charles Caskey>And we acknowledge there's a neuro ethic component, but it's n- uh, I don't
+
+1374
+01:03:12.300 --> 01:03:13.960
+<v Charles Caskey>think-- I think that that's, that's almost...
+
+1375
+01:03:14.680 --> 01:03:18.640
+<v Charles Caskey>It's a separate topic from figuring out how to do this, [laughs] um, in
+
+1376
+01:03:18.680 --> 01:03:22.080
+<v Charles Caskey>a way. That's more of a how is it deployed and what, what it
+
+1377
+01:03:22.100 --> 01:03:25.340
+<v Charles Caskey>would be used for. But I think there's way more egregious things that, I
+
+1378
+01:03:25.380 --> 01:03:27.860
+<v Charles Caskey>don't know, sports gambling on your phone.
+
+1379
+01:03:28.020 --> 01:03:31.000
+<v Charles Caskey>I mean, talk about engaging a reward circuit anytime you want to.
+
+1380
+01:03:31.080 --> 01:03:31.580
+<v Charles Caskey>[laughs]
+
+1381
+01:03:31.580 --> 01:03:34.040
+<v Keith Murphy>Oh, yeah. [laughs]
+
+1382
+01:03:34.100 --> 01:03:34.600
+<v Elsa Fouragnan>Yeah.
+
+1383
+01:03:34.480 --> 01:03:38.820
+<v Keith Murphy>Okay. I'm a huge fan, and I think the field needs to look at
+
+1384
+01:03:38.900 --> 01:03:43.180
+<v Keith Murphy>more deep brain stimulation literature. That is electrical wires deep in the brain.
+
+1385
+01:03:43.800 --> 01:03:45.520
+<v Keith Murphy>We've learned so much from that.
+
+1386
+01:03:45.640 --> 01:03:49.100
+<v Keith Murphy>All this literature is kind of left behind when we think about focused ultrasound.
+
+1387
+01:03:49.140 --> 01:03:51.580
+<v Keith Murphy>Maybe that's fine because it's a new modality.
+
+1388
+01:03:51.620 --> 01:03:53.060
+<v Keith Murphy>It's a new language for the brain.
+
+1389
+01:03:53.680 --> 01:03:57.980
+<v Keith Murphy>But in your study, Elsa, you very literally had someone who is ha- having
+
+1390
+01:03:58.000 --> 01:04:00.760
+<v Keith Murphy>deep brain stimulation come in and do your task.
+
+1391
+01:04:01.560 --> 01:04:02.060
+<v Elsa Fouragnan>Yep.
+
+1392
+01:04:01.920 --> 01:04:03.180
+<v Keith Murphy>Tell, tell us about what happened.
+
+1393
+01:04:03.220 --> 01:04:04.420
+<v Keith Murphy>What was the difference, and what did you learn?
+
+1394
+01:04:04.420 --> 01:04:08.100
+<v Elsa Fouragnan>This is a bit of a convoluted way to prove target engagement, but it
+
+1395
+01:04:08.160 --> 01:04:12.440
+<v Elsa Fouragnan>was [laughs] what was the-- at the, at the core of this idea.
+
+1396
+01:04:12.960 --> 01:04:19.380
+<v Elsa Fouragnan>We thought, okay, now that we've, um, perturbed those learning components, learning curves,
+
+1397
+01:04:19.500 --> 01:04:24.520
+<v Elsa Fouragnan>learning sen- uh, re- reward sensitivity, um, can we prove that we engaged the
+
+1398
+01:04:24.560 --> 01:04:30.140
+<v Elsa Fouragnan>nucleus accumbens? And the idea was, well, let's take, um, patients who actually have
+
+1399
+01:04:30.580 --> 01:04:37.240
+<v Elsa Fouragnan>those electrodes right in their nucleus accumbens constantly stimulating the nucleus accumbens at 137
+
+1400
+01:04:37.280 --> 01:04:41.020
+<v Elsa Fouragnan>hertz. And what, what happened is that those patients, they go back to their
+
+1401
+01:04:41.060 --> 01:04:45.360
+<v Elsa Fouragnan>neurosurgeon from time to time just to make sure that the device works properly.
+
+1402
+01:04:45.860 --> 01:04:49.960
+<v Elsa Fouragnan>And at this point during the, the meeting with their neurosurgeon, they can turn
+
+1403
+01:04:50.000 --> 01:04:53.440
+<v Elsa Fouragnan>the device off and on again just to check everything.
+
+1404
+01:04:53.860 --> 01:04:54.360
+<v Keith Murphy>Mm-hmm.
+
+1405
+01:04:53.880 --> 01:04:56.560
+<v Elsa Fouragnan>And you could ask them, "Would you mind participating in this study?
+
+1406
+01:04:56.600 --> 01:04:58.840
+<v Elsa Fouragnan>Would you mind doing this little task that we've developed?
+
+1407
+01:04:58.860 --> 01:05:00.480
+<v Elsa Fouragnan>It's a very simple gambling task.
+
+1408
+01:05:00.520 --> 01:05:01.740
+<v Elsa Fouragnan>It will just take half an hour."
+
+1409
+01:05:02.460 --> 01:05:05.040
+<v Elsa Fouragnan>And you do this. So you, you ask them to come, you turn the
+
+1410
+01:05:05.240 --> 01:05:10.580
+<v Elsa Fouragnan>machine off for a wash, a wash period, and then you turn it on
+
+1411
+01:05:10.720 --> 01:05:14.420
+<v Elsa Fouragnan>or you, you leave it off, and you see how that compares.
+
+1412
+01:05:14.880 --> 01:05:20.040
+<v Elsa Fouragnan>And we saw that, uh, with DBS, uh, on and off, the same, uh,
+
+1413
+01:05:20.280 --> 01:05:23.840
+<v Elsa Fouragnan>indices of, of learning were perturbed.
+
+1414
+01:05:23.980 --> 01:05:29.840
+<v Elsa Fouragnan>So for us, it was a straight, perfect, you know, comparison and proof of
+
+1415
+01:05:29.880 --> 01:05:35.420
+<v Elsa Fouragnan>target engagement. Um, it was also quite humbling, you know, to, to think, okay,
+
+1416
+01:05:35.560 --> 01:05:37.480
+<v Elsa Fouragnan>we've, we've really done something to this point.
+
+1417
+01:05:37.560 --> 01:05:40.420
+<v Charles Caskey>Yeah. No, that's super cool. Super cool.
+
+1418
+01:05:40.440 --> 01:05:44.460
+<v Charles Caskey>'Cause you're taking something that has a gold standard and is sort of already
+
+1419
+01:05:45.260 --> 01:05:50.020
+<v Charles Caskey>frequently used in a therapeutic manner and then directly linking that.
+
+1420
+01:05:50.220 --> 01:05:54.860
+<v Charles Caskey>And it, and it's something that's really missing in, particularly in human studies, to
+
+1421
+01:05:54.940 --> 01:05:58.200
+<v Charles Caskey>have a, a positive control more or less.
+
+1422
+01:05:58.280 --> 01:06:00.500
+<v Charles Caskey>I guess would that maybe be a way to think about that?
+
+1423
+01:06:00.560 --> 01:06:01.940
+<v Charles Caskey>So yeah. It's very cool.
+
+1424
+01:06:02.840 --> 01:06:03.780
+<v Keith Murphy>Yeah. Positive control-
+
+1425
+01:06:03.820 --> 01:06:04.320
+<v Elsa Fouragnan>Yeah
+
+1426
+01:06:03.840 --> 01:06:04.880
+<v Keith Murphy>... is a good way to think about it.
+
+1427
+01:06:05.120 --> 01:06:10.360
+<v Keith Murphy>I, um, I thought I remember reading that the effect was opposite, um, but
+
+1428
+01:06:10.400 --> 01:06:11.880
+<v Keith Murphy>you did perturb it with both.
+
+1429
+01:06:12.840 --> 01:06:14.580
+<v Elsa Fouragnan>Yeah. So the, the effects were opposite.
+
+1430
+01:06:14.780 --> 01:06:16.660
+<v Elsa Fouragnan>Well done for looking at the paper, Keith.
+
+1431
+01:06:17.000 --> 01:06:18.660
+<v Elsa Fouragnan>[laughs] The effects were-
+
+1432
+01:06:18.720 --> 01:06:19.220
+<v Keith Murphy>Sorry I haven't read it.
+
+1433
+01:06:18.860 --> 01:06:24.220
+<v Elsa Fouragnan>[laughs] ... exactly opposite. Um, so with ultrasound, it looks like we have enhanced
+
+1434
+01:06:24.420 --> 01:06:26.980
+<v Elsa Fouragnan>reward sensitivity. They were much faster at learning.
+
+1435
+01:06:27.560 --> 01:06:33.200
+<v Elsa Fouragnan>Whereas with DBS, everything was shut down, and they, they became a lot less
+
+1436
+01:06:33.360 --> 01:06:37.400
+<v Elsa Fouragnan>good, uh, at the task. But there's a lot of things to say.
+
+1437
+01:06:37.540 --> 01:06:41.740
+<v Elsa Fouragnan>First, it was the direction that was expected because there's more and more evidence
+
+1438
+01:06:41.780 --> 01:06:45.280
+<v Elsa Fouragnan>to suggest that DBS has this huge inhibitory, you know, effect.
+
+1439
+01:06:45.280 --> 01:06:45.780
+<v Keith Murphy>Mm-hmm.
+
+1440
+01:06:46.040 --> 01:06:51.420
+<v Elsa Fouragnan>The second was the fact that those, um, patients which, uh, suffer from very,
+
+1441
+01:06:51.500 --> 01:06:57.060
+<v Elsa Fouragnan>very severe eating disorder, they are, um, classically hyper planners.
+
+1442
+01:06:57.620 --> 01:07:03.560
+<v Elsa Fouragnan>So they do this task much better than anybody else, uh, in the normal
+
+1443
+01:07:03.640 --> 01:07:10.420
+<v Elsa Fouragnan>population. So in fact, by when the device was on, by reducing
+
+1444
+01:07:10.460 --> 01:07:15.580
+<v Elsa Fouragnan>their performance, we actually put them back to actually the, the normal, the normal
+
+1445
+01:07:15.700 --> 01:07:21.900
+<v Elsa Fouragnan>state of, of reward sensitivity, which maybe also explain why this, uh,
+
+1446
+01:07:22.060 --> 01:07:23.800
+<v Elsa Fouragnan>this is working for them as a treatment.
+
+1447
+01:07:23.840 --> 01:07:24.340
+<v Keith Murphy>Mm-hmm.
+
+1448
+01:07:24.660 --> 01:07:25.160
+<v Elsa Fouragnan>Um...
+
+1449
+01:07:26.660 --> 01:07:32.020
+<v Keith Murphy>I, I think it's exciting because we often struggle to say with confidence that
+
+1450
+01:07:32.080 --> 01:07:35.440
+<v Keith Murphy>a brain area is more active with ultrasound or less.
+
+1451
+01:07:35.500 --> 01:07:41.010
+<v Keith Murphy>But here, having, as Charles mentioned, a positive control really lets you say- Well,
+
+1452
+01:07:41.170 --> 01:07:44.030
+<v Keith Murphy>by comparison, ultrasound increased activity.
+
+1453
+01:07:45.150 --> 01:07:45.650
+<v Elsa Fouragnan>I-
+
+1454
+01:07:45.230 --> 01:07:46.490
+<v Keith Murphy>It's a nice piece of evidence
+
+1455
+01:07:46.490 --> 01:07:49.570
+<v Elsa Fouragnan>... think, I think it is, but I still don't like to say it
+
+1456
+01:07:49.690 --> 01:07:52.730
+<v Elsa Fouragnan>because I think it's problematic to say, "Oh, well, we used this protocol, and
+
+1457
+01:07:52.770 --> 01:07:55.510
+<v Elsa Fouragnan>it has an excitatory effect." It, it- [laughs] ...
+
+1458
+01:07:55.530 --> 01:07:57.330
+<v Elsa Fouragnan>there's so much more to it.
+
+1459
+01:07:57.990 --> 01:07:58.490
+<v Keith Murphy>Yeah, yeah.
+
+1460
+01:07:58.270 --> 01:07:58.770
+<v Elsa Fouragnan>Right?
+
+1461
+01:07:58.690 --> 01:08:01.510
+<v Charles Caskey>I, I'm laughing 'cause, yeah, I feel like this is such a topic, right?
+
+1462
+01:08:01.650 --> 01:08:02.150
+<v Charles Caskey>Like pe-
+
+1463
+01:08:02.130 --> 01:08:02.630
+<v Elsa Fouragnan>Oh, yeah
+
+1464
+01:08:02.270 --> 01:08:04.010
+<v Charles Caskey>... you know, is, are we exciting the brain?
+
+1465
+01:08:04.090 --> 01:08:06.370
+<v Charles Caskey>Are we inhibiting the brain? Are we stimulating?
+
+1466
+01:08:06.470 --> 01:08:06.970
+<v Charles Caskey>Yeah.
+
+1467
+01:08:06.570 --> 01:08:11.910
+<v Elsa Fouragnan>And 90% of the cell in the nucleus accumbens are medium spiny neurons, and
+
+1468
+01:08:11.950 --> 01:08:12.450
+<v Elsa Fouragnan>they are-
+
+1469
+01:08:12.250 --> 01:08:12.750
+<v Keith Murphy>Mm-hmm
+
+1470
+01:08:12.270 --> 01:08:17.350
+<v Elsa Fouragnan>... inhibitory cells. And Keith knows a lot about inhibitory cells because they seem
+
+1471
+01:08:17.370 --> 01:08:19.230
+<v Elsa Fouragnan>to respond to ultrasound faster than the other one.
+
+1472
+01:08:19.370 --> 01:08:20.930
+<v Elsa Fouragnan>We don't know exactly why, but-
+
+1473
+01:08:21.710 --> 01:08:26.010
+<v Keith Murphy>Well, that, that kind of fights what we're thinking here because I-- in my
+
+1474
+01:08:26.050 --> 01:08:30.710
+<v Keith Murphy>works previously, inhibitory neurons are just much more sensitive to ultrasound, like the way
+
+1475
+01:08:30.750 --> 01:08:37.450
+<v Keith Murphy>we talked about astrocytes. But for your paradigm, you would've biased towards the excitatory
+
+1476
+01:08:38.110 --> 01:08:39.450
+<v Keith Murphy>cell types in that area, right?
+
+1477
+01:08:39.910 --> 01:08:41.650
+<v Elsa Fouragnan>No, no, no, no. Not necessarily, no.
+
+1478
+01:08:42.390 --> 01:08:43.110
+<v Elsa Fouragnan>Uh, I mean-
+
+1479
+01:08:43.550 --> 01:08:44.050
+<v Keith Murphy>So-
+
+1480
+01:08:43.850 --> 01:08:47.770
+<v Elsa Fouragnan>... the, the BOLD increase could also be a result of all those medium
+
+1481
+01:08:47.890 --> 01:08:52.350
+<v Elsa Fouragnan>spiny neurons being more activated, even if they are inhibitory cells in the circuit.
+
+1482
+01:08:53.050 --> 01:08:58.090
+<v Keith Murphy>Mm-hmm. But would-- If you activated the inhibitory neurons, shouldn't that lead to less
+
+1483
+01:08:58.170 --> 01:08:58.670
+<v Keith Murphy>reward?
+
+1484
+01:08:59.430 --> 01:09:00.270
+<v Elsa Fouragnan>No. [sighs] It's a-
+
+1485
+01:09:00.310 --> 01:09:01.250
+<v Keith Murphy>Oh, it's, it's a flipped circuit.
+
+1486
+01:09:01.270 --> 01:09:04.130
+<v Elsa Fouragnan>Okay ... it's a very complicated, it's a very complicated- Ah ...
+
+1487
+01:09:04.290 --> 01:09:04.790
+<v Elsa Fouragnan>circuit. Yeah.
+
+1488
+01:09:04.610 --> 01:09:08.310
+<v Keith Murphy>So here, here for the listeners, you may get increased activity and get a
+
+1489
+01:09:08.390 --> 01:09:13.090
+<v Keith Murphy>negative behavioral result, and then actually, you know, those two can, can be rectified.
+
+1490
+01:09:13.550 --> 01:09:15.050
+<v Keith Murphy>Man, th- these things get confusing.
+
+1491
+01:09:15.130 --> 01:09:15.750
+<v Elsa Fouragnan>It's so confusing.
+
+1492
+01:09:15.790 --> 01:09:17.550
+<v Charles Caskey>Yeah, it's like taking the brakes off, right?
+
+1493
+01:09:17.670 --> 01:09:21.150
+<v Charles Caskey>Or something sometimes. It-- I mean, I don't know about this specific circuit, but
+
+1494
+01:09:21.190 --> 01:09:25.290
+<v Charles Caskey>yeah, sometimes you're just taking, taking the foot off the brakes rather, and going
+
+1495
+01:09:25.390 --> 01:09:25.890
+<v Charles Caskey>faster-
+
+1496
+01:09:25.750 --> 01:09:26.390
+<v Elsa Fouragnan>Exactly
+
+1497
+01:09:26.390 --> 01:09:27.210
+<v Charles Caskey>... rather even though you've-
+
+1498
+01:09:27.270 --> 01:09:27.770
+<v Keith Murphy>Oh, okay
+
+1499
+01:09:27.430 --> 01:09:29.930
+<v Charles Caskey>... activated, yeah, something that... Yeah.
+
+1500
+01:09:30.310 --> 01:09:30.910
+<v Elsa Fouragnan>Exactly.
+
+1501
+01:09:31.450 --> 01:09:33.750
+<v Keith Murphy>I have a paper I want you guys to comment on.
+
+1502
+01:09:34.030 --> 01:09:36.190
+<v Keith Murphy>I think it's relevant. I just looked it up before.
+
+1503
+01:09:36.650 --> 01:09:42.410
+<v Keith Murphy>It's from Luka, uh, Milosevic, and they showed that thalamic neurons, which have a
+
+1504
+01:09:42.450 --> 01:09:49.010
+<v Keith Murphy>very low basal firing rate, will increase activity with high PRF DBS
+
+1505
+01:09:49.050 --> 01:09:54.950
+<v Keith Murphy>stimulation. Whereas really fast spiking baso- basal ganglia neurons, so these have a very
+
+1506
+01:09:55.010 --> 01:09:59.690
+<v Keith Murphy>high basal firing rate, those are inhibited with the same exact stimulation.
+
+1507
+01:10:00.670 --> 01:10:03.730
+<v Keith Murphy>And I don't know if you can conclusively say it's, it's like a firing
+
+1508
+01:10:03.750 --> 01:10:07.350
+<v Keith Murphy>rate dependent effect, but if neurons are very active, they're more likely to go
+
+1509
+01:10:07.390 --> 01:10:09.630
+<v Keith Murphy>down, and if they're very low, they're more likely to go up.
+
+1510
+01:10:10.170 --> 01:10:13.110
+<v Keith Murphy>It's almost just like pushing neurons to the mean or something.
+
+1511
+01:10:13.570 --> 01:10:14.070
+<v Keith Murphy>Do you think that-
+
+1512
+01:10:13.990 --> 01:10:14.490
+<v Elsa Fouragnan>Hmm
+
+1513
+01:10:14.050 --> 01:10:15.070
+<v Keith Murphy>... had a role in your study?
+
+1514
+01:10:16.330 --> 01:10:16.890
+<v Elsa Fouragnan>Interesting.
+
+1515
+01:10:16.910 --> 01:10:21.270
+<v Keith Murphy>Um- 'Cause, 'cause the patients with DBS, their activity in this brain area was
+
+1516
+01:10:21.310 --> 01:10:24.290
+<v Keith Murphy>normally very high compared to healthy subjects.
+
+1517
+01:10:25.450 --> 01:10:29.670
+<v Elsa Fouragnan>That's such an interesting, uh, such an interesting part of the problem.
+
+1518
+01:10:29.750 --> 01:10:32.050
+<v Elsa Fouragnan>So I see TUS as a multidimensional problem.
+
+1519
+01:10:32.150 --> 01:10:36.250
+<v Elsa Fouragnan>You have the parameter, uh, you know, the protocol parameter space problem.
+
+1520
+01:10:36.330 --> 01:10:39.110
+<v Elsa Fouragnan>You have the state of the tissue problem, and then you have the tissue
+
+1521
+01:10:39.190 --> 01:10:41.490
+<v Elsa Fouragnan>composition problem. [laughs] Um- Wow. [laughs] ...
+
+1522
+01:10:41.510 --> 01:10:44.350
+<v Elsa Fouragnan>and you have to fix all of it, you know, in the same framework.
+
+1523
+01:10:44.350 --> 01:10:44.850
+<v Charles Caskey>Piled on top of one another.
+
+1524
+01:10:44.430 --> 01:10:45.190
+<v Charles Caskey>Yeah. [laughs] It's like-
+
+1525
+01:10:45.350 --> 01:10:50.150
+<v Elsa Fouragnan>Um, but so one thing that, uh, is true in that study is that
+
+1526
+01:10:50.190 --> 01:10:53.410
+<v Elsa Fouragnan>we purposefully activated the nucleus accumbens.
+
+1527
+01:10:53.530 --> 01:10:57.350
+<v Elsa Fouragnan>So I would say that the nucleus accumbens in the probabilistic reward, uh, task
+
+1528
+01:10:57.430 --> 01:11:02.030
+<v Elsa Fouragnan>is highly active. This is just gonna be, um, sure, and we control that,
+
+1529
+01:11:02.090 --> 01:11:04.850
+<v Elsa Fouragnan>and, and it's great. Now, does that matter?
+
+1530
+01:11:04.990 --> 01:11:09.070
+<v Elsa Fouragnan>Well, we, we should have had a condition where they were not doing anything
+
+1531
+01:11:09.090 --> 01:11:11.130
+<v Elsa Fouragnan>to see if there was a difference, but we haven't done this.
+
+1532
+01:11:11.570 --> 01:11:15.290
+<v Elsa Fouragnan>But we've done this in another study, and I was talking, uh, about it
+
+1533
+01:11:15.710 --> 01:11:17.930
+<v Elsa Fouragnan>earlier with Keith. So we have, um...
+
+1534
+01:11:18.770 --> 01:11:24.330
+<v Elsa Fouragnan>We decided to look at the, um, dorsal anterior cingulate cortex, so it's a
+
+1535
+01:11:24.370 --> 01:11:28.530
+<v Elsa Fouragnan>part of the medial wall. And we know that ultrasound to this brain region
+
+1536
+01:11:28.590 --> 01:11:32.990
+<v Elsa Fouragnan>doesn't seem to be doing much when people are at rest, and it's been
+
+1537
+01:11:33.030 --> 01:11:34.790
+<v Elsa Fouragnan>puzzling us for a very long time.
+
+1538
+01:11:34.870 --> 01:11:38.810
+<v Elsa Fouragnan>So we sort of put this at test thinking, "How can I activate the,
+
+1539
+01:11:39.010 --> 01:11:42.390
+<v Elsa Fouragnan>the DACC, um, when people are in a scanner?"
+
+1540
+01:11:42.510 --> 01:11:45.170
+<v Elsa Fouragnan>And there's one thing you can do very easily, is that you can, you
+
+1541
+01:11:45.230 --> 01:11:47.370
+<v Elsa Fouragnan>can induce pain. So- [laughs] ...
+
+1542
+01:11:47.470 --> 01:11:53.750
+<v Elsa Fouragnan>welcome in my lab, guys. [laughs] [laughs] So we actually had period
+
+1543
+01:11:53.810 --> 01:11:59.050
+<v Elsa Fouragnan>of rest and periods of pain, and periods of recovery from pain, and we
+
+1544
+01:11:59.130 --> 01:12:04.370
+<v Elsa Fouragnan>saw very different signature of ultrasound neuromodulation in those three different states.
+
+1545
+01:12:04.510 --> 01:12:05.010
+<v Elsa Fouragnan>So-
+
+1546
+01:12:04.830 --> 01:12:05.330
+<v Charles Caskey>Yeah.
+
+1547
+01:12:05.050 --> 01:12:05.550
+<v Keith Murphy>Oh, interesting
+
+1548
+01:12:05.470 --> 01:12:07.970
+<v Elsa Fouragnan>... it does matter. It does matter a lot.
+
+1549
+01:12:08.450 --> 01:12:12.950
+<v Charles Caskey>On a scale of zero to 10, how much does it matter what state
+
+1550
+01:12:12.970 --> 01:12:16.350
+<v Charles Caskey>the brain is in when performing ultrasound neuromodulation?
+
+1551
+01:12:16.870 --> 01:12:17.530
+<v Elsa Fouragnan>Okay. Um-
+
+1552
+01:12:17.570 --> 01:12:19.870
+<v Charles Caskey>Three, two... Oh, we go three, two, one, and then we all say our
+
+1553
+01:12:19.950 --> 01:12:20.670
+<v Charles Caskey>answers all at once.
+
+1554
+01:12:20.670 --> 01:12:22.570
+<v Keith Murphy>Random folks. [laughs]
+
+1555
+01:12:22.630 --> 01:12:24.670
+<v Charles Caskey>Three, two, one.
+
+1556
+01:12:25.070 --> 01:12:25.570
+<v Elsa Fouragnan>Eight.
+
+1557
+01:12:25.130 --> 01:12:25.650
+<v Keith Murphy>Five.
+
+1558
+01:12:26.450 --> 01:12:27.370
+<v Elsa Fouragnan>More complicated.
+
+1559
+01:12:27.710 --> 01:12:28.410
+<v Charles Caskey>Oh. [laughs]
+
+1560
+01:12:28.470 --> 01:12:30.770
+<v Keith Murphy>Oh, lame. You have to do a number.
+
+1561
+01:12:31.490 --> 01:12:34.730
+<v Charles Caskey>Does Elsa not-- So Elsa won't even commit to one number on this one.
+
+1562
+01:12:34.730 --> 01:12:35.230
+<v Keith Murphy>She refuses.
+
+1563
+01:12:35.050 --> 01:12:35.630
+<v Charles Caskey>I wa- [laughs]
+
+1564
+01:12:35.670 --> 01:12:36.390
+<v Elsa Fouragnan>I'm gonna add-
+
+1565
+01:12:36.530 --> 01:12:37.030
+<v Keith Murphy>All right
+
+1566
+01:12:36.850 --> 01:12:38.810
+<v Elsa Fouragnan>... another dimensional problem.
+
+1567
+01:12:38.830 --> 01:12:40.270
+<v Keith Murphy>You have to take off the sunglasses now.
+
+1568
+01:12:40.270 --> 01:12:41.490
+<v Keith Murphy>[laughs] [laughs]
+
+1569
+01:12:41.550 --> 01:12:45.250
+<v Elsa Fouragnan>So guys, um, because... No, no, no.
+
+1570
+01:12:45.290 --> 01:12:51.670
+<v Elsa Fouragnan>The question that Charles asked is interesting, but it's, uh, it's actually also problematic.
+
+1571
+01:12:51.730 --> 01:12:57.010
+<v Elsa Fouragnan>So you, you said, while you are stimulating, does the state of the tissue
+
+1572
+01:12:57.070 --> 01:13:00.370
+<v Elsa Fouragnan>matter? And maybe, I don't know.
+
+1573
+01:13:00.490 --> 01:13:01.970
+<v Elsa Fouragnan>We haven't really studied it, surely.
+
+1574
+01:13:01.990 --> 01:13:02.870
+<v Charles Caskey>Okay.
+
+1575
+01:13:02.910 --> 01:13:04.770
+<v Elsa Fouragnan>On a scale from zero to 10, maybe five.
+
+1576
+01:13:04.790 --> 01:13:05.770
+<v Charles Caskey>So that sounds like a two.
+
+1577
+01:13:05.830 --> 01:13:06.730
+<v Charles Caskey>[laughs]
+
+1578
+01:13:06.790 --> 01:13:07.750
+<v Elsa Fouragnan>But hold on. There is another-
+
+1579
+01:13:07.870 --> 01:13:08.370
+<v Keith Murphy>Yeah. [laughs]
+
+1580
+01:13:07.990 --> 01:13:08.490
+<v Elsa Fouragnan>... there's another problem-
+
+1581
+01:13:08.250 --> 01:13:09.530
+<v Keith Murphy>That's a strong two from Elsa.
+
+1582
+01:13:09.830 --> 01:13:10.370
+<v Keith Murphy>Write that down.
+
+1583
+01:13:10.410 --> 01:13:13.150
+<v Charles Caskey>Okay. Yeah. So there's-- How much do we, how well do we think we
+
+1584
+01:13:13.190 --> 01:13:14.750
+<v Charles Caskey>know this? I thought we knew it pretty well.
+
+1585
+01:13:14.810 --> 01:13:15.370
+<v Charles Caskey>It sounds like a little more-
+
+1586
+01:13:15.370 --> 01:13:18.370
+<v Elsa Fouragnan>The, there is another problem, is the time of the recording.
+
+1587
+01:13:19.070 --> 01:13:20.430
+<v Elsa Fouragnan>So that's what I'm talking about.
+
+1588
+01:13:20.510 --> 01:13:21.010
+<v Charles Caskey>Okay.
+
+1589
+01:13:20.550 --> 01:13:23.790
+<v Elsa Fouragnan>I'm not even talking about when you are stimulating the tissue.
+
+1590
+01:13:24.310 --> 01:13:27.510
+<v Elsa Fouragnan>I'm talking about the, what is happening after-
+
+1591
+01:13:28.010 --> 01:13:28.510
+<v Charles Caskey>Yep
+
+1592
+01:13:28.090 --> 01:13:32.190
+<v Elsa Fouragnan>... and if the ultrasound effects are gonna be different across the different state
+
+1593
+01:13:32.250 --> 01:13:33.610
+<v Elsa Fouragnan>of what is happening after.
+
+1594
+01:13:34.290 --> 01:13:34.870
+<v Charles Caskey>Oh.
+
+1595
+01:13:35.590 --> 01:13:36.090
+<v Keith Murphy>Yeah.
+
+1596
+01:13:35.650 --> 01:13:37.130
+<v Charles Caskey>I see. So it's not even just...
+
+1597
+01:13:37.190 --> 01:13:41.180
+<v Charles Caskey>Okay, so that is the state of the brain- ...
+
+1598
+01:13:41.260 --> 01:13:43.460
+<v Charles Caskey>matters for the neuromodulatory effect-
+
+1599
+01:13:43.460 --> 01:13:43.960
+<v Elsa Fouragnan>Correct
+
+1600
+01:13:43.740 --> 01:13:48.740
+<v Charles Caskey>... but it doesn't necessarily matter that-- or m- it's not a necessary condition
+
+1601
+01:13:48.780 --> 01:13:52.420
+<v Charles Caskey>that the brain is in a specific s- state when the modulation occurs.
+
+1602
+01:13:52.960 --> 01:13:55.280
+<v Elsa Fouragnan>Well, we think-- No, we think it matters as well.
+
+1603
+01:13:55.380 --> 01:13:57.560
+<v Elsa Fouragnan>So what we are trying to do, and I think Keith is the same
+
+1604
+01:13:57.620 --> 01:14:01.240
+<v Elsa Fouragnan>because you guys have protocol that are very long, is that you just control
+
+1605
+01:14:01.280 --> 01:14:06.320
+<v Elsa Fouragnan>for that state, right? You just make them do something, but across participants, they
+
+1606
+01:14:06.340 --> 01:14:08.100
+<v Elsa Fouragnan>will all do s- all do the same thing.
+
+1607
+01:14:08.580 --> 01:14:09.080
+<v Charles Caskey>Yeah.
+
+1608
+01:14:08.840 --> 01:14:14.820
+<v Elsa Fouragnan>But the, the, the DACC example for us in order to somehow maximize our
+
+1609
+01:14:14.920 --> 01:14:18.680
+<v Elsa Fouragnan>chance, but again, we haven't done a systematic comparison, is that we did induce
+
+1610
+01:14:18.780 --> 01:14:19.960
+<v Elsa Fouragnan>pain during the stimulation.
+
+1611
+01:14:20.420 --> 01:14:20.920
+<v Charles Caskey>Mm-hmm. Yeah.
+
+1612
+01:14:20.440 --> 01:14:23.660
+<v Elsa Fouragnan>And we did it consistently, consistently across participant.
+
+1613
+01:14:24.580 --> 01:14:28.060
+<v Elsa Fouragnan>But because we didn't have the other arm when we didn't do that and
+
+1614
+01:14:28.080 --> 01:14:29.880
+<v Elsa Fouragnan>we had everything else the same-
+
+1615
+01:14:30.520 --> 01:14:31.020
+<v Charles Caskey>Uh-huh
+
+1616
+01:14:30.660 --> 01:14:31.620
+<v Elsa Fouragnan>... we don't know.
+
+1617
+01:14:32.700 --> 01:14:33.200
+<v Charles Caskey>Oh, yeah.
+
+1618
+01:14:33.260 --> 01:14:33.760
+<v Keith Murphy>Yeah.
+
+1619
+01:14:33.300 --> 01:14:35.120
+<v Charles Caskey>Got it. Got it. Yeah. Then we've-
+
+1620
+01:14:35.260 --> 01:14:35.760
+<v Keith Murphy>So too, still
+
+1621
+01:14:35.560 --> 01:14:40.560
+<v Charles Caskey>... the-- We've see, we see pretty different networks, um, in, in our, in
+
+1622
+01:14:40.620 --> 01:14:45.880
+<v Charles Caskey>primate studies where it's an, an induced noxious stimulus of, of heat on the
+
+1623
+01:14:45.940 --> 01:14:46.440
+<v Charles Caskey>hand.
+
+1624
+01:14:46.820 --> 01:14:47.320
+<v Elsa Fouragnan>Mm.
+
+1625
+01:14:47.060 --> 01:14:52.960
+<v Charles Caskey>And we look more at the, the immediate seconds surrounding the, that, and we
+
+1626
+01:14:53.000 --> 01:14:58.360
+<v Charles Caskey>see pretty different, uh, brain circuits, uh, in l- lighting up, for lack of
+
+1627
+01:14:58.400 --> 01:15:04.480
+<v Charles Caskey>better word, um, between pain condition, uh, pain plus focused ultrasound,
+
+1628
+01:15:04.620 --> 01:15:07.960
+<v Charles Caskey>and then no condition. It's d- different, or the resting state.
+
+1629
+01:15:08.020 --> 01:15:09.140
+<v Charles Caskey>So yeah, there, there's definitely- So like this thing ...
+
+1630
+01:15:09.160 --> 01:15:11.600
+<v Charles Caskey>differential parts of the brain in the moment.
+
+1631
+01:15:11.680 --> 01:15:12.180
+<v Elsa Fouragnan>Yep.
+
+1632
+01:15:11.740 --> 01:15:15.260
+<v Charles Caskey>And so, yeah, it's very entangled with the temporal as well.
+
+1633
+01:15:15.280 --> 01:15:18.060
+<v Keith Murphy>People, uh, people routinely fall asleep during our studies.
+
+1634
+01:15:18.460 --> 01:15:19.920
+<v Keith Murphy>It's, like, comfortable. They're in a room.
+
+1635
+01:15:20.260 --> 01:15:22.940
+<v Keith Murphy>We followed Soraya's protocol. They watch, uh, Planet Earth.
+
+1636
+01:15:23.720 --> 01:15:24.220
+<v Keith Murphy>And, and-
+
+1637
+01:15:24.160 --> 01:15:24.660
+<v Elsa Fouragnan>Oh, nice
+
+1638
+01:15:24.420 --> 01:15:27.920
+<v Keith Murphy>... when, when we have research coordinators across studies who are new and they're
+
+1639
+01:15:27.940 --> 01:15:29.280
+<v Keith Murphy>like, "Well, what if they're falling asleep?"
+
+1640
+01:15:29.320 --> 01:15:32.300
+<v Keith Murphy>And I'm like, "Yeah, I mean, let them, let them do it."
+
+1641
+01:15:32.440 --> 01:15:36.240
+<v Keith Murphy>I, I don't think we have the bandwidth to be sitting there and keeping
+
+1642
+01:15:36.260 --> 01:15:39.120
+<v Keith Murphy>them awake, and, like, that may induce its own stress.
+
+1643
+01:15:39.240 --> 01:15:43.380
+<v Keith Murphy>So, um, as long as you're consistent about it, but I, I guarantee if
+
+1644
+01:15:43.400 --> 01:15:47.540
+<v Keith Murphy>they're sleeping, what it's doing in the brain, you know, it's like, that's gotta
+
+1645
+01:15:47.580 --> 01:15:49.620
+<v Keith Murphy>be way different. Like we know-
+
+1646
+01:15:49.640 --> 01:15:50.140
+<v Elsa Fouragnan>Yeah
+
+1647
+01:15:49.700 --> 01:15:51.120
+<v Keith Murphy>... during sleep the brain goes into- I would be worried if they were
+
+1648
+01:15:51.120 --> 01:15:52.380
+<v Keith Murphy>falling asleep ... highly synchronized states.
+
+1649
+01:15:53.080 --> 01:15:56.260
+<v Keith Murphy>Yeah. Well, well, we, you know, we're not worried because the effects are still
+
+1650
+01:15:56.300 --> 01:16:01.040
+<v Keith Murphy>good, but we're definitely starting to ask the question, what happens to the effect
+
+1651
+01:16:01.120 --> 01:16:03.440
+<v Keith Murphy>size when they did fall asleep during the stimulation?
+
+1652
+01:16:03.500 --> 01:16:04.020
+<v Elsa Fouragnan>Mm.
+
+1653
+01:16:04.580 --> 01:16:05.080
+<v Keith Murphy>Trying to parse that out.
+
+1654
+01:16:04.840 --> 01:16:08.520
+<v Charles Caskey>This must be somehow, like, all throughout fMRI literature, right?
+
+1655
+01:16:08.640 --> 01:16:09.140
+<v Charles Caskey>Like-
+
+1656
+01:16:08.720 --> 01:16:09.940
+<v Keith Murphy>Oh my God, definitely
+
+1657
+01:16:09.940 --> 01:16:11.740
+<v Charles Caskey>... people falling asleep in this and stuff.
+
+1658
+01:16:11.740 --> 01:16:14.520
+<v Charles Caskey>[chuckles] Yeah. Like truly resting state.
+
+1659
+01:16:15.460 --> 01:16:15.960
+<v Elsa Fouragnan>And with my cat. [laughing]
+
+1660
+01:16:15.520 --> 01:16:16.760
+<v Keith Murphy>It's real resting state.
+
+1661
+01:16:17.880 --> 01:16:21.100
+<v Elsa Fouragnan>Did you not have that, Charles, when you were looking at your non-human primate
+
+1662
+01:16:21.160 --> 01:16:23.480
+<v Elsa Fouragnan>work? They fall asleep in the scanner all the time.
+
+1663
+01:16:23.580 --> 01:16:26.000
+<v Charles Caskey>Oh, yeah, yeah, yeah. They're like, we're-- Yeah, it's, we're-
+
+1664
+01:16:26.240 --> 01:16:26.860
+<v Keith Murphy>The macaques.
+
+1665
+01:16:26.880 --> 01:16:27.420
+<v Charles Caskey>Um- Yeah, that's absolutely-
+
+1666
+01:16:28.440 --> 01:16:28.940
+<v Elsa Fouragnan>Yes.
+
+1667
+01:16:28.560 --> 01:16:29.060
+<v Keith Murphy>They take a nap?
+
+1668
+01:16:30.120 --> 01:16:30.800
+<v Elsa Fouragnan>They take a nap.
+
+1669
+01:16:30.840 --> 01:16:31.340
+<v Charles Caskey>Yeah, yeah.
+
+1670
+01:16:30.880 --> 01:16:33.780
+<v Elsa Fouragnan>Sometimes they stop working, and you just have to wait.
+
+1671
+01:16:33.820 --> 01:16:34.600
+<v Charles Caskey>They get into a... Yeah, yeah.
+
+1672
+01:16:34.740 --> 01:16:37.060
+<v Charles Caskey>They d- they, yeah, they-- Absolutely.
+
+1673
+01:16:37.080 --> 01:16:39.820
+<v Charles Caskey>And then in human work, for sure, like, yeah, I mean, it's just you
+
+1674
+01:16:39.880 --> 01:16:42.760
+<v Charles Caskey>get in there, you lay down in the scanner, things get comfortable.
+
+1675
+01:16:42.820 --> 01:16:45.160
+<v Charles Caskey>You got, uh- [chuckles] ... you got the headphones on maybe.
+
+1676
+01:16:45.360 --> 01:16:45.860
+<v Charles Caskey>Uh, yeah.
+
+1677
+01:16:46.880 --> 01:16:50.480
+<v Elsa Fouragnan>But maybe if we want to bring the r- the-- people are listening, are
+
+1678
+01:16:50.580 --> 01:16:56.380
+<v Elsa Fouragnan>still listening now, [chuckles] um, to just end on a, on a high note
+
+1679
+01:16:56.640 --> 01:16:58.620
+<v Elsa Fouragnan>is, okay, we're saying it's complicated, right?
+
+1680
+01:16:58.740 --> 01:17:02.120
+<v Elsa Fouragnan>But, um, one, we hope it's not untractable.
+
+1681
+01:17:02.280 --> 01:17:08.140
+<v Elsa Fouragnan>Like, we can hopefully track all of this, uh, with sufficient, you know, study
+
+1682
+01:17:08.340 --> 01:17:11.480
+<v Elsa Fouragnan>being performed and the, the domain growing.
+
+1683
+01:17:12.140 --> 01:17:16.320
+<v Elsa Fouragnan>And, and it's still very exciting, so we shouldn't stop just before because things
+
+1684
+01:17:16.340 --> 01:17:19.600
+<v Elsa Fouragnan>don't make too much sense. I think we just need to understand why, why-
+
+1685
+01:17:19.600 --> 01:17:20.980
+<v Keith Murphy>It's even more reason to keep going.
+
+1686
+01:17:21.520 --> 01:17:22.020
+<v Elsa Fouragnan>Yeah.
+
+1687
+01:17:21.840 --> 01:17:24.660
+<v Charles Caskey>Yeah, yeah. Yeah, we view this as a motivation, as a challenge.
+
+1688
+01:17:24.920 --> 01:17:25.420
+<v Charles Caskey>Uh-
+
+1689
+01:17:25.060 --> 01:17:25.560
+<v Elsa Fouragnan>Exactly
+
+1690
+01:17:25.340 --> 01:17:27.660
+<v Charles Caskey>... and, and, and the-- Yeah, I think this comes up a lot.
+
+1691
+01:17:27.700 --> 01:17:31.460
+<v Charles Caskey>It's sort of like, do, d- should we just stop because it's, because it's
+
+1692
+01:17:31.500 --> 01:17:33.160
+<v Charles Caskey>complicated? But nothing is like that.
+
+1693
+01:17:33.280 --> 01:17:36.140
+<v Charles Caskey>Nothing is-- You know, we don't do that with anything else.
+
+1694
+01:17:36.140 --> 01:17:39.620
+<v Charles Caskey>[chuckles] We didn't, like, we didn't learn to, like, fly airplanes because we were,
+
+1695
+01:17:40.040 --> 01:17:43.200
+<v Charles Caskey>as humans, because we were like, "Oh, wow, that's gonna, that-- We can get
+
+1696
+01:17:43.320 --> 01:17:43.820
+<v Charles Caskey>hurt."
+
+1697
+01:17:43.640 --> 01:17:44.140
+<v Keith Murphy>Oh, boy. [laughing]
+
+1698
+01:17:44.260 --> 01:17:47.820
+<v Charles Caskey>Like or something like we, we didn't ge- get into space by being like,
+
+1699
+01:17:47.880 --> 01:17:49.560
+<v Charles Caskey>"Oh, gosh, this is gonna be tough.
+
+1700
+01:17:50.060 --> 01:17:52.020
+<v Charles Caskey>Uh, let's just stop." It's just not in our nature.
+
+1701
+01:17:52.160 --> 01:17:52.840
+<v Charles Caskey>So yeah.
+
+1702
+01:17:52.880 --> 01:17:53.380
+<v Keith Murphy>Got to keep going.
+
+1703
+01:17:53.060 --> 01:17:56.500
+<v Elsa Fouragnan>It's not in our nature, and the brain is the most complex organ- Yep
+
+1704
+01:17:56.500 --> 01:17:58.580
+<v Elsa Fouragnan>... in the universe, so [chuckles] we-
+
+1705
+01:17:58.720 --> 01:17:59.220
+<v Charles Caskey>Yeah
+
+1706
+01:17:58.820 --> 01:18:00.140
+<v Elsa Fouragnan>... still have a lot to learn.
+
+1707
+01:18:00.220 --> 01:18:00.740
+<v Elsa Fouragnan>[chuckles]
+
+1708
+01:18:00.800 --> 01:18:03.420
+<v Charles Caskey>Wh- while we're here, let's get, let's learn as much as we can.
+
+1709
+01:18:03.500 --> 01:18:05.360
+<v Charles Caskey>It's, yeah, it's, it's a, that's a motivator.
+
+1710
+01:18:05.620 --> 01:18:09.260
+<v Charles Caskey>But it is, it is-- But I think it's, it's n- a healthy amount
+
+1711
+01:18:09.320 --> 01:18:14.080
+<v Charles Caskey>of, uh, nuance needs to be-- It needs, there needs to be understood that
+
+1712
+01:18:14.120 --> 01:18:17.800
+<v Charles Caskey>there's, this is not a, a switch that you flip that's gonna fix all
+
+1713
+01:18:17.860 --> 01:18:23.520
+<v Charles Caskey>your problems. It's not, uh, it's not, uh, D- it's not fully remote non-invasive
+
+1714
+01:18:23.600 --> 01:18:27.920
+<v Charles Caskey>DBS, which I think a lot of people wa- have initially kind of viewed
+
+1715
+01:18:27.980 --> 01:18:29.800
+<v Charles Caskey>ultrasound as maybe it could be like that.
+
+1716
+01:18:30.440 --> 01:18:32.280
+<v Charles Caskey>Um, there, there are practical problems.
+
+1717
+01:18:32.380 --> 01:18:37.620
+<v Charles Caskey>There's unknown scientific questions, but they're inspiring questions that if you answer, we could
+
+1718
+01:18:37.980 --> 01:18:41.260
+<v Charles Caskey>have a good impact. So yeah, I, I, I'm with you on the positive
+
+1719
+01:18:41.320 --> 01:18:43.440
+<v Charles Caskey>note of, like, uh, we, we shouldn't get bogged down and-
+
+1720
+01:18:43.460 --> 01:18:45.000
+<v Elsa Fouragnan>We love ultrasound. [laughing]
+
+1721
+01:18:45.080 --> 01:18:47.420
+<v Charles Caskey>Yeah, yeah, yeah. Exa- Yeah, exactly.
+
+1722
+01:18:47.560 --> 01:18:48.060
+<v Charles Caskey>[chuckles]
+
+1723
+01:18:47.880 --> 01:18:50.080
+<v Keith Murphy>Yeah, actually, guys, we could use that for a picture.
+
+1724
+01:18:51.520 --> 01:18:52.100
+<v Keith Murphy>Everybody do it.
+
+1725
+01:18:53.780 --> 01:18:54.500
+<v Elsa Fouragnan>So in my lab-
+
+1726
+01:18:54.540 --> 01:18:55.040
+<v Keith Murphy>My mom would appreciate it
+
+1727
+01:18:54.860 --> 01:18:58.160
+<v Elsa Fouragnan>... they do something like this, and I still cannot do it really, where-
+
+1728
+01:18:58.400 --> 01:19:00.360
+<v Keith Murphy>Oh, yeah. I've seen that in Squid Games
+
+1729
+01:19:00.380 --> 01:19:01.460
+<v Elsa Fouragnan>... you really have to-
+
+1730
+01:19:01.580 --> 01:19:03.600
+<v Charles Caskey>Oh, is this something-- Oh, okay, this is something new.
+
+1731
+01:19:03.600 --> 01:19:04.380
+<v Keith Murphy>It's a heart. It's a heart.
+
+1732
+01:19:04.400 --> 01:19:07.000
+<v Charles Caskey>Man, I f- I feel like I just gave my first, like, hand heart
+
+1733
+01:19:07.040 --> 01:19:09.080
+<v Charles Caskey>this past year. I think I'm getting, like, old and lucky.
+
+1734
+01:19:09.100 --> 01:19:09.600
+<v Charles Caskey>[chuckles]
+
+1735
+01:19:09.120 --> 01:19:11.780
+<v Keith Murphy>Dude, you're a little behind. You gotta do a little finger cross.
+
+1736
+01:19:12.560 --> 01:19:13.780
+<v Charles Caskey>Yeah. Gotta get, get with it.
+
+1737
+01:19:13.800 --> 01:19:17.160
+<v Charles Caskey>[chuckles] So this brings us to the end of the episode where we like
+
+1738
+01:19:17.200 --> 01:19:20.400
+<v Charles Caskey>to end on a high note and point out a FUS win.
+
+1739
+01:19:20.680 --> 01:19:24.640
+<v Charles Caskey>We got, uh, exactly zero submissions since the last one, uh, for this.
+
+1740
+01:19:24.680 --> 01:19:28.720
+<v Charles Caskey>So we're gonna defer to Elsa, uh, to tell us about a recent FUS
+
+1741
+01:19:28.880 --> 01:19:30.560
+<v Charles Caskey>win and its impact on the field.
+
+1742
+01:19:31.360 --> 01:19:36.320
+<v Elsa Fouragnan>Um, yes. So I was, uh, super honored to be, uh, the, the examiner
+
+1743
+01:19:36.400 --> 01:19:41.440
+<v Elsa Fouragnan>of Ben Kop's PhD, who wrote this really, really important paper in eLife in,
+
+1744
+01:19:41.500 --> 01:19:46.520
+<v Elsa Fouragnan>uh, 2024 about auditory confound and, and peripheral confound in general, and how to
+
+1745
+01:19:46.560 --> 01:19:51.880
+<v Elsa Fouragnan>do ultrasound neu- neuromodulation thinking very, very carefully about sham and so on.
+
+1746
+01:19:52.360 --> 01:19:56.460
+<v Elsa Fouragnan>And he defended his PhD with such brilliance.
+
+1747
+01:19:56.680 --> 01:20:00.420
+<v Elsa Fouragnan>It was absolutely humbling. Uh, so congrats, Ben.
+
+1748
+01:20:00.420 --> 01:20:01.720
+<v Elsa Fouragnan>[clapping] You're my winner.
+
+1749
+01:20:03.360 --> 01:20:03.860
+<v Keith Murphy>Congrats, Ben.
+
+1750
+01:20:03.560 --> 01:20:07.980
+<v Charles Caskey>Yes, indeed. Indeed. So yeah, so we have, so we have awesome progress in
+
+1751
+01:20:08.000 --> 01:20:09.880
+<v Charles Caskey>the field related to the auditory confound.
+
+1752
+01:20:09.920 --> 01:20:14.600
+<v Charles Caskey>We have another PhD scientist contributing to the field, uh, who's, who's awesome.
+
+1753
+01:20:15.060 --> 01:20:16.540
+<v Charles Caskey>So yeah, that's, that's, that's absolutely-
+
+1754
+01:20:16.540 --> 01:20:20.400
+<v Elsa Fouragnan>And he's now at Stanford actually for his postdoc with Kim Butts Pauly, so.
+
+1755
+01:20:20.980 --> 01:20:23.360
+<v Charles Caskey>Ah, so we, we have, we have high expectations-
+
+1756
+01:20:23.460 --> 01:20:23.960
+<v Keith Murphy>More good work coming
+
+1757
+01:20:23.820 --> 01:20:25.000
+<v Charles Caskey>... Ben. We got-- [chuckles]
+
+1758
+01:20:25.000 --> 01:20:26.860
+<v Keith Murphy>Ben, keep it up, man. Don't let us down.
+
+1759
+01:20:26.900 --> 01:20:28.180
+<v Charles Caskey>Keep it up. Keep it up.
+
+1760
+01:20:28.180 --> 01:20:28.680
+<v Charles Caskey>[chuckles] Okay.
+
+1761
+01:20:28.600 --> 01:20:31.720
+<v Keith Murphy>And with that, this has been a great episode of FUS Forward.
+
+1762
+01:20:32.060 --> 01:20:35.860
+<v Keith Murphy>Elsa, thank you so much for joining Charles and I, and we, we look
+
+1763
+01:20:35.900 --> 01:20:38.840
+<v Keith Murphy>forward to having you in the future with FUS Forward.
+
+1764
+01:20:39.000 --> 01:20:46.020
+<v Keith Murphy>[outro music]

@@ -1,0 +1,137 @@
+{
+ "_note": "Claude's review of out/flags/06.json. 'fix' may only swap a flagged span for a listed term; 'uncertain' words are marked in the output, not changed (by raw word index 'i', or by text anchor 'near_s' + 'text'). Every other flag was checked and kept as transcribed. 'replace' (word corrections) and the text-anchored 'uncertain' entries come from a read-through audit of the transcripts; they are text-based, not checked against the audio: high-confidence corrections are applied, medium ones that need the audio are only marked uncertain. 'speaker' entries are reviewed speaker corrections from the same audit, applied after the voice naming.",
+ "fix": [],
+ "replace": [
+  {
+   "near_s": 952.99,
+   "from": "rat scallion",
+   "to": "rapscallion",
+   "why": "Keith teasing Charles"
+  },
+  {
+   "near_s": 1791.63,
+   "from": "Catherine Schangos",
+   "to": "Katherine Scangos",
+   "why": "UCSF psychiatrist"
+  },
+  {
+   "near_s": 2960.83,
+   "from": "Andrew Crystal",
+   "to": "Andrew Krystal",
+   "why": "UCSF psychiatrist (series-wide S4)"
+  },
+  {
+   "near_s": 1211.86,
+   "from": "Yan's",
+   "to": "Jan's",
+   "why": "Jan Kubanek's subgenual cingulate work (series-wide S4)"
+  },
+  {
+   "near_s": 2614.05,
+   "from": "the damn man",
+   "to": "the DMN",
+   "why": "default mode network: 'being inside your head, overthinking everything'"
+  },
+  {
+   "near_s": 3911.87,
+   "from": "full forward.",
+   "to": "FUS Forward.",
+   "why": "the show's name; medium, text decisive"
+  },
+  {
+   "near_s": 3167.53,
+   "from": "Sabe",
+   "to": "Sabes",
+   "why": "Philip Sabes (UCSF); medium"
+  },
+  {
+   "near_s": 3190.97,
+   "from": "Sabe",
+   "to": "Sabes",
+   "why": "Philip Sabes (UCSF); medium"
+  }
+ ],
+ "uncertain": [
+  {
+   "i": 10532,
+   "why": "low confidence on a name ('Flip Sabe')"
+  },
+  {
+   "i": 3435,
+   "why": "very low confidence"
+  },
+  {
+   "i": 5985,
+   "why": "very low confidence"
+  },
+  {
+   "i": 6249,
+   "why": "very low confidence"
+  },
+  {
+   "i": 7689,
+   "why": "very low confidence"
+  },
+  {
+   "i": 7847,
+   "why": "very low confidence"
+  },
+  {
+   "i": 8700,
+   "why": "very low confidence"
+  },
+  {
+   "i": 9898,
+   "why": "very low confidence"
+  },
+  {
+   "i": 12729,
+   "why": "very low confidence"
+  },
+  {
+   "i": 12730,
+   "why": "very low confidence"
+  },
+  {
+   "i": 12813,
+   "why": "very low confidence"
+  },
+  {
+   "near_s": 3121.17,
+   "text": "U",
+   "why": "probably 'U01' (NIMH grant); medium"
+  }
+ ],
+ "speaker": [
+  {
+   "near_s": 194.56,
+   "text": "What's this guy doing?",
+   "who": "Noah Philip",
+   "why": "Noah voicing outsiders ('...like, you know- What's this guy doing? ... what's going on?'); voice NP 0.24 vs KM 0.07"
+  },
+  {
+   "near_s": 365.8,
+   "text": "what you got wrong. I wanna know what you got wrong.",
+   "who": "Keith Murphy",
+   "why": "ends Keith's request 'tell us- ... what you got wrong'; voice KM 0.37 vs CC 0.22"
+  },
+  {
+   "near_s": 1891.28,
+   "text": "You ever get frustrated in there?",
+   "who": "Keith Murphy",
+   "why": "voice KM 0.43 vs CC 0.28; Keith continues 'Like you're just reaching...'"
+  },
+  {
+   "near_s": 3486.22,
+   "text": "by the way",
+   "who": "Keith Murphy",
+   "why": "ends Keith's 'That's not gonna stick, by the way'"
+  },
+  {
+   "near_s": 555.04,
+   "text": "Oh, that sounds well-controlled",
+   "who": "Keith Murphy",
+   "why": "voice KM 0.32 vs CC 0.18; Keith continues '...but that sounds great'"
+  }
+ ]
+}

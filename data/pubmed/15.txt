@@ -1,0 +1,4003 @@
+
+PMID- 42797541
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20260926
+LR  - 20260929
+IS  - 1424-8247 (Print)
+IS  - 1424-8247 (Electronic)
+IS  - 1424-8247 (Linking)
+VI  - 19
+IP  - 9
+DP  - 2026 Sep 21
+TI  - A Randomized, Double-Blind, Placebo-Controlled Single-Ascending-Dose Study to 
+      Identify a Subperceptual Dose of Psilocybin in Healthy Adults.
+LID - 10.3390/ph19091496 [doi]
+LID - 1496
+AB  - Background/Objectives: Psilocybin shows therapeutic promise for several 
+      psychiatric disorders, but the acute perceptual and cognitive alterations 
+      produced by conventional doses (10-25 mg) require in-clinic supervision, which 
+      limits scalability. Whether the therapeutically relevant pharmacology of 
+      psilocybin can be safely separated from its hallucinogenic activity remains 
+      unresolved. To address this gap, we conducted a Phase 1, randomized, 
+      double-blind, placebo-controlled, single-ascending-dose study to characterize the 
+      safety, pharmacokinetics, and pharmacodynamics of low doses of psilocybin. 
+      Methods: Fifty-six healthy adults received a single oral dose of psilocybin (0.5, 
+      1.0, 1.5, 2.5, 3.5 or 4.0 mg) or matching placebo across seven sequential 
+      cohorts, with each dose escalation reviewed by a Drug Safety Review Committee. 
+      All participants completed the study with no serious adverse events or 
+      discontinuations. Results: Treatment-emergent adverse events were comparable to 
+      placebo and most prominently arose as somnolence. Plasma psilocin appeared 
+      rapidly with a median time to maximum concentration <1 h with dose-proportional 
+      exposure and a short terminal half-life. Subjective drug effects were 
+      dose-related and became distinguishable from placebo at doses >/=2.5 mg. Peak 
+      subjective ratings increased with dose, while altered-state scores remained low 
+      and cognitive changes did not differ from placebo. Psychophysiological engagement 
+      was confirmed by a clear dose-dependent pupillary dilation, while cognitive 
+      performance (attention, vigilance, working memory, impulse control) showed no 
+      dose-dependent decrement, and state anxiety did not increase at any dose. 
+      Conclusions: These findings suggest that low-dose psilocybin may produce 
+      perceptible pharmacological effects without significant perceptual alterations or 
+      cognitive impairment. The results also offer preliminary support for considering 
+      controlled outpatient Phase 2 studies assessing the safety and feasibility of 
+      repeated, self-administered low-dose psilocybin. Retrospective ClinicalTrials.gov 
+      Registration on 17 July 2026 #NCT07710027.
+FAU - Levy-Cooperman, Naama
+AU  - Levy-Cooperman N
+AD  - Altreos Research Partners, Inc., Toronto, ON M6P 1C6, Canada.
+FAU - Sellers, Edward
+AU  - Sellers E
+AD  - Diamond Therapeutics, Inc., Toronto, ON M5X 1B8, Canada.
+FAU - Glue, Paul
+AU  - Glue P
+AD  - Diamond Therapeutics, Inc., Toronto, ON M5X 1B8, Canada.
+FAU - Szeto, Isabella
+AU  - Szeto I
+AD  - Biopharma Services, Inc., Toronto, ON M9L 3A2, Canada.
+FAU - Brown, David
+AU  - Brown D
+AD  - Thermo Fisher Scientific, Mississauga, ON L5N 7K9, Canada.
+FAU - Jarecki-Smith, Jamie
+AU  - Jarecki-Smith J
+AD  - Diamond Therapeutics, Inc., Toronto, ON M5X 1B8, Canada.
+FAU - Tyler, William J
+AU  - Tyler WJ
+AUID- ORCID: 0000-0002-7758-5022
+AD  - Diamond Therapeutics, Inc., Toronto, ON M5X 1B8, Canada.
+AD  - Diamond Therapeutics USA, Inc., Birmingham, AL 35294, USA.
+FAU - McDonnell, Michael B
+AU  - McDonnell MB
+AUID- ORCID: 0000-0002-7460-3598
+AD  - Diamond Therapeutics, Inc., Toronto, ON M5X 1B8, Canada.
+LA  - eng
+SI  - ClinicalTrials.gov/NCT07710027
+GR  - Diamond Therapeutics, Inc./
+PT  - Journal Article
+DEP - 20260921
+PL  - Switzerland
+TA  - Pharmaceuticals (Basel)
+JT  - Pharmaceuticals (Basel, Switzerland)
+JID - 101238453
+PMC - PMC13610208
+OTO - NOTNLM
+OT  - generalized anxiety disorder
+OT  - pharmacodynamics
+OT  - pharmacokinetics
+OT  - psilocin
+OT  - psilocybin
+COIS- NLC consultants to various pharmaceutical and biotech companies, and clinical 
+      research organizations in CNS drug development and abuse potential including as a 
+      paid by consultant by Diamond Therapeutics, Inc. ES, DB, WJT, and MDM are 
+      inventors or co-inventors on methods of treatment, paid consultants, and equity 
+      holding members of Diamond Therapeutics, Inc. WJT is a co-founder of IST, LLC, an 
+      unrelated neurotechnology company, as well as inventor and co-inventor of 
+      neuromodulation methods and devices. No funding or payments were related to the 
+      outcomes of this study.
+EDAT- 2026/09/26 05:35
+MHDA- 2026/09/26 05:36
+PMCR- 2026/09/21
+CRDT- 2026/09/26 01:16
+PHST- 2026/07/17 00:00 [received]
+PHST- 2026/08/18 00:00 [revised]
+PHST- 2026/09/15 00:00 [accepted]
+PHST- 2026/09/26 05:36 [medline]
+PHST- 2026/09/26 05:35 [pubmed]
+PHST- 2026/09/26 01:16 [entrez]
+PHST- 2026/09/21 00:00 [pmc-release]
+AID - ph19091496 [pii]
+AID - pharmaceuticals-19-01496 [pii]
+AID - 10.3390/ph19091496 [doi]
+PST - epublish
+SO  - Pharmaceuticals (Basel). 2026 Sep 21;19(9):1496. doi: 10.3390/ph19091496.
+
+PMID- 42465725
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20260717
+LR  - 20260813
+IS  - 1662-4548 (Print)
+IS  - 1662-453X (Electronic)
+IS  - 1662-453X (Linking)
+VI  - 20
+DP  - 2026
+TI  - Modulating autonomic nervous system activity with transcutaneous auricular vagus 
+      nerve stimulation in Parkinson's disease: a proof of concept study.
+PG  - 1830260
+LID - 10.3389/fnins.2026.1830260 [doi]
+LID - 1830260
+AB  - BACKGROUND: Cardiovascular dysautonomia is a debilitating non-motor symptom of 
+      Parkinson's disease (PD) that limits exercise capacity and neurorehabilitation 
+      outcomes. Transcutaneous auricular vagus nerve stimulation (taVNS) is an emerging 
+      non-invasive neuromodulatory therapy that modulates cardiovascular activity and 
+      could potentially serve as an adjunct to exercise, yet its physiological effects 
+      on cardiovascular function in PD remains unexplored. OBJECTIVE: This 
+      proof-of-concept, sham-controlled crossover pilot study (N = 8) investigated the 
+      acute effects of taVNS on cardiovascular autonomic activity in idiopathic PD. 
+      METHODS: Participants underwent active taVNS (30 Hz, 250 mus, 0.1-4 mA) or sham 
+      stimulation (0 mA) during a 15-min resting phase, immediately followed by the 
+      Ewing Battery of cardiovascular reflexes. Acute autonomic shifts were phenotyped 
+      using continuous heart rate variability (HRV) monitoring. RESULTS: This 
+      proof-of-concept protocol was feasible, as all participants completed the 
+      randomized crossover stimulation visits and autonomic reflex testing without 
+      adverse events. Baseline autonomic burden (COMPASS-31) was associated with the 
+      magnitude of heart rate response to active stimulation. Immediately following 
+      stimulation and during the deep breathing challenge, active taVNS was associated 
+      with directionally consistent changes in vagally mediated HRV metrics including 
+      RMSSD, pNN50, and HF power, relative to sham. CONCLUSION: Continuous HRV 
+      monitoring and autonomic reflex testing appears feasible for characterizing acute 
+      autonomic responses to taVNS in PD. Active stimulation was associated with 
+      directional changes in vagally mediated HRV metrics during the post-stimulation 
+      period and during deep breathing, supporting the biological plausibility of acute 
+      autonomic modulation. These preliminary findings justify larger, adequately 
+      powered studies designed to determine whether taVNS can reliably modulate 
+      cardiovascular autonomic regulation and inform rehabilitation optimization in PD.
+CI  - Copyright (c) 2026 Evancho and Tyler.
+FAU - Evancho, Alexandra
+AU  - Evancho A
+AD  - Center for Engagement in Disability Health and Rehabilitation Science (CEDHARS), 
+      Department of Physical Therapy, The University of Alabama at Birmingham, 
+      Birmingham, AL, United States.
+FAU - Tyler, W J
+AU  - Tyler WJ
+AD  - Department of Biomedical Engineering, The University of Alabama at Birmingham, 
+      Birmingham, AL, United States.
+LA  - eng
+PT  - Journal Article
+DEP - 20260702
+PL  - Switzerland
+TA  - Front Neurosci
+JT  - Frontiers in neuroscience
+JID - 101478481
+PMC - PMC13372895
+OTO - NOTNLM
+OT  - Parkinson's disease
+OT  - autonomic nervous system dysfunction
+OT  - dysautonomia
+OT  - transauricular vagus nerve stimulation
+OT  - vagus nerve stimulation
+COIS- WJT is co-founder of IST, LLC and an inventor and co-inventor on neuromodulation 
+      methods and devices for treating various disorders. The remaining author(s) 
+      declared that this work was conducted in the absence of any commercial or 
+      financial relationships that could be construed as a potential conflict of 
+      interest.
+EDAT- 2026/07/17 12:41
+MHDA- 2026/07/17 12:42
+PMCR- 2026/07/02
+CRDT- 2026/07/17 07:03
+PHST- 2026/03/13 00:00 [received]
+PHST- 2026/06/03 00:00 [revised]
+PHST- 2026/06/08 00:00 [accepted]
+PHST- 2026/07/17 12:42 [medline]
+PHST- 2026/07/17 12:41 [pubmed]
+PHST- 2026/07/17 07:03 [entrez]
+PHST- 2026/07/02 00:00 [pmc-release]
+AID - 10.3389/fnins.2026.1830260 [doi]
+PST - epublish
+SO  - Front Neurosci. 2026 Jul 2;20:1830260. doi: 10.3389/fnins.2026.1830260. 
+      eCollection 2026.
+
+PMID- 42347126
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20260625
+LR  - 20260813
+IS  - 2035-8385 (Print)
+IS  - 2035-8377 (Electronic)
+IS  - 2035-8385 (Linking)
+VI  - 18
+IP  - 6
+DP  - 2026 Jun 17
+TI  - Auricular Vagus Nerve Stimulation Combined with Physical Therapy for Individuals 
+      with Parkinson's Disease: A Pilot Randomized Sham-Controlled Trial.
+LID - 10.3390/neurolint18060118 [doi]
+LID - 118
+AB  - Background: Both neuromodulation and physical therapy have been shown to mitigate 
+      motor and non-motor symptoms of Parkinson's disease. To date, no studies have 
+      examined the integration of transcutaneous auricular vagus nerve stimulation 
+      (taVNS) with physical therapy approaches for improving Parkinsonian symptoms. The 
+      purpose of this study was to investigate the safety, tolerability, and 
+      feasibility of combining taVNS with physical therapy to enhance the therapeutic 
+      benefits of exercise as medicine in a clinical setting. Methods: Participants 
+      were randomly assigned to receive active or sham bilateral taVNS in combination 
+      with PT for 12 visits over 6 weeks. Safety, tolerability, and feasibility 
+      outcomes were primary. Secondly, exploratory analyses of changes in 
+      cardiovascular and motor function over time were also performed. Results: 
+      Overall, taVNS was safe and well-tolerated prior to PT. Cardiovascular analyses 
+      suggest that active taVNS may augment HR response to exercise compared to sham. 
+      For motor outcomes, both groups showed significant overall improvements; however, 
+      no significant between-group differences were found. Conclusions: The preliminary 
+      results obtained in this pilot trial confirm that taVNS combined with physical 
+      therapy for individuals with PD is safe and feasible. The exploratory 
+      cardiovascular and motor findings support the need for larger, adequately powered 
+      clinical trials investigating the integration of taVNS into PT and exercise 
+      methods for improving PD symptomology. Trial registration: ClinicalTrials.gov 
+      NCT05871151.
+FAU - Evancho, Alexandra
+AU  - Evancho A
+AUID- ORCID: 0000-0002-6850-8316
+AD  - Department of Physical Therapy, University of Alabama at Birmingham, Birmingham, 
+      AL 35294, USA.
+AD  - Center for Engagement in Disability Health and Rehabilitation Sciences, 
+      University of Alabama at Birmingham, Birmingham, AL 35294, USA.
+AD  - Center for Neuroengineering and Brain Computer Interfaces, University of Alabama 
+      at Birmingham, Birmingham, AL 35294, USA.
+FAU - Dawson, Jennifer
+AU  - Dawson J
+AD  - Birmingham Veterans Affairs, Birmingham, AL 35294, USA.
+FAU - Walker, Harrison C
+AU  - Walker HC
+AUID- ORCID: 0000-0002-4601-3486
+AD  - Center for Neuroengineering and Brain Computer Interfaces, University of Alabama 
+      at Birmingham, Birmingham, AL 35294, USA.
+AD  - Department of Neurology, University of Alabama at Birmingham, Birmingham, AL 
+      35294, USA.
+FAU - Ballmann, Christopher G
+AU  - Ballmann CG
+AUID- ORCID: 0000-0002-7839-8894
+AD  - Department of Physical Therapy, University of Alabama at Birmingham, Birmingham, 
+      AL 35294, USA.
+AD  - Department of Human Studies, University of Alabama at Birmingham, Birmingham, AL 
+      35294, USA.
+FAU - Tyler, William J
+AU  - Tyler WJ
+AUID- ORCID: 0000-0002-7758-5022
+AD  - Center for Neuroengineering and Brain Computer Interfaces, University of Alabama 
+      at Birmingham, Birmingham, AL 35294, USA.
+AD  - Department of Biomedical Engineering, University of Alabama at Birmingham, 
+      Birmingham, AL 35294, USA.
+LA  - eng
+SI  - ClinicalTrials.gov/NCT05871151
+GR  - N/A/University of Alabama at Birmingham/
+PT  - Journal Article
+DEP - 20260617
+PL  - Switzerland
+TA  - Neurol Int
+JT  - Neurology international
+JID - 101551564
+PMC - PMC13305713
+OTO - NOTNLM
+OT  - Parkinson's disease
+OT  - physical therapy
+OT  - taVNS
+COIS- WJT is an equity holding co-founder of IST, LLC and an inventor and co-inventor 
+      on issued and pending neuromodulation methods and device patents for treating 
+      various disorders. All other authors declare no financial or non-financial 
+      competing interests.
+EDAT- 2026/06/25 12:38
+MHDA- 2026/06/25 12:39
+PMCR- 2026/06/17
+CRDT- 2026/06/25 09:53
+PHST- 2026/05/22 00:00 [received]
+PHST- 2026/06/12 00:00 [revised]
+PHST- 2026/06/14 00:00 [accepted]
+PHST- 2026/06/25 12:39 [medline]
+PHST- 2026/06/25 12:38 [pubmed]
+PHST- 2026/06/25 09:53 [entrez]
+PHST- 2026/06/17 00:00 [pmc-release]
+AID - neurolint18060118 [pii]
+AID - neurolint-18-00118 [pii]
+AID - 10.3390/neurolint18060118 [doi]
+PST - epublish
+SO  - Neurol Int. 2026 Jun 17;18(6):118. doi: 10.3390/neurolint18060118.
+
+PMID- 41916485
+OWN - NLM
+STAT- In-Process
+LR  - 20260522
+IS  - 1876-4754 (Electronic)
+IS  - 1876-4754 (Linking)
+VI  - 19
+IP  - 3
+DP  - 2026 May-Jun
+TI  - Risk of low-frequency ultrasound stimulation: Response to "Brain injury during 
+      focused ultrasound neuromodulation for substance use disorder".
+PG  - 103091
+LID - S1935-861X(26)00068-9 [pii]
+LID - 10.1016/j.brs.2026.103091 [doi]
+FAU - Bishay, Andrew A E D
+AU  - Bishay AAED
+AD  - Department of Psychiatry & Biobehavioral Sciences, UCLA, 760 Westwood Plaza, Los 
+      Angeles, CA, 90095, United States. Electronic address: andrewbishay@ucla.edu.
+FAU - Schafer, Samantha
+AU  - Schafer S
+AD  - School of Biomedical Engineering, Science and Health Systems, Drexel University, 
+      Philadelphia, PA, United States.
+FAU - Bystritsky, Alexander
+AU  - Bystritsky A
+AD  - Department of Psychiatry & Biobehavioral Sciences, UCLA, 760 Westwood Plaza, Los 
+      Angeles, CA, 90095, United States.
+FAU - Tyler, William J
+AU  - Tyler WJ
+AD  - Department of Biomedical Engineering, University of Alabama at Birmingham and 
+      Heersink UAB School of Medicine, Birmingham, AL, 35233, United States.
+FAU - Monti, Martin M
+AU  - Monti MM
+AD  - Department of Psychiatry & Biobehavioral Sciences, UCLA, 760 Westwood Plaza, Los 
+      Angeles, CA, 90095, United States; Department of Psychology, UCLA, 760 Westwood 
+      Plaza, Suite C8-519, Los Angeles, CA, 90095, United States; Department of 
+      Neurosurgery, UCLA, 760 Westwood Plaza, Suite C8-519, Los Angeles, CA, 90095, 
+      United States.
+FAU - Kubanek, Jan
+AU  - Kubanek J
+AD  - Departments of Psychiatry, Radiology, Neurology, and Biomedical Engineering, 
+      Washington University, St. Louis, MO, 63130, United States.
+FAU - Sanguinetti, Joseph L
+AU  - Sanguinetti JL
+AD  - Department of Psychology, University of Arizona, Tucson, AZ, 85711, United 
+      States.
+FAU - Spivak, Norman M
+AU  - Spivak NM
+AD  - Department of Psychiatry & Biobehavioral Sciences, UCLA, 760 Westwood Plaza, Los 
+      Angeles, CA, 90095, United States; Department of Neurosurgery, UCLA, 760 Westwood 
+      Plaza, Suite C8-519, Los Angeles, CA, 90095, United States; UCLA-Caltech Medical 
+      Scientist Training Program, United States. Electronic address: 
+      Nspivak@mednet.ucla.edu.
+LA  - eng
+PT  - Letter
+DEP - 20260329
+PL  - United States
+TA  - Brain Stimul
+JT  - Brain stimulation
+JID - 101465726
+SB  - IM
+COIS- Declaration of competing interest Mr. Bishay and Dr. Spivak are consultants to 
+      BrainSonix Inc. Ms. Schafer is an inventor on neuromodulation patents. Dr. 
+      Bystritsky is the CEO and shareholder of BrainSonix and inventor on 
+      neuromodulation and treatment patents. Dr. Tyler is a co-founder and shareholder 
+      of IST, LLC and Diamond Therapeutics, Inc and inventor on neuromodulation and 
+      pharmaceutical patents. Dr. Kubanek is a co-founder of SPIRE Therapeutics Inc. 
+      Dr. Sanguinetti is co-founder, CEO, and shareholder of Sanmai Technologies, PBC. 
+      Other authors report no conflicts of interest.
+EDAT- 2026/04/01 00:28
+MHDA- 2026/04/01 00:28
+CRDT- 2026/03/31 19:22
+PHST- 2025/11/18 00:00 [received]
+PHST- 2026/01/05 00:00 [revised]
+PHST- 2026/03/27 00:00 [accepted]
+PHST- 2026/04/01 00:28 [pubmed]
+PHST- 2026/04/01 00:28 [medline]
+PHST- 2026/03/31 19:22 [entrez]
+AID - S1935-861X(26)00068-9 [pii]
+AID - 10.1016/j.brs.2026.103091 [doi]
+PST - ppublish
+SO  - Brain Stimul. 2026 May-Jun;19(3):103091. doi: 10.1016/j.brs.2026.103091. Epub 
+      2026 Mar 29.
+
+PMID- 41717404
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20260220
+LR  - 20260813
+IS  - 2234-943X (Print)
+IS  - 2234-943X (Electronic)
+IS  - 2234-943X (Linking)
+VI  - 16
+DP  - 2026
+TI  - Transcutaneous vagus nerve stimulation in breast cancer: a neuroimmune model to 
+      improve quality of life.
+PG  - 1731999
+LID - 10.3389/fonc.2026.1731999 [doi]
+LID - 1731999
+AB  - Breast cancer care has shifted beyond remission toward optimizing long-term 
+      physiological, emotional, and functional recovery. Many survivors continue, 
+      however, to experience persistent symptom clusters, such as insomnia, fatigue, 
+      anxiety, pain, depression, and cognitive impairment. These poor quality of life 
+      outcomes reflect underlying dysregulation of autonomic, neuroendocrine, and 
+      immune systems. Autonomic imbalance characterized by vagal withdrawal and 
+      sympathetic hyperactivation is linked to increased inflammatory load, impaired 
+      stress regulation, disrupted sleep, and poorer survival outcomes. Given the role 
+      of the vagus nerve in coordinating brain-body signaling and immune modulation, 
+      transcutaneous vagus nerve stimulation (tVNS) has emerged as a promising 
+      intervention to restore autonomic balance and attenuate psychophysiological 
+      burdens. Evidence suggests that tVNS modulates locus coeruleus-norepinephrine 
+      activity, regulates arousal and sleep, reduces fatigue and anxiety, enhances 
+      cognitive function, and activates the cholinergic anti-inflammatory pathways. 
+      Supported by mechanistic and clinical evidence, we propose tVNS as a 
+      precision-guided bioelectronic strategy for improving survivorship outcomes in 
+      breast cancer.
+CI  - Copyright (c) 2026 Do and Tyler.
+FAU - Do, Melissa
+AU  - Do M
+AD  - Department of Biomedical Engineering, University of Alabama at Birmingham, School 
+      of Engineering, Birmingham, AL, United States.
+AD  - Center for Neuroengineering and Brain Computer Interfaces, Heersink UAB School of 
+      Medicine, Birmingham, AL, United States.
+FAU - Tyler, William J
+AU  - Tyler WJ
+AD  - Department of Biomedical Engineering, University of Alabama at Birmingham, School 
+      of Engineering, Birmingham, AL, United States.
+AD  - Center for Neuroengineering and Brain Computer Interfaces, Heersink UAB School of 
+      Medicine, Birmingham, AL, United States.
+LA  - eng
+PT  - Journal Article
+DEP - 20260204
+PL  - Switzerland
+TA  - Front Oncol
+JT  - Frontiers in oncology
+JID - 101568867
+PMC - PMC12913136
+OTO - NOTNLM
+OT  - anxiety
+OT  - autonomic regulation
+OT  - breast cancer
+OT  - fatigue
+OT  - inflammation
+OT  - insomnia
+OT  - quality of life
+OT  - vagus nerve stimulation
+COIS- WT is a co-founder of IST, LLC and an inventor and co-inventor on vagus nerve 
+      stimulation and other neuromodulation methods and devices for treating various 
+      disorders. The remaining author(s) declared that this work was conducted in the 
+      absence of any commercial or financial relationships that could be construed as a 
+      potential conflict of interest.
+EDAT- 2026/02/20 07:05
+MHDA- 2026/02/20 07:06
+PMCR- 2026/02/04
+CRDT- 2026/02/20 04:57
+PHST- 2025/10/24 00:00 [received]
+PHST- 2026/01/08 00:00 [revised]
+PHST- 2026/01/12 00:00 [accepted]
+PHST- 2026/02/20 07:06 [medline]
+PHST- 2026/02/20 07:05 [pubmed]
+PHST- 2026/02/20 04:57 [entrez]
+PHST- 2026/02/04 00:00 [pmc-release]
+AID - 10.3389/fonc.2026.1731999 [doi]
+PST - epublish
+SO  - Front Oncol. 2026 Feb 4;16:1731999. doi: 10.3389/fonc.2026.1731999. eCollection 
+      2026.
+
+PMID- 41594729
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20260128
+LR  - 20260131
+IS  - 2076-3425 (Print)
+IS  - 2076-3425 (Electronic)
+IS  - 2076-3425 (Linking)
+VI  - 16
+IP  - 1
+DP  - 2025 Dec 20
+TI  - Transcutaneous Auricular Vagus Nerve Stimulation for Treating Emotional 
+      Dysregulation and Inflammation in Common Neuropsychiatric Disorders.
+LID - 10.3390/brainsci16010008 [doi]
+LID - 8
+AB  - Development of new therapeutic approaches and strategies for common 
+      neuropsychiatric disorders, including Major Depressive Disorder, anxiety 
+      disorders, and Post-Traumatic Stress Disorder, represent a significant global 
+      health challenge. Recent research indicates that emotional dysregulation and 
+      persistent inflammation are closely linked and serve as key pathophysiological 
+      features of these conditions. Emotional dysregulation is mechanistically coupled 
+      to locus coeruleus and norepinephrine (LC-NE) or noradrenergic system activity. 
+      Stemming from chronic stress, persistently elevated activity of the LC-NE system 
+      leads to hypervigilance, anxious states, and depressed mood. Concurrently, these 
+      symptoms are marked by systemic inflammation as indicated by elevated 
+      pro-inflammatory cytokines, and central neuroinflammation indicated by microglial 
+      activation in brain regions and networks involved in mood regulation and 
+      emotional control. In turn, chronic inflammation increases sympathetic tone and 
+      LC-NE activity resulting in a vortex of psychoneuroimmunological dysfunction that 
+      worsens mental health. Transcutaneous auricular vagus nerve stimulation (taVNS) 
+      in a non-invasive neuromodulation method uniquely positioned to address both 
+      noradrenergic dysfunction and chronic inflammation in neuropsychiatric 
+      applications. Evidence spanning the past decade demonstrates taVNS works via two 
+      complementary mechanisms. An ascending pathway engages vagal afferents projecting 
+      to the LC-NE system in the brain stem, which has been shown to modulate cortical 
+      arousal, cognitive function, mood, and stress responses. Through descending 
+      circuits, taVNS also modulates the cholinergic anti-inflammatory pathway to 
+      suppress the production of pro-inflammatory cytokines like TNF-alpha and IL-6 
+      mitigating poor health outcomes caused by inflammation. By enhancing both central 
+      brain function and peripheral immune responses, taVNS has shown significant 
+      potential for recalibrating perturbed affective-cognitive processing. The present 
+      article describes and discusses recent evidence suggesting that taVNS offers a 
+      promising network-based paradigm for restoring psychoneuroimmunological 
+      homeostasis in common neuropsychiatric conditions.
+FAU - Tyler, William J
+AU  - Tyler WJ
+AUID- ORCID: 0000-0002-7758-5022
+AD  - Center for Neuroengineering and Brain Computer Interfaces, Department of 
+      Biomedical Engineering, School of Engineering, University of Alabama at 
+      Birmingham, Birmingham, AL 35294, USA.
+AD  - Heersink School of Medicine, University of Alabama at Birmingham, Birmingham, AL 
+      35294, USA.
+LA  - eng
+GR  - FA8650-18-2-5402/United States Air Force Research Laboratory/
+PT  - Journal Article
+PT  - Review
+DEP - 20251220
+PL  - Switzerland
+TA  - Brain Sci
+JT  - Brain sciences
+JID - 101598646
+PMC - PMC12838753
+OTO - NOTNLM
+OT  - PTSD
+OT  - anxiety
+OT  - autonomic nervous system
+OT  - cognition
+OT  - depression
+OT  - emotion
+OT  - inflammation
+OT  - mental health
+OT  - neuromodulation
+OT  - vagus nerve
+COIS- WJT is a co-founder of IST, LLC and an inventor and co-inventor on 
+      neuromodulation methods and devices including external ear stimulation for 
+      treating mental health and other disorders.
+EDAT- 2026/01/28 07:47
+MHDA- 2026/01/28 07:48
+PMCR- 2025/12/20
+CRDT- 2026/01/28 01:04
+PHST- 2025/11/18 00:00 [received]
+PHST- 2025/12/16 00:00 [revised]
+PHST- 2025/12/18 00:00 [accepted]
+PHST- 2026/01/28 07:48 [medline]
+PHST- 2026/01/28 07:47 [pubmed]
+PHST- 2026/01/28 01:04 [entrez]
+PHST- 2025/12/20 00:00 [pmc-release]
+AID - brainsci16010008 [pii]
+AID - brainsci-16-00008 [pii]
+AID - 10.3390/brainsci16010008 [doi]
+PST - epublish
+SO  - Brain Sci. 2025 Dec 20;16(1):8. doi: 10.3390/brainsci16010008.
+
+PMID- 41345210
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20260108
+LR  - 20261019
+IS  - 2045-2322 (Electronic)
+IS  - 2045-2322 (Linking)
+VI  - 16
+IP  - 1
+DP  - 2025 Dec 4
+TI  - Bilateral transcutaneous auricular vagus nerve stimulation for the treatment of 
+      insomnia in breast cancer.
+PG  - 1081
+LID - 10.1038/s41598-025-30600-6 [doi]
+LID - 1081
+AB  - Substantial diagnostic and therapeutic advances have been made in medicine to 
+      address breast cancer. There remain unmet needs to translate solutions for 
+      addressing insomnia and mental health concerns in breast cancer patients. In this 
+      open-label, pilot clinical trial, we evaluated the safety and efficacy of 
+      nightly, bilateral, transcutaneous auricular vagus nerve stimulation (taVNS) on 
+      insomnia and mental health outcomes in breast cancer patients across a two-week 
+      treatment period. Our results demonstrate that noninvasive vagus nerve 
+      stimulation can significantly reduce insomnia severity, improve sleep quality, 
+      decrease sleep onset latency, and enhance sleep efficiency. Treatment with taVNS 
+      also significantly reduced the number of nightly awakenings, cancer-related 
+      fatigue, and depression scores while increasing heart rate variability. These 
+      observations demonstrate that auricular vagus nerve stimulation holds promise for 
+      improving sleep quality and mental health in patients diagnosed with breast 
+      cancer. Future investigations aimed at more thoroughly investigating the safety 
+      profile and clinical impacts of taVNS on the quality of life in patients with 
+      breast cancer are warranted.ClinicalTrials.gov Identifier: NCT06006299 
+      23/08/2023.
+CI  - (c) 2025. The Author(s).
+FAU - Do, Melissa
+AU  - Do M
+AD  - Center for Neuroengineering and Brain Computer Interfaces, Schools of Engineering 
+      and Medicine, The University of Alabama at Birmingham (UAB), Birmingham, USA.
+FAU - Evancho, Alexandra
+AU  - Evancho A
+AD  - Center for Engagement in Disability Health and Rehabilitation Sciences, UAB 
+      School of Health Professions, Birmingham, USA.
+AD  - Department of Physical Therapy, UAB School of Health Professions, Birmingham, 
+      USA.
+FAU - Tyler, William J
+AU  - Tyler WJ
+AD  - Center for Neuroengineering and Brain Computer Interfaces, Schools of Engineering 
+      and Medicine, The University of Alabama at Birmingham (UAB), Birmingham, USA. 
+      wjpt@uab.edu.
+AD  - Department of Biomedical Engineering, UAB Schools of Engineering and Medicine, 
+      Birmingham, AL, USA. wjpt@uab.edu.
+LA  - eng
+SI  - ClinicalTrials.gov/NCT06006299
+GR  - PREP Award/University of Alabama at Birmingham/
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20251204
+PL  - England
+TA  - Sci Rep
+JT  - Scientific reports
+JID - 101563288
+SB  - IM
+MH  - Humans
+MH  - Female
+MH  - *Breast Neoplasms/complications
+MH  - *Vagus Nerve Stimulation/methods
+MH  - *Sleep Initiation and Maintenance Disorders/therapy/etiology
+MH  - Middle Aged
+MH  - *Transcutaneous Electric Nerve Stimulation/methods
+MH  - Quality of Life
+MH  - Adult
+MH  - Pilot Projects
+MH  - Aged
+MH  - Treatment Outcome
+MH  - Sleep Quality
+PMC - PMC12783635
+OTO - NOTNLM
+OT  - Breast cancer
+OT  - Cancer
+OT  - Fatigue
+OT  - Insomnia
+OT  - Mental health
+OT  - Neuromodulation
+OT  - Vagus nerve stimulation
+COIS- Declarations. Competing interests: WJT is a co-founder of IST, LLC and an 
+      inventor and co-inventor on neuromodulation methods and devices for treating 
+      various disorders. All other authors declare that the research was conducted in 
+      the absence of any commercial or financial relationships that could be construed 
+      as a potential conflict of interest.
+EDAT- 2025/12/05 01:02
+MHDA- 2026/01/09 00:26
+PMCR- 2025/12/04
+CRDT- 2025/12/04 23:21
+PHST- 2025/08/03 00:00 [received]
+PHST- 2025/11/26 00:00 [accepted]
+PHST- 2026/01/09 00:26 [medline]
+PHST- 2025/12/05 01:02 [pubmed]
+PHST- 2025/12/04 23:21 [entrez]
+PHST- 2025/12/04 00:00 [pmc-release]
+AID - 10.1038/s41598-025-30600-6 [pii]
+AID - 30600 [pii]
+AID - 10.1038/s41598-025-30600-6 [doi]
+PST - epublish
+SO  - Sci Rep. 2025 Dec 4;16(1):1081. doi: 10.1038/s41598-025-30600-6.
+
+PMID- 40718569
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20250731
+IS  - 1664-1078 (Print)
+IS  - 1664-1078 (Electronic)
+IS  - 1664-1078 (Linking)
+VI  - 16
+DP  - 2025
+TI  - The vagus nerve: a cornerstone for mental health and performance optimization in 
+      recreation and elite sports.
+PG  - 1639866
+LID - 10.3389/fpsyg.2025.1639866 [doi]
+LID - 1639866
+AB  - Decades of physiological and psychological research into human performance and 
+      wellness have established a critical role for vagus nerve signaling in peak 
+      physical and cognitive performance. We outline models and perspectives that have 
+      emerged through neuroscience and psychophysiology studies to elucidate how the 
+      vagus nerve governs human performance through its influence on central nervous 
+      system functions and autonomic nervous system activity. These functions include 
+      the monitoring and regulation of cardio-respiratory activity, emotional 
+      responses, inflammation and physical recovery, cognitive control, stress 
+      resilience, and team cohesion. We briefly review some useful interventions such 
+      as transcutaneous auricular vagus nerve stimulation, heart-rate variability 
+      biofeedback, and controlled breathing as accessible tools for enhancing vagal 
+      tone, improving executive functioning under pressure, and mitigating fatigue and 
+      burnout. We describe how these approaches and their biological underpinnings are 
+      rooted by psychological models like the Yerkes-Dodson law and Polyvagal theory to 
+      contextualize their effects on athletic performance. These perspectives suppor 
+      recent shifts in sports science toward integrating vagal-centered approaches as 
+      scalable, evidence-based strategies that can enhance human performance and 
+      wellness.
+CI  - Copyright (c) 2025 Lopez Blanco and Tyler.
+FAU - Lopez Blanco, Christian
+AU  - Lopez Blanco C
+AD  - Department of Biomedical Engineering, Center for Neuroengineering and Brain 
+      Computer Interfaces, University of Alabama at Birmingham, Birmingham, AL, United 
+      States.
+FAU - Tyler, William J
+AU  - Tyler WJ
+AD  - Department of Biomedical Engineering, Center for Neuroengineering and Brain 
+      Computer Interfaces, University of Alabama at Birmingham, Birmingham, AL, United 
+      States.
+AD  - Department of Occupational Therapy, School of Health Professions, University of 
+      Alabama at Birmingham, Birmingham, AL, United States.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20250711
+PL  - Switzerland
+TA  - Front Psychol
+JT  - Frontiers in psychology
+JID - 101550902
+PMC - PMC12289630
+OTO - NOTNLM
+OT  - autonomic nervous system
+OT  - cognition
+OT  - performance
+OT  - recovery
+OT  - sports
+OT  - stress
+OT  - vagus nerve
+COIS- WT is a co-founder and equity holding member of IST, LLC. WT has several pending 
+      and issued patents related to the neuromodulation methods described for enhancing 
+      cognition, skill training, learning, and human performance. The remaining author 
+      declares that the research was conducted in the absence of any commercial or 
+      financial relationships that could be construed as a potential conflict of 
+      interest.
+EDAT- 2025/07/28 18:51
+MHDA- 2025/07/28 18:52
+PMCR- 2025/07/11
+CRDT- 2025/07/28 05:06
+PHST- 2025/06/02 00:00 [received]
+PHST- 2025/06/24 00:00 [accepted]
+PHST- 2025/07/28 18:52 [medline]
+PHST- 2025/07/28 18:51 [pubmed]
+PHST- 2025/07/28 05:06 [entrez]
+PHST- 2025/07/11 00:00 [pmc-release]
+AID - 10.3389/fpsyg.2025.1639866 [doi]
+PST - epublish
+SO  - Front Psychol. 2025 Jul 11;16:1639866. doi: 10.3389/fpsyg.2025.1639866. 
+      eCollection 2025.
+
+PMID- 40485770
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20250611
+IS  - 2296-9144 (Electronic)
+IS  - 2296-9144 (Linking)
+VI  - 12
+DP  - 2025
+TI  - Neurotechnology for enhancing human operation of robotic and semi-autonomous 
+      systems.
+PG  - 1491494
+LID - 10.3389/frobt.2025.1491494 [doi]
+LID - 1491494
+AB  - Human operators of remote and semi-autonomous systems must have a high level of 
+      executive function to safely and efficiently conduct operations. These operators 
+      face unique cognitive challenges when monitoring and controlling robotic 
+      machines, such as vehicles, drones, and construction equipment. The development 
+      of safe and experienced human operators of remote machines requires structured 
+      training and credentialing programs. This review critically evaluates the 
+      potential for incorporating neurotechnology into remote systems operator training 
+      and work to enhance human-machine interactions, performance, and safety. Recent 
+      evidence demonstrating that different noninvasive neuromodulation and 
+      neurofeedback methods can improve critical executive functions such as attention, 
+      learning, memory, and cognitive control is reviewed. We further describe how 
+      these approaches can be used to improve training outcomes, as well as 
+      teleoperator vigilance and decision-making. We also describe how neuromodulation 
+      can help remote operators during complex or high-risk tasks by mitigating 
+      impulsive decision-making and cognitive errors. While our review advocates for 
+      incorporating neurotechnology into remote operator training programs, continued 
+      research is required to evaluate the how these approaches will impact industrial 
+      safety and workforce readiness.
+CI  - Copyright (c) 2025 Tyler, Adavikottu, Blanco, Mysore, Blais, Santello and 
+      Unnikrishnan.
+FAU - Tyler, William J
+AU  - Tyler WJ
+AD  - Department of Biomedical Engineering, University of Alabama at Birmingham, 
+      Birmingham, AL, United States.
+AD  - Center for Neuroengineering and Brain Computer Interfaces, Birmingham, AL, United 
+      States.
+FAU - Adavikottu, Anusha
+AU  - Adavikottu A
+AD  - Department of Civil, Construction, and Environmental Engineering, Birmingham, AL, 
+      United States.
+FAU - Blanco, Christian Lopez
+AU  - Blanco CL
+AD  - Center for Neuroengineering and Brain Computer Interfaces, Birmingham, AL, United 
+      States.
+FAU - Mysore, Archana
+AU  - Mysore A
+AD  - Center for Neuroengineering and Brain Computer Interfaces, Birmingham, AL, United 
+      States.
+AD  - Department of Neurosurgery, UAB School of Medicine, Birmingham, AL, United 
+      States.
+FAU - Blais, Christopher
+AU  - Blais C
+AD  - School of Biological and Health Systems Engineering, Arizona State University, 
+      Tempe, AL, United States.
+FAU - Santello, Marco
+AU  - Santello M
+AD  - School of Biological and Health Systems Engineering, Arizona State University, 
+      Tempe, AL, United States.
+FAU - Unnikrishnan, Avinash
+AU  - Unnikrishnan A
+AD  - Department of Civil, Construction, and Environmental Engineering, Birmingham, AL, 
+      United States.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20250523
+PL  - Switzerland
+TA  - Front Robot AI
+JT  - Frontiers in robotics and AI
+JID - 101749350
+PMC - PMC12141011
+OTO - NOTNLM
+OT  - BCI
+OT  - attention
+OT  - cognition
+OT  - human-machine
+OT  - neuromodulation
+OT  - neurotechnology
+OT  - teleoperations
+COIS- WT is a co-founder of IST, LLC and inventor of patents covering neuromodulation 
+      methods and devices, which are described in this manuscript. The remaining 
+      authors declare that the research was conducted in the absence of any commercial 
+      or financial relationships that could be construed as a potential conflict of 
+      interest.
+EDAT- 2025/06/09 12:30
+MHDA- 2025/06/09 12:31
+PMCR- 2025/05/23
+CRDT- 2025/06/09 06:35
+PHST- 2024/09/05 00:00 [received]
+PHST- 2025/04/24 00:00 [accepted]
+PHST- 2025/06/09 12:31 [medline]
+PHST- 2025/06/09 12:30 [pubmed]
+PHST- 2025/06/09 06:35 [entrez]
+PHST- 2025/05/23 00:00 [pmc-release]
+AID - 1491494 [pii]
+AID - 10.3389/frobt.2025.1491494 [doi]
+PST - epublish
+SO  - Front Robot AI. 2025 May 23;12:1491494. doi: 10.3389/frobt.2025.1491494. 
+      eCollection 2025.
+
+PMID- 39448636
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20250928
+IS  - 2373-8057 (Print)
+IS  - 2373-8057 (Electronic)
+IS  - 2373-8057 (Linking)
+VI  - 10
+IP  - 1
+DP  - 2024 Oct 24
+TI  - Vagus nerve stimulation in Parkinson's disease: a scoping review of animal 
+      studies and human subjects research.
+PG  - 199
+LID - 10.1038/s41531-024-00803-1 [doi]
+LID - 199
+AB  - Parkinson's Disease (PD) is a prevalent, progressive neurodegenerative disease 
+      with motor and non-motor symptoms. Vagus Nerve Stimulation (VNS) has emerged as a 
+      potential therapeutic approach for PD, but published research on this topic 
+      varies widely. This scoping review maps existing literature on VNS for PD, 
+      highlighting stimulation methods, operational parameters, safety profiles, 
+      neurophysiological mechanisms, and clinical outcomes in human and animal models. 
+      Online databases were used to identify 788 papers published between 2013 and 
+      2023, from which 17 publications on invasive and non-invasive VNS in PD were 
+      selected. Studies showed high variability in VNS parameters and study design. 
+      Evidence in animal models and human subjects suggests potential 
+      neurophysiological effects on PD-related pathology and motor function 
+      improvements. However, significant gaps in the literature remain. Future research 
+      should include rigorous reporting of study design, standardization of stimulation 
+      parameters, and larger sample sizes to ultimately facilitate translation of VNS 
+      into clinical practice.
+CI  - (c) 2024. The Author(s).
+FAU - Evancho, Alexandra
+AU  - Evancho A
+AUID- ORCID: 0000-0002-6850-8316
+AD  - University of Alabama at Birmingham School of Health Professions, Birmingham, AL, 
+      USA. amelgin@uab.edu.
+FAU - Do, Melissa
+AU  - Do M
+AD  - University of Alabama at Birmingham School of Engineering, Birmingham, AL, USA.
+FAU - Fortenberry, Damiana
+AU  - Fortenberry D
+AD  - University of Alabama at Birmingham Libraries, Birmingham, AL, USA.
+FAU - Billings, Rebecca
+AU  - Billings R
+AD  - University of Alabama at Birmingham Libraries, Birmingham, AL, USA.
+FAU - Sartayev, Alibek
+AU  - Sartayev A
+AUID- ORCID: 0009-0000-4711-0977
+AD  - University of Alabama at Birmingham Graduate Biomedical Sciences, Birmingham, AL, 
+      USA.
+FAU - Tyler, William J
+AU  - Tyler WJ
+AD  - University of Alabama at Birmingham School of Health Professions, Birmingham, AL, 
+      USA.
+AD  - University of Alabama at Birmingham School of Engineering, Birmingham, AL, USA.
+AD  - University of Alabama at Birmingham School of Medicine, Birmingham, AL, USA.
+LA  - eng
+PT  - Journal Article
+PT  - Scoping Review
+DEP - 20241024
+PL  - United States
+TA  - NPJ Parkinsons Dis
+JT  - NPJ Parkinson's disease
+JID - 101675390
+PMC - PMC11502766
+COIS- WJT is a co-founder of a medical device company and an inventor and co-inventor 
+      on neuromodulation methods and devices for treating various disorders. All other 
+      authors declare no financial or non-financial competing interests.
+EDAT- 2024/10/25 06:23
+MHDA- 2024/10/25 06:24
+PMCR- 2024/10/24
+CRDT- 2024/10/25 00:11
+PHST- 2024/03/07 00:00 [received]
+PHST- 2024/10/02 00:00 [accepted]
+PHST- 2024/10/25 06:24 [medline]
+PHST- 2024/10/25 06:23 [pubmed]
+PHST- 2024/10/25 00:11 [entrez]
+PHST- 2024/10/24 00:00 [pmc-release]
+AID - 10.1038/s41531-024-00803-1 [pii]
+AID - 803 [pii]
+AID - 10.1038/s41531-024-00803-1 [doi]
+PST - epublish
+SO  - NPJ Parkinsons Dis. 2024 Oct 24;10(1):199. doi: 10.1038/s41531-024-00803-1.
+
+PMID- 38117053
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240119
+LR  - 20251113
+IS  - 2050-084X (Electronic)
+IS  - 2050-084X (Linking)
+VI  - 12
+DP  - 2023 Dec 20
+TI  - Transcranial focused ultrasound to human rIFG improves response inhibition 
+      through modulation of the P300 onset latency.
+LID - 10.7554/eLife.86190 [doi]
+LID - e86190
+AB  - Response inhibition in humans is important to avoid undesirable behavioral action 
+      consequences. Neuroimaging and lesion studies point to a locus of inhibitory 
+      control in the right inferior frontal gyrus (rIFG). Electrophysiology studies 
+      have implicated a downstream event-related potential from rIFG, the 
+      fronto-central P300, as a putative neural marker of the success and timing of 
+      inhibition over behavioral responses. However, it remains to be established 
+      whether rIFG effectively drives inhibition and which aspect of P300 activity 
+      uniquely indexes inhibitory control-ERP timing or amplitude. Here, we dissect the 
+      connection between rIFG and P300 for inhibition by using transcranial-focused 
+      ultrasound (tFUS) to target rIFG of human subjects while they performed a 
+      Stop-Signal task. By applying tFUS simultaneously with different task events, we 
+      found behavioral inhibition was improved, but only when applied to rIFG 
+      simultaneously with a 'stop' signal. Improved inhibition through tFUS to rIFG was 
+      indexed by faster stopping times that aligned with significantly shorter 
+      N200/P300 onset latencies. In contrast, P300 amplitude was modulated during tFUS 
+      across all groups without a paired change in behavior. Using tFUS, we provide 
+      evidence for a causal connection between anatomy, behavior, and electrophysiology 
+      underlying response inhibition.
+CI  - (c) 2023, Fine et al.
+FAU - Fine, Justin M
+AU  - Fine JM
+AUID- ORCID: 0000-0003-2378-6854
+AD  - School of Biological and Health Systems Engineering, Arizona State University, 
+      Tempe, United States.
+FAU - Mysore, Archana S
+AU  - Mysore AS
+AD  - School of Biological and Health Systems Engineering, Arizona State University, 
+      Tempe, United States.
+FAU - Fini, Maria E
+AU  - Fini ME
+AD  - School of Biological and Health Systems Engineering, Arizona State University, 
+      Tempe, United States.
+FAU - Tyler, William J
+AU  - Tyler WJ
+AD  - School of Biological and Health Systems Engineering, Arizona State University, 
+      Tempe, United States.
+FAU - Santello, Marco
+AU  - Santello M
+AD  - School of Biological and Health Systems Engineering, Arizona State University, 
+      Tempe, United States.
+LA  - eng
+SI  - Dryad/10.5061/dryad.sj3tx968j
+PT  - Journal Article
+DEP - 20231220
+PL  - England
+TA  - Elife
+JT  - eLife
+JID - 101579614
+SB  - IM
+UOF - doi: 10.1101/649665
+MH  - Humans
+MH  - *Frontal Lobe/physiology
+MH  - *Prefrontal Cortex/physiology
+MH  - Evoked Potentials
+MH  - Inhibition, Psychological
+PMC - PMC10796145
+OTO - NOTNLM
+OT  - ERP
+OT  - cognitive control
+OT  - focused ultrasound
+OT  - human
+OT  - neuromodulation
+OT  - neuroscience
+OT  - response inhibition
+COIS- JF, AM, MF, WT, MS No competing interests declared
+EDAT- 2023/12/20 12:42
+MHDA- 2024/01/19 06:42
+PMCR- 2023/12/20
+CRDT- 2023/12/20 08:53
+PHST- 2023/01/14 00:00 [received]
+PHST- 2023/12/19 00:00 [accepted]
+PHST- 2024/01/19 06:42 [medline]
+PHST- 2023/12/20 12:42 [pubmed]
+PHST- 2023/12/20 08:53 [entrez]
+PHST- 2023/12/20 00:00 [pmc-release]
+AID - 86190 [pii]
+AID - 10.7554/eLife.86190 [doi]
+PST - epublish
+SO  - Elife. 2023 Dec 20;12:e86190. doi: 10.7554/eLife.86190.
+
+PMID- 37545593
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20240322
+IS  - 1662-5161 (Print)
+IS  - 1662-5161 (Electronic)
+IS  - 1662-5161 (Linking)
+VI  - 17
+DP  - 2023
+TI  - A review of combined neuromodulation and physical therapy interventions for 
+      enhanced neurorehabilitation.
+PG  - 1151218
+LID - 10.3389/fnhum.2023.1151218 [doi]
+LID - 1151218
+AB  - Rehabilitation approaches for individuals with neurologic conditions have 
+      increasingly shifted toward promoting neuroplasticity for enhanced recovery and 
+      restoration of function. This review focuses on exercise strategies and 
+      non-invasive neuromodulation techniques that target neuroplasticity, including 
+      transcranial magnetic stimulation (TMS), vagus nerve stimulation (VNS), and 
+      peripheral nerve stimulation (PNS). We have chosen to focus on non-invasive 
+      neuromodulation techniques due to their greater potential for integration into 
+      routine clinical practice. We explore and discuss the application of these 
+      interventional strategies in four neurological conditions that are frequently 
+      encountered in rehabilitation settings: Parkinson's Disease (PD), Traumatic Brain 
+      Injury (TBI), stroke, and Spinal Cord Injury (SCI). Additionally, we discuss the 
+      potential benefits of combining non-invasive neuromodulation with rehabilitation, 
+      which has shown promise in accelerating recovery. Our review identifies studies 
+      that demonstrate enhanced recovery through combined exercise and non-invasive 
+      neuromodulation in the selected patient populations. We primarily focus on the 
+      motor aspects of rehabilitation, but also briefly address non-motor impacts of 
+      these conditions. Additionally, we identify the gaps in current literature and 
+      barriers to implementation of combined approaches into clinical practice. We 
+      highlight areas needing further research and suggest avenues for future 
+      investigation, aiming to enhance the personalization of the unique neuroplastic 
+      responses associated with each condition. This review serves as a resource for 
+      rehabilitation professionals and researchers seeking a comprehensive 
+      understanding of neuroplastic exercise interventions and non-invasive 
+      neuromodulation techniques tailored for specific diseases and diagnoses.
+CI  - Copyright (c) 2023 Evancho, Tyler and McGregor.
+FAU - Evancho, Alexandra
+AU  - Evancho A
+AD  - Department of Physical Therapy, School of Health Professions, University of 
+      Alabama at Birmingham, Birmingham, AL, United States.
+FAU - Tyler, William J
+AU  - Tyler WJ
+AD  - Department of Biomedical Engineering, Heersink School of Medicine, University of 
+      Alabama at Birmingham, Birmingham, AL, United States.
+AD  - Department of Physical Medicine and Rehabilitation, Heersink School of Medicine, 
+      University of Alabama at Birmingham, Birmingham, AL, United States.
+FAU - McGregor, Keith
+AU  - McGregor K
+AD  - Department of Clinical and Diagnostic Studies, School of Health Professions, 
+      University of Alabama at Birmingham, Birmingham, AL, United States.
+LA  - eng
+GR  - I01 CX001986/CX/CSRD VA/United States
+GR  - I01 RX002619/RX/RRD VA/United States
+GR  - IK2 RX000956/RX/RRD VA/United States
+PT  - Journal Article
+PT  - Review
+DEP - 20230721
+PL  - Switzerland
+TA  - Front Hum Neurosci
+JT  - Frontiers in human neuroscience
+JID - 101477954
+PMC - PMC10400781
+OTO - NOTNLM
+OT  - neuromodulation
+OT  - neuroplasticity
+OT  - peripheral nerve stimulation
+OT  - rehabilitation
+OT  - transcranial magnetic stimulation
+OT  - vagus nerve stimulation
+COIS- The authors declare that the research was conducted in the absence of any 
+      commercial or financial relationships that could be construed as a potential 
+      conflict of interest.
+EDAT- 2023/08/07 06:42
+MHDA- 2023/08/07 06:43
+PMCR- 2023/01/01
+CRDT- 2023/08/07 04:26
+PHST- 2023/01/25 00:00 [received]
+PHST- 2023/06/30 00:00 [accepted]
+PHST- 2023/08/07 06:43 [medline]
+PHST- 2023/08/07 06:42 [pubmed]
+PHST- 2023/08/07 04:26 [entrez]
+PHST- 2023/01/01 00:00 [pmc-release]
+AID - 10.3389/fnhum.2023.1151218 [doi]
+PST - epublish
+SO  - Front Hum Neurosci. 2023 Jul 21;17:1151218. doi: 10.3389/fnhum.2023.1151218. 
+      eCollection 2023.
+
+PMID- 35746933
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20230102
+IS  - 1541-4094 (Print)
+IS  - 1541-4108 (Electronic)
+IS  - 1541-4094 (Linking)
+VI  - 20
+IP  - 1
+DP  - 2022 Jan
+TI  - Ultrasound as a Neurotherapeutic: A Circuit- and System-Based Interrogation.
+PG  - 32-35
+LID - 10.1176/appi.focus.20210022 [doi]
+AB  - Focused ultrasound is a novel brain stimulation modality that combines the 
+      noninvasiveness of repetitive transcranial magnetic stimulation and the precision 
+      of deep brain stimulation. In this review, the authors examine low-intensity 
+      focused ultrasound for brain mapping and neuromodulation. They also discuss 
+      high-intensity focused ultrasound, which is used for incisionless surgeries, such 
+      as capsulotomies for obsessive-compulsive disorder. Future potential applications 
+      of focused ultrasound are also presented.
+CI  - Copyright (c) 2022 by the American Psychiatric Association.
+FAU - Spivak, Norman M
+AU  - Spivak NM
+AUID- ORCID: 0000-0002-2386-2987
+AD  - UCLA-Caltech Medical Scientist Training Program (Spivak), Department of 
+      Neurosurgery, David Geffen School of Medicine (Spivak, Bari), and Department of 
+      Psychiatry and Biobehavioral Sciences, Semel Institute for Neuroscience and Human 
+      Behavior (Spivak, Kuhn), University of California, Los Angeles; School of 
+      Biological and Health Systems Engineering, Arizona State University, Tempe 
+      (Tyler).
+FAU - Tyler, William Jamie
+AU  - Tyler WJ
+AD  - UCLA-Caltech Medical Scientist Training Program (Spivak), Department of 
+      Neurosurgery, David Geffen School of Medicine (Spivak, Bari), and Department of 
+      Psychiatry and Biobehavioral Sciences, Semel Institute for Neuroscience and Human 
+      Behavior (Spivak, Kuhn), University of California, Los Angeles; School of 
+      Biological and Health Systems Engineering, Arizona State University, Tempe 
+      (Tyler).
+FAU - Bari, Ausaf A
+AU  - Bari AA
+AD  - UCLA-Caltech Medical Scientist Training Program (Spivak), Department of 
+      Neurosurgery, David Geffen School of Medicine (Spivak, Bari), and Department of 
+      Psychiatry and Biobehavioral Sciences, Semel Institute for Neuroscience and Human 
+      Behavior (Spivak, Kuhn), University of California, Los Angeles; School of 
+      Biological and Health Systems Engineering, Arizona State University, Tempe 
+      (Tyler).
+FAU - Kuhn, Taylor P
+AU  - Kuhn TP
+AD  - UCLA-Caltech Medical Scientist Training Program (Spivak), Department of 
+      Neurosurgery, David Geffen School of Medicine (Spivak, Bari), and Department of 
+      Psychiatry and Biobehavioral Sciences, Semel Institute for Neuroscience and Human 
+      Behavior (Spivak, Kuhn), University of California, Los Angeles; School of 
+      Biological and Health Systems Engineering, Arizona State University, Tempe 
+      (Tyler).
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20220125
+PL  - United States
+TA  - Focus (Am Psychiatr Publ)
+JT  - Focus (American Psychiatric Publishing)
+JID - 101156081
+PMC - PMC9063590
+OTO - NOTNLM
+OT  - Ablation
+OT  - Neuromodulation
+OT  - Neurosurgery
+OT  - Research/psychiatric
+COIS- Dr. Tyler reports being a cofounder of ISenseTec, LLC, and an inventor on issued 
+      and pending patents covering noninvasive neuromodulation methods and devices. The 
+      other authors report no financial relationships with commercial interests.
+EDAT- 2022/06/25 06:00
+MHDA- 2022/06/25 06:01
+PMCR- 2023/01/01
+CRDT- 2022/06/24 02:03
+PHST- 2022/06/24 02:03 [entrez]
+PHST- 2022/06/25 06:00 [pubmed]
+PHST- 2022/06/25 06:01 [medline]
+PHST- 2023/01/01 00:00 [pmc-release]
+AID - FOC_20210022 [pii]
+AID - 10.1176/appi.focus.20210022 [doi]
+PST - ppublish
+SO  - Focus (Am Psychiatr Publ). 2022 Jan;20(1):32-35. doi: 
+      10.1176/appi.focus.20210022. Epub 2022 Jan 25.
+
+PMID- 34945779
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20240820
+IS  - 2075-4426 (Print)
+IS  - 2075-4426 (Electronic)
+IS  - 2075-4426 (Linking)
+VI  - 11
+IP  - 12
+DP  - 2021 Dec 6
+TI  - Transdermal Electrical Neuromodulation for Anxiety and Sleep Problems in 
+      High-Functioning Autism Spectrum Disorder: Feasibility and Preliminary Findings.
+LID - 10.3390/jpm11121307 [doi]
+LID - 1307
+AB  - BACKGROUND: Autism spectrum disorder (ASD) is associated with anxiety and sleep 
+      problems. We investigated transdermal electrical neuromodulation (TEN) of the 
+      cervical nerves in the neck as a safe, effective, comfortable and 
+      non-pharmacological therapy for decreasing anxiety and enhancing sleep quality in 
+      ASD. METHODS: In this blinded, sham-controlled study, seven adolescents and young 
+      adults with high-functioning ASD underwent five consecutive treatment days, one 
+      day of the sham followed by four days of subthreshold TEN for 20 min. 
+      Anxiety-provoking cognitive tasks were performed after the sham/TEN. Measures of 
+      autonomic nervous system activity, including saliva alpha-amylase and cortisol, 
+      electrodermal activity, and heart rate variability, were collected from six 
+      participants. RESULTS: Self-rated and caretaker-rated measures of anxiety were 
+      significantly improved with TEN treatment as compared to the sham, with effect 
+      sizes ranging from medium to large depending on the rating scale. Sleep scores 
+      from caretaker questionnaires also improved, but not significantly. Performance 
+      on two of the three anxiety-provoking cognitive tasks and heart rate variability 
+      significantly improved with TEN stimulation as compared to the sham. Four of the 
+      seven (57%) participants were responders, defined as a >/= 30% improvement in 
+      self-reported anxiety. Salivary alpha-amylase decreased with more TEN sessions and 
+      decreased from the beginning to the end of the session on TEN days for 
+      responders. TEN was well-tolerated without significant adverse events. 
+      CONCLUSIONS: This study provides preliminary evidence that TEN is well-tolerated 
+      in individuals with ASD and can improve anxiety.
+FAU - Foldes, Stephen T
+AU  - Foldes ST
+AD  - Division of Research, Barrow Neurologic Institute at Phoenix Children's Hospital, 
+      Phoenix, AZ 85016, USA.
+AD  - Division of Neurology, Barrow Neurologic Institute, Phoenix, AZ 85013, USA.
+AD  - School of Biological and Health Sciences, Arizona State University, Tempe, AZ 
+      85287, USA.
+AD  - Department of Child Health, University of Arizona College of Medicine Phoenix, 
+      Phoenix, AZ 85004, USA.
+FAU - Jensen, Amanda R
+AU  - Jensen AR
+AD  - Section on Neurodevelopmental Disorders, Division of Neurology, Barrow Neurologic 
+      Institute at Phoenix Children's Hospital, Phoenix, AZ 85016, USA.
+FAU - Jacobson, Austin
+AU  - Jacobson A
+AD  - Division of Research, Barrow Neurologic Institute at Phoenix Children's Hospital, 
+      Phoenix, AZ 85016, USA.
+FAU - Vassall, Sarah
+AU  - Vassall S
+AD  - Division of Psychology, Vanderbilt University, Nashville, TN 37240, USA.
+FAU - Foldes, Emily
+AU  - Foldes E
+AD  - Speech and Hearing Science, Arizona State University, Tempe, AZ 85287, USA.
+FAU - Guthery, Ann
+AU  - Guthery A
+AD  - Division of Psychiatry, Barrow Neurologic Institute at Phoenix Children's 
+      Hospital, Phoenix, AZ 85016, USA.
+FAU - Brown, Danni
+AU  - Brown D
+AD  - Division of Research, Barrow Neurologic Institute at Phoenix Children's Hospital, 
+      Phoenix, AZ 85016, USA.
+FAU - Levine, Todd
+AU  - Levine T
+AD  - Division of Psychiatry, Barrow Neurologic Institute at Phoenix Children's 
+      Hospital, Phoenix, AZ 85016, USA.
+FAU - Tyler, William James
+AU  - Tyler WJ
+AD  - School of Biological and Health Sciences, Arizona State University, Tempe, AZ 
+      85287, USA.
+FAU - Frye, Richard E
+AU  - Frye RE
+AUID- ORCID: 0000-0003-4442-2937
+AD  - Department of Child Health, University of Arizona College of Medicine Phoenix, 
+      Phoenix, AZ 85004, USA.
+AD  - Section on Neurodevelopmental Disorders, Division of Neurology, Barrow Neurologic 
+      Institute at Phoenix Children's Hospital, Phoenix, AZ 85016, USA.
+LA  - eng
+GR  - , I/UCRC for Building Reliable Innovation and Advances in 
+      Neurotechnology/National Science Foundation/
+PT  - Journal Article
+DEP - 20211206
+PL  - Switzerland
+TA  - J Pers Med
+JT  - Journal of personalized medicine
+JID - 101602269
+PMC - PMC8704341
+OTO - NOTNLM
+OT  - anxiety
+OT  - autism spectrum disorder
+OT  - cortisol
+OT  - heart rate variability
+OT  - neuromodulation
+OT  - neurostimulation
+OT  - sleep anxiety
+OT  - transdermal electrical neuromodulation
+OT  - alpha-amylase
+COIS- Tyler holds patents on TEN technology. The remaining authors declare no conflict 
+      of interest. The funders had no role in the design of the study; in the 
+      collection, analyses, or interpretation of data; in the writing of the 
+      manuscript; or in the decision to publish the results.
+EDAT- 2021/12/25 06:00
+MHDA- 2021/12/25 06:01
+PMCR- 2021/12/06
+CRDT- 2021/12/24 01:09
+PHST- 2021/09/17 00:00 [received]
+PHST- 2021/11/19 00:00 [revised]
+PHST- 2021/11/22 00:00 [accepted]
+PHST- 2021/12/24 01:09 [entrez]
+PHST- 2021/12/25 06:00 [pubmed]
+PHST- 2021/12/25 06:01 [medline]
+PHST- 2021/12/06 00:00 [pmc-release]
+AID - jpm11121307 [pii]
+AID - jpm-11-01307 [pii]
+AID - 10.3390/jpm11121307 [doi]
+PST - epublish
+SO  - J Pers Med. 2021 Dec 6;11(12):1307. doi: 10.3390/jpm11121307.
+
+PMID- 32184714
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20200928
+IS  - 1662-5161 (Print)
+IS  - 1662-5161 (Electronic)
+IS  - 1662-5161 (Linking)
+VI  - 14
+DP  - 2020
+TI  - Transcranial Focused Ultrasound to the Right Prefrontal Cortex Improves Mood and 
+      Alters Functional Connectivity in Humans.
+PG  - 52
+LID - 10.3389/fnhum.2020.00052 [doi]
+LID - 52
+AB  - Transcranial focused ultrasound (tFUS) is an emerging method for non-invasive 
+      neuromodulation akin to transcranial magnetic stimulation (TMS) and transcranial 
+      direct current stimulation (tDCS). tFUS offers several advantages over 
+      electromagnetic methods including high spatial resolution and the ability to 
+      reach deep brain targets. Here we describe two experiments assessing whether tFUS 
+      could modulate mood in healthy human volunteers by targeting the right inferior 
+      frontal gyrus (rIFG), an area implicated in mood and emotional regulation. In a 
+      randomized, placebo-controlled, double-blind study, participants received 30 s of 
+      500 kHz tFUS or a placebo control. Visual Analog Mood Scales (VAMS) assessed mood 
+      four times within an hour (baseline and three times after tFUS). Participants who 
+      received tFUS reported an overall increase in Global Affect (GA), an aggregate 
+      score from the VAMS scale, indicating a positive shift in mood. Experiment 2 
+      examined resting-state functional (FC) connectivity using functional magnetic 
+      resonance imaging (fMRI) following 2 min of 500 kHz tFUS at the rIFG. As in 
+      Experiment 1, tFUS enhanced self-reported mood states and also decreased FC in 
+      resting state networks related to emotion and mood regulation. These results 
+      suggest that tFUS can be used to modulate mood and emotional regulation networks 
+      in the prefrontal cortex.
+CI  - Copyright (c) 2020 Sanguinetti, Hameroff, Smith, Sato, Daft, Tyler and Allen.
+FAU - Sanguinetti, Joseph L
+AU  - Sanguinetti JL
+AD  - Department of Psychology, University of Arizona, Tucson, AZ, United States.
+AD  - Center for Consciousness Studies, University of Arizona, Tucson, AZ, United 
+      States.
+AD  - Department of Psychology, The University of New Mexico, Albuquerque, NM, United 
+      States.
+FAU - Hameroff, Stuart
+AU  - Hameroff S
+AD  - Department of Psychology, University of Arizona, Tucson, AZ, United States.
+AD  - Center for Consciousness Studies, University of Arizona, Tucson, AZ, United 
+      States.
+AD  - Department of Anesthesiology, University of Arizona, Tucson, AZ, United States.
+FAU - Smith, Ezra E
+AU  - Smith EE
+AD  - Department of Psychology, University of Arizona, Tucson, AZ, United States.
+AD  - New York State Psychiatric Institute, New York, NY, United States.
+FAU - Sato, Tomokazu
+AU  - Sato T
+AD  - The Division of Biology and Biological Engineering, California Institute of 
+      Technology, Pasadena, CA, United States.
+FAU - Daft, Chris M W
+AU  - Daft CMW
+AD  - River Sonic Solutions LLC, San Francisco, CA, United States.
+FAU - Tyler, William J
+AU  - Tyler WJ
+AD  - School of Biological and Health Systems Engineering, Arizona State University, 
+      Tempe, AZ, United States.
+FAU - Allen, John J B
+AU  - Allen JJB
+AD  - Department of Psychology, University of Arizona, Tucson, AZ, United States.
+LA  - eng
+PT  - Journal Article
+DEP - 20200228
+PL  - Switzerland
+TA  - Front Hum Neurosci
+JT  - Frontiers in human neuroscience
+JID - 101477954
+PMC - PMC7058635
+OTO - NOTNLM
+OT  - brain stimulation
+OT  - functional connectivity
+OT  - mood
+OT  - neuromodulation
+OT  - transcranial focused ultrasound
+EDAT- 2020/03/19 06:00
+MHDA- 2020/03/19 06:01
+PMCR- 2020/01/01
+CRDT- 2020/03/19 06:00
+PHST- 2019/08/27 00:00 [received]
+PHST- 2020/02/04 00:00 [accepted]
+PHST- 2020/03/19 06:00 [entrez]
+PHST- 2020/03/19 06:00 [pubmed]
+PHST- 2020/03/19 06:01 [medline]
+PHST- 2020/01/01 00:00 [pmc-release]
+AID - 10.3389/fnhum.2020.00052 [doi]
+PST - epublish
+SO  - Front Hum Neurosci. 2020 Feb 28;14:52. doi: 10.3389/fnhum.2020.00052. eCollection 
+      2020.
+
+PMID- 31358456
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200224
+LR  - 20201101
+IS  - 1876-4754 (Electronic)
+IS  - 1935-861X (Print)
+IS  - 1876-4754 (Linking)
+VI  - 12
+IP  - 6
+DP  - 2019 Nov-Dec
+TI  - Transcranial electrical stimulation nomenclature.
+PG  - 1349-1366
+LID - S1935-861X(19)30294-3 [pii]
+LID - 10.1016/j.brs.2019.07.010 [doi]
+AB  - Transcranial electrical stimulation (tES) aims to alter brain function 
+      non-invasively by applying current to electrodes on the scalp. Decades of 
+      research and technological advancement are associated with a growing diversity of 
+      tES methods and the associated nomenclature for describing these methods. Whether 
+      intended to produce a specific response so the brain can be studied or lead to a 
+      more enduring change in behavior (e.g. for treatment), the motivations for using 
+      tES have themselves influenced the evolution of nomenclature, leading to some 
+      scientific, clinical, and public confusion. This ambiguity arises from (i) the 
+      infinite parameter space available in designing tES methods of application and 
+      (ii) varied naming conventions based upon the intended effects and/or methods of 
+      application. Here, we compile a cohesive nomenclature for contemporary tES 
+      technologies that respects existing and historical norms, while incorporating 
+      insight and classifications based on state-of-the-art findings. We consolidate 
+      and clarify existing terminology conventions, but do not aim to create new 
+      nomenclature. The presented nomenclature aims to balance adopting broad 
+      definitions that encourage flexibility and innovation in research approaches, 
+      against classification specificity that minimizes ambiguity about protocols but 
+      can hinder progress. Constructive research around tES classification, such as 
+      transcranial direct current stimulation (tDCS), should allow some variations in 
+      protocol but also distinguish from approaches that bear so little resemblance 
+      that their safety and efficacy should not be compared directly. The proposed 
+      framework includes terms in contemporary use across peer-reviewed publications, 
+      including relatively new nomenclature introduced in the past decade, such as 
+      transcranial alternating current stimulation (tACS) and transcranial pulsed 
+      current stimulation (tPCS), as well as terms with long historical use such as 
+      electroconvulsive therapy (ECT). We also define commonly used terms-of-the-trade 
+      including electrode, lead, anode, and cathode, whose prior use, in varied 
+      contexts, can also be a source of confusion. This comprehensive clarification of 
+      nomenclature and associated preliminary proposals for standardized terminology 
+      can support the development of consensus on efficacy, safety, and regulatory 
+      standards.
+CI  - Copyright (c) 2019 Elsevier Inc. All rights reserved.
+FAU - Bikson, Marom
+AU  - Bikson M
+AD  - Department of Biomedical Engineering, The City College of the City University of 
+      New York, New York, NY, USA. Electronic address: bikson@ccny.cuny.edu.
+FAU - Esmaeilpour, Zeinab
+AU  - Esmaeilpour Z
+AD  - Department of Biomedical Engineering, The City College of the City University of 
+      New York, New York, NY, USA. Electronic address: zesmaeilpour@ccny.cuny.edu.
+FAU - Adair, Devin
+AU  - Adair D
+AD  - Department of Biomedical Engineering, The City College of the City University of 
+      New York, New York, NY, USA.
+FAU - Kronberg, Greg
+AU  - Kronberg G
+AD  - Department of Biomedical Engineering, The City College of the City University of 
+      New York, New York, NY, USA.
+FAU - Tyler, William J
+AU  - Tyler WJ
+AD  - Arizona State University, School of Biological and Health Systems Engineering, 
+      Tempe, AZ, USA.
+FAU - Antal, Andrea
+AU  - Antal A
+AD  - Department of Clinical Neurophysiology, University Medical Center Goettingen, 
+      Goettingen, Germany; Institute of Medical Psychology, Medical Faculty, 
+      Otto-v.-Guericke University of Magdeburg, Magdeburg, Germany.
+FAU - Datta, Abhishek
+AU  - Datta A
+AD  - Soterix Medical, New York, NY, USA.
+FAU - Sabel, Bernhard A
+AU  - Sabel BA
+AD  - Institute of Medical Psychology, Medical Faculty, Otto-v.-Guericke University of 
+      Magdeburg, Magdeburg, Germany.
+FAU - Nitsche, Michael A
+AU  - Nitsche MA
+AD  - Leibniz Research Centre for Working Environment ant Human Factors, Dept. 
+      Psychology and Neurosciences, Dortmund, Germany; University Medical Hospital 
+      Bergmannsheil, Dept. Neurology, Bochum, Germany.
+FAU - Loo, Colleen
+AU  - Loo C
+AD  - School of Psychiatry & Black Dog Institute, University of New South Wales, 
+      Sydney, Australia.
+FAU - Edwards, Dylan
+AU  - Edwards D
+AD  - Moss Rehabilitation Research Institute, Philadelphia, PA, USA; Edith Cowan 
+      University, Joondalup, Australia.
+FAU - Ekhtiari, Hamed
+AU  - Ekhtiari H
+AD  - Laureate Institute for Brain Research, Tulsa, OK, USA.
+FAU - Knotkova, Helena
+AU  - Knotkova H
+AD  - MJHS Institute for Innovation in Palliative Care, New York, NY, USA; Department 
+      of Family and Social Medicine, Albert Einstein College of Medicine, The Bronx, 
+      NY, USA.
+FAU - Woods, Adam J
+AU  - Woods AJ
+AD  - Center for Cognitive Aging and Memory, McKnight Brain Institute, Department of 
+      Clinical and Health Psychology, University of Florida, Gainesville, FL, USA.
+FAU - Hampstead, Benjamin M
+AU  - Hampstead BM
+AD  - Mental Health Service, VA Ann Arbor Healthcare System, Ann Arbor, MI, USA; 
+      Neuropsychology Section, Department of Psychiatry, University of Michigan, Ann 
+      Arbor, MI, USA.
+FAU - Badran, Bashar W
+AU  - Badran BW
+AD  - Department of Psychiatry, Medical University of South Carolina, Charleston, SC, 
+      USA.
+FAU - Peterchev, Angel V
+AU  - Peterchev AV
+AD  - Department of Psychiatry & Behavioral Sciences, Department of Biomedical 
+      Engineering, Department of Electrical & Computer Engineering, Department of 
+      Neurosurgery, Duke University, Durham, NC, USA.
+LA  - eng
+GR  - U54 CA137788/CA/NCI NIH HHS/United States
+GR  - R21 MH112206/MH/NIMH NIH HHS/United States
+GR  - I01 RX001534/RX/RRD VA/United States
+GR  - R01 MH111896/MH/NIMH NIH HHS/United States
+GR  - U54 CA132378/CA/NCI NIH HHS/United States
+GR  - R01 MH111889/MH/NIMH NIH HHS/United States
+GR  - P2C HD086844/HD/NICHD NIH HHS/United States
+GR  - R01 AG054077/AG/NIA NIH HHS/United States
+GR  - R01 NS101362/NS/NINDS NIH HHS/United States
+GR  - R01 MH091083/MH/NIMH NIH HHS/United States
+GR  - P20 GM109040/GM/NIGMS NIH HHS/United States
+GR  - R01 AG058724/AG/NIA NIH HHS/United States
+GR  - R21 MH106772/MH/NIMH NIH HHS/United States
+GR  - K01 AG050707/AG/NIA NIH HHS/United States
+GR  - R03 NS054783/NS/NINDS NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+PT  - Review
+DEP - 20190717
+PL  - United States
+TA  - Brain Stimul
+JT  - Brain stimulation
+JID - 101465726
+SB  - IM
+MH  - Brain/physiology
+MH  - Electroconvulsive Therapy/classification/instrumentation/methods
+MH  - Electrodes/classification
+MH  - Humans
+MH  - *Terminology as Topic
+MH  - Transcranial Direct Current Stimulation/*classification/*instrumentation/methods
+PMC - PMC6851475
+MID - NIHMS1535844
+OTO - NOTNLM
+OT  - Brain stimulation
+OT  - Classification
+OT  - Nomenclature
+OT  - Terminology
+OT  - Transcranial electrical stimulation (tES)
+EDAT- 2019/07/31 06:00
+MHDA- 2020/02/25 06:00
+PMCR- 2020/11/01
+CRDT- 2019/07/31 06:00
+PHST- 2019/02/08 00:00 [received]
+PHST- 2019/06/25 00:00 [revised]
+PHST- 2019/07/14 00:00 [accepted]
+PHST- 2019/07/31 06:00 [pubmed]
+PHST- 2020/02/25 06:00 [medline]
+PHST- 2019/07/31 06:00 [entrez]
+PHST- 2020/11/01 00:00 [pmc-release]
+AID - S1935-861X(19)30294-3 [pii]
+AID - 10.1016/j.brs.2019.07.010 [doi]
+PST - ppublish
+SO  - Brain Stimul. 2019 Nov-Dec;12(6):1349-1366. doi: 10.1016/j.brs.2019.07.010. Epub 
+      2019 Jul 17.
+
+PMID- 29674264
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190211
+LR  - 20190215
+IS  - 1873-6882 (Electronic)
+IS  - 0959-4388 (Linking)
+VI  - 50
+DP  - 2018 Jun
+TI  - Ultrasonic modulation of neural circuit activity.
+PG  - 222-231
+LID - S0959-4388(17)30201-5 [pii]
+LID - 10.1016/j.conb.2018.04.011 [doi]
+AB  - Ultrasound (US) is recognized for its use in medical imaging as a diagnostic 
+      tool. As an acoustic energy source, US has become increasingly appreciated over 
+      the past decade for its ability to non-invasively modulate cellular activity 
+      including neuronal activity. Data obtained from a host of experimental models has 
+      shown that low-intensity US can reversibly modulate the physiological activity of 
+      neurons in peripheral nerves, spinal cord, and intact brain circuits. 
+      Experimental evidence indicates that acoustic pressures exerted by US act, in 
+      part, on mechanosensitive ion channels to modulate activity. While the precise 
+      mechanisms of action enabling US to both stimulate and suppress neuronal activity 
+      remain to be clarified, there are several advantages conferred by the physics of 
+      US that make it an appealing option for neuromodulation. For example, it can be 
+      focused with millimeter spatial resolutions through skull bone to deep-brain 
+      regions. By increasing our engineering capability to leverage such physical 
+      advantages while growing our understanding of how US affects neuronal function, 
+      the development of a new generation of non-invasive neurotechnology can be 
+      developed using ultrasonic methods.
+CI  - Copyright (c) 2018 The Authors. Published by Elsevier Ltd.. All rights reserved.
+FAU - Tyler, William J
+AU  - Tyler WJ
+AD  - Arizona State University, School of Biological and Health Systems Engineering, 
+      Tempe, AZ 85281, USA. Electronic address: wtyler@asu.edu.
+FAU - Lani, Shane W
+AU  - Lani SW
+AD  - Johns Hopkins University Applied Physics Laboratory, Laurel, MD 20723, USA.
+FAU - Hwang, Grace M
+AU  - Hwang GM
+AD  - Johns Hopkins University Applied Physics Laboratory, Laurel, MD 20723, USA.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20180416
+PL  - England
+TA  - Curr Opin Neurobiol
+JT  - Current opinion in neurobiology
+JID - 9111376
+SB  - IM
+MH  - Animals
+MH  - Brain/*cytology/*diagnostic imaging
+MH  - *Brain Mapping
+MH  - Humans
+MH  - Neural Pathways/*diagnostic imaging
+MH  - Neurons/*physiology
+MH  - *Ultrasonics
+EDAT- 2018/04/21 06:00
+MHDA- 2019/02/12 06:00
+CRDT- 2018/04/21 06:00
+PHST- 2017/08/03 00:00 [received]
+PHST- 2018/03/29 00:00 [revised]
+PHST- 2018/04/06 00:00 [accepted]
+PHST- 2018/04/21 06:00 [pubmed]
+PHST- 2019/02/12 06:00 [medline]
+PHST- 2018/04/21 06:00 [entrez]
+AID - S0959-4388(17)30201-5 [pii]
+AID - 10.1016/j.conb.2018.04.011 [doi]
+PST - ppublish
+SO  - Curr Opin Neurobiol. 2018 Jun;50:222-231. doi: 10.1016/j.conb.2018.04.011. Epub 
+      2018 Apr 16.
+
+PMID- 29122535
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180718
+LR  - 20260127
+IS  - 1876-4754 (Electronic)
+IS  - 1876-4754 (Linking)
+VI  - 11
+IP  - 1
+DP  - 2018 Jan-Feb
+TI  - Limited output transcranial electrical stimulation (LOTES-2017): Engineering 
+      principles, regulatory statutes, and industry standards for wellness, 
+      over-the-counter, or prescription devices with low risk.
+PG  - 134-157
+LID - S1935-861X(17)30945-2 [pii]
+LID - 10.1016/j.brs.2017.10.012 [doi]
+AB  - We present device standards for low-power non-invasive electrical brain 
+      stimulation devices classified as limited output transcranial electrical 
+      stimulation (tES). Emerging applications of limited output tES to modulate brain 
+      function span techniques to stimulate brain or nerve structures, including 
+      transcranial direct current stimulation (tDCS), transcranial alternating current 
+      stimulation (tACS), and transcranial pulsed current stimulation (tPCS), have 
+      engendered discussion on how access to technology should be regulated. In regards 
+      to legal regulations and manufacturing standards for comparable technologies, a 
+      comprehensive framework already exists, including quality systems (QS), risk 
+      management, and (inter)national electrotechnical standards (IEC). In Part 1, 
+      relevant statutes are described for medical and wellness application. While 
+      agencies overseeing medical devices have broad jurisdiction, enforcement 
+      typically focuses on those devices with medical claims or posing significant 
+      risk. Consumer protections regarding responsible marketing and manufacture apply 
+      regardless. In Part 2 of this paper, we classify the electrical output 
+      performance of devices cleared by the United States Food and Drug Administration 
+      (FDA) including over-the-counter (OTC) and prescription electrostimulation 
+      devices, devices available for therapeutic or cosmetic purposes, and devices 
+      indicated for stimulation of the body or head. Examples include iontophoresis 
+      devices, powered muscle stimulators (PMS), cranial electrotherapy stimulation 
+      (CES), and transcutaneous electrical nerve stimulation (TENS) devices. Spanning 
+      over 13 FDA product codes, more than 1200 electrical stimulators have been 
+      cleared for marketing since 1977. The output characteristics of conventional 
+      tDCS, tACS, and tPCS techniques are well below those of most FDA cleared devices, 
+      including devices that are available OTC and those intended for stimulation on 
+      the head. This engineering analysis demonstrates that with regard to output 
+      performance and standing regulation, the availability of tDCS, tACS, or tPCS to 
+      the public would not introduce risk, provided such devices are responsibly 
+      manufactured and legally marketed. In Part 3, we develop voluntary manufacturer 
+      guidance for limited output tES that is aligned with current regulatory 
+      standards. Based on established medical engineering and scientific principles, we 
+      outline a robust and transparent technical framework for ensuring limited output 
+      tES devices are designed to minimize risks, while also supporting access and 
+      innovation. Alongside applicable medical and government activities, this 
+      voluntary industry standard (LOTES-2017) further serves an important role in 
+      supporting informed decisions by the public.
+CI  - Copyright (c) 2017 Elsevier Inc. All rights reserved.
+FAU - Bikson, Marom
+AU  - Bikson M
+AD  - The City College of New York, Department of Biomedical Engineering, New York, NY 
+      10031, USA. Electronic address: bikson@ccny.cuny.edu.
+FAU - Paneri, Bhaskar
+AU  - Paneri B
+AD  - The City College of New York, Department of Biomedical Engineering, New York, NY 
+      10031, USA.
+FAU - Mourdoukoutas, Andoni
+AU  - Mourdoukoutas A
+AD  - The City College of New York, Department of Biomedical Engineering, New York, NY 
+      10031, USA.
+FAU - Esmaeilpour, Zeinab
+AU  - Esmaeilpour Z
+AD  - The City College of New York, Department of Biomedical Engineering, New York, NY 
+      10031, USA.
+FAU - Badran, Bashar W
+AU  - Badran BW
+AD  - U.S. Army Research Laboratory, Aberdeen Proving Ground, MD, USA; Department of 
+      Psychology, University of New Mexico, Albuquerque, NM, USA.
+FAU - Azzam, Robin
+AU  - Azzam R
+AD  - Caputron, New York, NY, USA.
+FAU - Adair, Devin
+AU  - Adair D
+AD  - The City College of New York, Department of Biomedical Engineering, New York, NY 
+      10031, USA.
+FAU - Datta, Abhishek
+AU  - Datta A
+AD  - Soterix Medical Inc., New York, NY 10001, USA.
+FAU - Fang, Xiao Hui
+AU  - Fang XH
+AD  - The City College of New York, Department of Biomedical Engineering, New York, NY 
+      10031, USA.
+FAU - Wingeier, Brett
+AU  - Wingeier B
+AD  - Halo Neuroscience Inc., San Francisco, CA 94103, USA.
+FAU - Chao, Daniel
+AU  - Chao D
+AD  - Halo Neuroscience Inc., San Francisco, CA 94103, USA.
+FAU - Alonso-Alonso, Miguel
+AU  - Alonso-Alonso M
+AD  - Harvard Medical School, Berenson-Allen Center for Noninvasive Brain Stimulation, 
+      Division of Cognitive Neurology, Boston, MA, USA.
+FAU - Lee, Kiwon
+AU  - Lee K
+AD  - Ybrain Inc., Sampyeong-dong, Seongnam-si, South Korea.
+FAU - Knotkova, Helena
+AU  - Knotkova H
+AD  - MJHS Institute for Innovation in Palliative Care, New York, NY, USA; Department 
+      of Family and Social Medicine, Albert Einstein College of Medicine, The Bronx, 
+      NY, USA.
+FAU - Woods, Adam J
+AU  - Woods AJ
+AD  - Center for Cognitive Aging and Memory, McKnight Brain Institute, Department of 
+      Clinical and Health Psychology, University of Florida, USA.
+FAU - Hagedorn, David
+AU  - Hagedorn D
+AD  - Evoke Neuroscience Inc., Jacksonville, NC, USA.
+FAU - Jeffery, Doug
+AU  - Jeffery D
+AD  - Thync Inc., Los Gatos, CA 95030, USA.
+FAU - Giordano, James
+AU  - Giordano J
+AD  - Department of Neurology and Neuroethics Studies Program, Pellegrino Center for 
+      Clinical Bioethics, Georgetown University Medical Center, Washington, DC, USA.
+FAU - Tyler, William J
+AU  - Tyler WJ
+AD  - Arizona State University, School of Biological and Health Systems Engineering, 
+      Tempe, AZ 85287, USA.
+LA  - eng
+PT  - Journal Article
+DEP - 20171017
+PL  - United States
+TA  - Brain Stimul
+JT  - Brain stimulation
+JID - 101465726
+SB  - IM
+MH  - Humans
+MH  - Risk Management
+MH  - Transcranial Direct Current Stimulation/*instrumentation/*standards
+MH  - United States
+MH  - United States Food and Drug Administration/legislation & jurisprudence
+OTO - NOTNLM
+OT  - FDA clearance
+OT  - FDA product codes
+OT  - Limited output tES
+OT  - Manufacturer guidance
+OT  - Over-the-counter device
+OT  - Prescription medication
+OT  - Regulatory standards
+EDAT- 2017/11/11 06:00
+MHDA- 2018/07/19 06:00
+CRDT- 2017/11/11 06:00
+PHST- 2017/04/04 00:00 [received]
+PHST- 2017/09/16 00:00 [revised]
+PHST- 2017/10/15 00:00 [accepted]
+PHST- 2017/11/11 06:00 [pubmed]
+PHST- 2018/07/19 06:00 [medline]
+PHST- 2017/11/11 06:00 [entrez]
+AID - S1935-861X(17)30945-2 [pii]
+AID - 10.1016/j.brs.2017.10.012 [doi]
+PST - ppublish
+SO  - Brain Stimul. 2018 Jan-Feb;11(1):134-157. doi: 10.1016/j.brs.2017.10.012. Epub 
+      2017 Oct 17.
+
+PMID- 28430535
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180307
+LR  - 20220330
+IS  - 1369-1627 (Electronic)
+IS  - 0954-0261 (Linking)
+VI  - 29
+IP  - 2
+DP  - 2017 Apr
+TI  - Transcranial focused ultrasound: a new tool for non-invasive neuromodulation.
+PG  - 168-177
+LID - 10.1080/09540261.2017.1302924 [doi]
+AB  - Ultrasound (US) is widely known for its utility as a biomedical imaging modality. 
+      An abundance of evidence has recently accumulated showing that US is also useful 
+      for non-invasively modulating brain circuit activity. Through a series of studies 
+      discussed in this short review, it has recently become recognized that 
+      transcranial focused ultrasound can exert mechanical (non-thermal) bioeffects on 
+      neurons and cells to produce focal changes in the activity of brain circuits. In 
+      addition to highlighting scientific breakthroughs and observations that have 
+      driven the development of the field of ultrasonic neuromodulation, this study 
+      also provides a discussion of mechanisms of action underlying the ability of 
+      ultrasound to physically stimulate and modulate brain circuit activity. 
+      Exemplifying some forward-looking tools that can be developed by integrating 
+      ultrasonic neuromodulation with other advanced acoustic technologies, some 
+      innovative acoustic imaging, beam forming, and focusing techniques are briefly 
+      reviewed. Finally, the future outlook for ultrasonic neuromodulation is 
+      discussed, specifically in the context of applications employing transcranial 
+      focused ultrasound for the investigation, diagnosis, and treatment of 
+      neuropsychiatric disorders.
+FAU - Fini, Maria
+AU  - Fini M
+AD  - a School of Biological and Health Systems Engineering , Arizona State University 
+      , Tempe , AZ , USA.
+FAU - Tyler, William J
+AU  - Tyler WJ
+AD  - a School of Biological and Health Systems Engineering , Arizona State University 
+      , Tempe , AZ , USA.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20170421
+PL  - England
+TA  - Int Rev Psychiatry
+JT  - International review of psychiatry (Abingdon, England)
+JID - 8918131
+SB  - IM
+MH  - Brain/*physiopathology
+MH  - Humans
+MH  - Mental Disorders/*therapy
+MH  - Ultrasonic Therapy/instrumentation/*methods/trends
+OTO - NOTNLM
+OT  - Neuromodulation
+OT  - deep-brain stimulation
+OT  - depression
+OT  - ultrasound
+EDAT- 2017/04/22 06:00
+MHDA- 2018/03/08 06:00
+CRDT- 2017/04/22 06:00
+PHST- 2017/04/22 06:00 [pubmed]
+PHST- 2018/03/08 06:00 [medline]
+PHST- 2017/04/22 06:00 [entrez]
+AID - 10.1080/09540261.2017.1302924 [doi]
+PST - ppublish
+SO  - Int Rev Psychiatry. 2017 Apr;29(2):168-177. doi: 10.1080/09540261.2017.1302924. 
+      Epub 2017 Apr 21.
+
+PMID- 27372844
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20171006
+LR  - 20181202
+IS  - 1876-4754 (Electronic)
+IS  - 1935-861X (Print)
+IS  - 1876-4754 (Linking)
+VI  - 9
+IP  - 5
+DP  - 2016 Sep-Oct
+TI  - Tolerability of Repeated Application of Transcranial Electrical Stimulation with 
+      Limited Outputs to Healthy Subjects.
+PG  - 740-754
+LID - S1935-861X(16)30104-8 [pii]
+LID - 10.1016/j.brs.2016.05.008 [doi]
+AB  - BACKGROUND: The safety and tolerability of limited output transcranial electrical 
+      stimulation (tES) in clinical populations support a non-significant risk 
+      designation. The tolerability of long-term use in a healthy population had 
+      remained untested. OBJECTIVE: We tested the tolerability and compliance of two 
+      tES waveforms, transcranial direct current stimulation (tDCS) and modulated high 
+      frequency transcranial pulsed current stimulation (MHF-tPCS) compared to 
+      sham-tDCS, applied to healthy subjects for three to five days (17-20 minutes per 
+      day) per week for up to six weeks in a communal setting. MHF-tPCS consisted of 
+      asymmetric high-frequency pulses (7-11 kHz) having a peak amplitude of 10-20 mA 
+      peak, adjusted by subject, resulting in an average current of 5-7 mA. METHOD: A 
+      total of 100 treatment blind healthy subjects were randomly assigned to one of 
+      three treatment groups: tDCS (n = 33), MHF-tPCS (n = 30), or sham-tDCS (n = 37). 
+      In order to test the role of waveform, electrode type and montage were fixed 
+      across tES and sham-tDCS arms: high-capacity self-adhering electrodes on the 
+      right lateral forehead and back of the neck. We conducted 1905 sessions (636 
+      sham-tDCS, 623 tDCS, and 646 MHF-tPCS sessions) on study volunteers over a period 
+      of six weeks. RESULTS: Common adverse events were primarily restricted to 
+      influences upon the skin and included skin tingling, itching, and mild burning 
+      sensations. The incidence of these events in the active tES treatment arms 
+      (MHF-tPCS, tDCS) was equivalent or significantly lower than their incidence in 
+      the sham-tDCS treatment arm. Other adverse events had a rarity (<5% incidence) 
+      that could not be significantly distinguished across the treatment groups. Some 
+      subjects were withdrawn from the study due to atypical headache (sham-tDCS n = 2, 
+      tDCS n = 2, and MHF-tPCS n = 3), atypical discomfort (sham-tDCS n = 0, tDCS 
+      n = 1, and MHF-tPCS n = 1), or atypical skin irritation (sham-tDCS n = 2, tDCS 
+      n = 8, and MHF-tPCS n = 1). The rate of compliance, elected sessions completed, 
+      for the MHF-tPCS group was significantly greater than the sham-tDCS group's 
+      compliance (p = 0.007). There were no serious adverse events in any treatment 
+      condition. CONCLUSION: We conclude that repeated application of limited output 
+      tES across extended periods, limited to the hardware, electrodes, and protocols 
+      tested here, is well tolerated in healthy subjects, as previously observed in 
+      clinical populations.
+CI  - Copyright (c) 2016 Elsevier Inc. All rights reserved.
+FAU - Paneri, Bhaskar
+AU  - Paneri B
+AD  - Department of Biomedical Engineering, The City College of New York, CUNY, 160 
+      Convent Ave., New York 10031, USA.
+FAU - Adair, Devin
+AU  - Adair D
+AD  - Department of Biomedical Engineering, The City College of New York, CUNY, 160 
+      Convent Ave., New York 10031, USA.
+FAU - Thomas, Chris
+AU  - Thomas C
+AD  - Department of Biomedical Engineering, The City College of New York, CUNY, 160 
+      Convent Ave., New York 10031, USA.
+FAU - Khadka, Niranjan
+AU  - Khadka N
+AD  - Department of Biomedical Engineering, The City College of New York, CUNY, 160 
+      Convent Ave., New York 10031, USA.
+FAU - Patel, Vaishali
+AU  - Patel V
+AD  - Department of Biomedical Engineering, The City College of New York, CUNY, 160 
+      Convent Ave., New York 10031, USA.
+FAU - Tyler, William J
+AU  - Tyler WJ
+AD  - School of Biological and Health Systems Engineering, Arizona State University, 
+      Tempe, AZ 85287 USA.
+FAU - Parra, Lucas
+AU  - Parra L
+AD  - Department of Biomedical Engineering, The City College of New York, CUNY, 160 
+      Convent Ave., New York 10031, USA.
+FAU - Bikson, Marom
+AU  - Bikson M
+AD  - Department of Biomedical Engineering, The City College of New York, CUNY, 160 
+      Convent Ave., New York 10031, USA. Electronic address: bikson@ccny.cuny.edu.
+LA  - eng
+GR  - R01 NS095123/NS/NINDS NIH HHS/United States
+GR  - R44 NS092144/NS/NINDS NIH HHS/United States
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+DEP - 20160524
+PL  - United States
+TA  - Brain Stimul
+JT  - Brain stimulation
+JID - 101465726
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Electrodes
+MH  - Female
+MH  - Headache/*etiology
+MH  - Healthy Volunteers
+MH  - Humans
+MH  - Male
+MH  - Pruritus/*etiology
+MH  - Transcranial Direct Current Stimulation/*adverse effects/methods
+MH  - Young Adult
+PMC - PMC5786157
+MID - NIHMS934267
+OTO - NOTNLM
+OT  - Compliance
+OT  - Extended use
+OT  - Healthy population
+OT  - MHF-tPCS
+OT  - Tolerability
+OT  - tDCS
+EDAT- 2016/07/04 06:00
+MHDA- 2017/10/07 06:00
+PMCR- 2018/01/26
+CRDT- 2016/07/04 06:00
+PHST- 2015/05/29 00:00 [received]
+PHST- 2016/05/20 00:00 [revised]
+PHST- 2016/05/22 00:00 [accepted]
+PHST- 2016/07/04 06:00 [entrez]
+PHST- 2016/07/04 06:00 [pubmed]
+PHST- 2017/10/07 06:00 [medline]
+PHST- 2018/01/26 00:00 [pmc-release]
+AID - S1935-861X(16)30104-8 [pii]
+AID - 10.1016/j.brs.2016.05.008 [doi]
+PST - ppublish
+SO  - Brain Stimul. 2016 Sep-Oct;9(5):740-754. doi: 10.1016/j.brs.2016.05.008. Epub 
+      2016 May 24.
+
+PMID- 26353920
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20160803
+LR  - 20190416
+IS  - 2045-2322 (Electronic)
+IS  - 2045-2322 (Linking)
+VI  - 5
+DP  - 2015 Sep 10
+TI  - Transdermal neuromodulation of noradrenergic activity suppresses 
+      psychophysiological and biochemical stress responses in humans.
+PG  - 13865
+LID - 10.1038/srep13865 [doi]
+LID - 13865
+AB  - We engineered a transdermal neuromodulation approach that targets peripheral 
+      (cranial and spinal) nerves and utilizes their afferent pathways as signaling 
+      conduits to influence brain function. We investigated the effects of this 
+      transdermal electrical neurosignaling (TEN) method on sympathetic physiology 
+      under different experimental conditions. The TEN method involved delivering 
+      high-frequency pulsed electrical currents to ophthalmic and maxillary divisions 
+      of the right trigeminal nerve and cervical spinal nerve afferents. Under resting 
+      conditions, TEN significantly suppressed basal sympathetic tone compared to sham 
+      as indicated by functional infrared thermography of facial temperatures. In a 
+      different experiment, subjects treated with TEN reported significantly lower 
+      levels of tension and anxiety on the Profile of Mood States scale compared to 
+      sham. In a third experiment when subjects were experimentally stressed TEN 
+      produced a significant suppression of heart rate variability, galvanic skin 
+      conductance, and salivary alpha-amylase levels compared to sham. Collectively these 
+      observations demonstrate TEN can dampen basal sympathetic tone and attenuate 
+      sympathetic activity in response to acute stress induction. Our physiological and 
+      biochemical observations are consistent with the hypothesis that TEN modulates 
+      noradrenergic signaling to suppress sympathetic activity. We conclude that 
+      dampening sympathetic activity in such a manner represents a promising approach 
+      to managing daily stress.
+FAU - Tyler, William J
+AU  - Tyler WJ
+AD  - Thync, Inc. Boston, MA 02199, USA.
+FAU - Boasso, Alyssa M
+AU  - Boasso AM
+AD  - Thync, Inc. Boston, MA 02199, USA.
+FAU - Mortimore, Hailey M
+AU  - Mortimore HM
+AD  - Thync, Inc. Boston, MA 02199, USA.
+FAU - Silva, Rhonda S
+AU  - Silva RS
+AD  - Thync, Inc. Boston, MA 02199, USA.
+FAU - Charlesworth, Jonathan D
+AU  - Charlesworth JD
+AD  - Thync, Inc. Boston, MA 02199, USA.
+FAU - Marlin, Michelle A
+AU  - Marlin MA
+AD  - Thync, Inc. Boston, MA 02199, USA.
+FAU - Aebersold, Kirsten
+AU  - Aebersold K
+AD  - Thync, Inc. Boston, MA 02199, USA.
+FAU - Aven, Linh
+AU  - Aven L
+AD  - Thync, Inc. Boston, MA 02199, USA.
+FAU - Wetmore, Daniel Z
+AU  - Wetmore DZ
+AD  - Thync, Inc. Boston, MA 02199, USA.
+FAU - Pal, Sumon K
+AU  - Pal SK
+AD  - Thync, Inc. Boston, MA 02199, USA.
+LA  - eng
+PT  - Journal Article
+DEP - 20150910
+PL  - England
+TA  - Sci Rep
+JT  - Scientific reports
+JID - 101563288
+RN  - 0 (Biomarkers)
+RN  - EC 3.2.1.1 (alpha-Amylases)
+RN  - WI4X0X7BPJ (Hydrocortisone)
+SB  - IM
+MH  - Affect
+MH  - Biomarkers
+MH  - Cognition
+MH  - Electric Stimulation
+MH  - Female
+MH  - Heart Rate
+MH  - Humans
+MH  - Hydrocortisone/metabolism
+MH  - Male
+MH  - Psychomotor Performance
+MH  - Reaction Time
+MH  - Saliva/metabolism
+MH  - Skin/innervation
+MH  - Skin Physiological Phenomena
+MH  - *Stress, Physiological
+MH  - *Stress, Psychological
+MH  - Sympathetic Nervous System/*physiology
+MH  - Thermography
+MH  - alpha-Amylases/metabolism
+PMC - PMC4564766
+COIS- W.J.T. is a co-founder of Thync, Inc. W.J.T., J.D.C., D.Z.W. and S.K.P. are 
+      inventors and co-inventors on issued and pending patents related to methods, 
+      systems, and devices for neuromodulation. All authors are shareholders in Thync, 
+      Inc.
+EDAT- 2015/09/12 06:00
+MHDA- 2016/08/04 06:00
+PMCR- 2015/09/10
+CRDT- 2015/09/11 06:00
+PHST- 2015/03/27 00:00 [received]
+PHST- 2015/08/07 00:00 [accepted]
+PHST- 2015/09/11 06:00 [entrez]
+PHST- 2015/09/12 06:00 [pubmed]
+PHST- 2016/08/04 06:00 [medline]
+PHST- 2015/09/10 00:00 [pmc-release]
+AID - srep13865 [pii]
+AID - 10.1038/srep13865 [doi]
+PST - epublish
+SO  - Sci Rep. 2015 Sep 10;5:13865. doi: 10.1038/srep13865.
+
+PMID- 25983531
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20240610
+IS  - 1060-1333 (Print)
+IS  - 1532-2521 (Electronic)
+IS  - 1060-1333 (Linking)
+VI  - 32
+IP  - 1
+DP  - 2015 Mar 1
+TI  - Regulatory Considerations for the Clinical and Research Use of Transcranial 
+      Direct Current Stimulation (tDCS): review and recommendations from an expert 
+      panel.
+PG  - 22-35
+AB  - The field of transcranial electrical stimulation (tES) has experienced 
+      significant growth in the past 15 years. One of the tES techniques leading this 
+      increased interest is transcranial direct current stimulation (tDCS). Significant 
+      research efforts have been devoted to determining the clinical potential of tDCS 
+      in humans. Despite the promising results obtained with tDCS in basic and clinical 
+      neuroscience, further progress has been impeded by a lack of clarity on 
+      international regulatory pathways. We therefore convened a group of research and 
+      clinician experts on tDCS to review the research and clinical use of tDCS. In 
+      this report, we review the regulatory status of tDCS, and we summarize the 
+      results according to research, off-label and compassionate use of tDCS in the 
+      following countries: Australia, Brazil, France, Germany, India, Iran, Italy, 
+      Portugal, South Korea, Taiwan and United States. Research use, off label 
+      treatment and compassionate use of tDCS are employed in most of the countries 
+      reviewed in this study. It is critical that a global or local effort is organized 
+      to pursue definite evidence to either approve and regulate or restrict the use of 
+      tDCS in clinical practice on the basis of adequate randomized controlled 
+      treatment trials.
+FAU - Fregni, F
+AU  - Fregni F
+AD  - Spaulding Neuromodulation Center, Spaulding Rehabilitation Hospital and 
+      Massachusetts General Hospital, Harvard Medical School, Boston, MA.
+FAU - Nitsche, M A
+AU  - Nitsche MA
+AD  - Department of Clinical Neurophysiology, Georg-August-University, Gottingen, 
+      Germany.
+FAU - Loo, C K
+AU  - Loo CK
+AD  - School of Psychiatry & The Black Dog Institute, University of New South Wales, 
+      Sydney, Australia.
+FAU - Brunoni, A R
+AU  - Brunoni AR
+AD  - Service of Interdisciplinary Neuromodulation, Department and Institute of 
+      Psychiatry, University of Sao Paulo, Sao Paulo, Brazil and Division of Neurology, 
+      Santa Casa Medicak School, Sao Paulo, Brazil.
+FAU - Marangolo, P
+AU  - Marangolo P
+AD  - Department of Experimental and Clinical Medicine, University Politecnica delle 
+      Marche, Ancona, and IRCCS Fondazione Santa Lucia, Roma, Italy.
+FAU - Leite, J
+AU  - Leite J
+AD  - Spaulding Neuromodulation Center, Spaulding Rehabilitation Hospital and 
+      Massachusetts General Hospital, Harvard Medical School, Boston, MA ; 
+      Neuropsychophysiology Laboratory, CIPsi, School of Psychology (EPsi), University 
+      of Minho, Campus de Gualtar, Braga, Portugal.
+FAU - Carvalho, S
+AU  - Carvalho S
+AD  - Spaulding Neuromodulation Center, Spaulding Rehabilitation Hospital and 
+      Massachusetts General Hospital, Harvard Medical School, Boston, MA ; 
+      Neuropsychophysiology Laboratory, CIPsi, School of Psychology (EPsi), University 
+      of Minho, Campus de Gualtar, Braga, Portugal.
+FAU - Bolognini, N
+AU  - Bolognini N
+AD  - Department of Psychology, University of Milano Bicocca, and Laboratory of 
+      Neuropsychology, IRCC Instituto Auxologico Italiano, Milano, Italy.
+FAU - Caumo, W
+AU  - Caumo W
+AD  - Laboratory of Pain & Neuromodulation at Hospital de Clinicas de Porto Alegre at 
+      UFRGS.
+FAU - Paik, N J
+AU  - Paik NJ
+AD  - Department of Rehabilitation Medicine, Seoul National University College of 
+      Medicine, Seoul National University Bundang Hospital, Seoul, South Korea.
+FAU - Simis, M
+AU  - Simis M
+AD  - Service of Interdisciplinary Neuromodulation, Department and Institute of 
+      Psychiatry, University of Sao Paulo, Sao Paulo, Brazil and Division of Neurology, 
+      Santa Casa Medicak School, Sao Paulo, Brazil.
+FAU - Ueda, K
+AU  - Ueda K
+AD  - National Cardiovascular Center, Osaka, Japan.
+FAU - Ekhitari, H
+AU  - Ekhitari H
+AD  - Translational Neuroscience Program, Institute for Cognitive Science Studies, 
+      Tehran, Iran ; Neurocognitive Laboratory, Iranian National Center for Addiction 
+      Studies, Tehran University of Medical Sciences, Tehran, Iran.
+FAU - Luu, P
+AU  - Luu P
+AD  - Electrical Geodesics, Inc., and University of Oregon, Eugene, Oregon, USA.
+FAU - Tucker, D M
+AU  - Tucker DM
+AD  - Electrical Geodesics, Inc., and University of Oregon, Eugene, Oregon, USA.
+FAU - Tyler, W J
+AU  - Tyler WJ
+AD  - Virginia Tech Carilion Research Institute, Department of Psychiatry and 
+      Behavioral Medicine, Virginia Tech Carilion School of Medicine, and School of 
+      Biomedical Engineering and Sciences, Virginia Tech, Roanoke, VA USA.
+FAU - Brunelin, J
+AU  - Brunelin J
+AD  - EA 4615, Centre Hospitalier le Vinatier, Universite de Lyon, F-69003, Universite 
+      Claude Bernard Lyon I, Bron, France.
+FAU - Datta, A
+AU  - Datta A
+AD  - Department of Biomedical Engineering, Neural Engineering Laboratory, The City 
+      College of the City University of New York New York, NY, USA.
+FAU - Juan, C H
+AU  - Juan CH
+AD  - Institute of Cognitive Neuroscience, National Central University, Taiwan.
+FAU - Venkatasubramanian, G
+AU  - Venkatasubramanian G
+AD  - Translational Psychiatry Laboratory, Department of Psychiatry, National Institute 
+      of Mental Health and Neurosciences, Bangalore, India.
+FAU - Boggio, P S
+AU  - Boggio PS
+AD  - Social and Cognitive Neuroscience Laboratory and Developmental Disorders Program, 
+      Center for Healthy and Biological Sciences, Mackenzie Presbyterian University, 
+      Sao Paulo, Brazil.
+FAU - Bikson, M
+AU  - Bikson M
+AD  - Department of Biomedical Engineering, Neural Engineering Laboratory, The City 
+      College of the City University of New York New York, NY, USA.
+LA  - eng
+GR  - WT_/Wellcome Trust/United Kingdom
+GR  - R44 NS080632/NS/NINDS NIH HHS/United States
+PT  - Journal Article
+PL  - England
+TA  - Clin Res Regul Aff
+JT  - Clinical research and regulatory affairs
+JID - 9211145
+PMC - PMC4431691
+MID - NIHMS646440
+EDAT- 2015/05/20 06:00
+MHDA- 2015/05/20 06:01
+PMCR- 2016/03/01
+CRDT- 2015/05/19 06:00
+PHST- 2015/05/19 06:00 [entrez]
+PHST- 2015/05/20 06:00 [pubmed]
+PHST- 2015/05/20 06:01 [medline]
+PHST- 2016/03/01 00:00 [pmc-release]
+AID - 10.3109/10601333.2015.980944 [doi]
+PST - ppublish
+SO  - Clin Res Regul Aff. 2015 Mar 1;32(1):22-35. doi: 10.3109/10601333.2015.980944.
+
+PMID- 25620925
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20150126
+LR  - 20201001
+IS  - 1662-5161 (Print)
+IS  - 1662-5161 (Electronic)
+IS  - 1662-5161 (Linking)
+VI  - 8
+DP  - 2014
+TI  - Is sham cTBS real cTBS? The effect on EEG dynamics.
+PG  - 1043
+LID - 10.3389/fnhum.2014.01043 [doi]
+LID - 1043
+AB  - Increasing sensitivity of modern evaluation tools allows for the study of weaker 
+      electric stimulation effects on neural populations. In the current study we 
+      examined the effects of sham continuous theta burst (cTBS) transcranial magnetic 
+      stimulation to the left dorsolateral prefrontal cortex (DLPFC) upon somatosensory 
+      evoked potentials (SEP) and frontal-parietal phase coupling of alpha and beta 
+      bands. Sham TMS results in an induced electric field amplitude roughly 5% that of 
+      real TMS with a similar spatial extent in cortex. Both real and sham cTBS reduced 
+      the amplitude of the frontal P14-N30 SEP and increased local phase coupling in 
+      the alpha-beta frequency bands of left frontal cortex. In addition, both sham and 
+      real cTBS increased frontal-parietal phase coupling in the alpha-beta bands 
+      concomitant with an increase in amplitude of parietal P50-N70 complex. These data 
+      suggest that weak electric fields from sham cTBS can affect both local and 
+      downstream neuronal circuits, though in a different manner than high strength 
+      TMS.
+FAU - Opitz, Alexander
+AU  - Opitz A
+AD  - Department of Clinical Neurophysiology, Georg-August-University Gottingen, 
+      Germany ; Center for Biomedical Imaging and Neuromodulation, Nathan Kline 
+      Institute for Psychiatric Research Orangeburg, NY, USA ; Center for the 
+      Developing Brain, Child Mind Institute New York, NY, USA.
+FAU - Legon, Wynn
+AU  - Legon W
+AD  - Department of Physical Medicine and Rehabilitation, University of Minnesota 
+      Minneapolis, MN, USA.
+FAU - Mueller, Jerel
+AU  - Mueller J
+AD  - School of Biomedical Engineering and Sciences, Virginia Tech Blacksburg, VA, USA.
+FAU - Barbour, Aaron
+AU  - Barbour A
+AD  - Virginia Tech Carilion Research Institute Roanoke, VA, USA.
+FAU - Paulus, Walter
+AU  - Paulus W
+AD  - Department of Clinical Neurophysiology, Georg-August-University Gottingen, 
+      Germany.
+FAU - Tyler, William J
+AU  - Tyler WJ
+AD  - School of Biological and Health Systems Engineering, Arizona State University 
+      Tempe, AZ, USA.
+LA  - eng
+PT  - Journal Article
+DEP - 20150108
+PL  - Switzerland
+TA  - Front Hum Neurosci
+JT  - Frontiers in human neuroscience
+JID - 101477954
+PMC - PMC4287020
+OTO - NOTNLM
+OT  - DLPFC
+OT  - EEG
+OT  - TMS
+OT  - electric field
+OT  - evoked potentials
+OT  - sham TMS
+OT  - somatosensory
+EDAT- 2015/01/27 06:00
+MHDA- 2015/01/27 06:01
+PMCR- 2014/01/01
+CRDT- 2015/01/27 06:00
+PHST- 2014/10/07 00:00 [received]
+PHST- 2014/12/14 00:00 [accepted]
+PHST- 2015/01/27 06:00 [entrez]
+PHST- 2015/01/27 06:00 [pubmed]
+PHST- 2015/01/27 06:01 [medline]
+PHST- 2014/01/01 00:00 [pmc-release]
+AID - 10.3389/fnhum.2014.01043 [doi]
+PST - epublish
+SO  - Front Hum Neurosci. 2015 Jan 8;8:1043. doi: 10.3389/fnhum.2014.01043. eCollection 
+      2014.
+
+PMID- 25265863
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20150914
+LR  - 20220330
+IS  - 1876-4754 (Electronic)
+IS  - 1876-4754 (Linking)
+VI  - 7
+IP  - 6
+DP  - 2014 Nov-Dec
+TI  - Transcranial focused ultrasound modulates intrinsic and evoked EEG dynamics.
+PG  - 900-8
+LID - S1935-861X(14)00306-4 [pii]
+LID - 10.1016/j.brs.2014.08.008 [doi]
+AB  - BACKGROUND: The integration of EEG recordings and transcranial neuromodulation 
+      has provided a useful construct for noninvasively investigating the modification 
+      of human brain circuit activity. Recent evidence has demonstrated that focused 
+      ultrasound can be targeted through the human skull to affect the amplitude of 
+      somatosensory evoked potentials and its associated spectral content. 
+      OBJECTIVE/HYPOTHESIS: The present study tests whether focused ultrasound 
+      transmitted through the human skull and targeted to somatosensory cortex can 
+      affect the phase and phase rate of cortical oscillatory dynamics. METHODS: A 
+      computational model was developed to gain insight regarding the insertion 
+      behavior of ultrasound induced pressure waves in the human head. The 
+      instantaneous phase and phase rate of EEG recordings before, during, and after 
+      transmission of transcranial focused ultrasound (tFUS) to human somatosensory 
+      cortex were examined to explore its effects on phase dynamics. RESULTS: 
+      Computational modeling results show the skull effectively reinforces the focusing 
+      of tFUS due to curvature of material interfaces. Neurophysiological recordings 
+      show that tFUS alters the phase distribution of intrinsic brain activity for beta 
+      frequencies, but not gamma. This modulation was accompanied by a change in phase 
+      rate of both beta and gamma frequencies. Additionally, tFUS modulated phase 
+      distributions in the beta band of early sensory-evoked activity but did not 
+      affect late sensory-evoked activity, lending support to the spatial specificity 
+      of tFUS for neuromodulation. This spatial specificity was confirmed through an 
+      additional experiment where the ultrasound transducer was moved 1 cm laterally 
+      from the original cortical target. CONCLUSIONS: Focused ultrasonic energy can 
+      alter EEG oscillatory dynamics through local mechanical perturbation of discrete 
+      cortical circuits.
+CI  - Copyright (c) 2014 The Authors. Published by Elsevier Inc. All rights reserved.
+FAU - Mueller, Jerel
+AU  - Mueller J
+AD  - School of Biomedical Engineering and Sciences, Virginia Tech, Blacksburg, VA 
+      24061, USA; Virginia Tech Carilion Research Institute, Roanoke, VA 24015, USA.
+FAU - Legon, Wynn
+AU  - Legon W
+AD  - Department of Physical Medicine and Rehabilitation, University of Minnesota, MN 
+      55455, USA.
+FAU - Opitz, Alexander
+AU  - Opitz A
+AD  - Virginia Tech Carilion Research Institute, Roanoke, VA 24015, USA; Department of 
+      Clinical Neurophysiology, Georg-August-University, Gottingen, Germany.
+FAU - Sato, Tomokazu F
+AU  - Sato TF
+AD  - Division of Biology, California Institute of Technology, Pasadena, CA 91125, USA.
+FAU - Tyler, William J
+AU  - Tyler WJ
+AD  - School of Biological and Health Systems Engineering, Arizona State University, 
+      Tempe, AZ 85287, USA. Electronic address: wtyler@asu.edu.
+LA  - eng
+PT  - Controlled Clinical Trial
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20140906
+PL  - United States
+TA  - Brain Stimul
+JT  - Brain stimulation
+JID - 101465726
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Brain Waves/*physiology
+MH  - Electroencephalography
+MH  - Evoked Potentials, Somatosensory/*physiology
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Models, Neurological
+MH  - Somatosensory Cortex/*physiology
+MH  - *Sound
+MH  - Young Adult
+OTO - NOTNLM
+OT  - Electroencephalography (EEG)
+OT  - Neuromodulation
+OT  - Oscillations
+OT  - Phase
+OT  - Ultrasound
+EDAT- 2014/10/01 06:00
+MHDA- 2015/09/15 06:00
+CRDT- 2014/10/01 06:00
+PHST- 2014/05/28 00:00 [received]
+PHST- 2014/08/26 00:00 [revised]
+PHST- 2014/08/27 00:00 [accepted]
+PHST- 2014/10/01 06:00 [entrez]
+PHST- 2014/10/01 06:00 [pubmed]
+PHST- 2015/09/15 06:00 [medline]
+AID - S1935-861X(14)00306-4 [pii]
+AID - 10.1016/j.brs.2014.08.008 [doi]
+PST - ppublish
+SO  - Brain Stimul. 2014 Nov-Dec;7(6):900-8. doi: 10.1016/j.brs.2014.08.008. Epub 2014 
+      Sep 6.
+
+PMID- 24413698
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20140324
+LR  - 20220409
+IS  - 1546-1726 (Electronic)
+IS  - 1097-6256 (Linking)
+VI  - 17
+IP  - 2
+DP  - 2014 Feb
+TI  - Transcranial focused ultrasound modulates the activity of primary somatosensory 
+      cortex in humans.
+PG  - 322-9
+LID - 10.1038/nn.3620 [doi]
+AB  - Improved methods of noninvasively modulating human brain function are needed. 
+      Here we probed the influence of transcranial focused ultrasound (tFUS) targeted 
+      to the human primary somatosensory cortex (S1) on sensory-evoked brain activity 
+      and sensory discrimination abilities. The lateral and axial spatial resolution of 
+      the tFUS beam implemented were 4.9 mm and 18 mm, respectively. 
+      Electroencephalographic recordings showed that tFUS significantly attenuated the 
+      amplitudes of somatosensory evoked potentials elicited by median nerve 
+      stimulation. We also found that tFUS significantly modulated the spectral content 
+      of sensory-evoked brain oscillations. The changes produced by tFUS on 
+      sensory-evoked brain activity were abolished when the acoustic beam was focused 1 
+      cm anterior or posterior to S1. Behavioral investigations showed that tFUS 
+      targeted to S1 enhanced performance on sensory discrimination tasks without 
+      affecting task attention or response bias. We conclude that tFUS can be used to 
+      focally modulate human cortical function.
+FAU - Legon, Wynn
+AU  - Legon W
+AD  - Virginia Tech Carilion Research Institute, Roanoke, Virginia, USA.
+FAU - Sato, Tomokazu F
+AU  - Sato TF
+AD  - Virginia Tech Carilion Research Institute, Roanoke, Virginia, USA.
+FAU - Opitz, Alexander
+AU  - Opitz A
+AD  - 1] Virginia Tech Carilion Research Institute, Roanoke, Virginia, USA. [2] 
+      Department of Clinical Neurophysiology, Georg-August-University, Gottingen, 
+      Germany.
+FAU - Mueller, Jerel
+AU  - Mueller J
+AD  - School of Biomedical Engineering and Sciences, Virginia Tech, Blacksburg, 
+      Virginia, USA.
+FAU - Barbour, Aaron
+AU  - Barbour A
+AD  - Virginia Tech Carilion Research Institute, Roanoke, Virginia, USA.
+FAU - Williams, Amanda
+AU  - Williams A
+AD  - Virginia Tech Carilion Research Institute, Roanoke, Virginia, USA.
+FAU - Tyler, William J
+AU  - Tyler WJ
+AD  - 1] Virginia Tech Carilion Research Institute, Roanoke, Virginia, USA. [2] School 
+      of Biomedical Engineering and Sciences, Virginia Tech, Blacksburg, Virginia, USA. 
+      [3] Department of Psychiatry and Behavioral Medicine, Virginia Tech Carilion 
+      School of Medicine, Roanoke, Virginia, USA.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20140112
+PL  - United States
+TA  - Nat Neurosci
+JT  - Nature neuroscience
+JID - 9809671
+RN  - 0 (Alkaloids)
+RN  - 0 (Wilcox compound)
+SB  - IM
+MH  - Acoustic Stimulation
+MH  - Alkaloids
+MH  - *Brain Mapping
+MH  - Discrimination, Psychological/physiology
+MH  - Electroencephalography
+MH  - Evoked Potentials, Somatosensory/*physiology
+MH  - Functional Laterality
+MH  - Humans
+MH  - Image Processing, Computer-Assisted
+MH  - Skull Base/diagnostic imaging
+MH  - Somatosensory Cortex/*diagnostic imaging/*physiology
+MH  - Ultrasonography, Doppler, Transcranial/*methods
+EDAT- 2014/01/15 06:00
+MHDA- 2014/03/25 06:00
+CRDT- 2014/01/14 06:00
+PHST- 2013/09/10 00:00 [received]
+PHST- 2013/12/04 00:00 [accepted]
+PHST- 2014/01/14 06:00 [entrez]
+PHST- 2014/01/15 06:00 [pubmed]
+PHST- 2014/03/25 06:00 [medline]
+AID - nn.3620 [pii]
+AID - 10.1038/nn.3620 [doi]
+PST - ppublish
+SO  - Nat Neurosci. 2014 Feb;17(2):322-9. doi: 10.1038/nn.3620. Epub 2014 Jan 12.
+
+PMID- 23644000
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20140317
+LR  - 20180905
+IS  - 1095-9572 (Electronic)
+IS  - 1053-8119 (Linking)
+VI  - 81
+DP  - 2013 Nov 1
+TI  - Physiological observations validate finite element models for estimating 
+      subject-specific electric field distributions induced by transcranial magnetic 
+      stimulation of the human motor cortex.
+PG  - 253-264
+LID - S1053-8119(13)00414-X [pii]
+LID - 10.1016/j.neuroimage.2013.04.067 [doi]
+AB  - Recent evidence indicates subject-specific gyral folding patterns and white 
+      matter anisotropy uniquely shape electric fields generated by TMS. Current 
+      methods for predicting the brain regions influenced by TMS involve projecting the 
+      TMS coil position or center of gravity onto realistic head models derived from 
+      structural and functional imaging data. Similarly, spherical models have been 
+      used to estimate electric field distributions generated by TMS pulses delivered 
+      from a particular coil location and position. In the present paper we inspect 
+      differences between electric field computations estimated using the finite 
+      element method (FEM) and projection-based approaches described above. We then 
+      more specifically examined an approach for estimating cortical excitation volumes 
+      based on individualistic FEM simulations of electric fields. We evaluated this 
+      approach by performing neurophysiological recordings during MR-navigated 
+      motormapping experiments. We recorded motor evoked potentials (MEPs) in response 
+      to single pulse TMS using two different coil orientations (45 degrees  and 90 degrees  to 
+      midline) at 25 different locations (5x5 grid, 1cm spacing) centered on the 
+      hotspot of the right first dorsal interosseous (FDI) muscle in left motor cortex. 
+      We observed that motor excitability maps varied within and between subjects as a 
+      function of TMS coil position and orientation. For each coil position and 
+      orientation tested, simulations of the TMS-induced electric field were computed 
+      using individualistic FEM models and compared to MEP amplitudes obtained during 
+      our motormapping experiments. We found FEM simulations of electric field 
+      strength, which take into account subject-specific gyral geometry and tissue 
+      conductivity anisotropy, significantly correlated with physiologically observed 
+      MEP amplitudes (rmax=0.91, p=1.8x10(-5) rmean=0.81, p=0.01). These observations 
+      validate the implementation of individualistic FEM models to account for 
+      variations in gyral folding patterns and tissue conductivity anisotropy, which 
+      should help improve the targeting accuracy of TMS in the mapping or modulation of 
+      human brain circuits.
+CI  - Copyright (c) 2013 The Authors. Published by Elsevier Inc. All rights reserved.
+FAU - Opitz, Alexander
+AU  - Opitz A
+AD  - Virginia Tech Carilion Research Institute, Roanoke, VA 24015, USA; Department of 
+      Clinical Neurophysiology, Georg-August-University, Gottingen, Germany.
+FAU - Legon, Wynn
+AU  - Legon W
+AD  - Virginia Tech Carilion Research Institute, Roanoke, VA 24015, USA.
+FAU - Rowlands, Abby
+AU  - Rowlands A
+AD  - Virginia Tech Carilion Research Institute, Roanoke, VA 24015, USA.
+FAU - Bickel, Warren K
+AU  - Bickel WK
+AD  - Virginia Tech Carilion Research Institute, Roanoke, VA 24015, USA; Department of 
+      Psychiatry and Behavioral Medicine, Virginia Tech Carilion School of Medicine, 
+      USA.
+FAU - Paulus, Walter
+AU  - Paulus W
+AD  - Department of Clinical Neurophysiology, Georg-August-University, Gottingen, 
+      Germany.
+FAU - Tyler, William J
+AU  - Tyler WJ
+AD  - Virginia Tech Carilion Research Institute, Roanoke, VA 24015, USA; Department of 
+      Psychiatry and Behavioral Medicine, Virginia Tech Carilion School of Medicine, 
+      USA; School of Biomedical Engineering and Sciences, Virginia Tech, USA. 
+      Electronic address: wtyler@vt.edu.
+LA  - eng
+PT  - Journal Article
+DEP - 20130501
+PL  - United States
+TA  - Neuroimage
+JT  - NeuroImage
+JID - 9215515
+SB  - IM
+MH  - Brain Mapping/*methods
+MH  - Electromagnetic Fields
+MH  - *Finite Element Analysis
+MH  - Humans
+MH  - Magnetic Resonance Imaging
+MH  - *Models, Neurological
+MH  - Motor Cortex/*physiology
+MH  - *Transcranial Magnetic Stimulation
+OTO - NOTNLM
+OT  - Electric field
+OT  - Finite element model
+OT  - Motor cortex
+OT  - Transcranial magnetic stimulation
+EDAT- 2013/05/07 06:00
+MHDA- 2014/03/19 06:00
+CRDT- 2013/05/07 06:00
+PHST- 2013/01/15 00:00 [received]
+PHST- 2013/04/02 00:00 [revised]
+PHST- 2013/04/18 00:00 [accepted]
+PHST- 2013/05/07 06:00 [entrez]
+PHST- 2013/05/07 06:00 [pubmed]
+PHST- 2014/03/19 06:00 [medline]
+AID - S1053-8119(13)00414-X [pii]
+AID - 10.1016/j.neuroimage.2013.04.067 [doi]
+PST - ppublish
+SO  - Neuroimage. 2013 Nov 1;81:253-264. doi: 10.1016/j.neuroimage.2013.04.067. Epub 
+      2013 May 1.
+
+PMID- 23226567
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20130521
+LR  - 20241103
+IS  - 1932-6203 (Electronic)
+IS  - 1932-6203 (Linking)
+VI  - 7
+IP  - 12
+DP  - 2012
+TI  - Pulsed ultrasound differentially stimulates somatosensory circuits in humans as 
+      indicated by EEG and FMRI.
+PG  - e51177
+LID - 10.1371/journal.pone.0051177 [doi]
+LID - e51177
+AB  - Peripheral somatosensory circuits are known to respond to diverse stimulus 
+      modalities. The energy modalities capable of eliciting somatosensory responses 
+      traditionally belong to mechanical, thermal, electromagnetic, and photonic 
+      domains. Ultrasound (US) applied to the periphery has also been reported to evoke 
+      diverse somatosensations. These observations however have been based primarily on 
+      subjective reports and lack neurophysiological descriptions. To investigate the 
+      effects of peripherally applied US on human somatosensory brain circuit activity 
+      we recorded evoked potentials using electroencephalography and conducted 
+      functional magnetic resonance imaging of blood oxygen level-dependent (BOLD) 
+      responses to fingertip stimulation with pulsed US. We found a pulsed US waveform 
+      designed to elicit a mild vibration sensation reliably triggered evoked 
+      potentials having distinct waveform morphologies including a large double-peaked 
+      vertex potential. Fingertip stimulation with this pulsed US waveform also led to 
+      the appearance of BOLD signals in brain regions responsible for somatosensory 
+      discrimination including the primary somatosensory cortex and parietal operculum, 
+      as well as brain regions involved in hierarchical somatosensory processing, such 
+      as the insula, anterior middle cingulate cortex, and supramarginal gyrus. By 
+      changing the energy profile of the pulsed US stimulus waveform we observed pulsed 
+      US can differentially activate somatosensory circuits and alter subjective 
+      reports that are concomitant with changes in evoked potential morphology and BOLD 
+      response patterns. Based on these observations we conclude pulsed US can 
+      functionally stimulate different somatosensory fibers and receptors, which may 
+      permit new approaches to the study and diagnosis of peripheral nerve injury, 
+      dysfunction, and disease.
+FAU - Legon, Wynn
+AU  - Legon W
+AD  - Virginia Tech Carilion Research Institute and School of Biomedical Engineering 
+      and Sciences, Virginia Tech, Roanoke, Virginia, United States of America.
+FAU - Rowlands, Abby
+AU  - Rowlands A
+FAU - Opitz, Alexander
+AU  - Opitz A
+FAU - Sato, Tomokazu F
+AU  - Sato TF
+FAU - Tyler, William J
+AU  - Tyler WJ
+LA  - eng
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20121204
+PL  - United States
+TA  - PLoS One
+JT  - PloS one
+JID - 101285081
+RN  - S88TT14065 (Oxygen)
+SB  - IM
+MH  - Adult
+MH  - Electroencephalography/*methods
+MH  - Female
+MH  - Fingers/*diagnostic imaging
+MH  - Humans
+MH  - Magnetic Resonance Imaging/*methods
+MH  - Male
+MH  - Middle Aged
+MH  - Nerve Net/*physiology
+MH  - Oxygen/blood
+MH  - Physical Stimulation
+MH  - Somatosensory Cortex/*physiology
+MH  - Touch/physiology
+MH  - Ultrasonography
+MH  - Vibration
+MH  - Young Adult
+PMC - PMC3514181
+COIS- Competing Interests: All authors on the manuscript are inventors on a patent 
+      application entitled "Improvement of Sensory Stimulation", which was filed as 
+      Intellectual Property through the Virginia Tech Intellectual Properties (VTIP) 
+      office. Filing of this patent through VTIP did not affect the authors' 
+      objectivity or resolve in conducting the submitted research. In addition, William 
+      J. Tyler and Tomokazu F. Sato have other patents pending on brain stimulation 
+      methods and devices and hold equity in a neuromodulation device company, which is 
+      in no way related to the authors' study. This does not alter the authors' 
+      adherence to all the PLOS ONE policies on sharing data and materials.
+EDAT- 2012/12/12 06:00
+MHDA- 2013/05/23 06:00
+PMCR- 2012/12/04
+CRDT- 2012/12/11 06:00
+PHST- 2012/09/16 00:00 [received]
+PHST- 2012/10/30 00:00 [accepted]
+PHST- 2012/12/11 06:00 [entrez]
+PHST- 2012/12/12 06:00 [pubmed]
+PHST- 2013/05/23 06:00 [medline]
+PHST- 2012/12/04 00:00 [pmc-release]
+AID - PONE-D-12-28286 [pii]
+AID - 10.1371/journal.pone.0051177 [doi]
+PST - ppublish
+SO  - PLoS One. 2012;7(12):e51177. doi: 10.1371/journal.pone.0051177. Epub 2012 Dec 4.
+
+PMID- 21886108
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20120209
+LR  - 20220409
+IS  - 1750-2799 (Electronic)
+IS  - 1750-2799 (Linking)
+VI  - 6
+IP  - 9
+DP  - 2011 Sep 1
+TI  - Ultrasonic neuromodulation by brain stimulation with transcranial ultrasound.
+PG  - 1453-70
+LID - 10.1038/nprot.2011.371 [doi]
+AB  - Brain stimulation methods are indispensable to the study of brain function. They 
+      have also proven effective for treating some neurological disorders. Historically 
+      used for medical imaging, ultrasound (US) has recently been shown to be capable 
+      of noninvasively stimulating brain activity. Here we provide a general protocol 
+      for the stimulation of intact mouse brain circuits using transcranial US, and, 
+      using a traditional mouse model of epilepsy, we describe how to use transcranial 
+      US to disrupt electrographic seizure activity. The advantages of US for brain 
+      stimulation are that it does not necessitate surgery or genetic alteration, but 
+      it confers spatial resolutions superior to other noninvasive methods such as 
+      transcranial magnetic stimulation. With a basic working knowledge of 
+      electrophysiology, and after an initial setup, ultrasonic neuromodulation (UNMOD) 
+      can be implemented in less than 1 h. Using the general protocol that we describe, 
+      UNMOD can be readily adapted to support a broad range of studies on brain circuit 
+      function and dysfunction.
+FAU - Tufail, Yusuf
+AU  - Tufail Y
+AD  - Arizona State University, School of Life Sciences, Tempe, Arizona, USA.
+FAU - Yoshihiro, Anna
+AU  - Yoshihiro A
+FAU - Pati, Sandipan
+AU  - Pati S
+FAU - Li, Monica M
+AU  - Li MM
+FAU - Tyler, William J
+AU  - Tyler WJ
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+DEP - 20110901
+PL  - England
+TA  - Nat Protoc
+JT  - Nature protocols
+JID - 101284307
+SB  - IM
+MH  - Animals
+MH  - Brain/physiology
+MH  - Brain Mapping/*methods
+MH  - Electrophysiology
+MH  - Female
+MH  - Male
+MH  - Mice
+MH  - Mice, Inbred C57BL
+MH  - Ultrasonography, Doppler, Transcranial/*methods
+EDAT- 2011/09/03 06:00
+MHDA- 2012/02/10 06:00
+CRDT- 2011/09/03 06:00
+PHST- 2011/09/03 06:00 [entrez]
+PHST- 2011/09/03 06:00 [pubmed]
+PHST- 2012/02/10 06:00 [medline]
+AID - nprot.2011.371 [pii]
+AID - 10.1038/nprot.2011.371 [doi]
+PST - epublish
+SO  - Nat Protoc. 2011 Sep 1;6(9):1453-70. doi: 10.1038/nprot.2011.371.
+
+PMID- 20547127
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20100719
+LR  - 20220330
+IS  - 1097-4199 (Electronic)
+IS  - 0896-6273 (Linking)
+VI  - 66
+IP  - 5
+DP  - 2010 Jun 10
+TI  - Transcranial pulsed ultrasound stimulates intact brain circuits.
+PG  - 681-94
+LID - 10.1016/j.neuron.2010.05.008 [doi]
+AB  - Electromagnetic-based methods of stimulating brain activity require invasive 
+      procedures or have other limitations. Deep-brain stimulation requires surgically 
+      implanted electrodes. Transcranial magnetic stimulation does not require surgery, 
+      but suffers from low spatial resolution. Optogenetic-based approaches have 
+      unrivaled spatial precision, but require genetic manipulation. In search of a 
+      potential solution to these limitations, we began investigating the influence of 
+      transcranial pulsed ultrasound on neuronal activity in the intact mouse brain. In 
+      motor cortex, ultrasound-stimulated neuronal activity was sufficient to evoke 
+      motor behaviors. Deeper in subcortical circuits, we used targeted transcranial 
+      ultrasound to stimulate neuronal activity and synchronous oscillations in the 
+      intact hippocampus. We found that ultrasound triggers TTX-sensitive neuronal 
+      activity in the absence of a rise in brain temperature (<0.01 degrees C). Here, 
+      we also report that transcranial pulsed ultrasound for intact brain circuit 
+      stimulation has a lateral spatial resolution of approximately 2 mm and does not 
+      require exogenous factors or surgical invasion.
+CI  - Copyright 2010 Elsevier Inc. All rights reserved.
+FAU - Tufail, Yusuf
+AU  - Tufail Y
+AD  - School of Life Sciences, Arizona State University, Tempe, AZ 85287, USA.
+FAU - Matyushov, Alexei
+AU  - Matyushov A
+FAU - Baldwin, Nathan
+AU  - Baldwin N
+FAU - Tauchmann, Monica L
+AU  - Tauchmann ML
+FAU - Georges, Joseph
+AU  - Georges J
+FAU - Yoshihiro, Anna
+AU  - Yoshihiro A
+FAU - Tillery, Stephen I Helms
+AU  - Tillery SI
+FAU - Tyler, William J
+AU  - Tyler WJ
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+PL  - United States
+TA  - Neuron
+JT  - Neuron
+JID - 8809320
+SB  - IM
+MH  - Animals
+MH  - Brain/physiology
+MH  - Hippocampus/physiology
+MH  - Mice
+MH  - Nerve Net/*physiology
+MH  - Neurons/physiology
+MH  - *Ultrasonics
+MH  - Ultrasonography, Doppler, Transcranial/methods
+EDAT- 2010/06/16 06:00
+MHDA- 2010/07/20 06:00
+CRDT- 2010/06/16 06:00
+PHST- 2010/04/29 00:00 [accepted]
+PHST- 2010/06/16 06:00 [entrez]
+PHST- 2010/06/16 06:00 [pubmed]
+PHST- 2010/07/20 06:00 [medline]
+AID - S0896-6273(10)00376-4 [pii]
+AID - 10.1016/j.neuron.2010.05.008 [doi]
+PST - ppublish
+SO  - Neuron. 2010 Jun 10;66(5):681-94. doi: 10.1016/j.neuron.2010.05.008.
+
+PMID- 20103504
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20110615
+LR  - 20110223
+IS  - 1089-4098 (Electronic)
+IS  - 1073-8584 (Linking)
+VI  - 17
+IP  - 1
+DP  - 2011 Feb
+TI  - Noninvasive neuromodulation with ultrasound? A continuum mechanics hypothesis.
+PG  - 25-36
+LID - 10.1177/1073858409348066 [doi]
+AB  - Deep brain stimulation and vagal nerve stimulation are therapeutically effective 
+      in treating some neurological diseases and psychiatric disorders. 
+      Optogenetic-based neurostimulation approaches are capable of activating 
+      individual synapses and yield the highest spatial control over brain circuit 
+      activity. Both electrical and light-based neurostimulation methods require 
+      intrusive procedures such as surgical implantation of electrodes or 
+      photon-emitting devices. Transcranial magnetic stimulation has also shown 
+      therapeutic effectiveness and represents a recent paradigm shift towards 
+      implementing less invasive brain stimulation methods. Magnetic-based stimulation, 
+      however, has a limited focusing capacity and lacks brain penetration power. 
+      Because ultrasound can be noninvasively transmitted through the skull to targeted 
+      deep brain circuits, it may offer alternative approaches to currently employed 
+      neuromodulation techniques. Encouraging this idea, literature spanning more than 
+      half a century indicates that ultrasound can modulate neuronal activity. In order 
+      to provide a comprehensive overview of potential mechanisms underlying the 
+      actions of ultrasound on neuronal excitability, here, I propose the continuum 
+      mechanics hypothesis of ultrasonic neuromodulation in which ultrasound produces 
+      effects on viscoelastic neurons and their surrounding fluid environments to alter 
+      membrane conductance. While further studies are required to test this hypothesis, 
+      experimental data indicate ultrasound represents a promising platform for 
+      developing future therapeutic neuromodulation approaches.
+FAU - Tyler, William J
+AU  - Tyler WJ
+AD  - School of Life Sciences, Arizona State University, Tempe, Arizona, USA. 
+      wtyler@asu.edu
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20100125
+PL  - United States
+TA  - Neuroscientist
+JT  - The Neuroscientist : a review journal bringing neurobiology, neurology and 
+      psychiatry
+JID - 9504819
+SB  - IM
+MH  - Animals
+MH  - Brain/*physiology
+MH  - Humans
+MH  - *Ultrasonics
+MH  - *Ultrasonography
+EDAT- 2010/01/28 06:00
+MHDA- 2011/06/16 06:00
+CRDT- 2010/01/28 06:00
+PHST- 2010/01/28 06:00 [entrez]
+PHST- 2010/01/28 06:00 [pubmed]
+PHST- 2011/06/16 06:00 [medline]
+AID - 1073858409348066 [pii]
+AID - 10.1177/1073858409348066 [doi]
+PST - ppublish
+SO  - Neuroscientist. 2011 Feb;17(1):25-36. doi: 10.1177/1073858409348066. Epub 2010 
+      Jan 25.
+
+PMID- 20057495
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20100309
+LR  - 20211020
+IS  - 1759-4766 (Electronic)
+IS  - 1759-4758 (Linking)
+VI  - 6
+IP  - 1
+DP  - 2010 Jan
+TI  - Pain: Noninvasive functional neurosurgery using ultrasound.
+PG  - 13-4
+LID - 10.1038/nrneurol.2009.211 [doi]
+FAU - Tyler, William J
+AU  - Tyler WJ
+FAU - Tufail, Yusuf
+AU  - Tufail Y
+FAU - Pati, Sandipan
+AU  - Pati S
+LA  - eng
+PT  - News
+PL  - England
+TA  - Nat Rev Neurol
+JT  - Nature reviews. Neurology
+JID - 101500072
+SB  - IM
+MH  - Clinical Trials as Topic
+MH  - High-Intensity Focused Ultrasound Ablation/*methods
+MH  - Humans
+MH  - Neurosurgical Procedures/*methods
+MH  - Pain/*surgery
+EDAT- 2010/01/09 06:00
+MHDA- 2010/03/10 06:00
+CRDT- 2010/01/09 06:00
+PHST- 2010/01/09 06:00 [entrez]
+PHST- 2010/01/09 06:00 [pubmed]
+PHST- 2010/03/10 06:00 [medline]
+AID - nrneurol.2009.211 [pii]
+AID - 10.1038/nrneurol.2009.211 [doi]
+PST - ppublish
+SO  - Nat Rev Neurol. 2010 Jan;6(1):13-4. doi: 10.1038/nrneurol.2009.211.
+
+PMID- 18958151
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20090223
+LR  - 20220330
+IS  - 1932-6203 (Electronic)
+IS  - 1932-6203 (Linking)
+VI  - 3
+IP  - 10
+DP  - 2008
+TI  - Remote excitation of neuronal circuits using low-intensity, low-frequency 
+      ultrasound.
+PG  - e3511
+LID - 10.1371/journal.pone.0003511 [doi]
+LID - e3511
+AB  - Possessing the ability to noninvasively elicit brain circuit activity yields 
+      immense experimental and therapeutic power. Most currently employed 
+      neurostimulation methods rely on the somewhat invasive use of stimulating 
+      electrodes or photon-emitting devices. Due to its ability to noninvasively 
+      propagate through bone and other tissues in a focused manner, the implementation 
+      of ultrasound (US) represents a compelling alternative approach to current 
+      neuromodulation strategies. Here, we investigated the influence of low-intensity, 
+      low-frequency ultrasound (LILFU) on neuronal activity. By transmitting US 
+      waveforms through hippocampal slice cultures and ex vivo mouse brains, we 
+      determined LILFU is capable of remotely and noninvasively exciting neurons and 
+      network activity. Our results illustrate that LILFU can stimulate electrical 
+      activity in neurons by activating voltage-gated sodium channels, as well as 
+      voltage-gated calcium channels. The LILFU-induced changes in neuronal activity 
+      were sufficient to trigger SNARE-mediated exocytosis and synaptic transmission in 
+      hippocampal circuits. Because LILFU can stimulate electrical activity and calcium 
+      signaling in neurons as well as central synaptic transmission we conclude US 
+      provides a powerful tool for remotely modulating brain circuit activity.
+FAU - Tyler, William J
+AU  - Tyler WJ
+AD  - School of Life Sciences, Arizona State University, Tempe, Arizona, USA. 
+      wtyler@asu.edu
+FAU - Tufail, Yusuf
+AU  - Tufail Y
+FAU - Finsterwald, Michael
+AU  - Finsterwald M
+FAU - Tauchmann, Monica L
+AU  - Tauchmann ML
+FAU - Olson, Emily J
+AU  - Olson EJ
+FAU - Majestic, Cassondra
+AU  - Majestic C
+LA  - eng
+PT  - Evaluation Study
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20081029
+PL  - United States
+TA  - PLoS One
+JT  - PloS one
+JID - 101285081
+RN  - 0 (Calcium Channels)
+RN  - 0 (SNARE Proteins)
+RN  - 0 (Sodium Channels)
+SB  - IM
+MH  - Animals
+MH  - Calcium Channels/physiology
+MH  - Cells, Cultured
+MH  - Electric Stimulation/instrumentation/methods
+MH  - Exocytosis/physiology
+MH  - Mice
+MH  - Models, Biological
+MH  - Nerve Net/diagnostic imaging/*physiology
+MH  - Neurons/metabolism/physiology
+MH  - Patch-Clamp Techniques/instrumentation/*methods
+MH  - SNARE Proteins/physiology
+MH  - Sodium Channels/metabolism/physiology
+MH  - *Ultrasonics
+MH  - Ultrasonography
+PMC - PMC2568804
+COIS- Competing Interests: The authors have declared that no competing interests exist.
+EDAT- 2008/10/30 09:00
+MHDA- 2009/02/24 09:00
+PMCR- 2008/10/29
+CRDT- 2008/10/30 09:00
+PHST- 2008/05/06 00:00 [received]
+PHST- 2008/10/03 00:00 [accepted]
+PHST- 2008/10/30 09:00 [pubmed]
+PHST- 2009/02/24 09:00 [medline]
+PHST- 2008/10/30 09:00 [entrez]
+PHST- 2008/10/29 00:00 [pmc-release]
+AID - 08-PONE-RA-04573R2 [pii]
+AID - 10.1371/journal.pone.0003511 [doi]
+PST - ppublish
+SO  - PLoS One. 2008;3(10):e3511. doi: 10.1371/journal.pone.0003511. Epub 2008 Oct 29.
+
+PMID- 17728456
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20070925
+LR  - 20200225
+IS  - 1529-2401 (Electronic)
+IS  - 0270-6474 (Print)
+IS  - 0270-6474 (Linking)
+VI  - 27
+IP  - 35
+DP  - 2007 Aug 29
+TI  - Experience-dependent modification of primary sensory synapses in the mammalian 
+      olfactory bulb.
+PG  - 9427-38
+AB  - Experience-dependent changes in neural circuits have traditionally been 
+      investigated several synapses downstream of sensory input. Whether experience can 
+      alter the strength of primary sensory synapses remains mostly unknown. To address 
+      this issue, we investigated the consequences of odor deprivation on synapses made 
+      by olfactory sensory axons in the olfactory bulb of rats. Odor deprivation 
+      triggered an increase in the probability of glutamate release from olfactory 
+      sensory neuron synapses. Deprivation also increased the amplitude of quantal 
+      synaptic currents mediated by AMPA- and NMDA-type glutamate receptors, as well as 
+      the abundance of these receptors in the glomerular region. Our results 
+      demonstrate that sensory experience is capable of modulating synaptic strength at 
+      the earliest stages of information transfer between the environment and an 
+      organism. Such compensatory experience-dependent changes may represent a 
+      mechanism of sensory gain control.
+FAU - Tyler, William J
+AU  - Tyler WJ
+AD  - Department of Molecular and Cellular Biology and Center for Brain Science, 
+      Harvard University, Cambridge, Massachusetts 02138, USA. wtyler@asu.edu
+FAU - Petzold, Gabor C
+AU  - Petzold GC
+FAU - Pal, Sumon K
+AU  - Pal SK
+FAU - Murthy, Venkatesh N
+AU  - Murthy VN
+LA  - eng
+GR  - F32 NS050976/NS/NINDS NIH HHS/United States
+GR  - NS050976/NS/NINDS NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - J Neurosci
+JT  - The Journal of neuroscience : the official journal of the Society for 
+      Neuroscience
+JID - 8102140
+RN  - 0 (Excitatory Amino Acid Agents)
+RN  - 0 (Excitatory Amino Acid Antagonists)
+RN  - 0 (Nerve Tissue Proteins)
+RN  - 6384-92-5 (N-Methylaspartate)
+RN  - 77521-29-0 (alpha-Amino-3-hydroxy-5-methyl-4-isoxazolepropionic Acid)
+RN  - EC 3.4.22.- (Caspase 3)
+RN  - G34N38R2N1 (Bromodeoxyuridine)
+SB  - IM
+MH  - Analysis of Variance
+MH  - Animals
+MH  - Animals, Newborn
+MH  - Bromodeoxyuridine/metabolism
+MH  - Caspase 3/metabolism
+MH  - Cell Count/methods
+MH  - Electric Stimulation/methods
+MH  - Excitatory Amino Acid Agents/pharmacology
+MH  - Excitatory Amino Acid Antagonists/pharmacology
+MH  - Excitatory Postsynaptic Potentials/drug effects/radiation effects
+MH  - Membrane Potentials/physiology/radiation effects
+MH  - N-Methylaspartate/metabolism
+MH  - Nerve Tissue Proteins/metabolism
+MH  - Neuronal Plasticity/*physiology
+MH  - Olfactory Bulb/*cytology
+MH  - Olfactory Receptor Neurons/*cytology
+MH  - Patch-Clamp Techniques/methods
+MH  - Rats
+MH  - Rats, Sprague-Dawley
+MH  - Sensory Deprivation/physiology
+MH  - Synapses/*physiology
+MH  - alpha-Amino-3-hydroxy-5-methyl-4-isoxazolepropionic Acid/metabolism
+PMC - PMC6673126
+EDAT- 2007/08/31 09:00
+MHDA- 2007/09/26 09:00
+PMCR- 2008/02/29
+CRDT- 2007/08/31 09:00
+PHST- 2007/08/31 09:00 [pubmed]
+PHST- 2007/09/26 09:00 [medline]
+PHST- 2007/08/31 09:00 [entrez]
+PHST- 2008/02/29 00:00 [pmc-release]
+AID - 27/35/9427 [pii]
+AID - 3258661 [pii]
+AID - 10.1523/JNEUROSCI.0664-07.2007 [doi]
+PST - ppublish
+SO  - J Neurosci. 2007 Aug 29;27(35):9427-38. doi: 10.1523/JNEUROSCI.0664-07.2007.
+
+PMID- 17660813
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20080104
+LR  - 20250529
+IS  - 1097-6256 (Print)
+IS  - 1546-1726 (Electronic)
+IS  - 1097-6256 (Linking)
+VI  - 10
+IP  - 9
+DP  - 2007 Sep
+TI  - Kinase activity is not required for alphaCaMKII-dependent presynaptic plasticity 
+      at CA3-CA1 synapses.
+PG  - 1125-7
+AB  - Using targeted mouse mutants and pharmacologic inhibition of alphaCaMKII, we 
+      demonstrate that the alphaCaMKII protein, but not its activation, 
+      autophosphorylation or its ability to phosphorylate synapsin I, is required for 
+      normal short-term presynaptic plasticity. Furthermore, alphaCaMKII regulates the 
+      number of docked vesicles independent of its ability to be activated. These 
+      results indicate that alphaCaMKII has a nonenzymatic role in short-term 
+      presynaptic plasticity at hippocampal CA3-CA1 synapses.
+FAU - Hojjati, Mohammad Reza
+AU  - Hojjati MR
+AD  - Department of Neuroscience, Erasmus University Medical Center, Dr. Molewaterplein 
+      50, 3015 GE Rotterdam, The Netherlands.
+FAU - van Woerden, Geeske M
+AU  - van Woerden GM
+FAU - Tyler, William J
+AU  - Tyler WJ
+FAU - Giese, Karl Peter
+AU  - Giese KP
+FAU - Silva, Alcino J
+AU  - Silva AJ
+FAU - Pozzo-Miller, Lucas
+AU  - Pozzo-Miller L
+FAU - Elgersma, Ype
+AU  - Elgersma Y
+LA  - eng
+GR  - P30 NS047466/NS/NINDS NIH HHS/United States
+GR  - P30 NS057098/NS/NINDS NIH HHS/United States
+GR  - P30 HD038985/HD/NICHD NIH HHS/United States
+GR  - R01 NS040593/NS/NINDS NIH HHS/United States
+GR  - G0400983/MRC_/Medical Research Council/United Kingdom
+GR  - P30-HD38985/HD/NICHD NIH HHS/United States
+GR  - P30-NS47466/NS/NINDS NIH HHS/United States
+GR  - P30-NS57098/NS/NINDS NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20070729
+PL  - United States
+TA  - Nat Neurosci
+JT  - Nature neuroscience
+JID - 9809671
+RN  - 0 (Synapsins)
+RN  - EC 2.7.11.17 (Calcium-Calmodulin-Dependent Protein Kinase Type 2)
+SB  - IM
+MH  - Analysis of Variance
+MH  - Animals
+MH  - Calcium-Calmodulin-Dependent Protein Kinase Type 2/genetics/*physiology
+MH  - Electric Stimulation
+MH  - Enzyme Activation/genetics
+MH  - Excitatory Postsynaptic Potentials/genetics
+MH  - Hippocampus/*cytology
+MH  - Mice
+MH  - Mice, Inbred C57BL
+MH  - Mice, Transgenic
+MH  - Microscopy, Electron, Transmission/methods
+MH  - Mutagenesis/physiology
+MH  - Neuronal Plasticity/*physiology
+MH  - Neurons/*physiology/radiation effects
+MH  - Patch-Clamp Techniques/methods
+MH  - Phosphorylation
+MH  - Presynaptic Terminals/*physiology/ultrastructure
+MH  - Synapses/*physiology/ultrastructure
+MH  - Synapsins/metabolism
+MH  - Synaptic Transmission/genetics/*physiology
+MH  - Synaptic Vesicles/physiology
+PMC - PMC2804046
+MID - NIHMS166547
+EDAT- 2007/07/31 09:00
+MHDA- 2008/01/05 09:00
+PMCR- 2010/01/10
+CRDT- 2007/07/31 09:00
+PHST- 2007/05/22 00:00 [received]
+PHST- 2007/06/26 00:00 [accepted]
+PHST- 2007/07/31 09:00 [pubmed]
+PHST- 2008/01/05 09:00 [medline]
+PHST- 2007/07/31 09:00 [entrez]
+PHST- 2010/01/10 00:00 [pmc-release]
+AID - nn1946 [pii]
+AID - 10.1038/nn1946 [doi]
+PST - ppublish
+SO  - Nat Neurosci. 2007 Sep;10(9):1125-7. doi: 10.1038/nn1946. Epub 2007 Jul 29.
+
+PMID- 16709633
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20060926
+LR  - 20181113
+IS  - 0022-3751 (Print)
+IS  - 1469-7793 (Electronic)
+IS  - 0022-3751 (Linking)
+VI  - 574
+IP  - Pt 3
+DP  - 2006 Aug 1
+TI  - BDNF increases release probability and the size of a rapidly recycling vesicle 
+      pool within rat hippocampal excitatory synapses.
+PG  - 787-803
+AB  - Exerting its actions pre-, post- and peri-synaptically, brain-derived 
+      neurotrophic factor (BDNF) is one of the most potent modulators of hippocampal 
+      synaptic function. Here, we examined the effects of BDNF on a rapidly recycling 
+      pool (RRP) of vesicles within excitatory synapses. First, we estimated vesicular 
+      release in hippocampal cultures by performing FM4-64 imaging in terminals 
+      impinging on enhanced green fluorescent protein (eGFP)-labelled dendritic spines 
+      - a hallmark of excitatory synapses. Consistent with a modulation of the RRP, 
+      BDNF increased the evoked destaining rate of FM4-64 only during the initial phase 
+      of field stimulation. Multiphoton microscopy in acute hippocampal slices 
+      confirmed these observations by selectively imaging the RRP, which was loaded 
+      with FM1-43 by hyperosmotic shock. Slices exposed to BDNF showed an increase in 
+      the evoked and spontaneous rates of FM1-43 destaining from terminals in CA1 
+      stratum radiatum, mostly representing excitatory terminals of Schaffer 
+      collaterals. Variance-mean analysis of evoked EPSCs in CA1 pyramidal neurons 
+      further confirmed that release probability is increased in BDNF-treated slices, 
+      without changes in the number of independent release sites or average 
+      postsynaptic quantal amplitude. Because BDNF was absent during dye loading, 
+      imaging, destaining and whole-cell recordings, these results demonstrate that 
+      BDNF induces a long-lasting enhancement in the probability of transmitter release 
+      at hippocampal excitatory synapses by modulating the RRP. Since the endogenous 
+      BDNF scavenger TrkB-IgG prevented the enhancement of FM1-43 destaining rate 
+      caused by induction of long-term potentiation in acute hippocampal slices, the 
+      modulation of a rapidly recycling vesicle pool may underlie the role of BDNF in 
+      hippocampal long-term synaptic plasticity.
+FAU - Tyler, William J
+AU  - Tyler WJ
+AD  - Department of Neurobiology, SHEL-1002, University of Alabama at Birmingham, 1825 
+      University Blvd, Birmingham, AL 35294-2182, USA.
+FAU - Zhang, Xiao-lei
+AU  - Zhang XL
+FAU - Hartman, Kenichi
+AU  - Hartman K
+FAU - Winterer, Jochen
+AU  - Winterer J
+FAU - Muller, Wolfgang
+AU  - Muller W
+FAU - Stanton, Patric K
+AU  - Stanton PK
+FAU - Pozzo-Miller, Lucas
+AU  - Pozzo-Miller L
+LA  - eng
+GR  - P30 HD038985/HD/NICHD NIH HHS/United States
+GR  - NS44421/NS/NINDS NIH HHS/United States
+GR  - R01 NS040593/NS/NINDS NIH HHS/United States
+GR  - R56 NS044421/NS/NINDS NIH HHS/United States
+GR  - P30-HD38985/HD/NICHD NIH HHS/United States
+GR  - P01 HD038760/HD/NICHD NIH HHS/United States
+GR  - R01 NS044421/NS/NINDS NIH HHS/United States
+GR  - P01-HD38760/HD/NICHD NIH HHS/United States
+GR  - NS40593/NS/NINDS NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20060518
+PL  - England
+TA  - J Physiol
+JT  - The Journal of physiology
+JID - 0266262
+RN  - 0 (Brain-Derived Neurotrophic Factor)
+SB  - IM
+MH  - Animals
+MH  - Animals, Newborn
+MH  - Brain-Derived Neurotrophic Factor/*pharmacology
+MH  - Cells, Cultured
+MH  - Computer Simulation
+MH  - Excitatory Postsynaptic Potentials/drug effects/*physiology
+MH  - Hippocampus/drug effects/*physiology
+MH  - *Models, Neurological
+MH  - Models, Statistical
+MH  - Rats
+MH  - Rats, Sprague-Dawley
+MH  - Synaptic Transmission/drug effects/*physiology
+MH  - Synaptic Vesicles/drug effects/*physiology
+PMC - PMC1817733
+EDAT- 2006/05/20 09:00
+MHDA- 2006/09/27 09:00
+PMCR- 2007/08/01
+CRDT- 2006/05/20 09:00
+PHST- 2006/05/20 09:00 [pubmed]
+PHST- 2006/09/27 09:00 [medline]
+PHST- 2006/05/20 09:00 [entrez]
+PHST- 2007/08/01 00:00 [pmc-release]
+AID - jphysiol.2006.111310 [pii]
+AID - 10.1113/jphysiol.2006.111310 [doi]
+PST - ppublish
+SO  - J Physiol. 2006 Aug 1;574(Pt 3):787-803. doi: 10.1113/jphysiol.2006.111310. Epub 
+      2006 May 18.
+
+PMID- 14500767
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20040923
+LR  - 20181113
+IS  - 0022-3751 (Print)
+IS  - 1469-7793 (Electronic)
+IS  - 0022-3751 (Linking)
+VI  - 553
+IP  - Pt 2
+DP  - 2003 Dec 1
+TI  - Miniature synaptic transmission and BDNF modulate dendritic spine growth and form 
+      in rat CA1 neurones.
+PG  - 497-509
+AB  - The refinement and plasticity of neuronal connections require synaptic activity 
+      and neurotrophin signalling; their specific contributions and interplay are, 
+      however, poorly understood. We show here that brain-derived neurotrophic factor 
+      (BDNF) increased spine density in apical dendrites of CA1 pyramidal neurones in 
+      organotypic slice cultures prepared from postnatal rat hippocampal slices. This 
+      effect was observed also in the absence of action potentials, and even when 
+      miniature synaptic transmission was inhibited with botulinum neurotoxin C 
+      (BoNT/C). There were, however, marked differences in the morphology of individual 
+      spines induced by BDNF across these different levels of spontaneous ongoing 
+      synaptic activity. During both normal synaptic transmission, and when action 
+      potentials were blocked with TTX, BDNF increased the proportion of stubby, type-I 
+      spines. However, when SNARE-dependent vesicular release was inhibited with 
+      BoNT/C, BDNF increased the proportion of thin, type-III spines. Our results 
+      indicate that BDNF increases spine density irrespective of the levels of synaptic 
+      transmission. In addition, miniature synaptic transmission provides sufficient 
+      activity for the functional translation of BDNF-triggered spinogenesis into 
+      clearly defined morphological spine types, favouring those spines potentially 
+      responsible for coordinated Ca2+ transients thought to mediate synaptic 
+      plasticity. We propose that BDNF/TrkB signalling represents a mechanism of 
+      expression of both morphological and physiological homeostatic plasticity in the 
+      hippocampus, leading to a more efficient synaptic information transfer across 
+      widespread levels of synaptic activity.
+FAU - Tyler, William J
+AU  - Tyler WJ
+AD  - Department of Neurobiology and Psychology, Civitan International Research Center, 
+      University of Alabama at Birmingham, Birmingham, AL 35294-0021, USA.
+FAU - Pozzo-Miller, Lucas
+AU  - Pozzo-Miller L
+LA  - eng
+GR  - P30 HD038985/HD/NICHD NIH HHS/United States
+GR  - R01 NS040593/NS/NINDS NIH HHS/United States
+GR  - P30-HD38985/HD/NICHD NIH HHS/United States
+GR  - R01-NS40593/NS/NINDS NIH HHS/United States
+GR  - P01 HD038760/HD/NICHD NIH HHS/United States
+GR  - P01-HD38760/HD/NICHD NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, U.S. Gov't, P.H.S.
+DEP - 20030918
+PL  - England
+TA  - J Physiol
+JT  - The Journal of physiology
+JID - 0266262
+RN  - 0 (Antigens, Surface)
+RN  - 0 (Brain-Derived Neurotrophic Factor)
+RN  - 0 (Nerve Tissue Proteins)
+RN  - 0 (SNARE Proteins)
+RN  - 0 (Syntaxin 1)
+RN  - 0 (Vesicular Transport Proteins)
+RN  - 4368-28-9 (Tetrodotoxin)
+RN  - 77521-29-0 (alpha-Amino-3-hydroxy-5-methyl-4-isoxazolepropionic Acid)
+RN  - EC 3.4.24.69 (Botulinum Toxins)
+RN  - FPM7829VMX (botulinum toxin type C)
+SB  - IM
+MH  - Action Potentials/drug effects
+MH  - Animals
+MH  - Antigens, Surface/metabolism
+MH  - Botulinum Toxins/pharmacology
+MH  - Brain-Derived Neurotrophic Factor/pharmacology/*physiology
+MH  - Dendrites/classification/*metabolism
+MH  - Excitatory Postsynaptic Potentials/physiology
+MH  - Hippocampus/*growth & development/physiology
+MH  - In Vitro Techniques
+MH  - Nerve Tissue Proteins/metabolism
+MH  - Neuronal Plasticity/physiology
+MH  - Neurons/drug effects/*physiology
+MH  - Rats
+MH  - SNARE Proteins
+MH  - Synaptic Transmission/*physiology
+MH  - Syntaxin 1
+MH  - Tetrodotoxin/pharmacology
+MH  - Vesicular Transport Proteins/physiology
+MH  - alpha-Amino-3-hydroxy-5-methyl-4-isoxazolepropionic Acid/pharmacology
+PMC - PMC2343578
+EDAT- 2003/09/23 05:00
+MHDA- 2004/09/24 05:00
+PMCR- 2004/12/01
+CRDT- 2003/09/23 05:00
+PHST- 2003/09/23 05:00 [pubmed]
+PHST- 2004/09/24 05:00 [medline]
+PHST- 2003/09/23 05:00 [entrez]
+PHST- 2004/12/01 00:00 [pmc-release]
+AID - jphysiol.2003.052639 [pii]
+AID - 10.1113/jphysiol.2003.052639 [doi]
+PST - ppublish
+SO  - J Physiol. 2003 Dec 1;553(Pt 2):497-509. doi: 10.1113/jphysiol.2003.052639. Epub 
+      2003 Sep 18.
+
+PMID- 12467374
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20030103
+LR  - 20250529
+IS  - 1073-8584 (Print)
+IS  - 1089-4098 (Electronic)
+IS  - 1073-8584 (Linking)
+VI  - 8
+IP  - 6
+DP  - 2002 Dec
+TI  - The role of neurotrophins in neurotransmitter release.
+PG  - 524-31
+AB  - The neurotrophins (NTs) have recently been shown to elicit pronounced effects on 
+      quantal neurotransmitter release at both central and peripheral nervous system 
+      synapses. Due to their activity-dependent release, as well as the subcellular 
+      localization of both protein and receptor, NTs are ideally suited to modify the 
+      strength of neuronal connections by "fine-tuning" synaptic activity through 
+      direct actions at presynaptic terminals. Here, using BDNF as a prototypical 
+      example, the authors provide an update of recent evidence demonstrating that NTs 
+      enhance quantal neurotransmitter release at synapses through presynaptic 
+      mechanisms. The authors further propose that a potential target for NT actions at 
+      presynaptic terminals is the mechanism by which terminals retrieve synaptic 
+      vesicles after exocytosis. Depending on the temporal demands placed on synapses 
+      during high-frequency synaptic transmission, synapses may use two alternative 
+      modes of synaptic vesicle retrieval, the conventional slow endosomal recycling or 
+      a faster rapid retrieval at the active zone, referred to as "kiss-and-run." By 
+      modulating Ca2+ microdomains associated with voltage-gated Ca2+ channels at 
+      active zones, NTs may elicit a switch from the slow to the fast mode of 
+      endocytosis of vesicles at presynaptic terminals during high-frequency synaptic 
+      transmission, allowing more reliable information transfer and neuronal signaling 
+      in the central nervous system.
+FAU - Tyler, William J
+AU  - Tyler WJ
+AD  - Department of Psychology, Civitan International Research Center. University of 
+      Alabama at Birmingham, Birmingham, Alabama 35294-0021, USA.
+FAU - Perrett, Stephen P
+AU  - Perrett SP
+FAU - Pozzo-Miller, Lucas D
+AU  - Pozzo-Miller LD
+LA  - eng
+GR  - P30 HD038985/HD/NICHD NIH HHS/United States
+GR  - R01 NS040593/NS/NINDS NIH HHS/United States
+GR  - EY-12782/EY/NEI NIH HHS/United States
+GR  - P01 HD038760/HD/NICHD NIH HHS/United States
+GR  - P01-HD38760/HD/NICHD NIH HHS/United States
+GR  - P30-HD38985/HD/NICHD NIH HHS/United States
+GR  - R01-NS40593/NS/NINDS NIH HHS/United States
+GR  - NRSA-09770/NR/NINR NIH HHS/United States
+GR  - R01 EY012782/EY/NEI NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, U.S. Gov't, P.H.S.
+PT  - Review
+PL  - United States
+TA  - Neuroscientist
+JT  - The Neuroscientist : a review journal bringing neurobiology, neurology and 
+      psychiatry
+JID - 9504819
+RN  - 0 (Brain-Derived Neurotrophic Factor)
+RN  - 0 (Nerve Growth Factors)
+RN  - 0 (Neurotransmitter Agents)
+SB  - IM
+MH  - Animals
+MH  - Brain-Derived Neurotrophic Factor/metabolism
+MH  - Humans
+MH  - Nerve Growth Factors/*metabolism
+MH  - Neurotransmitter Agents/*metabolism
+MH  - Synapses/*metabolism
+MH  - Synaptic Transmission/*physiology
+PMC - PMC2810653
+MID - NIHMS166553
+EDAT- 2002/12/07 04:00
+MHDA- 2003/01/07 04:00
+PMCR- 2010/01/25
+CRDT- 2002/12/07 04:00
+PHST- 2002/12/07 04:00 [pubmed]
+PHST- 2003/01/07 04:00 [medline]
+PHST- 2002/12/07 04:00 [entrez]
+PHST- 2010/01/25 00:00 [pmc-release]
+AID - 10.1177/1073858402238511 [doi]
+PST - ppublish
+SO  - Neuroscientist. 2002 Dec;8(6):524-31. doi: 10.1177/1073858402238511.
+
+PMID- 11404410
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20010712
+LR  - 20250529
+IS  - 1529-2401 (Electronic)
+IS  - 0270-6474 (Print)
+IS  - 0270-6474 (Linking)
+VI  - 21
+IP  - 12
+DP  - 2001 Jun 15
+TI  - BDNF enhances quantal neurotransmitter release and increases the number of docked 
+      vesicles at the active zones of hippocampal excitatory synapses.
+PG  - 4249-58
+AB  - Brain-derived neurotrophic factor (BDNF) is emerging as a key mediator of 
+      activity-dependent modifications of synaptic strength in the CNS. We investigated 
+      the hypothesis that BDNF enhances quantal neurotransmitter release by modulating 
+      the distribution of synaptic vesicles within presynaptic terminals using 
+      organotypic slice cultures of postnatal rat hippocampus. BDNF specifically 
+      increased the number of docked vesicles at the active zone of excitatory synapses 
+      on CA1 dendritic spines, with only a small increase in active zone size. In 
+      agreement with the hypothesis that an increased docked vesicle density enhances 
+      quantal neurotransmitter release, BDNF increased the frequency, but not the 
+      amplitude, of AMPA receptor-mediated miniature EPSCs (mEPSCs) recorded from CA1 
+      pyramidal neurons in hippocampal slices. Synapse number, independently estimated 
+      from dendritic spine density and electron microscopy measurements, was also 
+      increased after BDNF treatment, indicating that the actions of BNDF on mEPSC 
+      frequency can be partially attributed to an increased synaptic density. Our 
+      results further suggest that all these actions were mediated via tyrosine kinase 
+      B (TrkB) receptor activation, established by inhibition of plasma membrane 
+      tyrosine kinases with K-252a. These results provide additional evidence of a 
+      fundamental role of the BDNF-TrkB signaling cascade in synaptic transmission, as 
+      well as in cellular models of hippocampus-dependent learning and memory.
+FAU - Tyler, W J
+AU  - Tyler WJ
+AD  - Department of Neurobiology, University of Alabama at Birmingham, Birmingham, 
+      Alabama 35294-0021, USA.
+FAU - Pozzo-Miller, L D
+AU  - Pozzo-Miller LD
+LA  - eng
+GR  - P01 HD038760/HD/NICHD NIH HHS/United States
+GR  - R01 NS040593/NS/NINDS NIH HHS/United States
+GR  - P01-HD38760/HD/NICHD NIH HHS/United States
+GR  - R01-NS40593-01/NS/NINDS NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, U.S. Gov't, P.H.S.
+PL  - United States
+TA  - J Neurosci
+JT  - The Journal of neuroscience : the official journal of the Society for 
+      Neuroscience
+JID - 8102140
+RN  - 0 (Brain-Derived Neurotrophic Factor)
+RN  - 0 (Enzyme Inhibitors)
+RN  - 0 (Neurotransmitter Agents)
+RN  - 0 (Receptors, AMPA)
+RN  - 77521-29-0 (alpha-Amino-3-hydroxy-5-methyl-4-isoxazolepropionic Acid)
+RN  - EC 2.7.10.1 (Receptor, trkB)
+SB  - IM
+MH  - Animals
+MH  - Brain-Derived Neurotrophic Factor/*metabolism/pharmacology
+MH  - Dendrites/metabolism/ultrastructure
+MH  - Enzyme Inhibitors/pharmacology
+MH  - Excitatory Postsynaptic Potentials/drug effects
+MH  - Hippocampus/cytology/*metabolism
+MH  - In Vitro Techniques
+MH  - Neurotransmitter Agents/*metabolism
+MH  - Presynaptic Terminals/*metabolism
+MH  - Pyramidal Cells/drug effects/metabolism/ultrastructure
+MH  - Rats
+MH  - Rats, Sprague-Dawley
+MH  - Receptor, trkB/antagonists & inhibitors/metabolism
+MH  - Receptors, AMPA/metabolism
+MH  - Signal Transduction/drug effects/physiology
+MH  - Synapses/drug effects/*metabolism/ultrastructure
+MH  - Synaptic Vesicles/*metabolism/ultrastructure
+MH  - alpha-Amino-3-hydroxy-5-methyl-4-isoxazolepropionic Acid/metabolism/pharmacology
+PMC - PMC2806848
+MID - NIHMS166551
+EDAT- 2001/06/19 10:00
+MHDA- 2001/07/13 10:01
+PMCR- 2001/12/15
+CRDT- 2001/06/19 10:00
+PHST- 2001/06/19 10:00 [pubmed]
+PHST- 2001/07/13 10:01 [medline]
+PHST- 2001/06/19 10:00 [entrez]
+PHST- 2001/12/15 00:00 [pmc-release]
+AID - 21/12/4249 [pii]
+AID - 5297 [pii]
+AID - 10.1523/JNEUROSCI.21-12-04249.2001 [doi]
+PST - ppublish
+SO  - J Neurosci. 2001 Jun 15;21(12):4249-58. doi: 10.1523/JNEUROSCI.21-12-04249.2001.
+
+PMID- 1248964
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19760419
+LR  - 20190509
+IS  - 0021-8812 (Print)
+IS  - 0021-8812 (Linking)
+VI  - 42
+IP  - 1
+DP  - 1976 Jan
+TI  - Factors affecting progesterone concentration in cow's milk and dairy products.
+PG  - 155-9
+FAU - Ginther, O J
+AU  - Ginther OJ
+FAU - Nuti, L C
+AU  - Nuti LC
+FAU - Garcia, M C
+AU  - Garcia MC
+FAU - Wentworth, B C
+AU  - Wentworth BC
+FAU - Tyler, W J
+AU  - Tyler WJ
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, U.S. Gov't, P.H.S.
+PL  - United States
+TA  - J Anim Sci
+JT  - Journal of animal science
+JID - 8003002
+RN  - 0 (Fats)
+RN  - 4G7DS2Q64Y (Progesterone)
+RN  - 8029-34-3 (Butter)
+SB  - IM
+MH  - Animals
+MH  - Butter/analysis
+MH  - Cattle/*physiology
+MH  - Dairy Products/*analysis
+MH  - Fats/analysis
+MH  - Female
+MH  - Milk/*analysis
+MH  - Pregnancy
+MH  - Progesterone/*analysis/blood
+EDAT- 1976/01/01 00:00
+MHDA- 1976/01/01 00:01
+CRDT- 1976/01/01 00:00
+PHST- 1976/01/01 00:00 [pubmed]
+PHST- 1976/01/01 00:01 [medline]
+PHST- 1976/01/01 00:00 [entrez]
+AID - 10.2527/jas1976.421155x [doi]
+PST - ppublish
+SO  - J Anim Sci. 1976 Jan;42(1):155-9. doi: 10.2527/jas1976.421155x.
+
+PMID- 1166084
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19751211
+LR  - 20200930
+IS  - 0037-9727 (Print)
+IS  - 0037-9727 (Linking)
+VI  - 149
+IP  - 4
+DP  - 1975 Sep
+TI  - Comparison of radioimmunoassay and gas-liquid chromatography analyses of 
+      progesterone concentrations in cow's milk.
+PG  - 877-80
+AB  - Progesterone concentrations in milk were not significantly different when 
+      quantitated by different methods (RIA vs. GLC). There was a significant day 
+      effect (P less than 0.05) on milk progesterone level due apparently to gradually 
+      decreasing values as pregnancy advanced over days 30, 120 and 210. The means for 
+      the percent fat content were different (P less than 0.05) for all comparisons 
+      among four times of collection (immediately premilking, milking pool, immediately 
+      postmilking, and 3 hr postmilking). For progesterone concentration, the main 
+      effect of time and the three-way interaction (time times antiserum times 
+      purification method) were significant (P less than 0.005); all other main effects 
+      and interactions were not significant. Within each of 4 assay groups (2 antisera 
+      times 2 purifications), the concentration of progesterone was greater (P less 
+      than 0.05) for the samples which were collected immediately postmilking than for 
+      any of the other times of collection. The three-way interaction seemed due 
+      primarily to difference in progesterone determinations among the four assay 
+      groups in the samples which were taken immediately postmilking. Over all milk 
+      samples within each assay group, the percent fat content and the concentration of 
+      progesterone were positively correlated (r = 0.71, P less than 0.01).
+FAU - Nuti, L C
+AU  - Nuti LC
+FAU - Wenthworth, B C
+AU  - Wenthworth BC
+FAU - Karavolas, H J
+AU  - Karavolas HJ
+FAU - Tyler, W J
+AU  - Tyler WJ
+FAU - Ginther, O J
+AU  - Ginther OJ
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+PL  - United States
+TA  - Proc Soc Exp Biol Med
+JT  - Proceedings of the Society for Experimental Biology and Medicine. Society for 
+      Experimental Biology and Medicine (New York, N.Y.)
+JID - 7505892
+RN  - 0 (Antibodies)
+RN  - 0 (Lipids)
+RN  - 4G7DS2Q64Y (Progesterone)
+SB  - IM
+MH  - Animals
+MH  - Antibodies
+MH  - Cattle
+MH  - Chromatography, Gas/*methods
+MH  - Diestrus
+MH  - Female
+MH  - Goats/immunology
+MH  - Lipids/adverse effects
+MH  - Milk/*analysis
+MH  - Pregnancy
+MH  - Progesterone/*analysis
+MH  - Radioimmunoassay/*methods
+MH  - Sheep/immunology
+EDAT- 1975/09/01 00:00
+MHDA- 1975/09/01 00:01
+CRDT- 1975/09/01 00:00
+PHST- 1975/09/01 00:00 [pubmed]
+PHST- 1975/09/01 00:01 [medline]
+PHST- 1975/09/01 00:00 [entrez]
+AID - 10.3181/00379727-149-38917 [doi]
+PST - ppublish
+SO  - Proc Soc Exp Biol Med. 1975 Sep;149(4):877-80. doi: 10.3181/00379727-149-38917.
+
+PMID- 4834443
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19740823
+LR  - 20200930
+IS  - 0037-9727 (Print)
+IS  - 0037-9727 (Linking)
+VI  - 146
+IP  - 2
+DP  - 1974 Jun
+TI  - Progesterone concentration in milk and blood during pregnancy in cows.
+PG  - 354-7
+FAU - Ginther, O J
+AU  - Ginther OJ
+FAU - Nuti, L
+AU  - Nuti L
+FAU - Wentworth, B C
+AU  - Wentworth BC
+FAU - Tyler, W J
+AU  - Tyler WJ
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - Proc Soc Exp Biol Med
+JT  - Proceedings of the Society for Experimental Biology and Medicine. Society for 
+      Experimental Biology and Medicine (New York, N.Y.)
+JID - 7505892
+RN  - 10028-17-8 (Tritium)
+RN  - 4G7DS2Q64Y (Progesterone)
+SB  - IM
+MH  - Animals
+MH  - *Cattle
+MH  - Chromatography
+MH  - Female
+MH  - Gestational Age
+MH  - Milk/*analysis
+MH  - Pregnancy
+MH  - *Pregnancy, Animal
+MH  - Progesterone/analysis/*blood
+MH  - Radioimmunoassay
+MH  - Sheep/immunology
+MH  - Tritium
+EDAT- 1974/06/01 00:00
+MHDA- 1974/06/01 00:01
+CRDT- 1974/06/01 00:00
+PHST- 1974/06/01 00:00 [pubmed]
+PHST- 1974/06/01 00:01 [medline]
+PHST- 1974/06/01 00:00 [entrez]
+AID - 10.3181/00379727-146-38103 [doi]
+PST - ppublish
+SO  - Proc Soc Exp Biol Med. 1974 Jun;146(2):354-7. doi: 10.3181/00379727-146-38103.
+
+PMID- 14195711
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19961201
+LR  - 20190724
+IS  - 0022-4251 (Print)
+IS  - 0022-4251 (Linking)
+VI  - 8
+DP  - 1964 Aug
+TI  - SOME PITUITARY-OVARIAN RELATIONSHIPS IN THE PERIPARTURIENT COW.
+PG  - 85-90
+FAU - LABHSETWAR, A P
+AU  - LABHSETWAR AP
+FAU - COLLINS, W E
+AU  - COLLINS WE
+FAU - TYLER, W J
+AU  - TYLER WJ
+FAU - CASIDA, L E
+AU  - CASIDA LE
+LA  - eng
+PT  - Journal Article
+PL  - England
+TA  - J Reprod Fertil
+JT  - Journal of reproduction and fertility
+JID - 0376367
+RN  - 4G7DS2Q64Y (Progesterone)
+RN  - 9002-67-9 (Luteinizing Hormone)
+RN  - 9002-68-0 (Follicle Stimulating Hormone)
+RN  - PQ6CK8PD0R (Ascorbic Acid)
+SB  - OM
+MH  - Animals
+MH  - *Ascorbic Acid
+MH  - Cattle
+MH  - *Corpus Luteum
+MH  - *Estrus
+MH  - Female
+MH  - *Follicle Stimulating Hormone
+MH  - Humans
+MH  - *Labor, Obstetric
+MH  - *Luteinizing Hormone
+MH  - *Ovarian Follicle
+MH  - *Ovary
+MH  - *Pharmacology
+MH  - *Physiology
+MH  - *Pituitary Gland
+MH  - Pregnancy
+MH  - *Pregnancy, Animal
+MH  - *Progesterone
+MH  - *Research
+OTO - NLM
+OT  - *ASCORBIC ACID
+OT  - *CATTLE
+OT  - *CORPUS LUTEUM
+OT  - *ESTRUS
+OT  - *EXPERIMENTAL LAB STUDY
+OT  - *FSH
+OT  - *GRAAFIAN FOLLICLE
+OT  - *LABOR
+OT  - *LH
+OT  - *OVARY
+OT  - *PHARMACOLOGY
+OT  - *PHYSIOLOGY
+OT  - *PITUITARY GLAND
+OT  - *PREGNANCY
+OT  - *PREGNANCY, ANIMAL
+OT  - *PROGESTERONE
+EDAT- 1964/08/01 00:00
+MHDA- 1964/08/01 00:01
+CRDT- 1964/08/01 00:00
+PHST- 1964/08/01 00:00 [pubmed]
+PHST- 1964/08/01 00:01 [medline]
+PHST- 1964/08/01 00:00 [entrez]
+AID - 10.1530/jrf.0.0080085 [doi]
+PST - ppublish
+SO  - J Reprod Fertil. 1964 Aug;8:85-90. doi: 10.1530/jrf.0.0080085.
+
+PMID- 14195710
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19961201
+LR  - 20190724
+IS  - 0022-4251 (Print)
+IS  - 0022-4251 (Linking)
+VI  - 8
+DP  - 1964 Aug
+TI  - EFFECT OF PROGESTERONE AND OXYTOCIN ON THE PITUITARY-OVARIAN RELATIONSHIP IN 
+      HEIFERS.
+PG  - 77-83
+FAU - LABHSETWAR, A P
+AU  - LABHSETWAR AP
+FAU - COLLINS, W E
+AU  - COLLINS WE
+FAU - TYLER, W J
+AU  - TYLER WJ
+FAU - CASIDA, L E
+AU  - CASIDA LE
+LA  - eng
+PT  - Journal Article
+PL  - England
+TA  - J Reprod Fertil
+JT  - Journal of reproduction and fertility
+JID - 0376367
+RN  - 4G7DS2Q64Y (Progesterone)
+RN  - 50-56-6 (Oxytocin)
+RN  - 9002-67-9 (Luteinizing Hormone)
+RN  - 9002-68-0 (Follicle Stimulating Hormone)
+RN  - PQ6CK8PD0R (Ascorbic Acid)
+SB  - OM
+MH  - Animals
+MH  - *Ascorbic Acid
+MH  - Cattle
+MH  - *Corpus Luteum
+MH  - *Estrus
+MH  - Female
+MH  - *Follicle Stimulating Hormone
+MH  - Humans
+MH  - *Luteinizing Hormone
+MH  - *Ovarian Follicle
+MH  - *Ovary
+MH  - *Oxytocin
+MH  - *Pharmacology
+MH  - *Physiology
+MH  - *Pituitary Gland
+MH  - *Progesterone
+MH  - Rats
+MH  - *Research
+OTO - NLM
+OT  - *ASCORBIC ACID
+OT  - *CATTLE
+OT  - *CORPUS LUTEUM
+OT  - *ESTRUS
+OT  - *EXPERIMENTAL LAB STUDY
+OT  - *FSH
+OT  - *GRAAFIAN FOLLICLE
+OT  - *LH
+OT  - *OVARY
+OT  - *OXYTOCIN
+OT  - *PHARMACOLOGY
+OT  - *PHYSIOLOGY
+OT  - *PITUITARY GLAND
+OT  - *PROGESTERONE
+OT  - *RATS
+EDAT- 1964/08/01 00:00
+MHDA- 1964/08/01 00:01
+CRDT- 1964/08/01 00:00
+PHST- 1964/08/01 00:00 [pubmed]
+PHST- 1964/08/01 00:01 [medline]
+PHST- 1964/08/01 00:00 [entrez]
+AID - 10.1530/jrf.0.0080077 [doi]
+PST - ppublish
+SO  - J Reprod Fertil. 1964 Aug;8:77-83. doi: 10.1530/jrf.0.0080077.
